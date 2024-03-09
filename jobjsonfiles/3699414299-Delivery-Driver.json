@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Delivery Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Logistics",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Order Entry",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Warehouse Duties",
+      "experience": 5
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Local Driving",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Forklift Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Bilingual Communication (English/Spanish)",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Enter orders at the sales counter and process customer transactions"
+    },
+    {
+      "duty": "Perform warehouse duties such as stocking shelves and shipping/receiving"
+    },
+    {
+      "duty": "Load and unload delivery vehicles and deliver products to customers and branch locations"
+    },
+    {
+      "duty": "Conduct pre-trip inspections, secure loads, and adhere to DOT/CDL regulations"
+    },
+    {
+      "duty": "Follow safety regulations and guidelines, including FMCSA regulations"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Basic computer knowledge and acceptable driving record"
+    }
+  ]
+}

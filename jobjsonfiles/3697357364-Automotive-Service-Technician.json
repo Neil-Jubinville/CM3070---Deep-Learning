@@ -1,0 +1,105 @@
+{
+  "meta": [
+    {
+      "job_title": "Automotive Service Technician",
+      "job_category": "Automotive",
+      "job_class": "Technician",
+      "sector": "Automotive",
+      "salary": 47000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Automotive Repair",
+      "experience": 3
+    },
+    {
+      "skill": "Diagnostic Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "ASE Certification",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Tire Service",
+      "experience": 3
+    },
+    {
+      "skill": "Brake Service",
+      "experience": 3
+    },
+    {
+      "skill": "Fluid Service",
+      "experience": 3
+    },
+    {
+      "skill": "Air Conditioning Inspection",
+      "experience": 3
+    },
+    {
+      "skill": "Electrical Inspection",
+      "experience": 3
+    },
+    {
+      "skill": "Oil Changes",
+      "experience": 3
+    },
+    {
+      "skill": "Alignments",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform diagnostic activities and service/repair automotive systems according to company procedures."
+    },
+    {
+      "duty": "Road test automobiles, perform inspections, and explain diagnosis/repairs to non-mechanical individuals."
+    },
+    {
+      "duty": "Keep store management informed of mechanical repair problems and maintain proficiency in automotive diagnosis and repair techniques."
+    },
+    {
+      "duty": "Maintain service center standards and compliance with safety policies and OSHA requirements."
+    },
+    {
+      "duty": "Assist in training newly employed Vehicle Service Technicians and provide on-the-job guidance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "3 years of automotive repair experience, completion of Vocational-Technical School program in a related field, or demonstrated skills via third party certificates/assessment"
+    },
+    {
+      "credential": "A.S.E. certification in at least 3 (three) of A1-A8 is preferred. Will accept equivalent external qualifications or training certifications."
+    },
+    {
+      "credential": "Valid automobile driver\u2019s license at all times"
+    }
+  ]
+}

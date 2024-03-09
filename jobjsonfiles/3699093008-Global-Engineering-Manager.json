@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Global Engineering Manager",
+      "job_category": "Software Engineering",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for the tactical delivery of features within assigned domain teams."
+    },
+    {
+      "duty": "Lead one or more domain teams using Node, Lambdas, Microservices, React/React Native, etc."
+    },
+    {
+      "duty": "Participate in meetings to review product requirements, clarify expected outcomes, and provide estimates for completion."
+    },
+    {
+      "duty": "Identify and implement ideas to improve developer efficiency and velocity."
+    },
+    {
+      "duty": "Work with team leads to document technical debt and roadmap requirements."
+    },
+    {
+      "duty": "Facilitate and assign work to conduct root cause analysis of system issues and implement corrective solutions."
+    },
+    {
+      "duty": "Create and perform continuous analysis of team performance and propose areas of improvement."
+    },
+    {
+      "duty": "Work to align on technology being used on teams, determine standards, and refine processes."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Technology Stack (Node, React, etc.)",
+      "experience": 5
+    },
+    {
+      "skill": "Scrum Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Proficiency (AWS preferred)",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Software Design Patterns",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Centricity",
+      "experience": 5
+    },
+    {
+      "skill": "Jira, Confluence, and GitHub",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 175,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science or relevant field (Master\u2019s preferred)"
+    }
+  ]
+}

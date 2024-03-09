@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Engineering",
+      "job_class": "Software Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Go Programming Language",
+      "experience": 5
+    },
+    {
+      "skill": "Rust Programming Language",
+      "experience": 5
+    },
+    {
+      "skill": "Java Programming Language",
+      "experience": 5
+    },
+    {
+      "skill": "Concurrent Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Docker",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "API-Driven Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Event-Based Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Linux",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Computing",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 5
+    },
+    {
+      "skill": "Messaging Patterns",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, deliver, and support features in a highly concurrent, multi-tenant contact center platform at cloud scale"
+    },
+    {
+      "duty": "Collaborate with a talented team to build scalable, reliable, and observable applications"
+    },
+    {
+      "duty": "Solve challenging technical problems in creative and elegant ways"
+    },
+    {
+      "duty": "Work on a 24/7 basis with globally distributed systems"
+    },
+    {
+      "duty": "Interact with a diverse group of people, both technical and non-technical"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor degree or equivalent experience (Master degree preferred)"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Stylist/Barber",
+      "job_category": "Salon Services",
+      "job_class": "Stylist/Barber",
+      "sector": "Salon Industry",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Hair Cutting",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Hair Coloring",
+      "experience": 2
+    },
+    {
+      "skill": "Styling",
+      "experience": 3
+    },
+    {
+      "skill": "Product Sales",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide high-quality hair cutting and styling services to clients with a focus on customer satisfaction."
+    },
+    {
+      "duty": "Engage in hair coloring, treatments, and other salon services based on client preferences."
+    },
+    {
+      "duty": "Offer expert advice on hair care and styling products, contributing to salon product sales."
+    },
+    {
+      "duty": "Maintain a clean and organized work environment and comply with salon regulations and hygiene standards."
+    },
+    {
+      "duty": "Develop and maintain positive relationships with clients, providing exceptional customer service and fostering repeat business."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Cosmetology License or Certification"
+    }
+  ]
+}

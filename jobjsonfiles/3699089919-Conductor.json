@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Conductor",
+      "job_category": "Transportation",
+      "job_class": "Conductor",
+      "sector": "Transportation",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Train Operations",
+      "experience": 5
+    },
+    {
+      "skill": "Railcar Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Awareness",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 5
+    },
+    {
+      "skill": "Physical Stamina",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Safely switch railcars and ensure safe train movement."
+    },
+    {
+      "duty": "Obtain and act on oral or written instructions using various communication devices."
+    },
+    {
+      "duty": "Monitor, report daily work, and judge speed and clearance distance of cars."
+    },
+    {
+      "duty": "Operate track switches and derails to change train routing within yards or on road."
+    },
+    {
+      "duty": "Inspect cars per federal regulations and observe passing train conditions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED equivalent"
+    }
+  ]
+}

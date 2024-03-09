@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "job_title": "Clinical Lab Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 19,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Specimen Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Instrumentation Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 2
+    },
+    {
+      "skill": "Lab Equipment Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Record Keeping",
+      "experience": 2
+    },
+    {
+      "skill": "Standard Operating Procedures",
+      "experience": 2
+    },
+    {
+      "skill": "Biological Specimen Identification",
+      "experience": 2
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Color Blindness Test",
+      "experience": 2
+    },
+    {
+      "skill": "Overtime Flexibility",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Receive and sort clinical lab specimens"
+    },
+    {
+      "duty": "Prepare specimens for testing and analysis"
+    },
+    {
+      "duty": "Scan and/or data entry of specimen and patient information"
+    },
+    {
+      "duty": "Ensure all lab equipment is working properly and perform minor instrumentation maintenance"
+    },
+    {
+      "duty": "Troubleshoot any specimen related issues"
+    },
+    {
+      "duty": "Replenish test bench supplies as needed"
+    },
+    {
+      "duty": "Maintain a clean and safe work environment"
+    },
+    {
+      "duty": "Complete record logs and other administrative duties as requested"
+    },
+    {
+      "duty": "Follow all Standard Operating Procedures to ensure safety and quality standards"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent w/1-2 years of experience"
+    }
+  ]
+}

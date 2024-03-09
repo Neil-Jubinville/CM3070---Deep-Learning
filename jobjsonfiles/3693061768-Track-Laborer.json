@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Track Laborer",
+      "job_category": "Construction",
+      "job_class": "Laborer",
+      "sector": "Construction",
+      "salary": 38000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Labor",
+      "experience": 5
+    },
+    {
+      "skill": "Hand Tool Usage",
+      "experience": 3
+    },
+    {
+      "skill": "Construction Equipment Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform physical labor to construct, alter, repair, maintain, and demolish railroad tracks and associated structures using hand tools and equipment."
+    },
+    {
+      "duty": "Efficiently carry, place, connect, and disconnect track materials and railroad components using appropriate hand tools."
+    },
+    {
+      "duty": "Maintain safety standards at the job site and participate in safety meetings as part of a local Line Maintenance crew."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 70,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED"
+    }
+  ]
+}

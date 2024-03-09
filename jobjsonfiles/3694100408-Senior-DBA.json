@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior DBA",
+      "job_category": "Information Technology",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 125000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Database Management",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "RESTful API",
+      "experience": 5
+    },
+    {
+      "skill": "Database Performance Optimization",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee the maintenance of multiple databases to ensure optimal performance, security, and reliability."
+    },
+    {
+      "duty": "Regularly monitor database health, identifying bottlenecks, and recommending actionable solutions."
+    },
+    {
+      "duty": "Refine and refactor our database structures to align with best practices and enhance the ease of data access for backend developers."
+    },
+    {
+      "duty": "Advise on and implement modern database best practices to elevate our platform's reliability and efficiency."
+    },
+    {
+      "duty": "Collaborate with teams to write and optimize complex database queries and migrations."
+    },
+    {
+      "duty": "Spearhead initiatives to minimize downtime during database maintenance, ensuring a seamless experience for our users."
+    },
+    {
+      "duty": "Provide mentoring and training to team members on database insights and optimizations."
+    },
+    {
+      "duty": "Participate in interviews of candidates to help us maintain a team of the best talent in the industry."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field (Master's preferred)"
+    }
+  ]
+}

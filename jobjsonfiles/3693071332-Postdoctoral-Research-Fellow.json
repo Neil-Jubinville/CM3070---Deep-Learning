@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Postdoctoral Research Fellow",
+      "job_category": "Research",
+      "job_class": "Fellow",
+      "sector": "Medical Physics",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Image Processing",
+      "experience": 3
+    },
+    {
+      "skill": "Programming (MATLAB/Python/C/C++)",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Physics",
+      "experience": 1
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 1
+    },
+    {
+      "skill": "High-Performance Computing",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Research and develop analytical and AI-driven medical image reconstruction, registration, synthesis, and segmentation techniques for image-guided radiotherapy."
+    },
+    {
+      "duty": "Develop statistical and AI-driven models for phase-resolved, dynamic, and real-time CT/MR imaging and anatomical motion."
+    },
+    {
+      "duty": "Create algorithms and workflows for image-guided adaptive radiation therapy for proton and photon treatments."
+    },
+    {
+      "duty": "Develop automatic quality assurance techniques for MR-guided adaptive radiotherapy using MR-LINACs."
+    },
+    {
+      "duty": "Design dual-model, dynamic, and anthropomorphic phantoms through 3D printing and casting."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Ph.D. in Physics, Electrical Engineering, Biomedical Engineering, Computer Science, Applied Mathematics, or related disciplines"
+    }
+  ]
+}

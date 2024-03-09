@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Care Tech",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Assisting",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Admission/Discharge Process",
+      "experience": 1
+    },
+    {
+      "skill": "Vital Signs Monitoring",
+      "experience": 1
+    },
+    {
+      "skill": "Hygiene Care",
+      "experience": 1
+    },
+    {
+      "skill": "Nutritional Care",
+      "experience": 1
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide direct and indirect patient care, including nutritional, skin integrity, elimination, and hygiene needs."
+    },
+    {
+      "duty": "Assist with admission, discharge, and transfer of patients."
+    },
+    {
+      "duty": "Take and monitor patient vital signs."
+    },
+    {
+      "duty": "Ensure cleanliness and stocking of equipment and supplies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 100,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certified Nursing Assistant (CNA) certification or one (1) year experience as a medical assistant/technician in a health-related facility."
+    }
+  ]
+}

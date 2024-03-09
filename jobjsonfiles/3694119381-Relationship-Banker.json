@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Relationship Banker",
+      "job_category": "Banking",
+      "job_class": "Banker",
+      "sector": "Finance",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Retail Banking Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Financial Services Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Consultative Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Technology Integration",
+      "experience": 2
+    },
+    {
+      "skill": "Compliance",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver exceptional customer experience by acting with a customer-first attitude."
+    },
+    {
+      "duty": "Acquire, manage, and retain meaningful relationships with customers, using financial knowledge to offer thoughtful solutions."
+    },
+    {
+      "duty": "Share and set up self-service options to access accounts 24/7."
+    },
+    {
+      "duty": "Proactively meet with customers, in person and over the phone, to build lasting relationships and discover financial needs."
+    },
+    {
+      "duty": "Partner with Specialists to connect customers to experts who can help with specialized financial needs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Degree (Bachelor's degree preferred)"
+    },
+    {
+      "credential": "SIE Exam, FINRA Series 6/7, state registration, and Life licenses required within 180 days of hire."
+    },
+    {
+      "credential": "Compliance with Dodd Frank/Truth in Lending Act"
+    }
+  ]
+}

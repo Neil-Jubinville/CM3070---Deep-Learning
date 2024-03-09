@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Site Reliability Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Full-Stack Software Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Monitoring Solutions Development",
+      "experience": 5
+    },
+    {
+      "skill": "Front-End/User-Interfaces Development",
+      "experience": 5
+    },
+    {
+      "skill": "Automation Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Code Management and Deployment Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Object-Oriented Design Principles",
+      "experience": 5
+    },
+    {
+      "skill": "Restful APIs Development",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Computing and Infrastructure",
+      "experience": 5
+    },
+    {
+      "skill": "Web Caching and Networking Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Security Best Practices",
+      "experience": 5
+    },
+    {
+      "skill": "Code Management Practices",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build, implement, and maintain tools and automation using experience as a full-stack software engineer."
+    },
+    {
+      "duty": "Design and implement front-end/user-interfaces to assist Systems Engineers and other IT professionals in using monitoring systems efficiently and reliably."
+    },
+    {
+      "duty": "Maintain high level of production environment availability using automation and monitoring tools capable of completing both front-end and back-end work."
+    },
+    {
+      "duty": "Combine software engineering and site reliability engineering best practices to build and run large-scale, distributed, fault-tolerant systems."
+    },
+    {
+      "duty": "Write code, complete programming, review peers\u2019 code, write documentation, write tests, perform testing, and debug code in lower and production environments."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science or similar field or related work experience."
+    }
+  ]
+}

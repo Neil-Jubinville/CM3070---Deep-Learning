@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Surgical Technologist",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Surgical Equipment Knowledge",
+      "experience": 1
+    },
+    {
+      "skill": "Operating Room Care",
+      "experience": 1
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "Surgical Technology",
+      "experience": 1
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Procedures Knowledge",
+      "experience": 1
+    },
+    {
+      "skill": "Environmental Sterility & Safety",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Facilitate patient care by assisting the surgeon before, during, and after surgical procedures."
+    },
+    {
+      "duty": "Plan, set up, perform, and clean up the assigned surgical procedure as a circulator and as a scrub tech."
+    },
+    {
+      "duty": "Demonstrate knowledge of and the ability to apply the Principles of Asepsis in creating and maintaining the sterile field."
+    },
+    {
+      "duty": "Perform sharp, sponge, and instrument counts according to policy."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certified Surgical Technologist - National Board of Surgical Technology and Surgical Assisting (NBSTSA)"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Emergency Procedures",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Record Management",
+      "experience": 3
+    },
+    {
+      "skill": "Interdisciplinary Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Health Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Aseptic Technique",
+      "experience": 5
+    },
+    {
+      "skill": "IV Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provides professional nursing skills in a defined outpatient clinic setting. Provides patient care activities to patients of diverse ages as assigned."
+    },
+    {
+      "duty": "Demonstrates ability to recognize and assess urgent/emergency needs of patients and initiate appropriate emergency procedures as needed."
+    },
+    {
+      "duty": "Follows clinic procedure/protocol for the organization and management of the electronic medical record. Acts to facilitate interdisciplinary communication."
+    },
+    {
+      "duty": "Assesses learning needs of the patient and significant others. Gives accurate and complete information to patients and family."
+    },
+    {
+      "duty": "Assists with a variety of procedures, exams and/or operation of diagnostic equipment as assigned."
+    },
+    {
+      "duty": "Applies professional nursing skills in the provision of preventive health maintenance and treatment of ill and injured patients utilizing the four aspects of the nursing process: assessment, planning, implementation and evaluation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 90,
+      "introvert_extrovert": 130
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Possession of a current RN License"
+    },
+    {
+      "credential": "Basic Life Support (BLS) for the Healthcare Provider certified or obtained within three (3) months of hire"
+    }
+  ]
+}

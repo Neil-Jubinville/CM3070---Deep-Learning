@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "System Development Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 160000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Linux Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Networking Fundamentals",
+      "experience": 5
+    },
+    {
+      "skill": "Programming (Python, Golang, Java, Ruby, C++)",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Debugging and Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Self-Motivation",
+      "experience": 5
+    },
+    {
+      "skill": "AWS DevOps Tool Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, implement, maintain, and deploy components that solve problems in a complex ecosystem."
+    },
+    {
+      "duty": "Work with multiple programming languages in the context of distributed systems and widely scaled web applications."
+    },
+    {
+      "duty": "Communicate effectively with both technical and non-technical individuals."
+    },
+    {
+      "duty": "Passion for problem-solving along with debugging and troubleshooting skills."
+    },
+    {
+      "duty": "Self-motivate and follow through on projects with attention to detail and passion."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Computer Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

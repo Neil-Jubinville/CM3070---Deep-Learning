@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Admin Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Administrative",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Support",
+      "experience": 2
+    },
+    {
+      "skill": "Billing",
+      "experience": 2
+    },
+    {
+      "skill": "Purchase Orders",
+      "experience": 2
+    },
+    {
+      "skill": "Computer Proficiency",
+      "experience": 2
+    },
+    {
+      "skill": "CRM Systems",
+      "experience": 2
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Hospitality",
+      "experience": 2
+    },
+    {
+      "skill": "Admin Support",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Routinely check orders for accuracy and invoice preparation"
+    },
+    {
+      "duty": "Processes invoices from vendors and maintains and tracks POs"
+    },
+    {
+      "duty": "Records equipment and customer contact information into CRM system"
+    },
+    {
+      "duty": "Acts as a phone receptionist for inbound calls and processes exhibit orders and payments"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma/GED"
+    }
+  ]
+}

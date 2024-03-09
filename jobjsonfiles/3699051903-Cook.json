@@ -1,0 +1,104 @@
+{
+  "meta": [
+    {
+      "job_title": "Cook",
+      "job_category": "Hospitality",
+      "job_class": "Cook",
+      "sector": "Food Service",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food Preparation",
+      "experience": 3
+    },
+    {
+      "skill": "Menu Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Sanitation Standards",
+      "experience": 3
+    },
+    {
+      "skill": "Kitchen Equipment Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Food Safety",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare, season, cook, and plate all hot food for cafeteria, patients, and catered events using standardized recipes while maintaining strict food safety and sanitation standards."
+    },
+    {
+      "duty": "Review menus and work orders to determine the type and quantities of food to be prepared for patients, cafeteria, and catered functions."
+    },
+    {
+      "duty": "Plan cooking schedules so foods will be ready at specified times."
+    },
+    {
+      "duty": "Confers with Production Manager/Executive Chef regarding modified diet prep and use of leftovers."
+    },
+    {
+      "duty": "Procure foodstuffs from the refrigerator, freezer, or other storage areas."
+    },
+    {
+      "duty": "Wash, trim, season, cook, measure, and mix food according to recipes and Production Manager/Executive Chef instructions."
+    },
+    {
+      "duty": "Use a variety of kitchen utensils and equipment such as mixers, grinders, etc."
+    },
+    {
+      "duty": "Utilize steamers, kettles, tilting skillets, conventional ovens, grills, fryers, and blast chillers in cooking, cooling, and preparation of food."
+    },
+    {
+      "duty": "Adjust heat control and timers on stoves, ovens, steam kettles, and grills according to instructions."
+    },
+    {
+      "duty": "Carve portions of meat, fish, fowl for individual servings."
+    },
+    {
+      "duty": "Assist in platting and lidding portioned foods."
+    },
+    {
+      "duty": "Maintain strict sanitary standards according to departmental policies and procedures, handling food appropriately, maintaining temperatures, cleaning workstations, etc."
+    },
+    {
+      "duty": "Follow HACCP methods for storing, cooking, preparing, and cooling potentially hazardous foods."
+    },
+    {
+      "duty": "Provide customer service with a respectful, flexible, knowledgeable, confident, professional, pleasant attitude, and be patient and helpful."
+    },
+    {
+      "duty": "Abide by the Dress Code."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent graduation from a formal technical school specializing in hotel or institutional cooking"
+    },
+    {
+      "credential": "ServSafe Certification"
+    }
+  ]
+}

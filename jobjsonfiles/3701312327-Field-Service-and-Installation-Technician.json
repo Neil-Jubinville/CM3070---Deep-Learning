@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Service and Installation Technician",
+      "job_category": "Field Service",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electro-Mechanical Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "PLC Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Training",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Diagnosis",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Installation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide routine maintenance, dispatched service and phone support."
+    },
+    {
+      "duty": "Build positive relationships with customers by providing outstanding and excellent services."
+    },
+    {
+      "duty": "Provide training to customers about product usage and maintenance."
+    },
+    {
+      "duty": "Manage on-site installation, repair, and maintenance tasks in a timely manner."
+    },
+    {
+      "duty": "Diagnose errors or technical problems and determine proper solutions."
+    },
+    {
+      "duty": "Produce timely and detailed service reports to the customer."
+    },
+    {
+      "duty": "Comprehend customer requirements and make appropriate recommendations."
+    },
+    {
+      "duty": "Maintain company certifications on electro-mechanical devices, automated storage equipment, and lift equipment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Electro-Mechanical Technical degree or certification."
+    }
+  ]
+}

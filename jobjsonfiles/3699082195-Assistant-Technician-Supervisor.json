@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Technician Supervisor",
+      "job_category": "Allied Health",
+      "job_class": "Supervisor",
+      "sector": "Radiology",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Radiologic Technology",
+      "experience": 5
+    },
+    {
+      "skill": "Supervisory Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Employee Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Coordinate delivery of health care to assist in diagnosis and treatment."
+    },
+    {
+      "duty": "Direct human and physical resources to achieve an established standard of care in radiologic sciences."
+    },
+    {
+      "duty": "Supervise technical services of an assigned area for maintenance of prescribed standards."
+    },
+    {
+      "duty": "Ensure technical adequacy of studies by evaluating accuracy of images, directing retakes, and demonstrating proper operation of equipment."
+    },
+    {
+      "duty": "Foster collaboration and guide the efforts of the team."
+    },
+    {
+      "duty": "Analyze market trends, customer behavior, and competitor activity to identify growth opportunities and refine strategies."
+    },
+    {
+      "duty": "Maintain knowledge of current trends and techniques in the field to enhance expertise."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current NYS license as a registered radiologic technologist."
+    },
+    {
+      "credential": "American Registry of Radiologic Technologist (ARRT) certification."
+    }
+  ]
+}

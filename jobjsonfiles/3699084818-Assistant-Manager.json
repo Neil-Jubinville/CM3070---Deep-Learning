@@ -1,0 +1,44 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Manager",
+      "job_category": "Fast Food",
+      "job_class": "Manager",
+      "sector": "Food Service",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for cost controls, inventory control, cash control, and customer relations while working a shift."
+    },
+    {
+      "duty": "Assist with basic operations procedures"
+    },
+    {
+      "duty": "Experience in employee development"
+    },
+    {
+      "duty": "Ability to demonstrate team member and food safety protocols"
+    },
+    {
+      "duty": "Excellent customer service skills"
+    },
+    {
+      "duty": "Ability to operate and troubleshoot technology"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Must be at least 18 years of age"
+    }
+  ]
+}

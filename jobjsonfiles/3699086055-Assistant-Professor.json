@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Professor",
+      "job_category": "Education",
+      "job_class": "Professor",
+      "sector": "Academia",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Research Development",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    },
+    {
+      "skill": "Grant Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Publication",
+      "experience": 5
+    },
+    {
+      "skill": "Teaching",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop independent research programs in wound healing and tissue regeneration that address key knowledge gaps in the field"
+    },
+    {
+      "duty": "Apply for and maintain an active extramural funding portfolio"
+    },
+    {
+      "duty": "Mentor postdocs, technicians, graduate, and undergraduate students in laboratory settings"
+    },
+    {
+      "duty": "Collaborate with other investigators in the department and across the university"
+    },
+    {
+      "duty": "Publish impactful original research."
+    },
+    {
+      "duty": "Teach in our medical school curriculum and in the graduate program"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "PhD degree in Biochemistry or in a related discipline and relevant postdoctoral experience with relevant publications in tissue injury, tissue regeneration and wound healing are required. Priority will be given to someone with a track record of current or pending NIH funding."
+    }
+  ]
+}

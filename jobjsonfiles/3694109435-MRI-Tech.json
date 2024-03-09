@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "MRI Tech",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Magnetic Resonance Imaging (MRI)",
+      "experience": 2
+    },
+    {
+      "skill": "Radiography",
+      "experience": 2
+    },
+    {
+      "skill": "Sterile Technique",
+      "experience": 2
+    },
+    {
+      "skill": "Data Manipulation",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Protocols",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing MRI procedures on a variety of patients, both invasive and non-invasive, utilizing sterile technique if necessary."
+    },
+    {
+      "duty": "Operating and manipulating complex MRI equipment and assisting physicians as needed."
+    },
+    {
+      "duty": "Manipulating computer data and images for interpretation, and reproducing them on film or utilizing a networking system for permanent storage."
+    },
+    {
+      "duty": "Functioning without constant supervision and taking responsibility for designated areas and procedures."
+    },
+    {
+      "duty": "Ensuring the safety of patients and staff in the MRI suite, and implementing patient MRI screening."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of a JRCERT accredited Radiography program."
+    },
+    {
+      "credential": "ARRT and/or ARMRIT registered in Magnetic Resonance Imaging."
+    },
+    {
+      "credential": "BLS certified."
+    },
+    {
+      "credential": "Preferred: Two (2) years experience in MRI."
+    },
+    {
+      "credential": "Required to be fully vaccinated for COVID-19 based on local, state, and federal law or regulations (unless a medical or religious exemption is approved)."
+    }
+  ]
+}

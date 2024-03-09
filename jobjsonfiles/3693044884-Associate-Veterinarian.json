@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Associate Veterinarian",
+      "job_category": "Veterinary",
+      "job_class": "Associate",
+      "sector": "Veterinary",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "General Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "Surgical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Preventive Care",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Tech Utilization",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide general medicine and surgical care for animals in a fast-paced environment."
+    },
+    {
+      "duty": "Emphasize preventive care and take a multi-disciplined approach to animal wellness."
+    },
+    {
+      "duty": "Collaborate with the veterinary health care team to provide exceptional medical care and customer service."
+    },
+    {
+      "duty": "Utilize technological advances to improve practice and patient care."
+    },
+    {
+      "duty": "Utilize techs to their fullest potential to assist in case management and daily hospital operations."
+    }
+  ]
+}

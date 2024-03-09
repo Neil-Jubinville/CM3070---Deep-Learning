@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "HUMAN RESOURCE ASSISTANT",
+      "job_category": "Human Resources",
+      "job_class": "Assistant",
+      "sector": "Human Resources",
+      "salary": 31000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "MS Office",
+      "experience": 2
+    },
+    {
+      "skill": "Database Management",
+      "experience": 2
+    },
+    {
+      "skill": "Administrative Duties",
+      "experience": 2
+    },
+    {
+      "skill": "Survey Creation",
+      "experience": 2
+    },
+    {
+      "skill": "Training Scheduling",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist with training class scheduling and ensuring proper classroom setup"
+    },
+    {
+      "duty": "Creating and delivering presentations using Excel, Access, and PowerPoint"
+    },
+    {
+      "duty": "Performing general administrative duties such as phone handling, ordering supplies, and making travel arrangements"
+    },
+    {
+      "duty": "Generate reports and maintain databases for provider credentialing"
+    },
+    {
+      "duty": "Assist with acquisition of contracting interest and maintenance of databases for provider contracts"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 90,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma/ GED or Associates degree or 2 years of College Coursework"
+    }
+  ]
+}

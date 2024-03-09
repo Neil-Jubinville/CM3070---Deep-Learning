@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Commercial Truck Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Logistics",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Safe Driving",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Hazardous Materials Endorsement",
+      "experience": 3
+    },
+    {
+      "skill": "Forklift Operation",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Safely operate a tractor-trailer combination, including doubles and triples, and provide excellent service to customers."
+    },
+    {
+      "duty": "Generate sales leads and load/unload freight."
+    },
+    {
+      "duty": "Pass a DOT drug test, work a flexible schedule, and maintain safe driving and operational practices."
+    },
+    {
+      "duty": "Ability to lift heavy objects, climb in/out of a tractor cab/trailer, operate heavy equipment and forklift, and transport hazardous/non-hazardous materials."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid Class A commercial driver's license and hazardous materials, tank vehicle, and doubles/triples endorsements within 90 days of employment."
+    }
+  ]
+}

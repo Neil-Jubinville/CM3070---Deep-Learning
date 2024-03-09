@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Structural Repair Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Aerospace",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Airframe Stress Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "FDT Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "NASTRA/FEMAP",
+      "experience": 3
+    },
+    {
+      "skill": "Siemens Solid Edge/NX",
+      "experience": 3
+    },
+    {
+      "skill": "CS/FAR Part 23",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Documentation Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Interfaces with Service Centers and operators to assess damage and coordinate structural damage, damage tolerance, and repair assessments."
+    },
+    {
+      "duty": "Designs major and minor repairs to metallic airframe structures for specific customer aircraft and standard repairs for aircraft Structural Repair Manual."
+    },
+    {
+      "duty": "Substantiates static and fatigue of major and minor repairs and modifications to metallic airframe structures using traditional and FE analysis methods, plus safe life and damage tolerant analysis."
+    },
+    {
+      "duty": "Analyzes structural suitability of specific airframes for life extension."
+    },
+    {
+      "duty": "Writes and reviews technical memos, procedure instructions, engineering reports, and analyses."
+    },
+    {
+      "duty": "Provides interpretation of technical documentation (SRM, AMM, CMM) in support of customers and Service Centers performing analysis tasks and repairs."
+    },
+    {
+      "duty": "Participates in regular exchange and coordinates technical issue resolution with Pilatus Aircraft OEM Engineering in Switzerland."
+    },
+    {
+      "duty": "Executes technical activities in accordance with Pilatus policies, procedures, and work instructions."
+    },
+    {
+      "duty": "Performs other duties and responsibilities as assigned by the Director of Engineering."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS degree in aeronautical or mechanical engineering (with a focus on structural analysis)"
+    },
+    {
+      "credential": "Familiarity with CS/FAR Part 23"
+    }
+  ]
+}

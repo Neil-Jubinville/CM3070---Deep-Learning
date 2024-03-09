@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Retail Salesperson",
+      "job_category": "Retail",
+      "job_class": "Sales Associate",
+      "sector": "Sales",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Complaint Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Point of Sale (POS) System",
+      "experience": 2
+    },
+    {
+      "skill": "Sales Promotion",
+      "experience": 2
+    },
+    {
+      "skill": "Store Maintenance",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Interacting with customers to sell tire products and automotive repair/maintenance services."
+    },
+    {
+      "duty": "Handling customer complaints, adjustments, and service needs."
+    },
+    {
+      "duty": "Recording customer invoices, credit tickets, and maintaining inventory accuracy."
+    },
+    {
+      "duty": "Assisting manager during store meetings and keeping teammates informed on competition activity."
+    },
+    {
+      "duty": "Opening/closing the store, cash control, asset protection, and unloading merchandise shipments."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

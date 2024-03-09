@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Biomedical Equipment Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Biomedical Equipment Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Imaging Equipment",
+      "experience": 5
+    },
+    {
+      "skill": "Preventive Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation Management",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "CRES Certification",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide technical support for the maintenance, calibration, and safety testing of medical imaging equipment across all locations."
+    },
+    {
+      "duty": "Independently work on specialized medical imaging equipment such as Radiographic, Fluoroscopic, Mammography, Nuclear Medicine, Cat Scanners, and Cardiac Catherization / Vascular Imaging Systems."
+    },
+    {
+      "duty": "Ensure accurate and timely documentation of all preventive maintenance and repairs to meet industry standards and compliance."
+    },
+    {
+      "duty": "Flexibility, customer service, and good communication skills are essential."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Electronics, Biomedical Engineering, or related field with CRES - Certified Radiology Equipment Specialist certification."
+    }
+  ]
+}

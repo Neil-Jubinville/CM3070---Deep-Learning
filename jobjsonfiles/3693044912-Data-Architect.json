@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Architect",
+      "job_category": "Information Technology",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Database Design",
+      "experience": 5
+    },
+    {
+      "skill": "Data Warehouse Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle RDBMS",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft SSIS/SSAS/SSRS",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop data warehouse architecture and relational database systems."
+    },
+    {
+      "duty": "Integrate and maintain Oracle RDBMS and Microsoft SSIS/SSAS/SSRS services."
+    },
+    {
+      "duty": "Analyze and report on data to support business decision-making."
+    },
+    {
+      "duty": "Demonstrate strong organizational skills and effective communication."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

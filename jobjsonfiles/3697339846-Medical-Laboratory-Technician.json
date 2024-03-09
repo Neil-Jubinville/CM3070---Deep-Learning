@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Laboratory Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Medical",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Laboratory Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Lab Technician Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Laboratory Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Method Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Lab Instrumentation Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Educational Assistance",
+      "experience": 3
+    },
+    {
+      "skill": "Reception Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Processes orders and obtains and distributes acceptable laboratory specimens and required information in a timely manner."
+    },
+    {
+      "duty": "Performs laboratory analysis and ensures the distribution of test information in a timely and efficient manner consistent with department and regulatory standards."
+    },
+    {
+      "duty": "Evaluates the validity of the entire testing process and consults with supervisory personnel for corrective action."
+    },
+    {
+      "duty": "Ensures proper functioning of laboratory instrumentation and methods. Troubleshoots and resolves malfunctions in methods and instruments."
+    },
+    {
+      "duty": "Actively participates in the development of new laboratory methods and/or special projects."
+    },
+    {
+      "duty": "Assists with educational activities and promptly resolves critical and problem prone situations."
+    },
+    {
+      "duty": "Professionally manages the reception process including: proper phone etiquette, timely and accurate handling of messages and answering general inquiries."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate degree in Medical Laboratory Sciences, Medical Lab Technician (MLT) certification by American Society of Clinical Pathology (ASCP) must be obtained within 6 months of hire, Clinical experience in a clinical laboratory as part of the associate degree program (preferred)"
+    }
+  ]
+}

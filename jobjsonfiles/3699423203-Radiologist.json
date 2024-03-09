@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Radiologist",
+      "job_category": "Healthcare",
+      "job_class": "Radiology",
+      "sector": "Healthcare",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Radiography",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 4
+    },
+    {
+      "skill": "Radiation Protection",
+      "experience": 4
+    },
+    {
+      "skill": "Diagnostic Imaging",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 4
+    },
+    {
+      "skill": "Healthcare Ethics",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform radiographic procedures and related techniques, producing images for interpretation by licensed practitioners."
+    },
+    {
+      "duty": "Supervise and evaluate radiology students assigned to them."
+    },
+    {
+      "duty": "Exercise professional judgment in the performance of services and maintain demeanor complementary to medical ethics."
+    },
+    {
+      "duty": "Provide patient care, assess patient conditions, and ensure patient safety and security."
+    },
+    {
+      "duty": "Operate X-ray equipment in accordance with State and Federal Codes, utilizing proper film, screen, film holders, grids, and exposure factors."
+    },
+    {
+      "duty": "Evaluate requisitions, provide patient care, and maintain patient dignity and modesty."
+    },
+    {
+      "duty": "Maintain patient care through standard precautions and transmission-based precautions, and assess patient conditions at regular intervals."
+    },
+    {
+      "duty": "Operate functions of HIS/RIS in accordance with Hospital and Department policy, pursue appropriate continuing education, and perform daily quality assurance activity."
+    },
+    {
+      "duty": "Acquire 12 educational credits annually and perform mechanical and electrical safety checks on applicable equipment prior to use each day."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current New York State licensure to practice Diagnostic Radiography."
+    },
+    {
+      "credential": "Registered with the American Registry of Radiologic Technologists (ARRT). (Employees hired prior to January 2001 are excluded from this requirement)"
+    },
+    {
+      "credential": "Completion of a two-year approved ARRT School."
+    },
+    {
+      "credential": "Required Licenses - Radiography - R.T. (R)(ARRT)"
+    }
+  ]
+}

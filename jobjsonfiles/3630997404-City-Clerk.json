@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "City Clerk",
+      "job_category": "Administrative",
+      "job_class": "Clerical",
+      "sector": "Government",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "File Management",
+      "experience": 5
+    },
+    {
+      "skill": "Quickbooks",
+      "experience": 3
+    },
+    {
+      "skill": "Notary Services",
+      "experience": 3
+    },
+    {
+      "skill": "Meeting Minutes",
+      "experience": 5
+    },
+    {
+      "skill": "Licensing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain and organize city records, ensuring accessibility and accuracy."
+    },
+    {
+      "duty": "Accept and process applications for business and liquor licenses."
+    },
+    {
+      "duty": "Serve as a Notary and manage the city seal for official documents."
+    },
+    {
+      "duty": "Take detailed minutes at Board meetings and maintain records."
+    },
+    {
+      "duty": "Utilize Quickbooks for financial tracking and reporting."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 75,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Public Administration, Business Administration, or a related field (Preferred)"
+    }
+  ],
+  "salary": 55000
+}

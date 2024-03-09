@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Clinician-Educator",
+      "job_category": "Healthcare",
+      "job_class": "Educator",
+      "sector": "Healthcare",
+      "salary": 140000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Anesthesia Care",
+      "experience": 5
+    },
+    {
+      "skill": "Teaching and Education",
+      "experience": 5
+    },
+    {
+      "skill": "Research Contribution",
+      "experience": 5
+    },
+    {
+      "skill": "American Board of Anesthesiology Certification",
+      "experience": 0
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide clinical anesthesia care to pediatric patients at Ann & Robert H. Lurie Children\u2019s Hospital of Chicago, as well as Radiology and Hematology-Oncology at Northwestern Memorial Hospital & the Proton Center."
+    },
+    {
+      "duty": "Participate in the education programs of the Department and Medical School, including teaching and education of students and house staff."
+    },
+    {
+      "duty": "Actively contribute to the research programs of the department."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "American Board of Anesthesiology Certification or board-eligible"
+    }
+  ]
+}

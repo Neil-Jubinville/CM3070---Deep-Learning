@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "ETL Data Engineer",
+      "job_category": "Data Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": false,
+      "salary": 120000
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL Server",
+      "experience": 7
+    },
+    {
+      "skill": "ETL/Data warehousing",
+      "experience": 7
+    },
+    {
+      "skill": "Azure/Azure Data Factory",
+      "experience": 7
+    },
+    {
+      "skill": "Python",
+      "experience": 7
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the design, development, and optimization of ETL workflows and data pipelines using SQL Server and stored procedures."
+    },
+    {
+      "duty": "Utilize stored procedures for data extraction, transformation, and loading processes, ensuring optimal performance."
+    },
+    {
+      "duty": "Architect and implement data solutions on Azure, leveraging Azure Data Lake and other services."
+    },
+    {
+      "duty": "Apply dimension modeling principles to create data models that support advanced analytics and reporting requirements."
+    },
+    {
+      "duty": "Collaborate with stakeholders to understand data needs and translate them into technical solutions."
+    },
+    {
+      "duty": "Lead and set the direction for data engineering initiatives, ensuring alignment with overall business objectives."
+    },
+    {
+      "duty": "Mentor and guide junior data engineers, fostering their growth and technical development."
+    },
+    {
+      "duty": "Implement DevOps practices for data engineering to streamline CI/CD pipelines."
+    },
+    {
+      "duty": "Utilize Python for data manipulation, automation, and custom data solutions."
+    },
+    {
+      "duty": "Ensure data quality and consistency through data integration, transformation, and cleansing."
+    },
+    {
+      "duty": "Participate in on-call rotation and assist with after-hours issues, as required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in computer science or information systems science, or equivalent experience. Seven (7) + years of comprehensive data warehouse analysis and design experience, with full knowledge of data warehouse methodologies and data modeling. Must have a minimum of two (2) years of experience extracting and transforming data within Business Intelligence environment. Seven (7) + years of experience with Microsoft SQL Server, including SQL Agent jobs, SSIS packages. Seven (7) + years of experience with SQL programming objects, including stored procedures, user-defined functions, and common table expressions."
+    }
+  ]
+}

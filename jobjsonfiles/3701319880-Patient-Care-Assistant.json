@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Care Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Phlebotomy",
+      "experience": 2
+    },
+    {
+      "skill": "Respiratory Support",
+      "experience": 2
+    },
+    {
+      "skill": "Infection Control",
+      "experience": 2
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Safe Patient Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Time Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in direct patient care by providing basic physical care to promote patient comfort as directed by the Registered Nurse."
+    },
+    {
+      "duty": "Transport patients to all tests and procedures, as well as escort patients for discharge, following safe patient handling policies."
+    },
+    {
+      "duty": "Perform routine phlebotomy services and vital sign measurements according to departmental policy."
+    },
+    {
+      "duty": "Assist with basic rehab/Physical Therapy activities, such as active and passive range of motion and ambulation."
+    },
+    {
+      "duty": "Maintain a clean and safe environment to help prevent and/or control infections and to provide for the safety of patients and employees."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    },
+    {
+      "credential": "Certification in Basic Life Support or HeartSaver First Aid within 30 days of hire date"
+    }
+  ]
+}

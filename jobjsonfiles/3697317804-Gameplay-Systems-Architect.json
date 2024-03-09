@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Gameplay Systems Architect",
+      "job_category": "Software Engineering",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C++ Programming",
+      "experience": 8
+    },
+    {
+      "skill": "API Development",
+      "experience": 8
+    },
+    {
+      "skill": "Game Design",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Architect gameplay systems and implement robust, stable, and usable APIs for internal and external game developers."
+    },
+    {
+      "duty": "Collaborate closely with engineers across multiple teams to help develop solutions that can meet their needs."
+    },
+    {
+      "duty": "Proactively reaching out to gather and respond to critical feedback from other developers."
+    },
+    {
+      "duty": "Experiment and research new solutions with engineers and game designers while using rapid prototyping to ensure that strong architectural and algorithmic decisions are made."
+    },
+    {
+      "duty": "Work closely with art and design to create and iterate on gameplay features and tools."
+    },
+    {
+      "duty": "Support technical excellence on multiple platforms and optimize/fix bugs in existing gameplay systems."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

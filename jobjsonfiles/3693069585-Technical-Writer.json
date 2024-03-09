@@ -1,0 +1,48 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Writer",
+      "job_category": "Writing",
+      "job_class": "Writer",
+      "sector": "Software Engineering",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Writing",
+      "experience": 5
+    },
+    {
+      "skill": "MS Office (Excel, Word, PowerPoint, Visio)",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create, edit, and structure documentation for the full life cycle of various Government and Commercial projects."
+    },
+    {
+      "duty": "Develop proposal documentation (ex: BOE, RFP, ROM) integrating input from multiple sources."
+    },
+    {
+      "duty": "Present products, deliverables, analysis, and/or issues comfortably and confidently to groups within the team."
+    },
+    {
+      "duty": "Ensure accurate and on-time internal and contractual deliverables."
+    }
+  ]
+}

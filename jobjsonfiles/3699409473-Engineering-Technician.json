@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Engineering Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 38000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    },
+    {
+      "skill": "Industrial Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Robotics",
+      "experience": 3
+    },
+    {
+      "skill": "Electrical Engineering",
+      "experience": 3
+    },
+    {
+      "skill": "Allen Bradley PLC",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and delegate tasks to skilled workers for maintenance and implementation projects in the Cast Iron Division."
+    },
+    {
+      "duty": "Spend 50-75% of time on production floor maintenance and 25% on implementing projects."
+    },
+    {
+      "duty": "Possibility to transition into an Engineering position in the future."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's Degree in Engineering or related field"
+    }
+  ]
+}

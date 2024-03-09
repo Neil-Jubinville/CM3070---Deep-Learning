@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "AWS Architecture",
+      "job_category": "Software Development",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java Application Development",
+      "experience": 8
+    },
+    {
+      "skill": "AWS Migration",
+      "experience": 5
+    },
+    {
+      "skill": "EKS",
+      "experience": 5
+    },
+    {
+      "skill": "ECS Fargate",
+      "experience": 5
+    },
+    {
+      "skill": "Aurora PostgreSQL",
+      "experience": 5
+    },
+    {
+      "skill": "DynamoDB",
+      "experience": 5
+    },
+    {
+      "skill": "Amazon MSK",
+      "experience": 5
+    },
+    {
+      "skill": "ElastiCache Redis",
+      "experience": 5
+    },
+    {
+      "skill": "AWS API Gateway",
+      "experience": 5
+    },
+    {
+      "skill": "Presentation Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Solution Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Connectivity",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Focus",
+      "experience": 5
+    },
+    {
+      "skill": "Sense of Urgency",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Migrate application workloads to AWS while understanding transition architectures"
+    },
+    {
+      "duty": "Utilize in-depth knowledge of AWS services such as EKS, ECS Fargate, Aurora PostgreSQL, DynamoDB, Amazon MSK, ElastiCache Redis, and AWS API Gateway"
+    },
+    {
+      "duty": "Address Cloud2Ground, Ground2Cloud, and Cloud2Cloud connectivity challenges"
+    },
+    {
+      "duty": "Present ideas and solutions to other architects and product teams"
+    },
+    {
+      "duty": "Demonstrate an owner's mindset and sense of urgency to bring tasks to completion"
+    }
+  ]
+}

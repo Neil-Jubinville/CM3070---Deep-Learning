@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "REGISTERED NURSE",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Compassion",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide patient care, including medication administration, wound care, and symptom management."
+    },
+    {
+      "duty": "Collaborate with the healthcare team to develop and implement care plans for patients."
+    },
+    {
+      "duty": "Assess patient conditions, monitor vital signs, and coordinate with physicians for treatment plans."
+    },
+    {
+      "duty": "Educate patients and their families about disease management and preventive care measures."
+    },
+    {
+      "duty": "Maintain accurate patient records and documentation in compliance with healthcare regulations."
+    },
+    {
+      "duty": "Adhere to infection control procedures and maintain a safe and clean healthcare environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (Master's degree preferred)"
+    }
+  ]
+}

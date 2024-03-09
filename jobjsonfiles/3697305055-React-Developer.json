@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "React Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "React",
+      "experience": 5
+    },
+    {
+      "skill": "C#",
+      "experience": 5
+    },
+    {
+      "skill": "APIs",
+      "experience": 4
+    },
+    {
+      "skill": "Cosmos DB",
+      "experience": 4
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 4
+    },
+    {
+      "skill": "Microservices",
+      "experience": 4
+    },
+    {
+      "skill": "Visual Studio",
+      "experience": 4
+    },
+    {
+      "skill": ".NET 6",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain ReactJS frontend and Restful APIs for an Automated Claims Assignment tool."
+    },
+    {
+      "duty": "Collaborate with the team to build a dashboard and assignment tool for leaders to review and assign claims."
+    },
+    {
+      "duty": "Unit test and review technical documentation, providing guidance as required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science, Information Systems, or equivalent education or work experience."
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "meta": [
+    {
+      "job_title": "Java Developer / Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Software Developer",
+      "sector": "Software Engineering",
+      "remote": true,
+      "salary": 135000
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Spring",
+      "experience": 5
+    },
+    {
+      "skill": "REST",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 3
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 3
+    },
+    {
+      "skill": "Docker",
+      "experience": 3
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 3
+    },
+    {
+      "skill": "TDD",
+      "experience": 3
+    },
+    {
+      "skill": "BDD",
+      "experience": 3
+    },
+    {
+      "skill": "Gradle",
+      "experience": 3
+    },
+    {
+      "skill": "Maven",
+      "experience": 3
+    },
+    {
+      "skill": "GCP",
+      "experience": 3
+    },
+    {
+      "skill": "Kotlin",
+      "experience": 2
+    },
+    {
+      "skill": "Scala",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop scalable, robust applications using the appropriate design patterns, algorithms, and Java frameworks"
+    },
+    {
+      "duty": "Collaborate within an agile development lifecycle to drive tangible business outcomes"
+    },
+    {
+      "duty": "Create automation solutions that facilitate continuous integration (CI) and continuous deployment (CD) pipelines to production"
+    },
+    {
+      "duty": "Engage with the broader engineering community by sharing insights, designs, and experiences with Java frameworks"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

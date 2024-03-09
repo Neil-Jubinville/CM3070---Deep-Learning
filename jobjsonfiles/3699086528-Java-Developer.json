@@ -1,0 +1,111 @@
+{
+  "meta": [
+    {
+      "job_title": "Java Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Technical Lead",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 8
+    },
+    {
+      "skill": "Cloud Technology",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 5
+    },
+    {
+      "skill": "Kafka",
+      "experience": 5
+    },
+    {
+      "skill": "Spring Boot",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices",
+      "experience": 5
+    },
+    {
+      "skill": "Test Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Migration Project Support",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Leadership",
+      "experience": 8
+    },
+    {
+      "skill": "Scrum",
+      "experience": 5
+    },
+    {
+      "skill": "Next.js",
+      "experience": 5
+    },
+    {
+      "skill": "React",
+      "experience": 5
+    },
+    {
+      "skill": "Angular",
+      "experience": 5
+    },
+    {
+      "skill": "Vue.js",
+      "experience": 5
+    },
+    {
+      "skill": "Design and Solution",
+      "experience": 5
+    },
+    {
+      "skill": "End to End Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Test Cases",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and manage test automation and support for migration project"
+    },
+    {
+      "duty": "Provide technical leadership in Java, cloud technology, CI/CD, and Kafka"
+    },
+    {
+      "duty": "Design and solution for the project requirements"
+    },
+    {
+      "duty": "Conduct end-to-end testing and develop test cases"
+    },
+    {
+      "duty": "Work with Next.js, React, Angular, and Vue.js for project development"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

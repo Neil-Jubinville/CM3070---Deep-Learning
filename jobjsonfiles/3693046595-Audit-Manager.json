@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Audit Manager",
+      "job_category": "Accounting",
+      "job_class": "Manager",
+      "sector": "Accounting",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Participate and lead audits from planning to completion."
+    },
+    {
+      "duty": "Review the work of staff."
+    },
+    {
+      "duty": "Build relationships with clients and ensure excellent communication and customer service."
+    },
+    {
+      "duty": "Perform work on multiple engagements at once."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Public Accounting",
+      "experience": 6
+    },
+    {
+      "skill": "CPA License",
+      "experience": 8
+    },
+    {
+      "skill": "Project Management",
+      "experience": 6
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 8
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting or Finance (CPA license required)"
+    }
+  ]
+}

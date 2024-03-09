@@ -1,0 +1,47 @@
+{
+  "meta": [
+    {
+      "job_title": "Azure Cost Management Professional",
+      "job_category": "Cloud Computing",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cloud Computing",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Cost Management Tools and Techniques",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Monitoring, analyzing, and optimizing the cost of Azure resources within an organization."
+    },
+    {
+      "duty": "Tracking usage, identifying cost-saving opportunities, and implementing strategies to maximize the value of cloud investments."
+    },
+    {
+      "duty": "Gathering and analyzing cost data, creating reports and dashboards."
+    },
+    {
+      "duty": "Recommending cost optimization techniques and collaborating with various teams to implement cost-saving measures."
+    }
+  ]
+}

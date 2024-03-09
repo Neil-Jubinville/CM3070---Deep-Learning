@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Principal Data Platforms Engineer",
+      "job_category": "Engineering",
+      "job_class": "Principal",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL Server Management",
+      "experience": 3
+    },
+    {
+      "skill": "Python",
+      "experience": 3
+    },
+    {
+      "skill": "Power BI",
+      "experience": 3
+    },
+    {
+      "skill": "Delphix",
+      "experience": 3
+    },
+    {
+      "skill": "AWS",
+      "experience": 2
+    },
+    {
+      "skill": "GitLab",
+      "experience": 2
+    },
+    {
+      "skill": "Ansible Tower",
+      "experience": 2
+    },
+    {
+      "skill": "Terraform",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Investigate, design, and implement solutions to enhance data platforms."
+    },
+    {
+      "duty": "Automate processes, aligning with existing infrastructure using PowerShell, Python, and Ansible."
+    },
+    {
+      "duty": "Provide cross-training to other operations engineers as required."
+    },
+    {
+      "duty": "Provide technical leadership and mentorship to the data engineering team."
+    },
+    {
+      "duty": "Architect, design, and develop high-performance and scalable data platforms, ensuring data integrity, security, and reliability."
+    },
+    {
+      "duty": "Utilize proficiency in Python to create data processing pipelines, data integration solutions, and automation tools."
+    },
+    {
+      "duty": "Integrate data platforms with Power BI to provide insightful data visualizations and reports for business stakeholders."
+    },
+    {
+      "duty": "Experience with troubleshooting tools like SQL Sentry or similar diagnostic tools, DMVs, tracing, and extended events."
+    },
+    {
+      "duty": "Ability to work independently, prioritize competing issues effectively, and bring assigned tasks to resolution or escalate as needed."
+    },
+    {
+      "credential": "Bachelor's or Master's degree in Computer Science, Data Engineering, or a related field."
+    },
+    {
+      "duty": "Experience with AWS, particularly RDS Postgres, Athena, S3, Lambda, and Step Functions."
+    },
+    {
+      "duty": "Knowledge of GitLab pipelines, Ansible Tower, Terraform, PowerShell, and Python would be advantageous."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ]
+}

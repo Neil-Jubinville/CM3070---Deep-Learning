@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer Senior",
+      "job_category": "Information Technology",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "RESTful API Design",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Relational Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Database Schema Design",
+      "experience": 5
+    },
+    {
+      "skill": "Monitoring and Responsive Platforms",
+      "experience": 5
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Pair Programming",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and test software for scalability, reliability, and data recovery associated with a high-volume, high-availability platform."
+    },
+    {
+      "duty": "Collaborate with other internal teams to convert business requirements into technical solutions."
+    },
+    {
+      "duty": "Use Agile software techniques such as pair programming and test-driven development to maximize productivity and quality."
+    },
+    {
+      "duty": "Deploy new features into production with zero platform downtime and no impact to end customers who are currently processing."
+    },
+    {
+      "duty": "Build domain expertise in e-commerce payments and apply engineering expertise to develop new product features."
+    },
+    {
+      "duty": "Work in a 'team focused' culture, where strong collaboration and communication are critical."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Computer Engineering or related field (Master's preferred)"
+    }
+  ]
+}

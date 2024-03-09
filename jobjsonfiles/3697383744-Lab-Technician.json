@@ -1,0 +1,102 @@
+{
+  "meta": [
+    {
+      "job_title": "Lab Technician",
+      "job_category": "Science",
+      "job_class": "Technician",
+      "sector": "Manufacturing",
+      "salary": 52000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Laboratory Equipment Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Operating Standards (QOS)",
+      "experience": 3
+    },
+    {
+      "skill": "Good Laboratory Practices (GLPs)",
+      "experience": 3
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Micro Testing",
+      "experience": 2
+    },
+    {
+      "skill": "Quality Assurance (QA) Verification",
+      "experience": 3
+    },
+    {
+      "skill": "Sanitation Support",
+      "experience": 2
+    },
+    {
+      "skill": "Mathematical Ability",
+      "experience": 3
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Mechanical Troubleshooting",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Calibrate, troubleshoot, maintain, and operate all lab equipment"
+    },
+    {
+      "duty": "Perform analysis in accordance with Quality Operating Standards (QOS) methods and standard operator procedures (SOPs), accurately and efficiently"
+    },
+    {
+      "duty": "Accurately record and communicate analytical results"
+    },
+    {
+      "duty": "Follow all safety policies and procedures, including laboratory safety and chemical handling"
+    },
+    {
+      "duty": "Follow all Good Laboratory Practices (GLPs) and Good Manufacturing Practices (GMPs)"
+    },
+    {
+      "duty": "Perform Quality Assurance (QA) verification of cleaned equipment and support/assist with sanitation"
+    },
+    {
+      "duty": "Perform Positive Release duties and micro testing when required"
+    },
+    {
+      "duty": "Perform Foreign Material (FM) investigations and product holds when required"
+    },
+    {
+      "duty": "Act as the backup for the Quality Technician in their absence"
+    },
+    {
+      "duty": "Any other duties as assigned by supervisor or management"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED preferred but not required. Associates or bachelor\u2019s degree in a science-related field is preferred but not required"
+    }
+  ]
+}

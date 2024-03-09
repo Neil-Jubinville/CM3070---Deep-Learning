@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Architecture",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 8
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 8
+    },
+    {
+      "skill": "Architectural Design",
+      "experience": 8
+    },
+    {
+      "skill": "Construction Administration",
+      "experience": 8
+    },
+    {
+      "skill": "Revit",
+      "experience": 8
+    },
+    {
+      "skill": "Building Codes",
+      "experience": 8
+    },
+    {
+      "skill": "Multi-tasking",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead project design teams and coordinate with consultants for facility programming, design, documentation, and construction administration tasks."
+    },
+    {
+      "duty": "Manage multiple projects, generate construction documents, and perform construction administration tasks including pay application review, site visits, and change orders."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in Architecture from an accredited university. Licensed Architect or in the process of becoming licensed."
+    }
+  ]
+}

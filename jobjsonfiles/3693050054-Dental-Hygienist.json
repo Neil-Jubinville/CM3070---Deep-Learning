@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Dental Hygienist",
+      "job_category": "Healthcare",
+      "job_class": "Hygienist",
+      "sector": "Healthcare",
+      "salary": 49,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Dental Hygiene",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "X-ray Imaging",
+      "experience": 2
+    },
+    {
+      "skill": "Oral Health Education",
+      "experience": 3
+    },
+    {
+      "skill": "Prophylaxis",
+      "experience": 3
+    },
+    {
+      "skill": "Fluoride Application",
+      "experience": 2
+    },
+    {
+      "skill": "Dental Charting",
+      "experience": 2
+    },
+    {
+      "skill": "Local Anesthesia Administration",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Complete a preliminary exam on each patient"
+    },
+    {
+      "duty": "Perform Prophylaxis and or Scaling and Root Planning"
+    },
+    {
+      "duty": "Apply fluoride and sealants for tooth protection"
+    },
+    {
+      "duty": "Take dental x-rays"
+    },
+    {
+      "duty": "Administer local anesthetics to patients"
+    },
+    {
+      "duty": "Chart Dental conditions"
+    },
+    {
+      "duty": "Examine each patient's oral health and communicate findings to dentists"
+    },
+    {
+      "duty": "Educate patients on how to care for their teeth with good oral hygiene, including proper brushing and flossing"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate Degree in Dental Hygiene (Bachelor's preferred)"
+    }
+  ]
+}

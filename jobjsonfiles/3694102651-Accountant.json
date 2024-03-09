@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Accountant",
+      "job_category": "Accounting",
+      "job_class": "Specialist",
+      "sector": "Accounting",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Bookkeeping",
+      "experience": 5
+    },
+    {
+      "skill": "General Ledger Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Account Reconciliations",
+      "experience": 5
+    },
+    {
+      "skill": "Billing Process",
+      "experience": 5
+    },
+    {
+      "skill": "Cash Management",
+      "experience": 5
+    },
+    {
+      "skill": "Fixed Asset Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Independently prepare monthly cost center accruals and various schedules for month end and quarter end close."
+    },
+    {
+      "duty": "Perform general ledger analysis and account reconciliations."
+    },
+    {
+      "duty": "Assist with the billing process, preparing monthly upload files and various bookkeeping tasks."
+    },
+    {
+      "duty": "Assist with daily cash activities including recording journal entries, paying of AR and AP through the Lawson Accounting system and reconciling cash accounts."
+    },
+    {
+      "duty": "Assist with Fixed Assets including interfacing invoices, processing disposals, preparing spreadsheets and fixed asset schedules."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting, Finance, or a related field (Master's preferred)"
+    }
+  ]
+}

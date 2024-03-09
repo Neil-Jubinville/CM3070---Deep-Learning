@@ -1,0 +1,105 @@
+{
+  "meta": [
+    {
+      "job_title": "Cybersecurity Specialist",
+      "job_category": "Technology",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cybersecurity",
+      "experience": 5
+    },
+    {
+      "skill": "Security Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Incident Handling",
+      "experience": 5
+    },
+    {
+      "skill": "Vulnerability Assessments",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting and Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Physical Security Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Network and Host Forensic Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Intrusion Detection Prevention Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Malicious Code Analysis",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Protect critical information systems and secure the organization from evolving cyber threats."
+    },
+    {
+      "duty": "Develop comprehensive security test plans and procedures for OT, IT, ICS, and Network security, ensuring rigorous evaluation and commissioning activities."
+    },
+    {
+      "duty": "Collaborate in conducting technical risk assessments, identifying vulnerabilities, and assisting in the design of robust security measures."
+    },
+    {
+      "duty": "Assist in the coordination, conduct, and evaluation of various technical testing activities, including Factory Acceptance Testing and Final Acceptance Testing."
+    },
+    {
+      "duty": "Contribute to the design, coordination, and evaluation of physical security testing, such as penetration testing and modeling of physical security for the CSC ship."
+    },
+    {
+      "duty": "Conduct internal and external vulnerability assessments, code reviews, and penetration tests across various environments, including Windows and Linux systems, cloud architecture, IoT devices, networking devices, and web/mobile applications."
+    },
+    {
+      "duty": "Take charge of incident handling and response, including incident triage, data collection, investigation, analysis, and assisting in customer remediation."
+    },
+    {
+      "duty": "Assess the impact of system vulnerabilities, scan assets, validate scans, and develop and implement effective mitigation plans."
+    },
+    {
+      "duty": "Utilize scripting and automation techniques to fix vulnerabilities efficiently."
+    },
+    {
+      "duty": "Maintain and organize Authority-to-Operate (ATO) packages, ensuring compliance with regulatory requirements."
+    },
+    {
+      "duty": "Recommend and implement best security practices and procedures to enhance the security posture of critical information systems."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 0,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or equivalent field"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 230000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Development",
+      "experience": 8
+    },
+    {
+      "skill": "Data Structures and Algorithms",
+      "experience": 8
+    },
+    {
+      "skill": "Software Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Software Design and Architecture",
+      "experience": 3
+    },
+    {
+      "skill": "Infrastructure Development",
+      "experience": 5
+    },
+    {
+      "skill": "Distributed Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Networks",
+      "experience": 5
+    },
+    {
+      "skill": "Compute Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Storage Technologies",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide technical leadership on high-impact projects."
+    },
+    {
+      "duty": "Influence and coach a distributed team of engineers."
+    },
+    {
+      "duty": "Facilitate alignment and clarity across teams on goals, outcomes, and timelines."
+    },
+    {
+      "duty": "Manage project priorities, deadlines, and deliverables."
+    },
+    {
+      "duty": "Design, develop, test, deploy, maintain, and enhance large scale software solutions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 0,
+      "student_teacher": 15,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent practical experience. 8 years of experience in software development, and with data structures/algorithms. 5 years of experience testing, and launching software products, and 3 years of experience with software design and architecture. 5 years of experience building and developing large-scale infrastructure, distributed systems or networks, and/or experience with compute technologies, storage, and/or hardware architecture."
+    }
+  ]
+}

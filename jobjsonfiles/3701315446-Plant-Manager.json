@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Plant Manager",
+      "job_category": "Manufacturing",
+      "job_class": "Manager",
+      "sector": "Manufacturing",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Operations Management",
+      "experience": 5
+    },
+    {
+      "skill": "Manufacturing Processes",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 5
+    },
+    {
+      "skill": "Lean Manufacturing",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Team Development",
+      "experience": 5
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage plant operations, including production, maintenance, quality control, and logistics."
+    },
+    {
+      "duty": "Optimize productivity, efficiency, and cost-effectiveness while maintaining safety and regulatory compliance."
+    },
+    {
+      "duty": "Foster a culture of continuous improvement, implementing best practices to reduce waste and enhance efficiency."
+    },
+    {
+      "duty": "Build strong relationships with customers, suppliers, and internal teams to meet production targets and ensure customer satisfaction."
+    },
+    {
+      "duty": "Lead and develop a high-performing team, promoting employee engagement and growth."
+    },
+    {
+      "duty": "Monitor operational metrics, generate reports, and implement corrective actions as needed."
+    },
+    {
+      "duty": "Ensure compliance with environmental, health, and safety regulations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in engineering, operations management, or a related field (Master's preferred)"
+    }
+  ]
+}

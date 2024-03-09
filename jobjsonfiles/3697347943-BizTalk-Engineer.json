@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "BizTalk Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 105000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "BizTalk Administration",
+      "experience": 5
+    },
+    {
+      "skill": "SSO Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "BizTalk Development",
+      "experience": 5
+    },
+    {
+      "skill": "Database Management",
+      "experience": 5
+    },
+    {
+      "skill": "Performance Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "BAM and ESB Configurations",
+      "experience": 5
+    },
+    {
+      "skill": "IIS and Web Services/WCF",
+      "experience": 5
+    },
+    {
+      "skill": "Line Of Business Adapters",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and build highly available BizTalk environments, including installation and configuration."
+    },
+    {
+      "duty": "Understand and demonstrate best practices for Hosts, host instances, host separation, tracking, tuning."
+    },
+    {
+      "duty": "Configure SSO and understand best practices for SSO, master secret server, high availability, and DR."
+    },
+    {
+      "duty": "Maintain BTS DBs and apply best practices for databases used by BizTalk."
+    },
+    {
+      "duty": "Develop BizTalk applications, creation of schemas, maps, pipelines, orchestration, and experience with Visual Studio and BizTalk design time components."
+    },
+    {
+      "duty": "Troubleshoot performance issues, set up and analyze performance counters, and manage throttling issues."
+    },
+    {
+      "duty": "Monitor and maintain BizTalk Health Monitor, Maintenance/Terminator tool, BAM, and ESB configurations."
+    },
+    {
+      "duty": "Manage IIS, Web Services/WCF, and Line Of Business adapters."
+    },
+    {
+      "duty": "Collaborate with State/Local Government entities and be available for occasional customer escalation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 72500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Project",
+      "experience": 5
+    },
+    {
+      "skill": "Operations and Quality Experience",
+      "experience": 5
+    },
+    {
+      "skill": "PMP Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Cross-functional Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Development and maintenance of program timeline."
+    },
+    {
+      "duty": "Revision of program plans and milestones according to prioritization."
+    },
+    {
+      "duty": "Develop a robust project plan and integrate work stream project Gantts for the overall program."
+    },
+    {
+      "duty": "Coordination with program workstream leaders to manage executions."
+    },
+    {
+      "duty": "Development and maintenance of program risk logs."
+    },
+    {
+      "duty": "Weekly meetings with program work streams."
+    },
+    {
+      "duty": "Update project Gantts."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Engineering, Health Sciences, Business or Financial Management, or relevant field"
+    },
+    {
+      "credential": "PMP Certification"
+    }
+  ]
+}

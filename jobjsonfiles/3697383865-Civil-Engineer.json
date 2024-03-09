@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Civil Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Design + Engineering",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Civil Engineering Design",
+      "experience": 5
+    },
+    {
+      "skill": "Construction Management",
+      "experience": 5
+    },
+    {
+      "skill": "Engineering Calculations",
+      "experience": 5
+    },
+    {
+      "skill": "Project Scheduling",
+      "experience": 5
+    },
+    {
+      "skill": "AutoCAD",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Geopak",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in the design, construction, and maintenance of infrastructures such as bridges, roads, tunnels, water, and sewage systems."
+    },
+    {
+      "duty": "Produce a set of construction documents including drafting, computations, specifications, and cost estimates."
+    },
+    {
+      "duty": "Mentor junior engineers and perform detailed engineering calculations & analysis. Responsible for project schedules and client communications."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in civil engineering from an ABET accredited program. Registered PE license in Ohio is required."
+    }
+  ]
+}

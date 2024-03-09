@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 24,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Phlebotomy",
+      "experience": 2
+    },
+    {
+      "skill": "Lab review",
+      "experience": 2
+    },
+    {
+      "skill": "Vitals documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Supply management",
+      "experience": 3
+    },
+    {
+      "skill": "Appointment Scheduling",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Data Security",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Rooming patients and collecting patient health information."
+    },
+    {
+      "duty": "Managing supply inventory, including collection and preparation of blood and other samples."
+    },
+    {
+      "duty": "Running front office operations, such as scheduling and billing."
+    },
+    {
+      "duty": "Asking why and probing deeply to understand the reason for the patient's visit, and reviewing health records of patients."
+    },
+    {
+      "duty": "Taking the patient's vitals and ordering labs and imaging."
+    },
+    {
+      "duty": "Ensuring all follow-ups are handled per clinical process and in a timely manner."
+    },
+    {
+      "duty": "Performing phlebotomy on patients as needed and upholding clinical guidelines for phlebotomy."
+    },
+    {
+      "duty": "Maintaining the order and spotlessness of the clinic, and handling data security protocols with a strong understanding of HIPAA."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Completion of Medical Assistant program or similar"
+    }
+  ]
+}

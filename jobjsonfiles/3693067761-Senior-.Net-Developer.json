@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior .Net Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": ".NET Framework",
+      "experience": 10
+    },
+    {
+      "skill": ".NET Core",
+      "experience": 10
+    },
+    {
+      "skill": "C#",
+      "experience": 10
+    },
+    {
+      "skill": "React",
+      "experience": 10
+    },
+    {
+      "skill": "SQL Server",
+      "experience": 10
+    },
+    {
+      "skill": "SQL Azure",
+      "experience": 10
+    },
+    {
+      "skill": "COSMOS Database",
+      "experience": 10
+    },
+    {
+      "skill": "Azure COSMOS SDK",
+      "experience": 10
+    },
+    {
+      "skill": "API Design",
+      "experience": 10
+    },
+    {
+      "skill": "Azure Functions",
+      "experience": 10
+    },
+    {
+      "skill": "Service Buses",
+      "experience": 10
+    },
+    {
+      "skill": "Event Hubs",
+      "experience": 10
+    },
+    {
+      "skill": "Web Services",
+      "experience": 10
+    },
+    {
+      "skill": "REST Architecture",
+      "experience": 10
+    },
+    {
+      "skill": "JSON",
+      "experience": 10
+    },
+    {
+      "skill": "Enterprise Systems",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Analyzing, designing, and developing scalable systems and software solutions with Microsoft .NET framework and .NET core."
+    },
+    {
+      "duty": "Backend database integration using SQL Server, SQL Azure, and COSMOS Database via Azure COSMOS SDK."
+    },
+    {
+      "duty": "Designing and developing APIs, building Azure functions, Service Buses, and Event Hubs, conducting VNET integrations."
+    },
+    {
+      "duty": "Implementing Web Services and REST architecture using JSON."
+    },
+    {
+      "duty": "Working on enterprise systems with complex architecture."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

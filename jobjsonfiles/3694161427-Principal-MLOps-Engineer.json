@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Principal MLOps Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "MLOps Engineer",
+      "sector": "Software Engineering",
+      "salary": 300000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Machine Learning Infrastructure",
+      "experience": 6
+    },
+    {
+      "skill": "Python Software Development",
+      "experience": 8
+    },
+    {
+      "skill": "Machine Learning Platforms",
+      "experience": 6
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 4
+    },
+    {
+      "skill": "AWS Managed Services",
+      "experience": 3
+    },
+    {
+      "skill": "Big Data Systems",
+      "experience": 4
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "ML Model Building",
+      "experience": 5
+    },
+    {
+      "skill": "Unix-Like Environments",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Designing, developing and owning a machine learning platform serving on-line inferences to over 100 hospitals and thousands of patients."
+    },
+    {
+      "duty": "Combining in-house development and implementation of best-in-breed SaaS solutions, enabling our platform to grow as we scale clients, models, and data scientists."
+    },
+    {
+      "duty": "Developing our in-house exploratory data analysis and research platform."
+    },
+    {
+      "duty": "Developing automation tools across the ML development pipeline to increase efficiency and reliability."
+    },
+    {
+      "duty": "Collaborating with our backend team in order to deliver ML predictions to production."
+    },
+    {
+      "duty": "Collaborating with the rest of the data science team on prototyping and developing new data products."
+    },
+    {
+      "duty": "Integrating with our data engineering team to make data available for research."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in a STEM subject (Master's or PhD in ML, Data Science, or a related field preferred)"
+    }
+  ]
+}

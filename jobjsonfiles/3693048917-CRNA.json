@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "CRNA",
+      "job_category": "Healthcare",
+      "job_class": "Clinical",
+      "sector": "Healthcare",
+      "salary": 180000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Anesthesia Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Care",
+      "experience": 5
+    },
+    {
+      "skill": "Monitoring Equipment Management",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Record Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Pediatric Anesthesia",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Providing anesthesia administration and patient care for General Surg, B&B, Ortho, and GYN cases."
+    },
+    {
+      "duty": "Monitoring equipment management and critical care during surgical procedures."
+    },
+    {
+      "duty": "Managing emergency response and medical record documentation for anesthesia procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150
+    },
+    {
+      "student_teacher": 100
+    },
+    {
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "CRNA Board Certification"
+    },
+    {
+      "credential": "Prescriptive Authority License"
+    }
+  ]
+}

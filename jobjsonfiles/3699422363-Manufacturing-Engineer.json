@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Manufacturing Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Manufacturing",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Precision Machining",
+      "experience": 7
+    },
+    {
+      "skill": "Lean Tools",
+      "experience": 7
+    },
+    {
+      "skill": "Geometric Dimensioning and Tolerancing (GD&T)",
+      "experience": 7
+    },
+    {
+      "skill": "Six Sigma",
+      "experience": 7
+    },
+    {
+      "skill": "DMAIC",
+      "experience": 7
+    },
+    {
+      "skill": "CNC Programming",
+      "experience": 7
+    },
+    {
+      "skill": "Solid Modeling",
+      "experience": 7
+    },
+    {
+      "skill": "Statistical Process Control (SPC)",
+      "experience": 7
+    },
+    {
+      "skill": "Project Management",
+      "experience": 7
+    },
+    {
+      "skill": "Technical Communication",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and sustain manufacturing processes utilizing cutting edge technologies to achieve micron level tolerances in precision machining, specifically turning."
+    },
+    {
+      "duty": "Continuous improvement utilizing Lean Tools to analyze and optimize manufacturing processes to improve efficiency, reduce cycle times, and minimize waste and defects."
+    },
+    {
+      "duty": "Root cause analysis and corrective action implementation."
+    },
+    {
+      "duty": "Collaborate effectively with cross-functional teams, including machinists, product support operators, engineers, and management."
+    },
+    {
+      "duty": "Maintain a commitment to a safe working environment and ensure compliance with all relevant safety regulations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s in Mechanical Engineering, Manufacturing Engineering, or a related field. A Master\u2019s degree is a plus."
+    },
+    {
+      "credential": "Experience with Advanced Metrology techniques and knowledge of various CNC machine controls and programming languages is desirable."
+    },
+    {
+      "credential": "Familiarity with RF, microwave, and mm-wave applications is desired."
+    },
+    {
+      "credential": "Knowledge of CAM software such as Mastercam, SolidCAM, or similar is a plus."
+    }
+  ]
+}

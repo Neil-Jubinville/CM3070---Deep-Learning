@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "CWI Inspector",
+      "job_category": "Inspection",
+      "job_class": "Inspector",
+      "sector": "Industrial",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AWS Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Pipeline Inspection",
+      "experience": 5
+    },
+    {
+      "skill": "Welding Processes",
+      "experience": 5
+    },
+    {
+      "skill": "Non-Destructive Examination",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform inspections to verify the conformity of work with applicable standards"
+    },
+    {
+      "duty": "Verify the appropriateness of welding equipment and procedures for the work"
+    },
+    {
+      "duty": "Submit technically accurate reports and provide technical recommendations for equipment repair and replacement"
+    },
+    {
+      "duty": "Provide technical input and guidance for welding, metallurgical issues, and non-destructive examination techniques"
+    },
+    {
+      "duty": "Comply with all safety practices and participate in site safety initiatives"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    },
+    {
+      "credential": "AWS Certified Welding Inspector certificate"
+    }
+  ]
+}

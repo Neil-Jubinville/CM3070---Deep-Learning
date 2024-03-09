@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Blumer Operator",
+      "job_category": "Manufacturing",
+      "job_class": "Operator",
+      "sector": "Manufacturing",
+      "salary": 19,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Machine Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 2
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Production Tracking",
+      "experience": 2
+    },
+    {
+      "skill": "Team Training",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Review job tickets and rule-up to determine customer specifications."
+    },
+    {
+      "duty": "Operate cutting machines to cut product to proper length and width."
+    },
+    {
+      "duty": "Maintain area and equipment in a clean and orderly condition."
+    },
+    {
+      "duty": "Train new Blumer Operators and helpers as necessary."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 70,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or general education degree (GED); plus 1 to 2 years of experience on a variety of cutting operations."
+    }
+  ]
+}

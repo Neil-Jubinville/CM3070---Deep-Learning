@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Controls Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "PLC Programming",
+      "experience": 5
+    },
+    {
+      "skill": "HMI Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Automation Control Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Schematics",
+      "experience": 5
+    },
+    {
+      "skill": "Pneumatic & Hydraulic Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Predictive Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Robotics",
+      "experience": 5
+    },
+    {
+      "skill": "Root Cause Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Standards Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Supplier Coordination",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in system design, specification, programming, simulation, testing, implementation, and validation of automation methods."
+    },
+    {
+      "duty": "Prepare and maintain electrical and pneumatic/hydraulic schematics and diagrams."
+    },
+    {
+      "duty": "Develop and maintain predictive, preventative, and corrective maintenance efforts to ensure efficient, reliable, and uninterrupted operation of automated equipment."
+    },
+    {
+      "duty": "Develop and maintain programs for PLC, HMI, motor controls, and robotic systems."
+    },
+    {
+      "duty": "Provide technical support for troubleshooting and maintenance of automation systems, and assist in root cause analysis of equipment failures."
+    },
+    {
+      "duty": "Interface with a variety of personnel in support of production including operators, quality inspectors, machinists, engineers, and supervisors."
+    },
+    {
+      "duty": "Ensure that all automation projects and tasks adhere to established safety standards and protocols."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science Degree in Electrical Engineering or related field"
+    }
+  ]
+}

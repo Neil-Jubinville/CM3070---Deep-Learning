@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Paramedic Emergency Room",
+      "job_category": "Paramedic",
+      "job_class": "Emergency",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "EMT",
+      "experience": 1
+    },
+    {
+      "skill": "Paramedic",
+      "experience": 1
+    },
+    {
+      "skill": "BLS Certification",
+      "experience": 1
+    },
+    {
+      "skill": "ACLS Certification",
+      "experience": 1
+    },
+    {
+      "skill": "PALS Certification",
+      "experience": 1
+    },
+    {
+      "skill": "Emergency Medical Paramedic",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Cardiac Life Support",
+      "experience": 1
+    },
+    {
+      "skill": "High School Graduate / GED",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide supportive care to the Emergency Department patients under the direct supervision of the registered nurse or physician."
+    },
+    {
+      "duty": "Perform approved procedures."
+    },
+    {
+      "duty": "Take, document, and report vital signs, and report abnormal results immediately to the registered nurse."
+    },
+    {
+      "duty": "Take height and weight measurements."
+    },
+    {
+      "duty": "Place ECG electrodes, attach ECG monitor correctly, and perform EKGs."
+    },
+    {
+      "duty": "Assist with setting up oxygen per instructions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100
+    },
+    {
+      "student_teacher": 0
+    },
+    {
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Graduate / GED"
+    }
+  ]
+}

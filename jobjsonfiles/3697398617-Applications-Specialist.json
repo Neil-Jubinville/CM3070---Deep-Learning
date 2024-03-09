@@ -1,0 +1,107 @@
+{
+  "meta": [
+    {
+      "job_title": "Applications Specialist",
+      "job_category": "Information Technology",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 105000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "VM Deployment",
+      "experience": 5
+    },
+    {
+      "skill": "Windows server environment",
+      "experience": 5
+    },
+    {
+      "skill": "Basic network Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "TCP/IP / OSI model",
+      "experience": 5
+    },
+    {
+      "skill": "Cisco and Juniper network gear",
+      "experience": 5
+    },
+    {
+      "skill": "Network security standards and practices",
+      "experience": 5
+    },
+    {
+      "skill": "Task Management",
+      "experience": 5
+    },
+    {
+      "skill": "VLANs (virtual local area network)",
+      "experience": 5
+    },
+    {
+      "skill": "Automated systems (chef or puppet)",
+      "experience": 5
+    },
+    {
+      "skill": "802.1x and SSL certification",
+      "experience": 5
+    },
+    {
+      "skill": "Unix Development",
+      "experience": 5
+    },
+    {
+      "skill": "Disaster Recovery events",
+      "experience": 5
+    },
+    {
+      "skill": "Linux servers",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build and implement security systems applications for successful project completion and optimization for the client."
+    },
+    {
+      "duty": "Deploy and manage virtual infrastructure for Physical Security Applications through Infra-as-code."
+    },
+    {
+      "duty": "Support all Physical Security network, including Allow-listing through MAB, DHCP address reservation, Manage ACL\u2019s, and port configurations."
+    },
+    {
+      "duty": "Deploy and support internal GLB\u2019s and enforce all network and infrastructure standards for the org."
+    },
+    {
+      "duty": "Communicate with technology partners, Project Leads, client operators, and external vendors regarding maintenance that affects production or projects."
+    },
+    {
+      "duty": "Project Management of new application integration or large-scale projects that change the current production."
+    },
+    {
+      "duty": "Work with network administration and hardware technicians, maintain and patch application servers, and collaborate with partners, vendors, teams, and leadership to resolve system outages."
+    },
+    {
+      "duty": "Manage client expectations effectively."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 0,
+      "student_teacher": 0,
+      "introvert_extrovert": 0
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or GED required"
+    },
+    {
+      "credential": "Bachelor\u2019s degree preferred"
+    }
+  ]
+}

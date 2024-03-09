@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Construction Driver",
+      "job_category": "Construction",
+      "job_class": "Driver",
+      "sector": "Construction",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Commercial Vehicle Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Mechanical Aptitude",
+      "experience": 3
+    },
+    {
+      "skill": "OSHA Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Hazardous Materials Handling",
+      "experience": 3
+    },
+    {
+      "skill": "Debris Removal",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate company commercial vehicles and deliver/pick up building materials to construction sites"
+    },
+    {
+      "duty": "Assist with debris removal from Jobsite to truck"
+    },
+    {
+      "duty": "Ensure safe operation of company equipment at all times"
+    },
+    {
+      "duty": "Lift and carry up to 50lbs unassisted"
+    },
+    {
+      "duty": "Be flexible with a changing daily schedule and on-call response"
+    },
+    {
+      "duty": "Transport equipment and materials, including disposal"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 110,
+      "student_teacher": 70,
+      "introvert_extrovert": 130
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent (Preferred)"
+    },
+    {
+      "credential": "Commercial Class C Driver's license or greater and clean driving record"
+    },
+    {
+      "credential": "40 Hour HAZWOPER training preferred, but not required"
+    }
+  ]
+}

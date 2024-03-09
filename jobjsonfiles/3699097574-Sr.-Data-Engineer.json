@@ -1,0 +1,97 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. Data Engineer",
+      "job_category": "Data Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 4
+    },
+    {
+      "skill": "Python",
+      "experience": 4
+    },
+    {
+      "skill": "Data Warehousing",
+      "experience": 5
+    },
+    {
+      "skill": "Snowflake Data Warehouse",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud PaaS (AWS)",
+      "experience": 5
+    },
+    {
+      "skill": "Data Insights",
+      "experience": 4
+    },
+    {
+      "skill": "Database Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Data Management",
+      "experience": 5
+    },
+    {
+      "skill": "Automation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provides Data Engineering support for areas such as Finance, Sales, Business Intelligence, Product Development, and/or other business users."
+    },
+    {
+      "duty": "Works with data consumers and Project Managers to determine logical and physical database designs for analytics models."
+    },
+    {
+      "duty": "Creates and maintains optimal data pipeline architectures."
+    },
+    {
+      "duty": "Ensures architectures are aligned with and support business requirements."
+    },
+    {
+      "duty": "Ensures that required data is available, can be trusted, and is readily accessible by those who need it."
+    },
+    {
+      "duty": "Influences the data infrastructure roadmap."
+    },
+    {
+      "duty": "Identifies, designs, and implements internal data management process improvements."
+    },
+    {
+      "duty": "Plays a key role in application development projects to evolve the company\u2019s database architecture and design."
+    },
+    {
+      "duty": "Works with internal and external data providers on data validation, providing feedback, and making customized changes to data feeds and data mappings for analytical and operational use."
+    },
+    {
+      "duty": "Automates manual processes, transforming them into repeatable capabilities."
+    },
+    {
+      "duty": "Works with fellow team members to ensure design, development, and execution align with and support adjacencies and adhere to established architectural standards."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 100,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science or related field plus 4+ years of relevant work experience or a Master's degree plus 2+ years of relevant work experience or a PhD plus 0-1 years of relevant experience"
+    }
+  ]
+}

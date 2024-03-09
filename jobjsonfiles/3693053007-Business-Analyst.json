@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Analyst",
+      "job_category": "Business Analysis",
+      "job_class": "Analyst",
+      "sector": "Analytics",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Business Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Database Querying",
+      "experience": 5
+    },
+    {
+      "skill": "Report Generation",
+      "experience": 5
+    },
+    {
+      "skill": "Agile",
+      "experience": 5
+    },
+    {
+      "skill": "Telecom Domain Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "AEM Knowledge",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Analyze existing software applications to understand and document functionality"
+    },
+    {
+      "duty": "Work in team in diverse/ multiple stakeholder environment and client interfacing skills"
+    },
+    {
+      "duty": "Query databases and generate reports and monitor metrics"
+    },
+    {
+      "duty": "Good Agile knowledge and able to write stories"
+    },
+    {
+      "duty": "Experience to Telecom domain"
+    },
+    {
+      "duty": "Good Business Analysis, Problem-Solving Skills and Critical Thinking skill sets"
+    },
+    {
+      "duty": "AEM knowledge is a plus"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

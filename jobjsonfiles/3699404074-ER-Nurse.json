@@ -1,0 +1,49 @@
+{
+  "meta": [
+    {
+      "job_title": "ER Nurse",
+      "job_category": "Nursing",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Emergency Room Experience",
+      "experience": 2
+    },
+    {
+      "skill": "PALS Certification",
+      "experience": 0
+    },
+    {
+      "skill": "BLS/BCLS Certification",
+      "experience": 0
+    },
+    {
+      "skill": "ACLS Certification",
+      "experience": 0
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide care for adult ER patients, including those with COVID-19."
+    },
+    {
+      "duty": "Work night shifts, three days a week, including rotating weekends and holidays."
+    },
+    {
+      "duty": "Float between Main Campus ER and Liberty Campus ER as needed."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "RN License"
+    },
+    {
+      "credential": "PALS, BLS/BCLS, and ACLS Certifications"
+    }
+  ]
+}

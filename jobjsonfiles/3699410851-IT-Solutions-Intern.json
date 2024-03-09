@@ -1,0 +1,108 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Solutions Intern",
+      "job_category": "IT",
+      "job_class": "Intern",
+      "sector": "IT",
+      "salary": 50000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 2
+    },
+    {
+      "skill": "RDBMS",
+      "experience": 2
+    },
+    {
+      "skill": "SSIS",
+      "experience": 1
+    },
+    {
+      "skill": "AWS",
+      "experience": 2
+    },
+    {
+      "skill": "Object-Oriented Programming",
+      "experience": 2
+    },
+    {
+      "skill": "MS Excel",
+      "experience": 2
+    },
+    {
+      "skill": "Visio",
+      "experience": 2
+    },
+    {
+      "skill": "Data Mining",
+      "experience": 1
+    },
+    {
+      "skill": "Salesforce",
+      "experience": 1
+    },
+    {
+      "skill": "Terraform",
+      "experience": 1
+    },
+    {
+      "skill": "GitLAB",
+      "experience": 1
+    },
+    {
+      "skill": "Azure Administration",
+      "experience": 1
+    },
+    {
+      "skill": "Infrastructure Code",
+      "experience": 1
+    },
+    {
+      "skill": "Adaptability",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Gather requirements and conduct research to align business needs with IT capabilities."
+    },
+    {
+      "duty": "Participate in meetings with business and IT stakeholders to collect functional and non-functional requirements."
+    },
+    {
+      "duty": "Contribute to Proof of Concept projects by evaluating vendor products and solutions to ensure alignment with business and IT requirements."
+    },
+    {
+      "duty": "Document technical standards and develop templates for technologies such as SSIS, AWS, etc."
+    },
+    {
+      "duty": "Assist in code and SQL review for ETL and AWS tasks."
+    },
+    {
+      "duty": "Handle operational tasks, solve incidents, and troubleshoot issues."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 70,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Enrolled as a full-time student in Computer Science or a related field. Preference to current seniors or graduate students."
+    },
+    {
+      "credential": "Enthusiastic about continuous learning and adapting to new technologies and concepts."
+    },
+    {
+      "credential": "Master's student"
+    }
+  ]
+}

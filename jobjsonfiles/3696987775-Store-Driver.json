@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Store Driver",
+      "job_category": "Retail",
+      "job_class": "Hourly",
+      "sector": "Sales",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Driving",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Automotive System Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Sales",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver parts to commercial customers and support inventory processes in the store."
+    },
+    {
+      "duty": "Assist with sales and service objectives by providing customer support."
+    },
+    {
+      "duty": "Source parts from stores, hubs, pdq, and external suppliers."
+    },
+    {
+      "duty": "Knowledge of store inventory and maintenance processes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 40
+    }
+  ]
+}

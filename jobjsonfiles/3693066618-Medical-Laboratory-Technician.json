@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Laboratory Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Laboratory Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Laboratory Quality Control",
+      "experience": 3
+    },
+    {
+      "skill": "Hematology Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Chemistry Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Microbiology Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Immunology Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Laboratory Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Venipuncture",
+      "experience": 3
+    },
+    {
+      "skill": "Lab Policies and Procedures",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform laboratory testing on patient specimens, ensuring accuracy and timeliness of results."
+    },
+    {
+      "duty": "Adhere to laboratory procedures for collection, processing, analysis, and reporting of patient test results."
+    },
+    {
+      "duty": "Conduct waived, highly and moderately complex laboratory procedures in areas such as Hematology, Chemistry, Urinalysis, Coagulation, Microbiology, and Immunology."
+    },
+    {
+      "duty": "Perform and document maintenance on instruments and equipment as appropriate, and review the accuracy of patient results before release or reporting."
+    },
+    {
+      "duty": "Recognize age-specific differences in expected results for various age groups and ensure compliance with laboratory policies and safety procedures."
+    },
+    {
+      "duty": "May be assigned as Lead Tech in the absence of a supervisor, with responsibility for the section or department during their shift."
+    },
+    {
+      "duty": "Assist in the development and maintenance of laboratory policies and procedures, and adhere to all department and hospital policies related to safety, infection control, and human resources."
+    },
+    {
+      "duty": "Other tasks or responsibilities as assigned by the department manager/director."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 60,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associates Degree in chemical, physical, biological science, or completion of coursework in a program for MLT."
+    },
+    {
+      "credential": "ASCP certification, or equivalent, required within one year of employment."
+    },
+    {
+      "credential": "Current and Valid State License if the laboratory is located in a state where required."
+    }
+  ]
+}

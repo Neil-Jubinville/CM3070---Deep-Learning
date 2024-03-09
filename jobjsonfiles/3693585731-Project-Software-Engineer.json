@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Lifecycle",
+      "experience": 8
+    },
+    {
+      "skill": "C/C++/C#/Qt/Python/Java",
+      "experience": 5
+    },
+    {
+      "skill": "Linux OS/Bare Metal Firmware",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Protocols Implementation and Debugging",
+      "experience": 5
+    },
+    {
+      "skill": "Jira and Git",
+      "experience": 5
+    },
+    {
+      "skill": "Ocean Engineering",
+      "experience": 3
+    },
+    {
+      "skill": "Microprocessors and SBCs",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting Languages",
+      "experience": 5
+    },
+    {
+      "skill": "Model-Based Systems Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Bench Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Oscilloscopes/Multimeters/OTDR",
+      "experience": 5
+    },
+    {
+      "skill": "Engineering Mentorship",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement decisions for designing and maintaining software architecture."
+    },
+    {
+      "duty": "Actively interface with other engineering disciplines, customer, and program manager."
+    },
+    {
+      "duty": "Contribute to trade studies for hardware such as navigation units, board stacks, and power monitors."
+    },
+    {
+      "duty": "Support software testing on the factory floor, offsite, and offshore."
+    },
+    {
+      "duty": "Prepare reports and present results to management and client."
+    },
+    {
+      "duty": "Mentorship of junior team members."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS Degree in Computer Science, Computer Engineering, Mathematics, Systems Engineering, Electrical Engineering, or related technical field. Commensurate experience will be considered."
+    },
+    {
+      "credential": "Ability to obtain and maintain a United States Government Department of Defense Security Clearance."
+    },
+    {
+      "credential": "Must be a US citizen."
+    },
+    {
+      "credential": "Experience in the field of ocean engineering (Preferred)."
+    }
+  ]
+}

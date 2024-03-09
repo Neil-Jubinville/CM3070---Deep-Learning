@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Advanced Practice Provider",
+      "job_category": "Medical",
+      "job_class": "Advanced",
+      "sector": "Healthcare",
+      "salary": 125000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Critical Judgment",
+      "experience": 5
+    },
+    {
+      "skill": "Comprehensive Health Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Differential Medical Diagnosis",
+      "experience": 5
+    },
+    {
+      "skill": "Prescription Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Reasoning",
+      "experience": 5
+    },
+    {
+      "skill": "Community Resources",
+      "experience": 5
+    },
+    {
+      "skill": "American Heart Basic Life Support (BLS)",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct comprehensive health assessment, differential medical diagnosis, and prescribing treatments for acute and chronic illness."
+    },
+    {
+      "duty": "Develop and implement comprehensive plan of care, involving patients, families, and other healthcare team members."
+    },
+    {
+      "duty": "Utilize specialized knowledge and skills in the provision of direct patient care, including prescription of drugs and devices."
+    },
+    {
+      "duty": "Make independent decisions in solving complex patient care problems and collaborate with the healthcare team to achieve desired outcomes."
+    },
+    {
+      "duty": "Utilize community assets and resources when making appropriate referrals and outreach for patients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited Physician Assistant Training Program OR Masters of Science in Nursing (MSN), Nurse Practitioner (NP)"
+    },
+    {
+      "credential": "Licensed/certified and eligible to practice as Physician Assistant in the State of Arizona OR Advanced Practice Registered Nurse (APRN), Arizona"
+    }
+  ]
+}

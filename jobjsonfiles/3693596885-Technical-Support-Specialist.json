@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Support Specialist",
+      "job_category": "Customer Service",
+      "job_class": "Specialist",
+      "sector": "Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Support",
+      "experience": 2
+    },
+    {
+      "skill": "Network Knowledge",
+      "experience": 1
+    },
+    {
+      "skill": "IoT Experience",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Documentation",
+      "experience": 2
+    },
+    {
+      "skill": "Phone Support",
+      "experience": 2
+    },
+    {
+      "skill": "Logistics Coordination",
+      "experience": 1
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 2
+    },
+    {
+      "skill": "Team Player",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide technical support to customers by phone and email."
+    },
+    {
+      "duty": "Create and maintain clear, concise, and accurate documentation for internal and external use."
+    },
+    {
+      "duty": "Act as liaison to ensure smooth operations and service delivery to all customers and partners."
+    },
+    {
+      "duty": "Identify, report, and document technical issues to help isolate and resolve issues in a timely manner."
+    },
+    {
+      "duty": "Support Engineering team with testing software and hardware."
+    },
+    {
+      "duty": "Order fulfillment and logistics coordination with contract manufacturer."
+    },
+    {
+      "duty": "Troubleshoot issues down to the root cause."
+    },
+    {
+      "duty": "Perform other duties as required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "College degree"
+    }
+  ]
+}

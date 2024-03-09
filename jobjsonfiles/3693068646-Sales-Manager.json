@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Manager",
+      "job_category": "Sales",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Prospecting",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Grow a customer base through prospecting efforts, leads, and referrals."
+    },
+    {
+      "duty": "Perform water analysis and advanced problem-solving."
+    },
+    {
+      "duty": "Perform required services for customers as per contracts."
+    },
+    {
+      "duty": "Calibrate and maintain water treatment equipment."
+    },
+    {
+      "duty": "Monitor program performance and make necessary adjustments."
+    },
+    {
+      "duty": "Maintain product inventories and place orders."
+    },
+    {
+      "duty": "Negotiate contracts and service agreements with customers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Technical degree preferred"
+    }
+  ]
+}

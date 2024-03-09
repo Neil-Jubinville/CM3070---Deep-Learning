@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Acute Care Float Registered Nurse",
+      "job_category": "Nursing",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 34000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Empathy",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Equipment Operation",
+      "experience": 5
+    },
+    {
+      "skill": "Anatomy and Physiology",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide acute care and medical services to patients across different departments and units."
+    },
+    {
+      "duty": "Float across various hospital units, adapting to different patient needs and medical requirements."
+    },
+    {
+      "duty": "Work with a team of healthcare professionals to ensure patient well-being and recovery."
+    },
+    {
+      "duty": "Administer medications, operate medical equipment, and closely monitor patients' condition and progress."
+    },
+    {
+      "duty": "Collaborate with physicians, specialists, and other healthcare staff to deliver comprehensive patient care."
+    },
+    {
+      "duty": "Maintain accurate patient records, document care provided, and communicate effectively with the healthcare team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (Master's preferred)"
+    },
+    {
+      "credential": "Acute Care Nurse Certification"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "meta": [
+    {
+      "job_title": "Informatica Data Quality Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Informatica Data Quality",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "ETL",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Requirements Translation",
+      "experience": 5
+    },
+    {
+      "skill": "Data Quality Audit/Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Data Quality Mapping",
+      "experience": 5
+    },
+    {
+      "skill": "Informatica Developer",
+      "experience": 5
+    },
+    {
+      "skill": "Informatica Analyst",
+      "experience": 5
+    },
+    {
+      "skill": "Data Profiling",
+      "experience": 5
+    },
+    {
+      "skill": "Data Quality Processes Design",
+      "experience": 5
+    },
+    {
+      "skill": "Data Quality Rule Development",
+      "experience": 5
+    },
+    {
+      "skill": "Data Profiling Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Data Metrics Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Data Stewardship",
+      "experience": 5
+    },
+    {
+      "skill": "Exception Processing",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Queries",
+      "experience": 5
+    },
+    {
+      "skill": "Test Scenario Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Unit Test",
+      "experience": 5
+    },
+    {
+      "skill": "Data Quality Assurance",
+      "experience": 5
+    },
+    {
+      "skill": "Master Data Management",
+      "experience": 5
+    },
+    {
+      "skill": "Shell Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Translate functional requirements into technical requirements and development those technical requirements into code and interfaces which are used by our Global Business Services Team."
+    },
+    {
+      "duty": "Profile source data and determine all source data and metadata characteristics."
+    },
+    {
+      "duty": "Design and execute a Data Quality Audit/Assessment."
+    },
+    {
+      "duty": "Design and execute the data quality mappings that will cleanse, de-duplicate, and otherwise prepare the project data."
+    },
+    {
+      "duty": "Implement data quality processes including transliteration, parsing, analysis, standardization, and enrichment at point of entry and batch modes."
+    },
+    {
+      "duty": "Document all mappings, mapplets, and rules in detail and hand over documentation to the customer."
+    },
+    {
+      "duty": "Collaborate with various business and technical teams to gather requirements around data quality rules and propose the optimization of these rules if applicable, then design and develop these rules with IDQ."
+    },
+    {
+      "duty": "Utilize \u201cInformatica Developer\u201d and \u201cInformatica Analyst\u201d to design and develop custom objects and rules, reference data tables and create/import/export mappings."
+    },
+    {
+      "duty": "Perform thorough data profiling with multiple usage patterns, root cause analysis, and data cleansing and develop scorecards utilizing Informatica, Excel, and other data quality tools."
+    },
+    {
+      "duty": "Develop \"matching\" plans, help determine the best matching algorithm, configure identity matching, and analyze duplicates."
+    },
+    {
+      "duty": "Build complex profiles and scripts to execute and test mappings and workflows to implement data stewardship and exception processing."
+    },
+    {
+      "duty": "Run data quality specific ETL jobs utilizing IDQ."
+    },
+    {
+      "duty": "Analyze and provide data metrics to management in order to help prioritize areas for data quality improvement."
+    },
+    {
+      "duty": "Participate in the improvement of master data management process and support transactional systems and processes."
+    },
+    {
+      "duty": "Write shell-scripts to invoke mappings or workflows and validate objects in different environments."
+    },
+    {
+      "duty": "Write SQL queries and verify the results. Perform Unit Test and validate the end results with business requirements."
+    },
+    {
+      "duty": "Perform both record-level and large-scale manual additions, adjustments, and corrections to ensure overall data quality and integrity."
+    },
+    {
+      "duty": "Maintain an excellent working relationship between internal and external parties."
+    },
+    {
+      "duty": "Assist with special projects or ad-hoc reviews as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in business, Computer Science, Management Information Systems, Engineering or a related field."
+    }
+  ]
+}

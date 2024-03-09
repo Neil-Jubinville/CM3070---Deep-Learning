@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Practical Nurse (LPN)",
+      "job_category": "Healthcare",
+      "job_class": "Practical Nurse",
+      "sector": "Healthcare",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Safety",
+      "experience": 2
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 2
+    },
+    {
+      "skill": "CPR Certification",
+      "experience": 1
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Computer Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Post-Acute Care",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide nursing care and assume responsibility for assigned residents/patients for a shift of duty."
+    },
+    {
+      "duty": "Coordinate, implement, and evaluate the resident's/patient's plan of care."
+    },
+    {
+      "duty": "Adhere to the standards of care, manage the environment to maintain resident/patient safety, and supervise nursing assistants' care activities."
+    },
+    {
+      "duty": "Follow all Center policies and procedures as defined by the State Nurse Practice Act."
+    },
+    {
+      "duty": "Maintain current CPR certification and demonstrate basic computer knowledge."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Licensed Practical Nurse (LPN) license in the state"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Verification Champion",
+      "job_category": "Software Engineering",
+      "job_class": "Champion",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Test Strategy",
+      "experience": 2
+    },
+    {
+      "skill": "Software Verification",
+      "experience": 3
+    },
+    {
+      "skill": "Test Specification",
+      "experience": 3
+    },
+    {
+      "skill": "Regression Testing",
+      "experience": 3
+    },
+    {
+      "skill": "J1939 CAN Protocol",
+      "experience": 1
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Agile/Scrum Methodologies",
+      "experience": 3
+    },
+    {
+      "skill": "Python",
+      "experience": 3
+    },
+    {
+      "skill": "Test Automation",
+      "experience": 3
+    },
+    {
+      "skill": "Embedded Development",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Execute the software test strategy (where to test) for the scope of features being delivered - MiL/SiL (virtual environment), HiL (subsystem simulator), and/or ViL (Tractor)."
+    },
+    {
+      "duty": "Execute the software verification test plan (which test cases to run) for the features delivered and defects fixed."
+    },
+    {
+      "duty": "Execute test specification/test cases for functional verification."
+    },
+    {
+      "duty": "Execute appropriate level of regression testing required for each software release."
+    },
+    {
+      "duty": "Establish and track software test metrics (requirements to test case coverage, test case data, test results, defects found, defect escapes ...)"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electrical Engineering, Computer Engineering, Computer Science or equivalent work experience."
+    }
+  ]
+}

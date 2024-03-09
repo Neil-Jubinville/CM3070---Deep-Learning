@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Product Manager",
+      "job_category": "Marketing",
+      "job_class": "Manager",
+      "sector": "Marketing",
+      "salary": 140000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Product Management",
+      "experience": 5
+    },
+    {
+      "skill": "Data Platform Management",
+      "experience": 5
+    },
+    {
+      "skill": "Data Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Stakeholder Management",
+      "experience": 5
+    },
+    {
+      "skill": "B2B Data Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Market Research",
+      "experience": 5
+    },
+    {
+      "skill": "User Research",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Define and communicate the vision, strategy and roadmap for our B2B data platform that creates a single source of truth from multiple sources."
+    },
+    {
+      "duty": "Collaborate with engineering, analysts and other product teams to deliver data solutions that are efficient, scalable and privacy-safe."
+    },
+    {
+      "duty": "Conduct user research, competitive analysis and market research to validate hypotheses and identify customer needs and pain points."
+    },
+    {
+      "duty": "Define success metrics, track progress and communicate results to stakeholders."
+    },
+    {
+      "duty": "Manage trade-offs, risks and dependencies across multiple projects and teams."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Marketing, Business, or a related field (Master's preferred)"
+    }
+  ]
+}

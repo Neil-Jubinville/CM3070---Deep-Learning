@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. Windows Application Software Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C#",
+      "experience": 10
+    },
+    {
+      "skill": "XAML Development",
+      "experience": 5
+    },
+    {
+      "skill": "Windows C++ Development",
+      "experience": 5
+    },
+    {
+      "skill": "UWP and/or Windows App SDK Development",
+      "experience": 5
+    },
+    {
+      "skill": "GIS and Location-based Application Development",
+      "experience": 5
+    },
+    {
+      "skill": "C++ UWP Libraries",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Designing, developing, and maintaining Windows applications using C# and other technologies."
+    },
+    {
+      "duty": "Working closely with other developers and stakeholders to ensure that applications meet the needs of users and are of the highest quality."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Software Engineering, Computer Science, or related field (Master's preferred)"
+    }
+  ]
+}

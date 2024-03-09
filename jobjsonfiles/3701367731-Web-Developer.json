@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Web Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HTML",
+      "experience": 2
+    },
+    {
+      "skill": "CSS",
+      "experience": 2
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 2
+    },
+    {
+      "skill": "Server-Side Technology",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and maintain next-generation websites and web tools."
+    },
+    {
+      "duty": "Revise, edit, proofread, and optimize web content."
+    },
+    {
+      "duty": "Work with cross-functional teams to enhance overall user experience."
+    },
+    {
+      "duty": "Own various design tasks involved in the web development life cycle."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent experience in Computer Science"
+    }
+  ]
+}

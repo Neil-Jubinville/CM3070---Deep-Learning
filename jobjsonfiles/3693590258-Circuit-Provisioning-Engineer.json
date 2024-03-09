@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Circuit Provisioning Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Circuit Design",
+      "experience": 5
+    },
+    {
+      "skill": "Access Service Requests (ASR)",
+      "experience": 5
+    },
+    {
+      "skill": "Network Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Support",
+      "experience": 5
+    },
+    {
+      "skill": "Logistical Support",
+      "experience": 5
+    },
+    {
+      "skill": "Network Equipment Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Designing circuits using Circuit Inventory System"
+    },
+    {
+      "duty": "Creating Access Service Requests (ASR) and verifying all fields for accuracy"
+    },
+    {
+      "duty": "Tracking, receiving, and verifying Firm Order Commitment (FOC) and Design Layout Record (DLR) from LEC or TPV"
+    },
+    {
+      "duty": "Scheduling orders for installation, monitoring status, and managing first-level escalations"
+    },
+    {
+      "duty": "Monitoring network systems and applications to ensure overall system availability and performance"
+    },
+    {
+      "duty": "Troubleshooting to resolve network incidents and escalate issues to the appropriate internal/external engineer teams for resolution"
+    },
+    {
+      "duty": "Participating in maintenance activities including installation, repair, administration, and technical support of the network equipment"
+    },
+    {
+      "duty": "Providing evaluations and reports on the status of network operations back to leadership to determine areas for improvement or concern"
+    },
+    {
+      "duty": "Providing logistical support to engineers deployed in the field, instructing on dispatch, and provisioning requests"
+    },
+    {
+      "duty": "Monitoring and tracking the status of orders and communicating with customers"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 150,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree or one or more years of work experience"
+    }
+  ]
+}

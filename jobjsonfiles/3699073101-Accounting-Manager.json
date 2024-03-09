@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Accounting Manager",
+      "job_category": "Accounting",
+      "job_class": "Manager",
+      "sector": "Insurance",
+      "salary": 72500,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounts Payable",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Management",
+      "experience": 5
+    },
+    {
+      "skill": "Team Management",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Process Improvement",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee the special projects team working on various financial tasks"
+    },
+    {
+      "duty": "Accounts Payable invoice processing and reconciliations"
+    },
+    {
+      "duty": "Bank wires and process transfers"
+    },
+    {
+      "duty": "Assist in closing sales and broker grids"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting, Finance or related field (Master's preferred)"
+    }
+  ]
+}

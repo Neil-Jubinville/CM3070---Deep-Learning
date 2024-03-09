@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Technology",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop project plans, define goals, targets and milestones, scope, deliverables, schedules and budgets."
+    },
+    {
+      "duty": "Using project management tools to organize, manage, monitor, and measure project progress to ensure quality results and on-time completion. Adjust to achieve project targets as needed to maintain deliverables, milestones, and schedules."
+    },
+    {
+      "duty": "Track project performance and progress to schedule, and maintain project timeframes, budgeting estimates, and status reports. Assign tasks to project personnel best positioned to complete them, while ensuring resources are actively working toward established milestones."
+    },
+    {
+      "duty": "Coordinate and organize project team members and departments; with meetings/schedules, assigning and monitoring tasks, and following through and motivating people to ensure completion of tasks with quality and on time. Manage project site on company portal."
+    },
+    {
+      "duty": "Conducting risk assessments and identifying and managing project risks."
+    },
+    {
+      "duty": "Develop Communication Plans, and manage/assist with the preparation and delivery of project communications. Communicate with project team members, partners, department management to keep the project aligned with goals. Assist with organizational change management."
+    },
+    {
+      "duty": "Establish and implement training strategies and programs, and assist with end-user training and support."
+    },
+    {
+      "duty": "Prepare budgets; tracking expenditures; analyze cost variances, and work with procurement to initiate purchases."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 10
+    },
+    {
+      "skill": "Leadership",
+      "experience": 10
+    },
+    {
+      "skill": "Communication",
+      "experience": 10
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 10
+    },
+    {
+      "skill": "Resource Planning",
+      "experience": 10
+    },
+    {
+      "skill": "Budgeting",
+      "experience": 10
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 10
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in fields of business or management, information technology, engineering, or operations"
+    },
+    {
+      "credential": "Project Management Professional (PMP) Certification from the Project Management Institute, or equivalent."
+    }
+  ]
+}

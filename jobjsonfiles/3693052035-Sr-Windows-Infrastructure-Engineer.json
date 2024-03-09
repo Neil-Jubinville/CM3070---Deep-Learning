@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr Windows/Infrastructure Engineer",
+      "job_category": "Technology",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Systems Engineering",
+      "experience": 7
+    },
+    {
+      "skill": "Software Development",
+      "experience": 7
+    },
+    {
+      "skill": "Network Programming",
+      "experience": 7
+    },
+    {
+      "skill": "Windows AD",
+      "experience": 7
+    },
+    {
+      "skill": "PowerShell Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Terraform",
+      "experience": 5
+    },
+    {
+      "skill": "Jenkins",
+      "experience": 5
+    },
+    {
+      "skill": "Active Directory",
+      "experience": 5
+    },
+    {
+      "skill": "PXE",
+      "experience": 3
+    },
+    {
+      "skill": "Cloud Technologies",
+      "experience": 7
+    },
+    {
+      "skill": "Security & Entitlements",
+      "experience": 7
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 7
+    },
+    {
+      "skill": "Systems Automation",
+      "experience": 7
+    },
+    {
+      "skill": "Application Monitoring",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain systems and infrastructure software for large-scale environments."
+    },
+    {
+      "duty": "Implement and manage system security and entitlements, including SSO, Windows AD, and Kerberos."
+    },
+    {
+      "duty": "Utilize modern compute technologies like virtualization, cloud, and orchestration for system automation."
+    },
+    {
+      "duty": "Work with large-scale infrastructure environments distributed across multiple data centers."
+    },
+    {
+      "duty": "Monitor and maintain application and system performance using monitoring systems and instrumentation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

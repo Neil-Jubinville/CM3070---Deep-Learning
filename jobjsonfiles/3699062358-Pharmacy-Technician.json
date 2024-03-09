@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Pharmacy Technician",
+      "job_category": "Pharmacy",
+      "job_class": "Technician",
+      "sector": "Pharmacy",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Order Preparation",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Control",
+      "experience": 2
+    },
+    {
+      "skill": "HIPAA Regulations",
+      "experience": 2
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Complete automation canister product replenishments"
+    },
+    {
+      "duty": "Unpack and sort incoming deliveries of product"
+    },
+    {
+      "duty": "Sort orders and prepare totes for store delivery"
+    },
+    {
+      "duty": "Pack individual orders for shipment"
+    },
+    {
+      "duty": "Prepare orders for pharmacist review using manual and automated processes"
+    },
+    {
+      "duty": "Perform tasks associated with general production"
+    },
+    {
+      "duty": "Maintain departmental standards including keeping clean and organized work stations"
+    },
+    {
+      "duty": "Follow all policies and procedures developed to ensure patient safety and security"
+    },
+    {
+      "duty": "Understand and adhere to Health Insurance Portability and Accountability Act (HIPAA) regulations and the company's policies regarding the same"
+    },
+    {
+      "duty": "Support company Health and Wellness initiatives"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED"
+    }
+  ]
+}

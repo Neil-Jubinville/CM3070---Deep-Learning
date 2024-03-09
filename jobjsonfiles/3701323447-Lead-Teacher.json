@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Teacher",
+      "job_category": "Education",
+      "job_class": "Teacher",
+      "sector": "Education",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Lesson Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Teaching",
+      "experience": 5
+    },
+    {
+      "skill": "Training",
+      "experience": 4
+    },
+    {
+      "skill": "Child Interaction",
+      "experience": 5
+    },
+    {
+      "skill": "CPR Certification",
+      "experience": 3
+    },
+    {
+      "skill": "First Aid Certification",
+      "experience": 3
+    },
+    {
+      "skill": "Early Childhood Education",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create and implement age-appropriate lesson plans for children in a preschool or early childhood education setting."
+    },
+    {
+      "duty": "Promote positive communication with parents and children, creating a supportive and engaging learning environment."
+    },
+    {
+      "duty": "Provide educational training and mentoring to assistant teachers for professional development."
+    },
+    {
+      "duty": "Supervise and ensure the safety and well-being of children during educational activities and playtime."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's or Bachelor's degree in Early Childhood Education or related field"
+    },
+    {
+      "credential": "Certification in CPR and First Aid"
+    }
+  ]
+}

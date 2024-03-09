@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "HIM Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 38000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Analysis/Assembly",
+      "experience": 2
+    },
+    {
+      "skill": "Reprocessing",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Record Filing",
+      "experience": 2
+    },
+    {
+      "skill": "Transcription Processing",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 2
+    },
+    {
+      "skill": "Record Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare and file birth certificates for all births in the facility within 4 to 5 days."
+    },
+    {
+      "duty": "Process and manage medical records, ensuring compliance with regulations and standards."
+    },
+    {
+      "duty": "Communicate with external parties to obtain and confirm birth certificate information."
+    },
+    {
+      "duty": "Order necessary forms to complete birth certificates from the Nevada State Division of Vital Statistics."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 70,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent.Required knowledge of medical record procedures and medical terminology. RHIT( ART) is helpful."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical and Computer Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Computer Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Wire Harness Design",
+      "experience": 5
+    },
+    {
+      "skill": "CAD Modeling (CATIA, Capital NX, Solidworks, Mentor Graphics CAP-H)",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the design of wire harness and electrical distribution systems for automotive vehicles."
+    },
+    {
+      "duty": "Translate OEM wiring requirements into 2D wiring drawings and evaluate harness designs."
+    },
+    {
+      "duty": "Root cause electrical wiring issues and provide technical interface to the advanced wiring team."
+    },
+    {
+      "duty": "Assess and package harness designs, attend design reviews, and coordination meetings."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science in Electrical or Computer Engineering, Computer Science, or equivalent work experience."
+    }
+  ]
+}

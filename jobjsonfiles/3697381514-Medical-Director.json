@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Director",
+      "job_category": "Healthcare",
+      "job_class": "Director",
+      "sector": "Healthcare",
+      "salary": 235000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Review",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Policy",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Management",
+      "experience": 5
+    },
+    {
+      "skill": "Utilization Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Analytic Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Utilize medical background and experience to authorize requested services and determine level of care."
+    },
+    {
+      "duty": "Review complex clinical scenarios and prioritize daily work based on clinical records."
+    },
+    {
+      "duty": "Communicate decisions to internal associates and collaborators based on national guidelines and policies."
+    },
+    {
+      "duty": "Provide medical interpretation and collaborate with team members and other healthcare professionals."
+    },
+    {
+      "duty": "Operationalize knowledge of Commercial, Medicaid, Medicare, and Medicare Advantage requirements in daily work."
+    },
+    {
+      "duty": "Manage online presence and equipment for remote work, meeting compliance timelines."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "MD or DO degree with Board Certification in an approved ABMS Medical Specialty. "
+    }
+  ]
+}

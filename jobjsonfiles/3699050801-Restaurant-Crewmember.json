@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Restaurant Crewmember",
+      "job_category": "Hospitality",
+      "job_class": "Crewmember",
+      "sector": "Hospitality",
+      "salary": 12,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Cashier",
+      "experience": 1
+    },
+    {
+      "skill": "Restaurant Server",
+      "experience": 1
+    },
+    {
+      "skill": "Kitchen Lead",
+      "experience": 1
+    },
+    {
+      "skill": "Prep Cook",
+      "experience": 1
+    },
+    {
+      "skill": "Drive Thru Cashier",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide quick and friendly service to all Customers"
+    },
+    {
+      "duty": "Assist other Crewmembers in completion of tasks and assignments to ensure continuity of service"
+    },
+    {
+      "duty": "Handle and prepare food following proper safety procedures"
+    },
+    {
+      "duty": "Clean tables, floors, and other areas of the Restaurant"
+    },
+    {
+      "duty": "Take orders from Customers and process payments efficiently"
+    },
+    {
+      "duty": "Multitask and work under pressure at a fast pace"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Must be 16 years of age or older"
+    }
+  ]
+}

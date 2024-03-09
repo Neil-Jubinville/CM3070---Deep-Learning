@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Registrar",
+      "job_category": "Healthcare",
+      "job_class": "Registrar",
+      "sector": "Administrative",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Registration",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Interview patients for all pertinent account information and verify insurance coverage."
+    },
+    {
+      "duty": "Understand and explain policies regarding services, pricing, insurance billing, and payment of accounts."
+    },
+    {
+      "duty": "Verify all insurance and obtain pre-certification/authorization."
+    },
+    {
+      "duty": "Process patient charts according to paperwork flow needs and established productivity standards."
+    },
+    {
+      "duty": "Meet/exceed performance expectations and complete work within the required timeframe."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "1 year of related experience required. Demonstrates proficiency in Microsoft Office applications and others as required."
+    }
+  ]
+}

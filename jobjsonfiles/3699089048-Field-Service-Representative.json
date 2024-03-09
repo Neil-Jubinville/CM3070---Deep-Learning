@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Service Representative",
+      "job_category": "Field Service",
+      "job_class": "Representative",
+      "sector": "Healthcare",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Clean Driving Record",
+      "experience": 2
+    },
+    {
+      "skill": "Warehouse Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Documentation",
+      "experience": 2
+    },
+    {
+      "skill": "Delivery",
+      "experience": 2
+    },
+    {
+      "skill": "Disinfection",
+      "experience": 2
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Healthcare Equipment",
+      "experience": 2
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare medical equipment and documentation for delivery"
+    },
+    {
+      "duty": "Load and unload medical equipment"
+    },
+    {
+      "duty": "Drive 24 foot box truck to make deliveries and pick-ups"
+    },
+    {
+      "duty": "Process delivery and pick-up documentation as required"
+    },
+    {
+      "duty": "Search for equipment that has been misplaced or lost"
+    },
+    {
+      "duty": "Maintain vehicle appearance by ensuring all routine vehicle maintenance is completed and records maintained"
+    },
+    {
+      "duty": "Clean and disinfect medical equipment to Arjo quality standards"
+    },
+    {
+      "duty": "Present highest level of customer etiquette in all patient/customer interactions"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

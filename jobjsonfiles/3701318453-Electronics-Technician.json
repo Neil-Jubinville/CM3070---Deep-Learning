@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Electronics Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 44000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electronics",
+      "experience": 2
+    },
+    {
+      "skill": "Hand Tools",
+      "experience": 2
+    },
+    {
+      "skill": "Wiring",
+      "experience": 2
+    },
+    {
+      "skill": "Panel Building",
+      "experience": 2
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assembly of Electrical Control Panels per customer orders."
+    },
+    {
+      "duty": "Wiring panels, installation, and wiring of electrical devices."
+    },
+    {
+      "duty": "Maintenance of U.L. & other quality control files."
+    },
+    {
+      "duty": "Layout of components in various size cabinets."
+    },
+    {
+      "duty": "Mentoring junior members of the team."
+    },
+    {
+      "duty": "Lead role on a customer project."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 120,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma (required)"
+    }
+  ]
+}

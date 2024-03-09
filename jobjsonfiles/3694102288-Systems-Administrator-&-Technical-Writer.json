@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Systems Administrator & Technical Writer",
+      "job_category": "Information Technology",
+      "job_class": "Administrator",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "System Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Network Infrastructure Management",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft 365 Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Content Management Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Information Security",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in the oversight and maintenance of the organization's IT systems and infrastructure, including servers, networks, and applications."
+    },
+    {
+      "duty": "Create and update internal technical documentation for IT processes, procedures, and policies."
+    },
+    {
+      "duty": "Maintain accurate records and documentation for regulatory entities and auditors to ensure legal and compliance requirements are met."
+    },
+    {
+      "duty": "Manage enterprise systems and applications including but not limited to Windows Server, SQL, Exchange, VMware, Office 365, Hybrid Identities, Mimecast, Active Directory, Encryption, Information Protection, Veeam, and Fortinet."
+    },
+    {
+      "duty": "Support ERP & other core business system users and security controls per documented procedures to maintain regulatory compliance."
+    },
+    {
+      "duty": "Provide escalation support for lower-level IT staff."
+    },
+    {
+      "duty": "Coordinating, tracking, reviewing and ensuring timely completion of high-quality controlled documents such as process flows, procedures, reports, forms, specifications, protocols, etc."
+    },
+    {
+      "duty": "Work closely with the IT team to ensure all documentation is accurate, up-to-date, and aligned with industry best practices."
+    }
+  ],
+  "_subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Information Technology, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

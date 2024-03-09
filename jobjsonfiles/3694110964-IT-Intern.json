@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Intern",
+      "job_category": "Information Technology",
+      "job_class": "Intern",
+      "sector": "Information Technology",
+      "salary": 25000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "IT Hardware",
+      "experience": 1
+    },
+    {
+      "skill": "Networking Principles",
+      "experience": 1
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 1
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 1
+    },
+    {
+      "skill": "Work Ethic",
+      "experience": 1
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide 1st line technical support for users"
+    },
+    {
+      "duty": "Triage and record problems and their resolution within internal ticketing system"
+    },
+    {
+      "duty": "Assist in deploying new desktop and laptop computers"
+    },
+    {
+      "duty": "Assist in troubleshooting and repair of computers, phones, and printers"
+    },
+    {
+      "duty": "Organize and inventory current assets"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 60,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Computer & Information Technology major or similar"
+    }
+  ]
+}

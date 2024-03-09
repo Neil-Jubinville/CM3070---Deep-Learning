@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Support Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Data Warehousing (BigQuery, Snowflake, Redshift, Databricks)",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "GIS",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Fluent English",
+      "experience": 5
+    },
+    {
+      "skill": "Autonomy",
+      "experience": 5
+    },
+    {
+      "skill": "Curiosity",
+      "experience": 5
+    },
+    {
+      "skill": "Eagerness to learn",
+      "experience": 5
+    },
+    {
+      "skill": "Good Energy",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide support on technical inquiries to CARTO customers in the Americas through support channels."
+    },
+    {
+      "duty": "Analyze, triage, and discuss with product management, engineering, and design team members to provide clarity to customers regarding their inquiries."
+    },
+    {
+      "duty": "Develop technical examples for customers and provide first-hand technical support."
+    },
+    {
+      "duty": "Be available for on-call requests for agreed shifts."
+    },
+    {
+      "duty": "Become an expert in a cloud native mapping platform and Spatial Analysis using SQL in modern warehouses like BigQuery, Snowflake, Redshift, and Databricks."
+    },
+    {
+      "duty": "Participate with leading open source projects such as deck.gl and be part of the data visualization community."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science, or related fields."
+    }
+  ]
+}

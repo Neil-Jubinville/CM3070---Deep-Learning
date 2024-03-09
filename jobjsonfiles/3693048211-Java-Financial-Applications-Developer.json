@@ -1,0 +1,105 @@
+{
+  "meta": [
+    {
+      "job_title": "Java Financial Applications Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Software Developer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java 8",
+      "experience": 5
+    },
+    {
+      "skill": "Equity Trading",
+      "experience": 5
+    },
+    {
+      "skill": "Stockloan Platforms",
+      "experience": 5
+    },
+    {
+      "skill": "Spring Framework/Spring Boot",
+      "experience": 5
+    },
+    {
+      "skill": "WebServices/REST API/Micro Services",
+      "experience": 5
+    },
+    {
+      "skill": "Messaging",
+      "experience": 5
+    },
+    {
+      "skill": "Multi-threaded Processes",
+      "experience": 5
+    },
+    {
+      "skill": "Design Patterns",
+      "experience": 5
+    },
+    {
+      "skill": "Application Security (SSL/Certificates)",
+      "experience": 5
+    },
+    {
+      "skill": "Git",
+      "experience": 5
+    },
+    {
+      "skill": "JUnit",
+      "experience": 5
+    },
+    {
+      "skill": "Mockito",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Background",
+      "experience": 5
+    },
+    {
+      "skill": "Web 2 UI Development (Angular 8+, HTML, CSS, JavaScript, TypeScript, WebSocket)",
+      "experience": 5
+    },
+    {
+      "skill": "C# with WinForms Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain financial applications using Java-based technologies for equity trading and stockloan platforms."
+    },
+    {
+      "duty": "Implement Spring framework and Spring Boot for the development of web services, REST APIs, and microservices."
+    },
+    {
+      "duty": "Utilize messaging and multi-threaded processes, with a strong understanding of design patterns for efficient application development and performance."
+    },
+    {
+      "duty": "Ensure application security through the use of SSL, certificates, and other security measures."
+    },
+    {
+      "duty": "Collaborate with a fast-paced, iterative/agile team, and work independently on coding and testing using Git, JUnit, and Mockito."
+    },
+    {
+      "duty": "Utilize financial background knowledge to enhance the development of financial applications."
+    },
+    {
+      "duty": "Web 2 UI development and C# with WinForms development are also beneficial skills for the role."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

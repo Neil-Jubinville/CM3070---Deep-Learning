@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Outside Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Prospecting",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Presentation Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Closing Techniques",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Actively seek and engage with potential clients to promote and sell products/services."
+    },
+    {
+      "duty": "Meet or exceed sales targets and contribute to the company's growth and success."
+    },
+    {
+      "duty": "Manage an existing book of business and build relationships with the customer base."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 50
+    }
+  ]
+}

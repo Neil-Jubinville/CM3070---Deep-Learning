@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Office Manager",
+      "job_category": "Administration",
+      "job_class": "Manager",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Office Management",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Management",
+      "experience": 5
+    },
+    {
+      "skill": "Athena",
+      "experience": 5
+    },
+    {
+      "skill": "HR Practices",
+      "experience": 4
+    },
+    {
+      "skill": "Accounting Principles",
+      "experience": 4
+    },
+    {
+      "skill": "Women's Health Knowledge",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Supervise and support administrative/clinical staff, ensuring efficient workflow and adherence to office policies and procedures."
+    },
+    {
+      "duty": "Onboard new employees, and maintain employee records."
+    },
+    {
+      "duty": "Manage office budgets, expense reports, and financial transactions, working closely with the finance department."
+    },
+    {
+      "duty": "Coordinate patient appointments and scheduling to optimize provider time and treatment room utilization."
+    },
+    {
+      "duty": "Address patient inquiries and concerns, ensuring a positive and compassionate patient experience."
+    },
+    {
+      "duty": "Liaise with external vendors and service providers, negotiating contracts and maintaining positive relationships."
+    },
+    {
+      "duty": "Plan and coordinate office events, meetings, and team-building activities."
+    },
+    {
+      "duty": "Facilitate effective communication between different departments and disseminate important information."
+    },
+    {
+      "duty": "Address office-related issues and challenges promptly and effectively."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Management, or a related field preferred (or equivalent work experience)."
+    }
+  ]
+}

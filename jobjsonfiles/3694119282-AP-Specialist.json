@@ -1,0 +1,49 @@
+{
+  "meta": [
+    {
+      "job_title": "AP Specialist",
+      "job_category": "Finance",
+      "job_class": "Specialist",
+      "sector": "Finance",
+      "salary": 34,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounts Payable",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 3
+    },
+    {
+      "skill": "Excel",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain confidentiality of organizational, partner, and vendor information."
+    },
+    {
+      "duty": "Support month- and quarter-end close processes through journal entries, account reconciliations, and analyses."
+    },
+    {
+      "duty": "Assist the Finance Manager with annual audit and preparation of the Form 990."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Prior experience in an accounts payable department within a nonprofit organization. Experience with Financial Edge, Sage, or Quickbooks Online preferred."
+    }
+  ]
+}

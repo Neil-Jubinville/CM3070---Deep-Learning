@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Credit Analyst",
+      "job_category": "Finance",
+      "job_class": "Analyst",
+      "sector": "Finance",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Credit Underwriting",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Loan Structuring",
+      "experience": 3
+    },
+    {
+      "skill": "Risk Assessment",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office Suite",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Execute credit underwriting process and verify borrowing cause, repayment sources, and credit risks."
+    },
+    {
+      "duty": "Identify strengths and weaknesses in repayment ability, capital, liquidity, and loan structure."
+    },
+    {
+      "duty": "Clarify credit requests against established credit policy and create written credit reports."
+    },
+    {
+      "duty": "Understand member financial statements and create financial projections with well-tested assumptions."
+    },
+    {
+      "duty": "Summarize underwriting efforts in reports to focus loan committee discussion on key factors."
+    },
+    {
+      "duty": "Support Relationship Management team and provide backup on customer service issues."
+    },
+    {
+      "duty": "Suggest and implement credit process improvements to enhance efficiency and customer satisfaction."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in relevant field or equivalent experience in credit underwriting in production agriculture or commercial agribusiness lending."
+    }
+  ]
+}

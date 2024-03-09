@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Manager",
+      "job_category": "Sales",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Management",
+      "experience": 5
+    },
+    {
+      "skill": "Coaching",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Revenue Generation",
+      "experience": 5
+    },
+    {
+      "skill": "CRM Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Forecasting",
+      "experience": 5
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Market Strategy Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Leading a sales team to achieve revenue and growth targets by establishing sales goals and monitoring team members\u2019 achievements"
+    },
+    {
+      "duty": "Coaching employees on improving skills and industry knowledge through face-to-face and digital channels"
+    },
+    {
+      "duty": "Driving sales objectives and working with key team members to develop market strategies and presentations"
+    },
+    {
+      "duty": "Providing accurate weekly, monthly and quarterly forecasts"
+    },
+    {
+      "duty": "Attracting and retaining account executives (hire, train, coach, appraise, reward, motivate, etc.)"
+    },
+    {
+      "duty": "Participating in the sales process on key accounts and maintaining positive customer relationships"
+    },
+    {
+      "duty": "Ensuring adoption and consistent use of key sales tech stack applications"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree and/or equivalent experience"
+    }
+  ]
+}

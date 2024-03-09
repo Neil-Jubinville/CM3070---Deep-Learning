@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Accountant",
+      "job_category": "Accounting",
+      "job_class": "Staff",
+      "sector": "Finance",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "General Bookkeeping",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Market Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Excel",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Tax Preparation",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare journal entries and maintain financial reports"
+    },
+    {
+      "duty": "Analyze and prepare budgets and financial statements"
+    },
+    {
+      "duty": "Reconcile various general ledger accounts and prepare balance sheet account reconciliations"
+    },
+    {
+      "duty": "Assist in annual audit process with external auditors and prepare tax-related schedules for yearly tax returns"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting, Finance, Business, Economics, or a related field of study (CPA preferred)"
+    }
+  ]
+}

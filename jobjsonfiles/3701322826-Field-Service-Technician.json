@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Service Technician",
+      "job_category": "Industrial Maintenance",
+      "job_class": "Technician",
+      "sector": "Industrial Maintenance",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Controls Systems (PLC, HMI/SCADA)",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Arch Flash Standards",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Inspect, troubleshoot, and repair various industrial equipment and systems in the West TN / Memphis areas."
+    },
+    {
+      "duty": "Recommend solutions for equipment and systems in line with company policies and customer benefit."
+    },
+    {
+      "duty": "Utilize strong electrical background and controls system experience for troubleshooting and repairs."
+    },
+    {
+      "duty": "Provide high levels of customer service in the field service role."
+    },
+    {
+      "duty": "Adhere to Arch Flash standards and best practices for safety and compliance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS in Electrical Engineering, Industrial Engineering, Computer Science or Information Technology or technology type degree"
+    }
+  ]
+}

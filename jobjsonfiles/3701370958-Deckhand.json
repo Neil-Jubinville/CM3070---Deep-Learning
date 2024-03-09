@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Deckhand",
+      "job_category": "Maritime",
+      "job_class": "Entry Level",
+      "sector": "Maritime",
+      "salary": 45000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Marine Operations",
+      "experience": 1
+    },
+    {
+      "skill": "Boat Operation",
+      "experience": 1
+    },
+    {
+      "skill": "Safety and Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Communication",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Handle lines and cables during docking/undocking of vessel, breaks out, rigs, overhauls, and stows cargo-handling gear, stationary rigging, and running gear."
+    },
+    {
+      "duty": "Assist with the launching and recovering of test equipment, shapes, targets, exercise Torpedoes and other range test equipment as designated."
+    },
+    {
+      "duty": "Maintain shipboard safety equipment and handle lines during launch and recovery of items."
+    },
+    {
+      "duty": "Operate small boats when qualified and conduct preservation of vessels which may include painting and surface preparations on deck or superstructure."
+    },
+    {
+      "duty": "Inspect and test equipment to ensure safe and proper operation, inspect work areas and crew quarters for cleanliness, and assist with maintaining a clean and sanitary work environment."
+    },
+    {
+      "duty": "Stand at wheel or lookout, watch for obstructions in path of ship, steer ship, and direct security procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

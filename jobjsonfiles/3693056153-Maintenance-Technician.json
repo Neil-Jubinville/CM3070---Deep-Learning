@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Transportation",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Automotive Service",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    },
+    {
+      "skill": "Road Service",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform necessary repairs, maintenance, or inspection of diesel and non-diesel equipment and trucks including chassis components, vehicle refuse bodies, and control systems."
+    },
+    {
+      "duty": "Perform road service calls to help colleagues during emergency breakdowns."
+    },
+    {
+      "duty": "Use computers to diagnose failures and begin repairs, and complete required documentation utilizing software programs."
+    },
+    {
+      "duty": "Follow all required safety policies and procedures and report any safety or employee experience issues immediately to leadership."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Automotive Service Excellence (ASE) Certifications (T1-T8) are a plus but not required. Commercial Driver\u2019s License is a plus but not required. Good time management skills to ensure all work is completed within standard repair times."
+    }
+  ]
+}

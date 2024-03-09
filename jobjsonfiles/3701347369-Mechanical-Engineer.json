@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Mechanical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Aerospace",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Design",
+      "experience": 6
+    },
+    {
+      "skill": "Autodesk Inventor",
+      "experience": 6
+    },
+    {
+      "skill": "SOLIDWORKS",
+      "experience": 4
+    },
+    {
+      "skill": "GD&T",
+      "experience": 5
+    },
+    {
+      "skill": "Manufacturing Processes",
+      "experience": 5
+    },
+    {
+      "skill": "Self-Motivation",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the design of intricate electro-mechanical systems including sheet metal components, structural weldments, and piping using Autodesk Inventor."
+    },
+    {
+      "duty": "Generate Bill of Materials (BOM) and calculation documentation."
+    },
+    {
+      "duty": "Research and partner with purchasing for the selection of materials & parts."
+    },
+    {
+      "duty": "Collaborate closely with suppliers, manufacturers, and contractors as required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Mechanical Engineering or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Nursing Care Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Abilities",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Team Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Supervision",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide leadership in the coordination and delivery of quality compassionate patient care."
+    },
+    {
+      "duty": "Utilize the nursing process of assessment, planning, implementation, and evaluation to provide, delegate, supervise, and document care and teaching of patients and family."
+    },
+    {
+      "duty": "Effectively communicate pertinent patient/family information to health care team."
+    },
+    {
+      "duty": "Participate in finding solutions for variances from patient goals and ensure implementation of solutions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduation from an accredited school of nursing."
+    },
+    {
+      "credential": "Enrollment in a Bachelor of Science in Nursing (BSN) program within 3 years of hire."
+    },
+    {
+      "credential": "Completion of a Bachelor of Science in Nursing (BSN) within 5 years of hire."
+    },
+    {
+      "credential": "Current licensure by the Michigan State Board of Nursing."
+    },
+    {
+      "credential": "Bachelor of Science in Nursing (BSN) preferred."
+    },
+    {
+      "credential": "Professional Certifications to support a culture of nursing excellence preferred."
+    }
+  ]
+}

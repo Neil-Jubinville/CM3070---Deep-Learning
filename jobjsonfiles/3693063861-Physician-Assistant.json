@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Physician Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 105000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "PA Program Graduation",
+      "experience": 4
+    },
+    {
+      "skill": "FL Licensure",
+      "experience": 5
+    },
+    {
+      "skill": "BLS/ACLS Certification",
+      "experience": 5
+    },
+    {
+      "skill": "NCCPA Board Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Trauma Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Infection Control Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Child Abuse Recognition",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist orthopedic physicians in the operating room and evaluate new patients with work-up and interpretation of diagnostic studies"
+    },
+    {
+      "duty": "Relay results and treatment plans to patients, counsel patients and their families regarding proposed surgical procedures, and address pre-and post-operative patient questions and concerns"
+    },
+    {
+      "duty": "Close interaction with patients and families, demonstrating excellent teamwork, communication, and interpersonal skills"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 90,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduation from an accredited PA program, FL licensure, BLS/ACLS certification, NCCPA board certification, Trauma experience, Infection Control Certification, Child Abuse Recognition, and excellent communication and interpersonal skills"
+    }
+  ]
+}

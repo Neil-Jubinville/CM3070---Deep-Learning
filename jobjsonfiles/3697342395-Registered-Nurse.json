@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Medical",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Assessment",
+      "experience": 3
+    },
+    {
+      "skill": "Nursing Diagnosis",
+      "experience": 3
+    },
+    {
+      "skill": "Care Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 3
+    },
+    {
+      "skill": "Clinical Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Judgment and Decision Making",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Obtain comprehensive admission history and perform physical assessment per unit policy."
+    },
+    {
+      "duty": "Demonstrate ongoing assessment of patient\u2019s psychosocial and educational process per unit policy."
+    },
+    {
+      "duty": "Formulate an individualized nursing diagnosis and plan of care based on standards of care and practice."
+    },
+    {
+      "duty": "Modify individualized plan of care based on ongoing assessment and changes in patient status."
+    },
+    {
+      "duty": "Administer prescribed treatments and medications promptly according to hospital policies and procedures."
+    },
+    {
+      "duty": "Document all aspects of the nursing process in a legible, concise, clear, and timely manner."
+    },
+    {
+      "duty": "Involve patient and significant other(s) in all aspects of the nursing process and act as a patient advocate."
+    },
+    {
+      "duty": "Demonstrate sound judgment with the Nursing Process based upon critical thinking skills and a problem-solving approach."
+    },
+    {
+      "duty": "Perform other related duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (Master's preferred)"
+    }
+  ]
+}

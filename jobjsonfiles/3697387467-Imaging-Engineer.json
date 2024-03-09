@@ -1,0 +1,43 @@
+{
+  "meta": [
+    {
+      "job_title": "Imaging Engineer",
+      "job_category": "Healthcare",
+      "job_class": "Engineer",
+      "sector": "Imaging Engineering",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Engineering Technology",
+      "experience": 3
+    },
+    {
+      "skill": "X-ray and Imaging Equipment Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Networking",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide emergency and preventive service for X-ray, Vascular, Cardiac, CT, MRI, Nuclear, Ultrasound, Mammography, and some Biomedical equipment at OhioHealth Van Wert locations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's Degree in Electrical Engineering Technology (or equivalent)"
+    }
+  ]
+}

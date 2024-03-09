@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "job_title": "Principal Digital Design Engineer",
+      "job_category": "Engineering",
+      "job_class": "Principal",
+      "sector": "Software Engineering",
+      "salary": 200000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "RTL Coding",
+      "experience": 10
+    },
+    {
+      "skill": "Simulation",
+      "experience": 10
+    },
+    {
+      "skill": "Synthesis",
+      "experience": 10
+    },
+    {
+      "skill": "TCL",
+      "experience": 10
+    },
+    {
+      "skill": "Python",
+      "experience": 10
+    },
+    {
+      "skill": "Power Management",
+      "experience": 7
+    },
+    {
+      "skill": "System Verilog",
+      "experience": 5
+    },
+    {
+      "skill": "I2C",
+      "experience": 5
+    },
+    {
+      "skill": "SPI",
+      "experience": 5
+    },
+    {
+      "skill": "USB",
+      "experience": 5
+    },
+    {
+      "skill": "Digital Simulators",
+      "experience": 10
+    },
+    {
+      "skill": "DFT",
+      "experience": 10
+    },
+    {
+      "skill": "LEC",
+      "experience": 10
+    },
+    {
+      "skill": "STA",
+      "experience": 10
+    },
+    {
+      "skill": "AMS Sims",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work on analog mixed signal power chips with large digital content, implemented in state-of-the art process technology."
+    },
+    {
+      "duty": "Perform RTL coding, simulation, synthesis, timing closure, verification, evaluation, debugging of large digital blocks at circuit and behavioral levels."
+    },
+    {
+      "duty": "Work on chip partitioning, define interfaces between analog and digital domains, and ensure overall product functionality."
+    },
+    {
+      "duty": "Communicate with a highly talented team of analog and digital design engineers and verification engineers to solve problems and present information."
+    },
+    {
+      "duty": "Participate in work groups, providing ideas and collaborative teamwork."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 40,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS (MS or PhD preferred) degree in Electrical Engineering or equivalent with 10+ years experience"
+    }
+  ]
+}

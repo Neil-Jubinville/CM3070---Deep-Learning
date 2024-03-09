@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Store Consultant",
+      "job_category": "Retail",
+      "job_class": "Consultant",
+      "sector": "Retail",
+      "salary": 16500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 1
+    },
+    {
+      "skill": "Order Management",
+      "experience": 1
+    },
+    {
+      "skill": "Print and Packaging",
+      "experience": 1
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "Point of Sale (POS) Systems",
+      "experience": 1
+    },
+    {
+      "skill": "Team Training",
+      "experience": 1
+    },
+    {
+      "skill": "Financial Transactions",
+      "experience": 1
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver a positive customer experience through consultative skills, order management, and providing product information."
+    },
+    {
+      "duty": "Operate and maintain a variety of equipment, manage production queue, and complete assigned tasks based on priority."
+    },
+    {
+      "duty": "Follow instructions, assist in training, and demonstrate consultative behaviors to understand each customer's individualized needs."
+    },
+    {
+      "duty": "Ensure customer problems are resolved quickly and to the satisfaction of the customer, and takes complex customer orders using order systems."
+    },
+    {
+      "duty": "Maintain a safe, clean, and orderly retail store, handle financial transactions using a Point of Sale terminal (POS), and clean, repair, and stock all retail store printing and shipping equipment and supplies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent education"
+    }
+  ]
+}

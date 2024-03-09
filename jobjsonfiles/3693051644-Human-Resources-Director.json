@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Human Resources Director",
+      "job_category": "Human Resources",
+      "job_class": "Director",
+      "sector": "Management",
+      "salary": 150000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HR Best Practices Knowledge",
+      "experience": 10
+    },
+    {
+      "skill": "Compensation & Benefits Management",
+      "experience": 10
+    },
+    {
+      "skill": "Talent Acquisition",
+      "experience": 10
+    },
+    {
+      "skill": "Relationship Building",
+      "experience": 10
+    },
+    {
+      "skill": "Compliance Management",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Craft and execute HR strategies in harmony with organizational goals."
+    },
+    {
+      "duty": "Mastermind talent acquisition strategies and orchestrate seamless onboarding and offboarding experiences."
+    },
+    {
+      "duty": "Architect personalized total rewards packages to make the organization an ultimate employer of choice."
+    },
+    {
+      "duty": "Ensure organization's compliance with employment laws and regulations."
+    },
+    {
+      "duty": "Evolve the HR function into a strategic partnership that seamlessly integrates with every facet of the business."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Human Resources (MBA preferred)"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Angular 10",
+      "experience": 7
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 7
+    },
+    {
+      "skill": "HTML5",
+      "experience": 7
+    },
+    {
+      "skill": "Typescript",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Developing Single Page Application in Angular 10+"
+    },
+    {
+      "duty": "Translating mockup into HTML"
+    },
+    {
+      "duty": "Working with backend team to integrate Rest API\u2019s with Angular Components"
+    },
+    {
+      "duty": "Finalizing JSON contract with backend team"
+    },
+    {
+      "duty": "Making application compatible for both Edge and Chrome browsers"
+    },
+    {
+      "duty": "Ability to troubleshoot UI issues quickly and provide resolution"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Mandatory Certification: Angular Level 1 / Level 2"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Nursing",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Expertise",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Compassionate Demeanor",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 5
+    },
+    {
+      "skill": "Interdisciplinary Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Electronic Health Records (EHR)",
+      "experience": 5
+    },
+    {
+      "skill": "Infection Control",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership and Mentoring",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct thorough patient assessments, including physical, emotional, and psychological aspects, to identify health needs and concerns."
+    },
+    {
+      "duty": "Create individualized care plans based on assessment findings, medical history, and physician orders."
+    },
+    {
+      "duty": "Advocate for patients' rights, preferences, and safety throughout their healthcare journey."
+    },
+    {
+      "duty": "Maintain accurate and complete electronic health records (EHR) for each patient encounter."
+    },
+    {
+      "duty": "Serve as a resource and mentor to nursing assistants and other healthcare team members."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid and current Registered Nurse (RN) license in the state of practice."
+    },
+    {
+      "credential": "Completion of an accredited nursing program (Associate's or Bachelor's degree in Nursing)."
+    }
+  ]
+}

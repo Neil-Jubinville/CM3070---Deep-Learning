@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for the delivery of safe patient care utilizing the nursing process of assessment, planning, implementation and evaluation."
+    },
+    {
+      "duty": "Direct and guide patient/family teaching and activities of other nursing personnel while maintaining standards of professional nursing care in Telemetry."
+    },
+    {
+      "duty": "Directly responsible and accountable for the care given to his/her patients in the Emergency Department."
+    },
+    {
+      "duty": "Communicate with the physician about the changes in the patient\ufffds clinical condition including results of the diagnostic studies and symptomatology."
+    },
+    {
+      "duty": "Capable of responding quickly and accurately to changes in the condition and/or response to treatment."
+    },
+    {
+      "duty": "Maintain patient privacy and confidentiality."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Telemetry Nursing",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Care",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Communication",
+      "experience": 5
+    },
+    {
+      "skill": "EMTALA Regulations",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science in Nursing (BSN)"
+    },
+    {
+      "credential": "Current and valid state RN License."
+    },
+    {
+      "credential": "BLS (AHA) certificate"
+    },
+    {
+      "credential": "ACLS (AHA) certificate"
+    },
+    {
+      "credential": "PALS (AHA) certificate and/or ENPC"
+    }
+  ]
+}

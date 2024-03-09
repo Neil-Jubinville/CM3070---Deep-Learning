@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "RN",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 45,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Expert Caring",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Coordination of Care",
+      "experience": 5
+    },
+    {
+      "skill": "Lifelong Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Evidence-Based Practice",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Improvement",
+      "experience": 5
+    },
+    {
+      "skill": "Innovation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide expert care by conducting clinical assessments, planning, prioritizing, and coordinating patient care."
+    },
+    {
+      "duty": "Act as a leader in the delivery of patient care and patient care technologies."
+    },
+    {
+      "duty": "Demonstrate commitment to lifelong learning and professional development through education and innovation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited nursing program. Bachelor of Science in Nursing required within 5 years of hire."
+    }
+  ]
+}

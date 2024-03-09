@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Sanitation Worker",
+      "job_category": "Operations",
+      "job_class": "Worker",
+      "sector": "Bakery",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Equipment Sanitation",
+      "experience": 2
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 2
+    },
+    {
+      "skill": "AIB Guidelines",
+      "experience": 2
+    },
+    {
+      "skill": "Hazard Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "HACCP/GMP",
+      "experience": 2
+    },
+    {
+      "skill": "Mathematical Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 2
+    },
+    {
+      "skill": "Food Safety",
+      "experience": 2
+    },
+    {
+      "skill": "Manual Lifting",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Pre-rinse, wash, and sanitize equipment per company standards."
+    },
+    {
+      "duty": "Inspect equipment sanitation and complete checklist."
+    },
+    {
+      "duty": "Maintain cleanliness and organization of the work area."
+    },
+    {
+      "duty": "Setup and prepare equipment for production."
+    },
+    {
+      "duty": "Follow AIB guidelines and safety standards."
+    },
+    {
+      "duty": "Understand and apply HACCP, GMP, and basic math principles."
+    },
+    {
+      "duty": "Ensure compliance with safety and food safety policies."
+    },
+    {
+      "duty": "Clean and sanitize baking/ingredient prep equipment and surfaces."
+    },
+    {
+      "duty": "Perform other assigned duties."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Analyst",
+      "job_category": "Technology",
+      "job_class": "Analyst",
+      "sector": "Technology",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "WMOS",
+      "experience": 3
+    },
+    {
+      "skill": "Active WM",
+      "experience": 2
+    },
+    {
+      "skill": "Configuration",
+      "experience": 3
+    },
+    {
+      "skill": "APIs",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement and configure WMOS systems and solutions to meet business requirements."
+    },
+    {
+      "duty": "Collaborate with stakeholders to understand system needs and provide effective analytical and technical solutions."
+    },
+    {
+      "duty": "Utilize WMOS and Active WM expertise to drive system configuration and improvements."
+    },
+    {
+      "duty": "Develop and maintain API integrations to optimize system functionality and data exchange."
+    },
+    {
+      "duty": "Provide ongoing support and troubleshooting for WMOS and related system components."
+    }
+  ]
+}

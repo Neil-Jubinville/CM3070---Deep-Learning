@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Intelligence Analyst",
+      "job_category": "Data Analysis",
+      "job_class": "Analyst",
+      "sector": "Business Intelligence",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft SQL",
+      "experience": 3
+    },
+    {
+      "skill": "Power BI",
+      "experience": 3
+    },
+    {
+      "skill": "Python",
+      "experience": 3
+    },
+    {
+      "skill": "Alteryx",
+      "experience": 3
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 3
+    },
+    {
+      "skill": "Data Transformation",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Process Improvement",
+      "experience": 3
+    },
+    {
+      "skill": "Advanced Analytics",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Learn about the company's data architecture to effectively run Microsoft SQL queries, power queries, and OLAP queries to collect, prepare, and transform data for client deliverables ad hoc and as a part of streamlined data pipelines."
+    },
+    {
+      "duty": "Automate quality control and data preparation processes using Alteryx or other tools to eliminate manual work for the team."
+    },
+    {
+      "duty": "Build python programs to calculate advanced analytics that would otherwise be impossible without a programming language."
+    },
+    {
+      "duty": "Innovate process improvement solutions with the long-term goal to outsource or automate repeatable tasks."
+    },
+    {
+      "duty": "Provide subject matter expertise on advanced tools and methods such as Python, Microsoft technology stack, Adobe, Alteryx, Artificial Intelligence, APIs, file transfer and job scheduling, or others."
+    },
+    {
+      "duty": "Supporting and a resolving complex ad-hoc queries and requests from various stakeholders including teams, clients, and others."
+    },
+    {
+      "duty": "Prepare regular reporting cycle client materials, including standardized and custom client deliverables that may require sourcing data from various systems and editing data within Excel and PDF file formats."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 110,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree or higher in Computer Science, Applied Math, Engineering, Business Intelligence or Data Analytics for business, or similar quantitative subject area"
+    }
+  ]
+}

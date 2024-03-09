@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Developer (.Net & React)",
+      "job_category": "Software Engineering",
+      "job_class": "Lead",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Azure Experience",
+      "experience": 7
+    },
+    {
+      "skill": "Azure Certification",
+      "experience": 7
+    },
+    {
+      "skill": "Azure Design",
+      "experience": 7
+    },
+    {
+      "skill": "C#.NET",
+      "experience": 10
+    },
+    {
+      "skill": "SQL",
+      "experience": 10
+    },
+    {
+      "skill": "React",
+      "experience": 7
+    },
+    {
+      "skill": "Agile",
+      "experience": 7
+    },
+    {
+      "skill": "Full stack application",
+      "experience": 7
+    },
+    {
+      "skill": "Logic Apps",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Desperate need of rewriting application (C# primarily, some react, Azure logic apps backend work) a cloud application!"
+    },
+    {
+      "duty": "Need to get the design going. Ideally done by Q4."
+    },
+    {
+      "duty": "Integrated now with 2 different warehouse systems and rebuilt the database in the cloud (that is done) now we need to rewrite the code to match the database."
+    },
+    {
+      "duty": "80% is backend work with C#/Azure"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

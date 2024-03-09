@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinarian",
+      "job_category": "Healthcare",
+      "job_class": "Practitioner",
+      "sector": "Healthcare",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide medical care and treatment to animals, including wellness examinations, radiographs, surgery, and dental health."
+    },
+    {
+      "duty": "Utilize acupuncture, herbs, food energetics, cold laser, and PEMF therapies to manage and improve pet's health."
+    },
+    {
+      "duty": "Integrate Western Medicine with Eastern Philosophy in the treatment of pets."
+    },
+    {
+      "duty": "Conduct comprehensive examinations and diagnoses to develop personalized treatment plans for each pet."
+    },
+    {
+      "duty": "Engage in continuous learning and development to stay updated with the latest medical advancements in animal care."
+    },
+    {
+      "duty": "Educate and guide pet owners on pet health management and wellness, including nutrition and lifestyle recommendations."
+    },
+    {
+      "duty": "Collaborate with a diverse team to provide integrated care and support for pets."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Veterinary Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "Acupuncture",
+      "experience": 3
+    },
+    {
+      "skill": "Herbal Medicine",
+      "experience": 3
+    },
+    {
+      "skill": "Pet Wellness Management",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnostic Imaging",
+      "experience": 5
+    },
+    {
+      "skill": "Surgery",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Care",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Veterinary Medicine (DVM) degree from an accredited veterinary school."
+    }
+  ]
+}

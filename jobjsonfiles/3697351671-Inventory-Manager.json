@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Inventory Manager",
+      "job_category": "Logistics",
+      "job_class": "Manager",
+      "sector": "Logistics",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Inventory Management",
+      "experience": 5
+    },
+    {
+      "skill": "ERP Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Supply Chain Management",
+      "experience": 5
+    },
+    {
+      "skill": "Logistics",
+      "experience": 5
+    },
+    {
+      "skill": "Database Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 4
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 4
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 4
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for material forecast, planning and provisioning for internal/external customers based on service level agreements with consideration of budget planning parameters."
+    },
+    {
+      "duty": "Ensure ERP SOR reflects material purchases and movement of assets while ensuring compliance with established internal control procedures."
+    },
+    {
+      "duty": "Analyzing support material requirements and executing order fulfillment plans to ensure service level requirements are met at PTS service centers."
+    },
+    {
+      "duty": "Track material movement within PTS network and address TAT exceptions."
+    },
+    {
+      "duty": "Identify and resolve supply chain related problems to increase efficiency and productivity."
+    },
+    {
+      "duty": "Produce and analyze material performance data to ensure material provisioning is current to service agreement obligations and recommend changes to management prior to execution."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in relevant field or minimum of 4 years' experience in Inventory Management, Order Fulfillment, Production Planning, Inventory Planning, Purchasing, or Business Process Analysis."
+    },
+    {
+      "credential": "2 years knowledge and experience in logistics, transportation, and warehouse distribution."
+    }
+  ]
+}

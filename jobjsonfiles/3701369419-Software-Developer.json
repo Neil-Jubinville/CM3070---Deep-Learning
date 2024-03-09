@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop quality software and web applications"
+    },
+    {
+      "duty": "Analyze and maintain existing software applications"
+    },
+    {
+      "duty": "Design highly scalable, testable code"
+    },
+    {
+      "duty": "Discover and fix programming bugs"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Web Development",
+      "experience": 5
+    },
+    {
+      "skill": "Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Programming Languages",
+      "experience": 5
+    },
+    {
+      "skill": "Database Management",
+      "experience": 5
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent experience in Computer Science or related field"
+    }
+  ]
+}

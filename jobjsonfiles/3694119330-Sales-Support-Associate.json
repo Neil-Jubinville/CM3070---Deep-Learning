@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Support Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Services",
+      "experience": 3
+    },
+    {
+      "skill": "Client Service",
+      "experience": 3
+    },
+    {
+      "skill": "Investment Research",
+      "experience": 3
+    },
+    {
+      "skill": "Salesforce",
+      "experience": 3
+    },
+    {
+      "skill": "Appointment Scheduling",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Computer Applications",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 3
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Securities Industry Knowledge",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist Financial Advisors in servicing clients, preparing financial plans, conducting investment research, and completing client trades and transactions."
+    },
+    {
+      "duty": "Receive and place orders, reply to queries, process corporate actions, schedule and confirm client appointments, and manage the financial advisor's calendar."
+    },
+    {
+      "duty": "Maximize sales opportunities by contacting potential investment clients, provide operational guidance to Financial Advisors, ensure new business paperwork is accurately submitted."
+    },
+    {
+      "duty": "Mitigate risk through appropriate authentication standards, maintain a professional environment, create a positive impression, and submit/process operational requests as instructed."
+    },
+    {
+      "duty": "Work in coordination with the Financial Advisor to ensure certain reports are reviewed and addressed, and may assist with physical branch location needs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent experience, FINRA SIE, Series 7 and Series 66 licenses"
+    }
+  ]
+}

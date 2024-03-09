@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Backend Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Lead",
+      "sector": "Software Engineering",
+      "salary": 170000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Backend Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Data Integration Solutions",
+      "experience": 5
+    },
+    {
+      "skill": "RESTful APIs",
+      "experience": 5
+    },
+    {
+      "skill": "Server-side Languages (Python)",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Services",
+      "experience": 5
+    },
+    {
+      "skill": "Distributed Systems Design",
+      "experience": 5
+    },
+    {
+      "skill": "Authentication Mechanisms",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Environment Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and implement integrations between VR platform and LMS systems for seamless data exchange and functionality."
+    },
+    {
+      "duty": "Identify and implement best practices for single sign-on (SSO) across third-party systems."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to design integration solutions for provisioning classrooms and user accounts."
+    },
+    {
+      "duty": "Debug and resolve issues in integration solutions to ensure data accuracy and system stability."
+    },
+    {
+      "duty": "Provide technical leadership, mentorship, and guidance to junior team members."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

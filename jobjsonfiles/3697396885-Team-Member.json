@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Team Member",
+      "job_category": "Retail",
+      "job_class": "Associate",
+      "sector": "Retail",
+      "salary": 25000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Selling products to customers",
+      "experience": 3
+    },
+    {
+      "skill": "Customer service",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Retail sales",
+      "experience": 3
+    },
+    {
+      "skill": "Cashiering",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 3
+    },
+    {
+      "skill": "High school diploma",
+      "experience": 0
+    },
+    {
+      "skill": "Willingness to learn",
+      "experience": 0
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greet customers, run the register, make purchase suggestions, and work with the food program."
+    },
+    {
+      "duty": "Maintain high store appearance standards and provide fast, friendly service."
+    },
+    {
+      "duty": "Interact with customers and work with a team to accomplish daily goals."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or GED preferred."
+    }
+  ]
+}

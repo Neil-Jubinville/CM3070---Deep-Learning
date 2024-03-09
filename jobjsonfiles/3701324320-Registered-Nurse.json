@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 12
+    },
+    {
+      "skill": "Healthcare Environment",
+      "experience": 12
+    },
+    {
+      "skill": "Texas RN License",
+      "experience": 1
+    },
+    {
+      "skill": "American Heart Association Basic Life Support (BLS)",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with physicians to provide the best care for patients."
+    },
+    {
+      "duty": "Develop skills through a wide range of educational programs."
+    },
+    {
+      "duty": "Maintain high safety standards and professional development."
+    },
+    {
+      "duty": "Obtain and maintain the required credentials and certifications."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of education program approved by the credentialing body for the required credential(s) applicable to this role"
+    },
+    {
+      "credential": "Twelve months registered nurse experience in a healthcare environment"
+    },
+    {
+      "credential": "Texas RN license or temporary TX RN license, should obtain permanent license within 90 days. Compact license acceptable according to current Board of Nursing requirements"
+    },
+    {
+      "credential": "American Heart Association Basic Life Support (BLS)"
+    },
+    {
+      "credential": "Other credentials and certifications as defined by unit/service line"
+    }
+  ]
+}

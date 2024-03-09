@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "IBM Application Architect",
+      "job_category": "Software Engineering",
+      "job_class": "Technical Architect",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Maximo Technical Architecture",
+      "experience": 8
+    },
+    {
+      "skill": "Java/J2EE",
+      "experience": 8
+    },
+    {
+      "skill": "SQL",
+      "experience": 8
+    },
+    {
+      "skill": "XML",
+      "experience": 8
+    },
+    {
+      "skill": "Web Technologies (HTML, CSS, JavaScript)",
+      "experience": 8
+    },
+    {
+      "skill": "Enterprise Integration Tools and Methodologies",
+      "experience": 8
+    },
+    {
+      "skill": "Maximo AM Modules",
+      "experience": 8
+    },
+    {
+      "skill": "Maximo Customization with MIF and Automation Scripting",
+      "experience": 8
+    },
+    {
+      "skill": "Code Review and Troubleshooting",
+      "experience": 8
+    },
+    {
+      "skill": "Project Effort Estimation and Timelines",
+      "experience": 8
+    },
+    {
+      "skill": "Cloud Computing (AWS, Azure, IBM Cloud)",
+      "experience": 8
+    },
+    {
+      "skill": "Docker, Images, Containers, Kubernetes, OpenShift",
+      "experience": 8
+    },
+    {
+      "skill": "DevOps and Related Tools (Ansible, Jenkins, Git)",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the design and architecture of Maximo solutions, including customization, configuration, and integration components."
+    },
+    {
+      "duty": "Collaborate with stakeholders to gather and analyze business requirements, translating them into technical specifications and design documents."
+    },
+    {
+      "duty": "Provide expertise in Maximo application functionality, workflows, data structures, and interfaces, stay up to date with industry trend to provide innovative solutions to clients."
+    },
+    {
+      "duty": "Conduct system assessments, identify gaps, and propose solutions to optimize and improve system performance and reliability."
+    },
+    {
+      "duty": "Lead the development and implementation of technical solutions, ensuring adherence to best practices and standards."
+    },
+    {
+      "duty": "Conduct code reviews, troubleshoot, and provide guidance to developers to ensure high-quality code."
+    },
+    {
+      "duty": "Collaborate with project managers and business analysts to estimate project effort and define project timelines."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 0,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Computer Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

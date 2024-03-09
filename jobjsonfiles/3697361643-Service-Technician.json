@@ -1,0 +1,108 @@
+{
+  "meta": [
+    {
+      "job_title": "Service Technician",
+      "job_category": "Skilled Labor - Trades",
+      "job_class": "Technician",
+      "sector": "Skilled Trades",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HVAC Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Refrigeration Theory",
+      "experience": 3
+    },
+    {
+      "skill": "Electrical Schematics",
+      "experience": 3
+    },
+    {
+      "skill": "Commercial HVAC Repair",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Support",
+      "experience": 3
+    },
+    {
+      "skill": "Pipe Fitting",
+      "experience": 3
+    },
+    {
+      "skill": "Welding",
+      "experience": 3
+    },
+    {
+      "skill": "Brazing",
+      "experience": 3
+    },
+    {
+      "skill": "Mechanical Layouts",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Proficiency",
+      "experience": 3
+    },
+    {
+      "skill": "EPA Certification",
+      "experience": 3
+    },
+    {
+      "skill": "Driver's License",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Install, maintain, and repair HVAC systems using refrigeration theory, electrical schematics, and mechanical layouts."
+    },
+    {
+      "duty": "Perform timely preventative maintenance, site surveys, replacement, and modifications."
+    },
+    {
+      "duty": "Repair, overhaul, and start-ups of commercial HVAC systems."
+    },
+    {
+      "duty": "Provide technical support and act as a resource for customers."
+    },
+    {
+      "duty": "Inspect, maintain, and repair all company-provided materials including fleet vehicle, tools, and equipment."
+    },
+    {
+      "duty": "Ensure compliance with federal, state, and local laws, legal regulations, and recommended best practices."
+    },
+    {
+      "duty": "Collaborate with all Associates to uphold the company's mission and values."
+    },
+    {
+      "duty": "Travel 20% of the time."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree, certificate, or military training in Heating, Ventilation and Air Conditioning from an accredited institution"
+    }
+  ]
+}

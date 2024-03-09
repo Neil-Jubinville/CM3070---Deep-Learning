@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Supervisor",
+      "job_category": "Sales",
+      "job_class": "Supervisor",
+      "sector": "Sales",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Coaching",
+      "experience": 2
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Visual Merchandising",
+      "experience": 2
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 2
+    },
+    {
+      "skill": "Operational Excellence",
+      "experience": 2
+    },
+    {
+      "skill": "Loss Prevention",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maximize store sales and achieve sales goals"
+    },
+    {
+      "duty": "Lead customer engagement on the sales floor and provide coaching and feedback to associates"
+    },
+    {
+      "duty": "Ensure excellence in customer service by modeling brand-specific service standards and monitoring customer feedback"
+    },
+    {
+      "duty": "Provide coaching to the store team in the core areas of customer engagement and sales results"
+    },
+    {
+      "duty": "Maintain operational excellence and react quickly to customer and associate injuries"
+    },
+    {
+      "duty": "Ensure visual merchandising standards are maintained in the store"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

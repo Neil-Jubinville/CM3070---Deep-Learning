@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Speech-Language Pathologist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Speech-Language Pathology",
+      "experience": 5
+    },
+    {
+      "skill": "Evaluations and Assessments",
+      "experience": 5
+    },
+    {
+      "skill": "IEP/504 Plan Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Child Development",
+      "experience": 5
+    },
+    {
+      "skill": "Report Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Language and Oral Motor Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Providing high-quality services to students based on their IEPs/504 plans."
+    },
+    {
+      "duty": "Conducting evaluations, assessments, and writing reports to determine students' strengths and areas of concern in speech, fluency, language, and oral motor skills."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree in Speech-Language Pathology or Communication Disorders"
+    }
+  ]
+}

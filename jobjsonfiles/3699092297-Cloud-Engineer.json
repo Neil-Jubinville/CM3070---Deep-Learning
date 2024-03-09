@@ -1,0 +1,119 @@
+{
+  "meta": [
+    {
+      "job_title": "Cloud Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 145000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Hadoop",
+      "experience": 3
+    },
+    {
+      "skill": "Apache Spark",
+      "experience": 3
+    },
+    {
+      "skill": "Java",
+      "experience": 3
+    },
+    {
+      "skill": "Python",
+      "experience": 3
+    },
+    {
+      "skill": "Puppet",
+      "experience": 3
+    },
+    {
+      "skill": "Data Governance",
+      "experience": 3
+    },
+    {
+      "skill": "Analytics",
+      "experience": 3
+    },
+    {
+      "skill": "Visualization",
+      "experience": 3
+    },
+    {
+      "skill": "Operation Engineer",
+      "experience": 3
+    },
+    {
+      "skill": "ELK",
+      "experience": 3
+    },
+    {
+      "skill": "Kafka",
+      "experience": 3
+    },
+    {
+      "skill": "Big Data",
+      "experience": 3
+    },
+    {
+      "skill": "Data Platform Development",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analytics",
+      "experience": 3
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 3
+    },
+    {
+      "skill": "Data Governance",
+      "experience": 3
+    },
+    {
+      "skill": "Statistics",
+      "experience": 3
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 3
+    },
+    {
+      "skill": "WebEx",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop a global data analytics platform using Big Data technologies such as Hadoop, Apache Spark, and Java."
+    },
+    {
+      "duty": "Build, manage, and monitor large-scale data platforms and collaborate with global teams on engagements."
+    },
+    {
+      "duty": "Contribute to evolving architecture to meet growth requirements for scaling, reliability, performance, and security."
+    },
+    {
+      "duty": "Develop and integrate software for flexible and scalable data transformation with data quality controls."
+    },
+    {
+      "duty": "Utilize statistical, machine learning, and data visualization tools to analyze and visualize data."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science in Engineering or Computer Science (Master's preferred)"
+    }
+  ]
+}

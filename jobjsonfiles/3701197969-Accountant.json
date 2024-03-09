@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Accountant",
+      "job_category": "Accounting",
+      "job_class": "Accountant",
+      "sector": "Financial Services",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Reporting and Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Budgeting and Forecasting",
+      "experience": 5
+    },
+    {
+      "skill": "Accounts Payable and Receivable",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Software Applications",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Support",
+      "experience": 5
+    },
+    {
+      "skill": "IFRS and GAAP",
+      "experience": 5
+    },
+    {
+      "skill": "Accounting Principles",
+      "experience": 5
+    },
+    {
+      "skill": "Policies and Procedures",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare and analyze financial statements and reports, identifying trends and ensuring accuracy and compliance with all relevant regulations and standards"
+    },
+    {
+      "duty": "Assist with budgeting and forecasting, providing comprehensive financial assessments to support strategic decision-making"
+    },
+    {
+      "duty": "Manage accounts payable and receivable, ensuring timely and accurate processing and resolution of any discrepancies"
+    },
+    {
+      "duty": "Conduct monthly and year-end closing processes, including the preparation of journal entries and account reconciliations"
+    },
+    {
+      "duty": "Participate in audits and ensure that all information requested is provided and all deadlines are met"
+    },
+    {
+      "duty": "Provide analytical support for business units, including identifying and communicating key trends and opportunities for improvement"
+    },
+    {
+      "duty": "Assist in the development and implementation of policies and procedures to ensure effective financial controls"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or higher in Accounting or Finance, CPA designation or equivalent preferred"
+    }
+  ]
+}

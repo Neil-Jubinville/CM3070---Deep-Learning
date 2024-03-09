@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Mental Health Professional",
+      "job_category": "Counseling",
+      "job_class": "Professional",
+      "sector": "Mental Health",
+      "salary": 47000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Counseling",
+      "experience": 1
+    },
+    {
+      "skill": "Therapy",
+      "experience": 1
+    },
+    {
+      "skill": "Case Management",
+      "experience": 1
+    },
+    {
+      "skill": "Mental Health Assessment",
+      "experience": 1
+    },
+    {
+      "skill": "Substance Use Recovery",
+      "experience": 1
+    },
+    {
+      "skill": "Crisis Intervention",
+      "experience": 1
+    },
+    {
+      "skill": "Treatment Planning",
+      "experience": 1
+    },
+    {
+      "skill": "Group Facilitation",
+      "experience": 1
+    },
+    {
+      "skill": "Advocacy",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide counseling and therapy to individuals and groups dealing with mental health and substance use issues."
+    },
+    {
+      "duty": "Conduct mental health assessments and create treatment plans for clients."
+    },
+    {
+      "duty": "Manage cases and provide crisis intervention services when needed."
+    },
+    {
+      "duty": "Facilitate group therapy sessions and advocate for clients' needs."
+    },
+    {
+      "duty": "Collaborate with other professionals to support the recovery and well-being of clients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's and Masters Degrees in Mental Health or related field"
+    }
+  ]
+}

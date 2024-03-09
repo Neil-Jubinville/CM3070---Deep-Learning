@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Associate Teacher",
+      "job_category": "Education",
+      "job_class": "Associate",
+      "sector": "Education",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Teaching",
+      "experience": 2
+    },
+    {
+      "skill": "Tutoring",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Subject Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Student Engagement",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Teach Science, Technology, Engineering, Math, Literature, and History to students grades 6-12."
+    },
+    {
+      "duty": "Engage in extracurricular involvement, such as clubs, sports, and student engagement activities."
+    },
+    {
+      "duty": "Utilize excellent communication skills to effectively convey subject matter to students."
+    },
+    {
+      "duty": "Work closely with students, providing mentorship and guidance."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in Education or related field"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 150,
+      "introvert_extrovert": 120
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Industrial Firewatch",
+      "job_category": "Construction",
+      "job_class": "Laborer",
+      "sector": "Construction",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Industrial Equipment Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Fire Safety Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Rigging and Hoisting",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Hand Tool Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Physical Fitness",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Stand by for fire safety during construction work."
+    },
+    {
+      "duty": "Assist with manual tasks such as moving equipment, digging, and retrieving tools."
+    },
+    {
+      "duty": "Conduct preventative maintenance and repairs on equipment."
+    },
+    {
+      "duty": "Use rigging and hoisting devices to move materials into place."
+    },
+    {
+      "duty": "Follow supervisor's instructions for various manual activities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Fire Watch/Hole Watch/Bottle Water Training and Certification"
+    }
+  ]
+}

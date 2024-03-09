@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Electro-Mechanic",
+      "job_category": "Manufacturing",
+      "job_class": "Skilled Associate",
+      "sector": "Manufacturing",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical/Electronic Diagnostics",
+      "experience": 5
+    },
+    {
+      "skill": "General Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Diagnostics",
+      "experience": 5
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Competence",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Safety Inspections",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide electrical/electronic and mechanical diagnostics."
+    },
+    {
+      "duty": "Perform repairs to process machinery, equipment and controls within assigned work area."
+    },
+    {
+      "duty": "Provide all required preventative and predictive maintenance procedures on process machinery and equipment within assigned work areas."
+    },
+    {
+      "duty": "Maintain technical competence in advancing technology via frequent training courses, on-the-job training, and vendor schools."
+    },
+    {
+      "duty": "Proficiently utilize a wide variety of tools and instrumentation including but not limited to: voltage tester, ammeter, megger, oscilloscope, vertilift, hand tools, power tools, personal computers, vibration analyzers and laser measurement equipment."
+    },
+    {
+      "duty": "Assist in resolving maintenance related process problems which may require the proficient operation of that equipment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree in Electro-Mechanical technology or equivalent desired"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "meta": [
+    {
+      "job_title": "Driver Team Member",
+      "job_category": "Transportation",
+      "job_class": "Team Member",
+      "sector": "Transportation and Logistics",
+      "salary": 42600,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CDL Driver",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Delivery Operations",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for delivery and pickup of containers to and/or from customer locations, ensuring an effective and incident-free delivery or pickup experience."
+    },
+    {
+      "duty": "Maintaining excellent rapport with customers, providing an industry-leading customer experience."
+    },
+    {
+      "duty": "Utilize patented hydraulic lift system to deliver customer containers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent, CDL A or B, and at least 3 months of experience employed as a CDL driver."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Development Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Strategy",
+      "experience": 2
+    },
+    {
+      "skill": "Market Research",
+      "experience": 2
+    },
+    {
+      "skill": "Prospecting",
+      "experience": 2
+    },
+    {
+      "skill": "Salesforce",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 2
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Relationship Management (CRM)",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with sales, marketing and our partner team to develop new strategies to build our sales pipeline and grow our business."
+    },
+    {
+      "duty": "Balance the reactive work of responding to interested users with a creative and proactive approach to identify new opportunities."
+    },
+    {
+      "duty": "Use Salesforce, Marketo, LinkedIn, and other prospecting tools to research accounts, identify key contacts and craft targeted messaging."
+    },
+    {
+      "duty": "Learn our technology and effectively communicate our value proposition with a technical audience. Work to understand their goals and challenges to better understand how we can help."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business, Marketing, or a related field"
+    }
+  ]
+}

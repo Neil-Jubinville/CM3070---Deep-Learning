@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Restaurant Crewmember",
+      "job_category": "Restaurant",
+      "job_class": "Crew",
+      "sector": "Restaurant",
+      "salary": 24000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Cashier",
+      "experience": 1
+    },
+    {
+      "skill": "Kitchen Operations",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Interaction",
+      "experience": 1
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Food Safety",
+      "experience": 1
+    },
+    {
+      "skill": "Team Player",
+      "experience": 1
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Attend to customer orders and provide exceptional service in a fast-paced restaurant environment."
+    },
+    {
+      "duty": "Adhere to food safety standards and maintain cleanliness in the restaurant area."
+    },
+    {
+      "duty": "Handle cash transactions, operate the cash register, and process payments efficiently."
+    },
+    {
+      "duty": "Assist in kitchen operations, food preparation, and maintaining inventory levels."
+    },
+    {
+      "duty": "Work as part of a team to ensure smooth operations and customer satisfaction."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

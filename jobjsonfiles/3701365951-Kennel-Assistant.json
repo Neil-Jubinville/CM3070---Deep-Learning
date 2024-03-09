@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Kennel Assistant",
+      "job_category": "Animal Care",
+      "job_class": "Assistant",
+      "sector": "Veterinary",
+      "salary": 25000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Animal Care",
+      "experience": 2
+    },
+    {
+      "skill": "Cleaning and Sanitation",
+      "experience": 3
+    },
+    {
+      "skill": "Facility Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Walking, feeding, and caring for animals on a daily basis."
+    },
+    {
+      "duty": "Performing daily cleaning of kennels, cages, and public areas, following proper disease control protocol."
+    },
+    {
+      "duty": "Stocking all kennel and cleaning supplies as needed."
+    },
+    {
+      "duty": "Cleaning, folding, and stocking laundry throughout the clinic."
+    },
+    {
+      "duty": "Minor facility maintenance and overall facility cleanliness."
+    },
+    {
+      "duty": "Preparing in-house food recipes for hospitalized patients."
+    },
+    {
+      "duty": "Assisting technicians and doctors in and out of appointments."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 90,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

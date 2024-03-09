@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Orthopaedic Surgeon",
+      "job_category": "Healthcare",
+      "job_class": "Surgeon",
+      "sector": "Medical",
+      "salary": 350000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Orthopaedic Surgery",
+      "experience": 5
+    },
+    {
+      "skill": "Trauma Surgery",
+      "experience": 5
+    },
+    {
+      "skill": "Total Joints Surgery",
+      "experience": 5
+    },
+    {
+      "skill": "Sports Surgery",
+      "experience": 5
+    },
+    {
+      "skill": "Ancillary Support Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform orthopaedic surgical procedures including total joints, sports, and trauma surgeries."
+    },
+    {
+      "duty": "Coordinate and manage robust ancillary support for surgical procedures."
+    },
+    {
+      "duty": "Provide hospital programmatic support for orthopaedic surgical services."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Board certification or eligibility following an ACGME orthopaedic surgery residency"
+    }
+  ]
+}

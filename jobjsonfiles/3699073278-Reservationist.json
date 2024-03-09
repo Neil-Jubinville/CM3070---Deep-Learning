@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Reservationist",
+      "job_category": "Hospitality",
+      "job_class": "Staff",
+      "sector": "Hospitality",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 5
+    },
+    {
+      "skill": "Multitasking",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage reservations, ensuring accuracy and efficiency."
+    },
+    {
+      "duty": "Respond to customer inquiries via phone, email, and/or chat in a timely and professional manner."
+    },
+    {
+      "duty": "Provide exceptional customer service to customers during the reservation process."
+    },
+    {
+      "duty": "Coordinate with other departments to ensure seamless operations."
+    },
+    {
+      "duty": "Accurately enter customer information into the company's reservation system."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

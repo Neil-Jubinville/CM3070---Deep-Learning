@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Team Member",
+      "job_category": "Retail",
+      "job_class": "Team Member",
+      "sector": "Retail",
+      "salary": 28000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 3
+    },
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greeting customers, running the register, cashiering, making purchase suggestions, and sometimes working with the food program."
+    },
+    {
+      "duty": "Maintaining high standards for store appearance and providing fast and friendly service to customers."
+    },
+    {
+      "duty": "Selling products to customers and providing excellent customer care."
+    },
+    {
+      "duty": "Performing at a quick pace while having fun and working as part of a team to accomplish daily goals."
+    },
+    {
+      "duty": "Coming up with great ideas to solve problems and thinking quickly."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 45,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or GED preferred"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "meta": [
+    {
+      "job_title": "Cloud Application Architect",
+      "job_category": "Cloud Computing",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Architecture",
+      "experience": 12
+    },
+    {
+      "skill": "Software Design",
+      "experience": 12
+    },
+    {
+      "skill": "Cloud Technologies",
+      "experience": 12
+    },
+    {
+      "skill": "Java",
+      "experience": 12
+    },
+    {
+      "skill": "Cloud Native Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices",
+      "experience": 5
+    },
+    {
+      "skill": "Red Hat Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Distributed SQL Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Message Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Metrics",
+      "experience": 5
+    },
+    {
+      "skill": "Software Development Life Cycle",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Dev Ops",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Microservice Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Message Driven Architectures",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and implement comprehensive cloud application architectures using Java and related software ecosystems."
+    },
+    {
+      "duty": "Utilize cloud native technologies for deployment and customer engagement, with a focus on building and maintaining microservices."
+    },
+    {
+      "duty": "Work with Red Hat technologies such as Quarkus, Red Hat SSO, and RHEL, along with distributed SQL systems and message systems like AMQP and Kafka."
+    },
+    {
+      "duty": "Demonstrate advanced understanding of Kubernetes, software design patterns for HA, and building observable microservices."
+    },
+    {
+      "duty": "Generate Agile metrics reports, interpret results, and collaborate with Quality Engineering and Dev Ops teams."
+    },
+    {
+      "duty": "Articulate specific technical topics, collaborate with cross-functional teams, and provide problem-solving expertise."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 40,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or in STEM Majors (Science, Technology, Engineering, and Math)"
+    }
+  ]
+}

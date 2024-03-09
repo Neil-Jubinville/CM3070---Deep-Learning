@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Clerical Assistant",
+      "job_category": "Administrative",
+      "job_class": "Clerical",
+      "sector": "Healthcare",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Terminology",
+      "experience": 1
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Healthcare Office Procedures",
+      "experience": 1
+    },
+    {
+      "skill": "Electronic Medical Records (EMR)",
+      "experience": 1
+    },
+    {
+      "skill": "Keyboarding Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform general clerical duties associated with patient services including scheduling, greeting, admitting, and discharging patients, answering incoming calls, filing, and assisting with the maintenance of medical records."
+    },
+    {
+      "duty": "Greet, interact with, and direct patients, visitors and others appropriately. Provide relevant information regarding department procedures, fees, and services. Facilitate referral to physicians and ancillary departments."
+    },
+    {
+      "duty": "Answer incoming calls, respond to inquiries, or make referrals within the department or outside the practice. Open, sort, review and distribute mail."
+    },
+    {
+      "duty": "Participate in compiling pertinent data for patient demographic records, admit and discharge patients, schedule appointments, refer for tests and other services, and take phone notes."
+    },
+    {
+      "duty": "Complete required forms/reports and enter data into the computer for correct insurance billing. Tabulate receipts following billing procedures."
+    },
+    {
+      "duty": "Maintain records/files, obtain authorization forms for services, and release records. Operate various standard and/or automated office equipment (computer, typewriter, calculator, telephone, intercom, photocopy machine, and fax)."
+    },
+    {
+      "duty": "Assume preceptor role for new clerical assistant and/or new medical assistant clerical."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED"
+    }
+  ]
+}

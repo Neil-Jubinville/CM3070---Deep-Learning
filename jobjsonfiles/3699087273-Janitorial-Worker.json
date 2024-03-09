@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Janitorial Worker",
+      "job_category": "Facilities",
+      "job_class": "Worker",
+      "sector": "Facilities",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Janitorial Practices",
+      "experience": 1
+    },
+    {
+      "skill": "Reading and Understanding Labels",
+      "experience": 1
+    },
+    {
+      "skill": "People Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Physical Ability (lifting)",
+      "experience": 1
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Safety Training",
+      "experience": 1
+    },
+    {
+      "skill": "Industrial Cleaning Knowledge",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "General cleaning and servicing of rest rooms, offices, work areas, as assigned"
+    },
+    {
+      "duty": "May be assigned to work in areas other than plant"
+    },
+    {
+      "duty": "Hours of work and duties may vary from season to season"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Previous work experience (preferred)"
+    }
+  ]
+}

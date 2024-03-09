@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Laundry Attendant",
+      "job_category": "Hospitality",
+      "job_class": "Attendant",
+      "sector": "Hospitality",
+      "salary": 27000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Laundry Operations",
+      "experience": 2
+    },
+    {
+      "skill": "Organization",
+      "experience": 3
+    },
+    {
+      "skill": "Cleaning Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Hospitality Attitude",
+      "experience": 4
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Sort, wash, and fold linens and towels with attention to detail and quality standards."
+    },
+    {
+      "duty": "Ensure cleanliness and organization in the laundry room to maintain a safe and efficient work environment."
+    },
+    {
+      "duty": "Operate laundry equipment safely, following operating procedures and safety guidelines."
+    },
+    {
+      "duty": "Assist with inventory management and stock control for laundry supplies and linens."
+    },
+    {
+      "duty": "Provide a positive and uplifting attitude, consistently displaying a willingness to assist others in any given situation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140,
+      "student_teacher": 100,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Previous laundry experience preferred but not required"
+    }
+  ]
+}

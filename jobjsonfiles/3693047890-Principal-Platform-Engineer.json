@@ -1,0 +1,109 @@
+{
+  "meta": [
+    {
+      "job_title": "Principal Platform Engineer",
+      "job_category": "Engineering",
+      "job_class": "Principal",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "IBM Power Platform Design",
+      "experience": 5
+    },
+    {
+      "skill": "AIX Operating System Management",
+      "experience": 5
+    },
+    {
+      "skill": "Requirements Gathering",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Code Building on AIX",
+      "experience": 5
+    },
+    {
+      "skill": "BCP Planning",
+      "experience": 5
+    },
+    {
+      "skill": "AIX Virtualization Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Software Production Systems Design",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting Languages",
+      "experience": 3
+    },
+    {
+      "skill": "Software Defined Infrastructure",
+      "experience": 3
+    },
+    {
+      "skill": "Version Control System",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Contribute to the engineering efforts of the team by actively participating in technical projects to support the evolving needs of the business."
+    },
+    {
+      "duty": "Work with teams across the enterprise to build modern, scalable solutions leveraging both on premise and cloud technologies where appropriate."
+    },
+    {
+      "duty": "Use analytical and programming skills to build automation for engineered solutions and advocate for standards in all things."
+    },
+    {
+      "duty": "Research and run proof of concept implementations for new solutions, and facilitate a collaborative team environment that encourages growth through participation."
+    },
+    {
+      "duty": "Design, POC, and deliver solutions based on business requirements and technical best practices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 125,
+      "student_teacher": 100,
+      "introvert_extrovert": 75
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science or equivalent experience."
+    },
+    {
+      "credential": "5+ years of experience as an enterprise-level Engineer building and supporting modern AIX Power infrastructure in a large-scale environment (PowerVM, SRIOV, HACMP, SRV, etc.)"
+    },
+    {
+      "credential": "5+ years of experience managing production incidents in an enterprise environment."
+    },
+    {
+      "credential": "3+ years of experience with scripting languages (Perl, Python, KSH, etc.)"
+    },
+    {
+      "credential": "5+ years of experience with AIX operating system to include tuning and systems performance."
+    },
+    {
+      "credential": "3+ years of experience with Software Defined Infrastructure (Ansible, Puppet, Terraform, etc.)"
+    },
+    {
+      "credential": "2+ years working with GIT or other modern version control system."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Refrigeration Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Make decisions on when to start up storage and pull-down rooms, seal rooms, open rooms, turn off zones so that maintenance can be performed or when they are no longer needed"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Refrigeration Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Adjustments",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Inspection",
+      "experience": 5
+    },
+    {
+      "skill": "Preventive Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Chemical Applications",
+      "experience": 5
+    },
+    {
+      "skill": "Ammonia Systems Training",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 20
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "AA in Refrigeration Technology or equivalent experience working with ammonia refrigeration systems"
+    }
+  ]
+}

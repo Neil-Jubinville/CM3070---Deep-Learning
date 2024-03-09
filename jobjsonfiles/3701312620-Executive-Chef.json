@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Executive Chef",
+      "job_category": "Food Service",
+      "job_class": "Executive",
+      "sector": "Hospitality",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Kitchen Supervision",
+      "experience": 5
+    },
+    {
+      "skill": "Team Management",
+      "experience": 5
+    },
+    {
+      "skill": "Supply Ordering",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Culinary Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Creativity",
+      "experience": 5
+    },
+    {
+      "skill": "Safety and Sanitation",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Supervise the kitchen, preparation, and presentation of foods by chefs, cooks and other team members, ensuring adherence to culinary standards"
+    },
+    {
+      "duty": "Hire, orientate and train team members to maintain quality standards"
+    },
+    {
+      "duty": "Create and manage production team member schedules and order food/kitchen supplies"
+    },
+    {
+      "duty": "Maintain inventory of food and non-food supplies, minimize waste and theft"
+    },
+    {
+      "duty": "Project annual food and labor costs, monitor financial results, and handle food preparation issues"
+    },
+    {
+      "duty": "Plan and supervise special events, and handle any food preparation issues"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Culinary certification preferred"
+    }
+  ]
+}

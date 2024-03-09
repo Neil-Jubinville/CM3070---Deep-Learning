@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Auditor",
+      "job_category": "Accounting",
+      "job_class": "Auditor",
+      "sector": "Accounting",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 4
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 4
+    },
+    {
+      "skill": "Internal Control",
+      "experience": 4
+    },
+    {
+      "skill": "Audit Methodology",
+      "experience": 4
+    },
+    {
+      "skill": "Microsoft Excel",
+      "experience": 4
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Understanding clients' needs and expectations, their business and industry, accounting and control systems, employees, company values and industry-related accounting and financial reporting topics"
+    },
+    {
+      "duty": "Developing an understanding of the RSM audit approach and tools"
+    },
+    {
+      "duty": "Assessing risks and evaluating the client's internal control structure"
+    },
+    {
+      "duty": "Performing substantive tests and tests of internal controls to identify and resolve accounting or reporting issues"
+    },
+    {
+      "duty": "Drafting financial statements under prescribed formats"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Working towards B.A. / B.S. degree or equivalent from accredited university Accounting Major"
+    }
+  ]
+}

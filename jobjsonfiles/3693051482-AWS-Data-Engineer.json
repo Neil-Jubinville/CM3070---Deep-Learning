@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "AWS Data Engineer",
+      "job_category": "Data Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "PySpark",
+      "experience": 5
+    },
+    {
+      "skill": "Spark",
+      "experience": 5
+    },
+    {
+      "skill": "Databricks",
+      "experience": 3
+    },
+    {
+      "skill": "Data Migration",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Migrating data from on-prem to cloud, specifically on AWS"
+    },
+    {
+      "duty": "Acting as a single point of contact for data migration to AWS projects for customers"
+    },
+    {
+      "duty": "Providing innovative and cost-effective solutions using AWS, Spark, Python, and customer suggested toolset"
+    },
+    {
+      "duty": "Overseeing development as a leader in Cloud Engineering"
+    },
+    {
+      "duty": "Adapting quickly to new technologies as per business needs"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": []
+}

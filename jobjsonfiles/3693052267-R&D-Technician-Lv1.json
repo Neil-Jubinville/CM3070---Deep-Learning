@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "R&D Technician Lv1",
+      "job_category": "Research and Development",
+      "job_class": "Technician",
+      "sector": "Research and Development",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Laboratory Testing",
+      "experience": 2
+    },
+    {
+      "skill": "Sample Preparation",
+      "experience": 3
+    },
+    {
+      "skill": "Data Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Instrument Monitoring",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead routine analytical and laboratory testing of new products in support of the Research and Development teams."
+    },
+    {
+      "duty": "Receive and prepare samples for testing and document test results."
+    },
+    {
+      "duty": "Check and monitor instruments and equipment used during the testing process."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in a related field or equivalent experience."
+    }
+  ]
+}

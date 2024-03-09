@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Data Analytics Analyst",
+      "job_category": "Data Analytics",
+      "job_class": "Analyst",
+      "sector": "Information Technology",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work collaboratively with business and IT to conduct a range of analysis to facilitate better understanding of the data. This could include data discovery and profiling, assessing data quality, tracing lineage, investigating any questions and issues relating to the data including impact of business process and system on data / data flows and analyzing data to answer business questions."
+    },
+    {
+      "duty": "Research and investigate data issues. Develop a deep understanding of the relationship between business process, systems, and the underlying data."
+    },
+    {
+      "duty": "Document and share learnings about data with all stakeholders. Participate and support data governance activities."
+    },
+    {
+      "duty": "Help end users find, access, and effectively leverage data needed for analysis and reporting."
+    },
+    {
+      "duty": "Research, propose, and advocate for process and system change to improve the impact of the data over time."
+    },
+    {
+      "duty": "Present findings to stakeholders in a way that is intuitive and clear through memos, dashboards, presentations, etc."
+    },
+    {
+      "duty": "Additional duties as assigned or required."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 4
+    },
+    {
+      "skill": "Data Programming (C/Python/R/Java)",
+      "experience": 4
+    },
+    {
+      "skill": "Data Integration Tools (Informatica)",
+      "experience": 4
+    },
+    {
+      "skill": "Data Visualization (Tableau)",
+      "experience": 4
+    },
+    {
+      "skill": "Excel for Data Preparation",
+      "experience": 4
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 4
+    },
+    {
+      "skill": "Written and Verbal Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Data Analysis with Large Datasets",
+      "experience": 4
+    },
+    {
+      "skill": "Knowledge of Graph and NoSQL Databases",
+      "experience": 4
+    },
+    {
+      "skill": "Data Science and BI Analytics",
+      "experience": 4
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in Statistics, Mathematics, or related field (Master\u2019s preferred)"
+    },
+    {
+      "credential": "Experience with statistical analysis software"
+    },
+    {
+      "credential": "Work or academic experience using complex data such as data engineering, data science, BI analytics, BI development etc."
+    },
+    {
+      "credential": "Experience with Cloud Data Warehouses"
+    }
+  ]
+}

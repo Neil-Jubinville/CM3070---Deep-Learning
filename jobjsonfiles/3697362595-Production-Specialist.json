@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Production Specialist",
+      "job_category": "Production",
+      "job_class": "Specialist",
+      "sector": "Manufacturing",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Quality Assurance",
+      "experience": 2
+    },
+    {
+      "skill": "Warehouse Operations",
+      "experience": 3
+    },
+    {
+      "skill": "Refurbishing",
+      "experience": 3
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate in a team-based environment to ensure quality, safe, and efficient refilling, re-valving, requalifying, refurbishing, packaging, and storage of propane cylinders."
+    },
+    {
+      "duty": "Perform washer functions, dispatch cylinders to different stations, complete paint line operations, and operate shot blast, tare weight entry station, capper, and stacker."
+    },
+    {
+      "duty": "Manually check for leaks, weight problems, or sleeve malfunctions and perform cylinder refurb operations based on work station."
+    },
+    {
+      "duty": "Stack finished products and check for quality assurance."
+    },
+    {
+      "duty": "Work in an outdoor environment with varying temperature conditions and perform labor-intensive tasks requiring frequent lifting and stacking of 40lb cylinders."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

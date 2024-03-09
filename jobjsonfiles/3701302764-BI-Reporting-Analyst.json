@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "BI Reporting Analyst",
+      "job_category": "Business Intelligence",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Business Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Statistical Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Data Mining",
+      "experience": 3
+    },
+    {
+      "skill": "Qlik",
+      "experience": 2
+    },
+    {
+      "skill": "SQL",
+      "experience": 3
+    },
+    {
+      "skill": "Python",
+      "experience": 2
+    },
+    {
+      "skill": "R",
+      "experience": 2
+    },
+    {
+      "skill": "Tableau",
+      "experience": 2
+    },
+    {
+      "skill": "AWS Redshift",
+      "experience": 2
+    },
+    {
+      "skill": "Athen",
+      "experience": 2
+    },
+    {
+      "skill": "MS PowerPoint",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform business analysis using various techniques such as statistical analysis, explanatory and predictive modeling, and data mining."
+    },
+    {
+      "duty": "Build new reports and manage existing reports."
+    },
+    {
+      "duty": "Assist in implementing or developing systems to capture business operation information."
+    },
+    {
+      "duty": "Produce ad hoc data and reports and guide less experienced business data analysts."
+    },
+    {
+      "duty": "Work closely with stakeholders and Business System Analysts for migration initiatives and business impact."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 20,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Business, or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinarian",
+      "job_category": "Healthcare",
+      "job_class": "veterinarian",
+      "sector": "Veterinary",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Advanced Medicine",
+      "experience": 10
+    },
+    {
+      "skill": "Surgical Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Client Relationship Building",
+      "experience": 10
+    },
+    {
+      "skill": "Emotional Intelligence",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide advanced medicine and proficient surgical skills for the care of animals."
+    },
+    {
+      "duty": "Build strong client relationships through effective communication and emotional intelligence."
+    },
+    {
+      "duty": "Participate in mentorship program with dedicated mentors and hands-on support from a DVM Training Specialist."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Veterinary Medicine (DVM/VMD) or equivalent degree required. State Veterinary Board License and active DEA license."
+    }
+  ]
+}

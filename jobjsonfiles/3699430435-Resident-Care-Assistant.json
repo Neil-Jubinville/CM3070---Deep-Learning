@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Resident Care Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HHA Certificate",
+      "experience": 1
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Assisted Living",
+      "experience": 2
+    },
+    {
+      "skill": "SAMM",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide care and assistance to residents according to their individual needs and care plans."
+    },
+    {
+      "duty": "Communicate effectively with residents, nursing, and other staff members to ensure a high standard of care."
+    },
+    {
+      "duty": "Utilize HHA certification to maintain a safe and supportive environment for residents."
+    },
+    {
+      "duty": "Assist with activities of daily living and encourage participation in social and recreational activities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current HHA Certificate in Massachusetts"
+    }
+  ]
+}

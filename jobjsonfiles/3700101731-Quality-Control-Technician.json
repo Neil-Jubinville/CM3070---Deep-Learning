@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Quality Control Technician",
+      "job_category": "Manufacturing",
+      "job_class": "Technician",
+      "sector": "Manufacturing",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Quality Control",
+      "experience": 3
+    },
+    {
+      "skill": "Food Safety",
+      "experience": 3
+    },
+    {
+      "skill": "Labeling Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Portion Control",
+      "experience": 3
+    },
+    {
+      "skill": "Food Inspection",
+      "experience": 3
+    },
+    {
+      "skill": "Sanitation Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct on-the-line checks of product against recipe specifications and quality standards"
+    },
+    {
+      "duty": "Perform visual inspection during labeling process to ensure proper placement of labels and correct product/ingredient names"
+    },
+    {
+      "duty": "Issue correct QC samples to production team leads and associates prior to production, ensuring the correct portion amount for specific ingredients"
+    },
+    {
+      "duty": "Utilize production sheets to verify proper meal bag line setup and conduct hourly visual inspections to ensure meal bag accuracy"
+    },
+    {
+      "duty": "Verify the setup of the shipping line and conduct hourly visual inspections to ensure accuracy"
+    },
+    {
+      "duty": "Completes and properly documents QC inspections of all inbound/outbound ingredients and escalate issues to FSQA Supervisor/FSQA leadership if necessary"
+    },
+    {
+      "duty": "Assist in post-operation clean up, equipment setup and maintenance, and issue escalation as needed"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent required"
+    },
+    {
+      "credential": "Previous experience working in food quality preferred"
+    }
+  ]
+}

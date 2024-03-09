@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Computer Aided Design Drafter",
+      "job_category": "Engineering",
+      "job_class": "Drafter",
+      "sector": "Software Engineering",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Drafting",
+      "experience": 2
+    },
+    {
+      "skill": "Computer Aided Design (CAD)",
+      "experience": 2
+    },
+    {
+      "skill": "Engineering Design Principles",
+      "experience": 2
+    },
+    {
+      "skill": "Mathematics and Geometry",
+      "experience": 2
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 2
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create detailed schematics and technical drawings for engineering and architectural projects."
+    },
+    {
+      "duty": "Work closely with engineers and architects to convert concepts into finished designs."
+    },
+    {
+      "duty": "Use software programs to develop 2D and 3D models of products and structures."
+    },
+    {
+      "duty": "Communicate design details and requirements to production teams for implementation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 40,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Mechanical Engineering, Architecture, or related field and at least 2 years of experience in technical drafting, or equivalent combination of education and experience."
+    }
+  ]
+}

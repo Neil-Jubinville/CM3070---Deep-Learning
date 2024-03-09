@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Research Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Engineering",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Chemical Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Chemical Process R&D",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Process Safety",
+      "experience": 5
+    },
+    {
+      "skill": "Catalyst Characterization",
+      "experience": 3
+    },
+    {
+      "skill": "Process Modeling",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analytics",
+      "experience": 3
+    },
+    {
+      "skill": "Chemical Process Improvement",
+      "experience": 3
+    },
+    {
+      "skill": "AI/ML Methods",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and conduct experiments to scale from laboratory to pilot or plant scale"
+    },
+    {
+      "duty": "Provide feedback and training to technicians for accurate data interpretation"
+    },
+    {
+      "duty": "Offer guidance and oversight on safe operation of lab facilities from a chemical handling and hygiene perspective"
+    },
+    {
+      "duty": "Utilize expertise in chemical engineering principles for homogeneous/heterogeneous catalysis, reaction engineering, and separation processes"
+    },
+    {
+      "duty": "Conduct catalyst characterization using SEM/EDS, BET surface area, and other relevant techniques"
+    },
+    {
+      "duty": "Apply process safety knowledge to handle toxic and flammable materials in Pilot Plant Operations"
+    },
+    {
+      "duty": "Model and analyze chemical processes using ASPEN and other appropriate tools"
+    },
+    {
+      "duty": "Identify new programs, experimental capabilities, and data analytical capabilities for process improvements"
+    },
+    {
+      "duty": "Utilize Advanced Data Analytics and AI/ML methods for process enhancement"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Ph.D. in Chemical Engineering"
+    }
+  ]
+}

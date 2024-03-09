@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "nCino Sr. Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior Developer",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SFDC Development",
+      "experience": 6
+    },
+    {
+      "skill": "nCino Configuration",
+      "experience": 3
+    },
+    {
+      "skill": "Banking",
+      "experience": 6
+    },
+    {
+      "skill": "Apex Programming",
+      "experience": 6
+    },
+    {
+      "skill": "Visual Force Pages",
+      "experience": 6
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 6
+    },
+    {
+      "skill": "nCino Certification",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop high-level design for business requirements and come up with prototypes and demonstrate solution design."
+    },
+    {
+      "duty": "Configure nCino UI Group ,Routes, Screens, product catalog, product package, entities involvement, exposure, collateral management, covenants etc."
+    },
+    {
+      "duty": "Implement solutions using configurations such as Flows, process builders, workflow Rules."
+    },
+    {
+      "duty": "Write Apex programming, Visual force pages, Apex triggers, lightening web components."
+    },
+    {
+      "duty": "Knowledge in nCino Loan Origination process, Core Banking Service \u2013 Deposits, Lending and Digital Banking platforms."
+    },
+    {
+      "duty": "Organize time management, and written and verbal communication skills."
+    },
+    {
+      "duty": "Run business architecture design sessions as needed."
+    },
+    {
+      "duty": "Implement nCino features such as nCino Spreading, Auto Spreading, Smart Checklist, DocMan and Flows."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (Master's preferred)"
+    },
+    {
+      "credential": "nCino 201 Certification and nCino 301 Certification"
+    }
+  ]
+}

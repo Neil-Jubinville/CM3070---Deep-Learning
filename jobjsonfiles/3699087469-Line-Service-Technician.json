@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Line Service Technician",
+      "job_category": "Fixed Base Operations (FBO)",
+      "job_class": "Technician",
+      "sector": "Fixed Base Operations (FBO)",
+      "salary": 36000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Refueling Procedures",
+      "experience": 2
+    },
+    {
+      "skill": "Towing Procedures",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Ground Support Equipment Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Aircraft Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "General Grounds Keeping",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for refueling and defueling all types of aircrafts on a daily basis, demonstrating knowledge of specific fueling requirements."
+    },
+    {
+      "duty": "Provides towing and disconnecting services for all types of aircraft."
+    },
+    {
+      "duty": "Executes hand signals in order to guide aircrafts during arrivals and departures."
+    },
+    {
+      "duty": "Provides service to aircrafts using ground support equipment, e.g. use of GPU for aircraft engine starts and ground power, use of lavatory cart and emptying procedures, etc."
+    },
+    {
+      "duty": "Communicates with employees and/or crew using radios in order to provide excellent customer service."
+    },
+    {
+      "duty": "Assists in providing aircraft with ice, coffee, catering and other necessary services."
+    },
+    {
+      "duty": "Provides transportation for customers and pilots to and from aircraft, hotels, restaurants and other parts of the airport with courtesy van or bus."
+    },
+    {
+      "duty": "Assists with aircraft and hangar cleaning, as needed."
+    },
+    {
+      "duty": "Assists with general grounds keeping (grass cutting, weeding, picking up paper and trash, general housekeeping, etc.)"
+    },
+    {
+      "duty": "Other duties may be assigned, as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma/GED"
+    }
+  ]
+}

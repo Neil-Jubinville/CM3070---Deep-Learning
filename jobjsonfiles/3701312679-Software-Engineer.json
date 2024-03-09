@@ -1,0 +1,202 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C#",
+      "experience": 5
+    },
+    {
+      "skill": ".NET",
+      "experience": 5
+    },
+    {
+      "skill": "XAML",
+      "experience": 5
+    },
+    {
+      "skill": "WPF (Windows Presentation Foundation)",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Graph API",
+      "experience": 5
+    },
+    {
+      "skill": "Document Databases/NoSQL (Azure Cosmos)",
+      "experience": 5
+    },
+    {
+      "skill": "RESTful APIs",
+      "experience": 5
+    },
+    {
+      "skill": "JSON",
+      "experience": 5
+    },
+    {
+      "skill": "OAuth",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft 365",
+      "experience": 5
+    },
+    {
+      "skill": "Entra ID (Azure AD)",
+      "experience": 5
+    },
+    {
+      "skill": "MVVM",
+      "experience": 5
+    },
+    {
+      "skill": "Store",
+      "experience": 5
+    },
+    {
+      "skill": "Observer",
+      "experience": 5
+    },
+    {
+      "skill": "Typescript",
+      "experience": 5
+    },
+    {
+      "skill": "ReactJS",
+      "experience": 5
+    },
+    {
+      "skill": "NodeJS",
+      "experience": 5
+    },
+    {
+      "skill": "Jest",
+      "experience": 5
+    },
+    {
+      "skill": "Cypress",
+      "experience": 5
+    },
+    {
+      "skill": "Apollo GraphQL",
+      "experience": 5
+    },
+    {
+      "skill": "Mongo Database",
+      "experience": 5
+    },
+    {
+      "skill": "Automated Delivery Pipelines",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Delivery",
+      "experience": 5
+    },
+    {
+      "skill": "Test-driven Development",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Native Architectures",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "Google Cloud Platform",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop system applications to meet coding standards and maintain high-quality code."
+    },
+    {
+      "duty": "Conduct Quality Assurance testing and perform code reviews to prepare for system releases."
+    },
+    {
+      "duty": "Manage daily operations and maintenance tasks, including attending daily standups, troubleshooting issues, responding to escalations, and documenting systems."
+    },
+    {
+      "duty": "Collaborate with other developers to determine optimal solutions for application efficiency, maintainability, and scalability."
+    },
+    {
+      "duty": "Take technical ownership of project efforts in development, maintenance, and enhancements of business system applications."
+    },
+    {
+      "duty": "Create system test plans, ensure software quality assurance (SQA) standards are met, and validate that business goals are achieved."
+    },
+    {
+      "duty": "Complete tasks according to commitments made to stakeholders and management, ensuring timely delivery."
+    },
+    {
+      "duty": "Regularly report project status to the appropriate Application Development Manager."
+    },
+    {
+      "duty": "Understand functional requirements and translate them into user experiences."
+    },
+    {
+      "duty": "Demonstrate a passion for technology and problem-solving with a top-end engineering approach and an eagerness to learn."
+    },
+    {
+      "duty": "Focus on delivering value to the business, striving to improve processes continuously."
+    },
+    {
+      "duty": "Advocate strong collaborative software engineering techniques and methods, including agile development, continuous integration, code review & pairing, unit testing, and refactoring."
+    },
+    {
+      "duty": "Possess strong analytical and problem-solving skills, holding yourself accountable for technical debt in software."
+    },
+    {
+      "duty": "Be flexible in thinking and open to considering other points of view."
+    },
+    {
+      "duty": "Have experience working in a dynamic, fast-paced, Agile team environment."
+    },
+    {
+      "duty": "Exhibit strong interpersonal skills, establishing and maintaining close working relationships with team members and stakeholders."
+    },
+    {
+      "duty": "Be enthusiastic about learning and results-oriented, staying current with the latest technologies."
+    },
+    {
+      "duty": "Understand and hands-on experience with various Microsoft 365 (M365) services."
+    },
+    {
+      "duty": "Experience writing Typescript code in ReactJS (Material UI) & NodeJS for cloud native software applications using unit (Jest), integration, and E2E(Cypress) testing at the time of feature development."
+    },
+    {
+      "duty": "Experience with building solutions leveraging Apollo GraphQL to connect various parts of the application together including Mongo Database."
+    },
+    {
+      "duty": "Experience with automated delivery pipelines, agile delivery, and test-driven development."
+    },
+    {
+      "duty": "Familiarity and experience with cloud native architectures (Google Cloud Platform, AWS, Azure)"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering or related field"
+    }
+  ]
+}

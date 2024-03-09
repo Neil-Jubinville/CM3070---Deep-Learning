@@ -1,0 +1,49 @@
+{
+  "meta": [
+    {
+      "job_title": "Nuclear Medicine Technologist",
+      "job_category": "Medical",
+      "job_class": "Technologist",
+      "sector": "Medical",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nuclear Medicine Technology",
+      "experience": 2
+    },
+    {
+      "skill": "Venipuncture",
+      "experience": 2
+    },
+    {
+      "skill": "Nuclear Radiopharmacy",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Produce quality scans for medical interpretation under limited supervision."
+    },
+    {
+      "duty": "Provide quality patient service in a timely manner and coordinate work in compliance with Department, State, and Federal Policies."
+    },
+    {
+      "duty": "Flexibility of hours may be required."
+    }
+  ],
+  "subjective_elements": [],
+  "education_certification": [
+    {
+      "credential": "Satisfactory completion of formal nuclear medicine technology training by either the NMTCB or the ARRT(N)."
+    },
+    {
+      "credential": "Certified Nuclear Medicine Technologist (CNMT) or Certified Technologist Nuclear Medicine (CTNM) issued by California Department of Public Health or American Registry of Radiologic Technologists Nuclear Medicine Technology (ARRT(N)) issued by American Registry of Radiologic Technologists."
+    },
+    {
+      "credential": "Current Basic Life Support Provider (BLS) issued by American Heart Association."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "MuleSoft Administrative/Architect",
+      "job_category": "Information Technology",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Solution Architecture Design",
+      "experience": 5
+    },
+    {
+      "skill": "MuleSoft Any point Platform",
+      "experience": 5
+    },
+    {
+      "skill": "Messaging Queue Implementation",
+      "experience": 5
+    },
+    {
+      "skill": "System Integration",
+      "experience": 5
+    },
+    {
+      "skill": "API implementation",
+      "experience": 5
+    },
+    {
+      "skill": "Connectors and Transformations",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Analyzing business requirements and designing integration solutions using the MuleSoft Any point Platform."
+    },
+    {
+      "duty": "Creating detailed technical specifications and integration design documents."
+    },
+    {
+      "duty": "Setting up and configuring messaging queues within the MuleSoft ecosystem."
+    },
+    {
+      "duty": "Defining message structures and formats for effective data exchange."
+    },
+    {
+      "duty": "Building and configuring MuleSoft applications and flows to integrate systems, applications, and data sources."
+    },
+    {
+      "duty": "Implementing APIs, connectors, and transformations to enable seamless data exchange."
+    }
+  ]
+}

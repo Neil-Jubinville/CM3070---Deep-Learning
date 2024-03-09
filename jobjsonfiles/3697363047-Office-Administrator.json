@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Office Administrator",
+      "job_category": "Administration",
+      "job_class": "Administrator",
+      "sector": "Administration",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Office Management",
+      "experience": 5
+    },
+    {
+      "skill": "Administrative Support",
+      "experience": 5
+    },
+    {
+      "skill": "Supervision",
+      "experience": 5
+    },
+    {
+      "skill": "Record Keeping",
+      "experience": 5
+    },
+    {
+      "skill": "Procurement",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Supervise and direct administrative staff, including setting work schedules and approval of time sheets."
+    },
+    {
+      "duty": "Perform routine office tasks such as office supply inventory maintenance, maintenance of office equipment, and reconciliation of records."
+    },
+    {
+      "duty": "Responsible for special projects as assigned by supervisor and development of special correspondence or documents as needed."
+    },
+    {
+      "duty": "Responsible for filing documents and maintaining office filing system."
+    },
+    {
+      "duty": "Answer, properly route, and return phone calls and greet incoming office callers."
+    },
+    {
+      "duty": "Responsible for opening the office daily and receiving, greeting, and directing visitors."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Business Administration, Office Management, or a related field"
+    }
+  ]
+}

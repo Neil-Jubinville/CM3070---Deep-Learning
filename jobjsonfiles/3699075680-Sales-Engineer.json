@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Engineer",
+      "job_category": "Sales",
+      "job_class": "Engineer",
+      "sector": "Sales",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data migration strategies",
+      "experience": 5
+    },
+    {
+      "skill": "Database technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Data warehousing",
+      "experience": 5
+    },
+    {
+      "skill": "Technical sales",
+      "experience": 5
+    },
+    {
+      "skill": "Architecture design",
+      "experience": 5
+    },
+    {
+      "skill": "Customer requirements analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud computing",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Identify and qualify business opportunities and develop strategies to resolve technical blockers"
+    },
+    {
+      "duty": "Manage the technical relationship with customers, including managing product and solution briefings, proof-of-concept work, and coordination of additional technical resources"
+    },
+    {
+      "duty": "Demonstrate and prototype Google Cloud product integrations and guide customers through application modernization and migration to hybrid-cloud computing models"
+    },
+    {
+      "duty": "Recommend integration strategies, enterprise architectures, platforms, and application infrastructure for implementing solutions on Google Cloud"
+    },
+    {
+      "duty": "Travel to customer sites, conferences, and related events as required"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or equivalent practical experience (Master's preferred)"
+    }
+  ]
+}

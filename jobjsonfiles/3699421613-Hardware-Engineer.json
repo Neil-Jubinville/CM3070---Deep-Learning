@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Hardware Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 145000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SystemVerilog",
+      "experience": 3
+    },
+    {
+      "skill": "Functional Coverage",
+      "experience": 3
+    },
+    {
+      "skill": "Digital Design",
+      "experience": 5
+    },
+    {
+      "skill": "Networking Technologies",
+      "experience": 4
+    },
+    {
+      "skill": "System Design",
+      "experience": 5
+    },
+    {
+      "skill": "Verification Planning",
+      "experience": 4
+    },
+    {
+      "skill": "Test Execution",
+      "experience": 4
+    },
+    {
+      "skill": "Circuit Design",
+      "experience": 5
+    },
+    {
+      "skill": "Debugging",
+      "experience": 4
+    },
+    {
+      "skill": "UVM",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Plan the verification of complex digital design blocks by fully understanding the design specification and interacting with design engineers to identify important verification scenarios."
+    },
+    {
+      "duty": "Create and enhance constrained-random verification environments using SystemVerilog and UVM, or formally verify designs with industry-leading formal tools."
+    },
+    {
+      "duty": "Identify and write all types of coverage measures for stimulus and corner-cases."
+    },
+    {
+      "duty": "Debug tests with design engineers to deliver functionally correct design blocks."
+    },
+    {
+      "duty": "Close coverage measures to identify verification holes and to show progress towards tape-out."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Electrical Engineering, or a related field (Master's or PhD preferred)"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Physical Therapist Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Help patients accomplish treatment plans and therapeutic activities by administering manual physical exercises; instructing, encouraging, and assisting patients in non-manual exercises; ambulatory functional activities, and daily-living activities; as well as applying assistive and supportive quality care."
+    },
+    {
+      "duty": "Assess and interpret evaluations and test results; determine physical therapy treatment plans in consultation with physicians."
+    },
+    {
+      "duty": "Document patient care services by charting in patient and department records in compliance with federal, state, and local legal and professional requirements."
+    },
+    {
+      "duty": "Follow up visits for home health orthopedic patients and continue to meet eligibility requirements for home health services maintenance therapy."
+    },
+    {
+      "duty": "Driving as a requirement."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Assessment",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Physical Therapy Treatment Planning",
+      "experience": 2
+    },
+    {
+      "skill": "Documentation",
+      "experience": 2
+    },
+    {
+      "skill": "Home Health Care",
+      "experience": 1
+    },
+    {
+      "skill": "Orthopedic Therapy",
+      "experience": 1
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduation from an accredited Assistant Therapy Assistant Program. California state licensure. 1 year of home health experience as a physical therapist Assistant. Valid Drivers license and clean DMV."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Manager",
+      "job_category": "Management",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Supervisory Experience",
+      "experience": 4
+    },
+    {
+      "skill": "Point-Of-Sale Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Administrative Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 4
+    },
+    {
+      "skill": "Inventory Control",
+      "experience": 3
+    },
+    {
+      "skill": "Food Safety Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Cost Control",
+      "experience": 4
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Supervising assigned shifts and providing supervision to crew members in the absence of the General Manager."
+    },
+    {
+      "duty": "Training and developing crew members."
+    },
+    {
+      "duty": "Completing administrative tasks such as financial and inventory control, schedules, and maintenance logging."
+    },
+    {
+      "duty": "Creating and ensuring exceptional guest experiences."
+    },
+    {
+      "duty": "Ensuring compliance with security, food safety, and cleanliness standards."
+    },
+    {
+      "duty": "Contributing to sales/profit goals by maintaining cost controls."
+    },
+    {
+      "duty": "Building skills and leveraging available tools to prepare for a future General Manager role."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent (GED) preferred."
+    }
+  ]
+}

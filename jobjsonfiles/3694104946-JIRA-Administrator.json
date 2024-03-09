@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "JIRA Administrator",
+      "job_category": "Information Technology",
+      "job_class": "Administrator",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Jira Align Admin",
+      "experience": 3
+    },
+    {
+      "skill": "API Configuration",
+      "experience": 3
+    },
+    {
+      "skill": "Field Mapping",
+      "experience": 3
+    },
+    {
+      "skill": "Workflow Management",
+      "experience": 3
+    },
+    {
+      "skill": "Jira Integration",
+      "experience": 3
+    },
+    {
+      "skill": "Automation Setup",
+      "experience": 3
+    },
+    {
+      "skill": "Rest APIs",
+      "experience": 3
+    },
+    {
+      "skill": "Issue Types Mapping",
+      "experience": 3
+    },
+    {
+      "skill": "Confluence",
+      "experience": 3
+    },
+    {
+      "skill": "SAFe Framework",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage JIRA and Jira Align by configuring field mapping, workflow mapping, and issue types mapping."
+    },
+    {
+      "duty": "Automate user management and pull external custom reports to Jira Align for better visibility."
+    },
+    {
+      "duty": "Set up connectors for different applications and understand Rest APIs to set up automation jobs."
+    },
+    {
+      "duty": "Integrate Jira Align by configuring Jira - Jira align field mapping, workflow mapping, and issue types mapping."
+    },
+    {
+      "duty": "Work closely with Agile CoP to oversee and manage change control over complex codebase."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Experience in using various reports and educating users on using Jira align reports."
+    }
+  ]
+}

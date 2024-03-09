@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Specialist",
+      "job_category": "Sales",
+      "job_class": "Specialist",
+      "sector": "Sales",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Marketing",
+      "experience": 2
+    },
+    {
+      "skill": "Business Development",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 2
+    },
+    {
+      "skill": "CRM Systems",
+      "experience": 2
+    },
+    {
+      "skill": "Big-Ticket Sales",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Identify and pursue new business opportunities for corporate sponsors of Phreescholarships.com."
+    },
+    {
+      "duty": "Build and maintain relationships with clients."
+    },
+    {
+      "duty": "Develop sales strategies and tactics."
+    },
+    {
+      "duty": "Work collaboratively with cross-functional teams to deliver customized solutions for clients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Marketing, Business Administration, or a related field"
+    }
+  ]
+}

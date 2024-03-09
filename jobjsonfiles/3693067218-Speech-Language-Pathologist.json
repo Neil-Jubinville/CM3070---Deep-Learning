@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Speech Language Pathologist",
+      "job_category": "Healthcare",
+      "job_class": "Clinician",
+      "sector": "Healthcare",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Speech Therapy",
+      "experience": 5
+    },
+    {
+      "skill": "Pediatric Care",
+      "experience": 5
+    },
+    {
+      "skill": "Evaluation and Treatment Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Mentorship",
+      "experience": 5
+    },
+    {
+      "skill": "Professional Development",
+      "experience": 5
+    },
+    {
+      "skill": "Flexible Schedule Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide skilled speech therapy services and interventions to pediatric patients (birth to 21) with speech/communication, language, hearing, voice, and feeding/swallowing deficits."
+    },
+    {
+      "duty": "Evaluate all assigned patients and develop, implement, and modify treatment plans in accordance with patient needs."
+    },
+    {
+      "duty": "Instruct and counsel patients and families."
+    },
+    {
+      "duty": "Complete accurate and timely documentation according to standards set by the department and regulatory agencies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 150,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master\u2019s degree in Speech Language Pathology (Bachelor\u2019s in Communication Sciences and Disorders or related degree)"
+    },
+    {
+      "credential": "Current BLS CPR certification per state regulations"
+    },
+    {
+      "credential": "Licensed to practice speech therapy in the state of Colorado"
+    }
+  ]
+}

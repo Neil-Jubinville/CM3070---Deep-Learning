@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Support Specialist",
+      "job_category": "Information Technology",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "User Support",
+      "experience": 5
+    },
+    {
+      "skill": "MacOS & IOS Support",
+      "experience": 2
+    },
+    {
+      "skill": "Windows Support",
+      "experience": 5
+    },
+    {
+      "skill": "Office365",
+      "experience": 5
+    },
+    {
+      "skill": "Zoom and Microsoft Teams Conferencing",
+      "experience": 5
+    },
+    {
+      "skill": "Network Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Active Directory",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide user support in a mixed-vendor, mixed-OS environment."
+    },
+    {
+      "duty": "Manage Mac & PC hardware, IOS hardware, and related accessories."
+    },
+    {
+      "duty": "Handle troubleshooting for Office365, Zoom, and Microsoft Teams conferencing."
+    },
+    {
+      "duty": "Support the end-user community, including remote workers."
+    },
+    {
+      "duty": "Ensure data security and SOX compliance in all activities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in IT, Computer Science, or related field"
+    }
+  ]
+}

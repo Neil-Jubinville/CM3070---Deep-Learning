@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Polymer Chemist",
+      "job_category": "Science",
+      "job_class": "Chemist",
+      "sector": "Industrial 3D Printing",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Polymer Synthesis",
+      "experience": 3
+    },
+    {
+      "skill": "Analytical Characterization",
+      "experience": 3
+    },
+    {
+      "skill": "Chemical Process Development",
+      "experience": 4
+    },
+    {
+      "skill": "Lab Process Development",
+      "experience": 3
+    },
+    {
+      "skill": "Experimental Design",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Report Writing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead projects driven by customer needs to synthesize and produce materials for 3D printing and final part performance requirements."
+    },
+    {
+      "duty": "Conduct fundamental and design experiments to develop new products and processes that meet customer requirements."
+    },
+    {
+      "duty": "Perform lab process development and scale-up of new thermoset systems for commercialization."
+    },
+    {
+      "duty": "Perform detailed analytical characterization and manage external analytical testing to meet throughput and product quality needs."
+    },
+    {
+      "duty": "Write technical reports detailing experiments and documentation of results."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Ph.D. degree in Chemistry or Chemical Engineering"
+    }
+  ]
+}

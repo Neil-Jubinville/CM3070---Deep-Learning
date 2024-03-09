@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Phlebotomist",
+      "job_category": "Healthcare",
+      "job_class": "Specialized",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Phlebotomy",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Billing",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Information Management",
+      "experience": 2
+    },
+    {
+      "skill": "Blood Collection",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform blood collections by venipuncture and capillary techniques for all age groups"
+    },
+    {
+      "duty": "Collect specimens for drug screens, paternity tests, alcohol tests etc."
+    },
+    {
+      "duty": "Perform data entry of patient information in an accurate and timely manner"
+    },
+    {
+      "duty": "Process billing information and collect payments when required"
+    },
+    {
+      "duty": "Prepare all collected specimens for testing and analysis"
+    },
+    {
+      "duty": "Maintain patient and specimen information logs"
+    },
+    {
+      "duty": "Provide superior customer service to all patients"
+    },
+    {
+      "duty": "Administrative and clerical duties as necessary"
+    },
+    {
+      "duty": "Travel to additional sites when needed"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    },
+    {
+      "credential": "Phlebotomy certification from an accredited agency is preferred"
+    }
+  ]
+}

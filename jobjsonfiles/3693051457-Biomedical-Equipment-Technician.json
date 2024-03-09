@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Biomedical Equipment Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Imaging Equipment Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Electronic Equipment Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnostic Imaging",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 3
+    },
+    {
+      "skill": "Communcation Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Resource Support",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform planned preventive maintenance, calibrations where certification may be required and electrical safety inspections on imaging and related equipment in compliance with established standards"
+    },
+    {
+      "duty": "Perform major repairs by replacing defective components, readjust components to manufacturer\u2019s specifications using appropriate tools and measuring instruments. May require certification in order to complete repairs"
+    },
+    {
+      "duty": "Assist with diagnostic imaging cross training of BMET Technicians"
+    },
+    {
+      "duty": "Confer with manufacturer\u2019s representatives and equipment operators to resolve equipment related problems"
+    },
+    {
+      "duty": "Provide emergency on-call responsibilities"
+    },
+    {
+      "duty": "Research and initiate orders for repair parts, working within established budget parameters"
+    },
+    {
+      "duty": "Conduct and compile Quality Assurance records and reports necessary for compliance with specifications and policies"
+    },
+    {
+      "duty": "Document all significant asset related actions in compliance with department practices"
+    },
+    {
+      "duty": "Must be capable of performing all the duties and responsibilities of a BMET III"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree in Electronics/Imaging Technology, Biomedical Equipment Technology, or military training (Bachelor's degree preferred)"
+    },
+    {
+      "credential": "Certification (CRES) in specialized modalities such as radiology, MRI, nuclear medicine, ultrasound, CT, cath. lab., linear accelerators, etc."
+    }
+  ]
+}

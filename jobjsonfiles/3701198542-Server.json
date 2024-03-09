@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Server",
+      "job_category": "Hospitality",
+      "job_class": "Server",
+      "sector": "Food and Beverage",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food Service",
+      "experience": 2
+    },
+    {
+      "skill": "Bartending",
+      "experience": 1
+    },
+    {
+      "skill": "Point of Sale Systems",
+      "experience": 2
+    },
+    {
+      "skill": "Beverage Pouring",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Serving food and beverages in a full-service restaurant and handling bar orders when necessary."
+    },
+    {
+      "duty": "Following portion pour procedures for all beverages served."
+    },
+    {
+      "duty": "Handling food orders as well as bar orders when necessary."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid TIPS certification. Must be of legal age to pour, mix, and serve alcoholic beverages in Colorado."
+    }
+  ]
+}

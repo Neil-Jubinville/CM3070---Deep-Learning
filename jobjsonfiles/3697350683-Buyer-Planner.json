@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Buyer Planner",
+      "job_category": "Purchasing",
+      "job_class": "Planner",
+      "sector": "Supply Chain",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Supply Chain Management",
+      "experience": 1
+    },
+    {
+      "skill": "Operations Management",
+      "experience": 1
+    },
+    {
+      "skill": "Lean Manufacturing",
+      "experience": 1
+    },
+    {
+      "skill": "Microsoft Excel",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Project",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Planning",
+      "experience": 2
+    },
+    {
+      "skill": "Supplier Relationship Management",
+      "experience": 2
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 2
+    },
+    {
+      "skill": "ERP Systems",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Execute purchase orders and strategic sourcing initiatives to optimize inventory and support day-to-day production requirements."
+    },
+    {
+      "duty": "Manage RFQ and RFP processes, review bid proposals, and make recommendations based on quoting analysis."
+    },
+    {
+      "duty": "Maintain records, review and execute engineering notifications, and interact with cross-functional teams and suppliers."
+    },
+    {
+      "duty": "Identify and resolve problems, gather and analyze information, and propose alternative solutions."
+    },
+    {
+      "duty": "Monitor supplier performance, identify cost reduction opportunities, and report agreed upon KPIs and cost reduction results."
+    },
+    {
+      "duty": "Travel 5-10% of the time to conduct supplier assessments and manage assigned action plans utilizing lean manufacturing principles."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Supply Chain Management, Operations, or Engineering (Master's preferred)"
+    }
+  ]
+}

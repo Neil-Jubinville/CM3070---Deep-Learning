@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Surgical Pathologist",
+      "job_category": "Healthcare",
+      "job_class": "Pathologist",
+      "sector": "Healthcare",
+      "remote": false,
+      "salary": 250000
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Diagnostic Services",
+      "experience": 5
+    },
+    {
+      "skill": "Tissue Examination",
+      "experience": 5
+    },
+    {
+      "skill": "Report Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "Translational Research",
+      "experience": 5
+    },
+    {
+      "skill": "Educational Opportunities",
+      "experience": 5
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide diagnostic and consultative services to surgeons and other healthcare providers"
+    },
+    {
+      "duty": "Perform gross and microscopic examinations of tissue specimens"
+    },
+    {
+      "duty": "Prepare and interpret diagnostic reports"
+    },
+    {
+      "duty": "Provide educational and research opportunities for students and residents"
+    },
+    {
+      "duty": "Participate in translational research projects"
+    },
+    {
+      "duty": "Maintain accurate and up-to-date records"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 150,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Medical Degree"
+    },
+    {
+      "credential": "Board certification in Anatomic and Clinical Pathology"
+    },
+    {
+      "credential": "Eligible for NYS licensure"
+    },
+    {
+      "credential": "Fellowship trained in Surgical Pathology, including breast, head, neck, or lung pathology"
+    }
+  ]
+}

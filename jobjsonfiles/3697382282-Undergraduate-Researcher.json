@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Undergraduate Researcher",
+      "job_category": "Research",
+      "job_class": "Researcher",
+      "sector": "Science",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Research",
+      "experience": 2
+    },
+    {
+      "skill": "Physics",
+      "experience": 2
+    },
+    {
+      "skill": "Engineering",
+      "experience": 2
+    },
+    {
+      "skill": "Computer Science",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 4
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct practical research in fields such as nuclear physics, radiation transport, hydrodynamics, astrophysics, and plasma dynamics."
+    },
+    {
+      "duty": "Develop and employ high-performance scientific software for novel research tasks."
+    },
+    {
+      "duty": "Work with mentors on assigned projects under close supervision."
+    },
+    {
+      "duty": "Present oral presentations of each project at the end of the summer."
+    },
+    {
+      "duty": "Present work at a poster session."
+    },
+    {
+      "duty": "Perform other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 110,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Must be currently enrolled in an accredited university and actively pursuing an undergraduate degree in Physics, Engineering, Mathematics, Computer Science or a related field."
+    },
+    {
+      "credential": "Coding experience (e.g., Python, C++)"
+    }
+  ]
+}

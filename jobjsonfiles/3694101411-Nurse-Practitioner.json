@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Nurse Practitioner",
+      "job_category": "Healthcare",
+      "job_class": "Nurse Practitioner",
+      "sector": "Healthcare",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Orthopedics",
+      "experience": 3
+    },
+    {
+      "skill": "Regenerative Medicine",
+      "experience": 3
+    },
+    {
+      "skill": "Joint Injections",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Training",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Confidence",
+      "experience": 5
+    },
+    {
+      "skill": "Bedside Manner",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Diagnosis",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform orthopedic Initial/re-evaluations and diagnose patients."
+    },
+    {
+      "duty": "Administer joint injections and provide training in orthopedics."
+    },
+    {
+      "duty": "Communicate effectively with patients and ensure a positive bedside manner."
+    },
+    {
+      "duty": "Embrace a challenge and be willing to learn new medical practices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100
+    },
+    {
+      "student_teacher": 80
+    },
+    {
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Nurse Practitioner certification (NP)"
+    }
+  ]
+}

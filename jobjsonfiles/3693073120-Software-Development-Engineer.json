@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Development Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Development",
+      "experience": 3
+    },
+    {
+      "skill": "Design Patterns",
+      "experience": 2
+    },
+    {
+      "skill": "Programming",
+      "experience": 2
+    },
+    {
+      "skill": "Coding Standards",
+      "experience": 4
+    },
+    {
+      "skill": "Source Control Management",
+      "experience": 4
+    },
+    {
+      "skill": "Build Processes",
+      "experience": 4
+    },
+    {
+      "skill": "Testing",
+      "experience": 4
+    },
+    {
+      "skill": "Operations",
+      "experience": 4
+    },
+    {
+      "skill": "Computer Science",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build services and features to deliver medications in a safe, secure, reliable, and scalable way"
+    },
+    {
+      "duty": "Solve interesting and complex problems at every layer of the stack"
+    },
+    {
+      "duty": "Participate in design discussions, code review, and communicating with stakeholders"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in computer science or equivalent (Master's degree preferred)"
+    }
+  ]
+}

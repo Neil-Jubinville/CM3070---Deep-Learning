@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Systems Designer Associate",
+      "job_category": "Engineering",
+      "job_class": "Associate",
+      "sector": "Engineering",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Computer-aided Drafting",
+      "experience": 4
+    },
+    {
+      "skill": "CAD Drawing",
+      "experience": 4
+    },
+    {
+      "skill": "Drawing Layout",
+      "experience": 4
+    },
+    {
+      "skill": "Bill of Materials (BOM)",
+      "experience": 4
+    },
+    {
+      "skill": "3D Modeling",
+      "experience": 4
+    },
+    {
+      "skill": "2D Modeling",
+      "experience": 4
+    },
+    {
+      "skill": "Change Notice (CN) Documents",
+      "experience": 4
+    },
+    {
+      "skill": "ERP Systems",
+      "experience": 4
+    },
+    {
+      "skill": "Technical Assistance",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support engineers with drawing layouts by utilizing computer-aided drafting software."
+    },
+    {
+      "duty": "Create new and modified components and Bill of Materials (BOM) in accordance with Oshkosh standards."
+    },
+    {
+      "duty": "Update current drawings per markups from engineering."
+    },
+    {
+      "duty": "Self-check own work to ensure accuracy, organization, dimension, and tolerance convention."
+    },
+    {
+      "duty": "Prepare and create Change Notice (CN) documents based on BOM and design layouts for appropriate date entry."
+    },
+    {
+      "duty": "Provide technical assistance for prototype, pilot, and production support."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate degree or equivalent with four (4) years of experience in drafting/design"
+    }
+  ]
+}

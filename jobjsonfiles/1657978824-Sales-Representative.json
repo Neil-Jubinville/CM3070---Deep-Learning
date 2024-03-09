@@ -1,0 +1,50 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 50000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Promote, present, and sell company products and services to potential customers."
+    },
+    {
+      "duty": "Identify and qualify leads, build relationships, and close sales to achieve revenue targets."
+    },
+    {
+      "duty": "Communicate product features, benefits, and pricing to clearly articulate value to customers."
+    },
+    {
+      "duty": "Maintain accurate records of sales activities, customer interactions, and transactions."
+    },
+    {
+      "duty": "Collaborate with the sales team to develop and implement effective sales strategies and tactics."
+    },
+    {
+      "duty": "Stay updated on industry trends, market conditions, and competitor activities to identify new opportunities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent (Bachelor's preferred)"
+    }
+  ]
+}

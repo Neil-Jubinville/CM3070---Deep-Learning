@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Facilities Management",
+      "salary": 37000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Facilities Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Janitorial Duties",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide preventative maintenance and complete work orders."
+    },
+    {
+      "duty": "Perform routine janitorial duties for the building and grounds, general maintenance repairs."
+    },
+    {
+      "duty": "Ensure apartments are efficiently turned over."
+    },
+    {
+      "duty": "Effective and timely communication with building staff and supervisor."
+    },
+    {
+      "duty": "Perform on-call service as scheduled and respond promptly to emergencies."
+    },
+    {
+      "duty": "Assume minimal responsibilities for daily facility operations when Maintenance Lead."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma/Equivalent"
+    }
+  ]
+}

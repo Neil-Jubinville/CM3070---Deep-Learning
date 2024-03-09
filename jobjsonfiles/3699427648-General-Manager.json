@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "General Manager",
+      "job_category": "Management",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Operations Management",
+      "experience": 5
+    },
+    {
+      "skill": "Cost Management",
+      "experience": 5
+    },
+    {
+      "skill": "Recruiting",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Technology Troubleshooting",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee the daily operations of a single store, including leadership and supervision of operations."
+    },
+    {
+      "duty": "Achieve operational standards, food safety, profitability, and create an inclusive and engaging environment."
+    },
+    {
+      "duty": "Recruit, retain, and develop multiple employees."
+    },
+    {
+      "duty": "Lead and promote team members and food safety protocols."
+    },
+    {
+      "duty": "Operate and troubleshoot technology such as POS and ATS."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Management, Business, or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineer",
+      "job_category": "Information Technology",
+      "job_class": "Senior",
+      "sector": "Information Technology",
+      "salary": 62400,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "MS SQL",
+      "experience": 5
+    },
+    {
+      "skill": "ETL Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Salesforce",
+      "experience": 5
+    },
+    {
+      "skill": "Data Migration",
+      "experience": 7
+    },
+    {
+      "skill": "Data Integration",
+      "experience": 7
+    },
+    {
+      "skill": "Data Warehousing",
+      "experience": 7
+    },
+    {
+      "skill": "SSIS",
+      "experience": 5
+    },
+    {
+      "skill": "SOQL",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for data migration and clean up in existing platforms as well as newly or soon to be integrated systems."
+    },
+    {
+      "duty": "Importing data, manipulating data, querying, and building indexes in MS SQL."
+    },
+    {
+      "duty": "Loading and validating dimensions and measures using SSIS."
+    },
+    {
+      "duty": "Importing data, querying data, and using SOQL in Salesforce."
+    },
+    {
+      "duty": "Possibility to extend or convert to a Full Time Employee (FTE)."
+    }
+  ]
+}

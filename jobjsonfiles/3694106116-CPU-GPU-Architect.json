@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "CPU/GPU Architect",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 225000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Compiler Development",
+      "experience": 5
+    },
+    {
+      "skill": "Architecture Design",
+      "experience": 5
+    },
+    {
+      "skill": "C/C++ Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Python Programming",
+      "experience": 5
+    },
+    {
+      "skill": "ML Network Experience",
+      "experience": 5
+    },
+    {
+      "skill": "ML Tools (TensorFlow, PyTorch, etc.)",
+      "experience": 5
+    },
+    {
+      "skill": "Processor Design",
+      "experience": 5
+    },
+    {
+      "skill": "Memory System Design",
+      "experience": 5
+    },
+    {
+      "skill": "Hardware Description Languages (Verilog/SystemVerilog)",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Contribute to deep-learning compiler technology spanning architecture design and support through functional languages."
+    },
+    {
+      "duty": "Modify and improve GPU, CPU, LLVM, and compilers."
+    },
+    {
+      "duty": "Design processors, memory systems, SOC/NOC."
+    },
+    {
+      "duty": "Utilize hardware description languages such as Verilog/SystemVerilog for both design and verification."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 0,
+      "student_teacher": 0,
+      "introvert_extrovert": 0
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.S. or higher degree in Computer Science/Engineering or equivalent experience"
+    }
+  ]
+}

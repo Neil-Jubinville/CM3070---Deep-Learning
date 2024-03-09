@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Transporter",
+      "job_category": "Healthcare",
+      "job_class": "Transporter",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Transport",
+      "experience": 2
+    },
+    {
+      "skill": "Schedule Organization",
+      "experience": 2
+    },
+    {
+      "skill": "Clinical Care",
+      "experience": 3
+    },
+    {
+      "skill": "CPR Certification",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Transporting patients to and from locations in the hospital."
+    },
+    {
+      "duty": "Organizing and distributing schedules, maintaining transportation supplies."
+    },
+    {
+      "duty": "Assisting in the nursing units when available."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or GED"
+    },
+    {
+      "credential": "Valid BCLS CPR Certification through the American Heart Association"
+    }
+  ]
+}

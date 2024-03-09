@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Bioinformatics Scientist",
+      "job_category": "Science",
+      "job_class": "Scientist",
+      "sector": "Research",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Bioinformatics",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 4
+    },
+    {
+      "skill": "High-Performance Computing",
+      "experience": 4
+    },
+    {
+      "skill": "Programming (R and Python)",
+      "experience": 4
+    },
+    {
+      "skill": "Cloud Computing",
+      "experience": 3
+    },
+    {
+      "skill": "Scientific Workflow Tools",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Providing computational support services to Boston Children's Hospital scientists and clinicians by applying a wide range of bioinformatics tools, methods and technologies."
+    },
+    {
+      "duty": "Completing assignments in the required timeframe while consistently adhering to standard operating procedures and best practices; adapting to a changing environment, resolving problems associated with assignments and seeking supervisor assistance when needed."
+    },
+    {
+      "duty": "Participating and/or co-leading Research Computing projects with other members from the BCH research community; setting goals and objectives for projects and demonstrating achievement of those goals and objectives."
+    },
+    {
+      "duty": "Training staff and researchers; effectively tailoring presentations; developing, implementing and maintaining knowledge management systems."
+    },
+    {
+      "duty": "Creating or contributing to a range of compelling communications (e.g. PowerPoint presentations, e-mails, memos, scientific presentations, and publications) that clearly deliver content; preparing communications appropriate for management and internal distributions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 110,
+      "introvert_extrovert": 130
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum of 4-year Bachelor's degree in STEM. Minimum of one year of advanced bioinformatics experience. Preference for candidates with a Ph.D. in Bioinformatics, Computational Biology or related."
+    }
+  ]
+}

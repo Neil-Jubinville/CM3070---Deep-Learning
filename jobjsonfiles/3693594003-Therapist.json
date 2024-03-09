@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Therapist",
+      "job_category": "Therapy",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Counseling",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Expertise",
+      "experience": 5
+    },
+    {
+      "skill": "Continuing Education",
+      "experience": 5
+    },
+    {
+      "skill": "Client Engagement",
+      "experience": 5
+    },
+    {
+      "skill": "Privacy & Confidentiality",
+      "experience": 5
+    },
+    {
+      "skill": "Telehealth Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Insurance and Liability",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide professional counseling and clinical expertise to individuals, couples, and teens."
+    },
+    {
+      "duty": "Engage with clients to understand their mental health concerns and guide them towards wellness and recovery."
+    },
+    {
+      "duty": "Participate in continuing education to stay updated on best practices and treatment modalities."
+    },
+    {
+      "duty": "Maintain client engagement and build a strong therapeutic alliance to support clients through their mental health journey."
+    },
+    {
+      "duty": "Ensure privacy and confidentiality in all communications and adhere to ethical and legal standards in therapy sessions."
+    },
+    {
+      "duty": "Utilize telehealth communication methods to conduct remote therapy sessions effectively and securely."
+    },
+    {
+      "duty": "Understand and manage insurance and liability requirements related to therapy practice."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Full licensure by a State Board to provide counseling independently (e.g., LCSW, LPC, LMFT, PsyD)"
+    }
+  ]
+}

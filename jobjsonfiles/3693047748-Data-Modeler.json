@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Modeler",
+      "job_category": "Data Analysis",
+      "job_class": "Modeler",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Power BI",
+      "experience": 4
+    },
+    {
+      "skill": "DAX Formulas",
+      "experience": 4
+    },
+    {
+      "skill": "SQL",
+      "experience": 4
+    },
+    {
+      "skill": "Python",
+      "experience": 4
+    },
+    {
+      "skill": "R",
+      "experience": 4
+    },
+    {
+      "skill": "Excel Formulas",
+      "experience": 4
+    },
+    {
+      "skill": "Data Warehousing",
+      "experience": 4
+    },
+    {
+      "skill": "Data Cubes",
+      "experience": 4
+    },
+    {
+      "skill": "M Language",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft 365",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create, maintain, and support data models for tabular and multi-dimensional models that can be used by Power BI and XLCubed reports."
+    },
+    {
+      "duty": "Collaborate with end users in designing and developing data models (tabular and multi-dimensional), dashboards, metrics, and reports."
+    },
+    {
+      "duty": "Document all report-related activities including user requests, report specification, data model design, development, modification, testing, and ongoing production support."
+    },
+    {
+      "duty": "Power BI administration including Online Data Gateway, capacity setup, workspace management, usage monitoring, and license planning."
+    },
+    {
+      "duty": "Research and conduct data analysis as well as make recommendations in support of resolving issues."
+    },
+    {
+      "duty": "Ability to effectively present information in one-on-one and small-group situations"
+    },
+    {
+      "duty": "Create and maintain best practices, coding standards, and documentation."
+    },
+    {
+      "duty": "Conduct user training and maintain training documentation."
+    },
+    {
+      "duty": "Ensure compliance with all security, availability, confidentiality, and privacy policies and controls."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree with a technology focus and accounting experience is a plus."
+    }
+  ]
+}

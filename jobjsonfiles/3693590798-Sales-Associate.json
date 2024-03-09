@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 3000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Real Estate Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Phone-based Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Connect and follow up with real estate investors to progress the pipeline."
+    },
+    {
+      "duty": "Make regular phone calls to existing and prospective real estate investors, promoting property deals, and ensuring active engagement."
+    },
+    {
+      "duty": "Leverage SMS and email for efficient follow-ups and to maintain strong investor relationships."
+    },
+    {
+      "duty": "Manage multiple follow-ups and facilitate deal closings using negotiation skills."
+    },
+    {
+      "duty": "Engage with investors, understand their property interests, and advocate suitable properties."
+    },
+    {
+      "duty": "Collect investment criteria of buyers once on the phone with them."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

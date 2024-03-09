@@ -1,0 +1,100 @@
+{
+  "meta": [
+    {
+      "job_title": "Automotive Service Technician",
+      "job_category": "Retail",
+      "job_class": "Technician",
+      "sector": "Automotive",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Diagnosis",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Automotive Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Vehicle Inspection",
+      "experience": 2
+    },
+    {
+      "skill": "Brake Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Electrical Systems",
+      "experience": 2
+    },
+    {
+      "skill": "Engine Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Heating and Air Conditioning Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Suspension and Steering Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Transmission Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Wheel and Tire Service",
+      "experience": 2
+    },
+    {
+      "skill": "Oil Change",
+      "experience": 2
+    },
+    {
+      "skill": "Fluid Services",
+      "experience": 2
+    },
+    {
+      "skill": "Brake Services",
+      "experience": 2
+    },
+    {
+      "skill": "ASE Certification",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing automotive systems services and repairs, including brakes, electrical, engine performance, heating/air conditioning, suspension/steering, transmissions, drivetrains, and axles."
+    },
+    {
+      "duty": "Conducting vehicle and customer service, including pre/post-service road tests, vehicle inspections, and explaining mechanical diagnoses and repairs to non-mechanical individuals."
+    },
+    {
+      "duty": "Managing store operations, including maintaining cleanliness and orderliness, reviewing equipment efficiency, attending meetings, and providing on-the-job training."
+    },
+    {
+      "duty": "Performing physical tasks, such as tire and wheel service, oil changes, alignments, fluid services, and brake services."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 30,
+      "student_teacher": 20,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid automobile driver\u2019s license, 2 years of automotive repair experience, or completion of a Vocational-Technical School program in a related field"
+    }
+  ]
+}

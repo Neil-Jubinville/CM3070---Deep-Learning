@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Quant Researcher",
+      "job_category": "Finance",
+      "job_class": "Researcher",
+      "sector": "Quantitative Trading",
+      "salary": 425000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C++ Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Quantitative Research",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Data Science",
+      "experience": 5
+    },
+    {
+      "skill": "Mathematical Modelling",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop software for strat optimisation & P&L performance analysis."
+    },
+    {
+      "duty": "Design & implement strategies in your specialised asset class to improve the bottom line."
+    },
+    {
+      "duty": "Market data simulation knowledge."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 75
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS in Comp Sci/ Mathematics/ Physics or similarly related field. MSCS or similarly related field (preferred)"
+    }
+  ]
+}

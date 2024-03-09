@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Laboratory Technician",
+      "job_category": "Science",
+      "job_class": "Technician",
+      "sector": "Laboratory",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Chemical Testing",
+      "experience": 2
+    },
+    {
+      "skill": "Equipment Calibration",
+      "experience": 2
+    },
+    {
+      "skill": "Data Recording",
+      "experience": 2
+    },
+    {
+      "skill": "Laboratory Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Team Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Math Skills",
+      "experience": 2
+    },
+    {
+      "skill": "LIMS Applications",
+      "experience": 2
+    },
+    {
+      "skill": "Instrumentation Utilization",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform chemical and physical tests based on industry standards."
+    },
+    {
+      "duty": "Assist with equipment calibration, maintenance, and troubleshooting."
+    },
+    {
+      "duty": "Clean glassware and test equipment, and prepare reagents as needed."
+    },
+    {
+      "duty": "Record and report data to LIMS system, and maintain quality records and lab supply inventories."
+    },
+    {
+      "duty": "Comply with safety, quality, and housekeeping requirements, and participate in cross-training as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED preferred, and successful completion of at least one semester of college-level chemistry or prior work experience in a laboratory environment."
+    }
+  ]
+}

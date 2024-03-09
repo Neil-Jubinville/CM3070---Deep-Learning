@@ -1,0 +1,123 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr Database Design Analyst",
+      "job_category": "Data",
+      "job_class": "Analyst",
+      "sector": "Technology",
+      "salary": 115000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 10
+    },
+    {
+      "skill": "Database Management",
+      "experience": 10
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 10
+    },
+    {
+      "skill": "Performance Monitoring",
+      "experience": 10
+    },
+    {
+      "skill": "Cloud Services",
+      "experience": 7
+    },
+    {
+      "skill": "Linux",
+      "experience": 10
+    },
+    {
+      "skill": "Windows Server",
+      "experience": 10
+    },
+    {
+      "skill": "PowerShell",
+      "experience": 7
+    },
+    {
+      "skill": "UNIX Shell Scripting",
+      "experience": 7
+    },
+    {
+      "skill": "SSAS",
+      "experience": 7
+    },
+    {
+      "skill": "SSIS",
+      "experience": 7
+    },
+    {
+      "skill": "SSRSM",
+      "experience": 7
+    },
+    {
+      "skill": "MS SQL",
+      "experience": 10
+    },
+    {
+      "skill": "MySQL",
+      "experience": 7
+    },
+    {
+      "skill": "PostgreSQL",
+      "experience": 7
+    },
+    {
+      "skill": "Oracle",
+      "experience": 7
+    },
+    {
+      "skill": "MongoDB",
+      "experience": 7
+    },
+    {
+      "skill": "AWS Redshift",
+      "experience": 7
+    },
+    {
+      "skill": "Engineering Design (e.g. Dassault's 3DExperience)",
+      "experience": 10
+    },
+    {
+      "skill": "Visualization Tools",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work with database management systems to design and implement solutions for data storage, organization, and security."
+    },
+    {
+      "duty": "Identify user needs and set up new databases on premise and in the cloud."
+    },
+    {
+      "duty": "Integrate data from outdated or legacy systems into contemporary data management systems."
+    },
+    {
+      "duty": "Test and coordinate system modifications; troubleshoot problems and maintain system performance."
+    },
+    {
+      "duty": "Provision and manage system access; provide briefings and mentor other analysts."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in a related field with at least 10 or more years of relevant experience, experience with Engineering Design tools such as Dassault's 3DExperience, extensive experience with database technologies like MS SQL, and strong understanding of relational and dimensional data modeling; familiarity with cloud services like AWS and/or Microsoft Azure; MCSE/MCSA certifications preferred"
+    }
+  ]
+}

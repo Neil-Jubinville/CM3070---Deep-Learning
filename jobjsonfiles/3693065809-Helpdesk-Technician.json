@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Helpdesk Technician",
+      "job_category": "Information Technology",
+      "job_class": "Technician",
+      "sector": "Information Technology",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tech Support",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Software Installation",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Setup",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Adobe",
+      "experience": 2
+    },
+    {
+      "skill": "E-Waste Management",
+      "experience": 2
+    },
+    {
+      "skill": "Data Input",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide basic IT support including troubleshooting monitors, Wi-Fi, and password/account issues."
+    },
+    {
+      "duty": "Assist in building PCs and managing e-waste for shipping to auction."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 130
+    }
+  ],
+  "education_certification": []
+}

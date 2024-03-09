@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Realtor",
+      "job_category": "Real Estate",
+      "job_class": "Sales",
+      "sector": "Real Estate",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Networking",
+      "experience": 3
+    },
+    {
+      "skill": "Marketing",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Generate and sustain sphere and personal leads to drive real estate transactions."
+    },
+    {
+      "duty": "Provide supportive and encouraging guidance to clients in their real estate endeavors."
+    },
+    {
+      "duty": "Show up for yourself and your clients, and guide your own growth and success as an independent Realtor."
+    },
+    {
+      "duty": "Manage transactions and contracts to ensure a smooth and successful real estate process for clients."
+    },
+    {
+      "duty": "Network and build relationships to expand your client base and increase lead generation."
+    },
+    {
+      "duty": "Stay up-to-date with market trends and property values to provide valuable insights to clients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Real Estate License"
+    }
+  ]
+}

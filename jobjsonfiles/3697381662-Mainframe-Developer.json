@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Mainframe Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "REXX",
+      "experience": 5
+    },
+    {
+      "skill": "JCL",
+      "experience": 5
+    },
+    {
+      "skill": "ISPF",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Scrum",
+      "experience": 5
+    },
+    {
+      "skill": "CICD / Gitlab",
+      "experience": 5
+    },
+    {
+      "skill": "DB2 z/os",
+      "experience": 5
+    },
+    {
+      "skill": "Restful API",
+      "experience": 5
+    },
+    {
+      "skill": "Open API Spec",
+      "experience": 5
+    },
+    {
+      "skill": "Process Improvement",
+      "experience": 5
+    },
+    {
+      "skill": "Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Define and automate processes for end users needing masked data."
+    },
+    {
+      "duty": "Work with architects on creating feature roadmaps and developing services used in data masking."
+    },
+    {
+      "duty": "Implement feature requests from clients, including data unloads into a masking environment and performing operations for data obfuscation."
+    },
+    {
+      "duty": "Identify process improvement opportunities and build automation."
+    },
+    {
+      "duty": "Explain technical solutions to both technical and non-technical teams."
+    },
+    {
+      "duty": "Work in a scrum team using agile methodologies and tools."
+    }
+  ]
+}

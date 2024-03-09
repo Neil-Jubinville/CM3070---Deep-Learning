@@ -1,0 +1,96 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Data Analyst",
+      "job_category": "Technology",
+      "job_class": "Data Analyst",
+      "sector": "Data Analysis",
+      "salary": 115000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analysis",
+      "experience": 4
+    },
+    {
+      "skill": "Statistical Analysis",
+      "experience": 4
+    },
+    {
+      "skill": "Python",
+      "experience": 4
+    },
+    {
+      "skill": "Google Analytics",
+      "experience": 4
+    },
+    {
+      "skill": "Looker Studio",
+      "experience": 4
+    },
+    {
+      "skill": "Dashboard Tools",
+      "experience": 4
+    },
+    {
+      "skill": "Database Management",
+      "experience": 4
+    },
+    {
+      "skill": "Hypothesis Testing",
+      "experience": 4
+    },
+    {
+      "skill": "A/B Testing",
+      "experience": 4
+    },
+    {
+      "skill": "PL/pgSQL",
+      "experience": 4
+    },
+    {
+      "skill": "AWS (S3 & Sagemaker)",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Identify areas for process improvement and organize and execute efforts to improve the efficiency and accuracy of said processes."
+    },
+    {
+      "duty": "Lead the effort to standardize and manage Google Analytics tags, triggers, and variables."
+    },
+    {
+      "duty": "Orchestrate exploratory data analysis to proactively identify areas for product improvement."
+    },
+    {
+      "duty": "Translate findings into actionable insights for pertinent stakeholders and lead the company in data-driven decision-making."
+    },
+    {
+      "duty": "Develop robust data collection systems and close data loops."
+    },
+    {
+      "duty": "Oversee the maintenance and improvement of LookerStudio user dashboards."
+    },
+    {
+      "duty": "Design and perform hypothesis and A/B tests to measure the effectiveness of new features and marketing campaigns."
+    },
+    {
+      "duty": "Design and execute experiments to measure the efficacy of product releases."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in math, computer science, statistics, or another data-related major from an accredited college or university"
+    }
+  ]
+}

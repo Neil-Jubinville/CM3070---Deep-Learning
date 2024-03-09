@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer Intern",
+      "job_category": "Engineering",
+      "job_class": "Intern",
+      "sector": "Software Engineering",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Engineering",
+      "experience": 3
+    },
+    {
+      "skill": "Radio Frequency Design",
+      "experience": 2
+    },
+    {
+      "skill": "Schematic Capture",
+      "experience": 2
+    },
+    {
+      "skill": "PCB Design",
+      "experience": 2
+    },
+    {
+      "skill": "Hardware Simulation",
+      "experience": 2
+    },
+    {
+      "skill": "Impedance Matching",
+      "experience": 2
+    },
+    {
+      "skill": "LabVIEW",
+      "experience": 1
+    },
+    {
+      "skill": "MS Office",
+      "experience": 1
+    },
+    {
+      "skill": "Soldering",
+      "experience": 1
+    },
+    {
+      "skill": "Test Automation",
+      "experience": 1
+    },
+    {
+      "skill": "Bench Testing",
+      "experience": 1
+    },
+    {
+      "skill": "Simulation Software",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Apply electrical engineering principles to design and develop consumer products such as wireless remote controls and openers."
+    },
+    {
+      "duty": "Analyze, debug, and test digital and analog circuits with limited complexity."
+    },
+    {
+      "duty": "Perform impedance matching of radio frequency circuits and antennas."
+    },
+    {
+      "duty": "Capture schematics and PCB design using Altium Designer."
+    },
+    {
+      "duty": "Simulate hardware circuits and write design specifications and test reports."
+    },
+    {
+      "duty": "Contribute within a cross-functional team environment and support other hardware and firmware engineers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Rising Senior standing towards a bachelor\u2019s degree in electrical engineering or related field."
+    }
+  ]
+}

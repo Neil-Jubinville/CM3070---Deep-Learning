@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "General Counsel",
+      "job_category": "Legal",
+      "job_class": "Counsel",
+      "sector": "Legal",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Legal Advisory",
+      "experience": 5
+    },
+    {
+      "skill": "Labor and Employment Law",
+      "experience": 5
+    },
+    {
+      "skill": "Data Privacy",
+      "experience": 5
+    },
+    {
+      "skill": "Corporate Governance",
+      "experience": 5
+    },
+    {
+      "skill": "Document Organization",
+      "experience": 5
+    },
+    {
+      "skill": "Contract Management",
+      "experience": 5
+    },
+    {
+      "skill": "Legal Risk Management",
+      "experience": 5
+    },
+    {
+      "skill": "Liaison with External Counsel",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide expert legal advice to the company on a wide range of issues, ensuring that the company's operations are compliant with relevant laws and regulations."
+    },
+    {
+      "duty": "Guide the HR team on matters related to employment contracts, employee rights, and workplace disputes."
+    },
+    {
+      "duty": "Oversee the company's data protection strategy and its implementation to ensure compliance with privacy laws."
+    },
+    {
+      "duty": "Ensure that the company's operations and business transactions follow all relevant legal and internal rules."
+    },
+    {
+      "duty": "Oversee the systematic organization of all legal documents, contracts, and agreements."
+    },
+    {
+      "duty": "Draft, review, and negotiate contracts with vendors, partners, and customers."
+    },
+    {
+      "duty": "Identify potential areas of legal vulnerability and risk; develop and implement corrective action plans to mitigate risks."
+    },
+    {
+      "duty": "Coordinate with external legal firms for specialized legal services and representation in courts, if necessary."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Law or related field, JD preferred"
+    }
+  ]
+}

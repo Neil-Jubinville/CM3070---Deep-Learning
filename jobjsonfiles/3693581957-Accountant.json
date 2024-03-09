@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Accountant",
+      "job_category": "Accounting",
+      "job_class": "Full Charge Bookkeeper",
+      "sector": "Accounting",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "Account Reconciliation",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    },
+    {
+      "skill": "Payroll Processing",
+      "experience": 5
+    },
+    {
+      "skill": "Tax Filing",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform daily duties as assigned, including use of POS software, account reconciliations, deposits, and disbursements."
+    },
+    {
+      "duty": "Prepare monthly financial reports from integrated systems."
+    },
+    {
+      "duty": "Process payroll, tax payments, and tax filings."
+    },
+    {
+      "duty": "Manage inventory control and management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Business Administration or Accounting"
+    }
+  ]
+}

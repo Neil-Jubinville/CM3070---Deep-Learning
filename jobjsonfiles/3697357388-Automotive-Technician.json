@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Automotive Technician",
+      "job_category": "Automotive",
+      "job_class": "Technician",
+      "sector": "Vehicle Maintenance",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Automotive Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Mechanical Diagnosis",
+      "experience": 2
+    },
+    {
+      "skill": "Brake Service",
+      "experience": 2
+    },
+    {
+      "skill": "Vehicle Inspection",
+      "experience": 2
+    },
+    {
+      "skill": "Tire Service",
+      "experience": 2
+    },
+    {
+      "skill": "Oil Change",
+      "experience": 2
+    },
+    {
+      "skill": "Fluid Service",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "ASE Certification",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing automotive repairs and services following BSRO procedures and guidelines."
+    },
+    {
+      "duty": "Conducting vehicle inspections and explaining mechanical diagnoses and needed repairs to customers."
+    },
+    {
+      "duty": "Maintaining service center standards, cleanliness, and compliance with safety requirements."
+    },
+    {
+      "duty": "Performing tire, wheel, brake, fluid, and oil services, and handling physical demands associated with these tasks."
+    },
+    {
+      "duty": "Attending meetings, providing on-the-job training, and assisting with other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid automobile driver\u2019s license, minimum 2 years of automotive repair experience or completion of Vocational-Technical School program, and A.S.E. certification in at least one of A1-A8 (preferred) or equivalent external qualifications/training certifications."
+    }
+  ]
+}

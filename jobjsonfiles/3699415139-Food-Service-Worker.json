@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Food Service Worker",
+      "job_category": "Hospitality",
+      "job_class": "Worker",
+      "sector": "Food Service",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Sanitation Management",
+      "experience": 1
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 1
+    },
+    {
+      "skill": "Record Keeping",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepares and presents nourishing food to patients, guests, and employees under sanitary conditions as directed and in accordance with established policies and procedures."
+    },
+    {
+      "duty": "Follows recipes and product directions to prepare items such as breads, rolls, cakes, muffins, biscuits."
+    },
+    {
+      "duty": "Ensures all food is prepared in accordance with current applicable federal, state, and HACCP guidelines and regulations to ensure the highest quality food."
+    },
+    {
+      "duty": "Maintains a sanitary work environment through following established procedures."
+    },
+    {
+      "duty": "Maintains accurate records (e.g. production, waste, food temperatures, and thermometer calibration, etc..) as outlined in the corporate policies and procedures."
+    },
+    {
+      "duty": "Consults with the clinical dietitian on modified diets or patient special requests as necessary."
+    },
+    {
+      "duty": "Works in a constant state of alertness and safe manner."
+    },
+    {
+      "duty": "Performs other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "No experience required"
+    }
+  ]
+}

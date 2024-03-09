@@ -1,0 +1,138 @@
+{
+  "meta": [
+    {
+      "job_title": "Database Reliability Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Database Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Data Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Performance Tuning",
+      "experience": 5
+    },
+    {
+      "skill": "Security and Auditing",
+      "experience": 5
+    },
+    {
+      "skill": "Backup and Recovery",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting (Shell and Python)",
+      "experience": 5
+    },
+    {
+      "skill": "Capacity Planning",
+      "experience": 5
+    },
+    {
+      "skill": "DB2",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Server",
+      "experience": 5
+    },
+    {
+      "skill": "Redhat Linux",
+      "experience": 5
+    },
+    {
+      "skill": "AWS and Azure",
+      "experience": 5
+    },
+    {
+      "skill": "Continuous Integration/Continuous Deployment (CI/CD)",
+      "experience": 5
+    },
+    {
+      "skill": "Terraform",
+      "experience": 5
+    },
+    {
+      "skill": "Feasibility Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnostics and Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Monitoring Tools",
+      "experience": 5
+    },
+    {
+      "skill": "APM Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Automation Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Project Coordination",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain and ensure the health, availability, and security of production and Test database environments."
+    },
+    {
+      "duty": "Implement technologies to improve scalability and reliability of databases and infrastructure."
+    },
+    {
+      "duty": "Provide database solutions for complex business issues including data processing, loading, performance improvements, and replication."
+    },
+    {
+      "duty": "Diagnose, troubleshoot, and resolve database related issues including storage, performance, availability, and security."
+    },
+    {
+      "duty": "Automate database management, maintenance, and data processing activities."
+    },
+    {
+      "duty": "Develop, modify, and maintain database objects, and work as part of a project team to coordinate database development."
+    },
+    {
+      "duty": "Evaluate and deploy database tools, and collaborate with technical/non-technical resources for project work and troubleshooting exercises."
+    },
+    {
+      "duty": "Analyze Operating System statistics, troubleshoot performance-related problems, and adapt new automation technologies."
+    },
+    {
+      "duty": "Participate in 24/7 on-call rotation and escalate issues as needed."
+    },
+    {
+      "duty": "Create and maintain documentation related to database design, configuration, standards, and performance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Computer Science or other technical discipline (Technical Certifications are a plus)"
+    }
+  ]
+}

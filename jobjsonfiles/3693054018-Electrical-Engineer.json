@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Computer Networking",
+      "experience": 2
+    },
+    {
+      "skill": "Systems Engineering",
+      "experience": 3
+    },
+    {
+      "skill": "Network Products",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 3
+    },
+    {
+      "skill": "System Program Reviews",
+      "experience": 3
+    },
+    {
+      "skill": "User Manuals",
+      "experience": 3
+    },
+    {
+      "skill": "System Engineering Plan Documents",
+      "experience": 3
+    },
+    {
+      "skill": "Cost Assessment",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in the development and/or modification of ship design specifications and in the review of user system specifications."
+    },
+    {
+      "duty": "Provide engineering support for network products produced for labs, proof-of-concept demonstrations, and fielded shipboard systems."
+    },
+    {
+      "duty": "Participate in System Program Reviews, Technical Reviews, Technical Exchange Meetings, Engineering Team Meetings and other Technical and Programmatic forums to maintain awareness of program and system issues and initiatives."
+    },
+    {
+      "duty": "Assist in the development of user manuals, technical descriptions, training material, and fact-sheets necessary for the sustained, successful operation and maintenance of mission critical Data Networks."
+    },
+    {
+      "duty": "Assist in the writing of system engineering plan documents, requirements documents, test procedures and plans, test reports and other related technical documentation for lab, test site and shipboard applicability."
+    },
+    {
+      "duty": "Help assess potential cost, schedule, and performance impact associated with installation of proposed network hardware and software changes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's level degree in Computer, Electrical or Electronics Engineering, Software, or Mathematics from an accredited college or university."
+    }
+  ]
+}

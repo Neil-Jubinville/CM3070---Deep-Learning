@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Manager",
+      "job_category": "Sales",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 160000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Management",
+      "experience": 5
+    },
+    {
+      "skill": "Coaching",
+      "experience": 5
+    },
+    {
+      "skill": "Account Management",
+      "experience": 5
+    },
+    {
+      "skill": "Salesforce Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Market Strategies",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    },
+    {
+      "skill": "CRM",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Leading a sales team to achieve revenue and growth targets by establishing sales goals and monitoring team achievements."
+    },
+    {
+      "duty": "Coaching AEs on the improvement of specific skills, industry knowledge, and capability knowledge."
+    },
+    {
+      "duty": "Serving as a key driver for setting/surpassing sales objectives and working with key team members in products, marketing, and services to develop market strategies."
+    },
+    {
+      "duty": "Providing accurate forecasts and attracting/retaining all-star account executives."
+    },
+    {
+      "duty": "Participating in the sales process on key accounts and maintaining positive customer relationships."
+    },
+    {
+      "duty": "Ensuring adoption and consistent use of key sales tech stack applications."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 150,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree and/or equivalent experience"
+    }
+  ]
+}

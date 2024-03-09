@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Dental Hygienist",
+      "job_category": "Healthcare",
+      "job_class": "Hygienist",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Dental Hygiene Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Dental X-Ray",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 3
+    },
+    {
+      "skill": "Oral Cancer Screenings",
+      "experience": 3
+    },
+    {
+      "skill": "Bilingual Proficiency",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform dental hygiene procedures, ensuring optimal oral health through cleaning, scaling, and root planning."
+    },
+    {
+      "duty": "Take and develop dental x-rays in strict adherence to safety protocols."
+    },
+    {
+      "duty": "Educate patients on effective oral hygiene techniques, promoting long-lasting dental health."
+    },
+    {
+      "duty": "Conduct oral cancer screenings and implement preventive measures."
+    },
+    {
+      "duty": "Provide chair-side support and assist during dental procedures."
+    },
+    {
+      "duty": "Maintain accurate patient records and treatment plans."
+    },
+    {
+      "duty": "Adhere to infection control and sterilization procedures."
+    },
+    {
+      "duty": "Collaborate with the dental team to deliver exceptional patient care and positive treatment outcomes."
+    },
+    {
+      "duty": "Provide nutritional counseling and self-care programs to prevent disease."
+    },
+    {
+      "duty": "Other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid X-ray License."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Developer Snowflake Architect",
+      "job_category": "Information Technology",
+      "job_class": "Lead Developer",
+      "sector": "Software Engineering",
+      "salary": 160000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Snowflake Architecture and Design",
+      "experience": 10
+    },
+    {
+      "skill": "Technical Leadership",
+      "experience": 10
+    },
+    {
+      "skill": "Data Integration",
+      "experience": 10
+    },
+    {
+      "skill": "Performance Optimization",
+      "experience": 10
+    },
+    {
+      "skill": "Cloud Infrastructure",
+      "experience": 10
+    },
+    {
+      "skill": "SQL",
+      "experience": 10
+    },
+    {
+      "skill": "ETL/ELT Processes",
+      "experience": 10
+    },
+    {
+      "skill": "Data Security",
+      "experience": 10
+    },
+    {
+      "skill": "Data Governance",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with stakeholders, data engineers, and business analysts to design and architect data solutions based on the Snowflake cloud data platform."
+    },
+    {
+      "duty": "Lead a team of developers and data engineers, providing technical guidance, mentoring, and support throughout the development lifecycle."
+    },
+    {
+      "duty": "Develop and maintain data integration workflows to ingest, process, and transform data from various sources into Snowflake."
+    },
+    {
+      "duty": "Optimize Snowflake database performance by tuning queries, optimizing data structures, and improving data loading and extraction processes."
+    },
+    {
+      "duty": "Implement and enforce data security measures, access controls, and data governance policies within Snowflake."
+    },
+    {
+      "duty": "Work closely with cloud infrastructure teams to ensure the Snowflake environment is properly configured, monitored, and scaled to meet performance and availability requirements."
+    },
+    {
+      "duty": "Stay up-to-date with the latest advancements in Snowflake and cloud technologies. Propose and implement improvements to enhance the overall data architecture and development processes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in IT or related fields (Master\u2019s preferred)"
+    }
+  ]
+}

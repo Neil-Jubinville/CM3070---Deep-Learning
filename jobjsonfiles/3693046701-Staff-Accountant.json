@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Accountant",
+      "job_category": "Accounting",
+      "job_class": "Staff",
+      "sector": "Finance",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Management",
+      "experience": 3
+    },
+    {
+      "skill": "GAAP",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 3
+    },
+    {
+      "skill": "Account Reconciliation",
+      "experience": 3
+    },
+    {
+      "skill": "Budgeting",
+      "experience": 3
+    },
+    {
+      "skill": "ERP Software",
+      "experience": 3
+    },
+    {
+      "skill": "Tax Preparation",
+      "experience": 3
+    },
+    {
+      "skill": "AP/AR Processing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain financial reports, records, and general ledger accounts"
+    },
+    {
+      "duty": "Perform account reconciliations and bank settlements"
+    },
+    {
+      "duty": "Assist with period end budget and closing processes"
+    },
+    {
+      "duty": "Support internal financial audits and audit preparation for external accounting services"
+    },
+    {
+      "duty": "Assist with AP/AR processing as needed"
+    },
+    {
+      "duty": "Assist with tax-related documentation supporting external taxation services"
+    },
+    {
+      "duty": "Monitor department spend to identify trends for potential cost reduction"
+    },
+    {
+      "duty": "Perform other related duties as assigned"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Accounting"
+    }
+  ]
+}

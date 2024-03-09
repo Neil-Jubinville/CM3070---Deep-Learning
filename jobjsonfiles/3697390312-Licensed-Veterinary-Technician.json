@@ -1,0 +1,96 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Veterinary Technician",
+      "job_category": "Veterinary",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Anesthesia",
+      "experience": 3
+    },
+    {
+      "skill": "Surgery",
+      "experience": 3
+    },
+    {
+      "skill": "Dentistry",
+      "experience": 3
+    },
+    {
+      "skill": "Lab Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Nursing Care",
+      "experience": 3
+    },
+    {
+      "skill": "Client Education",
+      "experience": 3
+    },
+    {
+      "skill": "Blood Draws",
+      "experience": 3
+    },
+    {
+      "skill": "Pet Grooming",
+      "experience": 3
+    },
+    {
+      "skill": "Digital X-Rays",
+      "experience": 3
+    },
+    {
+      "skill": "IV Catheters",
+      "experience": 3
+    },
+    {
+      "skill": "TPR",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Assessment",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform anesthesia, surgery, dentistry, and lab testing"
+    },
+    {
+      "duty": "Assist in patient nursing and client education"
+    },
+    {
+      "duty": "Conduct patient assessments and administer treatments"
+    },
+    {
+      "duty": "Communicate clearly with doctors, hospital personnel, and clients"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Licensed Veterinary Technician (CVT) certification"
+    }
+  ]
+}

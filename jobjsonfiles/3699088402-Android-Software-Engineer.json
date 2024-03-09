@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Android Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 190000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Kotlin",
+      "experience": 5
+    },
+    {
+      "skill": "Android Development",
+      "experience": 5
+    },
+    {
+      "skill": "Networking Stack (OkHttp, Retrofit, GraphQL)",
+      "experience": 5
+    },
+    {
+      "skill": "UI architecture best practices",
+      "experience": 5
+    },
+    {
+      "skill": "Modularization and Dependency Injection (Dagger, Gradle)",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop new features and infrastructure for the Nextdoor Android app, focusing on maintaining platform conventions and user experience."
+    },
+    {
+      "duty": "Contribute to all aspects of the Android stack, including networking, analytics, experiments, modular app structure, and testing infrastructure."
+    },
+    {
+      "duty": "Own key contributions to Nextdoor's Android product by implementing new features, analyzing impact through data analysis, and mentoring team members."
+    },
+    {
+      "duty": "Participate in in-person Nextdoor events, trainings, off-sites, volunteer days, and team building exercises to contribute to the overall culture of the company."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

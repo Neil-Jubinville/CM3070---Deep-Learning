@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Salesforce Developer",
+      "job_category": "IT",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 145000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Salesforce Development",
+      "experience": 8
+    },
+    {
+      "skill": "Apex",
+      "experience": 8
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 8
+    },
+    {
+      "skill": "Lightning Web Components (LWC)",
+      "experience": 8
+    },
+    {
+      "skill": "CRM Development",
+      "experience": 8
+    },
+    {
+      "skill": "Visualforce",
+      "experience": 8
+    },
+    {
+      "skill": "SOQL and SOSL",
+      "experience": 8
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Programming using Apex, Salesforce Lightning component (AURA/LWC), JavaScript, and other development languages and tools."
+    },
+    {
+      "duty": "Creating solutions using Salesforce functionality/Lightening components (AURA/LWC), APEX, Visualforce Pages, SOQL and SOSL."
+    },
+    {
+      "duty": "Assisting in implementing client requested solutions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Salesforce Developer Platform I Certification"
+    }
+  ]
+}

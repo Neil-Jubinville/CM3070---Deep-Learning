@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Machinist",
+      "job_category": "Manufacturing and Production",
+      "job_class": "Skilled Labor",
+      "sector": "Manufacturing",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HAAS CNC Mill Operation",
+      "experience": 3
+    },
+    {
+      "skill": "SLant Lathe Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Autodesk and Inventor Cam",
+      "experience": 3
+    },
+    {
+      "skill": "Tooling and Inserts Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "G Codes and M Codes",
+      "experience": 3
+    },
+    {
+      "skill": "Measurement Instruments",
+      "experience": 3
+    },
+    {
+      "skill": "Workplace Safety",
+      "experience": 3
+    },
+    {
+      "skill": "Machine Maintenance",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Set up and operate HAAS CNC Mill and Slant Lathe with NGC Controller."
+    },
+    {
+      "duty": "Train new employees on machinery operations and best practices."
+    },
+    {
+      "duty": "Utilize Inspection equipment to ensure parts meet specifications."
+    },
+    {
+      "duty": "Understand G Codes, M Codes, and tooling for Mill and Slant Lathe machines."
+    },
+    {
+      "duty": "Observe and verify the conformance of machined parts to specifications."
+    },
+    {
+      "duty": "Maintain work area in a clean, orderly, and safe manner."
+    },
+    {
+      "duty": "Notify management of product discrepancies, equipment malfunctions, and safety issues."
+    },
+    {
+      "duty": "Perform routine maintenance on equipment and tools."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent. 8-10 years related experience and/or 10 years related training."
+    }
+  ]
+}

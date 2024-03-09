@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Solution Architect - Data Engineering",
+      "job_category": "Technology",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Databricks",
+      "experience": 5
+    },
+    {
+      "skill": "Big Data Projects",
+      "experience": 5
+    },
+    {
+      "skill": "Apache Spark",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Scala",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Infrastructure",
+      "experience": 5
+    },
+    {
+      "skill": "Customer-Facing Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Data Science/ML Engineering",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide technical leadership in a post-sales capacity to guide strategic customers as they design and implement big data projects, ranging from architectural design to data engineering to model deployment."
+    },
+    {
+      "duty": "Identify and drive new initiatives that enable customers to turn their data into actionable business value and align these initiatives with their business outcomes for continued success."
+    },
+    {
+      "duty": "Architect production-level workloads, including end-to-end pipeline load performance testing and optimization."
+    },
+    {
+      "duty": "Deliver tutorials and training to drive community adoption (including hackathons, conference presentations, etc.)"
+    },
+    {
+      "duty": "Work closely with Engineering and Product Management to drive the direction of the Databricks product."
+    },
+    {
+      "duty": "Contribute to Databricks SME community."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Data Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

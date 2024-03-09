@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 45000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 4
+    },
+    {
+      "skill": "Tech Product Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Presentation",
+      "experience": 4
+    },
+    {
+      "skill": "On-camera Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Product Demonstration",
+      "experience": 4
+    },
+    {
+      "skill": "Online Retail Sales",
+      "experience": 4
+    },
+    {
+      "skill": "Video Chat Sales",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Engage in 1-on-1 video calls with customers to present, market, and sell tech products, providing a personalized and helpful sales experience."
+    },
+    {
+      "duty": "Deeply understand the brand, products, and key selling points to deliver high-quality sales experiences for customers."
+    },
+    {
+      "duty": "Undergo ongoing technical and on-camera media training to maintain expertise in operating the technology that powers the 1-to-1 video calls."
+    },
+    {
+      "duty": "Participate in ongoing development, preparation, and improvement for sales calls."
+    },
+    {
+      "duty": "Learn the brand's mission and product knowledge, and suggest specific products to match customer needs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent (Associate's or Bachelor's degree preferred)"
+    }
+  ]
+}

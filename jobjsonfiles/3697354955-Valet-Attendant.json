@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Valet Attendant",
+      "job_category": "Hospitality",
+      "job_class": "Attendant",
+      "sector": "Service",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Familiarity with Area",
+      "experience": 3
+    },
+    {
+      "skill": "Vehicle Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Physical Stamina",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Welcome and create the first impression upon guest arrival."
+    },
+    {
+      "duty": "Assist passengers during the loading and unloading process."
+    },
+    {
+      "duty": "Safely and efficiently relocate guest automobiles to designated parking locations."
+    },
+    {
+      "duty": "Precise communication and coordination with the hotel guest services."
+    },
+    {
+      "duty": "Knowledge of daily events."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100
+    },
+    {
+      "student_teacher": 80
+    },
+    {
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

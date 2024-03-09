@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer, Oncology",
+      "job_category": "Software Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 265000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Django",
+      "experience": 5
+    },
+    {
+      "skill": "Data Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Data Infrastructure",
+      "experience": 5
+    },
+    {
+      "skill": "Full-Stack Web Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "Terraform",
+      "experience": 5
+    },
+    {
+      "skill": "Postgres",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Developing data systems for classifying cancer genetics alterations and relevant treatment implications and clinical trials."
+    },
+    {
+      "duty": "Implementing an FDA-compliant laboratory information management system (LIMS) for robustly tracking specimens, reagents, and analyses throughout wetlab and drylab."
+    },
+    {
+      "duty": "Creating a convenient and easy to use web experience for physicians and patients receiving complex genomics information."
+    },
+    {
+      "duty": "Improving interoperability of EHR systems, especially with unstructured genetics information."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Software Engineering, Computer Science, or related field (Master's preferred)"
+    }
+  ]
+}

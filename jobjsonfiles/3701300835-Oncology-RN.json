@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "job_title": "Oncology RN",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 2942,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Oncology",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide specialized nursing care to patients with oncological conditions, including administering chemotherapy and managing symptoms."
+    },
+    {
+      "duty": "Collaborate with healthcare team members to create and implement individualized care plans for oncology patients."
+    },
+    {
+      "duty": "Monitor patient vital signs, administer medication, and provide emotional support and education to patients and their families."
+    },
+    {
+      "duty": "Document patient information and treatment plans accurately and communicate effectively with the healthcare team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (Master's preferred)"
+    }
+  ]
+}

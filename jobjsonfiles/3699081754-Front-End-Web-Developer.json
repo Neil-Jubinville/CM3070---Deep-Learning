@@ -1,0 +1,110 @@
+{
+  "meta": [
+    {
+      "job_title": "Front End Web Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Web Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "JavaScript",
+      "experience": 2
+    },
+    {
+      "skill": "UI Development",
+      "experience": 2
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Software Design",
+      "experience": 2
+    },
+    {
+      "skill": "Version Control (Git, GitLab)",
+      "experience": 2
+    },
+    {
+      "skill": "HTML and CSS",
+      "experience": 2
+    },
+    {
+      "skill": "Usability Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Agile Software Development",
+      "experience": 2
+    },
+    {
+      "skill": "JavaScript Frameworks (AngularJS, Angular, Vue, React, Dojo)",
+      "experience": 2
+    },
+    {
+      "skill": "CSS Frameworks (Material Design, Bootstrap, Foundation)",
+      "experience": 2
+    },
+    {
+      "skill": "JavaScript Mapping Libraries (ArcGIS, Leaflet, Mapbox)",
+      "experience": 2
+    },
+    {
+      "skill": "ArcGIS Server or Portal",
+      "experience": 2
+    },
+    {
+      "skill": "Back End RESTful Micro-services (Python, NodeJS)",
+      "experience": 2
+    },
+    {
+      "skill": "Task Runner or Build System (Gulp, Grunt, Webpack, Rollup)",
+      "experience": 2
+    },
+    {
+      "skill": "Testing Frameworks (Protractor, Jasmine, Karma, Selenium)",
+      "experience": 2
+    },
+    {
+      "skill": "Network Security (PKI, Chain Trusting)",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Research, conceive, and develop innovative software applications for use across the DoD and Intelligence Community (IC)"
+    },
+    {
+      "duty": "Ensure successful delivery of new services and capabilities while enabling a rapid pace of innovation and prototyping."
+    },
+    {
+      "duty": "Create intuitive visualizations of large-scale data and geospatial analytics using excellent user experience principles."
+    },
+    {
+      "duty": "Engage with multiple functional groups to comprehend client challenges, prototype new ideas and technologies, and help to create solutions to drive the next wave of innovation."
+    },
+    {
+      "duty": "Design, implement, schedule, test, and deploy full features and components of solutions."
+    },
+    {
+      "duty": "Ensure quality software delivery through thorough testing and reviews."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Software Engineering, Computer Science, or related field"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Freight Broker",
+      "job_category": "Logistics",
+      "job_class": "Broker",
+      "sector": "Sales",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Experience",
+      "experience": 5
+    },
+    {
+      "skill": "LTL Freight",
+      "experience": 5
+    },
+    {
+      "skill": "Semi Load Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build and maintain customer relationships through sales and negotiation of LTL freight and semi loads."
+    },
+    {
+      "duty": "Develop sales strategies to acquire new clients and expand the customer base."
+    },
+    {
+      "duty": "Coordinate shipments, track deliveries, and ensure customer satisfaction during the freight transportation process."
+    },
+    {
+      "duty": "Provide expertise in managing LTL freight and semi load logistics, ensuring efficient and cost-effective transportation solutions."
+    },
+    {
+      "duty": "Stay informed about market trends, competitive rates, and industry regulations to make informed business decisions."
+    },
+    {
+      "duty": "Adhere to compliance standards and regulations in the freight brokerage industry."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ]
+}

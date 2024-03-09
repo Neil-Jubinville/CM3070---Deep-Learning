@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse (RN) Residency Program",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Process",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "BLS Certification",
+      "experience": 1
+    },
+    {
+      "skill": "ACLS Certification",
+      "experience": 0.5
+    },
+    {
+      "skill": "Physical Assessment",
+      "experience": 1
+    },
+    {
+      "skill": "Clinical Documentation",
+      "experience": 1
+    },
+    {
+      "skill": "Time Management",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assess, plan, implement, and evaluate nursing care for a designated group of patients."
+    },
+    {
+      "duty": "Incorporate knowledge of the nursing process and professional standards of nursing in daily practice."
+    },
+    {
+      "duty": "Provide consistent care based on the changing physical and psychosocial needs unique to the patient."
+    },
+    {
+      "duty": "Remain full-time on one unit for the entire year of the program and actively participate in all learning opportunities offered."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Diploma, Bachelors (BSN) or Associates (ASN) degree nursing graduate with a Registered Nurse (RN) license, or a Graduate Nurse Temporary Permit to practice professional nursing in the state of Pennsylvania."
+    },
+    {
+      "credential": "BLS required prior to orientation completion, must be obtained through Penn State Health or American Heart Association (AHA)."
+    },
+    {
+      "credential": "ACLS required on telemetry units within 12 months."
+    }
+  ]
+}

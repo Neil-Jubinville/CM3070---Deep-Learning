@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Practical Nurse (LPN)",
+      "job_category": "Nursing",
+      "job_class": "Practical Nurse",
+      "sector": "Healthcare",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Vital Sign Monitoring",
+      "experience": 3
+    },
+    {
+      "skill": "Lab Testing",
+      "experience": 2
+    },
+    {
+      "skill": "HIPAA Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Life Support (BLS)",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist registered nurses or physicians in the delivery of patient care."
+    },
+    {
+      "duty": "Administer medications and treatments as ordered by the physician."
+    },
+    {
+      "duty": "Monitor and document patient vital signs and medical history accurately and thoroughly."
+    },
+    {
+      "duty": "Provide basic patient care, such as bathing, dressing, and feeding patients as needed."
+    },
+    {
+      "duty": "Collect specimens for laboratory testing and perform basic laboratory tests as ordered."
+    },
+    {
+      "duty": "Maintain patient confidentiality and comply with HIPAA regulations at all times."
+    },
+    {
+      "duty": "Adhere to safety protocols and infection control measures."
+    },
+    {
+      "duty": "Respond to emergency situations and provide basic life support as needed."
+    },
+    {
+      "duty": "Communicate effectively with patients, their families, and healthcare team members."
+    },
+    {
+      "duty": "Perform other related duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 30,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of a practical (vocational) nursing program for LPN/LVN and has a current license as a LPN/LVN in the state(s) in which he/she practices."
+    },
+    {
+      "credential": "At least 1200 hours of experience as an LPN/LVN or completion of the Office's preceptor program."
+    }
+  ]
+}

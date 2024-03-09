@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "GCP Data Lead/Architect",
+      "job_category": "Data Engineering",
+      "job_class": "Lead/Architect",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Architecture",
+      "experience": 8
+    },
+    {
+      "skill": "GCP Cloud Native ETL/ELT",
+      "experience": 8
+    },
+    {
+      "skill": "BigQuery",
+      "experience": 8
+    },
+    {
+      "skill": "Dataform",
+      "experience": 8
+    },
+    {
+      "skill": "Data Ingestion (API's)",
+      "experience": 8
+    },
+    {
+      "skill": "Cloud Fusion",
+      "experience": 8
+    },
+    {
+      "skill": "Data Orchestration (Cloud Functions, Apache Airflow)",
+      "experience": 8
+    },
+    {
+      "skill": "Networking on GCP",
+      "experience": 8
+    },
+    {
+      "skill": "Cloud Gateway Connectivity",
+      "experience": 8
+    },
+    {
+      "skill": "Cortex Framework integration with SAP",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and implement medium/large scale Data Warehouse solutions as a data architect."
+    },
+    {
+      "duty": "Utilize GCP Cloud Native ETL/ELT services, with deep understanding of BigQuery and Dataform."
+    },
+    {
+      "duty": "Operationalize large scale data ingestion, processing, and consumption using dataflow or cloud fusion."
+    },
+    {
+      "duty": "Ingest data through API\u2019s or integration tools such as Mulesoft or Boomi."
+    },
+    {
+      "duty": "Employ storage infrastructure, event-based architecture, monitoring, logging, auditing services of GCP."
+    },
+    {
+      "duty": "Orchestrate data using Cloud Functions, Cloud Composer, Apache Airflow or related tools."
+    },
+    {
+      "duty": "Integrate Cortex framework on GCP with SAP and Networking on GCP with Gateway connectivity."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

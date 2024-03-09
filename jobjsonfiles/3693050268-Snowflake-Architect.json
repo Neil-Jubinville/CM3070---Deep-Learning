@@ -1,0 +1,104 @@
+{
+  "meta": [
+    {
+      "job_title": "Snowflake Architect",
+      "job_category": "Data Engineering",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Snowflake Architecture",
+      "experience": 10
+    },
+    {
+      "skill": "Data Management",
+      "experience": 10
+    },
+    {
+      "skill": "AWS",
+      "experience": 10
+    },
+    {
+      "skill": "Data Migration",
+      "experience": 10
+    },
+    {
+      "skill": "SQL",
+      "experience": 10
+    },
+    {
+      "skill": "Python",
+      "experience": 10
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 10
+    },
+    {
+      "skill": "Gitlab",
+      "experience": 10
+    },
+    {
+      "skill": "DBT",
+      "experience": 5
+    },
+    {
+      "skill": "Airflow",
+      "experience": 5
+    },
+    {
+      "skill": "Test Automation",
+      "experience": 5
+    },
+    {
+      "skill": "JSON",
+      "experience": 10
+    },
+    {
+      "skill": "Parquet",
+      "experience": 10
+    },
+    {
+      "skill": "ORC",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the design, implementation, and support of data and analytics solutions using Snowflake architecture."
+    },
+    {
+      "duty": "Manage off-shore teams and collaborate with globally distributed teams on data projects."
+    },
+    {
+      "duty": "Provide architectural assessments, strategies, and roadmaps for data and analytics technology."
+    },
+    {
+      "duty": "Participate in configuring technical architecture and advise engineering teams on efficient use."
+    },
+    {
+      "duty": "Lead and manage non-complex components of data migration and data project work plans."
+    },
+    {
+      "duty": "Use various data sources like JSON, Parquet, and ORC for data migration and data warehouse optimization."
+    },
+    {
+      "duty": "Experience with CI/CD using Gitlab, Github, and Test Automation using Selenium."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Data Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

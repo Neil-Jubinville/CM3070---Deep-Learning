@@ -1,0 +1,37 @@
+{
+  "meta": [
+    {
+      "job_title": "Fire Watch",
+      "job_category": "Security",
+      "job_class": "Entry-Level",
+      "sector": "HVAC",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Windows Application Proficiency",
+      "experience": 2
+    },
+    {
+      "skill": "Two-Way Radio Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Phone Communication",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Monitor fire system graphical display for detected fire events."
+    },
+    {
+      "duty": "Contact customer\u2019s Operations Center (AOC) and others via two-way radio and/or telephone to relay messages annunciated by the graphical display."
+    },
+    {
+      "duty": "Assist customer\u2019s AOC in determining the response needed and dispatching appropriate personnel based on the data relayed."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Project Management",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Team Management",
+      "experience": 5
+    },
+    {
+      "skill": "Stakeholder Engagement",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Direct and oversee completion of project"
+    },
+    {
+      "duty": "Develop plan of action including schedule, resources and work plan"
+    },
+    {
+      "duty": "Assess risks and establish contingency plans"
+    },
+    {
+      "duty": "Manage work and inputs from variety of stakeholders"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Project Management, Business, or a related field (Master's preferred)"
+    }
+  ]
+}

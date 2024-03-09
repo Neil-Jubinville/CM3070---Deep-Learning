@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Yard Associate",
+      "job_category": "General Labor",
+      "job_class": "Associate",
+      "sector": "Equipment Services",
+      "salary": 38000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Yard Organization",
+      "experience": 1
+    },
+    {
+      "skill": "Safety Awareness",
+      "experience": 1
+    },
+    {
+      "skill": "Communication",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Washing and cleaning heavy equipment"
+    },
+    {
+      "duty": "Maintaining a neat and orderly yard and shop area"
+    },
+    {
+      "duty": "Assisting with the loading and unloading of equipment"
+    },
+    {
+      "duty": "Working as a spotter in the yard to observe and communicate hazards"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Full Stack Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "React",
+      "experience": 3
+    },
+    {
+      "skill": "Redux",
+      "experience": 3
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 3
+    },
+    {
+      "skill": "Java",
+      "experience": 3
+    },
+    {
+      "skill": "Ruby on Rails",
+      "experience": 3
+    },
+    {
+      "skill": "Postgres",
+      "experience": 3
+    },
+    {
+      "skill": "Network Security",
+      "experience": 2
+    },
+    {
+      "skill": "Cloud Infrastructure",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Developing the tools by which customers configure and monitor network devices globally"
+    },
+    {
+      "duty": "Collaborating with firmware engineers to design, plan, and build new core product features"
+    },
+    {
+      "duty": "Constructing intuitive and powerful workflows to solve important problems for IT professionals globally"
+    },
+    {
+      "duty": "Crafting and building high-impact technology projects"
+    },
+    {
+      "duty": "Resolving complex scale-related problems"
+    },
+    {
+      "duty": "Ensuring product stability with a high customer focus"
+    },
+    {
+      "duty": "Sharing knowledge through tech talks and advocating engineering standard methodologies"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

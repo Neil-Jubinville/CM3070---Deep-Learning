@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Level 2 Help Desk Technician",
+      "job_category": "Information Technology",
+      "job_class": "Level 2",
+      "sector": "IT",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Assistance",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "LAN/WAN",
+      "experience": 3
+    },
+    {
+      "skill": "Ticket System Management",
+      "experience": 3
+    },
+    {
+      "skill": "CompTIA A+ Certification",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Certified System Administrator",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Certified System Engineer",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide Level 2 technical assistance and support both remotely and on-site, and resolve problems related to computer hardware and software use for end-users."
+    },
+    {
+      "duty": "Analyze, resolve, respond to, and document end-user inquiries in a formal ticket system."
+    },
+    {
+      "duty": "Install desktop/Laptop software using approved tools."
+    },
+    {
+      "duty": "Troubleshoot operating systems for Windows and Mac environments."
+    },
+    {
+      "duty": "Troubleshoot connection issues with LAN/WAN."
+    },
+    {
+      "duty": "Update tickets with accurate and timely records of work performed and resolution detail."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "CompTIA A+ Certification, Microsoft Certified System Administrator (MSCA), and Microsoft Certified System Engineer (MCSE)"
+    }
+  ]
+}

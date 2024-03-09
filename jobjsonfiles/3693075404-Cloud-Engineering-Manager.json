@@ -1,0 +1,102 @@
+{
+  "meta": [
+    {
+      "job_title": "Cloud Engineering Manager",
+      "job_category": "Engineering",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 135000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cloud Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Platform Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Team Management",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "Networking",
+      "experience": 5
+    },
+    {
+      "skill": "Security and Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Automation Tools",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Hands-on management of the design, maintenance, configuration, optimization, and upgrading of cloud infrastructure utilizing technology such as AWS platform-native technologies; RDS, EC2, ECS, VPC, Lambda, CDK, Security and Compliance governance, Automation, Logging and Monitoring."
+    },
+    {
+      "duty": "Monitor KPIs to ensure the team is delivering services in accordance with company's requirements."
+    },
+    {
+      "duty": "Manage day-to-day Cloud Engineering Project Delivery and tasks."
+    },
+    {
+      "duty": "Act as a technical manager for a team of Cloud Engineers, driving standard processes, troubleshooting methodologies, and setting the tone for excellence."
+    },
+    {
+      "duty": "Assist engineering teams with technical issues in all phases of a project's life cycle, including providing technical analysis/design services to the project through the delivery of recommended design."
+    },
+    {
+      "duty": "Train and provide guidance to other members of the team."
+    },
+    {
+      "duty": "Evaluate and approve solutions provided by Cloud Engineers."
+    },
+    {
+      "duty": "Ownership of infrastructure for automated builds and testing, continuous integration, software releases, and system deployment."
+    },
+    {
+      "duty": "Develop a modern continuous deployment platform with cutting-edge technologies (containers, cluster schedulers, service mesh, dynamic, secrets provisioning)."
+    },
+    {
+      "duty": "Lead investigating and debugging environmental issue pre and post deployment with internal engineers, software developers, and vendors."
+    },
+    {
+      "duty": "Follow company protocols to ensure the highest level of security to protect the client's Personal Identifiable Information (PII)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's degree in Computer Science, Computer Engineering, or a related field."
+    },
+    {
+      "credential": "Relevant cloud certifications such as AWS Certified Solutions Architect, Google Cloud Certified Professional Cloud Architect, or Microsoft Certified: Azure Solutions Architect Expert."
+    },
+    {
+      "credential": "Strong understanding of DevOps methodologies and practices."
+    },
+    {
+      "credential": "Proven track record in leading and managing a team of cloud engineers or architects."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Service Manager",
+      "job_category": "Industrial Tools",
+      "job_class": "Manager",
+      "sector": "Industrial Tools",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Field Service",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 7
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 7
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Management",
+      "experience": 7
+    },
+    {
+      "skill": "Reporting",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage repair and maintenance of equipment, work planning, and scheduling."
+    },
+    {
+      "duty": "Provide training and assistance to field service technicians."
+    },
+    {
+      "duty": "Handle customer complaints, promote safety awareness, and perform quality control checks."
+    },
+    {
+      "duty": "Update, maintain, and organize equipment service records, as well as handle warranty claims and commissions for new equipment."
+    },
+    {
+      "duty": "Orders parts, returns parts, performs parts inventory, and manages fleet status reporting."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Extensive experience in the repair and maintenance of diesel engines and/or electric motors. Knowledge of work planning and scheduling and other supervisory activities."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Production Manager",
+      "job_category": "Manufacturing",
+      "job_class": "Manager",
+      "sector": "Production",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Production Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Assessment",
+      "experience": 3
+    },
+    {
+      "skill": "Stakeholder Coordination",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage and evaluate entire production process"
+    },
+    {
+      "duty": "Contribute to production planning and budgeting"
+    },
+    {
+      "duty": "Lead and monitor quality assessments to ensure customer satisfaction"
+    },
+    {
+      "duty": "Maintain a safe production environment"
+    },
+    {
+      "duty": "Coordinate with key internal and external production stakeholders"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent experience"
+    }
+  ]
+}

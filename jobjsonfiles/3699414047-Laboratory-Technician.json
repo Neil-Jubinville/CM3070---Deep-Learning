@@ -1,0 +1,93 @@
+{
+  "meta": [
+    {
+      "job_title": "Laboratory Technician",
+      "job_category": "Science",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sample Preparation",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 3
+    },
+    {
+      "skill": "Clinical Laboratory Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Biochemistry",
+      "experience": 3
+    },
+    {
+      "skill": "Hematology",
+      "experience": 3
+    },
+    {
+      "skill": "Urinalysis",
+      "experience": 3
+    },
+    {
+      "skill": "Serology",
+      "experience": 3
+    },
+    {
+      "skill": "Parasitology",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Receive and prepare samples for laboratory analysis and tests."
+    },
+    {
+      "duty": "Perform required quality control and train on all areas including Specimen Processing, Chemistry, Serology, UA, Coag, and Parasitology."
+    },
+    {
+      "duty": "Enter and release test results and participate in departmental training programs."
+    },
+    {
+      "duty": "Read UA slides, perform tests such as CBC, Progesterone, PT, PTT, Platelet count, Reticulocytes, TB, T4, FCV, HWAB, Accuplex, HW, FELV, and Giardia ELISA."
+    },
+    {
+      "duty": "Participate in enterprise initiatives, special projects, and other duties as assigned."
+    },
+    {
+      "duty": "Ensure ethical conduct and reporting of concerns/violations of company policy or ethical standards."
+    },
+    {
+      "duty": "Drive staffing and workforce planning efforts and work with Talent Acquisition on assessing needs and competencies for new openings."
+    },
+    {
+      "duty": "Maintain in-depth knowledge of legal requirements related to day-to-day management of employees, reducing legal risks and ensuring compliance."
+    },
+    {
+      "duty": "Assist in the recruitment of designated positions and provide day-to-day performance management guidance to line management."
+    },
+    {
+      "duty": "Improve work relationships, build morale, increase productivity, and retention."
+    },
+    {
+      "duty": "Ensure documentation/paperwork is in place for new hires, promotions, transfers, and terminations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associates/Bachelor\u2019s Degree in Science related field or Veterinary Technician with a minimum of 1 year clinical laboratory experience"
+    }
+  ]
+}

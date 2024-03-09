@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Manager",
+      "job_category": "Sales",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Management",
+      "experience": 4
+    },
+    {
+      "skill": "Cold Calling",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    },
+    {
+      "skill": "Recruitment",
+      "experience": 5
+    },
+    {
+      "skill": "Commercial Real Estate",
+      "experience": 3
+    },
+    {
+      "skill": "Oil and Gas",
+      "experience": 3
+    },
+    {
+      "skill": "Real Estate Investment",
+      "experience": 3
+    },
+    {
+      "skill": "Account Management",
+      "experience": 3
+    },
+    {
+      "skill": "Salesforce",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage and mentor a sales team, providing guidance and support for achieving sales targets."
+    },
+    {
+      "duty": "Track, measure, and report on sales data to make effective decisions and drive sales excellence."
+    },
+    {
+      "duty": "Promote and maintain an environment of sales excellence in the Sales Development team."
+    },
+    {
+      "duty": "Drive hiring and development of team members to expand the sales team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Marketing, or a related field (Master's preferred)"
+    }
+  ]
+}

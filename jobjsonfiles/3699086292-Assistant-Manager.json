@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Manager",
+      "job_category": "Management",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Operations Management",
+      "experience": 3
+    },
+    {
+      "skill": "Employee Development",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Technology Troubleshooting",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for cost controls, inventory control, cash control, and customer relations while working a shift."
+    },
+    {
+      "duty": "Assist with basic operations procedures."
+    },
+    {
+      "duty": "Experience in employee development."
+    },
+    {
+      "duty": "Ability to demonstrate team member and food safety protocols."
+    },
+    {
+      "duty": "Ability to operate and troubleshoot technology."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum age of 18 years"
+    }
+  ]
+}

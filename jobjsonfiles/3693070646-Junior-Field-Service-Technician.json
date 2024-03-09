@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Junior Field Service Technician",
+      "job_category": "Field Service",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Laptop use",
+      "experience": 3
+    },
+    {
+      "skill": "Phone use",
+      "experience": 3
+    },
+    {
+      "skill": "Small hand tools",
+      "experience": 4
+    },
+    {
+      "skill": "Power tools",
+      "experience": 4
+    },
+    {
+      "skill": "Multimeter",
+      "experience": 4
+    },
+    {
+      "skill": "Electronic repair",
+      "experience": 4
+    },
+    {
+      "skill": "Install cabling CAT5 and Coax",
+      "experience": 4
+    },
+    {
+      "skill": "Drive a service van",
+      "experience": 4
+    },
+    {
+      "skill": "Network troubleshooting",
+      "experience": 4
+    },
+    {
+      "skill": "Climb ladders",
+      "experience": 3
+    },
+    {
+      "skill": "Install software",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain and service CLIENT equipment at Retailer locations."
+    },
+    {
+      "duty": "Transport, install, and maintain CLIENT equipment, replacement parts, tools, and other equipment in an organized manner."
+    },
+    {
+      "duty": "Troubleshoot and restore malfunctioning equipment to working order."
+    },
+    {
+      "duty": "Effectively communicate with Dispatchers and accurately report activity, arrival and departure times, and equipment problems."
+    },
+    {
+      "duty": "Deliver marketing supplies and consumable parts, as well as provide basic training to new Retailers or refresher training to correct procedural errors."
+    },
+    {
+      "duty": "Complete basic forms for reporting activities, equipment problems, and recommendations for improvements to procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 90,
+      "introvert_extrovert": 95
+    }
+  ]
+}

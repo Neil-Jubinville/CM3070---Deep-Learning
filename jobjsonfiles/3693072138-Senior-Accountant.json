@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Accountant",
+      "job_category": "Accounting",
+      "job_class": "Senior",
+      "sector": "Accounting",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Month-End Close",
+      "experience": 5
+    },
+    {
+      "skill": "Bank Reconciliations",
+      "experience": 5
+    },
+    {
+      "skill": "Journal Entries",
+      "experience": 5
+    },
+    {
+      "skill": "SOP Development",
+      "experience": 5
+    },
+    {
+      "skill": "ERP Integration",
+      "experience": 5
+    },
+    {
+      "skill": "CPA",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform month-end close and financial reporting"
+    },
+    {
+      "duty": "Conduct bank and balance sheet reconciliations"
+    },
+    {
+      "duty": "Review journal entries and develop and implement SOPs"
+    },
+    {
+      "duty": "Support the integration of existing and newly acquired firms into the company structure"
+    },
+    {
+      "duty": "Work closely with field operations to support a smooth transition"
+    },
+    {
+      "duty": "Support the adoption of financial reporting standards and the integration of ERP and financial reporting tools"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s in Accounting required; CPA preferred. Minimum of 3 years of accounting or audit experience. Prior Microsoft SL accounting software experience or comparable ERP."
+    }
+  ]
+}

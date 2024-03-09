@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Design Verification Engineer Intern",
+      "job_category": "Engineering",
+      "job_class": "Intern",
+      "sector": "Software Engineering",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Circuit Design",
+      "experience": 1
+    },
+    {
+      "skill": "Memory Technologies",
+      "experience": 1
+    },
+    {
+      "skill": "Verification Tools",
+      "experience": 1
+    },
+    {
+      "skill": "Circuit Evaluation",
+      "experience": 1
+    },
+    {
+      "skill": "Scripting",
+      "experience": 1
+    },
+    {
+      "skill": "Test Bench Development",
+      "experience": 1
+    },
+    {
+      "skill": "Verification Methodologies",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Evaluate the functionality and performance of the Full-chip and block-level circuit designs using different verification tools, techniques, and strategies."
+    },
+    {
+      "duty": "Provide verification support to the DRAM and Emerging Memory Design Engineering teams by simulating, analyzing, and debugging pre-silicon full-chip and block-level designs."
+    },
+    {
+      "duty": "Assist product engineering teams with circuit and simulation support during post-silicon validation phase."
+    },
+    {
+      "duty": "Develop, run, and maintain verification test benches and vectors using industry standard and in-house developed programs."
+    },
+    {
+      "duty": "Write test patterns/vectors and monitors to enhance the functional coverage for all DRAM and Emerging Memory architectures and features."
+    },
+    {
+      "duty": "Automate the collection of simulation data through writing software scripts to improve efficiency."
+    },
+    {
+      "duty": "Collaborate closely with international colleagues to develop new verification methodologies and strategies to tackle the future challenges in DRAM and Emerging Memory design."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Electrical Engineering, Computer Science, or related field"
+    }
+  ]
+}

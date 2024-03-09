@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C#.net",
+      "experience": 7
+    },
+    {
+      "skill": "RestFul API",
+      "experience": 7
+    },
+    {
+      "skill": "Web Development (Quasar or Angular)",
+      "experience": 7
+    },
+    {
+      "skill": "SQL Server",
+      "experience": 7
+    },
+    {
+      "skill": "Clear communication skills",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop software applications using C#.net, RestFul API, and Web Development technologies such as Quasar or Angular."
+    },
+    {
+      "duty": "Utilize SQL Server for database management and integration."
+    },
+    {
+      "duty": "Communicate effectively with team members and stakeholders to gather requirements and provide progress updates."
+    },
+    {
+      "duty": "Contribute to the improvement of the user experience and interface design of software applications."
+    },
+    {
+      "duty": "Collaborate with team members to troubleshoot and resolve software issues and bugs."
+    },
+    {
+      "duty": "Participate in code reviews, testing, and debugging of software applications."
+    },
+    {
+      "duty": "Document software designs, processes, and code for future reference and maintenance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field"
+    }
+  ]
+}

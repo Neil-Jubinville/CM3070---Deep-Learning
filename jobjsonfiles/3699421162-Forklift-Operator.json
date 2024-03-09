@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Forklift Operator",
+      "job_category": "Logistics",
+      "job_class": "Operator",
+      "sector": "Warehousing",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Forklift Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Order Picking",
+      "experience": 2
+    },
+    {
+      "skill": "Warehouse Organization",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Pick parts according to customer order and place them in work areas or storage locations."
+    },
+    {
+      "duty": "Read customer orders, work orders, shipping orders, or documents to determine items to be moved, gathered, distributed, and/or shipped."
+    },
+    {
+      "duty": "Move items from bulk containers or racks, shelves, or in bins according to customer requirements."
+    },
+    {
+      "duty": "Scan materials and move them according to standard work instructions where applicable."
+    },
+    {
+      "duty": "Organize the facility or warehouse and work area for orderliness at all times."
+    },
+    {
+      "duty": "Work required scheduled hours deemed necessary to meet the production goals and Key Performance Indicators of the site. Schedule may fluctuate based on the needs of the business. Other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 30,
+      "student_teacher": 20,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or GED. Prior forklift certification."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Information Systems Security Engineer",
+      "job_category": "Information Technology",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "NIST SP 800 series",
+      "experience": 5
+    },
+    {
+      "skill": "DODI/D 8500 series",
+      "experience": 5
+    },
+    {
+      "skill": "Red and Blue teams",
+      "experience": 5
+    },
+    {
+      "skill": "IA vulnerability testing",
+      "experience": 5
+    },
+    {
+      "skill": "Tech Writing",
+      "experience": 5
+    },
+    {
+      "skill": "In-person communication skills",
+      "experience": 5
+    },
+    {
+      "skill": "Network/System Engineering Security",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide full life cycle Risk Management Framework (RMF) support to a wide range of systems."
+    },
+    {
+      "duty": "Assist in the development of a Systems Engineering Risk Management Plan that is consistent and compatible with current DoD Risk Management policies and practices where applicable."
+    },
+    {
+      "duty": "Develop and maintain a Plan of Action and Milestone (POA&M) for all IA-related tasks and deliverables in accordance with the Security Technical Implementation Guide (STIG)."
+    },
+    {
+      "duty": "Develop Risk Assessment Reports (RARs) based on vulnerability test results, automated scan reviews, Assured Compliance Assessment Solution (ACAS) scans, and other DoD-mandated assessment-utilities."
+    },
+    {
+      "duty": "Document A&A-information in the A&A Package consistent with all other Packages, and ensure that there are no omissions."
+    },
+    {
+      "duty": "Input reports in eMass, or deliver in MS Office-products/Visio formats, as appropriate."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree (Master's preferred)"
+    },
+    {
+      "credential": "At least 3-5 years' experience network/systems engineering security"
+    }
+  ]
+}

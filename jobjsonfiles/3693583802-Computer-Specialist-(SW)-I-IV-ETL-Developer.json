@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Computer Specialist (SW) I-IV ETL Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 125000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ETL Development",
+      "experience": 5
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Server",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Azure",
+      "experience": 5
+    },
+    {
+      "skill": "SSIS",
+      "experience": 5
+    },
+    {
+      "skill": "Data Warehousing",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "Power BI",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain data mapping specifications based on the results of data analysis and functional requirements."
+    },
+    {
+      "duty": "Design and build automated Extract, Transform & Load (ETL) jobs based on data mapping specifications."
+    },
+    {
+      "duty": "Analyze reference datasets and be familiar with Master Data Management (MDM) tools."
+    },
+    {
+      "duty": "Adhere to DevOps processes and work with application developers on system development life system functions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "A baccalaureate degree (or equivalent) in computer science or a related field, and two (2) years of full-time software experience, including one year in a project leader capacity."
+    }
+  ]
+}

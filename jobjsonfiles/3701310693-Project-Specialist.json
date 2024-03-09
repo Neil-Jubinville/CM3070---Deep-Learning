@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Specialist",
+      "job_category": "Project Management",
+      "job_class": "Specialist",
+      "sector": "Construction",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Coordination",
+      "experience": 3
+    },
+    {
+      "skill": "Project Engineering",
+      "experience": 3
+    },
+    {
+      "skill": "Document Management",
+      "experience": 3
+    },
+    {
+      "skill": "Construction Projects",
+      "experience": 3
+    },
+    {
+      "skill": "Contract Management",
+      "experience": 3
+    },
+    {
+      "skill": "SAP",
+      "experience": 3
+    },
+    {
+      "skill": "Office 365 Programs",
+      "experience": 3
+    },
+    {
+      "skill": "SCADA System Installation/Controls",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist the Construction PM team in all aspects of project life cycle from design to closeout."
+    },
+    {
+      "duty": "Support design review and provide document management verification for projects in the closeout phase."
+    },
+    {
+      "duty": "Assist in contract management by staying on top of expiration dates, funding, and deliverables."
+    },
+    {
+      "duty": "Travel to job sites and provide project support for large compressor station upgrades, equipment upgrades, fuel changes, control changes, exhaust changes, and installations of SCADA systems/controls."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in Engineering or related field"
+    }
+  ]
+}

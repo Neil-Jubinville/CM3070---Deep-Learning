@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "IOS Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Native iOS Development",
+      "experience": 5
+    },
+    {
+      "skill": "Objective C",
+      "experience": 5
+    },
+    {
+      "skill": "Push Notifications",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Self-Motivation",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop native iOS applications with strong experience in Objective C and implementing push notifications."
+    },
+    {
+      "duty": "Work effectively in Agile methodology and collaborate with other teams to resolve problems and defects."
+    },
+    {
+      "duty": "Ensure the development of applications aligns with provided functional specifications."
+    },
+    {
+      "duty": "Demonstrate effective verbal and written communication skills, self-motivation, and attention-to-detail."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

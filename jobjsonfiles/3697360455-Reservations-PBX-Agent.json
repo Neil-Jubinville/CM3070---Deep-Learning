@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Reservations/PBX Agent",
+      "job_category": "Hospitality",
+      "job_class": "Agent",
+      "sector": "Reservations",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Reservation Management",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Handling guest room reservation requests, providing information, and answering questions related to the hotel and local area."
+    },
+    {
+      "duty": "Blocking rooms, entering group rooming lists, posting prepayments, billing no-show reservations, and other related duties."
+    },
+    {
+      "duty": "Answering all incoming calls, handling guest mail and faxes, and taking messages for guests."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent required."
+    },
+    {
+      "credential": "Strong command of the English language."
+    },
+    {
+      "credential": "Basic computer skills (i.e. Word, Excel, etc.); experience working with OPERA and RESERVE or similar systems is a plus."
+    }
+  ]
+}

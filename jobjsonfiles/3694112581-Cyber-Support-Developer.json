@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Cyber Support Developer",
+      "job_category": "IT",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 160000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cybersecurity Development",
+      "experience": 4
+    },
+    {
+      "skill": "Python",
+      "experience": 4
+    },
+    {
+      "skill": "Javascript",
+      "experience": 4
+    },
+    {
+      "skill": "Linux",
+      "experience": 4
+    },
+    {
+      "skill": "Git",
+      "experience": 4
+    },
+    {
+      "skill": "Docker",
+      "experience": 4
+    },
+    {
+      "skill": "SQL",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develops and maintains automated cybersecurity tools responsible for threat detection and other cyber threats."
+    },
+    {
+      "duty": "Provides continuous support for deployed tools, including up to tier 3 support."
+    },
+    {
+      "duty": "Responsible for access management of automated tools and associated functions."
+    },
+    {
+      "duty": "Oversee continuous implementation of features for tools, ensuring successful deployments."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Cybersecurity, or related field (Master's preferred)"
+    },
+    {
+      "credential": "IAT Level II Certifications (sec+, CCNA, CySA, GSEC, GICSP, CND, SSCP) within 6 months of hire"
+    },
+    {
+      "credential": "Active Top Secret Clearance w/ Polygraph"
+    }
+  ]
+}

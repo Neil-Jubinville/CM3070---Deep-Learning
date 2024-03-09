@@ -1,0 +1,49 @@
+{
+  "meta": [
+    {
+      "job_title": "Speech Language Pathologist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Pediatric Speech Therapy",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Scheduling",
+      "experience": 3
+    },
+    {
+      "skill": "Bilingual Communication",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide speech therapy to pediatric patients with a range of speech delays and impairments."
+    },
+    {
+      "duty": "Manage patient caseload and schedule appointments effectively."
+    },
+    {
+      "duty": "Utilize bilingual communication skills to interact with diverse patient populations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree in Speech-Language Pathology (Bachelor's with 1 year pediatric experience)"
+    }
+  ]
+}

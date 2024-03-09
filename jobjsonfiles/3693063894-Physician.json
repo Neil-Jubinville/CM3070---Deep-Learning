@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Physician",
+      "job_category": "Healthcare",
+      "job_class": "Physician",
+      "sector": "Healthcare",
+      "salary": 250000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "The physician serves as medical director for skilled nursing facilities (SNF) and participates in administrative and quality initiatives for the facilities he or she is responsible for."
+    },
+    {
+      "duty": "Medical directorship functions includes attending and participating in monthly quality assurance and process improvement meetings."
+    },
+    {
+      "duty": "In addition to the medical director role, the physician also serves as the attending physician for the residents residing at each facility."
+    },
+    {
+      "duty": "The physician collaborates with Nurse Practitioners and Physician Assistants to manage day to day resident care at each facility."
+    },
+    {
+      "duty": "Physician will provide high quality, patient-centered, comprehensive primary care services by rounding on patients residing in SNFs."
+    },
+    {
+      "duty": "Physician is responsible for diagnosing and treating patients with acute illness, such as bacterial and viral infections, as well as chronic diseases and conditions, such as hypertension, heart disease, or diabetes."
+    },
+    {
+      "duty": "Provider documentation is completed in Theoria\u2019s proprietary electronic health record (EHR) system, ChartEasy\u2122"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Directorship",
+      "experience": 10
+    },
+    {
+      "skill": "Nursing Collaboration",
+      "experience": 7
+    },
+    {
+      "skill": "Primary Care Services",
+      "experience": 10
+    },
+    {
+      "skill": "Diagnosis and Treatment",
+      "experience": 10
+    },
+    {
+      "skill": "Patient-Centered Care",
+      "experience": 10
+    },
+    {
+      "skill": "Electronic Health Record (EHR)",
+      "experience": 7
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Medical Degree (MD or DO) from an accredited institution"
+    },
+    {
+      "credential": "Valid medical license in the state of practice"
+    },
+    {
+      "credential": "Valid DEA license in the state of practice"
+    },
+    {
+      "credential": "Completion of a valid U.S. residency program"
+    }
+  ]
+}

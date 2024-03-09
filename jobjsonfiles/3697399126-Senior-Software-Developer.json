@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 145000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "React",
+      "experience": 3
+    },
+    {
+      "skill": "TypeScript",
+      "experience": 3
+    },
+    {
+      "skill": "Scala",
+      "experience": 3
+    },
+    {
+      "skill": "OpenCV",
+      "experience": 3
+    },
+    {
+      "skill": "MongoDB",
+      "experience": 3
+    },
+    {
+      "skill": "Team Management",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage a small team of software developers, providing guidance and leadership in their projects and tasks."
+    },
+    {
+      "duty": "Interact with internal stakeholders to gather requirements, provide updates, and align the software development with business objectives."
+    },
+    {
+      "duty": "Plan and execute new applications added to the platform, ensuring they meet quality standards and technical requirements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

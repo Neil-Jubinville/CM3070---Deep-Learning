@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Acute Care Float Registered Nurse",
+      "job_category": "Nursing",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Acute Care Nursing",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Care Planning",
+      "experience": 2
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 3
+    },
+    {
+      "skill": "Clinical Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide acute care and treatment to patients in a variety of settings."
+    },
+    {
+      "duty": "Coordinate care plans and execute patient care according to established guidelines and standards."
+    },
+    {
+      "duty": "Respond to medical emergencies and provide critical and timely care."
+    },
+    {
+      "duty": "Document patient information and maintain clinical records accurately and comprehensively."
+    },
+    {
+      "duty": "Utilize clinical knowledge and critical thinking to assess and address patient needs effectively."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (Master's preferred)"
+    }
+  ]
+}

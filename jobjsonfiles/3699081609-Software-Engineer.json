@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 170000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Development",
+      "experience": 2
+    },
+    {
+      "skill": "Data Structures",
+      "experience": 2
+    },
+    {
+      "skill": "Algorithms",
+      "experience": 2
+    },
+    {
+      "skill": "Android Application Development",
+      "experience": 2
+    },
+    {
+      "skill": "Performance Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "System Data Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Debugging",
+      "experience": 2
+    },
+    {
+      "skill": "Code Proficiency",
+      "experience": 2
+    },
+    {
+      "skill": "System Health Diagnostics",
+      "experience": 2
+    },
+    {
+      "skill": "Test Engineering",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Write product or system development code."
+    },
+    {
+      "duty": "Review code developed by other engineers and provide feedback to ensure best practices."
+    },
+    {
+      "duty": "Contribute to existing documentation or educational content based on product/program updates and user feedback."
+    },
+    {
+      "duty": "Triage product or system issues and debug/track/resolve by analyzing the sources of issues."
+    },
+    {
+      "duty": "Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 75,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree or equivalent practical experience. 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting. 2 years of experience with data structures or algorithms in either an academic or industry setting. 2 years of experience Android application development. Master's degree or PhD in Computer Science or related technical field. 2 years of experience with performance, large scale systems data analysis, visualization tools, and/or debugging. Experience developing accessible technologies. Proficiency in code and system health, diagnosis and resolution, and software test engineering."
+    }
+  ]
+}

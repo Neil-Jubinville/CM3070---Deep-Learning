@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 180000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Engineering",
+      "experience": 10
+    },
+    {
+      "skill": "Software Architecture",
+      "experience": 10
+    },
+    {
+      "skill": "C-UAS Products",
+      "experience": 10
+    },
+    {
+      "skill": "IT Proficiency",
+      "experience": 10
+    },
+    {
+      "skill": "Radars",
+      "experience": 10
+    },
+    {
+      "skill": "Cameras",
+      "experience": 10
+    },
+    {
+      "skill": "RF",
+      "experience": 10
+    },
+    {
+      "skill": "Federal Government Background",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responding to proposals and working with technical experts in the government space."
+    },
+    {
+      "duty": "Working with test systems and C-UAS products."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 0,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Engineering or related field (Master's preferred)"
+    }
+  ]
+}

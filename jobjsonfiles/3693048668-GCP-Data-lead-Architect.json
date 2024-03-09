@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "GCP Data lead/Architect",
+      "job_category": "Data Engineer",
+      "job_class": "Lead",
+      "sector": "Software Engineering",
+      "salary": 135000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "GCP Cloud Native ETL / ELT services",
+      "experience": 5
+    },
+    {
+      "skill": "Big Query",
+      "experience": 5
+    },
+    {
+      "skill": "Dataflow or cloud fusion",
+      "experience": 5
+    },
+    {
+      "skill": "API integrations (Mulesoft or Boomi)",
+      "experience": 5
+    },
+    {
+      "skill": "Storage infrastructure",
+      "experience": 5
+    },
+    {
+      "skill": "Event-based architecture using Cloud Functions",
+      "experience": 5
+    },
+    {
+      "skill": "Monitoring, Logging, Auditing services of GCP",
+      "experience": 5
+    },
+    {
+      "skill": "Cortex framework on GCP for integrating with SAP",
+      "experience": 5
+    },
+    {
+      "skill": "Networking on GCP and Gateway connectivity",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Functions, Cloud Composer, Apache Airflow",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implementing a medium/large scale Data Warehouse solution."
+    },
+    {
+      "duty": "Operationalizing large scale ingestion, processing, consumption using dataflow or cloud fusion."
+    },
+    {
+      "duty": "Ingesting data through API\u2019s or integration tools such as Mulesoft or Boomi."
+    },
+    {
+      "duty": "Designing and implementing storage infrastructure and event-based architecture using Cloud Functions."
+    },
+    {
+      "duty": "Integrating with SAP using Cortex framework on GCP."
+    },
+    {
+      "duty": "Orchestrating data using Cloud Functions, Cloud Composer, Apache Airflow or related."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science, Engineering, or related field (Master\u2019s preferred)"
+    }
+  ]
+}

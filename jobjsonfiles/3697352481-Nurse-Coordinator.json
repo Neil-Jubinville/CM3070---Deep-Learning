@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Nurse Coordinator",
+      "job_category": "Healthcare",
+      "job_class": "Coordinator",
+      "sector": "Nursing",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Patient Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Trend Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Evidence-Based Practice",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Pathways Management",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care Coordination",
+      "experience": 5
+    },
+    {
+      "skill": "Care Transition Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Reflective Practice",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Coordinates the evaluation process of the defined patient population and assists in the development and management of processes related to pre-admission and post-discharge care transitions."
+    },
+    {
+      "duty": "Supports patient access by serving as a liaison between the referring provider's office and Vanderbilt provider."
+    },
+    {
+      "duty": "Interacts routinely and effectively with the clinical team to develop a collaborative plan for the coordination of patient care from the anchor hospitalization through the defined care episode."
+    },
+    {
+      "duty": "Develops and manages relationships/clinical pathways with providers/agencies to optimize care for defined patient population."
+    },
+    {
+      "duty": "Facilitates discharge/transition planning in collaboration with the multi-disciplinary team and coordinates handovers to outpatient care coordinators, home health care nurses, and other healthcare professionals."
+    },
+    {
+      "duty": "Demonstrates reflective practice by constantly evaluating care coordination and supports the development of protocols for practice based on evidence."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing or related field (Master's preferred)"
+    }
+  ]
+}

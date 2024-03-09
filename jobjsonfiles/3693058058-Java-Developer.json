@@ -1,0 +1,138 @@
+{
+  "meta": [
+    {
+      "job_title": "Java Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Spring Boot",
+      "experience": 5
+    },
+    {
+      "skill": "TDD",
+      "experience": 5
+    },
+    {
+      "skill": "BDD",
+      "experience": 5
+    },
+    {
+      "skill": "Static Code Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Agile",
+      "experience": 5
+    },
+    {
+      "skill": "Jira",
+      "experience": 5
+    },
+    {
+      "skill": "Confluence",
+      "experience": 5
+    },
+    {
+      "skill": "Bitbucket",
+      "experience": 5
+    },
+    {
+      "skill": "MongoDB",
+      "experience": 5
+    },
+    {
+      "skill": "RDBMS",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices Architecture",
+      "experience": 2
+    },
+    {
+      "skill": "Docker Containers",
+      "experience": 2
+    },
+    {
+      "skill": "OpenShift",
+      "experience": 2
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 2
+    },
+    {
+      "skill": "Java Presentation Frameworks",
+      "experience": 2
+    },
+    {
+      "skill": "Angular",
+      "experience": 2
+    },
+    {
+      "skill": "NodeJS",
+      "experience": 2
+    },
+    {
+      "skill": "Web Services",
+      "experience": 2
+    },
+    {
+      "skill": "REST",
+      "experience": 2
+    },
+    {
+      "skill": "EJB",
+      "experience": 2
+    },
+    {
+      "skill": "Code Delivery Pipelines",
+      "experience": 5
+    },
+    {
+      "skill": "ANT",
+      "experience": 5
+    },
+    {
+      "skill": "Shell Script",
+      "experience": 5
+    },
+    {
+      "skill": "Maven",
+      "experience": 5
+    },
+    {
+      "skill": "Gradle",
+      "experience": 5
+    },
+    {
+      "skill": "Jenkins",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop applications using Java and Spring-Boot, from analysis to deployment to post-production defect fixing."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in computer science or a related field, or an equivalent combination of education and experience"
+    }
+  ]
+}

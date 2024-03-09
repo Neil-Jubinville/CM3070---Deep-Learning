@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Mental Health Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mental Health Therapy",
+      "experience": 3
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Video Conferencing",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    },
+    {
+      "skill": "Confidentiality",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct patient evaluations via secure video calls to determine eligibility for an emotional support animal (ESA) letter."
+    },
+    {
+      "duty": "Assess patient information and make decisions on ESA letter eligibility based on professional judgment and established guidelines."
+    },
+    {
+      "duty": "Navigate through patient evaluations efficiently and collaborate with scheduling team to manage appointments."
+    },
+    {
+      "duty": "Adhere to ethical standards and maintain patient confidentiality."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid license as a Mental Health Therapist."
+    },
+    {
+      "credential": "Experience in mental health therapy is preferred but not required."
+    },
+    {
+      "credential": "Strong written and verbal communication skills."
+    },
+    {
+      "credential": "Proficiency in using video conferencing platforms and web-based portals."
+    }
+  ]
+}

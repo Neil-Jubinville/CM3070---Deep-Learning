@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Salaried Real Estate Agent",
+      "job_category": "Real Estate",
+      "job_class": "Agent",
+      "sector": "Sales",
+      "salary": 72000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Real Estate License",
+      "experience": 5
+    },
+    {
+      "skill": "Real Estate Investing",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 4
+    },
+    {
+      "skill": "Marketing Knowledge",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Coordinating transactions and writing contracts to facilitate smooth real estate deals."
+    },
+    {
+      "duty": "Engaging in regular communication with investors and partners to foster strong relationships."
+    },
+    {
+      "duty": "Implementing and executing effective marketing strategies to attract potential investors."
+    },
+    {
+      "duty": "Maintaining updated inventories to keep track of available properties."
+    },
+    {
+      "duty": "Setting up investor consultations to understand their needs and preferences."
+    },
+    {
+      "duty": "Assist in generating compelling marketing materials to showcase our properties effectively."
+    },
+    {
+      "duty": "Assisting with additional tasks as required to support the growth of the company."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Active Real Estate License"
+    }
+  ]
+}

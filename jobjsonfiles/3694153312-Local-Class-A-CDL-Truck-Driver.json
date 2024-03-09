@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Local Class A CDL Truck Driver",
+      "job_category": "Driver",
+      "job_class": "Truck Driver",
+      "sector": "Transportation",
+      "salary": 80600,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CDL License",
+      "experience": 1
+    },
+    {
+      "skill": "Tractor-Trailer Experience",
+      "experience": 1
+    },
+    {
+      "skill": "DOT Medical Card",
+      "experience": 1
+    },
+    {
+      "skill": "DMV/MVR Record",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver automobile parts to car dealerships on a local, daily basis."
+    },
+    {
+      "duty": "Maintain regular, predictable, full attendance as an essential function of the job."
+    },
+    {
+      "duty": "Operate a motor vehicle and safely enter/exit the vehicle as well as the rear cargo area."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 20,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "CDL Class A required"
+    },
+    {
+      "credential": "Non-excepted interstate DOT medical card required"
+    }
+  ]
+}

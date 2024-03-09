@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Automation Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Oil and Gas",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "PLC Programming",
+      "experience": 3
+    },
+    {
+      "skill": "Automation Equipment Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Field Radio Communication",
+      "experience": 3
+    },
+    {
+      "skill": "SCADA Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Electrical Certification",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform routine diagnostic checks, isolate, and repair problems in automated rod pump control systems."
+    },
+    {
+      "duty": "Coordinate maintenance activities with operations daily, and manage ticketing process for each job completed."
+    },
+    {
+      "duty": "Lead automation failure analysis and recommendations going forward."
+    },
+    {
+      "duty": "Utilize all necessary safe work practices when performing automation work."
+    },
+    {
+      "duty": "Frequent communication with the operation team, Scada/IT group, measurement, and engineering."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School/Secondary education required, Apprentice or Journeymen electrical certification preferred."
+    }
+  ]
+}

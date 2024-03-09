@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Systems Management Solution Leader",
+      "job_category": "Engineering",
+      "job_class": "Technical Leader",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "OpenBMC Development",
+      "experience": 5
+    },
+    {
+      "skill": "Redfish Standard/Implementation",
+      "experience": 5
+    },
+    {
+      "skill": "Telemetry/Management",
+      "experience": 5
+    },
+    {
+      "skill": "RAS (Reliability, Availability, and Serviceability)",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the development and execution of system management solutions for Server Systems and Silicon, focusing on BMC/SMC, Telemetry, FW Loading, Redfish integration, and RAS features."
+    },
+    {
+      "duty": "Collaborate with engineering and test teams to ensure complete and customer-focused solutions while interacting with 3rd party vendors and customers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelors or Masters degree in Electrical or Computer Engineering"
+    }
+  ]
+}

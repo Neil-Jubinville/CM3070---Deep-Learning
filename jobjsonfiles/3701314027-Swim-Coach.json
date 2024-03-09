@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Swim Coach",
+      "job_category": "Sports",
+      "job_class": "Coach",
+      "sector": "Sports",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Competitive Swimming",
+      "experience": 4
+    },
+    {
+      "skill": "Certified Swim Coach",
+      "experience": 1
+    },
+    {
+      "skill": "Aquatics Director",
+      "experience": 1
+    },
+    {
+      "skill": "CPR Certification",
+      "experience": 0.5
+    },
+    {
+      "skill": "First Aid Certification",
+      "experience": 0.5
+    },
+    {
+      "skill": "AED Certification",
+      "experience": 0.5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Teach year-round swim team and offer individual swim lessons for Members in a safe and fun environment."
+    },
+    {
+      "duty": "Attend swim meets, warm-ups, and assist in pool setup for training sessions."
+    },
+    {
+      "duty": "Maintain a high level of professionalism, promote facility amenities, and align with the values and standards of the Club."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100
+    },
+    {
+      "student_teacher": 60
+    },
+    {
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma, or equivalent"
+    },
+    {
+      "credential": "Certification in CPR, First Aid and AED within 6 months"
+    }
+  ]
+}

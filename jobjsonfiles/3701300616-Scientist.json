@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Scientist",
+      "job_category": "Science",
+      "job_class": "Scientist",
+      "sector": "Physical Sciences",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Laboratory Experimentation",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Testing",
+      "experience": 5
+    },
+    {
+      "skill": "GMP or cGMP environment",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Report Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Method Development",
+      "experience": 5
+    },
+    {
+      "skill": "Method Validation",
+      "experience": 5
+    },
+    {
+      "skill": "Material Science",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct hands-on laboratory experimentation for evaluation and characterization of primary packaging components."
+    },
+    {
+      "duty": "Perform standard primary packaging assessments such as moisture ingress and UV transmission testing."
+    },
+    {
+      "duty": "Conduct mechanical testing methods including uniaxial tension and torsional testing."
+    },
+    {
+      "duty": "Document results in laboratory notebooks and technical reports."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Material Science or related field with hands-on experience in GMP or cGMP environment."
+    }
+  ]
+}

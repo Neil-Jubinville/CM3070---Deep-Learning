@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Housekeeper",
+      "job_category": "Hospitality",
+      "job_class": "Entry-level",
+      "sector": "Housekeeping",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Housekeeping",
+      "experience": 2
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 2
+    },
+    {
+      "skill": "Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Deep Cleaning",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 2
+    },
+    {
+      "skill": "Maintenance",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain clean and attractive guest rooms, hallways, and public areas in the hotel, servicing guest rooms daily in accordance with hotel procedures."
+    },
+    {
+      "duty": "Stock the cart with room supplies and replace bed linens and replenishing guest room supplies following company standards and safety/security procedures."
+    },
+    {
+      "duty": "Conduct 'deep cleaning' activities within the guest room in conjunction with preventative maintenance tasks."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent and/or experience in a hotel or a related field preferred."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "RN",
+      "job_category": "Nursing",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 72000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Assessment Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Adherence to Infection Control Standards",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide quality of care with direct and/or indirect patient care utilizing professional nursing skills and knowledge."
+    },
+    {
+      "duty": "Assess learning needs, readiness to learn, and identify barriers to learning, incorporating patient's education into daily activities based on age, cultural, and spiritual values."
+    },
+    {
+      "duty": "Document admission assessment, plan, interventions, and medication use, and monitor its effects and outcomes."
+    },
+    {
+      "duty": "Utilize the information management system to enhance communication and document change in patient's condition."
+    },
+    {
+      "duty": "Prioritize work assignments based on changing situations and communicate transfer of patient responsibility and pertinent information."
+    },
+    {
+      "duty": "Recognize and integrate patient special needs, individualize care, and knowledgeable in abuse recognition and referral."
+    },
+    {
+      "duty": "Include pain management and supportive care issues in the plan of care and adhere to infection control standards specific to patient care."
+    },
+    {
+      "duty": "Perform other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BSN (Bachelor of Science in Nursing)"
+    },
+    {
+      "credential": "RN License"
+    },
+    {
+      "credential": "AHA BLS Certification"
+    }
+  ]
+}

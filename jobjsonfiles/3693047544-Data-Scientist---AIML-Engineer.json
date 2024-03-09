@@ -1,0 +1,127 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Scientist / AIML Engineer",
+      "job_category": "Data Science",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cloud Services",
+      "experience": 10
+    },
+    {
+      "skill": "Containerization",
+      "experience": 10
+    },
+    {
+      "skill": "Server Deployment",
+      "experience": 10
+    },
+    {
+      "skill": "Software Development",
+      "experience": 10
+    },
+    {
+      "skill": "Version Control Systems",
+      "experience": 10
+    },
+    {
+      "skill": "CI/CD Pipelines",
+      "experience": 10
+    },
+    {
+      "skill": "NLP Model Development",
+      "experience": 10
+    },
+    {
+      "skill": "Preprocessing",
+      "experience": 10
+    },
+    {
+      "skill": "Model Training and Evaluation",
+      "experience": 10
+    },
+    {
+      "skill": "Model Deployment",
+      "experience": 10
+    },
+    {
+      "skill": "Monitoring and Maintenance",
+      "experience": 10
+    },
+    {
+      "skill": "Performance Optimization",
+      "experience": 10
+    },
+    {
+      "skill": "Data Management",
+      "experience": 10
+    },
+    {
+      "skill": "Python Programming",
+      "experience": 10
+    },
+    {
+      "skill": "TensorFlow",
+      "experience": 10
+    },
+    {
+      "skill": "PyTorch",
+      "experience": 10
+    },
+    {
+      "skill": "scikit-learn",
+      "experience": 10
+    },
+    {
+      "skill": "NLTK",
+      "experience": 10
+    },
+    {
+      "skill": "Deep Learning Architectures",
+      "experience": 10
+    },
+    {
+      "skill": "Transformer Models",
+      "experience": 10
+    },
+    {
+      "skill": "Word Embeddings",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and implement NLP models and algorithms for text/image/video classification tasks"
+    },
+    {
+      "duty": "Preprocess and transform raw text data into numerical representations using techniques such as tokenization, stop word removal, and TF-IDF extraction"
+    },
+    {
+      "duty": "Train and fine-tune NLP models using large-scale datasets, evaluate performance using appropriate metrics, and deploy models in production environments"
+    },
+    {
+      "duty": "Implement logging and monitoring mechanisms, proactively identify and resolve deployment issues, and optimize model performance and resource consumption"
+    },
+    {
+      "duty": "Collaborate with data engineers to ensure data availability, quality, and compliance with best practices and privacy regulations"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Data Science, or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr Engr Cslt - Data Engineer",
+      "job_category": "Engineering",
+      "job_class": "Senior Engineer",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Artificial Intelligence",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Programming (Python/Scala)",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Data Engineering",
+      "experience": 2
+    },
+    {
+      "skill": "Dashboard Development (Tableau, Qlik, Looker)",
+      "experience": 3
+    },
+    {
+      "skill": "Teradata SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Hadoop Stack (HDFS, Hive, Spark, Streaming, HBase, Kafka, Oozie, NiFi)",
+      "experience": 3
+    },
+    {
+      "skill": "Marketing Analytics",
+      "experience": 4
+    },
+    {
+      "skill": "Database Management",
+      "experience": 4
+    },
+    {
+      "skill": "Business Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage, analyze, and transform data to actionable intelligence for AI and Data Organization."
+    },
+    {
+      "duty": "Design, build, and implement data pipelines, analytics, and data tools for automation and accessibility."
+    },
+    {
+      "duty": "Support marketing-related projects on Big Data/Cloud platform, including new applications design and training other developers."
+    },
+    {
+      "duty": "Identify and implement data security, quality, and process automation solutions."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to source new data, develop schema requirements, and maintain metadata."
+    },
+    {
+      "duty": "Use large data sets to address business issues and discover tasks that can be automated."
+    },
+    {
+      "duty": "Design and implement fact tables, reports, and dashboards using Tableau, Looker, and other tools."
+    },
+    {
+      "duty": "Analyze existing Teradata/ SQL queries for performance improvement."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 75,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or four or more years of work experience in Computer Science, Information Systems, or related technical discipline."
+    },
+    {
+      "credential": "Master's degree in Computer Science, Information Systems and / or related technical discipline (optional)"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Azure DevOps Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Azure DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Infrastructure",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD Tools",
+      "experience": 5
+    },
+    {
+      "skill": "PowerShell",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "Jenkins",
+      "experience": 5
+    },
+    {
+      "skill": "Git",
+      "experience": 5
+    },
+    {
+      "skill": "Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Process Development",
+      "experience": 5
+    },
+    {
+      "skill": "Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Configuration Management",
+      "experience": 5
+    },
+    {
+      "skill": "Infrastructure as Code",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Services",
+      "experience": 5
+    },
+    {
+      "skill": "Datadog",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and maintain comprehensive and scalable DevOps automation practice for Java applications on Azure cloud platforms."
+    },
+    {
+      "duty": "Design and develop the automation for AKS, Database, Service Bus, FunctionApp solutions."
+    },
+    {
+      "duty": "Design and develop cloud observability solutions, dashboards, and alerts for multiple Azure services."
+    },
+    {
+      "duty": "Set up system-level performance alerts and automate elasticity based on the requirements."
+    },
+    {
+      "duty": "Maintain detailed documentation, diagrams, and knowledge base."
+    },
+    {
+      "duty": "Demonstrate commendable knowledge of the Azure tech stack."
+    }
+  ]
+}

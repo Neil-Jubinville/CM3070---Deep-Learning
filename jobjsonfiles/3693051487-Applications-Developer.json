@@ -1,0 +1,93 @@
+{
+  "meta": [
+    {
+      "job_title": "Applications Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "PHP Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Salesforce Development",
+      "experience": 5
+    },
+    {
+      "skill": "EDI Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Database Development",
+      "experience": 5
+    },
+    {
+      "skill": "Data Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, test, and deploy custom applications and integrations using Salesforce and other relevant technologies."
+    },
+    {
+      "duty": "Implement and maintain EDI integrations, mapping and transforming data between systems using EDI standards such as ANSI X12 or EDIFACT."
+    },
+    {
+      "duty": "Customize and extend the functionality of the Salesforce platform using Apex, Visualforce, and Lightning components."
+    },
+    {
+      "duty": "Design and implement data integration solutions, extracting, transforming, and loading data between various systems and databases."
+    },
+    {
+      "duty": "Conduct unit testing, integration testing, and performance testing of developed applications and integrations."
+    },
+    {
+      "duty": "Create and maintain technical documentation, including system designs, specifications, and user guides."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to gather requirements, define specifications, and develop technical solutions that meet business needs."
+    },
+    {
+      "duty": "Troubleshoot and resolve issues in existing applications and integrations, providing timely support and maintenance."
+    },
+    {
+      "duty": "Collaborate with stakeholders, external partners, and internal teams to implement and test EDI transactions and troubleshoot integration issues."
+    },
+    {
+      "duty": "Integrate external systems and data sources with Salesforce, ensuring data integrity and seamless flow of information."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field."
+    }
+  ]
+}

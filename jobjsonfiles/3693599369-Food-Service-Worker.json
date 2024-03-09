@@ -1,0 +1,45 @@
+{
+  "meta": [
+    {
+      "job_title": "Food Service Worker",
+      "job_category": "Food Service",
+      "job_class": "Worker",
+      "sector": "Hospitality",
+      "salary": 17
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Sanitation",
+      "experience": 2
+    },
+    {
+      "skill": "Food Safety",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide prompt, accurate, and attractive food service to patients and customers in a safe and sanitary manner."
+    },
+    {
+      "duty": "Perform appropriate cleaning and sanitation activities."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school graduate or the equivalent preferred."
+    },
+    {
+      "credential": "Previous experience in a health care food service or restaurant setting preferred."
+    }
+  ]
+}

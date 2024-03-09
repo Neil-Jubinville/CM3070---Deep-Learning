@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Dishwasher",
+      "job_category": "Food Service",
+      "job_class": "Entry-Level",
+      "sector": "Hospitality",
+      "salary": 1965,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Dishwashing",
+      "experience": 1
+    },
+    {
+      "skill": "Kitchen Safety",
+      "experience": 1
+    },
+    {
+      "skill": "Time Management",
+      "experience": 1
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain cleanliness and sanitation standards in the kitchen, ensuring dishes and utensils are washed and stored properly."
+    },
+    {
+      "duty": "Assist kitchen staff in food preparation and assembly as needed."
+    },
+    {
+      "duty": "Adhere to food safety and hygiene regulations at all times."
+    },
+    {
+      "duty": "Assist in receiving and storing kitchen supplies and inventory."
+    },
+    {
+      "duty": "Operate and maintain dishwashing equipment efficiently."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid Food Handlers card"
+    }
+  ]
+}

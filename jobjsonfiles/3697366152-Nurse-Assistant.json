@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Nurse Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide direct and basic patient care activities under the guidance and direction of a Registered Nurse."
+    },
+    {
+      "duty": "Maintain and stock supplies and equipment, including the transportation of patients, supplies, and equipment."
+    },
+    {
+      "duty": "Perform direct and indirect patient care activities following RN instructions, physician orders, policies, procedures, and regulations."
+    },
+    {
+      "duty": "Demonstrate competence in feeding patients, knowledge of dysphagia precautions, and calculating and recording intake and output."
+    },
+    {
+      "duty": "Collect specimens and apply heat and cold packs, ace wraps, slings, binders, protective devices, and orthopedic devices."
+    },
+    {
+      "duty": "Participate in hourly rounding programs and schedules to ensure patient safety and reduce patient harm."
+    },
+    {
+      "duty": "Seek assistance of the Nurse Manager or designee for conflict resolution."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Basic Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Stocking and Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Compliance with Healthcare Procedures",
+      "experience": 2
+    },
+    {
+      "skill": "Specimen Collection",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Safety Protocols",
+      "experience": 2
+    },
+    {
+      "skill": "Conflict Resolution",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Graduate/Equivalent required. PA Nurse Aide Registry (CNA) OR completed a minimum of one semester of clinical rotations in an accredited nursing program."
+    }
+  ]
+}

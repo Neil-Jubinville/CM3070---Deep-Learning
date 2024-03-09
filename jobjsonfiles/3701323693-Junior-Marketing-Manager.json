@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Junior Marketing Manager",
+      "job_category": "Marketing",
+      "job_class": "Manager",
+      "sector": "Marketing",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Marketing Strategy",
+      "experience": 2
+    },
+    {
+      "skill": "Digital Marketing",
+      "experience": 2
+    },
+    {
+      "skill": "Social Media Management",
+      "experience": 2
+    },
+    {
+      "skill": "Market Research",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and execute comprehensive marketing strategies to increase digital awareness, showcase value, and enhance industry credibility."
+    },
+    {
+      "duty": "Lead the management of social media channels and online communities to support content specialist and increase engagement."
+    },
+    {
+      "duty": "Analyze and manage key analytics across digital platforms and prepare regular reporting for leadership."
+    },
+    {
+      "duty": "Compile and distribute company-wide and expert network email newsletters."
+    },
+    {
+      "duty": "Identify and share applicable real-time social media trends to amplify the message and value proposition."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 40,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Marketing, Business, or a related field."
+    }
+  ]
+}

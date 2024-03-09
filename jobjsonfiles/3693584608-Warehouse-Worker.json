@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Worker",
+      "job_category": "Logistics",
+      "job_class": "Entry Level",
+      "sector": "Warehouse and Transportation",
+      "salary": 16,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Warehouse Work",
+      "experience": 1
+    },
+    {
+      "skill": "Loading and Unloading",
+      "experience": 1
+    },
+    {
+      "skill": "Package Sorting",
+      "experience": 1
+    },
+    {
+      "skill": "Time Management",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform fast-paced and physical warehouse work, including loading, unloading, and sorting of packages of various sizes."
+    },
+    {
+      "duty": "Work one shift a day for part-time employees and two shifts for full-time employees."
+    },
+    {
+      "duty": "Balance work and personal life with flexible scheduling."
+    },
+    {
+      "duty": "Expect overtime pay after 40 hours a week."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

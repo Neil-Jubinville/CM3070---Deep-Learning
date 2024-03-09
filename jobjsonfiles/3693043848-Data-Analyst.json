@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Analyst",
+      "job_category": "Analytics",
+      "job_class": "Analyst",
+      "sector": "Data Analysis",
+      "salary": 70000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Enterprise Resource Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Data Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "Advanced Excel Functions",
+      "experience": 5
+    },
+    {
+      "skill": "VBA",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Tableau",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Analyze data and create data models to derive actionable insights."
+    },
+    {
+      "duty": "Generate and present reports based on the analysis of enterprise resource planning table structure."
+    },
+    {
+      "duty": "Interpret large volumes of data and present findings to executive leadership."
+    },
+    {
+      "duty": "Utilize advanced Excel functions, VBA, SQL, Python, and/or Tableau for data interpretation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 80,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Data Science, Business, or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Tax Consultant",
+      "job_category": "Accounting",
+      "job_class": "Consultant",
+      "sector": "Public Accounting",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Federal Tax Compliance",
+      "experience": 8
+    },
+    {
+      "skill": "Consulting Services",
+      "experience": 8
+    },
+    {
+      "skill": "Corporate Taxation",
+      "experience": 8
+    },
+    {
+      "skill": "Flow Through Taxation",
+      "experience": 8
+    },
+    {
+      "skill": "ASC740",
+      "experience": 8
+    },
+    {
+      "skill": "Client Management",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide federal tax compliance and consulting services to C-Corp engagement team"
+    },
+    {
+      "duty": "Consult on technical matters and special projects in various areas of corporate and flow through taxation, accounting methods, and ASC740"
+    },
+    {
+      "duty": "Manage client engagement staffing, billing/collections, and ensure client profitability targets are met"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS in accounting or law, CPA or JD, 8+ years of related experience"
+    }
+  ]
+}

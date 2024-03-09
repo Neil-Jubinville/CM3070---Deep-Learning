@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Department Head",
+      "job_category": "Medical",
+      "job_class": "Director",
+      "sector": "Healthcare",
+      "salary": 150000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Leadership",
+      "experience": 10
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 10
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 10
+    },
+    {
+      "skill": "Clinical Protocol Development",
+      "experience": 10
+    },
+    {
+      "skill": "Transdisciplinary Collaboration",
+      "experience": 10
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 10
+    },
+    {
+      "skill": "Servant Leadership",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage the overall daily operations of the Medical Department, including delivery of medical care to an individual patient load."
+    },
+    {
+      "duty": "Ensure the delivery of high quality, comprehensive medical care."
+    },
+    {
+      "duty": "Mentor medical students & post-graduate learners."
+    },
+    {
+      "duty": "Maintain financial stability by monitoring the medical clinic budget."
+    },
+    {
+      "duty": "Implement best practice standards, protocols, and policies."
+    },
+    {
+      "duty": "Oversee transdisciplinary delivery of care including collaboration with multiple disciplines."
+    },
+    {
+      "duty": "Lead and model an attitude of teamwork and servant leadership."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 180,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Medical Degree (MD or DO)"
+    },
+    {
+      "credential": "Board certification in internal medicine or family medicine"
+    }
+  ]
+}

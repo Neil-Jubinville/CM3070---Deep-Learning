@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Practical Nurse (LPN)",
+      "job_category": "Healthcare",
+      "job_class": "Practitioner",
+      "sector": "Healthcare",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide direct patient care to patients of all ages under the general direction of the Registered Nurse."
+    },
+    {
+      "duty": "Assist the registered nurse in the collection of data and provide direction to ancillary personnel."
+    },
+    {
+      "duty": "Handle, prepare, or administer medications as dictated by the applicable scope of practice regulations."
+    },
+    {
+      "duty": "Contribute to overall quality of nursing care through performance improvement techniques that impact patient care positively."
+    },
+    {
+      "duty": "Communicate effectively with admin, colleagues, patients, and family members."
+    },
+    {
+      "duty": "Educate patients and family members for a transparent understanding of the care being provided."
+    },
+    {
+      "duty": "Understand computer-based applications, email, and standard applications such as Microsoft Office."
+    },
+    {
+      "duty": "Demonstrate problem-solving, conflict resolution, and positive communication through teamwork."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Exceptional Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Excellent Communicator",
+      "experience": 5
+    },
+    {
+      "skill": "Strong Educator",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Familiarity (E-MAR, clinical documentation, Microsoft Office)",
+      "experience": 5
+    },
+    {
+      "skill": "Active Teamwork",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited LPN program"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Biostatistician",
+      "job_category": "Data Analysis",
+      "job_class": "Analyst",
+      "sector": "Medical Research",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Biostatistics",
+      "experience": 5
+    },
+    {
+      "skill": "SAS Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Trials",
+      "experience": 5
+    },
+    {
+      "skill": "Research Hypotheses",
+      "experience": 5
+    },
+    {
+      "skill": "Data Validation",
+      "experience": 5
+    },
+    {
+      "skill": "Cardiology",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, analyze, and report on new/continuing sponsor-related clinical trials."
+    },
+    {
+      "duty": "Review and prepare statistical sections of study protocols and perform sample size calculations."
+    },
+    {
+      "duty": "Develop detailed statistical analysis plans and table/listing/graph shells."
+    },
+    {
+      "duty": "Work with a multifunctional team of SAS programmers, data managers, and physicians in creating case report forms, identifying data quality issues, and producing analysis datasets and data displays."
+    },
+    {
+      "duty": "Validate statistical analyses to ensure data accuracy in final clinical study reports and provide statistical interpretations of results."
+    },
+    {
+      "duty": "Collaborate with Cardiovascular Physicians on academic research."
+    },
+    {
+      "duty": "Participate in Data Safety Monitoring Boards."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "M.S./PhD degree in Biostatistics or Statistics"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Account Manager",
+      "job_category": "Account Management",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 70000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Client Management",
+      "experience": 5
+    },
+    {
+      "skill": "Database Management",
+      "experience": 5
+    },
+    {
+      "skill": "Benefits Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Insurance Processing",
+      "experience": 5
+    },
+    {
+      "skill": "Open Enrollment Management",
+      "experience": 5
+    },
+    {
+      "skill": "Billing and Claims Resolution",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Running Quotes and Preparing Benefit and Cost Comparisons"
+    },
+    {
+      "duty": "Database Management and Processing eligibility changes online with the insurance companies."
+    },
+    {
+      "duty": "Preparing open enrollment kits for employee meetings."
+    },
+    {
+      "duty": "Day to day service issues (billing, eligibility and claim resolution)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "meta": [
+    {
+      "job_title": "Tax Preparer",
+      "job_category": "Finance",
+      "job_class": "Preparer",
+      "sector": "Accounting and Finance",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tax Preparation",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Statements Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare and file tax returns for individuals and businesses."
+    },
+    {
+      "duty": "Create and analyze financial statements."
+    },
+    {
+      "duty": "Stay up-to-date with changes in tax law and finance."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Tax Preparation and Tax knowledge"
+    }
+  ]
+}

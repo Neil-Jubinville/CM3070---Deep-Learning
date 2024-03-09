@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Construction Estimator",
+      "job_category": "Construction",
+      "job_class": "Estimator",
+      "sector": "Construction",
+      "salary": 80000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Estimating",
+      "experience": 5
+    },
+    {
+      "skill": "Construction Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Budgeting",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Carefully prepare estimates by gathering proposals, blueprints, specifications, and related documents."
+    },
+    {
+      "duty": "Identify labor, material, and time requirements by studying proposals, blueprints, and specifications."
+    },
+    {
+      "duty": "Compute costs by analyzing labor, material, and time requirements."
+    },
+    {
+      "duty": "Support sales and operations departments."
+    },
+    {
+      "duty": "Provide quotes to customers and outside vendors."
+    },
+    {
+      "duty": "Solicit pricing and compile information from supplies to formulate detailed quotes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100
+    },
+    {
+      "student_teacher": 80
+    },
+    {
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree or high school diploma/GED, or the equivalent."
+    }
+  ]
+}

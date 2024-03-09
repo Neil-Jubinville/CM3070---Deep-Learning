@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Food Inspector",
+      "job_category": "Food Inspection",
+      "job_class": "Inspector",
+      "sector": "Food Inspection",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food Inspection",
+      "experience": 3
+    },
+    {
+      "skill": "Sanitation Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Food Production Standards",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Examine food animals in privately-owned meat or poultry plants."
+    },
+    {
+      "duty": "Perform duties before and after slaughter, guaranteeing that the product is not contaminated."
+    },
+    {
+      "duty": "Maintain sanitation procedures."
+    },
+    {
+      "duty": "Ensure the product is fit to eat and compliant with Federal laws."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Biological, Physical, Mathematical, or Agricultural Sciences (Master's preferred)"
+    }
+  ]
+}

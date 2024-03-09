@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Tax Senior",
+      "job_category": "Accounting",
+      "job_class": "Senior",
+      "sector": "Accounting",
+      "salary": 60,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tax Preparation",
+      "experience": 5
+    },
+    {
+      "skill": "Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "Client Management",
+      "experience": 5
+    },
+    {
+      "skill": "Tax Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "CPA Certification",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Review prior year\u2019s tax file and prepare complex corporate, partnership, S-Corp, and individual tax returns."
+    },
+    {
+      "duty": "Maintain a detailed open points list for uncompleted tasks."
+    },
+    {
+      "duty": "Review tax staff-prepared returns and respond to tax notices."
+    },
+    {
+      "duty": "Act as a resource for tax and accounting questions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in accounting. CPA certification."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Support Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Relationship Management (CRM)",
+      "experience": 2
+    },
+    {
+      "skill": "Digital Literacy",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 2
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in multiple behind-the-scenes sales functions such as answering sales calls, addressing and resolving customer concerns, recommending products, and providing hands-on assistance as needed."
+    },
+    {
+      "duty": "Present job quotes, provide accurate pricing and inventory information to customers, and work together with Sales associates to provide outstanding customer service."
+    },
+    {
+      "duty": "Use customer relationship management (CRM) system and phone system effectively."
+    },
+    {
+      "duty": "Assist customers on the parts counter and provide backup support in the warehouse."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "0-3 years sales and/or customer service experience preferred."
+    }
+  ]
+}

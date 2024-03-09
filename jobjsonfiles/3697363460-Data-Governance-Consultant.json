@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Governance Consultant",
+      "job_category": "Data Engineering",
+      "job_class": "Consultant",
+      "sector": "Data Engineering & Architecture",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Lifecycle Management",
+      "experience": 5
+    },
+    {
+      "skill": "Collibra Data Catalog",
+      "experience": 5
+    },
+    {
+      "skill": "Metadata Management",
+      "experience": 5
+    },
+    {
+      "skill": "Taxonomy and Ontology Development",
+      "experience": 5
+    },
+    {
+      "skill": "Data Governance",
+      "experience": 5
+    },
+    {
+      "skill": "Data Quality Assurance",
+      "experience": 5
+    },
+    {
+      "skill": "Client Stakeholder Interviews",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Change Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct interviews with client stakeholders to assess current metadata management and data governance capabilities."
+    },
+    {
+      "duty": "Translate use cases into requirements to communicate to the technical implementation team for implementation into Collibra."
+    },
+    {
+      "duty": "Collaborate closely with business stakeholders to ingest and analyze existing data dictionaries, business glossaries, and taxonomies."
+    },
+    {
+      "duty": "Provide guidance in setting the relevant workflows, roles, views, and audit reports within Collibra to support governance of the data inventory development."
+    },
+    {
+      "duty": "Develop data quality metrics and support lineage creation in Collibra."
+    },
+    {
+      "duty": "Define change management and communications plans to effectively drive change."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree"
+    },
+    {
+      "credential": "Data Management Certification (e.g. CDMP or Collibra)"
+    },
+    {
+      "credential": "Working knowledge of federal requirements impacting data"
+    }
+  ]
+}

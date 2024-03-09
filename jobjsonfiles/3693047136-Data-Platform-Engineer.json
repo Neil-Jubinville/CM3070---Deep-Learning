@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Platform Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 135000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Platform Implementation",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Data Platforms (Azure, AWS, Google Cloud)",
+      "experience": 5
+    },
+    {
+      "skill": "Database Technologies (Big Query, Redshift, Vertica, DynamoDB, BigTable, Cosmos DB, SQL Server, Oracle, MySQL)",
+      "experience": 5
+    },
+    {
+      "skill": "Data Pipeline Implementation (Azure Data Factory, Glue ETL, Lambda, Spark, Spark Streaming)",
+      "experience": 5
+    },
+    {
+      "skill": "Data Modeling and Warehouse Design",
+      "experience": 5
+    },
+    {
+      "skill": "Code Repositories and Continuous Integration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead, design, develop, and deliver large-scale data systems, data processing, and data transformation projects"
+    },
+    {
+      "duty": "Automate data platform operations and manage post-production system and processes"
+    },
+    {
+      "duty": "Conduct technical feasibility assessments and provide project estimates for the design and development of the solution"
+    },
+    {
+      "duty": "Provide technical inputs to agile processes, such as epic, story, and task definition"
+    },
+    {
+      "duty": "Creation and maintenance of infrastructure-as-code for cloud, on-prem, and hybrid environments using tools such as Terraform, CloudFormation, Azure Resource Manager, Helm, and Google Cloud Deployment Manager"
+    },
+    {
+      "duty": "Mentor, help, and grow junior team members"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 190,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science, Engineering or related field (Master's preferred)"
+    },
+    {
+      "credential": "Developer certifications for any of the cloud services like AWS, Google Cloud, or Azure"
+    }
+  ]
+}

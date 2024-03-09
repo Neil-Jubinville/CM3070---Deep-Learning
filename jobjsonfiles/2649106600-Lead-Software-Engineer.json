@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Software Engineer",
+      "job_category": "Technology",
+      "job_class": "Lead",
+      "sector": "Software Engineering",
+      "salary": 175000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "System Design",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Django",
+      "experience": 5
+    },
+    {
+      "skill": "Github Integration",
+      "experience": 5
+    },
+    {
+      "skill": "API Construction",
+      "experience": 5
+    },
+    {
+      "skill": "Postgres",
+      "experience": 5
+    },
+    {
+      "skill": "Docker",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "Javascript",
+      "experience": 5
+    },
+    {
+      "skill": "Typescript",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Architect technical solutions on a principal level."
+    },
+    {
+      "duty": "Lead the engineering team and evangelize technical excellence."
+    },
+    {
+      "duty": "Communicate effectively with stakeholders."
+    },
+    {
+      "duty": "Convert product ideas into technical specifications."
+    },
+    {
+      "duty": "Participate in agile ceremonies."
+    },
+    {
+      "duty": "Mentor and coach engineers."
+    },
+    {
+      "duty": "Write high-quality, secure & maintainable code."
+    },
+    {
+      "duty": "Follow best practices for test driven software development."
+    },
+    {
+      "duty": "Keep the code base organized and well-documented."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 0,
+      "student_teacher": 255,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

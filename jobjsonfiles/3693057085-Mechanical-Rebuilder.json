@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Mechanical Rebuilder",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AC/DC motor experience",
+      "experience": 3
+    },
+    {
+      "skill": "Electrical and Mechanical Aptitude",
+      "experience": 4
+    },
+    {
+      "skill": "HVAC Systems Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Multitasking",
+      "experience": 4
+    },
+    {
+      "skill": "Time Management",
+      "experience": 4
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Willingness to Learn New Technologies",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform mechanical rebuilds on rotating equipment such as electric motors, pumps, gearboxes, and fans"
+    },
+    {
+      "duty": "Measure and record data using tables, dial indicators, and micrometers"
+    },
+    {
+      "duty": "Use multi-meters, meggers, Baker instruments, and measure winding resistance and mechanical fits and clearances"
+    },
+    {
+      "duty": "Troubleshoot equipment to diagnose issues and accurately determine necessary repairs"
+    },
+    {
+      "duty": "Lookup and document required parts (OEM)"
+    },
+    {
+      "duty": "Travel to customer sites to perform repairs as necessary"
+    },
+    {
+      "duty": "Maintain a positive, presentable, and professional attitude"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school or equivalent"
+    }
+  ]
+}

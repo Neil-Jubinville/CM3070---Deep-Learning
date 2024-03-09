@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Control Systems Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Chemical and Oil & Gas",
+      "salary": 135000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Control Systems Design",
+      "experience": 10
+    },
+    {
+      "skill": "AllenBradley ControlLogix Programming Studio 5000",
+      "experience": 10
+    },
+    {
+      "skill": "PLC Programming",
+      "experience": 10
+    },
+    {
+      "skill": "DCS, PLC, HMI, and SCADA Systems",
+      "experience": 10
+    },
+    {
+      "skill": "Gas Treatment Facilities",
+      "experience": 10
+    },
+    {
+      "skill": "Industry Standards and Protocols (OPC, Modbus, Profibus)",
+      "experience": 10
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 10
+    },
+    {
+      "skill": "Communication",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, implement, and maintain control systems for industrial processes in the Chemical and Oil & Gas sector."
+    },
+    {
+      "duty": "Ensure the efficiency, safety, and optimization of production processes."
+    },
+    {
+      "duty": "Program and troubleshoot AllenBradley ControlLogix systems and other programming languages such as PLC ladder logic, Function Block Diagrams (FBD), and Structured Text (ST)."
+    },
+    {
+      "duty": "Utilize hands-on experience with DCS, PLC, HMI, and SCADA systems as well as Gas Treatment Facilities."
+    },
+    {
+      "duty": "Analyze and optimize industry standards and protocols such as OPC, Modbus, and Profibus."
+    },
+    {
+      "duty": "Collaborate with multiple stakeholders and work effectively in a team environment."
+    },
+    {
+      "duty": "Convey technical information to non-technical stakeholders."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electrical Engineering, Control Systems Engineering, Chemical Engineering, or a related field (Master's degree preferred)"
+    }
+  ]
+}

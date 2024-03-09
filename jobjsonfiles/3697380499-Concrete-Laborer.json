@@ -1,0 +1,48 @@
+{
+  "meta": [
+    {
+      "job_title": "Concrete Laborer",
+      "job_category": "Construction",
+      "job_class": "Laborer",
+      "sector": "Construction",
+      "salary": 24000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Concrete Work",
+      "experience": 2
+    },
+    {
+      "skill": "PPE Compliance",
+      "experience": 2
+    },
+    {
+      "skill": "Etching",
+      "experience": 1
+    },
+    {
+      "skill": "Painting",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform concrete and construction work according to project requirements."
+    },
+    {
+      "duty": "Comply with all safety guidelines and regulations, including PPE requirements."
+    },
+    {
+      "duty": "Etch floors and paint surfaces as needed to complete projects."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 30,
+      "introvert_extrovert": 40
+    }
+  ]
+}

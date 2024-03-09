@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "Security Specialist",
+      "job_category": "Engineering",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 125000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Go Programming",
+      "experience": 3
+    },
+    {
+      "skill": "Javascript",
+      "experience": 3
+    },
+    {
+      "skill": "Python",
+      "experience": 3
+    },
+    {
+      "skill": "Splunk",
+      "experience": 3
+    },
+    {
+      "skill": "Bug Bounty",
+      "experience": 3
+    },
+    {
+      "skill": "SCA",
+      "experience": 3
+    },
+    {
+      "skill": "GitHub",
+      "experience": 3
+    },
+    {
+      "skill": "Jira",
+      "experience": 3
+    },
+    {
+      "skill": "Web Debugging",
+      "experience": 3
+    },
+    {
+      "skill": "Mobile Debugging",
+      "experience": 3
+    }
+  ]
+}

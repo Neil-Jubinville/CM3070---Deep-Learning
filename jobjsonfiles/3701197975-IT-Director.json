@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Director",
+      "job_category": "IT",
+      "job_class": "Director",
+      "sector": "Healthcare",
+      "salary": 130000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "IT Management",
+      "experience": 6
+    },
+    {
+      "skill": "On-prem Servers",
+      "experience": 6
+    },
+    {
+      "skill": "Cloud Migration",
+      "experience": 6
+    },
+    {
+      "skill": "Computer and Device Hardware",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage hardware, compliance, and cloud migration for 24 locations in a healthcare group."
+    },
+    {
+      "duty": "Handle asset management and ensuring compliance with industry standards."
+    },
+    {
+      "duty": "Collaborate with industry professionals and manage a team in the technology sector."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in IT Management or related field (Master's preferred)"
+    }
+  ]
+}

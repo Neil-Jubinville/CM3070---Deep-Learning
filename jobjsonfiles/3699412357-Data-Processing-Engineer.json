@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Processing Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 180000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cloud Infrastructure Design",
+      "experience": 6
+    },
+    {
+      "skill": "Infrastructure Provisioning",
+      "experience": 6
+    },
+    {
+      "skill": "SDK and Backend Development",
+      "experience": 6
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 6
+    },
+    {
+      "skill": "Big Data Pipelines",
+      "experience": 6
+    },
+    {
+      "skill": "Python Multithreading",
+      "experience": 6
+    },
+    {
+      "skill": "Docker and Containerization",
+      "experience": 6
+    },
+    {
+      "skill": "Micro-services and REST APIs",
+      "experience": 6
+    },
+    {
+      "skill": "RDBMS and NoSQL Databases",
+      "experience": 6
+    },
+    {
+      "skill": "Large Language Model Techniques",
+      "experience": 6
+    },
+    {
+      "skill": "Interpersonal and Communication Skills",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and Engineering cloud infrastructure with effective computing and storage resources and efficient networking topology that meets enterprise security compliance."
+    },
+    {
+      "duty": "Build and develop an effective and maintainable toolkit for infrastructure provision and management on public cloud like AWS."
+    },
+    {
+      "duty": "Design and develop SDK and backend services for emerging data capabilities."
+    },
+    {
+      "duty": "Collaborate with clients, architects, product management, and work with an engineering-focused, iterative team to build and establish product requirements."
+    },
+    {
+      "duty": "Write and review technical documents, including requirements and design documents for existing and continuously evolving features of the Sensei platform."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 100,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "MS/PhD in Computer Science or a related field"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Quality and Reliability Engineer (Hardware)",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 76000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Quality Testing",
+      "experience": 3
+    },
+    {
+      "skill": "CAPA",
+      "experience": 3
+    },
+    {
+      "skill": "Six-Sigma",
+      "experience": 3
+    },
+    {
+      "skill": "MTBF Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Reliability Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Failure Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Statistical Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Root Cause Analysis",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Analysis of field failures to identify product quality and reliability risks"
+    },
+    {
+      "duty": "Issue prioritization based on replacement and error rate KPIs in Tableau"
+    },
+    {
+      "duty": "Root cause and corrective action through the CAPA process \u2013 measured by time to completion and repeat issue metric"
+    },
+    {
+      "duty": "Risk Assessments- potential failure modes identified and ranked according to occurrence rate and severity"
+    },
+    {
+      "duty": "Usage Profiles quantifying daily use statistics for robotic automation products"
+    },
+    {
+      "duty": "Reliability Assessments- MTBF models, reliability predictions"
+    },
+    {
+      "duty": "Reliability Test Plans, test execution, and reports- measured by improvement in predicted reliability"
+    },
+    {
+      "duty": "Prevention of repeat issues from the field on new products- measured by bounce metric"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS in Mechanical or Electrical Engineering with a strong statistical background"
+    }
+  ]
+}

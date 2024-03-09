@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Retail Store Crew",
+      "job_category": "Retail",
+      "job_class": "Crew",
+      "sector": "Retail",
+      "salary": 27000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cash Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Retail Operations",
+      "experience": 1
+    },
+    {
+      "skill": "Foodservice Safety",
+      "experience": 1
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Promotions",
+      "experience": 1
+    },
+    {
+      "skill": "Multi-tasking",
+      "experience": 1
+    },
+    {
+      "skill": "Health Code Compliance",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Cash handling, fuel transactions, cleaning, and stocking"
+    },
+    {
+      "duty": "Food prep and foodservice safety for foodservice positions"
+    },
+    {
+      "duty": "Ensure proper food preparation and presentation, including coffee making"
+    },
+    {
+      "duty": "Promoting and handling rewards loyalty program"
+    },
+    {
+      "duty": "Maintaining a clean and safe environment for customers"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

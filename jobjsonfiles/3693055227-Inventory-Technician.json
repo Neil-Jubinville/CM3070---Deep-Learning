@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Inventory Technician",
+      "job_category": "Logistics",
+      "job_class": "Technician",
+      "sector": "Manufacturing",
+      "salary": 19000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain regular and accurate inventory counts, performing checks of actual inventory against electronic records"
+    },
+    {
+      "duty": "Verify, organize, label, and sort inventory items in stockroom"
+    },
+    {
+      "duty": "Uses inventory module of ERP software to keep track of orders, returns, and supply"
+    },
+    {
+      "duty": "Perform weighing & counting operations with electronic scale"
+    },
+    {
+      "duty": "Package & prepare product for shipment"
+    },
+    {
+      "duty": "Maintain a clean and organized stockroom"
+    },
+    {
+      "duty": "Maintain inventory tools and related equipment"
+    },
+    {
+      "duty": "Perform additional tasks as directed by supervisor"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "ERP Software",
+      "experience": 3
+    },
+    {
+      "skill": "Electronic Scale Operations",
+      "experience": 2
+    },
+    {
+      "skill": "Stockroom Organization",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Mathematical Calculations",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Functions for Data Collection",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 90,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent (Associate's degree preferred)"
+    }
+  ]
+}

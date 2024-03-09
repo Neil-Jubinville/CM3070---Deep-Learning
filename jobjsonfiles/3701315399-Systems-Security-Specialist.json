@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Systems Security Specialist",
+      "job_category": "IT",
+      "job_class": "Specialist",
+      "sector": "IT",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Infrastructure/Network Security",
+      "experience": 6
+    },
+    {
+      "skill": "Microsoft Defender for Endpoint",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Endpoint Manager",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Active Directory",
+      "experience": 2
+    },
+    {
+      "skill": "Security Services Administration",
+      "experience": 2
+    },
+    {
+      "skill": "Automated Software Deployment",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement and configure endpoint protection measures commonly referred to as AV, EDR, XDR, and Firewall, as directed by the client."
+    },
+    {
+      "duty": "Monitor and measure enrollment and deployment status for endpoint components, as directed by the client."
+    },
+    {
+      "duty": "Assist with monitoring of endpoint encryption status (BitLocker and BitLocker To Go), as directed by the client."
+    },
+    {
+      "duty": "Perform regular health monitoring, agent updates, antivirus updates, attack surface reduction, policies and configuration review, as directed by the client."
+    },
+    {
+      "duty": "Schedule tasks within approved maintenance windows, in a layered approach, and represent the Security Administration Team in the applicable Change Management processes, as directed by the client."
+    },
+    {
+      "duty": "Ensure the Security Analyst for Security Administration Team completes the following: Security analytics implementation, configuration, and monitoring using Microsoft Defender technologies in Office 365, Identity and Cloud, as directed by the client."
+    },
+    {
+      "duty": "Perform investigation and response to security events and incidents primarily originating from endpoint events, as directed by the client."
+    },
+    {
+      "duty": "Provide technical expertise to users, management, vendors, and peers for issues involving other client business offices and vendors, as directed by the client."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field (Master's preferred)"
+    }
+  ]
+}

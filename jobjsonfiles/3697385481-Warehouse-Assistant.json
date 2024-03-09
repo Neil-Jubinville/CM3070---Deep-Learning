@@ -1,0 +1,47 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Assistant",
+      "job_category": "Logistics",
+      "job_class": "Assistant",
+      "sector": "Warehousing",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Material Handling",
+      "experience": 3
+    },
+    {
+      "skill": "Warehouse Organization",
+      "experience": 3
+    },
+    {
+      "skill": "KanBan System",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform Cycle Counts on a Daily basis as instructed by the Inventory Coordinator"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

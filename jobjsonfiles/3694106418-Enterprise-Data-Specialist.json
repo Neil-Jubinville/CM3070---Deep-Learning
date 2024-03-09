@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Enterprise Data Specialist",
+      "job_category": "Data Specialist",
+      "job_class": "Specialist",
+      "sector": "Data Management",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Collection",
+      "experience": 5
+    },
+    {
+      "skill": "Data Processing",
+      "experience": 5
+    },
+    {
+      "skill": "Data Integration",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "ETL Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Business Intelligence",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Services (AWS, Azure, GCP)",
+      "experience": 5
+    },
+    {
+      "skill": "Relational Databases",
+      "experience": 5
+    },
+    {
+      "skill": "SIS Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Contribute to project plans for enhancing data collection, processing, scheduling, onboarding, and managing relationships with school IT departments."
+    },
+    {
+      "duty": "Work closely with Academics & Compliance and Customer Success team to execute essential data collection and data processing functions."
+    },
+    {
+      "duty": "Provide school data integration support by writing, customizing, and testing ETL tools for specific schools."
+    },
+    {
+      "duty": "Maintain documentation on customer data integrations and review and clean data sets submitted by school IT departments for quality."
+    },
+    {
+      "duty": "Actively communicate with school IT departments regarding data formats, data issues, data deadlines, etc."
+    },
+    {
+      "duty": "Be the data lead on sales calls with prospective school and district partners."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS in Computer Science, Information Systems, Statistics, or another relevant field (Master's preferred)"
+    }
+  ]
+}

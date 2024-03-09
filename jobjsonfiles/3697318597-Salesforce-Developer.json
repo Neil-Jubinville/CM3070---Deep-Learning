@@ -1,0 +1,149 @@
+{
+  "meta": [
+    {
+      "job_title": "Salesforce Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Sales",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Salesforce Development",
+      "experience": 8
+    },
+    {
+      "skill": "API Integration",
+      "experience": 8
+    },
+    {
+      "skill": "REST",
+      "experience": 8
+    },
+    {
+      "skill": "SOAP",
+      "experience": 8
+    },
+    {
+      "skill": "Lightning Components",
+      "experience": 8
+    },
+    {
+      "skill": "SOQL",
+      "experience": 8
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 8
+    },
+    {
+      "skill": "HTML",
+      "experience": 8
+    },
+    {
+      "skill": "Apex",
+      "experience": 8
+    },
+    {
+      "skill": "CSS",
+      "experience": 8
+    },
+    {
+      "skill": "Java",
+      "experience": 8
+    },
+    {
+      "skill": "Agile/Scrum",
+      "experience": 8
+    },
+    {
+      "skill": "Continuous Integration",
+      "experience": 8
+    },
+    {
+      "skill": "Continuous Delivery",
+      "experience": 8
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 8
+    },
+    {
+      "skill": "Verbal/Written Communication",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, build, test, and maintain reusable Lightning Components on Salesforce.com."
+    },
+    {
+      "duty": "Build integrations between Salesforce and external applications using REST, SOAP APIs, Auth, and Single Sign-On."
+    },
+    {
+      "duty": "Work with customers to elicit and analyze their requirements, develop designs, and implement solutions."
+    },
+    {
+      "duty": "Present prototypes/demos to business users as required."
+    },
+    {
+      "duty": "Effectively debug and resolve technical issues and/or defects."
+    },
+    {
+      "duty": "Configure out-of-the-box lightning functionalities on Sales Cloud and Community Cloud."
+    },
+    {
+      "duty": "Support the Salesforce platform operations (SSO, Email Relay, Mobile, etc.) by working with various teams."
+    },
+    {
+      "duty": "Hands-on development experience in programming languages such as SOQL, JavaScript, HTML, Apex, CSS, and Java."
+    },
+    {
+      "duty": "Utilize methodologies such as SOAP, REST, Webservices, XML, JMS, and SOA/Integration technologies."
+    },
+    {
+      "duty": "Demonstrate strong attention to detail, organization skills, and excellent problem-solving skills."
+    },
+    {
+      "duty": "Handle multiple competing priorities in a fast-paced, deadline-driven environment."
+    },
+    {
+      "duty": "Negotiate skillfully in tough situations with internal and external groups; can be both direct and diplomatic."
+    },
+    {
+      "duty": "Encourage cross-functional collaboration and work in an Agile/Scrum environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS or MS in Computer Science or equivalent experience."
+    },
+    {
+      "credential": "Certified Salesforce Platform Developer or equivalent experience."
+    },
+    {
+      "credential": "Experience in configuring out-of-the-box lightning functionalities on Sales Cloud and Community Cloud."
+    },
+    {
+      "credential": "Sales and Community Cloud implementation experience using Live Agent, Omni Channel, CTI Adapters, and API Integrations."
+    },
+    {
+      "credential": "Development experience using Visualforce, APEX, triggers, Classes, Lightning API, Workflows, Object Mapping, and SOQL."
+    },
+    {
+      "credential": "Experience with software deployment, GitHub, Continuous Integration (CI), and Continuous Delivery (CD) concepts, applications, and tools highly preferred."
+    },
+    {
+      "credential": "Experience working in an Agile/Scrum environment."
+    }
+  ]
+}

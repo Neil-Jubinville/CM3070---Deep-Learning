@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Critical Care Nursing",
+      "experience": 3
+    },
+    {
+      "skill": "Medical/Surgical Nursing",
+      "experience": 5
+    },
+    {
+      "skill": "Utilization/Case Management",
+      "experience": 3
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Work Independently",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist the hospital health care team in maintaining quality, efficiency, and patient-centered care."
+    },
+    {
+      "duty": "Conduct admission and concurrent reviews, identifying patients who do not meet criteria and taking action to ensure the patient is placed in the most appropriate alternative level of care."
+    },
+    {
+      "duty": "Determine the correct admission status and level of care for those patients who meet hospital admission criteria (ambulatory surgery, observation, and inpatient)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Registered Nurse (RN) with current Florida license"
+    }
+  ]
+}

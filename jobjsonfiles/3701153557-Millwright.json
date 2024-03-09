@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Millwright",
+      "job_category": "Industrial Maintenance",
+      "job_class": "Maintenance",
+      "sector": "Manufacturing",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Industrial Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Management",
+      "experience": 5
+    },
+    {
+      "skill": "Heavy Industry Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Construction Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Welding Procedures",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Reliability",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintenance, repair, installation, & modification of all sawmill related equipment to maximize safety, uptime, quality, and productivity."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 50,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Mechatronics Certificate (Asset)"
+    },
+    {
+      "credential": "Lumber Manufacturing Process Knowledge (Asset)"
+    }
+  ]
+}

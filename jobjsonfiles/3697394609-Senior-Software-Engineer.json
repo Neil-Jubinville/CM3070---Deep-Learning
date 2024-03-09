@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer",
+      "job_category": "Engineering",
+      "job_class": "Senior Engineer",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "NodeJS",
+      "experience": 6
+    },
+    {
+      "skill": "Cloud-Based Web and Mobile Applications",
+      "experience": 6
+    },
+    {
+      "skill": "JavaScript Frameworks (e.g. React)",
+      "experience": 6
+    },
+    {
+      "skill": "SQL and Relational Databases",
+      "experience": 6
+    },
+    {
+      "skill": "Heroku",
+      "experience": 6
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 6
+    },
+    {
+      "skill": "Agile Practices",
+      "experience": 6
+    },
+    {
+      "skill": "System Design and Algorithms",
+      "experience": 6
+    },
+    {
+      "skill": "Web API Design",
+      "experience": 6
+    },
+    {
+      "skill": "Salesforce Platform",
+      "experience": 6
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 6
+    },
+    {
+      "skill": "Leadership and Mentoring",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and deploy frontend and backend services with a focus on high availability, low latency, and scalability."
+    },
+    {
+      "duty": "Lead and exhibit expert technical problem-solving and debugging skills."
+    },
+    {
+      "duty": "Anticipate and adapt to a changing business environment and requirements."
+    },
+    {
+      "duty": "Collaborate and communicate with Stakeholders, Product Owners, Quality Assurance, and other teams in an agile work environment."
+    },
+    {
+      "duty": "Mentor junior and mid-level engineers by providing advice, coaching, and educational opportunities to grow their technical skills."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in Computer Science or Computer Engineering from an accredited college or university or equivalent work experience."
+    }
+  ]
+}

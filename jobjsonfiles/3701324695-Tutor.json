@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Tutor",
+      "job_category": "Education",
+      "job_class": "Educator",
+      "sector": "Teaching",
+      "salary": 15,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Teaching",
+      "experience": 3
+    },
+    {
+      "skill": "Lesson Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Student Engagement",
+      "experience": 3
+    },
+    {
+      "skill": "Subject Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Special Education",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide one-on-one tutoring to students in English, Math, Science, Elementary, Special Education, Reading Literacy, and Subject-specific areas."
+    },
+    {
+      "duty": "Assist students in developing study skills and positive learning habits."
+    },
+    {
+      "duty": "Work directly with students to help them achieve success in school."
+    },
+    {
+      "duty": "Adhere to the center's schedule and tutoring requirements."
+    },
+    {
+      "duty": "Utilize instructional methods to engage and motivate students in learning."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Education or related field (Teaching certification required for work with elementary and middle school students)"
+    }
+  ]
+}

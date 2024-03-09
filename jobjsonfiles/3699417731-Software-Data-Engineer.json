@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Software/Data Engineer",
+      "job_category": "Engineering",
+      "job_class": "Entry Level",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 2
+    },
+    {
+      "skill": "ETL",
+      "experience": 2
+    },
+    {
+      "skill": "SQL",
+      "experience": 2
+    },
+    {
+      "skill": "RESTful microservice architecture",
+      "experience": 2
+    },
+    {
+      "skill": "Cloud Infrastructure",
+      "experience": 2
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 2
+    },
+    {
+      "skill": "Linux Operating System",
+      "experience": 2
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Networking",
+      "experience": 2
+    },
+    {
+      "skill": "Debugging",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop external-facing Python web applications using RESTful microservice architecture and web application frameworks such as Flask"
+    },
+    {
+      "duty": "Build and expand ETL batch and streaming pipelining practices using tools such as Airflow"
+    },
+    {
+      "duty": "Manage and secure enterprise databases systems, data warehouses & Databricks workspaces"
+    },
+    {
+      "duty": "Collaborate with Data Scientists & Underwriters to understand business use-cases"
+    },
+    {
+      "duty": "Engage in the Agile methodology and work collaboratively in sprints"
+    },
+    {
+      "duty": "Support in active debugging and fixing bugs"
+    },
+    {
+      "duty": "Read and write technical documentation"
+    },
+    {
+      "duty": "Keep updated on the latest software/data stack in the industry"
+    },
+    {
+      "duty": "Learn about other areas of engineering tools and techniques such as Infrastructure-as-Code (IaC), web app development, container orchestration, CI/CD pipeline design & web application security"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 90,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Undergraduate degree (major/minor) or higher in Computer Science, Engineering, Physics, Bioinformatics \u2013 or equivalent program"
+    }
+  ]
+}

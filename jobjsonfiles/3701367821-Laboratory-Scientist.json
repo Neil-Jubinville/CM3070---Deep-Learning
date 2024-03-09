@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Laboratory Scientist",
+      "job_category": "Science",
+      "job_class": "Specialist",
+      "sector": "Science",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Laboratory Experimentation",
+      "experience": 5
+    },
+    {
+      "skill": "GLP Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Laboratory Equipment Management",
+      "experience": 5
+    },
+    {
+      "skill": "Experimental Design",
+      "experience": 5
+    },
+    {
+      "skill": "Sample Preparation",
+      "experience": 5
+    },
+    {
+      "skill": "Data Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Scientific Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and execute laboratory experiments in compliance with Good Laboratory Practices (GLP) and customer requirements."
+    },
+    {
+      "duty": "Setup, design, and conduct experiments, while managing laboratory equipment and following protocols."
+    },
+    {
+      "duty": "Evaluate the success of laboratory tests and recommend next steps based on findings."
+    },
+    {
+      "duty": "Perform routine qualitative and quantitative laboratory procedures under minimal supervision, following safety protocols and GLP."
+    },
+    {
+      "duty": "Analyze and report laboratory test results in a timely manner to contribute to scientific meetings and project outcomes."
+    },
+    {
+      "duty": "Accurately document all laboratory procedures following customer requirements and SOPs."
+    },
+    {
+      "duty": "Manage responsibilities while following scientific direction, prioritizing tasks, and meeting deadlines."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "PhD in applied/laboratory sciences preferred; Masters with 3-5 years of direct laboratory experience or Undergraduate degree with 5-7 years of direct laboratory experience also considered."
+    }
+  ]
+}

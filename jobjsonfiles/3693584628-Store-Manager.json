@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Store Manager",
+      "job_category": "Retail",
+      "job_class": "Manager",
+      "sector": "Retail",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Retail Management",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Leadership",
+      "experience": 4
+    },
+    {
+      "skill": "Team Building",
+      "experience": 4
+    },
+    {
+      "skill": "Sales",
+      "experience": 4
+    },
+    {
+      "skill": "Community Integration",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage store operations, drive financial success, build and lead great teams, and create a meeting place in the community."
+    },
+    {
+      "duty": "Nurture talent, engage and develop team skills, and become a dynamic brand ambassador dedicated to driving and achieving results through the team."
+    },
+    {
+      "duty": "Integrate the business with the community to create better moments in peoples\u2019 lives, from partners to customers, communities, and the planet."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or GED"
+    }
+  ]
+}

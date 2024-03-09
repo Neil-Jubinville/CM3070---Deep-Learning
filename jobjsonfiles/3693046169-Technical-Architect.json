@@ -1,0 +1,104 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Architect",
+      "job_category": "Technology",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 133500,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Solution Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Business Object Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Application Services Design",
+      "experience": 5
+    },
+    {
+      "skill": "Code Quality Management",
+      "experience": 5
+    },
+    {
+      "skill": "Continuous Integration & Deployment (CI/CD)",
+      "experience": 5
+    },
+    {
+      "skill": "Data Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Framework Design",
+      "experience": 5
+    },
+    {
+      "skill": "Code Review",
+      "experience": 5
+    },
+    {
+      "skill": "Performance and Security Architecture",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide architectural blueprints, diagrams, and technical leadership to the Development team."
+    },
+    {
+      "duty": "Work closely with the business to identify solution requirements, key case-studies/scenarios, and documentation."
+    },
+    {
+      "duty": "Lead the design of business object models, application business objects, business services, implementation frameworks, and application services."
+    },
+    {
+      "duty": "Determine the most appropriate architecture and application partitioning to achieve performance, security, SEO checklist, extensibility, reusability, and scalability requirements."
+    },
+    {
+      "duty": "Communicate effectively with customers, project managers, product owners, and development team members to facilitate understanding of deliverables, estimates, and prioritization."
+    },
+    {
+      "duty": "Lead and mentor teams, ensuring standards and best practices for code quality are followed during project execution."
+    },
+    {
+      "duty": "Drive hands-on delivery of critical business initiatives for clients, project planning, requirements gathering, risk management, communication, and implementation planning."
+    },
+    {
+      "duty": "Perform peer code reviews, create high/low level technical architecture and design related documents."
+    },
+    {
+      "duty": "Ensure best practices, coding standards, and guidelines are agreed upon during project initiation and followed on an ongoing basis."
+    },
+    {
+      "duty": "Follow Continuous Integration & Deployment (CI/CD) processes for code migration, conducting code reviews as per project guidelines."
+    },
+    {
+      "duty": "Follow the solution\u2019s technical framework and design during implementation, be it coding or bug fixing."
+    },
+    {
+      "duty": "Perform Proof of Concept (POC) and discovery work for new data integrations, monitor, troubleshoot, and recover failed data related jobs in a timely manner."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science, Information Technology, CIS, MIS, Engineering (Any), or related field, 5 years of experience in Technical Architecture role"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "meta": [
+    {
+      "job_title": "PC Technician",
+      "job_category": "Hardware",
+      "job_class": "Technician",
+      "sector": "Information Technology",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide technical support to end users and own hardware break-fix, set-up and deployment in a large enterprise environment."
+    },
+    {
+      "duty": "Troubleshooting, provisioning, and decommissioning of various devices such as laptops, desktops, mobile phones, and tablets."
+    },
+    {
+      "duty": "Managing asset and parts inventory program in InTune, MDM, SCCM."
+    },
+    {
+      "duty": "Shipping and receiving technology assets."
+    },
+    {
+      "duty": "Following hardware lifecycle program for technology assets and parts."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Support",
+      "experience": 3
+    },
+    {
+      "skill": "Hardware Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    }
+  ]
+}

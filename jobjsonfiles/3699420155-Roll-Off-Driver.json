@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Roll-Off Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Transportation",
+      "salary": 52000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CDL Driver",
+      "experience": 3
+    },
+    {
+      "skill": "Route Management",
+      "experience": 3
+    },
+    {
+      "skill": "Vehicle Inspection",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Interaction",
+      "experience": 3
+    },
+    {
+      "skill": "Logbook Management",
+      "experience": 3
+    },
+    {
+      "skill": "GPS Navigation",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Drive a roll-off truck along designated routes to mechanically collect, exchange, or deliver containers and transport to post-collection facilities."
+    },
+    {
+      "duty": "Perform daily pre- and post-trip inspections; complete and submit vehicle condition reports at the end of the shift."
+    },
+    {
+      "duty": "Courteously interact with customers and the general public along the route to answer questions or respond to requests."
+    },
+    {
+      "duty": "Maintain and submit a DOT logbook, daily route/productivity sheet, and vehicle condition report as required by law or company policy."
+    },
+    {
+      "duty": "Use key map and GPS to locate service addresses, follow safe operating practices, and ensure proper operation of the truck."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or general education degree (GED) desired."
+    },
+    {
+      "credential": "Commercial Driver's License"
+    },
+    {
+      "credential": "Minimum one (1) year of commercial driving experience OR CDL school certificate"
+    }
+  ]
+}

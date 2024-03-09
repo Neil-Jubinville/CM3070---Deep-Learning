@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Associate",
+      "job_category": "Warehousing",
+      "job_class": "Associate",
+      "sector": "Logistics",
+      "salary": 36000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Order Picking",
+      "experience": 2
+    },
+    {
+      "skill": "Retail Operations",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Warehouse Organization",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Pick and pack orders that come through the app, ensuring accuracy and timeliness."
+    },
+    {
+      "duty": "Stock receivables and manage inventory, including shelf life and spoilage management."
+    },
+    {
+      "duty": "Clean and organize the warehouse to ensure an efficient and safe work environment."
+    },
+    {
+      "duty": "Ensure customer satisfaction by approving substitutions and addressing any issues with orders."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED equivalent"
+    }
+  ]
+}

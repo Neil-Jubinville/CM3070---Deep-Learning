@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Enterprise Architect",
+      "job_category": "Technology",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 160000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Enterprise Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Solution Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "eCommerce Strategy",
+      "experience": 5
+    },
+    {
+      "skill": "Technology Solutions Delivery",
+      "experience": 5
+    },
+    {
+      "skill": "Business Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Technology Roadmapping",
+      "experience": 5
+    },
+    {
+      "skill": "Application Modernization",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Delivery Methods",
+      "experience": 3
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Matrixed Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Define and implement Direct-to-Consumer (DTC), e-commerce, MarTech and/or CRM strategies."
+    },
+    {
+      "duty": "Build digital eCommerce portals using modern technologies such as React, MicroServices, serverless apps, headless content, etc."
+    },
+    {
+      "duty": "Deliver complex technology solutions addressing business issues within a large shared services IT organization."
+    },
+    {
+      "duty": "Interface with and influence decisions of direct reports to the C-Suite of large organizations."
+    },
+    {
+      "duty": "Communicate technology matters to business partners, senior executives, and strategic partners."
+    },
+    {
+      "duty": "Work with the business to develop business cases including technology estimates for competing solution alternatives."
+    },
+    {
+      "duty": "Create business-enabling technology roadmaps aligned closely with business leadership."
+    },
+    {
+      "duty": "Introduce new/emerging technology to disrupt business models."
+    },
+    {
+      "duty": "Lead architecture solutions that leverage modern software engineering, including implementation of Event Driven Architecture, or Microservice patterns both on-prem and in the public cloud (Azure, AWS, and/or GCP)."
+    },
+    {
+      "duty": "Work with matrixed and/or global teams to solution and implement technology strategies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certifications in TOGAF, Cloud, or Agile"
+    },
+    {
+      "credential": "Bachelor's degree in Software Engineering, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

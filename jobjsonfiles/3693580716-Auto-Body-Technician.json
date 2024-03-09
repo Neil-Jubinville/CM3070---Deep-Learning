@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Auto Body Technician",
+      "job_category": "Skilled Trades",
+      "job_class": "Technician",
+      "sector": "Automotive",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Auto Body Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Collision Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Vehicle Disassembly",
+      "experience": 5
+    },
+    {
+      "skill": "OEM Repair Standards",
+      "experience": 5
+    },
+    {
+      "skill": "I-CAR Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Participate in developing a proper repair plan for each vehicle"
+    },
+    {
+      "duty": "Thoroughly disassemble, repair, and reassemble each vehicle"
+    },
+    {
+      "duty": "Repair collision damaged vehicles according to OEM specifications and company standards, including Alldata, I-CAR, and the WOW Operating Way"
+    },
+    {
+      "duty": "Attend/collaborate with team during daily production meetings"
+    },
+    {
+      "duty": "Stay up to date with required I-Car and Company Safety Training"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "2-5+ years of collision repair experience minimum required"
+    },
+    {
+      "credential": "Ability to demonstrate and properly complete light to heavy repairs"
+    },
+    {
+      "credential": "I-CAR or ASE Certifications are a bonus"
+    }
+  ]
+}

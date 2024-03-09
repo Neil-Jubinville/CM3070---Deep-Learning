@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Computer Hardware Technician",
+      "job_category": "Information Technology",
+      "job_class": "Technician",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assemble, test, and perform software loads on Hewlett Packard (HP) computer workstations/systems."
+    },
+    {
+      "duty": "Diagnose, troubleshoot, and repair computer systems while maintaining parts and component inventories to support customer requirements."
+    },
+    {
+      "duty": "Perform final assembly of computer systems and configure application software for customer delivery."
+    },
+    {
+      "duty": "Test, repair, and maintain hardware inventory, identifying, verifying, and documenting all hardware issues."
+    },
+    {
+      "duty": "Perform shipping and receiving functions of systems and parts as required."
+    },
+    {
+      "duty": "Manage parts inventory life cycle processes, including inventory management records, parts return process, and inventory reporting."
+    },
+    {
+      "duty": "Administer Customer Service Knowledge Management processes and tools, identifying, verifying, and documenting build, repair, configuration, and testing processes."
+    },
+    {
+      "duty": "Provide technical expertise to customer support personnel as needed."
+    },
+    {
+      "duty": "Able to lift boxes up to 70lbs."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Computer Hardware Repair",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Expertise",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office Applications",
+      "experience": 3
+    },
+    {
+      "skill": "Hardware Troubleshooting",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma required. Related experience in computer hardware repair or assembly."
+    },
+    {
+      "credential": "Working knowledge of PC hardware components and Windows OS (Windows 10). Computer certifications a plus (e.g., CompTIA A+, MCSA, MCSE, etc.)."
+    }
+  ],
+  "salary": 50000
+}

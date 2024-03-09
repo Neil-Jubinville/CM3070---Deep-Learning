@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "job_title": "Porter",
+      "job_category": "Hospitality",
+      "job_class": "Porter",
+      "sector": "Hospitality",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Keep the venue clean, organized, and in tip-top shape to ensure a high level of hospitality for guests."
+    },
+    {
+      "duty": "Engage with guests to make them feel welcome and support teammates to ensure guest care."
+    },
+    {
+      "duty": "Adhere to safety, health, and environmental policies and procedures to maintain a safe and healthy environment for guests and team members."
+    },
+    {
+      "duty": "Monitor the use and inventory of maintenance supplies and equipment to ensure availability for venue upkeep."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Housekeeping",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Venue Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 90,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": []
+}

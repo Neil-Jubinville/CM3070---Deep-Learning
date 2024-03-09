@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Loan Officer",
+      "job_category": "Finance",
+      "job_class": "Officer",
+      "sector": "Finance",
+      "salary": 80000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Generating new mortgage loan applications through self-driven marketing and customer prospecting."
+    },
+    {
+      "duty": "Evaluating borrower financial information and creditworthiness to determine eligibility for loans."
+    },
+    {
+      "duty": "Advising borrowers on available loan products and assisting in the selection of the most suitable option."
+    },
+    {
+      "duty": "Guiding borrowers through the loan application process, ensuring compliance with regulatory requirements and internal policies."
+    },
+    {
+      "duty": "Maintaining contact with borrowers and providing support throughout the loan approval and closing process."
+    },
+    {
+      "duty": "Working independently to generate loan business and meet sales targets."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Loan Processing",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 70,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Finance, Business, or a related field (Mortgage License required)"
+    },
+    {
+      "credential": "Mortgage Loan Officer License (NMLS License)"
+    }
+  ]
+}

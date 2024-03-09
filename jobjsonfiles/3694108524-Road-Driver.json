@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Road Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Logistics",
+      "salary": 58000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tractor/Trailer Experience",
+      "experience": 1
+    },
+    {
+      "skill": "Class-A CDL",
+      "experience": 1
+    },
+    {
+      "skill": "Driving Record",
+      "experience": 1
+    },
+    {
+      "skill": "DOT Requirements",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Pickup and delivery of cargo trailers to and from various long-distance destinations"
+    },
+    {
+      "duty": "Coupling and uncoupling trailers from one another and from the tractor"
+    },
+    {
+      "duty": "Driving for an extended period of time"
+    },
+    {
+      "duty": "Performing various tasks like check-in, tractor/trailer inspection, tractor set up, and cargo pickup and delivery"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 20,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum 21 years of age"
+    }
+  ]
+}

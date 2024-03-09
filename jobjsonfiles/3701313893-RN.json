@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "RN",
+      "job_category": "Nursing",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ICU RN Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Associate's Degree in Nursing",
+      "experience": 0
+    },
+    {
+      "skill": "BSN",
+      "experience": 5
+    },
+    {
+      "skill": "RN License",
+      "experience": 5
+    },
+    {
+      "skill": "Basic Life Support (BLS)",
+      "experience": 5
+    },
+    {
+      "skill": "ACLS",
+      "experience": 4
+    },
+    {
+      "skill": "PALS or ENPC",
+      "experience": 4
+    },
+    {
+      "skill": "NIHSS",
+      "experience": 4
+    },
+    {
+      "skill": "TNCC or TCAR",
+      "experience": 4
+    },
+    {
+      "skill": "ANCC Certification",
+      "experience": 4
+    },
+    {
+      "skill": "Specialty Area Nursing Certification",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assume responsibility and accountability for facilitating, communicating, and collaborating with both the healthcare team, and the patient/family to identify and meet the physical, emotional, and spiritual needs of the patient."
+    },
+    {
+      "duty": "Promote the optimal health, well-being and safety of the patient through use of the nursing process and in accordance with patient care standards, guidelines and the State Nurse Practice Act."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's Degree in Nursing required, BSN preferred. RN License to practice in the applicable state, with certifications such as BLS, ACLS, PALS or ENPC, NIHSS, TNCC or TCAR, ANCC Certification, and Specialty Area Nursing Certification within a six-month timeline."
+    }
+  ]
+}

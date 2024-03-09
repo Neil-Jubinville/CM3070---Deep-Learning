@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Duties",
+      "experience": 1
+    },
+    {
+      "skill": "Clerical Duties",
+      "experience": 1
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 1
+    },
+    {
+      "skill": "Electronic Medical Record (EMR)",
+      "experience": 1
+    },
+    {
+      "skill": "Outpatient Pediatric Practice",
+      "experience": 1
+    },
+    {
+      "skill": "Physician Practice Experience",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Assisting",
+      "experience": 1
+    },
+    {
+      "skill": "CPR Certification",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform clinical and clerical duties within the outpatient pediatric practice setting, under the supervision of the provider and practice manager/supervisor."
+    },
+    {
+      "duty": "Assist in the preparation and delivery of ambulatory patient care as directed by licensed clinical personnel."
+    },
+    {
+      "duty": "Assist with the overall management of daily patient flow, including greeting patients, scheduling appointments, managing phone calls, and patient check-out procedures."
+    },
+    {
+      "duty": "Enter patient encounters into an electronic medical record (EMR) with data entry skills."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100
+    },
+    {
+      "student_teacher": 80
+    },
+    {
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited school of medical assisting or a current national MA certification. Minimum 1-year experience in outpatient pediatric practice/clinic or equivalent family practice outpatient physician practice experience. Current CPR certification required."
+    }
+  ]
+}

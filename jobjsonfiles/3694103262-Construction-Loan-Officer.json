@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Construction Loan Officer",
+      "job_category": "Banking",
+      "job_class": "Officer",
+      "sector": "Finance",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Loan Origination",
+      "experience": 4
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Credit Analysis",
+      "experience": 4
+    },
+    {
+      "skill": "Risk Assessment",
+      "experience": 4
+    },
+    {
+      "skill": "Sales and Marketing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Generate leads and maintain a pipeline of construction loan opportunities."
+    },
+    {
+      "duty": "Evaluate and analyze loan applications, financial statements, and credit history."
+    },
+    {
+      "duty": "Manage client relationships and facilitate the loan approval process."
+    },
+    {
+      "duty": "Conduct risk assessments and credit analysis for construction loan applicants."
+    },
+    {
+      "duty": "Collaborate with the builder to understand project details and financing requirements."
+    },
+    {
+      "duty": "Promote construction loan products through effective sales and marketing efforts."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ]
+}

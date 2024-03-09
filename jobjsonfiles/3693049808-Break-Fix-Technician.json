@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Break Fix Technician",
+      "job_category": "Technical Support",
+      "job_class": "Technician",
+      "sector": "Technical Support",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Networking",
+      "experience": 1
+    },
+    {
+      "skill": "Security",
+      "experience": 1
+    },
+    {
+      "skill": "PC Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Laptop Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Printer Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Windows Server",
+      "experience": 3
+    },
+    {
+      "skill": "Storage Management",
+      "experience": 3
+    },
+    {
+      "skill": "CRM Management",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office 365",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Serve as the first point of contact for customers seeking technical assistance."
+    },
+    {
+      "duty": "Perform remote troubleshooting through diagnostic techniques and pertinent questions."
+    },
+    {
+      "duty": "Responsible for determining the best solution based on the issue and details provided by customers."
+    },
+    {
+      "duty": "Direct unresolved issues to the next level of support personnel."
+    }
+  ]
+}

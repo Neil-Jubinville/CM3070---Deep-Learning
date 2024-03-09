@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Specialist II",
+      "job_category": "Customer Service",
+      "job_class": "Specialist",
+      "sector": "Customer Service",
+      "salary": 40000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 0
+    },
+    {
+      "skill": "Technology",
+      "experience": 2
+    },
+    {
+      "skill": "Call Center",
+      "experience": 2
+    },
+    {
+      "skill": "Financial Background",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Answers inbound customer service calls and provides entry-level troubleshooting and resolution to routine customer issues."
+    },
+    {
+      "duty": "Provides outstanding customer service to ensure service levels are achieved and exceeded."
+    },
+    {
+      "duty": "Responds to a high volume of low complexity general inquiries (e.g., general product and pricing information, billing issues, etc.)"
+    },
+    {
+      "duty": "Provides responses to customer inquiries based on pre-determined scripts and other response guidance tools."
+    },
+    {
+      "duty": "Refers customers to published materials, secondary sources, or more senior staff."
+    },
+    {
+      "duty": "Documents customer feedback and complaints."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Preferred"
+    }
+  ]
+}

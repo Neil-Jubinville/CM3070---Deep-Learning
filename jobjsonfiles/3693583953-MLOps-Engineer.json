@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "MLOps Engineer",
+      "job_category": "Data Science",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 125000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Software Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Pre-Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Building",
+      "experience": 5
+    },
+    {
+      "skill": "ML Frameworks (Keras, PyTorch, Tensorflow)",
+      "experience": 5
+    },
+    {
+      "skill": "ML Systems Development",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Presentation",
+      "experience": 5
+    },
+    {
+      "skill": "Product Feedback Analysis",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Partner with Sales during the sales cycle and enable prospects to understand the benefits of leveraging the platform."
+    },
+    {
+      "duty": "Lead technical demonstrations of the Comet platform for an array of use cases from time series forecasting, to computer vision, to LLM fine tuning."
+    },
+    {
+      "duty": "Support technical sales evaluations of the Comet platform, helping with Python SDK integration, solutioning custom visualizations, and leading technical working sessions."
+    },
+    {
+      "duty": "Leverage knowledge of ML frameworks and MLOps tooling to create relevant code and integration examples for prospects."
+    },
+    {
+      "duty": "Work to qualify business opportunities and identify key customer technical objections. Develop the strategy to resolve technical impediments during the sales cycle."
+    },
+    {
+      "duty": "Gather technical requirements from prospective clients and mapping the platform to the prospective clients\u2019 unique requirements."
+    },
+    {
+      "duty": "Partner with Marketing to deliver tutorials, blog posts, sample code, and presentations adapted for technical, business, and executive partners."
+    },
+    {
+      "duty": "Partner with Product and Engineering to provide customer and market feedback to help define product roadmap."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or a related engineering field, or equivalent practical experience.3+ years of experience with applied machine learning and software engineering"
+    }
+  ]
+}

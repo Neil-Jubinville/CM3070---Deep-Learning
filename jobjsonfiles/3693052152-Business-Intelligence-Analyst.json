@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Intelligence Analyst",
+      "job_category": "Business Intelligence",
+      "job_class": "Analyst",
+      "sector": "Sales",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Business Intelligence",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "SQL",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Excel",
+      "experience": 3
+    },
+    {
+      "skill": "Tableau",
+      "experience": 3
+    },
+    {
+      "skill": "Python",
+      "experience": 3
+    },
+    {
+      "skill": "Nielsen/IRI Data Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Relational Databases",
+      "experience": 3
+    },
+    {
+      "skill": "Craft Beer/Seltzer and CPG Industry Knowledge",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collect and analyze data from all facets of the business to create useful intelligence and provide insightful reporting for management."
+    },
+    {
+      "duty": "Create dashboards through Tableau for use by sales, marketing, finance & logistics teams."
+    },
+    {
+      "duty": "Assist Sales teams in identifying sales opportunities through various analytical tools & methods."
+    },
+    {
+      "duty": "Perform ad hoc analysis and provide necessary analytics to drive strategic, operational, financial, and tactical decision making."
+    },
+    {
+      "duty": "Analyze competitive data through Nielsen/IRI to identify market trends and track the competitive landscape."
+    },
+    {
+      "duty": "Assist in the creation of forecasts & budgets for the sales team and in the management of the pricing process through in-house systems."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business, Analytics, or a related field (Master's preferred)"
+    }
+  ]
+}

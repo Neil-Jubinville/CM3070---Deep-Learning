@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "General Manager",
+      "job_category": "Management",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Team Management",
+      "experience": 5
+    },
+    {
+      "skill": "Strategic Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Engagement",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Performance Management",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide support to all staffing levels, while working with the owner to maintain and grow their company and align with its mission, vision and values."
+    },
+    {
+      "duty": "Responsible for recruiting, onboarding, and managing all staff, including coaching them to excel in consultative selling techniques and taking necessary disciplinary actions to underperforming studio employees."
+    },
+    {
+      "duty": "Drive sales by organizing pre-sale and studio events, implementing community outreach programs, and building a deep list of clients to achieve company-set KPIs for revenue and membership retention."
+    },
+    {
+      "duty": "Properly manage operational budgets, ensure cost controls, and meet or exceed all membership targets while maintaining inventory, facilities, and cleanliness."
+    },
+    {
+      "duty": "Develop relationships with members and guests, greet them by name, and create a high-energy, fun, and engaged membership culture through contests, promotions, and events to retain members."
+    },
+    {
+      "duty": "Conduct weekly/monthly staff meetings and 1:1s, and maintain high visibility and positive interaction with guests to lead by example and foster a positive work culture."
+    },
+    {
+      "duty": "Promote adherence to company policies and practices, maintenance of customer service standards, and facility quality standards."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Management, Business, or a related field (Master's preferred)"
+    }
+  ]
+}

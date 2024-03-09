@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Electrical Engineer",
+      "sector": "Hardware Design",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "EE/CS Fundamentals",
+      "experience": 5
+    },
+    {
+      "skill": "System Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Power and Performance Metrics",
+      "experience": 5
+    },
+    {
+      "skill": "Hands-on EE Lab Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Programming and Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Lithium Ion Battery Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Fast Learner",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Contribute to system level power estimation, validation, and optimization for various usage scenarios."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to work on next-generation hardware and verify subsystem power against expectations."
+    },
+    {
+      "duty": "Investigate, debug, and provide feedback for power-saving opportunities during product development."
+    },
+    {
+      "duty": "Constantly improve power modeling and validation methodology."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's degree in Electrical Engineering"
+    }
+  ]
+}

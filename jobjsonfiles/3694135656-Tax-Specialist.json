@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Tax Specialist",
+      "job_category": "Accounting",
+      "job_class": "Specialist",
+      "sector": "Finance",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "Taxation",
+      "experience": 5
+    },
+    {
+      "skill": "Bookkeeping",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "IRS Requirements",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Tax Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Marketing",
+      "experience": 3
+    },
+    {
+      "skill": "Bilingual Communication",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Complete individual tax returns and provide tax planning and audit support"
+    },
+    {
+      "duty": "Effectively communicate in person and in writing with clients and colleagues"
+    },
+    {
+      "duty": "Meet all IRS and applicable state requirements, and complete required continuing education"
+    },
+    {
+      "duty": "Conduct financial analysis and bookkeeping duties in a fast-paced environment"
+    },
+    {
+      "duty": "Provide sales and marketing support, encouraging bilingual candidates to apply"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting or related field (CPA or Enrolled Agent certification preferred)"
+    }
+  ]
+}

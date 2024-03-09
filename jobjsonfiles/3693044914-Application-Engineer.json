@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Application Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Product Design",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Interaction",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Process",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Understand and contribute to the design and sales process for large-scale automation systems and machinery."
+    },
+    {
+      "duty": "Engage with customers to gather requirements and feedback, providing technical support and solutions."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to develop and test custom automation solutions."
+    },
+    {
+      "duty": "Contribute to the overall product design, ensuring functionality and efficiency."
+    },
+    {
+      "duty": "Provide technical expertise and product knowledge to support the sales process."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Mechanical Engineering, Electrical Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

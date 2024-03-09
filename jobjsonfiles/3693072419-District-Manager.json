@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "District Manager",
+      "job_category": "Management",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Team Management",
+      "experience": 5
+    },
+    {
+      "skill": "Strategic Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Performance Management",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and oversee multiple units within the organization, ensuring operational efficiency and adherence to company standards."
+    },
+    {
+      "duty": "Provide strategic guidance to unit managers, setting clear objectives and monitoring performance to drive growth and profitability."
+    },
+    {
+      "duty": "Analyze financial data and operational metrics to make informed decisions and optimize resource allocation across the district."
+    },
+    {
+      "duty": "Implement and enforce company policies and procedures, promoting a culture of compliance and excellence in service delivery."
+    },
+    {
+      "duty": "Foster a positive and productive work environment, encouraging teamwork, professional development, and employee engagement."
+    },
+    {
+      "duty": "Collaborate with senior management to develop and execute district-specific initiatives, contributing to overall organizational success."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Management, or a related field (Master's preferred)"
+    }
+  ]
+}

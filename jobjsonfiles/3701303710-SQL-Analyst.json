@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "SQL Analyst",
+      "job_category": "Data Analysis",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Software Development Life Cycle",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "Test Plan Writing",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with business and technical teams to anticipate and communicate product needs and requirements."
+    },
+    {
+      "duty": "Perform analysis and documentation of business and system interactions."
+    },
+    {
+      "duty": "Design technical solutions to business issues and work with the Application Development team to implement those solutions."
+    },
+    {
+      "duty": "Be involved in all phases of the SDLC, including Requirements Definition and Documentation, Systems Analysis and Design, System Integration, User Acceptance Testing, and Deployment Coordination."
+    },
+    {
+      "duty": "Evaluate existing procedures and methods, identify and document items such as database content, structure, application subsystems, and develop data dictionary."
+    },
+    {
+      "duty": "Facilitate processes for the team and vendors to ensure they are meeting policy and procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "4 year college degree or equivalent working experience in business analytics/communications."
+    }
+  ]
+}

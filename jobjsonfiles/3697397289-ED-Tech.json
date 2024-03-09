@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "ED Tech",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Assisting",
+      "experience": 2
+    },
+    {
+      "skill": "Phlebotomy",
+      "experience": 1
+    },
+    {
+      "skill": "Emergency Care",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Transportation",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Safety",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide advanced nursing assistive care to patients in the Emergency Department in a variety of ED settings including triage, trauma, and general patient care."
+    },
+    {
+      "duty": "Assist the nurse in carrying out a plan of care by completing delegated tasks as assigned, maintaining clinical and technical competencies, and utilizing resources appropriately."
+    },
+    {
+      "duty": "Ensure excellent communication with all other staff members and team members by carrying a radio at all times, and rapidly responding to all requests for assistance."
+    },
+    {
+      "duty": "Maintain exceptional phlebotomy skills including obtaining and labeling specimens without difficulty and per hospital policy (excluding intravenous catheter access)."
+    },
+    {
+      "duty": "Participate in the department Haz-Mat training and maintain competency to appropriately don and doff all Haz-Mat materials, as well as participate in decontamination of any contaminated patients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma, EMT \u2013 Any level, Paramedic or LPN active upon hire, BLS Certification"
+    }
+  ]
+}

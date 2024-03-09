@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "job_title": "Greeter",
+      "job_category": "Hospitality",
+      "job_class": "Entry-level",
+      "sector": "Management",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Verbal Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Flexibility",
+      "experience": 2
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Welcome and create the first impression for guests, influencing the overall restaurant experience"
+    },
+    {
+      "duty": "Provide table accommodations and offering menu recommendations"
+    },
+    {
+      "duty": "Ensure guest satisfaction and be the final point of contact"
+    },
+    {
+      "duty": "Have open availability and be able to work a flexible schedule, including weekends and holidays"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": []
+}

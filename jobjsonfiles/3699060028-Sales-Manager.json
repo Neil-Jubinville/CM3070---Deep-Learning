@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Manager",
+      "job_category": "Sales",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 160000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Management",
+      "experience": 5
+    },
+    {
+      "skill": "Coaching",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Salesforce Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Market Strategy",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    },
+    {
+      "skill": "ERP/CRM/Finance Software",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Leading a sales team to achieve revenue and growth targets by establishing sales goals and monitoring team achievements."
+    },
+    {
+      "duty": "Coaching AEs on specific skills and industry knowledge, ensuring they are equipped to succeed in their current role."
+    },
+    {
+      "duty": "Serving as a key driver for setting/surpassing sales objectives and working with key team members in product, marketing, and services."
+    },
+    {
+      "duty": "Providing accurate weekly, monthly and quarterly forecasts."
+    },
+    {
+      "duty": "Attracting and retaining all-star account executives through hiring, training, coaching, appraising, rewarding, and motivating."
+    },
+    {
+      "duty": "Participating in the sales process on key accounts and maintaining positive customer relationships."
+    },
+    {
+      "duty": "Serving on General Markets subcommittees to build value and efficiencies for clients and prospects."
+    },
+    {
+      "duty": "Ensuring adoption and consistent use of key sales tech stack applications like Salesforce, Salesloft, Seismic, Consensus."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree and/or equivalent experience"
+    }
+  ]
+}

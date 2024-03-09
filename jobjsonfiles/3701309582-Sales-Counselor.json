@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Counselor",
+      "job_category": "Sales",
+      "job_class": "Professional",
+      "sector": "Sales",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Relationship Building",
+      "experience": 5
+    },
+    {
+      "skill": "Objection Handling",
+      "experience": 5
+    },
+    {
+      "skill": "Closing Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    },
+    {
+      "skill": "CRM Systems",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Interact with seniors, their family members, and other influencers to explore living options."
+    },
+    {
+      "duty": "Presenting different lifestyles and personalized care services available at the community."
+    },
+    {
+      "duty": "Conduct community tours and host various prospect and professional events to build community occupancy."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Five or more years of proven commission-based sales experience."
+    },
+    {
+      "credential": "Proficient in Microsoft Office (Word, Excel, PowerPoint)."
+    },
+    {
+      "credential": "Experience working with sales CRM systems and tracking leads and sales activities."
+    }
+  ]
+}

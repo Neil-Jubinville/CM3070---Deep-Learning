@@ -1,0 +1,111 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Associate, Data Engineer",
+      "job_category": "Data Engineering",
+      "job_class": "Senior Associate",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Warehouse and ETL",
+      "experience": 6
+    },
+    {
+      "skill": "Cloud Data Platforms",
+      "experience": 6
+    },
+    {
+      "skill": "Streaming and Batch Integration",
+      "experience": 6
+    },
+    {
+      "skill": "Code Repositories and Continuous Integration",
+      "experience": 6
+    },
+    {
+      "skill": "Data Modeling and Warehouse Design",
+      "experience": 6
+    },
+    {
+      "skill": "SQL",
+      "experience": 6
+    },
+    {
+      "skill": "Microsoft SQL Server",
+      "experience": 6
+    },
+    {
+      "skill": "Python",
+      "experience": 1
+    },
+    {
+      "skill": "ETL Processes (Microsoft SSIS)",
+      "experience": 6
+    },
+    {
+      "skill": "Data Processing and Transformation",
+      "experience": 6
+    },
+    {
+      "skill": "Snowflakes",
+      "experience": 1
+    },
+    {
+      "skill": "Tableau/Power BI",
+      "experience": 1
+    },
+    {
+      "skill": "Cloud Services Certification",
+      "experience": 1
+    },
+    {
+      "skill": "Logical Programming (Spark/PySpark/Scala)",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and deliver technical solutions for large-scale digital transformation projects"
+    },
+    {
+      "duty": "Implement end-to-end data pipelines for streaming and batch integrations using leading public cloud data platforms"
+    },
+    {
+      "duty": "Work with code repositories and continuous integration"
+    },
+    {
+      "duty": "Develop efficient and complex queries using strong SQL knowledge"
+    },
+    {
+      "duty": "Develop, maintain, and troubleshoot complex ETL processes using Microsoft SSIS"
+    },
+    {
+      "duty": "Design and implement data ingest, validation, and enrichment pipelines"
+    },
+    {
+      "duty": "Work with Snowflakes and Tableau/ Power BI for data analysis and visualization"
+    },
+    {
+      "duty": "Certification for any of the cloud services like AWS, Google Cloud, Azure"
+    },
+    {
+      "duty": "Logical programming in Spark/ PySpark/ Scala"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or a related field"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "meta": [
+    {
+      "job_title": "Delivery Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Logistics",
+      "salary": 40000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Safe Driving",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 2
+    },
+    {
+      "skill": "Store Operations",
+      "experience": 2
+    },
+    {
+      "skill": "Technology Troubleshooting",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver food to customers with excellent customer service and a positive attitude."
+    },
+    {
+      "duty": "Maintain food and team member safety."
+    },
+    {
+      "duty": "Operate and troubleshoot store technology."
+    },
+    {
+      "duty": "Assist with store operations."
+    },
+    {
+      "duty": "Drive safely and maintain a safe driving record."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. Java Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 10
+    },
+    {
+      "skill": "J2EE",
+      "experience": 10
+    },
+    {
+      "skill": "Spring",
+      "experience": 10
+    },
+    {
+      "skill": "Microservices Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "REST APIs",
+      "experience": 10
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 10
+    },
+    {
+      "skill": "XML Schemas",
+      "experience": 10
+    },
+    {
+      "skill": "JIRA",
+      "experience": 10
+    },
+    {
+      "skill": "Git",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and implement a highly scalable, highly available application using open source / open systems, cloud enabled and based on Micro services architecture."
+    },
+    {
+      "duty": "Create solutions using Java, micro services, and Cassandra No SQL Database."
+    },
+    {
+      "duty": "Analysis and design for the products and services in the Wireless business to fulfill the needs of strategic initiatives."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 20,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": []
+}

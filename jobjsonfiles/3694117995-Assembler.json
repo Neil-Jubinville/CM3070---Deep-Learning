@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Assembler",
+      "job_category": "Manufacturing",
+      "job_class": "Entry Level",
+      "sector": "Manufacturing",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Manual Dexterity",
+      "experience": 2
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Tool Usage",
+      "experience": 2
+    },
+    {
+      "skill": "Microscope Usage",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Read work orders, follow production drawings, and assemble components in specified relationship to each other."
+    },
+    {
+      "duty": "Perform intermediate assembly tasks, such as potting, encapsulating, and stamping parts."
+    },
+    {
+      "duty": "Perform online testing and inspection to ensure parts meet production specifications and standards."
+    },
+    {
+      "duty": "Handle and install polarized/non-polarized components on designated locations on the product."
+    },
+    {
+      "duty": "Complete touch-up, inspect own work, and report nonconforming defects."
+    },
+    {
+      "duty": "Assist, instruct, and qualify new operators in assembly processes."
+    },
+    {
+      "duty": "Assemble complex units for wiring, connecting sub-assemblies into large rack systems."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Completion of a high school degree or equivalent is preferred. Successful completion of company-provided training may be required."
+    }
+  ]
+}

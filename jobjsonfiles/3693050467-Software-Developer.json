@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Developer",
+      "job_category": "Information Technology",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Ruby on Rails",
+      "experience": 2
+    },
+    {
+      "skill": "AngularJS",
+      "experience": 2
+    },
+    {
+      "skill": "VueJS",
+      "experience": 2
+    },
+    {
+      "skill": "WordPress",
+      "experience": 2
+    },
+    {
+      "skill": "Software Development",
+      "experience": 2
+    },
+    {
+      "skill": "Web Application Development",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Analytical Thinking",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop, test and launch software solutions."
+    },
+    {
+      "duty": "Create rapid prototyping concepts."
+    },
+    {
+      "duty": "Gather feedback metrics."
+    },
+    {
+      "duty": "Provide high-level product support."
+    },
+    {
+      "duty": "Help with architecture decisions."
+    },
+    {
+      "duty": "Participate in Agile activities: bi-weekly sprint plannings, daily stand-ups, and retrospectives."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

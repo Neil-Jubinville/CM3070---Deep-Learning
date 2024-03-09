@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Care Technician (PCT)",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Dialysis Treatment",
+      "experience": 2
+    },
+    {
+      "skill": "Machine Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Protocols",
+      "experience": 2
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide safe, comfortable, and high-quality dialysis treatment to patients, monitoring their condition before, during, and after treatment."
+    },
+    {
+      "duty": "Prepare machines for hemodialysis treatments, clean and disinfect machines after treatment, and conduct machine safety checks and logging results for quality control."
+    },
+    {
+      "duty": "Adhere to appropriate safety measures, including the use of personal protective equipment, and ensure compliance with company policies and state/federal laws and regulations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certified Hemodialysis Technician (CHT) certificate or equivalent state-specific certification (if required)"
+    }
+  ]
+}

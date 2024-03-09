@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Analyst",
+      "job_category": "Business",
+      "job_class": "Analyst",
+      "sector": "Data Analysis",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Market Research",
+      "experience": 5
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Business Intelligence",
+      "experience": 5
+    },
+    {
+      "skill": "ETL Pipeline",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Technologies",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop a deep understanding of Amazon Middle Mile Tech and operations. Deep dive into large data sets to answer key business questions using SQL, Excel, and other data manipulation languages."
+    },
+    {
+      "duty": "Perform complex data research to identify new opportunities that improve efficiencies and customer experience in supporting business decision making."
+    },
+    {
+      "duty": "Systematically identify data source/forecast error and follow through on the resolutions to ensure that future plans are updated with improved business processes."
+    },
+    {
+      "duty": "Ability to perform/own reoccurring and ad-hoc business intelligence projects."
+    },
+    {
+      "duty": "Communicate complex insights to stakeholders, both verbally and in writing."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business, Economics, Finance, Engineering, Statistics, Computer Science, Mathematics or related field, or equivalent experience"
+    }
+  ]
+}

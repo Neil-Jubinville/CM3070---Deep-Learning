@@ -1,0 +1,125 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Manager",
+      "job_category": "Information Technology",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "IT Management",
+      "experience": 7
+    },
+    {
+      "skill": "Project Management",
+      "experience": 7
+    },
+    {
+      "skill": "Network Security",
+      "experience": 7
+    },
+    {
+      "skill": "Infrastructure Management",
+      "experience": 7
+    },
+    {
+      "skill": "Microsoft SharePoint",
+      "experience": 7
+    },
+    {
+      "skill": "Windows Server Administration",
+      "experience": 7
+    },
+    {
+      "skill": "C#",
+      "experience": 7
+    },
+    {
+      "skill": "ASP.NET",
+      "experience": 7
+    },
+    {
+      "skill": "NET Frameworks",
+      "experience": 7
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 7
+    },
+    {
+      "skill": "HTML5",
+      "experience": 7
+    },
+    {
+      "skill": "CSS",
+      "experience": 7
+    },
+    {
+      "skill": "XML",
+      "experience": 7
+    },
+    {
+      "skill": "jQuery",
+      "experience": 7
+    },
+    {
+      "skill": "SQL Server",
+      "experience": 7
+    },
+    {
+      "skill": "Web Services",
+      "experience": 7
+    },
+    {
+      "skill": "Power Apps",
+      "experience": 7
+    },
+    {
+      "skill": "Power Automate",
+      "experience": 7
+    },
+    {
+      "skill": "Scripting (PowerShell/Perl)",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee the IT department, providing technology vision and leadership in the development and implementation of IT services and programs."
+    },
+    {
+      "duty": "Lead the planning and implementation of information systems to support business operations."
+    },
+    {
+      "duty": "Manage multiple information and communications systems and projects, including voice, data, imaging, and office automation."
+    },
+    {
+      "duty": "Implement business continuity and disaster recovery plans, as well as overseeing and evaluating system security, privacy, and backup procedures."
+    },
+    {
+      "duty": "Upgrade platforms from on-site to cloud-based applications and lead/participate in IT-related projects."
+    },
+    {
+      "duty": "Ensure strong proficiency with MS SharePoint and previous experience with scripting (PowerShell or Perl)."
+    },
+    {
+      "duty": "Work with C#, ASP.NET, .NET Frameworks, JavaScript, HTML5, CSS, XML, jQuery, SQL Server, Web Services, Power Apps, and Power Automate."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree, preferably in Computer Science or related (Master's preferred)"
+    }
+  ]
+}

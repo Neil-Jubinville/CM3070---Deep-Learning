@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Sous Chef",
+      "job_category": "Culinary",
+      "job_class": "Sous Chef",
+      "sector": "Hospitality",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Culinary Supervision",
+      "experience": 3
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 5
+    },
+    {
+      "skill": "Team Management",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Control",
+      "experience": 3
+    },
+    {
+      "skill": "Cost Management",
+      "experience": 3
+    },
+    {
+      "skill": "Sanitation and Safety",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist the restaurant chef in overseeing the restaurant operation and the preparation of food items."
+    },
+    {
+      "duty": "Hiring, training, scheduling, and directing culinary staff."
+    },
+    {
+      "duty": "Visually inspecting all food products to ensure they meet the quality standards set by management."
+    },
+    {
+      "duty": "Ensuring cleanliness, sanitation, and safety in the kitchen and storage areas while minimizing waste and maximizing cost/production ratio."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "1 year or more experience in a high-volume restaurant/food outlets production kitchen."
+    },
+    {
+      "credential": "1 year or more of culinary supervisory experience in restaurant and food service with inventory and purchasing knowledge."
+    },
+    {
+      "credential": "Experience with P&L accountability and/or managed food service experience with a proven ability to successfully control food costs is preferred."
+    }
+  ]
+}

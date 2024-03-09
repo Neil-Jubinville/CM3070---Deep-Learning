@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Machine Learning Scientist",
+      "job_category": "Data Science",
+      "job_class": "Scientist",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Machine Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Deep Learning",
+      "experience": 5
+    },
+    {
+      "skill": "NLP",
+      "experience": 5
+    },
+    {
+      "skill": "Statistical Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Model Evaluation",
+      "experience": 5
+    },
+    {
+      "skill": "Data Preprocessing",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prototype, develop, and refine machine learning models using best practices and established frameworks"
+    },
+    {
+      "duty": "Conduct experiments and evaluations to assess model performance and effectiveness"
+    },
+    {
+      "duty": "Optimize and adapt models for real-time, scalable, and efficient performance"
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to understand business requirements and develop technical plans"
+    },
+    {
+      "duty": "Implement robust and reusable data preprocessing and feature engineering pipelines"
+    },
+    {
+      "duty": "Stay updated with the latest advancements in machine learning, deep learning, and NLP"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's or PhD in Data Science, Computer Science, Statistics, or related quantitative field"
+    }
+  ]
+}

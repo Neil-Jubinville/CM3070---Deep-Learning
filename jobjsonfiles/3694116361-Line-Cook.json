@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Line Cook",
+      "job_category": "Culinary",
+      "job_class": "Cook",
+      "sector": "Hospitality",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Food Safety",
+      "experience": 1
+    },
+    {
+      "skill": "Menu Planning",
+      "experience": 1
+    },
+    {
+      "skill": "Kitchen Equipment Usage",
+      "experience": 1
+    },
+    {
+      "skill": "Sanitation and Hygiene",
+      "experience": 1
+    },
+    {
+      "skill": "Recipe Comprehension",
+      "experience": 1
+    },
+    {
+      "skill": "Physical Requirements",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepares food to specifications before and during unit operations."
+    },
+    {
+      "duty": "Properly measures and portions all food items."
+    },
+    {
+      "duty": "Cooks all food to proper specifications in a timely manner."
+    },
+    {
+      "duty": "Utilizes kitchen equipment to prepare food items and maintains proper food temperatures."
+    },
+    {
+      "duty": "Ensures freshness and quality of all menu items and packages products to proper specifications."
+    },
+    {
+      "duty": "Performs opening, closing, and side work duties as instructed and keeps workstation, coolers, and equipment clean and organized."
+    },
+    {
+      "duty": "Follows and upholds all health codes and sanitation regulations and uses waste control guidelines."
+    },
+    {
+      "duty": "Performs other duties assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "At least one years' experience as a Prep Cook or Line Cook."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Director of IT",
+      "job_category": "IT",
+      "job_class": "Director",
+      "sector": "Technology",
+      "salary": 150000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "IT Operations Management",
+      "experience": 5
+    },
+    {
+      "skill": "Salesforce CRM",
+      "experience": 5
+    },
+    {
+      "skill": "Vendor Management",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Network Security",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Software Implementation",
+      "experience": 5
+    },
+    {
+      "skill": "Cost Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Relationship Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the development, execution, and oversight of all tech operations at Commonwealth Commercial."
+    },
+    {
+      "duty": "Supervise tech operations, establish IT policies, controls, and systems supporting firm strategies."
+    },
+    {
+      "duty": "Analyze department tech needs; optimize equipment and software usage, manage vendor relations."
+    },
+    {
+      "duty": "Evolve Salesforce CRM, manage integrations, devise software training programs, and establish controls."
+    },
+    {
+      "duty": "Procure cost-effective tech equipment, facilitate SharePoint migration, and enhance knowledge of platforms through industry practices."
+    },
+    {
+      "duty": "Foster mentor relationships for IT growth, identify training areas, and coordinate with vendors for cost analysis and budget control."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s (BA/BS) degree is mandatory. Minimum of 5 years of IT experience."
+    }
+  ]
+}

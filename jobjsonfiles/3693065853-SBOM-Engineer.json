@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "SBOM Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 124000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Composition Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Build Systems (CMake, Xcode, Visual Studio)",
+      "experience": 5
+    },
+    {
+      "skill": "C/C+ Builds",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "S3",
+      "experience": 5
+    },
+    {
+      "skill": "SQS",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Databases",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Handle software dependencies at Adobe scale by building services that automatically generate Software Bill of Materials (SBOM)"
+    },
+    {
+      "duty": "Address critical regulatory reporting and compliance needs"
+    },
+    {
+      "duty": "Work in a multi-functional team to integrate security analysis tools into Adobe's security capabilities"
+    },
+    {
+      "duty": "Build and deploy scalable microservices that support Adobe's software development teams"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

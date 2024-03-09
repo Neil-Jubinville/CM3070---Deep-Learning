@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Java Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java 1.8",
+      "experience": 4
+    },
+    {
+      "skill": "Springboot",
+      "experience": 4
+    },
+    {
+      "skill": "DynamoDB",
+      "experience": 4
+    },
+    {
+      "skill": "IBM MQ (jms)",
+      "experience": 4
+    },
+    {
+      "skill": "Vue.js",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead development of cGMP Application for Facilitation of Audit Actions."
+    },
+    {
+      "duty": "Build IBM MQ Listener to read the data from WMS."
+    },
+    {
+      "duty": "Indicate Audit Required in Customer Account Requirement Entry based on the Audit required flag from Account Management Screen."
+    },
+    {
+      "duty": "Display dynamic Audit button on Operations Order Detail Report to capture the audit response for all the Warehouse service offerings associated with Order number and account number."
+    },
+    {
+      "duty": "Display only Selected offering tied to the account instead of all offerings in the Audit capture Screen."
+    },
+    {
+      "duty": "Operations Order Detail Report Audit capture Screen will be accessible to single users and display the active Auditor for other users."
+    }
+  ]
+}

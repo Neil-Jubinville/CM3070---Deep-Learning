@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Prototype Machinist",
+      "job_category": "Manufacturing",
+      "job_class": "Machinist",
+      "sector": "Manufacturing",
+      "salary": 31,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CNC Lathe Operation",
+      "experience": 10
+    },
+    {
+      "skill": "CAM Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Set up and operate CNC lathe machines to produce prototype parts and components."
+    },
+    {
+      "duty": "Collaborate with engineers and designers to understand project requirements and specifications."
+    },
+    {
+      "duty": "Develop CNC programs using CAM software for accurate and efficient machining of prototype parts."
+    },
+    {
+      "duty": "Execute complex machining operations with a high degree of precision, monitoring processes and troubleshooting issues."
+    },
+    {
+      "duty": "Provide feedback to engineering and design teams regarding prototype manufacturability and suggesting improvements."
+    },
+    {
+      "duty": "Adhere to safety protocols and guidelines, ensuring a secure working environment for colleagues."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "10+ years of complex setup machining preferred on lathe"
+    }
+  ]
+}

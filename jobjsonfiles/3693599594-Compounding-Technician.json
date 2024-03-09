@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Compounding Technician",
+      "job_category": "Manufacturing",
+      "job_class": "Technician",
+      "sector": "Manufacturing",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Compounding",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 3
+    },
+    {
+      "skill": "GMP Guidelines",
+      "experience": 3
+    },
+    {
+      "skill": "Manufacturing Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Raw Material Handling",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare, execute, and monitor batch runs of dietary supplements."
+    },
+    {
+      "duty": "Accurately measure and mix ingredients according to established formulations and procedures."
+    },
+    {
+      "duty": "Adhere to stringent GMP guidelines and company protocols throughout the compounding process."
+    },
+    {
+      "duty": "Maintain a clean and organized work environment, including proper handling and storage of raw materials and finished products."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to ensure seamless workflow and successful product outcomes."
+    },
+    {
+      "duty": "Participate in ongoing training and development to stay updated on industry regulations, manufacturing techniques, and quality standards."
+    },
+    {
+      "duty": "Contribute to process improvement initiatives to enhance efficiency, quality, and safety within the manufacturing process."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 50,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelors degree or equivalent in a relevant field; additional education in a related field is a plus."
+    }
+  ]
+}

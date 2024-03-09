@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Worker",
+      "job_category": "Warehouse Operations",
+      "job_class": "Associate",
+      "sector": "Logistics",
+      "salary": 39000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Manual and Automated Task Management",
+      "experience": 1
+    },
+    {
+      "skill": "Receiving and Shipment Management",
+      "experience": 1
+    },
+    {
+      "skill": "Inventory Control",
+      "experience": 1
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 1
+    },
+    {
+      "skill": "Material Handling Equipment Operation",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Housekeeping",
+      "experience": 1
+    },
+    {
+      "skill": "Order Fulfillment",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform manual and automated tasks for the receipt, storage, and shipment of products."
+    },
+    {
+      "duty": "Receive, pick, pack, and ship products while performing quality control checks."
+    },
+    {
+      "duty": "Maintain inventory control and housekeeping tasks to ensure a clean and safe work environment."
+    },
+    {
+      "duty": "Cross-train in multiple areas of the warehouse and participate in projects as needed."
+    },
+    {
+      "duty": "Follow established processes to fulfill orders and prepare orders for shipment."
+    },
+    {
+      "duty": "Willingness to train and be certified to drive material handling equipment as required by job duty."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma/GED preferred"
+    }
+  ]
+}

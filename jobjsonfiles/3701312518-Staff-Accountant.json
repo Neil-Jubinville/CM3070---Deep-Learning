@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Accountant",
+      "job_category": "Accounting",
+      "job_class": "Accountant",
+      "sector": "Accounting",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain general ledger"
+    },
+    {
+      "duty": "Reconciliations"
+    },
+    {
+      "duty": "Prepare financial reports"
+    },
+    {
+      "duty": "Maintain internal controls"
+    },
+    {
+      "duty": "Related duties as required"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Large ERP System Proficiency",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 4
+    },
+    {
+      "skill": "General Ledger Maintenance",
+      "experience": 4
+    },
+    {
+      "skill": "Reconciliation",
+      "experience": 4
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in accounting or related field"
+    }
+  ]
+}

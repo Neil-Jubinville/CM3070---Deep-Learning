@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Housekeeper",
+      "job_category": "Environmental Services",
+      "job_class": "Entry-level",
+      "sector": "Hospitality",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Environmental Cleaning",
+      "experience": 1
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 2
+    },
+    {
+      "skill": "Equipment Operation",
+      "experience": 1
+    },
+    {
+      "skill": "Reading and Writing",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform environmental cleaning and sanitation in patient rooms and facility."
+    },
+    {
+      "duty": "Work as part of a team to maintain a clean and inviting environment for patients and visitors."
+    },
+    {
+      "duty": "Operate job-specific equipment and follow oral and written instructions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

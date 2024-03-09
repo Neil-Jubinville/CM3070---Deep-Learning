@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Laboratory Assistant",
+      "job_category": "Laboratory",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Phlebotomy",
+      "experience": 1
+    },
+    {
+      "skill": "Specimen Processing",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Computer skills",
+      "experience": 1
+    },
+    {
+      "skill": "Communication skills",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 1
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 1
+    },
+    {
+      "skill": "Adaptability",
+      "experience": 1
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform phlebotomy and routine laboratory procedures based on principles of human growth and development."
+    },
+    {
+      "duty": "Handle blood, tissue, fecal matter, sputum, urine, spinal fluid, and other body fluids."
+    },
+    {
+      "duty": "Process specimens according to established lab guidelines using customer focus, teamwork, and adaptability to change."
+    },
+    {
+      "duty": "May handle specimens contaminated with infectious diseases including HIV and other blood-borne pathogens."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

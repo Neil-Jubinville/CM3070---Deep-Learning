@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Engineering Design",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Support",
+      "experience": 5
+    },
+    {
+      "skill": "Renewable Energy Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Substation Design",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Establish basic design parameters, writing and evaluating material and construction specifications, direct drawing preparation, and perform cost/benefit analyses."
+    },
+    {
+      "duty": "Project management activities including responsibility for overall project cost and scheduling; coordinating activities related to real estate, purchasing, drafting, construction, operating, and related engineering groups associated with projects."
+    },
+    {
+      "duty": "Technical support activities include providing consulting services to other groups in matters relating to Bulk, Distribution, and Customer Substations."
+    },
+    {
+      "duty": "Work with solar and other DER customers on projects that will integrate these new clean energy sources into existing grid."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science Degree in Electrical or Mechanical Engineering from an accredited college or university required. Completion of Power Option classes as part of college coursework preferred. Electrical background (e.g., college coursework or work experience) is preferred. Professional Engineer (P.E.) License or active commitment to obtain one is preferred. Prefer applicants with Engineer-In-Training (EIT) certification."
+    }
+  ]
+}

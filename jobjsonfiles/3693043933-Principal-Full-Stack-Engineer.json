@@ -1,0 +1,124 @@
+{
+  "meta": [
+    {
+      "job_title": "Principal Full Stack Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 10
+    },
+    {
+      "skill": "Tomcat",
+      "experience": 10
+    },
+    {
+      "skill": "Spring Boot",
+      "experience": 10
+    },
+    {
+      "skill": "Angular",
+      "experience": 10
+    },
+    {
+      "skill": "Node.js",
+      "experience": 10
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 10
+    },
+    {
+      "skill": "Service Oriented Architecture",
+      "experience": 10
+    },
+    {
+      "skill": "REST",
+      "experience": 10
+    },
+    {
+      "skill": "Express.js",
+      "experience": 10
+    },
+    {
+      "skill": "Dropwizard",
+      "experience": 10
+    },
+    {
+      "skill": "Microarchitectures",
+      "experience": 10
+    },
+    {
+      "skill": "DevSecOps",
+      "experience": 10
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 10
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 10
+    },
+    {
+      "skill": "Security Testing",
+      "experience": 10
+    },
+    {
+      "skill": "Mock Frameworks",
+      "experience": 10
+    },
+    {
+      "skill": "Service Virtualization",
+      "experience": 10
+    },
+    {
+      "skill": "Oracle Database",
+      "experience": 10
+    },
+    {
+      "skill": "PL-SQL",
+      "experience": 10
+    },
+    {
+      "skill": "AWS",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Full-stack development using Java, Tomcat, Spring Boot, Angular, Node.js, and JavaScript"
+    },
+    {
+      "duty": "Integration with Service Oriented Architecture using Express.js, Node.js, Spring Boot, and Dropwizard"
+    },
+    {
+      "duty": "Designing and building large-scale applications with strong knowledge in application development with microarchitectures"
+    },
+    {
+      "duty": "End-to-end DevSecOps automation with CI and CD pipelines including Unit, Component, Functional, Performance, and Security test automation"
+    },
+    {
+      "duty": "Mock framework and service virtualization implementation"
+    },
+    {
+      "duty": "Oracle database and PL-SQL development and automation solutions for data scenarios"
+    },
+    {
+      "duty": "AWS certification and working experience"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 40,
+      "introvert_extrovert": 150
+    }
+  ]
+}

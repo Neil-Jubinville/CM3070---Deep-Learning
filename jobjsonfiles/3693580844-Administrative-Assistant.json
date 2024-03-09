@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Administrative Assistant",
+      "job_category": "Administration",
+      "job_class": "Assistant",
+      "sector": "Education",
+      "salary": 70000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Administrative Operations",
+      "experience": 4
+    },
+    {
+      "skill": "Conference and Event Coordination",
+      "experience": 5
+    },
+    {
+      "skill": "Document Drafting",
+      "experience": 4
+    },
+    {
+      "skill": "Calendar Management",
+      "experience": 4
+    },
+    {
+      "skill": "Financial Transaction Handling",
+      "experience": 4
+    },
+    {
+      "skill": "Supervision and Leadership",
+      "experience": 4
+    },
+    {
+      "skill": "Research Support",
+      "experience": 4
+    },
+    {
+      "skill": "Executive Support",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee administrative operations and coordinate complex conferences and events."
+    },
+    {
+      "duty": "Draft documents and correspondence, manage calendars and travel arrangements."
+    },
+    {
+      "duty": "Handle financial transactions, ensure maintenance services, and provide supervision and leadership to student and temporary workers."
+    },
+    {
+      "duty": "Create, maintain, modify, and ensure accuracy of content in various unit documents, displays, reports, brochures, and websites."
+    },
+    {
+      "duty": "Plan and schedule calendars, resolve calendaring conflicts, and arrange travel in compliance with policies."
+    },
+    {
+      "duty": "Create complex reports and oversee complex financial transactions."
+    },
+    {
+      "duty": "Coordinate and monitor routine maintenance services completion, plan office moves and renovation projects."
+    },
+    {
+      "duty": "Lead staff or supervise day-to-day work of student and temporary workers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma and four years of administrative experience, or combination of education and relevant experience."
+    }
+  ]
+}

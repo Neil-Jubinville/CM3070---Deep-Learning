@@ -1,0 +1,123 @@
+{
+  "meta": [
+    {
+      "job_title": "Operations Specialist II",
+      "job_category": "Operations",
+      "job_class": "Specialist",
+      "sector": "Operations",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Sense of Urgency",
+      "experience": 3
+    },
+    {
+      "skill": "Decision Making",
+      "experience": 3
+    },
+    {
+      "skill": "Enterprise Application Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "ServiceNow",
+      "experience": 2
+    },
+    {
+      "skill": "Windows Server",
+      "experience": 2
+    },
+    {
+      "skill": "Linux",
+      "experience": 2
+    },
+    {
+      "skill": "Storage and Backup",
+      "experience": 2
+    },
+    {
+      "skill": "VMware",
+      "experience": 2
+    },
+    {
+      "skill": "Server Patching",
+      "experience": 2
+    },
+    {
+      "skill": "VMware",
+      "experience": 2
+    },
+    {
+      "skill": "RDP",
+      "experience": 2
+    },
+    {
+      "skill": "DNS",
+      "experience": 2
+    },
+    {
+      "skill": "Ops Bridge Monitoring",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage the daily operations and support of the core enterprise infrastructure."
+    },
+    {
+      "duty": "Responsible for monitoring, troubleshooting, and resolution of incidents for Windows, Linux, and HPUX servers."
+    },
+    {
+      "duty": "Responsible for monitoring, alerting, and triage on core infrastructure including network related events."
+    },
+    {
+      "duty": "Provide support for client's Storage and Data Protection systems, perform file and system restores and triage issues with storage related issues."
+    },
+    {
+      "duty": "Provide phone support, updating customers and vendors that call in and providing top-notch customer service to customers."
+    },
+    {
+      "duty": "Responsible for the server patching using a variety of tools including Satellite, Ivanti, and Tanium."
+    },
+    {
+      "duty": "Support of the server infrastructure utilizing VMware, RDP, DNS, and Ops Bridge monitoring."
+    },
+    {
+      "duty": "Provide cross-team collaboration to maintain and foster an environment that encourages teamwork."
+    },
+    {
+      "duty": "Support various reporting and compliance work necessary to meet regulatory and safety needs of the company."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's Degree Preferred. ServiceNow ticketing system knowledge preferred. Must have strong knowledge of one or more of the following: Windows Server, Linux, Storage and Backup, VMware. Certification Preferred: i.e., MCSA, RHEL, VMware, Dell."
+    }
+  ]
+}

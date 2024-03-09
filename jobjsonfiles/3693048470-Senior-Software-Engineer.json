@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "API Development",
+      "experience": 5
+    },
+    {
+      "skill": "Distributed Component Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Event Driven Design",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Document-based Database",
+      "experience": 5
+    },
+    {
+      "skill": "JSON",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Strong in API development in Python."
+    },
+    {
+      "duty": "Knows distributed component communication using HTTP."
+    },
+    {
+      "duty": "Knows Event Driven design."
+    },
+    {
+      "duty": "Able to work with DevOps team to deploy Python application docker containers."
+    },
+    {
+      "duty": "Knows how to write SQL queries."
+    },
+    {
+      "duty": "Understand document based database."
+    },
+    {
+      "duty": "Extremely proficient in JSON designing and writing."
+    },
+    {
+      "duty": "Has AWS experience i.e. S3, secret manager, API Gateway, token-based authentication, Amazon Glue, RDS database, EKS, and similar compute services like Lambda."
+    }
+  ]
+}

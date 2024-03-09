@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Automotive Technician",
+      "job_category": "Automotive",
+      "job_class": "Technician",
+      "sector": "Automotive",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Automotive Diagnostics",
+      "experience": 5
+    },
+    {
+      "skill": "Transmission Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Record Keeping",
+      "experience": 5
+    },
+    {
+      "skill": "Shop Tools Management",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Inspect, diagnose and repair vehicle automotive systems"
+    },
+    {
+      "duty": "Remove and Reinstall Transmission systems."
+    },
+    {
+      "duty": "Assist other technicians in performing technical activities"
+    },
+    {
+      "duty": "Explain problems discovered during vehicle inspection to service writers and technicians"
+    },
+    {
+      "duty": "Continuously learn new technical information, equipment, tools and repair techniques"
+    },
+    {
+      "duty": "Professionally record findings so that repairs costs are accurately estimated"
+    },
+    {
+      "duty": "Provide live technician support and troubleshooting for center"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum of 3+ years\u2019 experience working as a General Automotive/R&R Technician"
+    },
+    {
+      "credential": "Hold a valid driver\u2019s license (required)"
+    },
+    {
+      "credential": "Own professional grade tools to service any general repair need"
+    },
+    {
+      "credential": "Safe working knowledge of shop tools and equipment"
+    }
+  ]
+}

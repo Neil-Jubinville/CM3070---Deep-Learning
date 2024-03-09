@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinarian",
+      "job_category": "Healthcare",
+      "job_class": "Doctor",
+      "sector": "Veterinary",
+      "salary": 220000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Small Animal Veterinary Medicine",
+      "experience": 2
+    },
+    {
+      "skill": "Emergency Surgical Procedures",
+      "experience": 2
+    },
+    {
+      "skill": "Exotics Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Endoscopy",
+      "experience": 2
+    },
+    {
+      "skill": "Ultrasound",
+      "experience": 2
+    },
+    {
+      "skill": "Good Attitude",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide emergency care to small animals, including surgical procedures and medical treatments."
+    },
+    {
+      "duty": "Collaborate with the team to ensure high-quality care and effective communication."
+    },
+    {
+      "duty": "Utilize expertise in exotics, endoscopy, and ultrasound for emergency cases."
+    },
+    {
+      "duty": "Maintain positive relationships with referring veterinarians and other team members."
+    },
+    {
+      "duty": "Work night shifts, weekends, holidays, and maintain a strong work ethic at all times."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100
+    },
+    {
+      "student_teacher": 80
+    },
+    {
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in Veterinary Medicine (DVM or VMD)"
+    }
+  ]
+}

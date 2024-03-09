@@ -1,0 +1,120 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Cyber Security Analyst",
+      "job_category": "Information Technology",
+      "job_class": "Analyst",
+      "sector": "Cyber Security",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SEIM Platform Management",
+      "experience": 5
+    },
+    {
+      "skill": "Network Penetration Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Firewall, IPS, and IDS Management",
+      "experience": 5
+    },
+    {
+      "skill": "Malware Detection and Mitigation",
+      "experience": 5
+    },
+    {
+      "skill": "Patch Management",
+      "experience": 5
+    },
+    {
+      "skill": "Incident Response Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Security Hardware and Software Installation",
+      "experience": 5
+    },
+    {
+      "skill": "Vulnerability Assessment and Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Red / Blue Team Participation",
+      "experience": 5
+    },
+    {
+      "skill": "Security Platform Update and Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Auditing and Reporting",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Monitor predefined security parameters and respond to open tickets assigned by Director of IT."
+    },
+    {
+      "duty": "Investigate patterns out of the defined norms and recommend if action is needed."
+    },
+    {
+      "duty": "Investigate any potential or known breaches."
+    },
+    {
+      "duty": "Understand how to monitor SEIM products and adjust sensor alerts if needed."
+    },
+    {
+      "duty": "Perform forensics of attack and document all processes where a breach may have occurred during the attack, as well as what was done to mitigate the attack."
+    },
+    {
+      "duty": "Recommend security tightening for new zero-day attack types."
+    },
+    {
+      "duty": "Perform vulnerability and pen tests on environments."
+    },
+    {
+      "duty": "Research and recommend any additional best security practices as known flaws are published by CISA and CERT."
+    },
+    {
+      "duty": "Verify hardware is properly configured from a security standpoint before assignments to users are completed."
+    },
+    {
+      "duty": "Aid in patch management."
+    },
+    {
+      "duty": "Participate in Red / Blue team activities."
+    },
+    {
+      "duty": "Confirm security platforms are up to date and monitor new live updates."
+    },
+    {
+      "duty": "Perform monthly audits of users, file permissions, Azure sign in access, VPN access, and web browsing abuse and publish a monthly security activity report to the Director of IT."
+    },
+    {
+      "duty": "Install security measures for physical infrastructure and software related systems."
+    },
+    {
+      "duty": "Audit systems for potential vulnerabilities and report any known risks found."
+    },
+    {
+      "duty": "Perform other related duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

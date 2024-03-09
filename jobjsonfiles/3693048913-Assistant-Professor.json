@@ -1,0 +1,42 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Professor",
+      "job_category": "Academia",
+      "job_class": "Professor",
+      "sector": "Educational",
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Teach undergraduate and graduate core courses in fields of specialization."
+    },
+    {
+      "duty": "Demonstrate a commitment to excellence in research and teaching."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Research",
+      "experience": 5
+    },
+    {
+      "skill": "Teaching",
+      "experience": 5
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Ph.D. in relevant field"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "salary": 75000
+}

@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 10
+    },
+    {
+      "skill": "Scrum / Kanban Agile",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 8
+    },
+    {
+      "skill": "CSM Certification",
+      "experience": 0
+    },
+    {
+      "skill": "SAFe Framework",
+      "experience": 0
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Drives consistent project delivery through the entire project lifecycle, including: project plans, release plans, resource allocation, and management of project risks, scope, schedule, and delivery of value."
+    },
+    {
+      "duty": "Coordinates Agile Ceremonies such as Sprint Planning, Daily Standups, Retrospectives, Sprint Demos, Story Refinement, and Release Planning."
+    },
+    {
+      "duty": "Tracks and communicates project's progress from a schedule, cost, and risk perspective to the project team, stakeholders, and management."
+    },
+    {
+      "duty": "Establishes an environment where the teams can be effective and helps removing obstacles."
+    },
+    {
+      "duty": "Protects the team from outside interruptions and distractions."
+    },
+    {
+      "duty": "Ensures a good relationship between the team and product owner as well as others outside the team."
+    },
+    {
+      "duty": "Tracks and reports team velocity and other project metrics."
+    },
+    {
+      "duty": "Promotes continuous improvement and helps teams to increase productivity."
+    },
+    {
+      "duty": "Helps Product Owner and team with Product backlog management."
+    },
+    {
+      "duty": "Ensures the teams are practicing core Agile principles."
+    },
+    {
+      "duty": "Adheres to VDOT and VITA project management practices as defined."
+    },
+    {
+      "duty": "Additional responsibilities as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 0,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "PMP from the Project Management Institute (PMI)"
+    }
+  ]
+}

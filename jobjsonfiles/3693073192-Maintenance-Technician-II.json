@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician II",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Maintenance and Repair",
+      "experience": 3
+    },
+    {
+      "skill": "Appliance Repair",
+      "experience": 3
+    },
+    {
+      "skill": "Carpentry",
+      "experience": 3
+    },
+    {
+      "skill": "Plumbing",
+      "experience": 3
+    },
+    {
+      "skill": "HVAC Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Groundskeeping",
+      "experience": 3
+    },
+    {
+      "skill": "Snow Removal",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Diagnose and make repairs in areas such as appliances, carpentry, hardware accessories, masonry, painting, basic electrical, basic plumbing, and basic HVAC."
+    },
+    {
+      "duty": "Complete assigned service requests and repairs consistent with company operating procedures."
+    },
+    {
+      "duty": "Ensure vacant apartments are prepared for occupancy and market ready in accordance to company standards."
+    },
+    {
+      "duty": "Perform maintenance service orders associated with the preventive maintenance program, building and safety inspection, and annual unit inspection."
+    },
+    {
+      "duty": "Order supplies and materials needed for repairs and maintenance."
+    },
+    {
+      "duty": "Maintain grounds and curb appeal through snow removal, landscaping, and trash management activities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Vocational or technical training."
+    },
+    {
+      "credential": "CAMT certification."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinary Technician",
+      "job_category": "Veterinary",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Animal Care",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Laboratory Sample Collection",
+      "experience": 3
+    },
+    {
+      "skill": "Surgical Assistance",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Record Documentation",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist Veterinarians in the care of animals, including restraining animals and stocking examination and surgery rooms with supplies."
+    },
+    {
+      "duty": "Perform initial evaluation of the pet\u2019s condition and advise doctor regarding nature of visit, preventative care due and client concerns."
+    },
+    {
+      "duty": "Obtain and prepare laboratory samples as requested by the veterinarian, i.e. urine, fecal and ear cytology."
+    },
+    {
+      "duty": "Notify the doctor of lab results in a timely fashion."
+    },
+    {
+      "duty": "Prepare and set up for surgical procedures while utilizing knowledge of proper sterile field requirements."
+    },
+    {
+      "duty": "Monitor recovery of surgery patients and communicate with owners per hospital policy."
+    },
+    {
+      "duty": "Accurately prepare and dispense medications as directed by the doctor, ensuring that medications are added to the pet\u2019s record and appropriately charged to the client."
+    },
+    {
+      "duty": "Know vaccination guidelines within the hospital and administer vaccinations under the direction of the doctor."
+    },
+    {
+      "duty": "Monitor hospitalized pets and perform treatments as directed by the doctor."
+    },
+    {
+      "duty": "Utilize hospital computer systems to document medical records and communicate with clients and teammates."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 120,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Veterinary Technician Certification or Licensure (CVT, RVT, LVT, or LVMT)."
+    }
+  ]
+}

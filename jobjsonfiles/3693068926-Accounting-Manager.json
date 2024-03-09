@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Accounting Manager",
+      "job_category": "Accounting",
+      "job_class": "Manager",
+      "sector": "Accounting",
+      "salary": 130000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting Services",
+      "experience": 5
+    },
+    {
+      "skill": "Payroll and Tax Services",
+      "experience": 5
+    },
+    {
+      "skill": "Training on Accounting Software",
+      "experience": 5
+    },
+    {
+      "skill": "Interviewing and Hiring",
+      "experience": 5
+    },
+    {
+      "skill": "Payroll Processing",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Public Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "CPA Certification",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform accounting services, including bank and general ledger reconciliations, journal entries, compile financial statements, create/maintain financial projections, etc."
+    },
+    {
+      "duty": "Perform payroll and tax services, including processing payroll and associated book journal entries, complete payroll tax returns, etc."
+    },
+    {
+      "duty": "Assist with researching, implementing, training on new accounting software."
+    },
+    {
+      "duty": "Assist with interviewing accounting personnel for permanent placement."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s or Master\u2019s Degree in Accounting. CPA Required for Manager"
+    }
+  ]
+}

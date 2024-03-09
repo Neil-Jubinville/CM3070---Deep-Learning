@@ -1,0 +1,47 @@
+{
+  "meta": [
+    {
+      "job_title": "Room Attendant",
+      "job_category": "Hospitality",
+      "job_class": "Attendant",
+      "sector": "Housekeeping",
+      "salary": 25000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cleaning Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Physical Strength",
+      "experience": 3
+    },
+    {
+      "skill": "Flexibility",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain the cleanliness of assigned guest rooms."
+    },
+    {
+      "duty": "Communicate effectively with guests."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Previous cleaning experience preferred."
+    }
+  ]
+}

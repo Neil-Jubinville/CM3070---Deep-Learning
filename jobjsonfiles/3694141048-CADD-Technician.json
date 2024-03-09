@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "CADD Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Civil Engineering",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CADD Software",
+      "experience": 2
+    },
+    {
+      "skill": "Civil Engineering",
+      "experience": 3
+    },
+    {
+      "skill": "Drawing Production",
+      "experience": 3
+    },
+    {
+      "skill": "Plan Sheet Development",
+      "experience": 3
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 3
+    },
+    {
+      "skill": "CAD Guidelines Adherence",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Learn and apply CADD software including Bentley MicroStation."
+    },
+    {
+      "duty": "Develop 3D corridor models and produce plan sheets."
+    },
+    {
+      "duty": "Conduct production on civil engineering plan sets - cutting discipline sheets, applying look and feel symbology, annotations, scale, and print settings."
+    },
+    {
+      "duty": "Organize and plan CADD drawings based on the needs of the clients CAD guidelines and standards."
+    },
+    {
+      "duty": "Driven to achieve a quality and clean set of drawing products."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree and completed previous CADD courses as part of the curriculum."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Inpatient Coding Specialist",
+      "job_category": "Healthcare",
+      "job_class": "Specialist",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Inpatient Coding",
+      "experience": 3
+    },
+    {
+      "skill": "DRG Assignment",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 3
+    },
+    {
+      "skill": "Health Information Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Resolve coding quality alerts/edits and address customer\u2019s quality concerns"
+    },
+    {
+      "duty": "Verify accuracy of assigned PCS codes for complex and/or error-prone procedures"
+    },
+    {
+      "duty": "Review charge and procedure code mismatches"
+    },
+    {
+      "duty": "Validate certain discharge dispositions"
+    },
+    {
+      "duty": "Review codes with revenue integrity for NCD/LCD coverage"
+    },
+    {
+      "duty": "Review encounters to determine coding accuracy based on a customer\u2019s specific complaint"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School graduate or GED equivalent required"
+    },
+    {
+      "credential": "Undergraduate (Associate's or Bachelor's) degree in HIM/HIT preferred"
+    },
+    {
+      "credential": "Minimum 1 year of acute care hospital inpatient coding required with 3 years preferred"
+    },
+    {
+      "credential": "RHIA, RHIT or CCS preferred"
+    }
+  ]
+}

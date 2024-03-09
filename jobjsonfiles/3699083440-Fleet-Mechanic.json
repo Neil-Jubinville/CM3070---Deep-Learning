@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Fleet Mechanic",
+      "job_category": "Industrial",
+      "job_class": "Mechanic",
+      "sector": "Industrial",
+      "salary": 28000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Equipment Inspection",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Welding",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Fabrication",
+      "experience": 5
+    },
+    {
+      "skill": "Purchasing",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Effectively monitor and inspect equipment for defects"
+    },
+    {
+      "duty": "Participates in the CMC Safety Programs and proactively upholds the CMC Safety Culture"
+    },
+    {
+      "duty": "Project planning including estimating man hours and job completion hours"
+    },
+    {
+      "duty": "Purchase supplies and parts for repair, track purchase requisitions when necessary"
+    },
+    {
+      "duty": "Work alongside other Technicians on job orders and troubleshooting"
+    },
+    {
+      "duty": "Maintain good general housekeeping, keeping clean equipment and work area"
+    },
+    {
+      "duty": "Perform predictive/preventive/corrective maintenance, utilize computer systems and programs for documentation of maintenance/safety activities; perform time entry, enter notifications and work orders, enter corrective actions/comments"
+    },
+    {
+      "duty": "Comply with DOT and state inspection requirements"
+    },
+    {
+      "duty": "Fabricates repair parts by using machine shop instrumentation and equipment"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma, GED, or equivalent experience is required"
+    }
+  ]
+}

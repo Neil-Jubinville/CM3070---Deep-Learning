@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "job_title": "DevSecOps Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "DevSecOps Techniques",
+      "experience": 7
+    },
+    {
+      "skill": "Continuous Integration",
+      "experience": 7
+    },
+    {
+      "skill": "Continuous Deployment (CI/CD)",
+      "experience": 7
+    },
+    {
+      "skill": "AWS Environments",
+      "experience": 7
+    },
+    {
+      "skill": "Docker",
+      "experience": 5
+    },
+    {
+      "skill": "Gitlab",
+      "experience": 5
+    },
+    {
+      "skill": "Ansible",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Services",
+      "experience": 7
+    },
+    {
+      "skill": "Automation",
+      "experience": 7
+    },
+    {
+      "skill": "Security",
+      "experience": 7
+    },
+    {
+      "skill": "Vulnerability Assessment",
+      "experience": 7
+    },
+    {
+      "skill": "RHEL",
+      "experience": 7
+    },
+    {
+      "skill": "Linux",
+      "experience": 7
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "MySQL",
+      "experience": 5
+    },
+    {
+      "skill": "ATO A&A",
+      "experience": 5
+    },
+    {
+      "skill": "Cybersecurity",
+      "experience": 7
+    },
+    {
+      "skill": "Classified Environments",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage cloud-based services, particularly with DevSecOps and continuous integration, to maintain and obtain operation authorization."
+    },
+    {
+      "duty": "Own the DevSecOps structure and pipeline running at various classification levels and help drive strategies for critical government customers."
+    }
+  ],
+  "subjective_elements": [],
+  "education_certification": [
+    {
+      "credential": "Active TS/SCI clearance required."
+    },
+    {
+      "credential": "Certifications such as CySA+, GICP, Security+, SSCP, CASP, CISM, CISSP, GSLC, CND, or GSEC"
+    }
+  ]
+}

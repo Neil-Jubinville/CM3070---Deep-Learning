@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Data Pipelines",
+      "experience": 5
+    },
+    {
+      "skill": "PyData stack (e.g. pandas)",
+      "experience": 5
+    },
+    {
+      "skill": "Multi-modal Data Handling",
+      "experience": 5
+    },
+    {
+      "skill": "Database Management (SQL & NoSQL)",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Architecture (AWS)",
+      "experience": 5
+    },
+    {
+      "skill": "GIS Data",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 3
+    },
+    {
+      "skill": "Start-up Experience",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the buildout of next-generation data and machine learning platform"
+    },
+    {
+      "duty": "Collaborate with data scientists and ETL specialists to establish an innovative greenfield platform"
+    },
+    {
+      "duty": "Uphold engineering excellence through setting standards and integrating emerging technologies"
+    },
+    {
+      "duty": "Contribute to the improvement of the existing analytics platform and scalability and reliability of data transformation and storage"
+    },
+    {
+      "duty": "Optimize and design cloud computing solutions"
+    },
+    {
+      "duty": "Cultivate a culture of engineering excellence and contribute to the enhancement of software engineering practices in Python"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

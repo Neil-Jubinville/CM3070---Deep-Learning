@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Diesel Mechanic",
+      "job_category": "Skilled Trades",
+      "job_class": "Skilled Worker",
+      "sector": "Manufacturing",
+      "salary": 62000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Diagnosis",
+      "experience": 5
+    },
+    {
+      "skill": "Repair and Overhaul",
+      "experience": 5
+    },
+    {
+      "skill": "Tune-ups",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Welding",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Inspect, maintain, and repair all plant mobile equipment in a professional and safe manner."
+    },
+    {
+      "duty": "Diagnose equipment malfunctions and perform repair work on gas and diesel-powered vehicle engines, pumps, and compressors."
+    },
+    {
+      "duty": "Perform repairs and overhauls on brake, clutch, hydraulic, A/C \u2013 heat, transmission, and other related systems on mobile equipment."
+    },
+    {
+      "duty": "Perform tune-ups, burning, torch cutting, brazing, and arc welding on mobile equipment."
+    },
+    {
+      "duty": "Change oil, lubricate, and maintain fluid levels on all mobile equipment in quarry and plant as required."
+    },
+    {
+      "duty": "Maintain repair shop and submit daily logs showing jobs worked on, time spent, and materials used."
+    },
+    {
+      "duty": "Exchange information with Quarry Supervisor regarding current operating conditions."
+    },
+    {
+      "duty": "Perform housekeeping duties, and other work assigned by Quarry Supervisor."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certification as a Diesel Mechanic from an accredited school"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Environmental Services",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Vehicle Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Welding and Fabrication",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Automotive Systems Inspection",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform repair and maintenance work on diesel and non-diesel equipment and trucks, including chassis components, vehicle refuse bodies, control systems, hydraulic electrical, air brake systems, general engine work, HVAC components, suspension, drive train, and steering systems."
+    },
+    {
+      "duty": "Perform basic tire work, such as replacement, tire rotation, and tread depth checks."
+    },
+    {
+      "duty": "Maintain a working knowledge of vehicle components and systems, with the ability to perform preventative and repair maintenance functions on-site and on the road."
+    },
+    {
+      "duty": "Provide road service when necessary to ensure that the company's equipment is returned to operation in a safe and efficient manner."
+    },
+    {
+      "duty": "Identify the source of malfunctions using a variety of electronic tools."
+    },
+    {
+      "duty": "Complete applicable company training programs."
+    },
+    {
+      "duty": "Perform other job-related duties as assigned or apparent."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum of 1 year of experience in a technician position demonstrating knowledge of both gasoline and diesel powered equipment diagnosis and repair, or a graduation from an accredited automotive college or technical school within the next 3 months."
+    }
+  ]
+}

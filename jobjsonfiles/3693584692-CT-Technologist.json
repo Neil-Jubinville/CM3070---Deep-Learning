@@ -1,0 +1,50 @@
+{
+  "meta": [
+    {
+      "job_title": "CT Technologist",
+      "job_category": "Radiologic Technologist",
+      "job_class": "Technologist",
+      "sector": "Healthcare",
+      "salary": 40,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tomography Imaging",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 3
+    },
+    {
+      "skill": "Radiology Review",
+      "experience": 3
+    },
+    {
+      "skill": "Healthcare Compliance",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Supplying tomography imaging and reviewing doctor\u2019s orders and patient history."
+    },
+    {
+      "duty": "Educating patients on the procedure, equipment, and exam to confirm understanding and cooperation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140,
+      "student_teacher": 100,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited Radiologic Technologist Program, ARRT in R and CT required, Colorado state RT License"
+    }
+  ]
+}

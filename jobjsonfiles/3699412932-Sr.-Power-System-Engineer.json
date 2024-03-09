@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. Power System Engineer",
+      "job_category": "Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 200000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Power System Design",
+      "experience": 5
+    },
+    {
+      "skill": "Analog/Mixed-Signal Design",
+      "experience": 5
+    },
+    {
+      "skill": "Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Simulation",
+      "experience": 5
+    },
+    {
+      "skill": "Power Converters",
+      "experience": 5
+    },
+    {
+      "skill": "SIMPLIS",
+      "experience": 5
+    },
+    {
+      "skill": "Simulink",
+      "experience": 5
+    },
+    {
+      "skill": "Oscilloscopes",
+      "experience": 5
+    },
+    {
+      "skill": "Bode Analyzers",
+      "experience": 5
+    },
+    {
+      "skill": "Pattern Generators",
+      "experience": 5
+    },
+    {
+      "skill": "Load Transient Generators",
+      "experience": 5
+    },
+    {
+      "skill": "I2C",
+      "experience": 5
+    },
+    {
+      "skill": "SPI",
+      "experience": 5
+    },
+    {
+      "skill": "SVID",
+      "experience": 5
+    },
+    {
+      "skill": "SVI3",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work on analog mixed-signal power chips with large digital content, implemented in state-of-the-art process technology."
+    },
+    {
+      "duty": "Model and simulate power architectures in Simplis & Simulink."
+    },
+    {
+      "duty": "Drive architectural innovation for paradigm shifts in power delivery."
+    },
+    {
+      "duty": "Test VR systems in the lab for transient performance and AC stability."
+    },
+    {
+      "duty": "Contribute to digital definition & RTL development and product roadmap definition."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "MS or Ph.D degree in Electrical Engineering or equivalent"
+    }
+  ]
+}

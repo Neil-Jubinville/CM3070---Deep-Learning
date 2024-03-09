@@ -1,0 +1,100 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Digital Electronic Engineer",
+      "job_category": "Engineering",
+      "job_class": "Senior Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Digital Circuit Design",
+      "experience": 10
+    },
+    {
+      "skill": "Schematics Design",
+      "experience": 10
+    },
+    {
+      "skill": "Microprocessor C Programming",
+      "experience": 10
+    },
+    {
+      "skill": "FPGA Design",
+      "experience": 10
+    },
+    {
+      "skill": "High-Speed Design Tools",
+      "experience": 10
+    },
+    {
+      "skill": "PCB Layout",
+      "experience": 10
+    },
+    {
+      "skill": "Firmware Development",
+      "experience": 10
+    },
+    {
+      "skill": "Signal Integrity Testing",
+      "experience": 10
+    },
+    {
+      "skill": "Embedded Controllers",
+      "experience": 10
+    },
+    {
+      "skill": "Manufacturing Documentation",
+      "experience": 10
+    },
+    {
+      "skill": "Code Composer Studio",
+      "experience": 10
+    },
+    {
+      "skill": "ARM Microcontrollers",
+      "experience": 10
+    },
+    {
+      "skill": "Capture Schematics",
+      "experience": 10
+    },
+    {
+      "skill": "Routing and PADs Tools",
+      "experience": 10
+    },
+    {
+      "skill": "Assembler Programming",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implementing embedded controllers using Microcontrollers for various image capture systems"
+    },
+    {
+      "duty": "Developing firmware utilizing \"C\" programming (and Assembler)"
+    },
+    {
+      "duty": "Experience with Capture schematics, PCB layout, routing and (PADs) tools"
+    },
+    {
+      "duty": "Working closely with the manufacturing team to ensure through documentation and for production of products"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electrical or Electronics\u2019 Engineering (or similar)"
+    }
+  ]
+}

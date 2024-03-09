@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Mobile Developer - Xamarin / MAUI",
+      "job_category": "Software Engineering",
+      "job_class": "Lead Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": ".Net",
+      "experience": 5
+    },
+    {
+      "skill": "Xamarin",
+      "experience": 4
+    },
+    {
+      "skill": "Mobile Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Maps Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Service",
+      "experience": 5
+    },
+    {
+      "skill": "Photo Capture",
+      "experience": 5
+    },
+    {
+      "skill": "Offline Storage",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and implement mobile architecture solutions using Xamarin and .Net technologies."
+    },
+    {
+      "duty": "Integrate maps and implement features such as address pinning, pinch and zoom, and driving distance calculation."
+    },
+    {
+      "duty": "Enable offline photo capture and synchronization with Azure services for data storage and retrieval."
+    },
+    {
+      "duty": "Collaborate with the team to ensure the successful delivery of mobile application features and functionality."
+    }
+  ]
+}

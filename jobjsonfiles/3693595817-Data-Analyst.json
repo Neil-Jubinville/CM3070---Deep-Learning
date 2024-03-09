@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Analyst",
+      "job_category": "Analytics",
+      "job_class": "Analyst",
+      "sector": "Data",
+      "salary": 125000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Python Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Statistical Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "ETL",
+      "experience": 5
+    },
+    {
+      "skill": "Data Warehousing",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Solutions",
+      "experience": 3
+    },
+    {
+      "skill": "Complex SQL Queries",
+      "experience": 5
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Analyze data to identify potential risks and problematic operations."
+    },
+    {
+      "duty": "Consult with field and business teams to review Last Mile operations and provide recommendations."
+    },
+    {
+      "duty": "Develop tools/dashboards/reports and other resources for stakeholders."
+    },
+    {
+      "duty": "Lead the development of key performance indicator metric processing."
+    },
+    {
+      "duty": "Provide continuous improvement of existing reports/dashboards/tools."
+    },
+    {
+      "duty": "Conduct data analysis, research, and develops educational materials based on trends."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Data Science, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

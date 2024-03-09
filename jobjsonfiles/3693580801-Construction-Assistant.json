@@ -1,0 +1,35 @@
+{
+  "meta": [
+    {
+      "job_title": "Construction Assistant",
+      "job_category": "Construction",
+      "job_class": "Assistant",
+      "sector": "Construction",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Hand Tool Proficiency",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provides assistance to assigned trade in support of renovation and new construction projects."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school education or equivalent preferred"
+    }
+  ]
+}

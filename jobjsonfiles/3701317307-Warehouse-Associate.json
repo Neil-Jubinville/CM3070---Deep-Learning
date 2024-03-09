@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Associate",
+      "job_category": "Warehouse",
+      "job_class": "Associate",
+      "sector": "Cash Management",
+      "salary": 33000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cash Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 1
+    },
+    {
+      "skill": "Security Awareness",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Verify all coin deposits received for processing and ensure the deposits match the depositing customer\u2019s amount declared on the coin deposit ticket."
+    },
+    {
+      "duty": "Operate a jet scan to sort coin by denomination and to verify customer coin deposits."
+    },
+    {
+      "duty": "Compare coin bags received against manifest to ensure all deposits are accounted for."
+    },
+    {
+      "duty": "Enter verified coin into the tracking system and report deposit totals to the supervisor and customer."
+    },
+    {
+      "duty": "Clean and maintain all coin equipment and ensure the processing area is clean and clutter free."
+    },
+    {
+      "duty": "Sort and load coin on a cart or pallet by bank, and conduct safety and security checks."
+    }
+  ]
+}

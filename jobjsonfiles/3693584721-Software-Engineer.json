@@ -1,0 +1,102 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Development",
+      "experience": 2
+    },
+    {
+      "skill": "Agile Engineering",
+      "experience": 3
+    },
+    {
+      "skill": "Java",
+      "experience": 3
+    },
+    {
+      "skill": "C++",
+      "experience": 3
+    },
+    {
+      "skill": "C#",
+      "experience": 3
+    },
+    {
+      "skill": ".NET Framework",
+      "experience": 3
+    },
+    {
+      "skill": "Database Applications",
+      "experience": 3
+    },
+    {
+      "skill": "Prototyping",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Innovation",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Presentations",
+      "experience": 3
+    },
+    {
+      "skill": "Security Clearance",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Hands-on design, development, test and evaluation, and demonstration of advanced prototype software applications."
+    },
+    {
+      "duty": "Apply state-of-the-art techniques using multiple programming languages and development environments to drive advances in mission capabilities."
+    },
+    {
+      "duty": "Assist the task leader in user engagements and develop innovative solutions applying Agile Engineering principles."
+    },
+    {
+      "duty": "Contribute to tasks as a member of the development team and provide technical leadership when required, documenting progress and results in technical briefings and reports."
+    },
+    {
+      "duty": "Effectively communicate application capabilities and task progress with sponsors and the MITRE team, and work effectively in a geographically distributed environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 80,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.S. in Computer Science or Computer Engineering (or similar) with overall GPA of 3.0 or higher with less than 1 year of demonstrated hands-on experience in software development in a collaborative team environment."
+    },
+    {
+      "credential": "Active Secret or Interim Secret clearance."
+    }
+  ]
+}

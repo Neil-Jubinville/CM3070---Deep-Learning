@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Clinical Therapist",
+      "job_category": "Mental Health",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Objectivity",
+      "experience": 5
+    },
+    {
+      "skill": "Confidentiality",
+      "experience": 5
+    },
+    {
+      "skill": "Organization",
+      "experience": 5
+    },
+    {
+      "skill": "Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Reporting Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Building and maintaining client relationships",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain full patient case-load."
+    },
+    {
+      "duty": "Use evidence-based treatment strategies for therapeutic intervention."
+    },
+    {
+      "duty": "Maintain records and complete documentation in a timely manner."
+    },
+    {
+      "duty": "Maintain operations by following policies and procedures, participating in quality reviews and reporting needed changes."
+    },
+    {
+      "duty": "Comply with federal, state, and local legal requirements."
+    },
+    {
+      "duty": "Maintain client confidence and protect operations by keeping information confidential."
+    },
+    {
+      "duty": "Contribute to team effort by accomplishing related results as needed."
+    },
+    {
+      "duty": "Meet or exceed all requirements of company policies and procedures."
+    },
+    {
+      "duty": "Other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Masters in Social Work or Counseling from an Accredited Institution"
+    }
+  ]
+}

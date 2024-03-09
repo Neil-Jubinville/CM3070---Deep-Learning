@@ -1,0 +1,119 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Cyber Security Deception Analyst",
+      "job_category": "Cybersecurity",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 135000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cybersecurity Strategy Development",
+      "experience": 7
+    },
+    {
+      "skill": "Deception Techniques",
+      "experience": 7
+    },
+    {
+      "skill": "Incident Response",
+      "experience": 7
+    },
+    {
+      "skill": "Threat Intelligence Analysis",
+      "experience": 7
+    },
+    {
+      "skill": "Network Traffic Analysis",
+      "experience": 7
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 7
+    },
+    {
+      "skill": "Programming and Scripting (Python, PowerShell)",
+      "experience": 7
+    },
+    {
+      "skill": "Security Tool Integration",
+      "experience": 7
+    },
+    {
+      "skill": "Security Architecture",
+      "experience": 7
+    },
+    {
+      "skill": "AI/ML and Technical Disciplines",
+      "experience": 7
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 7
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 7
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the design and development of comprehensive deception strategies tailored to the organization's specific security requirements."
+    },
+    {
+      "duty": "Conceptualize, design, and implement convincing decoys, honeypots, breadcrumbs, and other deceptive elements to attract and deceive potential attackers."
+    },
+    {
+      "duty": "Oversee the monitoring and analysis of deception environments to detect and analyze unauthorized access attempts, lateral movement, and other suspicious activities."
+    },
+    {
+      "duty": "Actively participate in incident response activities, utilizing deception technology to gather threat intelligence and track adversaries' tactics, techniques, and procedures (TTPs)."
+    },
+    {
+      "duty": "Manage the infrastructure and systems supporting the deception environment, ensuring high availability and scalability."
+    },
+    {
+      "duty": "Stay abreast of the latest cybersecurity threats, attack methodologies, and evasion techniques. Lead research initiatives to explore new deception technologies and approaches."
+    },
+    {
+      "duty": "Work closely with other cybersecurity teams to integrate deception into the overall security strategy effectively. Provide training and guidance to junior team members on deception techniques and best practices."
+    },
+    {
+      "duty": "Prepare detailed reports on deception performance, threat activities, and incident response outcomes. Maintain comprehensive documentation of all deception-related processes and configurations."
+    },
+    {
+      "duty": "Integrate deception technologies with existing security tools and infrastructure, enhancing overall threat detection and incident response capabilities."
+    },
+    {
+      "duty": "Create and maintain deceptive environments, networks, and systems to misdirect and deceive potential attackers. Strategically place deceptive assets to lure and trap malicious actors while gathering intelligence on their tactics, techniques, and procedures (TTPs)."
+    },
+    {
+      "duty": "Stay up-to-date with the latest threat landscape, including emerging attack vectors and techniques. Analyze threat intelligence data and incorporate it into the design and improvement of detection and deception systems to proactively defend against sophisticated cyber threats."
+    },
+    {
+      "duty": "Conduct regular assessments and testing of deception systems to ensure their effectiveness and identify areas for improvement. Work closely with red/purple/penetration testing teams to validate the organization's security posture and recommend remediation measures."
+    },
+    {
+      "duty": "Create comprehensive technical documentation, including system architecture diagrams, operational procedures, and incident reports. Prepare detailed reports on the effectiveness of detection and deception measures, key findings, and recommendations for senior management and stakeholders."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's degree in Cybersecurity, Computer Science, or a related field. Relevant certifications such as CISSP, CEH, or OSCP are desirable."
+    }
+  ]
+}

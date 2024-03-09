@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 10
+    },
+    {
+      "skill": "MS Dynamics 365",
+      "experience": 5
+    },
+    {
+      "skill": "SureStep",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft ADO",
+      "experience": 5
+    },
+    {
+      "skill": "JIRA",
+      "experience": 5
+    },
+    {
+      "skill": "Team Management",
+      "experience": 8
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and manage enterprise-level ERP projects including implementation, integration, and data migration."
+    },
+    {
+      "duty": "Utilize project management tools and methodologies such as MS Project, Azure AppDev (ADO), SureStep, Agile, and Hybrid."
+    },
+    {
+      "duty": "Coordinate and schedule project resources, generate progress reports, and conduct project meetings and reviews."
+    },
+    {
+      "duty": "Work with global teams and effectively communicate with C-suite executives."
+    },
+    {
+      "duty": "Stay updated with Microsoft Success by Design guidelines for Dynamics 365 Implementations and ensure compliance."
+    },
+    {
+      "duty": "Travel at least 25-30% per year for project-related activities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "PMP, ACP, CSM, or other comparable project management certification preferred."
+    },
+    {
+      "credential": "Certification(s) in MS Dynamics 365 F&O preferred."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Mechanical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Mechanical",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Design and Development",
+      "experience": 5
+    },
+    {
+      "skill": "Detailing",
+      "experience": 5
+    },
+    {
+      "skill": "CAD Software",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Power Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Materials Strength Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Drafting Standards",
+      "experience": 5
+    },
+    {
+      "skill": "Dimensioning and Tolerances",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Coordinate product design and development for equipment used in processing bulk material and aggregates"
+    },
+    {
+      "duty": "Design and detail custom conveying equipment"
+    },
+    {
+      "duty": "Perform design analysis for components"
+    },
+    {
+      "duty": "Create detail drawings"
+    },
+    {
+      "duty": "Complete bills of material"
+    },
+    {
+      "duty": "Evaluate and implement design changes"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Mechanical Engineering, Agricultural Engineering or related education"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "meta": [
+    {
+      "job_title": "Master Mechanic",
+      "job_category": "Maintenance",
+      "job_class": "Mechanic",
+      "sector": "Operations and Production",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Routine Maintenance",
+      "experience": 10
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 10
+    },
+    {
+      "skill": "Electrical Troubleshooting",
+      "experience": 10
+    },
+    {
+      "skill": "Refrigeration Processes",
+      "experience": 10
+    },
+    {
+      "skill": "Welding",
+      "experience": 10
+    },
+    {
+      "skill": "Plumbing",
+      "experience": 10
+    },
+    {
+      "skill": "Carpentry",
+      "experience": 10
+    },
+    {
+      "skill": "Industrial Equipment Operation",
+      "experience": 10
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Independently provide hands-on maintenance and repair services to all areas of winery operations including equipment, infrastructure, fixtures, furnishings, and buildings."
+    },
+    {
+      "duty": "Perform routine and preventative maintenance of all winery equipment and facilities, including cellar equipment, crush equipment, water supply, wastewater and storm-water systems, heating and cooling systems, wine tanks, buildings, and vehicles."
+    },
+    {
+      "duty": "Demonstrate strong understanding and troubleshooting skills in electrical systems, control circuits, control components, PLCs, ladder logic diagrams, refrigeration processes, and welding."
+    },
+    {
+      "duty": "Lead other lower-level mechanics on various projects and perform plumbing, rough carpentry, and finish work as needed."
+    },
+    {
+      "duty": "Complete assignments and work orders with minimal supervision, operate industrial equipment, and prioritize safety procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma/GED or equivalent experience"
+    },
+    {
+      "credential": "8-10 Years of maintenance experience in a winery setting"
+    },
+    {
+      "credential": "Knowledge of Cooling systems (Glycol Ammonia)"
+    },
+    {
+      "credential": "Forklift Certified"
+    },
+    {
+      "credential": "RETA certified (where applicable)"
+    },
+    {
+      "credential": "LOTO/Confined Space Certified"
+    },
+    {
+      "credential": "Valid CA Driver\u2019s License"
+    }
+  ]
+}

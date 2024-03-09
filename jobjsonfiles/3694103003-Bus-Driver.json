@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Bus Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Transportation",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Commercial Driving",
+      "experience": 1
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "First Aid",
+      "experience": 1
+    },
+    {
+      "skill": "Time Management",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate a school bus over designated routes and ensure safe transportation for students to and from school, special events, and field trips."
+    },
+    {
+      "duty": "Perform daily inspections and operator maintenance of the bus to ensure safe and efficient operation."
+    },
+    {
+      "duty": "Maintain order and discipline among students on the bus following District policies and procedures."
+    },
+    {
+      "duty": "Assist in the loading and unloading of physically and mentally handicapped students as necessary."
+    },
+    {
+      "duty": "Maintain records concerning vehicle maintenance, miles driven, number of children transported, and prepare reports as required."
+    },
+    {
+      "duty": "Attend safety and preventive emergency meetings when required and perform first aid according to established guidelines and procedures."
+    },
+    {
+      "duty": "Practice positive interpersonal skills, recognize equipment malfunctions, and observe legal and defensive driving practices."
+    },
+    {
+      "duty": "Implement and adhere to all rules and regulations, policies, administrative guidelines, and directives as adopted by the Board of Education and other authorities."
+    },
+    {
+      "duty": "Maintain acceptable personal attendance and act as a consistent positive public relations agent for the school and district programs."
+    },
+    {
+      "duty": "Perform any other duties that may be assigned by the Director of Transportation or Administrative Staff."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma, G.E.D. Certificate, and one year experience in the operation of a motor vehicle. Valid Kentucky Commercial Class B driver's license and School Bus Certificate as required by Kentucky law."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Care Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Certified Nursing Assistant (CNA)",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Clinical Rotations",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide direct patient care and support under the supervision of nursing staff."
+    },
+    {
+      "duty": "Assist with patient activities of daily living and maintain a clean and safe environment for patients."
+    },
+    {
+      "duty": "Communicate effectively with patients, families, and other healthcare team members."
+    },
+    {
+      "duty": "Complete clinical rotations as per the requirements of the role."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certified Nursing Assistant (CNA) certification or completion of at least 1 clinical rotation in Nursing School"
+    }
+  ]
+}

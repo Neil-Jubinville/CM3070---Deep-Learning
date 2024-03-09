@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Laboratory Technician III",
+      "job_category": "Science",
+      "job_class": "Technician",
+      "sector": "Health Sciences",
+      "salary": 58000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "RNA/DNA Extraction",
+      "experience": 3
+    },
+    {
+      "skill": "Molecular Techniques",
+      "experience": 3
+    },
+    {
+      "skill": "GLP Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Laboratory Maintenance",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct manual, semi-automated, and automated experiments under GLP conditions in BSL-2 and BSL-3 laboratories."
+    },
+    {
+      "duty": "Perform RNA/DNA extraction and purification, and execute other molecular techniques including PCR, RT-PCR, immunoassays, and sample preparation in support of various projects."
+    },
+    {
+      "duty": "Generate, collect, and analyze data, and maintain laboratory facility and perform equipment maintenance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science in Biology, Biochemistry, Chemistry, or related field"
+    }
+  ]
+}

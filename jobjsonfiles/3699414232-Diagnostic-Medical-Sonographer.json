@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Diagnostic Medical Sonographer",
+      "job_category": "Healthcare",
+      "job_class": "Sonographer",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Diagnostic Procedures",
+      "experience": 5
+    },
+    {
+      "skill": "Ultrasound Imaging",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Equipment Management",
+      "experience": 5
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Physical Requirements Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform diagnostic procedures using ultrasound waves to examine tissue and body structure, providing quality images for interpretation."
+    },
+    {
+      "duty": "Set up and adjust all equipment, and maneuver transducers to perform exams with safety and quality control procedures."
+    },
+    {
+      "duty": "Recognize significant structures, artifacts, pathology, and equipment limitations during imaging procedures."
+    },
+    {
+      "duty": "Ensure the prompt submission of high-quality images and documents to PACS, and maintain compliance with regulatory agencies."
+    },
+    {
+      "duty": "Assist in maintaining a clean and orderly department, including procedure rooms and storage areas."
+    },
+    {
+      "duty": "Work in a constant state of alertness and safe manner, and perform other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 20,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree or completion of a Sonography certification program"
+    }
+  ]
+}

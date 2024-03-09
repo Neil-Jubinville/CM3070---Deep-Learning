@@ -1,0 +1,105 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Data Engineer",
+      "job_category": "Engineering",
+      "job_class": "Lead",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Engineering",
+      "experience": 10
+    },
+    {
+      "skill": "Team Management",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Server SSIS",
+      "experience": 10
+    },
+    {
+      "skill": "Azure Data Factory",
+      "experience": 5
+    },
+    {
+      "skill": "Azure ADLS",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 5
+    },
+    {
+      "skill": "Stakeholder Communication",
+      "experience": 10
+    },
+    {
+      "skill": "Product Backlog Grooming",
+      "experience": 10
+    },
+    {
+      "skill": "Sprint Planning",
+      "experience": 10
+    },
+    {
+      "skill": "QA Testing",
+      "experience": 10
+    },
+    {
+      "skill": "Migration to Azure",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the design, development, and implementation of data pipelines and data warehouses."
+    },
+    {
+      "duty": "Develop and implement data pipelines and data warehouses using SQL Server SSIS."
+    },
+    {
+      "duty": "Troubleshoot data pipelines and data warehouses."
+    },
+    {
+      "duty": "Communicate with stakeholders to understand their needs and ensure that projects meet their requirements."
+    },
+    {
+      "duty": "Manage the team's workload and ensure that projects are completed on time and within budget."
+    },
+    {
+      "duty": "Mentor junior data engineers and help them develop their skills."
+    },
+    {
+      "duty": "Stay up-to-date on the latest data engineering technologies and best practices."
+    },
+    {
+      "duty": "Provide support to production teams and QA teams."
+    },
+    {
+      "duty": "Work with stakeholders to develop product backlog grooming, sprint planning data engineering and QA Testing."
+    },
+    {
+      "duty": "Working with other engineers to design and implement data pipelines and data warehouses using Azure Data Factory, ADLS, and CI/CD."
+    },
+    {
+      "duty": "Experience in migrating SQL server to Azure. 30% team management and 70% hands-on."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 30,
+      "student_teacher": 200,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Data Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

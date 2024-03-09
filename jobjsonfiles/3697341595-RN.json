@@ -1,0 +1,47 @@
+{
+  "meta": [
+    {
+      "job_title": "RN",
+      "job_category": "Non-Acute - Nursing",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 39,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical/Surgical",
+      "experience": 2
+    },
+    {
+      "skill": "IV Insertion",
+      "experience": 2
+    },
+    {
+      "skill": "Phlebotomy",
+      "experience": 2
+    },
+    {
+      "skill": "Conscious Sedation",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide medical/surgical care to patients"
+    },
+    {
+      "duty": "Perform IV insertion and phlebotomy procedures"
+    },
+    {
+      "duty": "Administer conscious sedation as required"
+    }
+  ],
+  "subjective_elements": [],
+  "education_certification": [
+    {
+      "credential": "New York State RN License, Primary Source Verification, AHA BLS, AHA ACLS"
+    }
+  ]
+}

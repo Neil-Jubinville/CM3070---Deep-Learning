@@ -1,0 +1,110 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Mechanic",
+      "job_category": "Maintenance",
+      "job_class": "Mechanic",
+      "sector": "Manufacturing",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Repair",
+      "experience": 3
+    },
+    {
+      "skill": "Mechanical Repair",
+      "experience": 3
+    },
+    {
+      "skill": "AC & DC Motor Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Equipment Adjustment",
+      "experience": 3
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Welding",
+      "experience": 2
+    },
+    {
+      "skill": "Carpentry",
+      "experience": 2
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Math Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Determine the cause of mechanical breakdowns and return equipment to proper operating condition"
+    },
+    {
+      "duty": "Perform electrical troubleshooting on AC & DC motor drives, distribution panels, solenoids, relayed and other related devices"
+    },
+    {
+      "duty": "Make necessary adjustments to equipment"
+    },
+    {
+      "duty": "Participate in PM program"
+    },
+    {
+      "duty": "Supports & complies with safety & environmental guidelines"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Prior experience working in a manufacturing environment"
+    },
+    {
+      "credential": "Basic manufacturing wiring experience"
+    },
+    {
+      "credential": "Knowledge of technical aspects of electrical trade"
+    },
+    {
+      "credential": "Welding skills"
+    },
+    {
+      "credential": "Carpentry skills"
+    },
+    {
+      "credential": "Strong mechanical knowledge"
+    },
+    {
+      "credential": "Ability to troubleshoot & solve problems"
+    },
+    {
+      "credential": "Basic math skills"
+    },
+    {
+      "credential": "Good English language skills"
+    },
+    {
+      "credential": "No fear of heights"
+    }
+  ]
+}

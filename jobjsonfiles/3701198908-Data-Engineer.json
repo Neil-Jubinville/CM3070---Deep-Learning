@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AWS Glue",
+      "experience": 5
+    },
+    {
+      "skill": "Data Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Database Schema Design",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Data Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "ETL Processes",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop data pipelines on-premise and in the cloud."
+    },
+    {
+      "duty": "Analyze, define, and document system requirements for data, workflow, logical processes, and reporting requirements."
+    },
+    {
+      "duty": "Support the creation of new cloud infrastructure and data ecosystem."
+    },
+    {
+      "duty": "Create and maintain functional and technical specifications documents."
+    },
+    {
+      "duty": "Design, implement, and manage data pipelines to deliver data for applications, reporting, or analytics."
+    },
+    {
+      "duty": "Develop, implement, and manage end-to-end data solutions."
+    },
+    {
+      "duty": "Create test plans, test data sets, and perform automated testing to ensure system components meet specifications."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s or higher Degree in Computer Science, Engineering or equivalent experience."
+    }
+  ]
+}

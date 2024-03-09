@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "SAT Tutor",
+      "job_category": "Education",
+      "job_class": "Tutor",
+      "sector": "Education",
+      "salary": 40000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Online Tutoring",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Subject-Matter Expertise in SAT",
+      "experience": 5
+    },
+    {
+      "skill": "Personalized Lesson Planning",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide online SAT tutoring to individual students for a highly personalized learning experience."
+    },
+    {
+      "duty": "Meet with small groups (typically 7-9 students) for a more collaborative learning experience."
+    },
+    {
+      "duty": "Share knowledge with hundreds of students at a time in large live classes."
+    },
+    {
+      "duty": "Accept subject-specific, on-demand tutoring sessions whenever available."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 100,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Education or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "High School English Tutor",
+      "job_category": "Education",
+      "job_class": "Tutor",
+      "sector": "Education",
+      "salary": 30000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "High School English",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Adaptive Teaching",
+      "experience": 3
+    },
+    {
+      "skill": "Online Tutoring",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide high-quality tutoring and educational support for high school students in English language and literature."
+    },
+    {
+      "duty": "Personalize lessons and teaching approach to cater to the individual needs and learning styles of each student."
+    },
+    {
+      "duty": "Utilize Varsity Tutors' online platform to deliver 1-on-1 online tutoring, small group classes, large live classes, and instant tutoring sessions."
+    },
+    {
+      "duty": "Engage with students through effective communication and friendly, approachable teaching methods."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in English, Education, or a related field"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "DevOps Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CICD Pipeline Development",
+      "experience": 5
+    },
+    {
+      "skill": "Security Scans (Static and Dynamic)",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Infrastructure Management",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting (Groovy, Bash, etc.)",
+      "experience": 5
+    },
+    {
+      "skill": "DevSecOps Tool Stacks (Bitbucket, Cloudbees, SonarQube)",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Requirements Gathering",
+      "experience": 5
+    },
+    {
+      "skill": "Agile and Kanban Methodologies",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build CICD pipelines and automate build and deployment processes for various applications like Salesforce."
+    },
+    {
+      "duty": "Perform security scans, both static and dynamic, using tools like Veracode."
+    },
+    {
+      "duty": "Support operational tasks, including after-hours and business hour deployments."
+    },
+    {
+      "duty": "Manage DevSecOps tool stacks and write clean reusable code using scripts like Groovy."
+    },
+    {
+      "duty": "Gather technical requirements, design, implement, and maintain mission-critical infrastructure platform and DevSecOps services."
+    },
+    {
+      "duty": "Utilize DevOps concepts and software development life cycle methodologies, including Agile and Kanban."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

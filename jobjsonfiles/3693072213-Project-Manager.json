@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Renewable Energy",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 10
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 10
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 10
+    },
+    {
+      "skill": "Procurement",
+      "experience": 8
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "experience": 8
+    },
+    {
+      "skill": "MS Office",
+      "experience": 8
+    },
+    {
+      "skill": "Technical Drawing Interpretation",
+      "experience": 8
+    },
+    {
+      "skill": "System Operational Knowledge",
+      "experience": 8
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage multiple equipment design, build, and installation projects."
+    },
+    {
+      "duty": "Set and maintain project schedules and budgets to meet forecasted margins."
+    },
+    {
+      "duty": "Coordinate internal and external resources for project execution, providing regular updates and working to contract milestones."
+    },
+    {
+      "duty": "Function as the primary, external customer contact on assigned projects, focusing on exemplary customer service."
+    },
+    {
+      "duty": "Manage the procurement of equipment and material to implement design basis requirements on various projects."
+    },
+    {
+      "duty": "Evaluate Engineering Change Requests and Engineering Change Orders for technical accuracy and completeness."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 40,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Mechanical Engineering degree or related degree with significant experience in mechanical design. Bachelor's degree required (Master's preferred)."
+    }
+  ]
+}

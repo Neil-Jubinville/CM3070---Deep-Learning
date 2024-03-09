@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Unit Clerk PRN",
+      "job_category": "Clerical",
+      "job_class": "Clerk",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Record Keeping",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Interaction",
+      "experience": 2
+    },
+    {
+      "skill": "Healthcare Documentation",
+      "experience": 1
+    },
+    {
+      "skill": "Clerical Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Scheduling",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain and update patient records and charts in accordance with departmental and regulatory requirements."
+    },
+    {
+      "duty": "Interact with patients and their families in a professional and compassionate manner, providing assistance and information as needed."
+    },
+    {
+      "duty": "Compile and maintain healthcare documentation, ensuring accuracy and confidentiality of patient information."
+    },
+    {
+      "duty": "Utilize clerical skills to support administrative functions such as filing, data entry, and phone communication."
+    },
+    {
+      "duty": "Schedule appointments, tests, and procedures for patients, coordinating with medical staff and facilities."
+    },
+    {
+      "duty": "Demonstrate understanding of medical terminology to accurately interpret and communicate healthcare information."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 100,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent (Associate's Degree preferred)"
+    }
+  ]
+}

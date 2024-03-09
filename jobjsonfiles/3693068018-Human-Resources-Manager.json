@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Human Resources Manager",
+      "job_category": "Human Resources",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Human Resource Strategy",
+      "experience": 8
+    },
+    {
+      "skill": "Recruitment",
+      "experience": 8
+    },
+    {
+      "skill": "Compensation Management",
+      "experience": 8
+    },
+    {
+      "skill": "Employee Relations",
+      "experience": 8
+    },
+    {
+      "skill": "Talent Management",
+      "experience": 8
+    },
+    {
+      "skill": "Policy Development",
+      "experience": 8
+    },
+    {
+      "skill": "Payroll Administration",
+      "experience": 8
+    },
+    {
+      "skill": "HR Information Systems",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and execute human resource strategies in line with organizational objectives and culture."
+    },
+    {
+      "duty": "Lead recruitment efforts for all personnel, from job postings to background checks and new employee orientations."
+    },
+    {
+      "duty": "Manage compensation and benefit schemes to motivate and retain employees."
+    },
+    {
+      "duty": "Oversee employee relations, including conflict resolution, disciplinary actions, and policy development."
+    },
+    {
+      "duty": "Analyze talent gaps and develop targeted programs for talent management and succession planning."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 75,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration or related field (Master's preferred)"
+    },
+    {
+      "credential": "7 to 10 years of experience in human resources or equivalent combination of education and experience"
+    }
+  ]
+}

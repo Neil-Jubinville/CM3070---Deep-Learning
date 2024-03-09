@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinary Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 25,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Veterinary Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Emergency and Critical Care",
+      "experience": 2
+    },
+    {
+      "skill": "Client Education",
+      "experience": 2
+    },
+    {
+      "skill": "Venipuncture",
+      "experience": 2
+    },
+    {
+      "skill": "IV-Catheter Placement",
+      "experience": 2
+    },
+    {
+      "skill": "Radiography",
+      "experience": 2
+    },
+    {
+      "skill": "Dental Prophylaxis",
+      "experience": 2
+    },
+    {
+      "skill": "Laboratory Testing",
+      "experience": 2
+    },
+    {
+      "skill": "Anesthesia Monitoring",
+      "experience": 2
+    },
+    {
+      "skill": "Surgical Assistance",
+      "experience": 2
+    },
+    {
+      "skill": "Compassionate Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Pet Restraint",
+      "experience": 2
+    },
+    {
+      "skill": "Bilingual",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide support to veterinarians and ensure quality veterinary care for pets."
+    },
+    {
+      "duty": "Assist with surgeries according to state's Veterinary Practice Act."
+    },
+    {
+      "duty": "Communicate with clients about pet health concerns and treatment options."
+    },
+    {
+      "duty": "Maintain medical records and obtain relevant health history from clients."
+    },
+    {
+      "duty": "Use safe techniques, follow protocols, and maintain clean, sterile treatment areas."
+    },
+    {
+      "duty": "Guide, mentor, and support fellow team members."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "2 years of Veterinary Technician direct patient care"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Application Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "RPA Software Development",
+      "experience": 2
+    },
+    {
+      "skill": "BluePrism",
+      "experience": 2
+    },
+    {
+      "skill": "UiPath",
+      "experience": 2
+    },
+    {
+      "skill": "SOAP and REST APIs",
+      "experience": 1
+    },
+    {
+      "skill": "SQL",
+      "experience": 2
+    },
+    {
+      "skill": "json",
+      "experience": 2
+    },
+    {
+      "skill": "NOSQL databases",
+      "experience": 2
+    },
+    {
+      "skill": "Process Modeling",
+      "experience": 2
+    },
+    {
+      "skill": "AI/Automation",
+      "experience": 2
+    },
+    {
+      "skill": "Application Development",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, operate, and maintain complex RPA bots to interact with web browser and Windows applications and integrate using SQL, REST, SOAP based Web APIs."
+    },
+    {
+      "duty": "Evaluate and manipulate data from external sources (e.g. CSV, xls, pdf), SQL, and NOSQL databases."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Developer certification for UiPath and/or BluePrism"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "ForgeRock Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ForgeRock Products (OpenAM, OpenDJ, OpenIDM)",
+      "experience": 5
+    },
+    {
+      "skill": "Single Sign On (SSO) and SAML",
+      "experience": 5
+    },
+    {
+      "skill": "OAuth",
+      "experience": 5
+    },
+    {
+      "skill": "Java/J2EE",
+      "experience": 5
+    },
+    {
+      "skill": "Identity and Access Management",
+      "experience": 8
+    },
+    {
+      "skill": "Installation and Configuration",
+      "experience": 8
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "LDAP Directories (OpenDJ)",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support delivery and support of high-quality Identity and Access Management services while adhering to client standards and best practices."
+    },
+    {
+      "duty": "Work on installation and configurations, and ensure thorough understanding and work experience for Single Sign-On, Access management, Identity Federation, Multi-factor authentication."
+    },
+    {
+      "duty": "Write scripts and develop code to fetch assertion values from multiple data sources, and work with ForgeRock UI customization."
+    },
+    {
+      "duty": "Handle On-time provisioning / deprovisioning using ForgeRock OpenIDM (Identity management) system."
+    },
+    {
+      "duty": "Develop and execute comprehensive marketing strategies to enhance brand visibility and promote freight and logistics services."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering or a related field (Master's preferred)"
+    }
+  ]
+}

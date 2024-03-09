@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Manager",
+      "job_category": "Hospitality",
+      "job_class": "Manager",
+      "sector": "Hospitality",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Control",
+      "experience": 3
+    },
+    {
+      "skill": "Cash Control",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Relations",
+      "experience": 3
+    },
+    {
+      "skill": "Employee Development",
+      "experience": 2
+    },
+    {
+      "skill": "Team Management",
+      "experience": 3
+    },
+    {
+      "skill": "Technology Troubleshooting",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage cost controls, inventory control, cash control, and customer relations during shifts."
+    },
+    {
+      "duty": "Assist with basic operations procedures and employee development."
+    },
+    {
+      "duty": "Demonstrate team member and food safety protocols."
+    },
+    {
+      "duty": "Operate and troubleshoot technology."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 130,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

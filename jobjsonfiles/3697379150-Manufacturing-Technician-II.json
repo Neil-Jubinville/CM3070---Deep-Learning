@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Manufacturing Technician II",
+      "job_category": "Manufacturing",
+      "job_class": "Technician",
+      "sector": "Manufacturing",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Training and Teaching",
+      "experience": 3
+    },
+    {
+      "skill": "Manufacturing Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Maintenance Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Project Management",
+      "experience": 2
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 2
+    },
+    {
+      "skill": "Employee Development",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver and coordinate all training for assigned department."
+    },
+    {
+      "duty": "Maintain employee skill matrix, qualification matrix and department headcount sheets internally through the development of all employees in the assigned production department."
+    },
+    {
+      "duty": "Establish and track career path/progressing within the department."
+    },
+    {
+      "duty": "Coordinate and deliver improvement plans internally within each department."
+    },
+    {
+      "duty": "Provide valuable input on the development of internal work instructions and standard operating procedures."
+    },
+    {
+      "duty": "Support department managers and supervisors on delivering training material within department, by coordinating with internal trainers and employees."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 150,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associates Degree or higher in engineering related fields."
+    },
+    {
+      "credential": "Maintenance technician for a minimum of 2 years."
+    }
+  ]
+}

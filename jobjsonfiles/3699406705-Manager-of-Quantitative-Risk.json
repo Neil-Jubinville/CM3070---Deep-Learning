@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Manager of Quantitative Risk",
+      "job_category": "Data Science",
+      "job_class": "Manager",
+      "sector": "Financial Services",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Quantitative Statistics",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "R",
+      "experience": 4
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 4
+    },
+    {
+      "skill": "Model Testing & Validation",
+      "experience": 5
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop qualitative and quantitative testing while designing scalable approaches to evaluating surveillance models."
+    },
+    {
+      "duty": "Perform Above the Line (ATL) and Below the Line (BTL) model testing in a repeatable and consistent manner supported by quantitative evidence."
+    },
+    {
+      "duty": "Assess risks related to model design, data feeds, data mapping, model output, and overall model health."
+    },
+    {
+      "duty": "Assist in the development of a standard quantitative approach for setting thresholds for rules-based, statistics-based and machine learning surveillance models."
+    },
+    {
+      "duty": "Support the ownership and maintenance of model inventory, model documentation, model change control processes and other organizational efforts."
+    },
+    {
+      "duty": "Provide thoughtful and effective challenge of model assumptions, thresholds, design specifications and corresponding outputs."
+    },
+    {
+      "duty": "Present findings and recommendations on model performance, enhancement, or augmentation requirements to Financial Crimes Compliance senior leaders."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Quantitative Statistics, Actuarial Science, Finance, Computer Science, Data Science, or equivalent quantitatively intensive field (Master's preferred)"
+    }
+  ]
+}

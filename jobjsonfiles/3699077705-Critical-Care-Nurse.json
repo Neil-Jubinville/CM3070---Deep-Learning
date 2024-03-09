@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Critical Care Nurse",
+      "job_category": "Health Care",
+      "job_class": "Nurse",
+      "sector": "Health Care",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Respiratory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Ventilator Management",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care Coordination",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Assessment and Reassessments",
+      "experience": 5
+    },
+    {
+      "skill": "Nursing Education",
+      "experience": 5
+    },
+    {
+      "skill": "Discharge Planning",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide and coordinate care for critically ill patients"
+    },
+    {
+      "duty": "Collaborate with physicians and multidisciplinary team members to provide physical and psychological support to patients and their families"
+    },
+    {
+      "duty": "Administer prescribed medications, change dressings, clean wounds, and monitor vital signs"
+    },
+    {
+      "duty": "Serve as the primary coordinator of all disciplines for well-coordinated patient care"
+    },
+    {
+      "duty": "Monitor, record, and communicate patient condition utilizing computerized documentation systems"
+    },
+    {
+      "duty": "Assess and coordinate patient's discharge planning needs with healthcare team"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "RN licensure by Tennessee Board of Nursing or a Board of Nursing from a compact state. Associate's degree; Bachelor\u2019s degree is preferred, BLS required, ACLS must be obtained within 6 Months of hire or transfer from non-ICU area"
+    }
+  ]
+}

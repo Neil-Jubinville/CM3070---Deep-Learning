@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Systems Coordinator",
+      "job_category": "Information Technology",
+      "job_class": "Coordinator",
+      "sector": "Management",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "System Management",
+      "experience": 2
+    },
+    {
+      "skill": "Data Validation",
+      "experience": 2
+    },
+    {
+      "skill": "Test Scripting",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain inventory and labor management systems for Chipotle."
+    },
+    {
+      "duty": "Conduct data validation and execute test scripts for enhancement testing regarding the systems."
+    },
+    {
+      "duty": "Support daily functionality of the food and scheduling management system."
+    },
+    {
+      "duty": "Respond to daily support tickets opened by field operations to troubleshoot data discrepancies or system functionality issues."
+    },
+    {
+      "duty": "Work with system vendors to implement enhanced system functionality."
+    },
+    {
+      "duty": "Support DC transitions and/or new DCs onboarding in food management system in partnership with Supply Chain."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree (BA/BS) from 4-year college or university preferred, but not required."
+    }
+  ]
+}

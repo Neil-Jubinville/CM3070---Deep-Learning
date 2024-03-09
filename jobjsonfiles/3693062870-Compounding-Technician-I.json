@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Compounding Technician I",
+      "job_category": "Pharmacy Technician",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 17.49,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Pharmacy Compounding",
+      "experience": 2
+    },
+    {
+      "skill": "Medication Preparation",
+      "experience": 2
+    },
+    {
+      "skill": "Pharmaceutical Calculations",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Mathematical Calculations",
+      "experience": 2
+    },
+    {
+      "skill": "MS Office",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare and dispense medications in accordance with policies and procedures, and state regulations."
+    },
+    {
+      "duty": "Maintain cleanliness and sanitization of pharmacy surfaces and equipment."
+    },
+    {
+      "duty": "Assist in assessing, managing, and reporting medication-related incidents."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 40,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED. Minimum of 1 year of pharmacy technician experience. Must be licensed or registered (if required by the state)."
+    }
+  ]
+}

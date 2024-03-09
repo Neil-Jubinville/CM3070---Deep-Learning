@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 1
+    },
+    {
+      "skill": "Object-Oriented Design",
+      "experience": 1
+    },
+    {
+      "skill": "J2EE",
+      "experience": 1
+    },
+    {
+      "skill": "Spring Framework",
+      "experience": 1
+    },
+    {
+      "skill": "Web Services",
+      "experience": 1
+    },
+    {
+      "skill": "REST API",
+      "experience": 1
+    },
+    {
+      "skill": "Json",
+      "experience": 1
+    },
+    {
+      "skill": "XML parsers",
+      "experience": 1
+    },
+    {
+      "skill": "SQL",
+      "experience": 1
+    },
+    {
+      "skill": "RDBMS (Oracle/MySQL)",
+      "experience": 1
+    },
+    {
+      "skill": "UNIX/LINUX",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide support and deployment of backend API-s for our online content-rich properties."
+    },
+    {
+      "duty": "Responsible for coding, unit testing and general quality assurance of the API-s."
+    },
+    {
+      "duty": "Work very closely with QA engineers, architects, tech leads on several projects at a time."
+    },
+    {
+      "duty": "Solve technical challenges on a day to day basis and build applications for scalability and performance."
+    },
+    {
+      "duty": "Write clean, well-tested and maintainable code."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS/MS in Computer Science or related field is preferred."
+    }
+  ]
+}

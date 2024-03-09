@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "PHP",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 5
+    },
+    {
+      "skill": "Web Application Development",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Product Management",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Code Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Knowledge Transfer",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Contribute to the development of web applications and features for LastPass browser extension and web application."
+    },
+    {
+      "duty": "Collaborate with agile teams to deliver high-quality solutions within deadlines."
+    },
+    {
+      "duty": "Assist in requirement analysis, planning, estimation, and cost-benefit analysis."
+    },
+    {
+      "duty": "Maintain web infrastructure, HTTP, and REST standards. Implement OOP best practices and design patterns."
+    },
+    {
+      "duty": "Address medium challenges independently and cooperate with other teams working on the product."
+    },
+    {
+      "duty": "Create and maintain technical documentation and participate in code reviews."
+    },
+    {
+      "duty": "Offer assistance and guidance to junior engineers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

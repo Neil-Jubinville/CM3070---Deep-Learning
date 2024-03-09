@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cable Experience",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Mathematics",
+      "experience": 1
+    },
+    {
+      "skill": "Electronics Knowledge",
+      "experience": 1
+    },
+    {
+      "skill": "Coax Network Installation",
+      "experience": 1
+    },
+    {
+      "skill": "Fiber Network Installation",
+      "experience": 1
+    },
+    {
+      "skill": "Telecommunications Installation/Service",
+      "experience": 1
+    },
+    {
+      "skill": "RF Knowledge",
+      "experience": 1
+    },
+    {
+      "skill": "AC and DC Knowledge",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Premise Network Knowledge",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain and repair wires for internet services from hub sites to connection points outside of the customer's home."
+    },
+    {
+      "duty": "Monitor and report signal leakages and repairs as required."
+    },
+    {
+      "duty": "Provide 24/7 coverage, day and night, to maintain the network."
+    },
+    {
+      "duty": "Work independently, communicate clearly with customers and suppliers either in person or on the phone."
+    },
+    {
+      "duty": "Operate appropriate computer or test equipment."
+    },
+    {
+      "duty": "Work outside in all weather conditions, as hours will be dictated by business needs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 20,
+      "introvert_extrovert": 220
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent work experience"
+    }
+  ]
+}

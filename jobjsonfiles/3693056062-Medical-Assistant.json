@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assisting",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Vitals Management",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Registration",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Office Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Accounting Principles",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Knowledge of Payer Requirements",
+      "experience": 2
+    },
+    {
+      "skill": "Computer Proficiency",
+      "experience": 2
+    },
+    {
+      "skill": "CPR Certification",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assisting in patient care, including managing patient flow, taking vitals, and fulfilling other patient needs."
+    },
+    {
+      "duty": "Maintaining the organization of stations, exam rooms, and procedure rooms."
+    },
+    {
+      "duty": "Performing administrative responsibilities such as registering patient demographics and insurance details, handling charges, scheduling appointments, and confirming insurance data."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED"
+    },
+    {
+      "credential": "Medical Assistant certification"
+    },
+    {
+      "credential": "Completion of an accredited Medical Assistant Program"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Level 2 Lab Support Technician",
+      "job_category": "Technology",
+      "job_class": "Support",
+      "sector": "IT",
+      "salary": 29,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Desktop/Server Support",
+      "experience": 3
+    },
+    {
+      "skill": "Linux",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Windows",
+      "experience": 3
+    },
+    {
+      "skill": "Personal Computer Hardware",
+      "experience": 3
+    },
+    {
+      "skill": "Desktop Software",
+      "experience": 3
+    },
+    {
+      "skill": "OS Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Network Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Mentorship",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support and maintain Windows desktops, server systems, and Linux devices in a lab environment."
+    },
+    {
+      "duty": "Design and implement hardware and software installation projects."
+    },
+    {
+      "duty": "Troubleshoot and debug compute device systems."
+    },
+    {
+      "duty": "Customize systems for specific functional areas or unique user needs."
+    },
+    {
+      "duty": "Provide user training and education, including re-imaging and new hardware setup."
+    },
+    {
+      "duty": "Install and troubleshoot printers, diagnose and resolve hardware and software issues for users."
+    },
+    {
+      "duty": "Ensure client satisfaction, manage client relationships, and report status and resource needs."
+    },
+    {
+      "duty": "Mentor and train junior Regional IT Specialists, provide leadership and project management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "CompTIA's A+ and Network+ certification preferred; MCSE: Desktop Infrastructure and CCNA a plus"
+    }
+  ]
+}

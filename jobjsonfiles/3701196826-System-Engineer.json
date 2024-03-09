@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "System Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Systems Engineering",
+      "experience": 10
+    },
+    {
+      "skill": "Requirements Analysis",
+      "experience": 10
+    },
+    {
+      "skill": "Technical Specifications",
+      "experience": 10
+    },
+    {
+      "skill": "Stakeholder Management",
+      "experience": 10
+    },
+    {
+      "skill": "Sensor Technology",
+      "experience": 10
+    },
+    {
+      "skill": "Field Testing",
+      "experience": 10
+    },
+    {
+      "skill": "Technical Briefing",
+      "experience": 10
+    },
+    {
+      "skill": "Sensor Performance Modeling",
+      "experience": 10
+    },
+    {
+      "skill": "Clearance Management",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform DOD 5000 lifecycle systems engineering and manage technical activities for development, test, and fielding."
+    },
+    {
+      "duty": "Decompose operational requirements into system functional requirements and technical specifications."
+    },
+    {
+      "duty": "Interface with members of a multi-disciplinary product team to identify system requirements and oversee system design, development, integration, and product verification testing at the component and system level."
+    },
+    {
+      "duty": "Interface with stakeholders and OEMs to ensure requirements are met and expected availability and performance levels are achieved."
+    },
+    {
+      "duty": "Develop and deliver technical and program briefs to government and contractor personnel at all levels."
+    },
+    {
+      "duty": "Serve as technical Subject Matter Expert for sensor technology and support PM staff with in-depth knowledge of sensor phenomenology, design, and performance."
+    },
+    {
+      "duty": "Design and/or conduct sensor performance modeling and simulation using validated tools based on sensor design parameters."
+    },
+    {
+      "duty": "Translate operational performance requirements into technical design specifications."
+    },
+    {
+      "duty": "Manage clearance and field testing operations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Engineering or related field (Master's preferred)"
+    }
+  ]
+}

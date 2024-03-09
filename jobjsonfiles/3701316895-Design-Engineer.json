@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Design Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Manufacturing",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CAD",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Design",
+      "experience": 5
+    },
+    {
+      "skill": "Solidworks",
+      "experience": 5
+    },
+    {
+      "skill": "AutoCAD",
+      "experience": 5
+    },
+    {
+      "skill": "Large Equipment Design",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide designs for the glass and ceramics industries, molten metals, and minerals."
+    },
+    {
+      "duty": "Design fixtures/parts with input from engineering manager."
+    },
+    {
+      "duty": "Monitor the cost and effectiveness of activities to optimize resources, prioritize spending, and maintain professional standards."
+    },
+    {
+      "duty": "Manage production change/improvement requests and implementing changes."
+    },
+    {
+      "duty": "Analyze product or equipment specifications to determine designs."
+    },
+    {
+      "duty": "Prepare or direct preparations of product or system layout and detailed drawings, and standards."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.S Degree in Engineering discipline (Mechanical Engineering is ideal)"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Cosmetologist",
+      "job_category": "Cosmetology",
+      "job_class": "Intermediate",
+      "sector": "Beauty Services",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Salon Techniques",
+      "experience": 3
+    },
+    {
+      "skill": "Equipment Proficiency",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Relationship Building",
+      "experience": 4
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing hair services including hair design, haircuts, color, texture, hair treatments, makeup applications, and ear piercing (where applicable)"
+    },
+    {
+      "duty": "Building personal and professional rapport with all guests"
+    },
+    {
+      "duty": "Providing professional product recommendations as part of all services"
+    },
+    {
+      "duty": "Meeting/exceeding all individual sales and productivity goals"
+    },
+    {
+      "duty": "Attending mandatory educations events and workshops"
+    },
+    {
+      "duty": "Assisting in store duties (e.g., filling Salon retail displays and shelves.)"
+    },
+    {
+      "duty": "Adhering to all Salon standards for guest service and cleanliness"
+    },
+    {
+      "duty": "Attending manager led monthly business development meetings to support personal business growth"
+    },
+    {
+      "duty": "Demonstrating personal style while adhering to the Ulta Beauty dress code"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Cosmetology and/or Barber license"
+    }
+  ]
+}

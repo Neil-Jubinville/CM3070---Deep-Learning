@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Full Stack Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "Angular",
+      "experience": 5
+    },
+    {
+      "skill": "React",
+      "experience": 5
+    },
+    {
+      "skill": "Node.js",
+      "experience": 5
+    },
+    {
+      "skill": "HTML/CSS",
+      "experience": 5
+    },
+    {
+      "skill": "TypeScript",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "RESTful Web Services",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Practices",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Platforms (AWS, GCP, Azure)",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform software development on Front End Applications leveraging a test-driven development pattern"
+    },
+    {
+      "duty": "Own the technical design and development of cross-functional, multi-platform application systems"
+    },
+    {
+      "duty": "Share passion for staying on top of tech trends, experimenting with and learning new technologies, participating in internal & and external technology communities, and mentoring other members of the engineering community"
+    },
+    {
+      "duty": "Collaborate with digital product managers, and deliver robust cloud-based solutions that drive powerful experiences to help millions of users achieve financial empowerment"
+    },
+    {
+      "duty": "Utilize programming languages like JavaScript (Angular, React, Node), HTML/CSS, TypeScript, and Java, open source frameworks, RESTful web services, and work on cross-browser and cross-device development"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree"
+    },
+    {
+      "credential": "At least 4 years of professional software engineering experience (Internship experience does not apply)"
+    },
+    {
+      "credential": "5+ years of experience in at least one of the following: Angular, React, or TypeScript"
+    },
+    {
+      "credential": "1+ years of experience with AWS, GCP, Azure, or another cloud service"
+    },
+    {
+      "credential": "3+ years of experience in open source frameworks"
+    },
+    {
+      "credential": "2+ years of experience in Agile practices"
+    }
+  ]
+}

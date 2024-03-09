@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Med-Surg Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Med-Surg Nursing",
+      "experience": 2
+    },
+    {
+      "skill": "Emergency Department Care",
+      "experience": 2
+    },
+    {
+      "skill": "ICU Care",
+      "experience": 2
+    },
+    {
+      "skill": "BLS Certification",
+      "experience": 2
+    },
+    {
+      "skill": "ACLS Certification",
+      "experience": 2
+    },
+    {
+      "skill": "PALS Certification",
+      "experience": 2
+    },
+    {
+      "skill": "Trauma Nursing Core Course (TNCC) Certification",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide care to Med-Surg patients in a hospital setting"
+    },
+    {
+      "duty": "Utilize emergency care skills in responding to critical patients"
+    },
+    {
+      "duty": "Administer care and treatments to ICU patients"
+    },
+    {
+      "duty": "Maintain BLS, ACLS, and PALS certifications as required for patient care"
+    },
+    {
+      "duty": "Complete TNCC certification to enhance trauma nursing skills"
+    }
+  ],
+  "subjective_elements": [],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing, or related field"
+    }
+  ]
+}

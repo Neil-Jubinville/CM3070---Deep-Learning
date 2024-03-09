@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Intermediate",
+      "sector": "Software Engineering",
+      "salary": 151590,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ASP.NET Core",
+      "experience": 3
+    },
+    {
+      "skill": "Windows Communication Foundation (WCF) Services",
+      "experience": 3
+    },
+    {
+      "skill": "jQuery",
+      "experience": 3
+    },
+    {
+      "skill": "Bootstrap",
+      "experience": 3
+    },
+    {
+      "skill": ".Net",
+      "experience": 3
+    },
+    {
+      "skill": "Ajax",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, estimate, and code intermediate to complex modules, enhancements, and bug-fixes; redesign existing applications and modules to optimize system."
+    },
+    {
+      "duty": "Work with subject matter experts, business analysts, database administrators, and QA teams to ensure the quality of data, troubleshoot application software issues and analysis of requests for system changes."
+    },
+    {
+      "duty": "Analyze existing software and application data to diagnose and pose solutions to reported problems."
+    },
+    {
+      "duty": "Gather business reporting and analytics requirements; create technical documents for the sourcing of data reports and analytics functionality."
+    },
+    {
+      "duty": "Develop data models to support reporting and analytics capacity; use relational or non-relational databases to deliver data for reporting and analytics; ensure the data flow supporting existing reports and analytics continue to function as designed and troubleshoot any data quality and integrity issues as necessary."
+    },
+    {
+      "duty": "Participate actively in all phases of development from design to coding, unit testing, integration testing, implementation, and technical documentation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 100,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree or foreign equivalent in Computer Science, Software Engineering, Electronic Engineering or a related field."
+    },
+    {
+      "credential": "Two years of experience in the Job offered, Technical Consultant, Module Lead or related."
+    }
+  ]
+}

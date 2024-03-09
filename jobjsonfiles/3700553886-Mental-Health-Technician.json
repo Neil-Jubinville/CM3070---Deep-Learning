@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Mental Health Technician",
+      "job_category": "Behavioral Health",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 22,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Supervision",
+      "experience": 3
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Client Safety",
+      "experience": 3
+    },
+    {
+      "skill": "Crisis Intervention",
+      "experience": 3
+    },
+    {
+      "skill": "Residential Care",
+      "experience": 3
+    },
+    {
+      "skill": "Behavioral Health Treatment",
+      "experience": 3
+    },
+    {
+      "skill": "Group Dynamics",
+      "experience": 3
+    },
+    {
+      "skill": "Transportation Services",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide supervision for clients and ensure their safety while building a rapport with them."
+    },
+    {
+      "duty": "Assist each client in working with a group and handle individual problems."
+    },
+    {
+      "duty": "Set limits for client behavior and create documentation of client progress."
+    },
+    {
+      "duty": "Identify the possible need for professional services and communicate findings to professional staff."
+    },
+    {
+      "duty": "Facilitate residential daily schedule including chores, meal service, and activities."
+    },
+    {
+      "duty": "Provide transportation to residents for community outings and meetings in a safe and legal manner."
+    },
+    {
+      "duty": "Practice compliance with all policies and record-keeping requirements."
+    },
+    {
+      "duty": "Remain current and up to date on all trainings and certifications required to maintain employment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 75
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "H.S. Degree or GED required; bachelor\u2019s level degree in psychology, counseling or sociology preferred."
+    },
+    {
+      "credential": "Valid driver\u2019s license and eligibility for insurance coverage for driving the company\u2019s vehicles."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr Engr Cslt - Data Engineer",
+      "job_category": "Data Engineering",
+      "job_class": "Consultant",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Engineering",
+      "experience": 4
+    },
+    {
+      "skill": "Artificial Intelligence",
+      "experience": 4
+    },
+    {
+      "skill": "Data Pipeline Management",
+      "experience": 5
+    },
+    {
+      "skill": "Database Management (Teradata, SQL Server, etc.)",
+      "experience": 3
+    },
+    {
+      "skill": "Cloud Data Engineering (Google Cloud, Big Query)",
+      "experience": 1
+    },
+    {
+      "skill": "Dashboard Development (Tableau, Looker, Qlik)",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage and lead activities in artificial intelligence, data engineering, operations automation, security remediation, and Omni channel technology."
+    },
+    {
+      "duty": "Analyze marketing, customer experience, and digital operations environments to build data pipelines and transform data into actionable intelligence."
+    },
+    {
+      "duty": "Design, build, and document new data pipelines, analytics, and fact tables for reports."
+    },
+    {
+      "duty": "Collaborate in cross-functional teams to source new data, develop schema requirements, and maintain metadata."
+    },
+    {
+      "duty": "Identify ways to improve data reliability, efficiency, and quality using large data sets to address business issues."
+    },
+    {
+      "duty": "Use data to discover tasks that can be automated and analyze existing Teradata/SQL queries for performance improvement."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or four or more years of work experience. Master's degree in Computer Science, Information Systems and / or related technical discipline preferred. Teradata/Big Data Analytics Certification desirable."
+    }
+  ]
+}

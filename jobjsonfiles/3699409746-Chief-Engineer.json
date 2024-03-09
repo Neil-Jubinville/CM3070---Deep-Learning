@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Chief Engineer",
+      "job_category": "Engineering",
+      "job_class": "Chief",
+      "sector": "Operations",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "experience": 10
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 10
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 10
+    },
+    {
+      "skill": "Diagnostic and Repair",
+      "experience": 10
+    },
+    {
+      "skill": "Training and Development",
+      "experience": 10
+    },
+    {
+      "skill": "Building System Maintenance",
+      "experience": 10
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 10
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    },
+    {
+      "skill": "Building Automation Systems",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Determine work methods, trade techniques, equipment, and materials for personnel under their supervision."
+    },
+    {
+      "duty": "Assign work to subordinates and provide Quality Control for their work."
+    },
+    {
+      "duty": "Perform diagnostic and repairs on building systems and prepare work schedules."
+    },
+    {
+      "duty": "Train employees in the proper maintenance of building systems and coordinate maintenance and repair work."
+    },
+    {
+      "duty": "Perform other duties as required by management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Ten (10) years of experience as an Operating Engineer and possession of a current Stationary Operating Engineer (MD) or DC 3rd Class License."
+    },
+    {
+      "credential": "At least two (2) years of experience directing personnel in O&M activities and a minimum of five (5) years of experience with operation and maintenance, repairs, and troubleshooting of chillers (> 500 Tons) and boilers (> 125 HP)."
+    }
+  ]
+}

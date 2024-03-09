@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Computer Operator",
+      "job_category": "Information Technology",
+      "job_class": "Entry-Level",
+      "sector": "Software Engineering",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Job Scheduling",
+      "experience": 1
+    },
+    {
+      "skill": "AS400",
+      "experience": 1
+    },
+    {
+      "skill": "Unix",
+      "experience": 1
+    },
+    {
+      "skill": "Network Monitoring",
+      "experience": 2
+    },
+    {
+      "skill": "Batch Processing",
+      "experience": 2
+    },
+    {
+      "skill": "Hardware Configurations",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Commands",
+      "experience": 2
+    },
+    {
+      "skill": "Data Centre Infrastructure Management (DCIM) Tools",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Monitor and manage jobs using an automated scheduling system, including adding and removing jobs from the scheduler."
+    },
+    {
+      "duty": "Utilize monitoring tools to oversee the company network and nightly store polling system."
+    },
+    {
+      "duty": "Monitor the company store PC network using appropriate tools."
+    },
+    {
+      "duty": "Process phone requests and manually submit batch processing jobs while monitoring their completion."
+    },
+    {
+      "duty": "Troubleshoot problems and assist in their resolution, notifying relevant personnel of exceptions (e.g., batch processing errors)."
+    },
+    {
+      "duty": "Assist the Shift Team Leader in department initiatives and demonstrate good organizational skills."
+    },
+    {
+      "duty": "Utilize knowledge of hardware configurations, AS/400, UNIX, and Microsoft commands, with a preference for automated batch processing."
+    },
+    {
+      "duty": "Pay attention to detail and use knowledge of monitoring and Data Centre Infrastructure Management (DCIM) tools."
+    },
+    {
+      "duty": "Exhibit good oral communication skills."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in a computer-related course of study"
+    }
+  ]
+}

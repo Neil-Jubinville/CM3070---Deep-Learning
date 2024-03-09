@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Program Manager",
+      "job_category": "Program Management",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 200000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Program Planning",
+      "experience": 15
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 15
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 15
+    },
+    {
+      "skill": "Metrics Analysis",
+      "experience": 15
+    },
+    {
+      "skill": "Stakeholder Collaboration",
+      "experience": 15
+    },
+    {
+      "skill": "Risk Mitigation",
+      "experience": 15
+    },
+    {
+      "skill": "Lean Governance",
+      "experience": 15
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "End-to-end ownership of program scope, planning, resource management, schedule, budget, and progress against business outcomes."
+    },
+    {
+      "duty": "Optimize the flow of value through teams, facilitate the prioritization of all work, and manage the program backlog."
+    },
+    {
+      "duty": "Develop program metrics, monitor and report on the progress of programs to all stakeholders and project team members."
+    },
+    {
+      "duty": "Mentor team members in agile and scrum methodologies through an agile transformation, promoting best practices and driving continuous improvement."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in a related field or equivalent experience. PMI-ACP, CSM, PgMP, PMP or equivalent preferred."
+    }
+  ]
+}

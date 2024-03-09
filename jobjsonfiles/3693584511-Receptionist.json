@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "job_title": "Receptionist",
+      "job_category": "Administration",
+      "job_class": "Entry-level",
+      "sector": "Health Services",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Fluent in Spanish",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Answer and direct phone calls"
+    },
+    {
+      "duty": "Administrative tasks in excel and QuickBooks"
+    },
+    {
+      "duty": "Communicate with patients and caregivers"
+    },
+    {
+      "duty": "Coordinate with different departments"
+    }
+  ]
+}

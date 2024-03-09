@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "NodeJS Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Node.js",
+      "experience": 5
+    },
+    {
+      "skill": "Express.js",
+      "experience": 5
+    },
+    {
+      "skill": "MongoDB",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "RESTful APIs",
+      "experience": 5
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Debugging",
+      "experience": 5
+    },
+    {
+      "skill": "Git",
+      "experience": 5
+    },
+    {
+      "skill": "Web Application Development",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Scalability Optimization",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Developing web applications using Node.js, Express.js, MongoDB, and Python"
+    },
+    {
+      "duty": "Designing and developing RESTful APIs"
+    },
+    {
+      "duty": "Writing unit tests and integration tests"
+    },
+    {
+      "duty": "Debugging and troubleshooting existing applications"
+    },
+    {
+      "duty": "Optimizing code for performance and scalability"
+    },
+    {
+      "duty": "Collaborating with other developers and designers"
+    },
+    {
+      "duty": "Working with version control systems such as Git"
+    }
+  ]
+}

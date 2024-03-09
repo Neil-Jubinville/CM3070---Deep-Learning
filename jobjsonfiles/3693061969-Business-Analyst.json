@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Analyst",
+      "job_category": "Business Analyst",
+      "job_class": "Analyst",
+      "sector": "Management",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Business Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Process Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Digital Transformation",
+      "experience": 5
+    },
+    {
+      "skill": "User Stories",
+      "experience": 5
+    },
+    {
+      "skill": "Confluence",
+      "experience": 5
+    },
+    {
+      "skill": "JIRA",
+      "experience": 5
+    },
+    {
+      "skill": "Salesforce",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Google Suite",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Engage with Product Managers to intimately understand and support documenting product requirements."
+    },
+    {
+      "duty": "Partner with Product Managers to improve the ability to estimate the size and scope of new product and service offerings being proposed."
+    },
+    {
+      "duty": "Assist in documenting cross-functional business requirements and develop user stories."
+    },
+    {
+      "duty": "Define and standardize processes and playbooks for Product Managers to improve time to define product options regarding key decision points in the process."
+    },
+    {
+      "duty": "Build consensus from cross-functional leads on business requirements."
+    },
+    {
+      "duty": "Capture the tactical and strategic product goals that provide traceability through the organization and are mapped to metrics."
+    },
+    {
+      "duty": "Define the set of strategic, core and support processes that transcend functional and organizational boundaries; identify and describe external entities such as customers, suppliers, and external systems that interact with the business; and describe which people, resources, and controls are involved in the processes."
+    },
+    {
+      "duty": "Partner with QA team to leverage automation for items such as regression testing to improve overall quality when projects are ready for UAT."
+    },
+    {
+      "duty": "Work with business partners and product managers to define test scenarios for UAT."
+    },
+    {
+      "duty": "Manage UAT execution, coordinate between business testers and IT development teams."
+    },
+    {
+      "duty": "Document test results and ensure timely execution and sign-off of test scenarios."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Information Technology, or related field"
+    }
+  ]
+}

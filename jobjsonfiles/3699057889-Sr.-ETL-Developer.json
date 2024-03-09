@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. ETL Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 125000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "T-SQL",
+      "experience": 4
+    },
+    {
+      "skill": "SSIS/SSMS Development",
+      "experience": 3
+    },
+    {
+      "skill": "ETL Development",
+      "experience": 3
+    },
+    {
+      "skill": "PeopleSoft",
+      "experience": 3
+    },
+    {
+      "skill": "Azure",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 3
+    },
+    {
+      "skill": "ERD Modeling",
+      "experience": 2
+    },
+    {
+      "skill": "RDBMS Architecture",
+      "experience": 2
+    },
+    {
+      "skill": "Data Mining",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain T-SQL and SSIS/SSMS solutions for ETL processes"
+    },
+    {
+      "duty": "Work with large datasets, performing data manipulation and movement tasks"
+    },
+    {
+      "duty": "Contribute to ERP application development and integration, particularly with PeopleSoft and Azure environments"
+    },
+    {
+      "duty": "Collaborate in agile iterations, ensuring efficient and effective delivery of data solutions"
+    },
+    {
+      "duty": "Utilize data tools such as Visual Studio, SSIS, MSSQL for development and maintenance tasks"
+    },
+    {
+      "duty": "Apply critical thinking to all aspects of ETL development and data manipulation"
+    },
+    {
+      "duty": "Demonstrate knowledge and application of ERD Modeling and maintenance principles"
+    },
+    {
+      "duty": "Troubleshoot RDBMS architecture and data-related issues"
+    },
+    {
+      "duty": "Utilize data mining methods to extract insights and optimize data processes"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

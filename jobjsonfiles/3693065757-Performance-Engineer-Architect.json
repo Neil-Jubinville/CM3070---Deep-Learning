@@ -1,0 +1,109 @@
+{
+  "meta": [
+    {
+      "job_title": "Performance Engineer/Architect",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 125000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Performance Testing",
+      "experience": 5
+    },
+    {
+      "skill": "APM Tool (AppDynamics)",
+      "experience": 5
+    },
+    {
+      "skill": "Salesforce",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Expertise in Performance testing/tuning of enterprise applications [Web, API, Cloud]"
+    },
+    {
+      "duty": "Experience in LoadRunner/JMeter/Performance Center"
+    },
+    {
+      "duty": "Experience in APM tools \u2013 AppDynamics, Dynatrace, Datadog, Wily, AWS CloudWatch"
+    },
+    {
+      "duty": "Knowledge in CICD / DevOps models"
+    },
+    {
+      "duty": "Experience in performance testing PCF cloud-based/salesforce application preferred"
+    },
+    {
+      "duty": "Exposure to backend performance analysis - Server logs, Heap/Thread dump analysis, DB monitoring"
+    },
+    {
+      "duty": "Knowledge in Client-side profiling [Catchpoint, Google web vitals] and Service virtualization [Parasoft, CA Lisa]"
+    },
+    {
+      "duty": "Testing Coordination experience - Full understanding of End-to-End performance test process"
+    },
+    {
+      "duty": "Soft Skills (Communication \u2013 via email, phone, live-meeting)"
+    },
+    {
+      "duty": "Complete understanding of the SLA (Service Level Agreement)"
+    },
+    {
+      "duty": "Involving in the Daily scrum calls"
+    },
+    {
+      "duty": "Involved Performance Engineering end to end activities"
+    },
+    {
+      "duty": "Developing Performance Engineering scripts using Virtual User Generator with various protocols like Web-HTTP/HTML Web Services"
+    },
+    {
+      "duty": "Executing the performance scripts by generating loads from various load generators using HP Performance Center"
+    },
+    {
+      "duty": "Preparing the performance scenarios based on the Requirements"
+    },
+    {
+      "duty": "Analyzing the run results to understand capabilities of application architecture"
+    },
+    {
+      "duty": "Comparing the results with baseline performance metrics, generate end reports and reporting them to the client"
+    },
+    {
+      "duty": "Trained the new resources in performance engineering"
+    },
+    {
+      "duty": "Involved in Audits"
+    },
+    {
+      "duty": "Team Management and daily review on the task done by the team in Off shore"
+    },
+    {
+      "duty": "CICD"
+    },
+    {
+      "duty": "Resiliency Engineering"
+    },
+    {
+      "duty": "Utility development"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

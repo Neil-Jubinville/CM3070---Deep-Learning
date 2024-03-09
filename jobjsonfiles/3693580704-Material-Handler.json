@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Material Handler",
+      "job_category": "Logistics",
+      "job_class": "Handler",
+      "sector": "Manufacturing",
+      "salary": 38000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Shipping and Receiving",
+      "experience": 2
+    },
+    {
+      "skill": "Warehouse Management",
+      "experience": 2
+    },
+    {
+      "skill": "Forklift Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare outgoing packages for shipment and unload all incoming goods per company procedures."
+    },
+    {
+      "duty": "Pull orders together and assemble them using banding and shrink wrap machines for shipment to customers."
+    },
+    {
+      "duty": "Package products as needed."
+    },
+    {
+      "duty": "Load and unload trucks and move material within the warehouse."
+    },
+    {
+      "duty": "Route goods to the proper areas within the production area."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

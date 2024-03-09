@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Security Engineer",
+      "job_category": "Information Technology",
+      "job_class": "Engineer",
+      "sector": "Security",
+      "salary": 135000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cybersecurity",
+      "experience": 5
+    },
+    {
+      "skill": "Network Security",
+      "experience": 5
+    },
+    {
+      "skill": "Incident Response",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Security",
+      "experience": 5
+    },
+    {
+      "skill": "Security Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Security Incident Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Python Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, implement, and manage security solutions aligned with industry best practices and regulatory standards."
+    },
+    {
+      "duty": "Utilize expertise in security technologies and tools such as Firewall, NGFW, IPS, SIEM, and endpoint security."
+    },
+    {
+      "duty": "Secure cloud environments and virtualized infrastructure to maintain comprehensive protection against cyber threats."
+    },
+    {
+      "duty": "Enhance security incident response procedures and collaborate with incident response teams."
+    },
+    {
+      "duty": "Analyze network traffic, identify anomalies, and implement effective security measures using TCP/IP."
+    },
+    {
+      "duty": "Develop custom security tools, automate security processes using Python programming."
+    },
+    {
+      "duty": "Stay up to date with the latest cybersecurity trends, vulnerabilities, and attack vectors."
+    },
+    {
+      "duty": "Collaborate with internal and external auditors to ensure compliance with industry frameworks such as NIST, CIS, and PCI."
+    },
+    {
+      "duty": "Provide technical leadership and mentorship to junior security team members."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent technical work experience."
+    },
+    {
+      "credential": "CISSP, Fortinet ISE, Cisco CCNP, Splunk certifications are preferred."
+    }
+  ]
+}

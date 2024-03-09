@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 37000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Acute Care Nursing",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Adaptability",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "Empathy",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide acute care nursing services to patients in a healthcare setting"
+    },
+    {
+      "duty": "Deliver compassionate and effective patient care, ensuring the comfort and well-being of patients"
+    },
+    {
+      "duty": "Demonstrate critical thinking skills in the assessment and treatment of patients"
+    },
+    {
+      "duty": "Collaborate with healthcare teams to provide comprehensive patient care and support"
+    },
+    {
+      "duty": "Communicate effectively with patients, families, and healthcare professionals"
+    },
+    {
+      "duty": "Adapt to changing healthcare environments and patient needs"
+    },
+    {
+      "duty": "Manage time effectively to prioritize patient care tasks and responsibilities"
+    },
+    {
+      "duty": "Show empathy and understanding towards patients, advocating for their needs and concerns"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (Master's preferred)"
+    }
+  ]
+}

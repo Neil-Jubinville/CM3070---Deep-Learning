@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Commercial Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Logistics",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Safe Driving Practices",
+      "experience": 5
+    },
+    {
+      "skill": "Department of Transportation Regulations",
+      "experience": 5
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Load Securement",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Poultry Tractor Trailer Driving",
+      "experience": 3
+    },
+    {
+      "skill": "Math Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Physical Endurance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Exercise safe driving practices and ensure the safety of the public while transporting live poultry from growers to the processing facility."
+    },
+    {
+      "duty": "Comply with all Department of Transportation regulations and perform pre-trip inspections."
+    },
+    {
+      "duty": "Assist with loading and unloading trailer, ensuring a secure load before movement."
+    },
+    {
+      "duty": "Maintain proper documentation and report truck and equipment maintenance issues."
+    },
+    {
+      "duty": "Ensure compliance with all safety rules, regulations, and company policies."
+    },
+    {
+      "duty": "Work in outside environment, sit and drive for extended periods, lift heavy loads, and work in noisy and odorous environments."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid Class A CDL with 1 year verifiable satisfactory driving record"
+    }
+  ]
+}

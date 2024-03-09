@@ -1,0 +1,33 @@
+{
+  "meta": [
+    {
+      "job_title": "Tech Writer",
+      "job_category": "Writing",
+      "job_class": "Writer",
+      "sector": "Technology",
+      "salary": 65000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Writing",
+      "experience": 2
+    },
+    {
+      "skill": "Documentation",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Creating procedure documentation from various groups to create one enterprise document."
+    },
+    {
+      "duty": "Working with General Council to ensure the policy is within compliance and meets established standards."
+    },
+    {
+      "duty": "Creating technical writings to develop internal and external documentation."
+    }
+  ]
+}

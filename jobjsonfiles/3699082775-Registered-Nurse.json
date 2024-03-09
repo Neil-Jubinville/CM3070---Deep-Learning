@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Nursing",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 6
+    },
+    {
+      "skill": "Occupational Health",
+      "experience": 6
+    },
+    {
+      "skill": "Employee Health Visits",
+      "experience": 6
+    },
+    {
+      "skill": "Immunizations",
+      "experience": 6
+    },
+    {
+      "skill": "Health and Wellness Training",
+      "experience": 6
+    },
+    {
+      "skill": "Acuity-based Staffing",
+      "experience": 6
+    },
+    {
+      "skill": "Work-related Illness Assessment",
+      "experience": 6
+    },
+    {
+      "skill": "Infectious Disease Experience",
+      "experience": 6
+    },
+    {
+      "skill": "Internal Medicine Experience",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide direct and indirect nursing care for UW Health employees, contract employees, and non-employee groups, with an emphasis in the area of occupational health."
+    },
+    {
+      "duty": "Complete Employee Health visits per hospital policy and department protocols."
+    },
+    {
+      "duty": "Monitor employee work-related illness and injury trends and assess, develop, and implement strategies to prevent work-acquired injury or illness and expedite return to work."
+    },
+    {
+      "duty": "Safely administer and appropriately document on immunizations and TB skin tests given to UW Health employees per protocol or as instructed."
+    },
+    {
+      "duty": "Provide orientation and training for UW Health employees in the areas of employee health and wellness."
+    },
+    {
+      "duty": "Participate in employee health promotion initiatives and wellness programs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 120,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree In Nursing (BSN)"
+    },
+    {
+      "credential": "Registered Nurse Licensed in the State of Wisconsin"
+    },
+    {
+      "credential": "CPR certification"
+    },
+    {
+      "credential": "Experience working in either an employee health clinic, infectious disease, or internal medicine clinic"
+    }
+  ]
+}

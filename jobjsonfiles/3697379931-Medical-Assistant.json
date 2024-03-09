@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Assisting",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Scheduling",
+      "experience": 1
+    },
+    {
+      "skill": "Insurance Verification",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Office Management",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Registers patients, verifies insurance and general information, makes any necessary changes."
+    },
+    {
+      "duty": "Schedules patient appointments for providers, performs canceling of appointment as needed."
+    },
+    {
+      "duty": "Prints and updates providers schedules."
+    },
+    {
+      "duty": "Receives messages for office staff."
+    },
+    {
+      "duty": "Maintains neat, orderly lobby."
+    },
+    {
+      "duty": "Responsible for assisting the provider and other ancillary administrative staff with basic office medical functions to ensure a coordinated approach to patient activities."
+    },
+    {
+      "duty": "Works closely with the provider to ensure expedient, appropriate patient care."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent. Graduate of approved program for Medical Assistant or 1 year of experience as a medical assistant."
+    },
+    {
+      "credential": "1 year previous medical office/ reception experience. Certified Medical Assistant (preferred)"
+    }
+  ]
+}

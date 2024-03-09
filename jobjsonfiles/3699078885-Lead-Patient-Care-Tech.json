@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Patient Care Tech",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 38000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Record Keeping",
+      "experience": 3
+    },
+    {
+      "skill": "Mobility Assistance",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Interaction",
+      "experience": 3
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Training and Mentoring",
+      "experience": 3
+    },
+    {
+      "skill": "Healthcare Policies and Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "BLS (Basic Life Support)",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver high-quality, patient-centered care and perform a variety of delegated basic patient care services related to common nursing functions and activities of daily living."
+    },
+    {
+      "duty": "Assist with mobility, transfers, and daily living activities for patients."
+    },
+    {
+      "duty": "Obtain and record initial and ongoing patient information, including vital signs, height and weight, and other patient details as outlined by policy."
+    },
+    {
+      "duty": "Assist in implementing nursing care plans and engage in evidence-based best practices to enhance the patient experience."
+    },
+    {
+      "duty": "Assist with ongoing training and precepting of new and current employees as directed by the supervisor."
+    },
+    {
+      "duty": "Ensure new processes, equipment, and changes are communicated and taught to other PCTs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 130
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Basic Cardiac Life Support (BLS) certification must be obtained within 30 days of employment start date."
+    },
+    {
+      "credential": "1 year of experience required."
+    }
+  ]
+}

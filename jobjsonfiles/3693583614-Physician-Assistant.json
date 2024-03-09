@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Physician Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Diagnosis",
+      "experience": 3
+    },
+    {
+      "skill": "Order Writing",
+      "experience": 3
+    },
+    {
+      "skill": "Consultation",
+      "experience": 3
+    },
+    {
+      "skill": "Therapeutic Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Diagnostic Tests",
+      "experience": 3
+    },
+    {
+      "skill": "Medical History Taking",
+      "experience": 3
+    },
+    {
+      "skill": "Physical Examinations",
+      "experience": 3
+    },
+    {
+      "skill": "Prescription Management",
+      "experience": 3
+    },
+    {
+      "skill": "Call Coverage",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist attending physician in the care and management of patients, including making patient rounds and contributing to decisions for daily care."
+    },
+    {
+      "duty": "Interact with consultants, facilitate and coordinate scheduling of therapeutic and diagnostic tests and procedures."
+    },
+    {
+      "duty": "Assess patient status through frequent bedside visits and direct care accordingly."
+    },
+    {
+      "duty": "Provide diagnostic and therapeutic health care coverage for patients, including taking medical histories and performing physical examinations."
+    },
+    {
+      "duty": "Coordinate lab tests and diagnostic studies, prescribe medications, and assist patients with treatment plans and education."
+    },
+    {
+      "duty": "Share call hours, provide phone coverage, and see admitted patients within the hospital."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree from an accredited physician assistant program."
+    },
+    {
+      "credential": "Current and clear license as a physician assistant in the state of Florida."
+    },
+    {
+      "credential": "BLS certification"
+    }
+  ]
+}

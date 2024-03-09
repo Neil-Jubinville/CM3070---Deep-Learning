@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Hospital Medical Leader",
+      "job_category": "Veterinary",
+      "job_class": "Leader",
+      "sector": "Healthcare",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Veterinary Care",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Team Management",
+      "experience": 5
+    },
+    {
+      "skill": "Anesthesia",
+      "experience": 5
+    },
+    {
+      "skill": "Surgery",
+      "experience": 5
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead hospital veterinarian team and provide cohesive and collaborative leadership"
+    },
+    {
+      "duty": "Mentor and coach hospital veterinarians to drive continuous improvement in clinical skills and client communication"
+    },
+    {
+      "duty": "Conduct veterinarian candidate interviewing and onboarding"
+    },
+    {
+      "duty": "Provide excellent patient care by performing physical examinations, diagnosing and treating diseases, and providing preventive care according to patient lifestyle and location on feline and canine patients"
+    },
+    {
+      "duty": "Document all patient observations, findings of exams and diagnostics, treatments and medications, client interactions, and tentative and confirmed diagnoses in the medical record in a concise and detailed fashion, according to practice convention"
+    },
+    {
+      "duty": "Develop treatment plans for patients undergoing daytime hospitalization utilizing a complete problem-based assessment"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Veterinary Medicine degree from an AVMA-accredited veterinary school or its equivalent. Bachelor's degree in Marketing, Business, or a related field (Master's preferred)"
+    }
+  ]
+}

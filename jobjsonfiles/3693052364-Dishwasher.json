@@ -1,0 +1,48 @@
+{
+  "meta": [
+    {
+      "job_title": "Dishwasher",
+      "job_category": "Food Services",
+      "job_class": "Entry Level",
+      "sector": "Hospitality",
+      "salary": 18,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Time Management",
+      "experience": 1
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain cleanliness and sanitation of kitchen equipment, dishes, and utensils."
+    },
+    {
+      "duty": "Assist with food preparation and cooking as needed."
+    },
+    {
+      "duty": "Adhere to all safety and sanitation regulations."
+    },
+    {
+      "duty": "Clean and maintain work areas, including clearing and cleaning dining tables."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": []
+}

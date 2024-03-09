@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Restaurant Crewmember",
+      "job_category": "Food Service",
+      "job_class": "Crew Member",
+      "sector": "Restaurant",
+      "salary": 25000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Retail",
+      "experience": 1
+    },
+    {
+      "skill": "Cashier",
+      "experience": 1
+    },
+    {
+      "skill": "Restaurant Service",
+      "experience": 1
+    },
+    {
+      "skill": "Kitchen Operations",
+      "experience": 1
+    },
+    {
+      "skill": "Food Prep",
+      "experience": 1
+    },
+    {
+      "skill": "Drive Thru Operations",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide quick and friendly service to customers in a restaurant setting."
+    },
+    {
+      "duty": "Process orders and payments efficiently, ensuring accuracy and timeliness."
+    },
+    {
+      "duty": "Maintain cleanliness by cleaning tables, floors, and other areas of the restaurant."
+    },
+    {
+      "duty": "Follow proper safety procedures when handling and preparing food."
+    },
+    {
+      "duty": "Ability to lift and carry heavy objects, kneel, bend, twist, and reach and grasp objects for daily restaurant tasks."
+    },
+    {
+      "duty": "Work as a team with other crew members to ensure continuity of service at a fast pace and under pressure."
+    },
+    {
+      "duty": "Comply with company policies and align with the restaurant's culture of working hard and having fun."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": []
+}

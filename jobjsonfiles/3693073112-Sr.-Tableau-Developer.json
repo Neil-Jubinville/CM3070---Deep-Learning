@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. Tableau Developer",
+      "job_category": "Data Analysis",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tableau",
+      "experience": 8
+    },
+    {
+      "skill": "Big Data Modeling",
+      "experience": 8
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 8
+    },
+    {
+      "skill": "SQL",
+      "experience": 8
+    },
+    {
+      "skill": "Business Intelligence Tools",
+      "experience": 8
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 5
+    },
+    {
+      "skill": "Workflow Modeling",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with Business and IT personnel to gather business requirements and perform data analysis."
+    },
+    {
+      "duty": "Design and develop dashboards, reports, and visualizations using BI tools such as Tableau, Power BI, AbInitio, or QlikView."
+    },
+    {
+      "duty": "Integrate BI solutions into existing systems to improve data accessibility and data-driven insights."
+    },
+    {
+      "duty": "Provide data lineage, copybook layouts, and data documentation across all applications."
+    },
+    {
+      "duty": "Drive process improvements using data-driven analysis and presenting insights to inform decisions."
+    }
+  ]
+}

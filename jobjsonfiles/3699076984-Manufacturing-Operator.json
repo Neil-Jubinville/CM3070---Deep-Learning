@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Manufacturing Operator",
+      "job_category": "Manufacturing",
+      "job_class": "Operator",
+      "sector": "Manufacturing",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Adherence to Company Core Beliefs and all safety and quality requirements."
+    },
+    {
+      "duty": "Operating machinery used in the manufacture of products under moderate supervision."
+    },
+    {
+      "duty": "Completing tasks and assignments and solving routine problems with some latitude for independent judgment."
+    },
+    {
+      "duty": "Involvement in equipment set-up and/or calibration of more complex assignments."
+    },
+    {
+      "duty": "Loading component materials into product-specific tools and/or performing finishing operations."
+    },
+    {
+      "duty": "Reading and following operating manuals, maintenance instructions, and procedures."
+    },
+    {
+      "duty": "Inspecting parts visually and dimensionally to assure conformance to requirements."
+    },
+    {
+      "duty": "Following established documentation for product manufacturing."
+    },
+    {
+      "duty": "Cleaning and maintaining machinery as necessary."
+    },
+    {
+      "duty": "Performing other functions as required."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Machinery Operation",
+      "experience": 4
+    },
+    {
+      "skill": "Manufacturing Processes",
+      "experience": 4
+    },
+    {
+      "skill": "Precision Part Handling",
+      "experience": 3
+    },
+    {
+      "skill": "Visual and Dimensional Inspection",
+      "experience": 3
+    },
+    {
+      "skill": "Safety and Quality Compliance",
+      "experience": 4
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school graduate or equivalent. Technical or vocational schooling preferred."
+    }
+  ]
+}

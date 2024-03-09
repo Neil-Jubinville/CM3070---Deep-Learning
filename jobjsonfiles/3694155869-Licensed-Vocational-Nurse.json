@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Vocational Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nursing",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Injection Therapy",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Appointment Scheduling",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Plan and organize daily care and treat clients with respect and compassion"
+    },
+    {
+      "duty": "Monitor and supervise clients at all times"
+    },
+    {
+      "duty": "Identify clients\u2019 needs and prepare them for medical IV and IM procedures by following instructions from doctors or other professionals"
+    },
+    {
+      "duty": "Provide emotional or psychological support when needed"
+    },
+    {
+      "duty": "Act in emergency situations in accordance with professional standards and procedures"
+    },
+    {
+      "duty": "Maintain equipment and supplies in inventory"
+    },
+    {
+      "duty": "Schedule appointments and document hours worked and medical chart notes"
+    },
+    {
+      "duty": "Other duties as assigned by supervisor"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Licensed Vocational Nurse (LVN) Certification"
+    }
+  ]
+}

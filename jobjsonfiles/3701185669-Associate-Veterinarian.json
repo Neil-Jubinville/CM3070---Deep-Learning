@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Associate Veterinarian",
+      "job_category": "Veterinary",
+      "job_class": "Associate",
+      "sector": "Veterinary",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Veterinary Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "Client Education",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Records Management",
+      "experience": 5
+    },
+    {
+      "skill": "DVM or VMD Degree",
+      "experience": 5
+    },
+    {
+      "skill": "Compassion and Patience",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform routine check-ups, diagnoses, and medical treatments for pets"
+    },
+    {
+      "duty": "Collaborate with the veterinary team to provide comprehensive care plans"
+    },
+    {
+      "duty": "Educate clients on preventive care, nutrition, and wellness strategies"
+    },
+    {
+      "duty": "Maintain accurate medical records and documentation"
+    },
+    {
+      "duty": "Contribute to a positive and engaging clinic culture"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "DVM or VMD degree from an accredited veterinary school"
+    }
+  ]
+}

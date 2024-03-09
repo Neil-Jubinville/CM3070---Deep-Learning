@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Leadership",
+      "experience": 1
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Organization",
+      "experience": 1
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide exceptional customer service and manage front desk procedures."
+    },
+    {
+      "duty": "Assist medical providers with patient flow and procedures."
+    },
+    {
+      "duty": "Maintain treatment room setup and cleanliness."
+    },
+    {
+      "duty": "Collaborate with medical providers and clinical teams."
+    },
+    {
+      "duty": "Exceed patient expectations through outstanding communication and service."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 20,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum of 1-year experience in customer service."
+    }
+  ]
+}

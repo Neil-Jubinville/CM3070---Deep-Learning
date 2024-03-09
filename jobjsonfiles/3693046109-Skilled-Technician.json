@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Skilled Technician",
+      "job_category": "Technician",
+      "job_class": "Skilled",
+      "sector": "Manufacturing",
+      "salary": 32.5,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Hand & Power Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Data Interpretation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build, repair, maintain, troubleshoot, and debug dies in tool room & punch press locations."
+    },
+    {
+      "duty": "Repair & maintain piping system, compressed air, boiler, fume incineration, vacuum, air conditioning, and energy management systems."
+    },
+    {
+      "duty": "Repair & maintain mechanical equipment according to manuals and manufacturer specifications, such as lubrication & conveyor systems, machine & metal fabricating tools, & production equipment by using hand tools, power tools, and precision-measuring and testing instruments."
+    },
+    {
+      "duty": "Attend safety meetings & process improvement discussions."
+    },
+    {
+      "duty": "Operate hand & power tools in a maintenance environment. Knowledge of stamping dies, construction techniques, & troubleshooting."
+    },
+    {
+      "duty": "Work independently or as a team with minimal supervision. Read and understand instructions at a HS level competency. Perform mathematical calculations required for repairing equipment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

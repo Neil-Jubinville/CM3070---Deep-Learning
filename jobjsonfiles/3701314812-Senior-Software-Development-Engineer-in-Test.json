@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Development Engineer in Test",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 115000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Automation Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Performance Testing",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 5
+    },
+    {
+      "skill": "BDD",
+      "experience": 5
+    },
+    {
+      "skill": "Log Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Test Data Management",
+      "experience": 5
+    },
+    {
+      "skill": "SOAP/REST",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop automation/performance solutions that meet organization standards and build reliable, reusable, and maintainable automated regression suites & test harnesses."
+    },
+    {
+      "duty": "Use tools and frameworks to build automation/performance scripts with quality code to simplify testing scenarios."
+    },
+    {
+      "duty": "Work in partnership with the development teams to deliver business functionality on time with required quality that meets the acceptance criteria."
+    },
+    {
+      "duty": "Focus on building efficient solutions for Web, Services/APIs, and Database testing requirements."
+    },
+    {
+      "duty": "Gather quality assurance data and metrics to provide insights and conclusions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or higher qualification in Computer Science, Information Systems, or equivalent is preferred"
+    }
+  ]
+}

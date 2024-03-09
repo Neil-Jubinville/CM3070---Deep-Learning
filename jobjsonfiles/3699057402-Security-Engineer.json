@@ -1,0 +1,111 @@
+{
+  "meta": [
+    {
+      "job_title": "Security Engineer",
+      "job_category": "Security",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 125000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Penetration Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Network Security",
+      "experience": 5
+    },
+    {
+      "skill": "Security Vulnerability Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Security",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    },
+    {
+      "skill": "Research and Development",
+      "experience": 5
+    },
+    {
+      "skill": "Network and Application Exploitation",
+      "experience": 5
+    },
+    {
+      "skill": "Linux, Windows, and MacOS",
+      "experience": 5
+    },
+    {
+      "skill": "Security Certifications",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform tests on applications, networks, and cloud infrastructures."
+    },
+    {
+      "duty": "Research and experiment different types of attacks."
+    },
+    {
+      "duty": "Develop methodologies for penetration testing."
+    },
+    {
+      "duty": "Review code for security vulnerabilities."
+    },
+    {
+      "duty": "Document detailed steps of your approach and execution along with all evidence of findings."
+    },
+    {
+      "duty": "Automate common testing techniques to improve efficiency."
+    },
+    {
+      "duty": "Determine solutions which can be implemented within the company's environment and technologies."
+    },
+    {
+      "duty": "Write technical reports which also include executive level summaries."
+    },
+    {
+      "duty": "Communicate findings to both technical staff and leadership."
+    },
+    {
+      "duty": "Validate security improvements with additional testing."
+    },
+    {
+      "duty": "Stay current with emerging threat trends."
+    },
+    {
+      "duty": "Research, learn, improve skills to emulate attacker tactics, techniques, and procedures."
+    },
+    {
+      "duty": "Mentor and share knowledge with other security practitioners and technology stakeholders."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "College degree in Computer Information Systems, Computer Science, Information Systems Management, or equivalent professional experience. Industry specific technical certification: CEH, CompTIA PenTest+, GPEN, GWAPT, OSCP, CPT, etc."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Primary Care Physician",
+      "job_category": "Healthcare",
+      "job_class": "Physician",
+      "sector": "Healthcare",
+      "salary": 210000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Primary Care",
+      "experience": 5
+    },
+    {
+      "skill": "Acute Care",
+      "experience": 5
+    },
+    {
+      "skill": "Chronic Care Management",
+      "experience": 5
+    },
+    {
+      "skill": "Tele-health",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Training",
+      "experience": 5
+    },
+    {
+      "skill": "Supervision",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Managing a patient panel with a broad array of patient needs; conducting a mix of acute, chronic, and well visits"
+    },
+    {
+      "duty": "Treating patients in-office or in testing centers as well as conducting occasional tele-health visits"
+    },
+    {
+      "duty": "Continuous learning during weekly Clinical Rounds and through other modalities"
+    },
+    {
+      "duty": "Ongoing collaboration with in-office teammates via daily huddles, as well as with virtual clinical teams"
+    },
+    {
+      "duty": "Utilization of your specific clinical training and opportunities to perform in-office procedures"
+    },
+    {
+      "duty": "Supervising one or more NP or PA colleagues"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Enrollment in, or completion of, an accredited Family Medicine or Medicine/Pediatrics residency program, Board certification in Family Medicine or Medicine/Pediatrics, or Board Eligible with plans to obtain board certification within 1 year of the start date, and State licensure in California obtained before the start date"
+    }
+  ]
+}

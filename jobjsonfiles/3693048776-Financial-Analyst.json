@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Financial Analyst",
+      "job_category": "Finance",
+      "job_class": "Analyst",
+      "sector": "Finance",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Budgeting",
+      "experience": 5
+    },
+    {
+      "skill": "Forecasting",
+      "experience": 5
+    },
+    {
+      "skill": "Variance Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Market Research",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Corporate Finance",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform in-depth financial analysis, including budgeting, forecasting, and variance analysis."
+    },
+    {
+      "duty": "Monitor key financial metrics and provide regular reports to practice partners and management."
+    },
+    {
+      "duty": "Collaborate with practice managers to optimize financial processes and identify areas for improvement."
+    },
+    {
+      "duty": "Assist in the preparation of financial presentations and reports for executive leadership."
+    },
+    {
+      "duty": "Conduct market research and industry analysis to support strategic financial planning."
+    },
+    {
+      "duty": "Develop and maintain financial models to aid in business planning and decision-making."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in finance or accounting"
+    }
+  ]
+}

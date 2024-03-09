@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Full Stack Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Technical Lead",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 10
+    },
+    {
+      "skill": "AWS",
+      "experience": 10
+    },
+    {
+      "skill": "ETL",
+      "experience": 10
+    },
+    {
+      "skill": "Terraform",
+      "experience": 10
+    },
+    {
+      "skill": "Power BI",
+      "experience": 10
+    },
+    {
+      "skill": "Power App",
+      "experience": 10
+    },
+    {
+      "skill": "Integration Design",
+      "experience": 10
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Decommissioning",
+      "experience": 10
+    },
+    {
+      "skill": "API Integration",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Coordinate all technical work related to Full Stack Development, Java, AWS, ETL, and Terraform scripts."
+    },
+    {
+      "duty": "Determine design for how things need to be integrated with other internal and external apps."
+    },
+    {
+      "duty": "Decommission existing systems, investigate data involvement, and use FTP or API integration channels as required."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "meta": [
+    {
+      "job_title": "HVAC & Refrigeration Technician",
+      "job_category": "Skilled Trades",
+      "job_class": "Technician",
+      "sector": "Skilled Trades",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Heating and AC Work",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 2
+    },
+    {
+      "skill": "Freon Gauges",
+      "experience": 3
+    },
+    {
+      "skill": "Voltage Meter",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform HVAC and refrigeration system installation, maintenance, and repair work."
+    },
+    {
+      "duty": "Troubleshoot heating and cooling systems, identifying and resolving issues efficiently."
+    },
+    {
+      "duty": "Utilize freon gauges and voltage meters to assess and diagnose system performance."
+    },
+    {
+      "duty": "Ensure compliance with safety regulations and industry standards during all HVAC and refrigeration work."
+    }
+  ]
+}

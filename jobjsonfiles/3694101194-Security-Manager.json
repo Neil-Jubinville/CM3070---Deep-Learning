@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Security Manager",
+      "job_category": "Security",
+      "job_class": "Manager",
+      "sector": "Security",
+      "salary": 200000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Incident Response",
+      "experience": 5
+    },
+    {
+      "skill": "Threat Intelligence",
+      "experience": 5
+    },
+    {
+      "skill": "Engineering Management",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Security Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Cross-organizational Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Threat Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Serve as a Subject Matter Expert (SME) on the incident response & technical investigation lifecycle, influencing deep dive investigations and coordination to turn data into information."
+    },
+    {
+      "duty": "Manage and help drive incidents in a timely manner, providing leadership & guidance to all security analysts and engineers."
+    },
+    {
+      "duty": "Balance near-term deliverables with long-term investments, while raising the security bar for the Customer Service Security Team."
+    },
+    {
+      "duty": "Influence service teams across Amazon to develop systems and processes with security best practices."
+    },
+    {
+      "duty": "Meet with business partners to gather requirements and communicate capabilities."
+    },
+    {
+      "duty": "Find opportunities to improve from large-scale security incident investigations."
+    },
+    {
+      "duty": "Participate in or lead post-mortem analyses."
+    },
+    {
+      "duty": "Communicate how to align management mission and vision with Amazon information security best practices."
+    },
+    {
+      "duty": "Hire and develop the best by mentoring security engineers, analysts, investigators, and software developers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science, Engineering, related discipline, or equivalent experience. Master\u2019s degree/PhD in mathematics, computer science, or related engineering disciplines preferred."
+    }
+  ]
+}

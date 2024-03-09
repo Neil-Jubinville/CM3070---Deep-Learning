@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Therapeutic Counseling",
+      "experience": 5
+    },
+    {
+      "skill": "Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Treatment Team Participation",
+      "experience": 5
+    },
+    {
+      "skill": "Experience with Children, Adolescents, and Adults",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provides therapeutic individual, group, and family sessions."
+    },
+    {
+      "duty": "Completes assessments on all clients."
+    },
+    {
+      "duty": "Documents all services provided in a timely manner."
+    },
+    {
+      "duty": "Participates in treatment team meetings as necessary."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Licensed to practice independently by the State of Tennessee. Accepted Levels of licensure include Licensed Professional Counselor; Licensed Master Social Worker, Licensed Marriage and Family Therapist, etc."
+    }
+  ]
+}

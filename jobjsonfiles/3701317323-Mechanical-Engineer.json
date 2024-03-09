@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Mechanical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Manufacturing",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Engineering",
+      "experience": 3
+    },
+    {
+      "skill": "Design Optimization",
+      "experience": 3
+    },
+    {
+      "skill": "Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop equipment and processes that meet safety codes, policies, and guidelines."
+    },
+    {
+      "duty": "Provide functional guidance in the design, development, and optimization of production equipment."
+    },
+    {
+      "duty": "Lead single or multiple product or process improvement projects with a financial scope of up to $5 million."
+    },
+    {
+      "duty": "Seek, recognize, define, and solve problems to achieve unit objectives."
+    },
+    {
+      "duty": "Develop knowledge and skills in leadership of the application of engineering principles, scientific analysis, problem solving, and project management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 150,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s in Mechanical Engineering or equivalent degree from an accredited college or university"
+    }
+  ]
+}

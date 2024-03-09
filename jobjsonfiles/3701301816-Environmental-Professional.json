@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Environmental Professional",
+      "job_category": "Environment",
+      "job_class": "Professional",
+      "sector": "Environmental Engineering",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Environmental Projects",
+      "experience": 2
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Field Work",
+      "experience": 3
+    },
+    {
+      "skill": "Report Preparation",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 2
+    },
+    {
+      "skill": "Environmental Assessment",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform environmental projects including office-based and field activities."
+    },
+    {
+      "duty": "Conduct site inspections and assessments; oversee soil boring and monitor well installations."
+    },
+    {
+      "duty": "Collect groundwater, soil, and surface water samples for laboratory analyses."
+    },
+    {
+      "duty": "Assist with groundwater investigations and comparison of soil and groundwater data to State regulatory standards."
+    },
+    {
+      "duty": "Prepare reports and data tables; graphical presentation of data."
+    },
+    {
+      "duty": "Work in the field in all weather conditions and engage in physically demanding tasks."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Engineering or Science disciplines from an accredited college or university."
+    }
+  ]
+}

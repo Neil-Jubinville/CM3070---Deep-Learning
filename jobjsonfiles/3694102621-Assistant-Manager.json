@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Manager",
+      "job_category": "Management",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 43000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Staff Supervision",
+      "experience": 2
+    },
+    {
+      "skill": "Employee Relations",
+      "experience": 2
+    },
+    {
+      "skill": "Residential Operations",
+      "experience": 2
+    },
+    {
+      "skill": "Supervisory Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Large Vehicle Driving",
+      "experience": 2
+    },
+    {
+      "skill": "Supporting People with Disabilities",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Coordination",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Program Implementation",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Review residential binders, conduct fire drills, and submit injury reports for individuals."
+    },
+    {
+      "duty": "Supervise direct care professionals, report employee relations concerns, and schedule staff."
+    },
+    {
+      "duty": "Maintain correspondence with medical coordinators, ensure medical appointments are made, and assist with medication administration."
+    },
+    {
+      "duty": "Support individuals with intellectual/developmental disabilities, create recreational calendars, and shop for household items and groceries."
+    },
+    {
+      "duty": "Maintain individual's personal allowance accounts and coordinate meal distribution."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma/GED required. Bachelor's degree preferred."
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "meta": [
+    {
+      "job_title": "Python Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Django",
+      "experience": 3
+    },
+    {
+      "skill": "AIRFLOW",
+      "experience": 3
+    },
+    {
+      "skill": "Multi-threading",
+      "experience": 4
+    },
+    {
+      "skill": "Event Driven Programming",
+      "experience": 4
+    },
+    {
+      "skill": "JIRA",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 4
+    },
+    {
+      "skill": "Source Code Management",
+      "experience": 3
+    },
+    {
+      "skill": "Data Cleaning",
+      "experience": 4
+    },
+    {
+      "skill": "Data Transformation",
+      "experience": 4
+    },
+    {
+      "skill": "Pandas",
+      "experience": 4
+    },
+    {
+      "skill": "Numpy",
+      "experience": 4
+    },
+    {
+      "skill": "Regular Expressions",
+      "experience": 4
+    },
+    {
+      "skill": "REST APIs",
+      "experience": 4
+    },
+    {
+      "skill": "Micro-services Architecture",
+      "experience": 4
+    },
+    {
+      "skill": "Web Services",
+      "experience": 4
+    },
+    {
+      "skill": "Object-oriented Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Scalable Application Design",
+      "experience": 5
+    },
+    {
+      "skill": "Automated Unit Testing",
+      "experience": 4
+    },
+    {
+      "skill": "Java",
+      "experience": 3
+    },
+    {
+      "skill": "Spring",
+      "experience": 3
+    },
+    {
+      "skill": "MVC",
+      "experience": 3
+    },
+    {
+      "skill": "Hibernate",
+      "experience": 3
+    },
+    {
+      "skill": "Spring Boot",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain Python applications using Django and AIRFLOW for data processing and scheduling."
+    },
+    {
+      "duty": "Clean and transform data using Python libraries such as Pandas, Numpy, and Regular Expressions."
+    },
+    {
+      "duty": "Design and develop REST APIs and microservices using Python."
+    },
+    {
+      "duty": "Implement unit tests and ensure code scalability using object-oriented programming principles."
+    },
+    {
+      "duty": "Integrate Java components and frameworks such as Spring, MVC, and Hibernate for system enhancement."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Consulting",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Support",
+      "experience": 3
+    },
+    {
+      "skill": "Management Consulting",
+      "experience": 5
+    },
+    {
+      "skill": "Predictive Maintenance",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage delivery of projects involving software package implementation and custom development for clients."
+    },
+    {
+      "duty": "Coach and mentor the project team to produce high-quality, on-time, on-budget project deliverables."
+    },
+    {
+      "duty": "Manage project definition, status reporting, quality, staffing, and budget."
+    },
+    {
+      "duty": "Build and manage client relationships, establish policies and procedures."
+    },
+    {
+      "duty": "Support sales efforts of Asset Management related services."
+    },
+    {
+      "duty": "Provide subject matter expertise regarding key decisions related to industry and/or functional area."
+    },
+    {
+      "duty": "Interact directly with clients and travel as required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certified Project Management Professional (PMP)"
+    }
+  ]
+}

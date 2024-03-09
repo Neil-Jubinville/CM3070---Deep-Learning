@@ -1,0 +1,122 @@
+{
+  "meta": [
+    {
+      "job_title": "RIS Senior Software Engineer",
+      "job_category": "Software Engineering ",
+      "job_class": "Senior Software Engineer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 3
+    },
+    {
+      "skill": "Spring Boot",
+      "experience": 3
+    },
+    {
+      "skill": "Angular",
+      "experience": 3
+    },
+    {
+      "skill": "PL\\SQL",
+      "experience": 3
+    },
+    {
+      "skill": "Full Stack Development",
+      "experience": 3
+    },
+    {
+      "skill": "Server Configuration",
+      "experience": 3
+    },
+    {
+      "skill": "Version Control (Bitbucket)",
+      "experience": 3
+    },
+    {
+      "skill": "Containerization (Podman)",
+      "experience": 3
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Functional Testing",
+      "experience": 5
+    },
+    {
+      "skill": "JIRA",
+      "experience": 5
+    },
+    {
+      "skill": "Code Quality Assurance",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Professional Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develops low-to-moderately complex RIS applications and relational databases to include design, writing, installing, debugging, troubleshooting, documenting, and/or testing (full stack) based on user requirements and analysis using Spring Boot, Angular, Java, PL\\SQL."
+    },
+    {
+      "duty": "Sets up, configure, and maintains RIS servers."
+    },
+    {
+      "duty": "Maintains familiarity with version control (Bitbucket) and containerization (Podman)."
+    },
+    {
+      "duty": "Prepares RIS system and program documentation for clients and technical staff."
+    },
+    {
+      "duty": "Develops and executes of unit tests and functional tests for MAESTRO modules."
+    },
+    {
+      "duty": "Maintains issues and issue lifecycle using JIRA."
+    },
+    {
+      "duty": "Gives recommendations for the improvement of the code and application structure. Provides technical input for coding in accordance with established standards."
+    },
+    {
+      "duty": "May play the role of Product Owner for low-to-moderately complex Maestro components, to ensure quality is met."
+    },
+    {
+      "duty": "Participates in mentoring, training, and development of other employees."
+    },
+    {
+      "duty": "Keeps current in professional growth. Keeps current on state/university rules and regulations with regards to technical responsibilities. Follows policies, procedures, and various standards."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent combination of education and experience"
+    }
+  ]
+}

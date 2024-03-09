@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Ansible",
+      "experience": 3
+    },
+    {
+      "skill": "Shell scripting",
+      "experience": 3
+    },
+    {
+      "skill": "Oracle/ Database queries understanding",
+      "experience": 3
+    },
+    {
+      "skill": "Reverse engineer programming languages",
+      "experience": 3
+    },
+    {
+      "skill": "Agile methodologies",
+      "experience": 3
+    },
+    {
+      "skill": "REST API",
+      "experience": 3
+    },
+    {
+      "skill": "git/code review/testing",
+      "experience": 3
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 3
+    },
+    {
+      "skill": "Python",
+      "experience": 3
+    },
+    {
+      "skill": "K8s/Openshift",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Understand and utilize DevOps tools including Playbook, Ansible, Jenkins, and automation testing to streamline code deployment and testing processes."
+    },
+    {
+      "duty": "Write code and playbooks that are easy to understand and collaborate on within a team environment."
+    },
+    {
+      "duty": "Implement modern automated processes and tasks, replacing manual methods for improved efficiency."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140,
+      "student_teacher": 80,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [],
+  "remote": true
+}

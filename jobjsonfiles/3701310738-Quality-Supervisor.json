@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Quality Supervisor",
+      "job_category": "Quality Control",
+      "job_class": "Supervisor",
+      "sector": "Manufacturing",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Quality Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Food Manufacturing",
+      "experience": 3
+    },
+    {
+      "skill": "SAP",
+      "experience": 3
+    },
+    {
+      "skill": "LEAN Manufacturing",
+      "experience": 3
+    },
+    {
+      "skill": "Cross-Departmental Collaboration",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Track department KPI's to effectively manage requirements."
+    },
+    {
+      "duty": "Understand and implement SQF and SAP details."
+    },
+    {
+      "duty": "Interact cross-departmentally to achieve company goals."
+    },
+    {
+      "duty": "Support LEAN manufacturing practices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Biology or related field. Certification in Quality Systems such as GMP, HACCP, etc."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "HVAC Technician",
+      "job_category": "Construction",
+      "job_class": "Technician",
+      "sector": "Construction",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HVAC",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Troubleshooting Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Install, inspect, maintain, and repair heating, ventilation, and air conditioning systems"
+    },
+    {
+      "duty": "Diagnose and troubleshoot HVAC system issues and make necessary repairs or adjustments"
+    },
+    {
+      "duty": "Perform regular maintenance tasks, including cleaning and replacing filters, lubricating parts, and inspecting electrical connections"
+    },
+    {
+      "duty": "Ensure compliance with safety and environmental regulations"
+    },
+    {
+      "duty": "Collaborate with other team members to identify and implement system improvements"
+    },
+    {
+      "duty": "Keep accurate records of work performed and maintain inventory of equipment and supplies"
+    },
+    {
+      "duty": "Provide exceptional customer service and address client inquiries or concerns"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 70,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "HVAC Certification or related technical training"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 185000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Windows System Knowledge",
+      "experience": 8
+    },
+    {
+      "skill": "WMI",
+      "experience": 8
+    },
+    {
+      "skill": "PowerShell",
+      "experience": 8
+    },
+    {
+      "skill": "SysInternals",
+      "experience": 8
+    },
+    {
+      "skill": "Node.js",
+      "experience": 8
+    },
+    {
+      "skill": "JavaScript/TypeScript",
+      "experience": 8
+    },
+    {
+      "skill": "Docker",
+      "experience": 8
+    },
+    {
+      "skill": "Git",
+      "experience": 8
+    },
+    {
+      "skill": "REST APIs",
+      "experience": 8
+    },
+    {
+      "skill": "Data Structures and Algorithms",
+      "experience": 8
+    },
+    {
+      "skill": "Distributed Systems",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead research and development of Windows specific features for Edge"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 80,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, or related field (Master's preferred)"
+    }
+  ]
+}

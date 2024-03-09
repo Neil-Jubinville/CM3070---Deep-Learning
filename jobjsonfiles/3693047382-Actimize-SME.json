@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Actimize SME",
+      "job_category": "Software Engineering",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Actimize Implementation",
+      "experience": 5
+    },
+    {
+      "skill": "Database Management",
+      "experience": 8
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 8
+    },
+    {
+      "skill": "Data Integration",
+      "experience": 8
+    },
+    {
+      "skill": "AML Domain Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Architecture Design",
+      "experience": 8
+    },
+    {
+      "skill": "Domain Driven Design",
+      "experience": 8
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Define the high-level Logical Architecture (aka System Design) of the product, aligning to architecture principles."
+    },
+    {
+      "duty": "Ideate, analyze, and architect enhancements that will delight our customers."
+    },
+    {
+      "duty": "Deep engagement with the AML Domain to ensure seamless integration adhering to the Domain Driven Design principles."
+    },
+    {
+      "duty": "Close collaboration with Engineering, Service architects, Dev Managers to ensure adherence of Product Architecture Principles."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 130,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

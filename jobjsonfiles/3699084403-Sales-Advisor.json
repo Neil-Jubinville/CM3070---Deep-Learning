@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Advisor",
+      "job_category": "Sales",
+      "job_class": "Advisor",
+      "sector": "Sales",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Outbound Phone Prospecting",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Execution",
+      "experience": 5
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Operational and Organizational Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Remote Delivery Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Compliance Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform outbound phone prospecting and sales activities to acquire new clients."
+    },
+    {
+      "duty": "Follow up on prospective client appointments set by internal Sales Associates."
+    },
+    {
+      "duty": "Personalize investment product offerings based on client needs and suitability."
+    },
+    {
+      "duty": "Engage in ongoing involvement with existing clients to pursue additional investment opportunities."
+    },
+    {
+      "duty": "Provide periodic client service efforts and detailed feedback to the Personal Capital team."
+    },
+    {
+      "duty": "Assist in the development of long-term sales processes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Series 65 or equivalent required."
+    },
+    {
+      "credential": "Bachelor's degree in Business, Finance, or a related field (Master's preferred)"
+    }
+  ]
+}

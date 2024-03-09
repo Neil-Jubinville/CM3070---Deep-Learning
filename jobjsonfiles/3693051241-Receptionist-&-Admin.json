@@ -1,0 +1,44 @@
+{
+  "meta": [
+    {
+      "job_title": "Receptionist & Admin",
+      "job_category": "Administrative",
+      "job_class": "Admin",
+      "sector": "Administration",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft Excel",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain the reception area, including greeting visitors and answering phone calls."
+    },
+    {
+      "duty": "Manage the team schedule and assist with coordinating appointments and meetings."
+    },
+    {
+      "duty": "Updating Management Information Systems (MIS) on a daily basis to ensure accurate records."
+    },
+    {
+      "duty": "Handle customer inquiries, requests, and complaints in a professional and courteous manner."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 170
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration or related field (Associate's degree accepted with additional experience)"
+    }
+  ]
+}

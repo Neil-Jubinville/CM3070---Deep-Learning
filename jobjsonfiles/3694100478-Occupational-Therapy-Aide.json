@@ -1,0 +1,35 @@
+{
+  "meta": [
+    {
+      "job_title": "Occupational Therapy Aide",
+      "job_category": "Therapy",
+      "job_class": "Aide",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Administrative Duties",
+      "experience": 1
+    },
+    {
+      "skill": "Team Communication",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide one-on-one patient care and perform administrative duties in a fast-paced clinic environment."
+    },
+    {
+      "duty": "Assist the occupational therapist in treating patients effectively and efficiently."
+    }
+  ],
+  "education_certification": []
+}

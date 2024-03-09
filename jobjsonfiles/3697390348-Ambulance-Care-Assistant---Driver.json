@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Ambulance Care Assistant / Driver",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 22000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Driving",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "First Aid",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Physical Fitness",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Transporting elderly, sick, and vulnerable service users to and from medical appointments and healthcare facilities."
+    },
+    {
+      "duty": "Assisting, moving, and handling patients with varying health and mobility needs."
+    },
+    {
+      "duty": "Ensuring safety and patient welfare at all times."
+    },
+    {
+      "duty": "Maintaining cleanliness of vehicles and equipment."
+    },
+    {
+      "duty": "Liaising with the central control team to ensure the timely pick up and drop off of patients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Full UK Manual Driving Licence"
+    }
+  ]
+}

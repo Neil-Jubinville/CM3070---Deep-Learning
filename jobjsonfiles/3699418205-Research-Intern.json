@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Research Intern",
+      "job_category": "Research",
+      "job_class": "Intern",
+      "sector": "AI",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Natural Language Processing",
+      "experience": 3
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 3
+    },
+    {
+      "skill": "Knowledge Representation",
+      "experience": 3
+    },
+    {
+      "skill": "Textual Entailment",
+      "experience": 3
+    },
+    {
+      "skill": "Research Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Software Engineering",
+      "experience": 4
+    },
+    {
+      "skill": "Data Science",
+      "experience": 4
+    },
+    {
+      "skill": "Publications",
+      "experience": 2
+    },
+    {
+      "skill": "Deep Learning Frameworks",
+      "experience": 2
+    },
+    {
+      "skill": "Web Interface Development",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Reading the scientific literature to investigate and understand AI research."
+    },
+    {
+      "duty": "Executing AI research under guidance of the mentor, which may include building AI systems or system components, developing datasets, and/or conducting experiments."
+    },
+    {
+      "duty": "Meeting with the mentor to discuss research progress and ideas."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in AI-related fields (Master's or PhD preferred)"
+    },
+    {
+      "credential": "Strong publication record in AI-related areas."
+    },
+    {
+      "credential": "Experience with deep learning frameworks (e.g. PyTorch, Tensorflow)"
+    },
+    {
+      "credential": "Contributions to open-source research libraries (e.g. AllenNLP, spaCy)"
+    },
+    {
+      "credential": "Familiarity with building web interfaces."
+    }
+  ]
+}

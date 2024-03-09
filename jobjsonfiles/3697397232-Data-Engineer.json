@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "ETL",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 5
+    },
+    {
+      "skill": "Regular Expressions",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Configure existing applications to consume new and modified customer data feeds."
+    },
+    {
+      "duty": "Perform data profiling and data analysis for any source systems and the target data repositories."
+    },
+    {
+      "duty": "Develop data mapping specifications based on the results of data analysis and functional requirements."
+    },
+    {
+      "duty": "Build automated Extract, Transform & Load (ETL) jobs based on data mapping specifications."
+    },
+    {
+      "duty": "Create and enhance automation on frequently executed tasks."
+    },
+    {
+      "duty": "Validate the data mapping results."
+    },
+    {
+      "duty": "Implement new and ensure compliance with Data Quality (DQ) rules provided."
+    },
+    {
+      "duty": "Implement and control the use of master data configurations."
+    },
+    {
+      "duty": "Participate in the requirement gathering process and implement new solutions to address customer needs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 30,
+      "student_teacher": 150,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Computer Science or \u201cSTEM\u201d Majors (Science, Technology, Engineering and Math)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "meta": [
+    {
+      "job_title": "Phone Sales",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 30000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Phone Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Make outbound calls to potential customers and convert leads into sales."
+    },
+    {
+      "duty": "Deliver excellent customer service, address inquiries, and handle objections effectively."
+    },
+    {
+      "duty": "Negotiate prices, terms, and close sales deals over the phone."
+    },
+    {
+      "duty": "Maintain accurate records of sales activities and customer interactions."
+    }
+  ]
+}

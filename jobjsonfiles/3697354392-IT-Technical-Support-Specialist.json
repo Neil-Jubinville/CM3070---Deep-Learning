@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Technical Support Specialist",
+      "job_category": "IT",
+      "job_class": "Specialist",
+      "sector": "IT",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 4
+    },
+    {
+      "skill": "Incident Management",
+      "experience": 4
+    },
+    {
+      "skill": "IT Systems Knowledge",
+      "experience": 4
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Resolve tech-related customer issues and thoroughly document customer service requests."
+    },
+    {
+      "duty": "Collaborate with IT groups to implement effective solutions to meet customer needs."
+    },
+    {
+      "duty": "Assist customers on an ongoing basis, develop long-term strategies for efficient IT service use."
+    },
+    {
+      "duty": "Analyze documented incidents for trends and update associated documentation as needed."
+    },
+    {
+      "duty": "Be available for immediate response to urgent customer needs and may be required to be on-call/standby for after-hours and weekend emergencies."
+    },
+    {
+      "duty": "Lift at least 50 pounds when required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School/GED and four years of related experience. Post-secondary education can be substituted in lieu of experience. OK Driver's License required"
+    },
+    {
+      "credential": "Bachelor's degree in IT or Communication (Preferred)"
+    }
+  ]
+}

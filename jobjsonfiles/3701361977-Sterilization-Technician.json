@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Sterilization Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Pharmaceutical",
+      "salary": 17,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Sterilize and/or remove used laboratory materials (e.g., eggs, culture tubes, waste, etc.)"
+    },
+    {
+      "duty": "Wash, sterilize, and prepare labware for laboratory use"
+    },
+    {
+      "duty": "Run autoclave according to standard operating procedures"
+    },
+    {
+      "duty": "Make detergent and disinfectant solutions"
+    },
+    {
+      "duty": "Wash and fold laundry"
+    },
+    {
+      "duty": "Perform general routine cleaning and maintenance of autoclaves and other equipment"
+    },
+    {
+      "duty": "Maintain kitchen equipment logs"
+    },
+    {
+      "duty": "Perform general housekeeping of laboratory facilities as assigned"
+    },
+    {
+      "duty": "Provide support duties for other laboratory personnel such as media preparation, restocking of disposables and glassware, and equipment monitoring"
+    },
+    {
+      "duty": "Perform all other related duties as assigned"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sterilization",
+      "experience": 0.5
+    },
+    {
+      "skill": "Laboratory Maintenance",
+      "experience": 0.5
+    },
+    {
+      "skill": "Autoclave Operation",
+      "experience": 0.5
+    },
+    {
+      "skill": "Housekeeping",
+      "experience": 0.5
+    },
+    {
+      "skill": "General Cleaning",
+      "experience": 0.5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 25,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or General Education Degree (GED)"
+    }
+  ]
+}

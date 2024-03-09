@@ -1,0 +1,110 @@
+{
+  "meta": [
+    {
+      "job_title": "Network & Build Service Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "E2E Build Management",
+      "experience": 3
+    },
+    {
+      "skill": "CI/CD Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Networking",
+      "experience": 2
+    },
+    {
+      "skill": "VPN Server Management",
+      "experience": 2
+    },
+    {
+      "skill": "AWS Administration",
+      "experience": 2
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Repo Management",
+      "experience": 2
+    },
+    {
+      "skill": "Version Control Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Android Development",
+      "experience": 2
+    },
+    {
+      "skill": "Unity Build Processes Management",
+      "experience": 1
+    },
+    {
+      "skill": "Containerization Technologies",
+      "experience": 2
+    },
+    {
+      "skill": "Scripting Languages (Bash, Shell, PowerShell)",
+      "experience": 3
+    },
+    {
+      "skill": "Networking Protocols",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deployment, automation, management, and maintenance of diverse set of build systems for multiple software."
+    },
+    {
+      "duty": "Management of creation, release, and configuration of production systems."
+    },
+    {
+      "duty": "Creating and Maintaining Network Modules, VPN services."
+    },
+    {
+      "duty": "Ensuring availability, performance, security, and scalability of Test & Production systems."
+    },
+    {
+      "duty": "Management of continuous integration and continuous deployment pipelines."
+    },
+    {
+      "duty": "Track and resolve build failures, working with developers as necessary."
+    },
+    {
+      "duty": "Maintain documentation for build and release processes."
+    },
+    {
+      "duty": "Providing recommendations for architecture and process improvements."
+    },
+    {
+      "duty": "Collaborate with the development teams to understand build requirements and develop solutions."
+    },
+    {
+      "duty": "Assist in managing project and issue tracking with Jira."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 20,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or Software Engineering or equivalent experience"
+    }
+  ]
+}

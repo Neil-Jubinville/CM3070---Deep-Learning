@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Operating Room Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 52000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AHA Basic Life Support",
+      "experience": 1
+    },
+    {
+      "skill": "Scrubbing in Hospital Setting",
+      "experience": 1
+    },
+    {
+      "skill": "Surgical Technologist Certification",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Infection Control",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provides specific patient care duties and performs unit support activities in the operating room suite."
+    },
+    {
+      "duty": "Updates surgeon preference card per entity specific processes and adheres to count policies and procedures."
+    },
+    {
+      "duty": "Accountable for instrument trays and ensures appropriate care and handling of surgical instruments and equipment."
+    },
+    {
+      "duty": "Adheres to National Patient Safety Goals, including surgical time-out, medication/fluid labeling, hand hygiene, and use of personal protective equipment."
+    },
+    {
+      "duty": "Assist in achieving department expense per unit of service and identifies opportunities for cost containment in patient care."
+    },
+    {
+      "duty": "Assists with new employee orientation and training of students."
+    },
+    {
+      "duty": "Utilizes down time effectively, including assisting other staff, restocking rooms, and instrument processing."
+    },
+    "subjective_elements"
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 120,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Approved program for Operating Room Technicians or demonstrated technical skills through on the job training."
+    }
+  ]
+}

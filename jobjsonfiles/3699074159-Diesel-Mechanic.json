@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Diesel Mechanic",
+      "job_category": "Mechanic",
+      "job_class": "Skilled Worker",
+      "sector": "Heavy Duty Equipment",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Diesel Mechanic",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Diagnostics",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Computer Literacy",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate, repair, and maintain heavy duty diesel trucks and equipment to ensure safe operation"
+    },
+    {
+      "duty": "Diagnose and repair operational difficulties with heavy duty diesel trucks and equipment"
+    },
+    {
+      "duty": "Maintain and repair heavy diesel, CNG, gas, and electrically operated equipment and vehicles"
+    },
+    {
+      "duty": "Complete reports, work orders, order parts, and perform other administrative duties as required"
+    },
+    {
+      "duty": "Plan and schedule repairs, and procure all parts for successful plan"
+    },
+    {
+      "duty": "Ensure safe working conditions and compliance with all safety regulations"
+    },
+    {
+      "duty": "Utilize a variety of power and hand tools and equipment"
+    },
+    {
+      "duty": "Possess, provide, and maintain tools necessary to perform tasks related to maintenance on heavy/hydraulic equipment"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or technical diploma desired"
+    }
+  ]
+}

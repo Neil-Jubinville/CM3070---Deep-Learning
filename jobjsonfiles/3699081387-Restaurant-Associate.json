@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Restaurant Associate",
+      "job_category": "Food Service",
+      "job_class": "Entry Level",
+      "sector": "Customer Service",
+      "salary": 28000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Sales",
+      "experience": 1
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Cleanliness Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Multi-tasking",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide prompt, efficient, safe, and courteous quality food service to the guest."
+    },
+    {
+      "duty": "Maintain a clean, safe environment to ensure the restaurant is always customer ready."
+    },
+    {
+      "duty": "Follow proper health code guidelines."
+    },
+    {
+      "duty": "Handle cash transactions and employ suggestive selling techniques."
+    },
+    {
+      "duty": "Promote the loyalty rewards program and brand ambassadorship."
+    },
+    {
+      "duty": "Perform repeated bending, standing, reaching, and occasional lifting up to 50 pounds."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ]
+}

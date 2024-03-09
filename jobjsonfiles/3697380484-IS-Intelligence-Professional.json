@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "IS Intelligence Professional",
+      "job_category": "Cybersecurity",
+      "job_class": "Professional",
+      "sector": "Cybersecurity",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Threat Intelligence",
+      "experience": 5
+    },
+    {
+      "skill": "Linux Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Python Scripting",
+      "experience": 3
+    },
+    {
+      "skill": "Bash Scripting",
+      "experience": 3
+    },
+    {
+      "skill": "Security Automation Tools",
+      "experience": 3
+    },
+    {
+      "skill": "Vulnerability Research",
+      "experience": 3
+    },
+    {
+      "skill": "Incident Response Coordination",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in the day-to-day maintenance and management of threat intelligence workflows, including vulnerability management, threat hunting, coordinating with incident response, and ticket processing."
+    },
+    {
+      "duty": "Work in a Linux environment with open source and custom tools to manipulate data from Splunk, Elastic/ELK, and other sources into standardized formats, including writing custom scripts to automate basic file processing and data manipulation tasks."
+    },
+    {
+      "duty": "Engage in threat hunting across the attacker kill-chain for advanced adversaries targeting the organization\u2019s assets and employees, which constitute critical financial infrastructure."
+    },
+    {
+      "duty": "Read, summarize, and analyze articles and reports from threat intelligence vendors, security websites, and researchers to determine their applicability to the organization's environment and staff."
+    },
+    {
+      "duty": "Research new open-source tools and projects to identify opportunities for improving the workflows and efficiency of the Threat Intel Team, Red Team, and Incident Response Teams."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "University degree in Engineering, MIS, CIS, or related discipline"
+    }
+  ]
+}

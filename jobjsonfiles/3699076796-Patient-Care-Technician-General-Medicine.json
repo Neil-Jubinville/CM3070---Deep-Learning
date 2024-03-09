@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Care Technician General Medicine",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 36000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Interaction",
+      "experience": 1
+    },
+    {
+      "skill": "Vital Signs Monitoring",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Record Keeping",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Assistance",
+      "experience": 1
+    },
+    {
+      "skill": "Specimen Collection",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Equipment Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Clerical Work",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver high quality, patient-centered care by performing basic patient care services under the supervision of a registered nurse."
+    },
+    {
+      "duty": "Obtain and record patient information, including vital signs, height and weight, blood pressure, oxygen saturation, blood glucose levels, and intake/output."
+    },
+    {
+      "duty": "Assist with patient mobility, transfers, and use of medical devices."
+    },
+    {
+      "duty": "Provide non-medicated support care, such as dressing changes, skin protection, application of heat or ice, and venous compression."
+    },
+    {
+      "duty": "Assist in specimen collection and ensure accuracy of labeling and timely transfer of specimens."
+    },
+    {
+      "duty": "Retrieve and deliver supplies, assist with patient preparation for procedures, and orient patients and families to the hospital routine."
+    },
+    {
+      "duty": "Assist patients with activities of daily living, perform hourly rounding, and respond to patient needs and requests."
+    },
+    {
+      "duty": "Follow patient and employee safety/security policies and protocols, prepare and maintain clean patient rooms, and assist with post-mortem care."
+    },
+    {
+      "duty": "Perform clerical work, including assembling and maintaining charts, filing, answering phones, and relaying messages."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma, GED, or Equivalent"
+    }
+  ]
+}

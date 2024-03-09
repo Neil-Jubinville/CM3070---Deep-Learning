@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Neonatal Resuscitation",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver coordinated nursing care for neonatal patients in the NICU."
+    },
+    {
+      "duty": "Conduct patient assessments and provide appropriate interventions."
+    },
+    {
+      "duty": "Ensure compliance with healthcare regulations and documentation standards."
+    },
+    {
+      "duty": "Collaborate with healthcare team for patient care plans and treatments."
+    },
+    {
+      "duty": "Demonstrate critical thinking in nursing interventions and decision making."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited School of Nursing"
+    },
+    {
+      "credential": "Active Florida R.N. license required"
+    },
+    {
+      "credential": "Basic Life Support (BLS) certification"
+    },
+    {
+      "credential": "Neonatal Resuscitation Program (NRP) certification"
+    }
+  ]
+}

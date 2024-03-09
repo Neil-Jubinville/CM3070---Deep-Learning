@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Assisted Reproductive Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Semen Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "IVF Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Lab Supply Management",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Technology",
+      "experience": 3
+    },
+    {
+      "skill": "Biological Science",
+      "experience": 3
+    },
+    {
+      "skill": "Clinical Laboratory Science",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing semen analysis and preparing specimens for IVF, IUI, and ADI."
+    },
+    {
+      "duty": "Performing complex tests and procedures that directly impact patient care."
+    },
+    {
+      "duty": "Performing Assisted Reproductive Technology (ART) procedures."
+    },
+    {
+      "duty": "Ordering lab supplies, tracking shipments, and logging receipts."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 75,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Medical Technology, Chemical, Physical, Biological, or Clinical Laboratory Science."
+    }
+  ]
+}

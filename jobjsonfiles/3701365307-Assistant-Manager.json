@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Manager",
+      "job_category": "Retail",
+      "job_class": "Manager",
+      "sector": "Retail",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Retail Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Team Development",
+      "experience": 5
+    },
+    {
+      "skill": "Store Operations Management",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Model exemplary service and selling behaviors to ensure each customer receives an amazing Tillys Experience."
+    },
+    {
+      "duty": "Hiring, training, and developing a strong team of Associates."
+    },
+    {
+      "duty": "Ensure smooth execution of Store operations."
+    },
+    {
+      "duty": "Create a great Store environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ]
+}

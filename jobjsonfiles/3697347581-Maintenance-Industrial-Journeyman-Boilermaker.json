@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Industrial Journeyman Boilermaker",
+      "job_category": "Industrial",
+      "job_class": "Journeyman",
+      "sector": "Maintenance",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Blueprints Reading",
+      "experience": 4
+    },
+    {
+      "skill": "Welding",
+      "experience": 4
+    },
+    {
+      "skill": "Steel Fabrication",
+      "experience": 4
+    },
+    {
+      "skill": "Safety Precautions",
+      "experience": 4
+    },
+    {
+      "skill": "Structural Alignment",
+      "experience": 4
+    },
+    {
+      "skill": "Equipment Fabrication",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Read blueprints and specification to determine the scope of work: locations, quantities, and sizes of materials required."
+    },
+    {
+      "duty": "Identify all tools required for tasks."
+    },
+    {
+      "duty": "Identify safety risks and the precautions required to eliminate those risks."
+    },
+    {
+      "duty": "Fabricate equipment according to blueprints or instructions from supervisors."
+    },
+    {
+      "duty": "Hoist equipment and tools into location via bull rigging or crane."
+    },
+    {
+      "duty": "Verify vertical and horizontal alignment of structural-steel members, using plumb bobs, laser equipment, transits, and/or levels."
+    },
+    {
+      "duty": "Connect columns, beams, and girders with bolts, following blueprints and instructions from supervisors."
+    },
+    {
+      "duty": "Bolt aligned structural-steel members in position for permanent riveting or bolting."
+    },
+    {
+      "duty": "Pull, push, or pry iron/steel equipment into approximate positions for bolting into place."
+    },
+    {
+      "duty": "Cut, bend, and weld iron/steel pieces, using metal shears, torches, and welding equipment."
+    },
+    {
+      "duty": "Adhere to safety protocols and guidelines at all times."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 50,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Formal/Technical education."
+    }
+  ]
+}

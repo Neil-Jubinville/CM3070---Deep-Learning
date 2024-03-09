@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Team Manager",
+      "job_category": "Management",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Goal Achievement",
+      "experience": 5
+    },
+    {
+      "skill": "Client Experience Management",
+      "experience": 5
+    },
+    {
+      "skill": "Market Understanding",
+      "experience": 5
+    },
+    {
+      "skill": "People Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Approach",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and mentor a team to achieve sales goals and deliver exceptional client experiences."
+    },
+    {
+      "duty": "Build long-term client relationships and leverage clienteling tools for business opportunities."
+    },
+    {
+      "duty": "Improve sales floor management and client experience standards."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Management, Business, or a related field (Master's preferred)"
+    }
+  ]
+}

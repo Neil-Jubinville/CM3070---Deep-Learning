@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Vocational Nurse",
+      "job_category": "Nursing",
+      "job_class": "Supervisor",
+      "sector": "Healthcare",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Licensed Vocational Nurse Certification",
+      "experience": 6
+    },
+    {
+      "skill": "Medication Management",
+      "experience": 6
+    },
+    {
+      "skill": "Medical Emergency Response",
+      "experience": 6
+    },
+    {
+      "skill": "First Aid and CPR",
+      "experience": 6
+    },
+    {
+      "skill": "Supervisory Experience",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Supervise staff and oversee patient care in accordance with standards of care and practice and applicable state/federal regulations."
+    },
+    {
+      "duty": "Perform nursing services including medication management and medical emergency response throughout residential and assisted living."
+    },
+    {
+      "duty": "Interface with residents' physician regarding residents' condition, medications, and appointments or treatment."
+    },
+    {
+      "duty": "Implement orders as required and update electronic medical records."
+    },
+    {
+      "duty": "Attend residents' needs and complete various ADL assistance in cooperation with Care Partner Staff."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certified as a Licensed Vocational Nurse per state regulations. First Aid and C.P.R. certified."
+    }
+  ]
+}

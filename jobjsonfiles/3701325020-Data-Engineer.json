@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineer",
+      "job_category": "Technology",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Server Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Storage Server Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Capacity Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Storage Tools",
+      "experience": 3
+    },
+    {
+      "skill": "Windows Security",
+      "experience": 3
+    },
+    {
+      "skill": "PowerShell Scripting",
+      "experience": 3
+    },
+    {
+      "skill": "Kusto Querying",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support existing storage infrastructure and design the next version of the infrastructure"
+    },
+    {
+      "duty": "Collaborate with engineering, architecture, and product management to create platform features"
+    },
+    {
+      "duty": "Participate in an 'On Call' rotation to support the platform 24X7"
+    },
+    {
+      "duty": "Ensure ISO, Fed RAMP, and PCI information security compliance"
+    },
+    {
+      "duty": "Plan and execute expansion to support rapid transaction growth"
+    },
+    {
+      "duty": "Work with operations team to manage, install, and configure servers in multiple data centers"
+    },
+    {
+      "duty": "Create and analyze operational reporting"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

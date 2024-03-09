@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Mini-bar Attendant",
+      "job_category": "Hospitality",
+      "job_class": "Attendant",
+      "sector": "Hospitality",
+      "salary": 34000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Attention to Detail",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "Hospitality Industry Knowledge",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Refill all mini-bars according to standards and report any encountered problems."
+    },
+    {
+      "duty": "Check for missing items, rotate products, and ensure labels are facing out for easy reading."
+    },
+    {
+      "duty": "Take physical inventories of mini-bars as requested."
+    },
+    {
+      "duty": "Record and report any mini-bar problems encountered."
+    },
+    {
+      "duty": "Refill all bars as listed on computer printout and replenish clean mini-bar glasses as necessary."
+    },
+    {
+      "duty": "Wipe down mini-bars to ensure cleanliness and pick up VIP list to check all mini-bars in designated VIP rooms."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 50,
+      "introvert_extrovert": 30
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma"
+    },
+    {
+      "credential": "Fluency in English"
+    }
+  ]
+}

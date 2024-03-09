@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Network Engineer",
+      "job_category": "Information Technology",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Network Infrastructure Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Network Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Data Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting and Automation",
+      "experience": 3
+    },
+    {
+      "skill": "Cisco/Juniper Router and Switch Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "Fortinet Firewall Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "F5 Load Balancer Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Technologies (AWS, GCP, Azure)",
+      "experience": 3
+    },
+    {
+      "skill": "CCNP or JNCIP Certification",
+      "experience": 3
+    },
+    {
+      "skill": "Cisco ACI/APIC Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "VMware Product Knowledge",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide technical support to manage large service provider network."
+    },
+    {
+      "duty": "Install, configure, and maintain network services, equipment, and devices."
+    },
+    {
+      "duty": "Plan and support network infrastructure."
+    },
+    {
+      "duty": "Document network problems and resolutions for future reference."
+    },
+    {
+      "duty": "Run network applications testing and performance tests."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS in Computer Science or Electrical Engineering"
+    }
+  ]
+}

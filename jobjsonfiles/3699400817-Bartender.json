@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Bartender",
+      "job_category": "Hospitality",
+      "job_class": "Service",
+      "sector": "Hospitality",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Bartending",
+      "experience": 2
+    },
+    {
+      "skill": "Food and Beverage Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Recommendation Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide friendly, responsive, and consistent service to create a beyond expectation food and beverage experience for all guests."
+    },
+    {
+      "duty": "Actively participate as a team and use core values and service expectations."
+    },
+    {
+      "duty": "Interact with guests by recommending specials and favorite menu items."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "21 years or older and must have a bartender\u2019s license"
+    }
+  ]
+}

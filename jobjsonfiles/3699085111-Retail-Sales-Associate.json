@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Retail Sales Associate",
+      "job_category": "Retail",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 28000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Sales Experience",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Multi-tasking",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide excellent customer service and address customer needs and inquiries."
+    },
+    {
+      "duty": "Handle cash transactions and maintain accurate payment records."
+    },
+    {
+      "duty": "Manage and replenish inventory to ensure products are available for customers."
+    },
+    {
+      "duty": "Prepare food items following food safety guidelines and standards."
+    },
+    {
+      "duty": "Utilize sales techniques to promote products and upsell to customers."
+    },
+    {
+      "duty": "Effectively communicate with customers and colleagues to ensure smooth operations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

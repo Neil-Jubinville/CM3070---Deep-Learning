@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Agile Platform Development",
+      "experience": 5
+    },
+    {
+      "skill": "Performance and Reliability",
+      "experience": 5
+    },
+    {
+      "skill": "Simulation and Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Performance Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Testing and Deployment of IoT",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting of IoT Devices",
+      "experience": 5
+    },
+    {
+      "skill": "Source Code Reading",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration with Stakeholders",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Contribute to the development of agile platforms for software and data-driven products and services."
+    },
+    {
+      "duty": "Ensure performance and reliability are key aspects of the software and services engineered."
+    },
+    {
+      "duty": "Utilize simulation and automation techniques for solution scalability and adaptability."
+    },
+    {
+      "duty": "Model performance to optimize solutions for scalability and replication."
+    },
+    {
+      "duty": "Test and deploy IoT solutions and services, ensuring seamless functionality."
+    },
+    {
+      "duty": "Create and maintain technical documentation for software, services, and IoT devices."
+    },
+    {
+      "duty": "Troubleshoot IoT devices to diagnose and resolve technical issues."
+    },
+    {
+      "duty": "Read and understand source code to contribute to software development and engineering."
+    },
+    {
+      "duty": "Collaborate with stakeholders to gather requirements and ensure successful software and IoT solutions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Software Engineering, Computer Science, or related field (Master's preferred)"
+    }
+  ]
+}

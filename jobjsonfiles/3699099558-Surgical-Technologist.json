@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Surgical Technologist",
+      "job_category": "Nursing",
+      "job_class": "Technologist",
+      "sector": "Surgical Care",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Surgical Technology",
+      "experience": 2
+    },
+    {
+      "skill": "Continuing Education",
+      "experience": 2
+    },
+    {
+      "skill": "Healthcare Provider AHA BLS",
+      "experience": 2
+    },
+    {
+      "skill": "Computer Applications",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide pre, intra, and post-op care to surgical and procedural sedation patients."
+    },
+    {
+      "duty": "Work with a variety of provider specialties in caring for people having outpatient surgery."
+    },
+    {
+      "duty": "Complete 16 hours of continuing education every two (2) years relevant to the medical-surgical practice of surgical technology."
+    },
+    {
+      "duty": "Possess experience or training in computer applications and demonstrate proficiency in their use."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50
+    },
+    {
+      "student_teacher": 40
+    },
+    {
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current certification to practice surgical technology in Oregon."
+    },
+    {
+      "credential": "Successful completion of a training program for surgical technologists in a branch of the armed forces of the United States or the United States Public Health Service Commissioned Corp."
+    },
+    {
+      "credential": "Successful completion of a surgical technology education program accredited by the Commission on Accreditation of Allied Health Education Program (CAAHEP) or Accrediting Bureau of Health Education Schools (ABHES)."
+    },
+    {
+      "credential": "Certification as a surgical technologist issued by the National Board of Surgical Technology and Surgical Assisting (NBSTSA) or successful completion of the CAAHEP or ABHES educational program within the past twelve months."
+    },
+    {
+      "credential": "Practice in surgical technology at least two (2) years between January 1, 2014, and January 1, 2017 in a hospital, ambulatory surgical center, or as an employee of a federal government agency or institution."
+    },
+    {
+      "credential": "Healthcare Provider AHA BLS certification."
+    },
+    {
+      "credential": "Experience or training in computer applications preferred."
+    }
+  ]
+}

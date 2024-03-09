@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Test Lead",
+      "job_category": "Quality Assurance",
+      "job_class": "Lead",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cucumber",
+      "experience": 2
+    },
+    {
+      "skill": "QTest",
+      "experience": 2
+    },
+    {
+      "skill": "Postman",
+      "experience": 2
+    },
+    {
+      "skill": "Swagger",
+      "experience": 2
+    },
+    {
+      "skill": "Java",
+      "experience": 6
+    },
+    {
+      "skill": "Software Testing",
+      "experience": 6
+    },
+    {
+      "skill": "Test Automation",
+      "experience": 6
+    },
+    {
+      "skill": "Test Scenario Writing",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee the design, development, and implementation of the test automation framework."
+    },
+    {
+      "duty": "Influence the development of a product in a testable environment and guide decisions for the future success of the product."
+    },
+    {
+      "duty": "Contribute innovative solutions using design thinking and next-gen technologies to solve business challenges."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in information systems or computer science"
+    }
+  ]
+}

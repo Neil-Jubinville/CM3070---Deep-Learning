@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Associate Product Manager",
+      "job_category": "Product Management",
+      "job_class": "Manager",
+      "sector": "Gaming",
+      "salary": 105000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analytics",
+      "experience": 3
+    },
+    {
+      "skill": "Product Management",
+      "experience": 3
+    },
+    {
+      "skill": "SQL",
+      "experience": 3
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Game Design",
+      "experience": 3
+    },
+    {
+      "skill": "Mobile Gaming",
+      "experience": 3
+    },
+    {
+      "skill": "Startup Experience",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead end-to-end feature and AB testing efforts through execution of roadmap: pre-analysis, feature design/specs, collaborate with dev and QA teams, design and set up AB tests, post analysis, and repeat"
+    },
+    {
+      "duty": "Manage game configurations to carry out and measure in-game monetization and content strategies"
+    },
+    {
+      "duty": "Use analytics to find new opportunities and make recommendations for improvements; this can include new user flow, UA/marketing, IAP/ads merchandising, content, technical performance, and more"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Data Analytics, Product Management, or a related field (Master's preferred)"
+    }
+  ]
+}

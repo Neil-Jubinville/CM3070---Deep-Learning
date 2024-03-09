@@ -1,0 +1,118 @@
+{
+  "meta": [
+    {
+      "job_title": "Cribl Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cribl onboarding",
+      "experience": 5
+    },
+    {
+      "skill": "Cribl cluster management",
+      "experience": 5
+    },
+    {
+      "skill": "Cribl version upgrade",
+      "experience": 5
+    },
+    {
+      "skill": "Cribl pipeline creation",
+      "experience": 5
+    },
+    {
+      "skill": "Data source integration",
+      "experience": 5
+    },
+    {
+      "skill": "Log reduction with Cribl",
+      "experience": 5
+    },
+    {
+      "skill": "Splunk administration",
+      "experience": 5
+    },
+    {
+      "skill": "GIT experience",
+      "experience": 5
+    },
+    {
+      "skill": "Cribl packs",
+      "experience": 5
+    },
+    {
+      "skill": "Regex expertise",
+      "experience": 5
+    },
+    {
+      "skill": "Linux administration",
+      "experience": 5
+    },
+    {
+      "skill": "AWS experience",
+      "experience": 5
+    },
+    {
+      "skill": "Ansible, BigFix, Puppet",
+      "experience": 5
+    },
+    {
+      "skill": "Mac OS log analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting (bash, Perl, PowerShell)",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Onboard data into Cribl from various sources using UF, HEC, syslog, DB Connect, and API calls, then send the data to Splunk."
+    },
+    {
+      "duty": "Manage Cribl clusters and handle version upgrades."
+    },
+    {
+      "duty": "Create advanced Cribl pipelines and work with multiple data sources."
+    },
+    {
+      "duty": "Perform log reduction with Cribl and handle Splunk administration."
+    },
+    {
+      "duty": "Utilize GIT and Cribl packs, and have expertise in complex regex."
+    },
+    {
+      "duty": "Lead projects, mentor junior team members, and engage with customers and medium-sized audiences."
+    },
+    {
+      "duty": "Analyze market trends, customer behavior, and competitor activity to identify growth opportunities and refine strategies."
+    },
+    {
+      "duty": "Manage the company's online presence, optimizing the website and social media channels for maximum engagement and conversions."
+    },
+    {
+      "duty": "Plan and oversee participation in industry events, conferences, and trade shows to showcase services and network with potential clients."
+    },
+    {
+      "duty": "Measure and report on the performance of marketing campaigns, using data-driven insights to continuously improve strategies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 0,
+      "student_teacher": 255,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in a technical field and a minimum of 12 years\u2019 related experience, or an equivalent combination of education and experience."
+    }
+  ]
+}

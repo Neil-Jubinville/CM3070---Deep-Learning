@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Middleware Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 153000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Middleware Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Java/J2EE",
+      "experience": 3
+    },
+    {
+      "skill": "Linux Operating System",
+      "experience": 3
+    },
+    {
+      "skill": "Scripting Languages",
+      "experience": 3
+    },
+    {
+      "skill": "Release Deploy Tools",
+      "experience": 3
+    },
+    {
+      "skill": "Network Infrastructure",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead end-to-end and administration duties for critical banking platforms, delivering middleware infrastructure for enterprise projects and regulatory initiatives."
+    },
+    {
+      "duty": "Ensure production stability, platform remediation, patching and upgrades, mitigating and managing risk."
+    },
+    {
+      "duty": "Middleware installation, configuration, risk mitigation, and remediation, performance tuning, and troubleshooting/triage as L3 production support."
+    },
+    {
+      "duty": "Experience with Middleware products such as Appian, Software AG WEB METHODS."
+    },
+    {
+      "duty": "Experience with Java/Container Framework, Linux Operating System, and scripting languages like shell, python, jython, Perl."
+    },
+    {
+      "duty": "Experience with Release Deploy Tools like Ansible, Ansible Tower, XLR, BitBucket, Celestial."
+    },
+    {
+      "duty": "Prior Bank of America experience, DEVOPS experience, and other related products like BMC Remedy, Harmon mDeliver, BMC Bladelogic Server Automation."
+    },
+    {
+      "duty": "Understanding of Network infrastructure (HTTP/S, TCP/IP, TLS,DNS, Load-balancers, firewalls, proxies, B2B links)."
+    },
+    {
+      "duty": "Excellent oral and written communication skills and strong attention to detail."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 0,
+      "student_teacher": 0,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

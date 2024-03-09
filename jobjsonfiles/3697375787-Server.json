@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "job_title": "Server",
+      "job_category": "Food Service",
+      "job_class": "Customer Service",
+      "sector": "Hospitality",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide exceptional customer service while engaging with coworkers and residents. Bring a heightened awareness for food allergies and preferences, ensuring each resident receives meals as needed."
+    },
+    {
+      "duty": "Deliver meals, food and drinks to residents and their guests with efficiency and professionalism. Clean and reset areas of the community, within dining areas, food service areas, and within residents\u2019 rooms."
+    },
+    {
+      "duty": "Engage with residents and others in the community with charm, professionalism, respect, and a bright personality. Maintain a working knowledge of all menu items, preparation, time, ingredients and method of presentation."
+    },
+    {
+      "duty": "Relay messaging from residents to the kitchen about dining needs, food preferences and orders, and special requests. Use technology, such as a Point of Sale, to provide clear communication between residents and the kitchen."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Food Delivery",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent preferred"
+    }
+  ]
+}

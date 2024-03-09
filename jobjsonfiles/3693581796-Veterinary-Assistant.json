@@ -1,0 +1,93 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinary Assistant",
+      "job_category": "Veterinary",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Records Management",
+      "experience": 1
+    },
+    {
+      "skill": "Surgical Assistance",
+      "experience": 1
+    },
+    {
+      "skill": "Client Education",
+      "experience": 1
+    },
+    {
+      "skill": "Anesthesia Monitoring",
+      "experience": 1
+    },
+    {
+      "skill": "Animal Care",
+      "experience": 1
+    },
+    {
+      "skill": "Team Training",
+      "experience": 1
+    },
+    {
+      "skill": "Facility Maintenance",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greet clients and patients, obtain weight and vital signs, and record medical records."
+    },
+    {
+      "duty": "Assist doctors with appointments, surgery, dentistry, and euthanasia."
+    },
+    {
+      "duty": "Schedule appointments, provide client education, relay test results, and maintain client/patient records."
+    },
+    {
+      "duty": "Prepare patients for surgical and dental procedures, assist in anesthetizing patients, and monitor patients during recovery."
+    },
+    {
+      "duty": "Perform in-hospital treatments for sick patients, including administering medications and fluid therapy."
+    },
+    {
+      "duty": "Assist in the training of new staff members and general dissemination of knowledge as required."
+    },
+    {
+      "duty": "Maintain hospital environment cleanliness and perform regular cleaning based on a maintenance schedule."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 60,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Preferred to have at least 1-year previous experience working in veterinary practice or sufficient relatable animal care experience."
+    },
+    {
+      "credential": "Excellent written and verbal communication skills."
+    },
+    {
+      "credential": "Compassionate and sympathetic, and maintain a professional attitude and demeanor during emotional and stressful situations."
+    },
+    {
+      "credential": "Telephone and computer skills."
+    },
+    {
+      "credential": "Willingness to learn new techniques and treatments, offer creative ideas, and accept change."
+    }
+  ]
+}

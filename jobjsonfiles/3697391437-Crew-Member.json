@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Crew Member",
+      "job_category": "Customer Service",
+      "job_class": "Entry Level",
+      "sector": "Retail",
+      "salary": 25000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Food Prep",
+      "experience": 1
+    },
+    {
+      "skill": "Stocking",
+      "experience": 1
+    },
+    {
+      "skill": "Cleaning",
+      "experience": 1
+    },
+    {
+      "skill": "Positive Attitude",
+      "experience": 1
+    },
+    {
+      "skill": "Training Programs",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide exceptional customer service and meet or exceed customer expectations at all times."
+    },
+    {
+      "duty": "Handle cash transactions and fuel transactions accurately and efficiently."
+    },
+    {
+      "duty": "Perform cleaning, stocking, and minor food preparation tasks as needed."
+    },
+    {
+      "duty": "Maintain a clean and safe environment, following health code guidelines."
+    },
+    {
+      "duty": "Participate in training programs to develop skills necessary for the role."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineer",
+      "job_category": "Data Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "MS Office Suite",
+      "experience": 3
+    },
+    {
+      "skill": "Cloud Technologies",
+      "experience": 3
+    },
+    {
+      "skill": "SQL",
+      "experience": 2
+    },
+    {
+      "skill": "Python",
+      "experience": 2
+    },
+    {
+      "skill": "Snowflake",
+      "experience": 2
+    },
+    {
+      "skill": "Azure",
+      "experience": 2
+    },
+    {
+      "skill": "R",
+      "experience": 2
+    },
+    {
+      "skill": "Scala/Spark",
+      "experience": 2
+    },
+    {
+      "skill": "Java",
+      "experience": 2
+    },
+    {
+      "skill": "API First Architectures",
+      "experience": 2
+    },
+    {
+      "skill": "DevOps",
+      "experience": 3
+    },
+    {
+      "skill": "SSRS",
+      "experience": 3
+    },
+    {
+      "skill": "Tableau",
+      "experience": 3
+    },
+    {
+      "skill": "PowerBI",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Serve as a key contributor to the development, design, and maintenance of data warehouses."
+    },
+    {
+      "duty": "Collaborate with Stakeholders to understand business needs and processes."
+    },
+    {
+      "duty": "Develop queries for data extraction, analysis, and model construction."
+    },
+    {
+      "duty": "Design and Develop Data Pipelines for ETL."
+    },
+    {
+      "duty": "Extract, Transform, and Load Data from Multiple Sources."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field (Master's preferred)"
+    }
+  ]
+}

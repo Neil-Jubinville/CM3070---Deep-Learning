@@ -1,0 +1,50 @@
+{
+  "meta": [
+    {
+      "job_title": "Network Engineer",
+      "job_category": "Information Technology",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Juniper Routing and Switching",
+      "experience": 3
+    },
+    {
+      "skill": "Network Deployment",
+      "experience": 3
+    },
+    {
+      "skill": "Vendor Management",
+      "experience": 3
+    },
+    {
+      "skill": "Python",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Project calls deal with deployment to build into the network."
+    },
+    {
+      "duty": "Working closely with vendors and clients Supporting and planning according to the changes in the environment to include deployment of new network elements"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

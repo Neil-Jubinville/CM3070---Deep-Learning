@@ -1,0 +1,102 @@
+{
+  "meta": [
+    {
+      "job_title": "Lab Technician",
+      "job_category": "Medical",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Laboratory Testing",
+      "experience": 2
+    },
+    {
+      "skill": "Good Laboratory Practices (GLP)",
+      "experience": 2
+    },
+    {
+      "skill": "Documentation",
+      "experience": 2
+    },
+    {
+      "skill": "Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Protocol Adherence",
+      "experience": 2
+    },
+    {
+      "skill": "HIPAA/PHI Privacy",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in testing of patient samples according to standard operating procedure."
+    },
+    {
+      "duty": "Maintain updated understanding and knowledge of lab methods."
+    },
+    {
+      "duty": "Provide guidance for new team members."
+    },
+    {
+      "duty": "Maintain clean and organized workspace following GLP."
+    },
+    {
+      "duty": "Recognize, escalate, and troubleshoot equipment malfunctions."
+    },
+    {
+      "duty": "Communicate with team and other departments on various platforms."
+    },
+    {
+      "duty": "Provide feedback on day-to-day schedule to lead/supervisor."
+    },
+    {
+      "duty": "Assist teammates in completing daily tasks."
+    },
+    {
+      "duty": "Maintain equipment and instruments, calibration, and expiration date."
+    },
+    {
+      "duty": "Maintain sufficient inventory of material, supplies, and equipment in the laboratory."
+    },
+    {
+      "duty": "Participate in Continuous Improvement Projects."
+    },
+    {
+      "duty": "Adhere to safety protocols and maintain a professional demeanor."
+    },
+    {
+      "duty": "Complete required training including HIPAA/PHI privacy and security training."
+    },
+    {
+      "duty": "Perform other assigned duties as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS/BA in a biological science or a related field"
+    }
+  ]
+}

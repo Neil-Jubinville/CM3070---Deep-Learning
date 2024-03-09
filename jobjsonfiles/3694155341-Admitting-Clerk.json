@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Admitting Clerk",
+      "job_category": "Medical",
+      "job_class": "Clerk",
+      "sector": "Administrative",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Detail Orientation",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Office Administration",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Multi-tasking",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Excel",
+      "experience": 1
+    },
+    {
+      "skill": "Microsoft Word",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Billing Software",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Register patients on the day of surgery and perform other medical office functions."
+    },
+    {
+      "duty": "Greet patients and visitors, maintain the appearance of the lobby, and answer phones."
+    },
+    {
+      "duty": "Assist in medical records and provide support in the business office as needed."
+    },
+    {
+      "duty": "Be thorough, detail-oriented, and able to multitask in a professional manner."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

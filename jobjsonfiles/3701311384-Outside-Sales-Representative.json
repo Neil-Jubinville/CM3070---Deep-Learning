@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Outside Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Negotiation",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Forecasting",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office Suite",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Presentation Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Interact with existing and potential customers, developing and maintaining relationships both in person and electronically."
+    },
+    {
+      "duty": "Negotiate with manufacturers, distributors, and contractors to come to a solution that works for everyone."
+    },
+    {
+      "duty": "Take on a consultant role at the contractor level, providing value through information and products."
+    },
+    {
+      "duty": "Strategic account development & management."
+    },
+    {
+      "duty": "Utilize sales forecasting via electronic tools and proficient in Microsoft Office Suite applications."
+    },
+    {
+      "duty": "Present in front of small audiences (customers/prospects) and educate about new and innovative products and services."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "College degree preferred"
+    }
+  ]
+}

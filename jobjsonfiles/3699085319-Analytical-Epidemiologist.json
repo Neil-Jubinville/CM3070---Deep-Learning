@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Analytical Epidemiologist",
+      "job_category": "Data Science",
+      "job_class": "Analytical",
+      "sector": "Public Health",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analysis",
+      "experience": 10
+    },
+    {
+      "skill": "Python",
+      "experience": 10
+    },
+    {
+      "skill": "SAS Programming",
+      "experience": 10
+    },
+    {
+      "skill": "R Programming",
+      "experience": 10
+    },
+    {
+      "skill": "Data Manipulation",
+      "experience": 10
+    },
+    {
+      "skill": "Public Health Data Analysis",
+      "experience": 10
+    },
+    {
+      "skill": "Statistical Software",
+      "experience": 10
+    },
+    {
+      "skill": "EHR Data Analysis",
+      "experience": 10
+    },
+    {
+      "skill": "Market Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Use analytical and programming skills to turn complex data sets into useful information for public health improvement."
+    },
+    {
+      "duty": "Work closely with clients to understand their questions and needs, and analyze their data-rich environment to provide objective answers."
+    },
+    {
+      "duty": "Develop analytics and automation using a combination of tools and frameworks to execute data analysis, queries, and visualizations."
+    },
+    {
+      "duty": "Provide clients with a deep understanding of their data and its implications for public health."
+    },
+    {
+      "duty": "Obtain and maintain a Public Trust or Suitability/Fitness determination based on client requirements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Public Health, Statistics, or a related field (Master's degree preferred)"
+    }
+  ]
+}

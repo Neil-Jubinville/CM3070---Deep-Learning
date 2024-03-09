@@ -1,0 +1,105 @@
+{
+  "meta": [
+    {
+      "job_title": "PLC Control Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Automated Assembly Processes",
+      "experience": 3
+    },
+    {
+      "skill": "Robotic Automation",
+      "experience": 3
+    },
+    {
+      "skill": "Ethernet/IP Fieldbus Network",
+      "experience": 3
+    },
+    {
+      "skill": "PLC Programming (RSLogix v32)",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Equipment Validation",
+      "experience": 4
+    },
+    {
+      "skill": "HMI Control",
+      "experience": 4
+    },
+    {
+      "skill": "Electrical Schematics Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "Fanuc Robot Integration",
+      "experience": 3
+    },
+    {
+      "skill": "Servo Applications",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Connect to equipment with a PC."
+    },
+    {
+      "duty": "Flash Firmware on control equipment."
+    },
+    {
+      "duty": "Download software to control equipment."
+    },
+    {
+      "duty": "Commission Ethernet/IP fieldbus network."
+    },
+    {
+      "duty": "Validate operation of safety equipment, including E-Stops, Gates, and Light Curtains."
+    },
+    {
+      "duty": "Teach Servos."
+    },
+    {
+      "duty": "Establish communications to third party equipment such as cameras and welders."
+    },
+    {
+      "duty": "Operate equipment via HMI control in manual mode."
+    },
+    {
+      "duty": "Communicate with build team to correct build defects, including alignments, sensor positioning, etc."
+    },
+    {
+      "duty": "Operate equipment in dry cycle mode."
+    },
+    {
+      "duty": "Support limited runs with product running through the machine."
+    },
+    {
+      "duty": "Read and Understand Electrical Schematics."
+    },
+    {
+      "duty": "GuardLogix Safety Programming."
+    },
+    {
+      "duty": "Siemens TIA Portal WinCC v15.1 for equipment\u2019s HMIs."
+    },
+    {
+      "duty": "Ethernet/IP Fieldbus."
+    },
+    {
+      "duty": "Fanuc Robot Integration."
+    },
+    {
+      "duty": "PLC side of handshaking with the Fanuc controller."
+    },
+    {
+      "duty": "Positioning of devices, Pick and Places."
+    }
+  ]
+}

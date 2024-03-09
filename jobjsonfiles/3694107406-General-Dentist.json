@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "General Dentist",
+      "job_category": "Healthcare",
+      "job_class": "Dentist",
+      "sector": "Healthcare",
+      "salary": 150000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Dental Care",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Comfort",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Oral Health Education",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Continuous Learning",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide routine and emergency dental care including cleanings, fillings, extractions, and root canals."
+    },
+    {
+      "duty": "Work closely with dental assistants and hygienists to ensure patient comfort and satisfaction."
+    },
+    {
+      "duty": "Maintain accurate patient records and provide ongoing education and guidance to patients on maintaining optimal oral health."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "DDS or DMD degree from an accredited dental school"
+    },
+    {
+      "credential": "Current state dental license and credentials"
+    }
+  ]
+}

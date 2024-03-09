@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Accountant",
+      "job_category": "Accounting",
+      "job_class": "Specialist",
+      "sector": "Accounting",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 2
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 3
+    },
+    {
+      "skill": "CPA",
+      "experience": 1
+    },
+    {
+      "skill": "Yardi Software",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare journal entries, reconcile and review inter-company transactions, and generate invoices as necessary."
+    },
+    {
+      "duty": "Complete monthly bank reconciliations and monitor credit card charges, payment discrepancies, refunds, and returns."
+    },
+    {
+      "duty": "Perform general ledger account variance analyses and reconciliations, assist in preparing month-end close, and assist with financial statement preparation."
+    },
+    {
+      "duty": "Assist with year-end audit, maintain accounting documents and records, and assist with other accounting projects as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Accounting (CPA and Yardi experience highly preferred)"
+    }
+  ]
+}

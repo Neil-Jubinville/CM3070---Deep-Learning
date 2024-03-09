@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Associate",
+      "job_category": "Retail",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 28000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Stocking",
+      "experience": 1
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Retail Experience",
+      "experience": 1
+    },
+    {
+      "skill": "Positive Attitude",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Handle cash transactions and provide excellent customer service."
+    },
+    {
+      "duty": "Stock and clean the store to maintain a safe and customer-ready environment."
+    },
+    {
+      "duty": "Food preparation and adherence to foodservice safety standards."
+    },
+    {
+      "duty": "Promote and process rewards programs for customers."
+    },
+    {
+      "duty": "Ability to multitask and perform physical tasks such as bending, standing, reaching, and lifting."
+    }
+  ]
+}

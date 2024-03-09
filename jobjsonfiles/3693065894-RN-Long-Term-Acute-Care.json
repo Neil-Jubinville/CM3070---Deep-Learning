@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "RN Long Term Acute Care",
+      "job_category": "Healthcare",
+      "job_class": "RN",
+      "sector": "Healthcare",
+      "salary": 75200,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Medical-Surgical",
+      "experience": 5
+    },
+    {
+      "skill": "Long-Term Care",
+      "experience": 5
+    },
+    {
+      "skill": "ACLS",
+      "experience": 5
+    },
+    {
+      "skill": "BLS",
+      "experience": 5
+    },
+    {
+      "skill": "EMR Systems",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide patient care in a long-term acute care setting, focusing on the unique needs of chronically critically ill patients."
+    },
+    {
+      "duty": "Utilize critical thinking to assess, plan, implement, and evaluate patient care."
+    },
+    {
+      "duty": "Administer medications and treatments as prescribed by the physician."
+    },
+    {
+      "duty": "Work in the medical-surgical unit, providing care to patients with complex conditions."
+    },
+    {
+      "duty": "Adhere to long-term care standards and protocols, ensuring the well-being of patients under extended medical supervision."
+    },
+    {
+      "duty": "Maintain ACLS and BLS certifications, responding to emergency situations with competence and efficiency."
+    },
+    {
+      "duty": "Document patient care using electronic medical record (EMR) systems, ensuring accuracy and completeness."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (BSN) and RN licensure"
+    }
+  ]
+}

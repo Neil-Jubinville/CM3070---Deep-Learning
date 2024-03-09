@@ -1,0 +1,130 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Scientist",
+      "job_category": "Data Science",
+      "job_class": "Scientist",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Predictive Modeling",
+      "experience": 6
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 7
+    },
+    {
+      "skill": "ETL",
+      "experience": 6
+    },
+    {
+      "skill": "Python",
+      "experience": 6
+    },
+    {
+      "skill": "R",
+      "experience": 5
+    },
+    {
+      "skill": "Hadoop",
+      "experience": 5
+    },
+    {
+      "skill": "Spark",
+      "experience": 5
+    },
+    {
+      "skill": "MySQL",
+      "experience": 6
+    },
+    {
+      "skill": "Anomaly Detection",
+      "experience": 6
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 7
+    },
+    {
+      "skill": "NLP",
+      "experience": 7
+    },
+    {
+      "skill": "Pandas",
+      "experience": 7
+    },
+    {
+      "skill": "Scikit-learn",
+      "experience": 7
+    },
+    {
+      "skill": "Tensorflow",
+      "experience": 7
+    },
+    {
+      "skill": "NLTK",
+      "experience": 7
+    },
+    {
+      "skill": "Gensim",
+      "experience": 7
+    },
+    {
+      "skill": "BERT",
+      "experience": 7
+    },
+    {
+      "skill": "NetworkX",
+      "experience": 7
+    },
+    {
+      "skill": "ETL Tools",
+      "experience": 7
+    },
+    {
+      "skill": "Dashboarding Tools",
+      "experience": 7
+    },
+    {
+      "skill": "ITSM Concepts",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and create predictive models, behavioral segmentation frameworks, profitability analyses, ad hoc reporting, and data visualizations."
+    },
+    {
+      "duty": "Lead complex initiatives and projects to derive insights from extracted data to solve critical business questions."
+    },
+    {
+      "duty": "Translate client/stakeholder needs into technical analyses and/or solutions in collaboration with internal and external partners."
+    },
+    {
+      "duty": "Identify rich data sources and monitor the melding and cleaning of datasets to ensure consistency."
+    },
+    {
+      "duty": "Deliver high-quality project solutions and tools within agreed-upon timelines and budget parameters and conduct post-implementation reviews."
+    },
+    {
+      "duty": "Guide others to develop sophisticated multivariate models and analytic solutions utilizing complex statistical and data science techniques and methods."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 40,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Data Science, Computer Science, Statistics, or related field (Master's preferred)"
+    }
+  ]
+}

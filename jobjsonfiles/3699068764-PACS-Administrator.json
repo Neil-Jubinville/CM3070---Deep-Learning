@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "PACS Administrator",
+      "job_category": "Healthcare",
+      "job_class": "Administrator",
+      "sector": "Healthcare",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "PACS Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Radiology Information Systems (RIS)",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Workflow Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "HL7 Interface",
+      "experience": 3
+    },
+    {
+      "skill": "Desktop Application Support",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Monitor and troubleshoot PACS, RIS, and voice recognition dictation system."
+    },
+    {
+      "duty": "Coordinate with Systems Services to ensure data integrity for radiology studies."
+    },
+    {
+      "duty": "Repair broken exams/studies and ensure data integrity in the system."
+    },
+    {
+      "duty": "Develop and document operating procedures and workflow processes."
+    },
+    {
+      "duty": "Provide training on new applications, implementation requirements, and troubleshooting."
+    },
+    {
+      "duty": "Serve as a liaison among internal groups and vendors for digital imaging initiatives."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 30,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent combination of education and experience. (Equivalency is Associates degree plus 5 years\u2019 experience with medium to large scale PACS and Radiology Information Systems (RIS) in the capacity of PACS administrator.)"
+    }
+  ]
+}

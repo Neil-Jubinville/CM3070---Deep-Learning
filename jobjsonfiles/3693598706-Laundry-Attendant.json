@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Laundry Attendant",
+      "job_category": "Laundry Services",
+      "job_class": "Attendant",
+      "sector": "Laundry Services",
+      "salary": 14,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Laundry Sorting",
+      "experience": 1
+    },
+    {
+      "skill": "Stain Treatment",
+      "experience": 1
+    },
+    {
+      "skill": "Laundry Machine Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Housekeeping",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 2
+    },
+    {
+      "skill": "Multi-tasking",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Sort all linens and treat stains"
+    },
+    {
+      "duty": "Load all laundry into washer and add specified cleaning agents"
+    },
+    {
+      "duty": "Take wet, clean items and dry as directed"
+    },
+    {
+      "duty": "Fold or hang cleaned items"
+    },
+    {
+      "duty": "Perform light housekeeping activities i.e. dusting, vacuuming, loading dishwasher, wiping counters"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": []
+}

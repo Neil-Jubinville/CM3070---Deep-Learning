@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Application Development - Quality Assurance Analyst",
+      "job_category": "Software Quality Assurance",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "Automation Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Test Strategy Development",
+      "experience": 5
+    },
+    {
+      "skill": "Test Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Test Case Development",
+      "experience": 5
+    },
+    {
+      "skill": "Database Testing",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "API Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Continuous Integration & Deployment",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and execute comprehensive test strategies and test plans for web applications, services, and APIs."
+    },
+    {
+      "duty": "Lead test execution, reporting, and analysis for automation and manual testing efforts."
+    },
+    {
+      "duty": "Conduct database testing and develop SQL queries for data validation."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to ensure effective testing and quality assurance."
+    },
+    {
+      "duty": "Integrate automation efforts into Continuous Integration and Continuous Deployment (CI/CD) pipelines."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or a related technical field (Master's preferred)"
+    }
+  ]
+}

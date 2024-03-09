@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "PHP",
+      "experience": 4
+    },
+    {
+      "skill": "Golang",
+      "experience": 4
+    },
+    {
+      "skill": "Microservices",
+      "experience": 4
+    },
+    {
+      "skill": "Docker",
+      "experience": 4
+    },
+    {
+      "skill": "AWS",
+      "experience": 4
+    },
+    {
+      "skill": "Google Cloud",
+      "experience": 4
+    },
+    {
+      "skill": "Video Broadcasting",
+      "experience": 4
+    },
+    {
+      "skill": "Streaming Media",
+      "experience": 4
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain and evolve the Video delivery and SVOD platform."
+    },
+    {
+      "duty": "Design and Build cloud-based microservices to support video processing workflows."
+    },
+    {
+      "duty": "Field questions and requests regarding APIs and behavior."
+    },
+    {
+      "duty": "Work closely with the partnership team about media delivery to outside partners."
+    },
+    {
+      "duty": "Work on streamlined CI/CD solutions and building shared libraries and architecture."
+    },
+    {
+      "duty": "Modernize and optimize the cloud Video Partner Delivery platform."
+    },
+    {
+      "duty": "Building new microservices, features and improving Video Delivery / Content Filtering solutions."
+    },
+    {
+      "duty": "Maintaining cloud services in GCP/AWS that power content sharing with partners like Apple, Amazon, Youtube etc."
+    },
+    {
+      "duty": "Re-architecture and modernizing existing systems into the cloud."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS degree in Computer Science, similar technical field of study or equivalent practical experience"
+    }
+  ]
+}

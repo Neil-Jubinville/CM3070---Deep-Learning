@@ -1,0 +1,163 @@
+{
+  "meta": [
+    {
+      "job_title": "FSD + DevOps",
+      "job_category": "Software Engineering",
+      "job_class": "Senior Software Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 7
+    },
+    {
+      "skill": "J2EE",
+      "experience": 7
+    },
+    {
+      "skill": "Spring",
+      "experience": 7
+    },
+    {
+      "skill": "Spring-Boot",
+      "experience": 7
+    },
+    {
+      "skill": "RESTful Services",
+      "experience": 7
+    },
+    {
+      "skill": "Microservices",
+      "experience": 2
+    },
+    {
+      "skill": "ORM Framework (JPA/Hibernate)",
+      "experience": 7
+    },
+    {
+      "skill": "Docker",
+      "experience": 2
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 2
+    },
+    {
+      "skill": "Angular",
+      "experience": 2
+    },
+    {
+      "skill": "ReactJS",
+      "experience": 2
+    },
+    {
+      "skill": "AWS Services",
+      "experience": 1
+    },
+    {
+      "skill": "RDBMS/PostgreSQL",
+      "experience": 7
+    },
+    {
+      "skill": "DevOps (Jenkins, Artifactory, Maven/Gradle, GIT/BitBucket)",
+      "experience": 7
+    },
+    {
+      "skill": "Security Concepts",
+      "experience": 7
+    },
+    {
+      "skill": "OAuth Implementation",
+      "experience": 1
+    },
+    {
+      "skill": "API Management (Apigee)",
+      "experience": 1
+    },
+    {
+      "skill": "Service Mesh (Istio)",
+      "experience": 1
+    },
+    {
+      "skill": "Elasticsearch",
+      "experience": 1
+    },
+    {
+      "skill": "Logstash & Kibana",
+      "experience": 1
+    },
+    {
+      "skill": "Queue Based Implementations",
+      "experience": 1
+    },
+    {
+      "skill": "NoSQL (MongoDB)",
+      "experience": 1
+    },
+    {
+      "skill": "Unix Scripting",
+      "experience": 1
+    },
+    {
+      "skill": "Python Scripting",
+      "experience": 1
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and Develop applications using Java 8+/J2EE, Spring, Spring-Boot, RESTful Services, and UI Framework"
+    },
+    {
+      "duty": "Design and Develop Microservices using Spring-Boot and REST API"
+    },
+    {
+      "duty": "Implement cloud-based solutions in various AWS Services"
+    },
+    {
+      "duty": "Utilize Docker and Kubernetes for application deployment"
+    },
+    {
+      "duty": "Implement DevOps tool chain (Jenkins, Artifactory, Maven/Gradle, GIT/BitBucket)"
+    },
+    {
+      "duty": "Implement ORM Framework - JPA / Hibernate"
+    },
+    {
+      "duty": "Analyze and implement security, transaction, and monitoring concepts"
+    },
+    {
+      "duty": "Familiarity with API Management (Apigee) and Service Mesh (Istio)"
+    },
+    {
+      "duty": "Experience with Elasticsearch, Logstash & Kibana"
+    },
+    {
+      "duty": "Experience with NoSQL (MongoDB) and Queue based implementations"
+    },
+    {
+      "duty": "Utilize scripting languages using Unix and Python"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in Computer Science, Engineering or equivalent"
+    },
+    {
+      "credential": "AWS DevOps Certification"
+    }
+  ]
+}

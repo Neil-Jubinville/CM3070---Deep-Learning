@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Banquet Cook",
+      "job_category": "Hospitality",
+      "job_class": "Cook",
+      "sector": "Hotel",
+      "salary": 19,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Culinary Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Cost Control",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Organization",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare and cook food according to standard recipes and personal expertise."
+    },
+    {
+      "duty": "Maintain sanitation, health, and safety standards in work areas."
+    },
+    {
+      "duty": "Collaborate with kitchen teams to ensure timely and high-quality food production."
+    },
+    {
+      "duty": "Adhere to food handling and storage regulations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Culinary Degree or Certification"
+    }
+  ]
+}

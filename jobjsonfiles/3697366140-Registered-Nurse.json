@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Specialist",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Infection Control",
+      "experience": 5
+    },
+    {
+      "skill": "Pain Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Cultural Sensitivity",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for the direct and/or indirect care of patients, utilizing professional nursing skills and knowledge."
+    },
+    {
+      "duty": "Assesses learning needs, readiness to learn and identifies actual or potential barriers to learning, incorporating the patient's education into daily activities based on age, cultural, and spiritual values."
+    },
+    {
+      "duty": "Documents admission assessment/reassessment, plan, interventions, and medication use, and monitors its effects and outcomes according to policy."
+    },
+    {
+      "duty": "Utilizes the information management system to enhance communication and documents change in patient's condition to all appropriate individuals."
+    },
+    {
+      "duty": "Adheres to infection control standards specific to patient care and promotes and maintains a safe, clean, and orderly environment."
+    },
+    {
+      "duty": "Performs other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 180,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BSN, RN License, AHA BLS"
+    }
+  ]
+}

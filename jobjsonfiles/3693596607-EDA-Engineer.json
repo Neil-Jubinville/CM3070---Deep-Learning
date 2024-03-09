@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "EDA Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electronic Design Automation (EDA)",
+      "experience": 8
+    },
+    {
+      "skill": "Perl, TCL, or Python",
+      "experience": 5
+    },
+    {
+      "skill": "Data collection (ex. SQL data query, Power Automate)",
+      "experience": 5
+    },
+    {
+      "skill": "Electronic Design Automation (EDA) tools (i.e. Cadence, Synopsis, or Mentor Graphics)",
+      "experience": 5
+    },
+    {
+      "skill": "Field Programmable Gate Array (FPGA) background",
+      "experience": 5
+    },
+    {
+      "skill": "C++",
+      "experience": 5
+    },
+    {
+      "skill": "SPA, Route inplacement experience",
+      "experience": 5
+    },
+    {
+      "skill": "Data transformation",
+      "experience": 5
+    },
+    {
+      "skill": "Data analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Business Intelligence Application skills (Power BI REQUIRED: others encouraged)",
+      "experience": 5
+    },
+    {
+      "skill": "Enterprise Data Lake (EDL) experience",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Accounting or Business Administration concepts and terms",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with cross-functional teams to develop and optimize electronic design automation (EDA) tools and methodologies."
+    },
+    {
+      "duty": "Conduct detailed analyses and simulations to ensure the efficiency and reliability of semiconductor designs."
+    },
+    {
+      "duty": "Create and maintain design flow guidelines and documentation to enable efficient implementation of designs."
+    },
+    {
+      "duty": "Debug and resolve complex issues related to EDA tools, flows, and methodologies, providing technical support to the design team."
+    },
+    {
+      "duty": "Stay updated with the latest advancements in EDA technologies, trends, and methodologies, and recommend improvements to enhance design productivity."
+    }
+  ]
+}

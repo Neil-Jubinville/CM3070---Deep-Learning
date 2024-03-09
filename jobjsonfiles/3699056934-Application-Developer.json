@@ -1,0 +1,105 @@
+{
+  "meta": [
+    {
+      "job_title": "Application Developer",
+      "job_category": "Software Development",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 107000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C# Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Database Management",
+      "experience": 5
+    },
+    {
+      "skill": "GenesysPureConnect",
+      "experience": 4
+    },
+    {
+      "skill": "MS SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Interaction Attendant",
+      "experience": 4
+    },
+    {
+      "skill": "SAP CRM",
+      "experience": 4
+    },
+    {
+      "skill": "Salesforce.com",
+      "experience": 4
+    },
+    {
+      "skill": "Workforce Management",
+      "experience": 5
+    },
+    {
+      "skill": "Speech Analytics",
+      "experience": 4
+    },
+    {
+      "skill": "Networking Concepts",
+      "experience": 4
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Participate in the engineering to support call recording (audio and screen) within the Genesys Platform."
+    },
+    {
+      "duty": "Design and implement interaction flows in Interaction Attendant."
+    },
+    {
+      "duty": "Design and implement customizations in Interaction Designer."
+    },
+    {
+      "duty": "Utilize and understand workforce management concepts."
+    },
+    {
+      "duty": "Utilize and understand speech analytics concepts."
+    },
+    {
+      "duty": "Engage in hands-on coding and development."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BA, BS or equivalent experience in related field preferred, Advance Degree may be required."
+    },
+    {
+      "credential": "Working knowledge of two or more technologies preferred."
+    },
+    {
+      "credential": "Familiarity with networking concepts and troubleshooting preferred."
+    },
+    {
+      "credential": "Proven experience and knowledge with MS SQL database programming preferred."
+    },
+    {
+      "credential": "Proven experience and knowledge in the GenesysPureConnect platform preferred."
+    },
+    {
+      "credential": "Experience with SAP CRM or Salesforce.com a plus."
+    }
+  ]
+}

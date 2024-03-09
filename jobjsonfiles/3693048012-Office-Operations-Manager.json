@@ -1,0 +1,48 @@
+{
+  "meta": [
+    {
+      "job_title": "Office Operations Manager",
+      "job_category": "Administration",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft Office Suite (Outlook, Excel, Word, PowerPoint, etc.)",
+      "experience": 5
+    },
+    {
+      "skill": "Written and Verbal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Multi-tasking and Organization",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage the reception area and staff to ensure effective communication both internally and externally"
+    },
+    {
+      "duty": "Provide office guests with a hospitable experience"
+    },
+    {
+      "duty": "Supervise the maintenance of office areas, equipment, and facilities"
+    },
+    {
+      "duty": "Interact with IT, phone and building personnel as needed"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 75,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

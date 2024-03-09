@@ -1,0 +1,49 @@
+{
+  "meta": [
+    {
+      "job_title": "E-commerce Videographer",
+      "job_category": "Marketing",
+      "job_class": "Videographer",
+      "sector": "Marketing",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Video Production",
+      "experience": 3
+    },
+    {
+      "skill": "Photography",
+      "experience": 3
+    },
+    {
+      "skill": "4K Video Shooting",
+      "experience": 3
+    },
+    {
+      "skill": "Drone Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Gimbal Operation",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Filming e-commerce videos and product photography in 4k 60fps."
+    },
+    {
+      "duty": "Managing and operating a camera, drone, and gimbal."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ]
+}

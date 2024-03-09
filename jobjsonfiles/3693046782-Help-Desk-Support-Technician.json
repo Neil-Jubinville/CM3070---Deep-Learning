@@ -1,0 +1,97 @@
+{
+  "meta": [
+    {
+      "job_title": "Help Desk Support Technician",
+      "job_category": "IT",
+      "job_class": "Support",
+      "sector": "Software Engineering",
+      "salary": 50000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Handles all incoming support calls, emails, and verbal communications as the first line of support for all reported issues. Create support tickets, investigate issues, and document all findings."
+    },
+    {
+      "duty": "Install, upgrade, repair, and support Windows based systems."
+    },
+    {
+      "duty": "Any other duties as assigned."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Networking",
+      "experience": 3
+    },
+    {
+      "skill": "VOIP Phones",
+      "experience": 2
+    },
+    {
+      "skill": "Printers and Scanners",
+      "experience": 3
+    },
+    {
+      "skill": "VMware/Hyper-V",
+      "experience": 3
+    },
+    {
+      "skill": "Remote Desktop Services",
+      "experience": 3
+    },
+    {
+      "skill": "Active Directory",
+      "experience": 3
+    },
+    {
+      "skill": "DNS",
+      "experience": 3
+    },
+    {
+      "skill": "SCCM",
+      "experience": 3
+    },
+    {
+      "skill": "O365",
+      "experience": 3
+    },
+    {
+      "skill": "Bitlocker",
+      "experience": 3
+    },
+    {
+      "skill": "MS Office Suite",
+      "experience": 3
+    },
+    {
+      "skill": "Logical Thinking",
+      "experience": 3
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Oral Communication",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate\u2019s degree or greater in Computers, Networking or related technical field. A+, Network +, Microsoft Certification or related technical certification a plus"
+    }
+  ]
+}

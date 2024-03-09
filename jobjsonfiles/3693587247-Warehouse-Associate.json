@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Associate",
+      "job_category": "Warehouse",
+      "job_class": "Associate",
+      "sector": "Logistics",
+      "salary": 33000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Package Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Order Fulfillment",
+      "experience": 2
+    },
+    {
+      "skill": "Forklift Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Warehouse Safety",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Physical Stamina",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Loading, unloading, and sorting packages of various sizes."
+    },
+    {
+      "duty": "Work one shift a day for part-time employees; work two shifts for full-time employees."
+    },
+    {
+      "duty": "Varied shift lengths based on package volume."
+    },
+    {
+      "duty": "Overtime paid after 40 hours a week."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150
+    },
+    {
+      "student_teacher": 100
+    },
+    {
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

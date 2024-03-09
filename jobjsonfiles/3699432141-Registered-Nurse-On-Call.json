@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse On-Call",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 38000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Pediatric Nursing",
+      "experience": 2
+    },
+    {
+      "skill": "Training",
+      "experience": 3
+    },
+    {
+      "skill": "Medication Management",
+      "experience": 3
+    },
+    {
+      "skill": "Direct Care",
+      "experience": 3
+    },
+    {
+      "skill": "Supervision",
+      "experience": 3
+    },
+    {
+      "skill": "Behavior Interventions",
+      "experience": 3
+    },
+    {
+      "skill": "Adolescent Mental Health",
+      "experience": 2
+    },
+    {
+      "skill": "Psychiatric Nursing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide a variety of pediatric nursing services to adolescents in a psychiatric residential treatment center."
+    },
+    {
+      "duty": "Conduct in-service training for staff on health care topics."
+    },
+    {
+      "duty": "Provide medication management and direct care, supervision, and behavior interventions to clients on assigned shifts."
+    },
+    {
+      "duty": "Operate within established guidelines, legal requirements, standing orders from an M.D., licensing, and professional standards of medical practices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100
+    },
+    {
+      "student_teacher": 80
+    },
+    {
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Registered Nurse license in Oregon (Bachelor's in nursing preferred)"
+    }
+  ]
+}

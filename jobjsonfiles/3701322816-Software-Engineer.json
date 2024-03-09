@@ -1,0 +1,119 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Web Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD Pipelines",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Services",
+      "experience": 5
+    },
+    {
+      "skill": "OO Design Principles",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "Scrum",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "NoSQL",
+      "experience": 5
+    },
+    {
+      "skill": "Audio/Video Transcoding",
+      "experience": 5
+    },
+    {
+      "skill": "OTT Video Delivery",
+      "experience": 5
+    },
+    {
+      "skill": "Networking Concepts",
+      "experience": 5
+    },
+    {
+      "skill": "Source Ingest & Encoding",
+      "experience": 5
+    },
+    {
+      "skill": "Digital Video Workflow",
+      "experience": 5
+    },
+    {
+      "skill": "Adaptive Bit Rate Streaming",
+      "experience": 5
+    },
+    {
+      "skill": "SCTE-35 Ad Markers",
+      "experience": 5
+    },
+    {
+      "skill": "Subtitle Formats",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Using in-house & third-party tools, build and support the VOD media pipeline for streaming video, optimizing video encoding, packaging, and delivery."
+    },
+    {
+      "duty": "Improve audio, video and packaging quality control and reliability."
+    },
+    {
+      "duty": "Use requirements and modeling to work with Product Owners to implement smart technology solutions and tools delivery premium quality audio and video experiences."
+    },
+    {
+      "duty": "Continuously learn, improve, and optimize processes and ways of working."
+    },
+    {
+      "duty": "Manage and maintain cloud-based content delivery and services."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent in Computer Science, Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

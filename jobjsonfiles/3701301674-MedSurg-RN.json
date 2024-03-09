@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "MedSurg RN",
+      "job_category": "Nursing",
+      "job_class": "RN",
+      "sector": "Healthcare",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Clinical Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 2
+    },
+    {
+      "skill": "Healthcare Informatics",
+      "experience": 2
+    },
+    {
+      "skill": "Time Management",
+      "experience": 2
+    },
+    {
+      "skill": "Multitasking",
+      "experience": 2
+    },
+    {
+      "skill": "Adaptability",
+      "experience": 2
+    },
+    {
+      "skill": "Ethical Decision Making",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide patient care in a medical-surgical setting, including assessment, planning, and implementation of nursing interventions."
+    },
+    {
+      "duty": "Utilize clinical skills and critical thinking to deliver high-quality patient care and achieve positive outcomes."
+    },
+    {
+      "duty": "Utilize healthcare informatics to document, track, and communicate patient information and treatment plans."
+    },
+    {
+      "duty": "Manage time effectively, multitask, and adapt to changing patient needs and priorities."
+    },
+    {
+      "duty": "Make ethical decisions in patient care and demonstrate professional conduct at all times."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (Master's preferred)"
+    }
+  ]
+}

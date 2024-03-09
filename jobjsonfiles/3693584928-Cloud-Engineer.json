@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Cloud Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 125000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nice InContact CXone",
+      "experience": 5
+    },
+    {
+      "skill": "NICE CXOne Studio",
+      "experience": 3
+    },
+    {
+      "skill": "C#",
+      "experience": 6
+    },
+    {
+      "skill": "C++",
+      "experience": 6
+    },
+    {
+      "skill": "Java",
+      "experience": 6
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 6
+    },
+    {
+      "skill": "Python",
+      "experience": 6
+    },
+    {
+      "skill": "Webservice API Calls",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Confident in a client-facing role and possess the ability to manage multiple stakeholders."
+    },
+    {
+      "duty": "Coordinate and perform release planning, development, testing, and releases on multiple agencies IVR enhancements."
+    },
+    {
+      "duty": "Build Call flow designs, Chat, and integration to backend systems using application program interfaces (API)."
+    },
+    {
+      "duty": "Manage NICE BU and provide Subject Matter Expertise (SME) input into solution design, and optimization for network solutions."
+    },
+    {
+      "duty": "Design and implementation of skills-based routing for voice, chat, email, and SMS contact center technology."
+    },
+    {
+      "duty": "Coordinate issue communication and resolution with multiple other tech teams in the event of a problem."
+    },
+    {
+      "duty": "Prepare design documents based on business requirements for the application development."
+    },
+    {
+      "duty": "Act as a subject matter expert (SME) accessible by other team members to discuss and work through possible ways to achieve or a design a requested IVR enhancement."
+    },
+    {
+      "duty": "Review support tickets with agency leadership and oversee any support questions from other team members that might be working on one of those agencies\u2019 tickets."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Administrative Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Administration",
+      "salary": 45000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Coordinate complex calendar appointments for team"
+    },
+    {
+      "duty": "Prepare travel expense and billing allocation reports, document management and archiving"
+    },
+    {
+      "duty": "Transcription, editing and proofreading of confidential correspondence"
+    },
+    {
+      "duty": "Maintain client database and report preparation"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft Word",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Excel",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft PowerPoint",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Outlook",
+      "experience": 3
+    },
+    {
+      "skill": "Windows",
+      "experience": 3
+    },
+    {
+      "skill": "Typing",
+      "experience": 3
+    },
+    {
+      "skill": "Transcription",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 50,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree"
+    }
+  ]
+}

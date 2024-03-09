@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Urgent Care Veterinarian",
+      "job_category": "Veterinary",
+      "job_class": "Doctor",
+      "sector": "Healthcare",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Diagnosis",
+      "experience": 5
+    },
+    {
+      "skill": "Wound Care",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Surgical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Stabilization",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Knowledge",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide outpatient care and basic to intermediate care for common, non-emergent illnesses and wounds."
+    },
+    {
+      "duty": "Conduct baseline diagnostics and ensure fast turnaround time from exam to discharge."
+    },
+    {
+      "duty": "Offer walk-in service and support referral partners with extended hours."
+    },
+    {
+      "duty": "Manage basic surgical skills for wound/laceration care and basic ER stabilization skills."
+    },
+    {
+      "duty": "Apply knowledge of current techniques to diagnose and treat common injuries, illnesses, diseases, and adverse conditions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 85,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "DVM/VMD degree or equivalent. AFAST/TFAST training a plus. Basic surgical skills for wound/laceration care. Basic ER stabilization skills. Knowledge of current/up-to-date information and techniques."
+    }
+  ]
+}

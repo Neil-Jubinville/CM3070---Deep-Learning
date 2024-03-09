@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "HID Firmware Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 160000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C/C++ for Embedded Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Multithreaded Programming",
+      "experience": 5
+    },
+    {
+      "skill": "RTOS Development",
+      "experience": 5
+    },
+    {
+      "skill": "Memory and Execution Time Optimization",
+      "experience": 5
+    },
+    {
+      "skill": "Analog and Digital Sensor Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Unit Testing and Continuous Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Communication and Collaboration Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Firmware/Software Architecture Design",
+      "experience": 5
+    },
+    {
+      "skill": "Debugging and Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Microcontroller Selection and Power Management Strategy",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Participate in the design process, presenting new designs and data, and accepting feedback from internal and external partners"
+    },
+    {
+      "duty": "Architect, implement, and maintain complex firmware/software designs"
+    },
+    {
+      "duty": "Write clean, robust, and testable code tailored for embedded systems"
+    },
+    {
+      "duty": "Debug and resolve system issues related to the product firmware, software, and systems"
+    },
+    {
+      "duty": "Collaborate in the definition and bring up of new sensing chipsets, ASIC\u2019s, and SOC\u2019s"
+    },
+    {
+      "duty": "Specify and document communication protocols, system states, and feature requirements in partnership with other firmware and software teams"
+    },
+    {
+      "duty": "Collaborate with Quality Engineering teams for white-box testing"
+    },
+    {
+      "duty": "Collaborate with the Continuous Integration team for new automated testing strategies"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS in Electrical or Computer Engineering, Computer Science, Mechatronics, or related field"
+    },
+    {
+      "credential": "3+ years of related work experience"
+    }
+  ]
+}

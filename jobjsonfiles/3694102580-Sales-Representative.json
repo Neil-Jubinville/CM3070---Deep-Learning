@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prospect and generate new business as well as perform cold-calls in the field to generate new sales."
+    },
+    {
+      "duty": "Support existing clients and have an ability to conduct product demonstrations."
+    },
+    {
+      "duty": "Identify leads, manage prospects and acquire new business."
+    },
+    {
+      "duty": "Service existing clients."
+    },
+    {
+      "duty": "Effectively demonstrate product line."
+    },
+    {
+      "duty": "Meet established goals for territory development and sales quotas."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Prospecting",
+      "experience": 2
+    },
+    {
+      "skill": "Cold Calling",
+      "experience": 2
+    },
+    {
+      "skill": "Client Management",
+      "experience": 2
+    },
+    {
+      "skill": "Product Demonstration",
+      "experience": 2
+    },
+    {
+      "skill": "Territory Development",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 70
+    }
+  ]
+}

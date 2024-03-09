@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Business Analyst",
+      "job_category": "Business Analysis",
+      "job_class": "Senior",
+      "sector": "Product Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Business Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "Requirements Elicitation",
+      "experience": 5
+    },
+    {
+      "skill": "Product Development",
+      "experience": 5
+    },
+    {
+      "skill": "Scrum Master",
+      "experience": 5
+    },
+    {
+      "skill": "Change Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analytics",
+      "experience": 5
+    },
+    {
+      "skill": "Software Delivery",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead requirements elicitation with key stakeholders, documentation, story creation, and refinement for the team."
+    },
+    {
+      "duty": "Perform analysis of large-scale epics for decomposition and work closely with Program Leadership and teams to ensure accurate scoping, feasibility assessment and effort estimation for epics and features."
+    },
+    {
+      "duty": "Conduct refinement sessions to decompose features into user stories, tasks, and acceptance criteria for the development team."
+    },
+    {
+      "duty": "Schedule, coordinate, and facilitate agile ceremonies and elicitation sessions with the Product Owner and stakeholders to identify, prioritize, and clarify requirements and/or issues."
+    },
+    {
+      "duty": "Collaborate within the Scrum team and Program Leadership on progress, providing updates and identifying potential risks or issues that surface during development."
+    },
+    {
+      "duty": "Partner with Development Lead to share Scrum Master responsibilities for the development team."
+    },
+    {
+      "duty": "Perform change management activities in support of product releases."
+    },
+    {
+      "duty": "Collaborate with the QA Lead to ensure effective coordination and execution of User Acceptance Testing efforts."
+    },
+    {
+      "duty": "Collaborate across development teams to manage dependencies and ensure risks are proactively managed."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams, including operations to promptly identify and prioritize issues reported in a production environment to ensure timely resolution and minimize impacts on users."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

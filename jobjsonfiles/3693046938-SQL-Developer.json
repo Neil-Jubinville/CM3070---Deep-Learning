@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "SQL Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL Development",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Optimization",
+      "experience": 5
+    },
+    {
+      "skill": "RDBMS Concepts",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "MSBI (SSIS, SSRS)",
+      "experience": 3
+    },
+    {
+      "skill": "Dot Net",
+      "experience": 3
+    },
+    {
+      "skill": "Visual Basic",
+      "experience": 3
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Motivational Abilities",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and optimize SQL queries, views, triggers, stored procedures, indexes, and constraints in SQL Server."
+    },
+    {
+      "duty": "Perform data analysis and profiling using SQL on various source systems including SQL Server."
+    },
+    {
+      "duty": "Produce tables, reports, graphs, and listings using various procedures and handle large databases for data manipulations."
+    },
+    {
+      "duty": "Improve database efficiency by re-indexing, updating statistics, and reorganizing indexes."
+    },
+    {
+      "duty": "Collaborate with development teams to provide support for database objects and perform code reviews."
+    },
+    {
+      "duty": "Create, develop, and maintain SQL processes for data warehousing."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 120,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ],
+  "salary": 95000
+}

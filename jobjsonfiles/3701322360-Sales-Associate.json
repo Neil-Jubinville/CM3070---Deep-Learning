@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Retail",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Retail Operations",
+      "experience": 2
+    },
+    {
+      "skill": "Sales Techniques",
+      "experience": 2
+    },
+    {
+      "skill": "Technology Use",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide outstanding customer service and support the store in meeting customer service goals."
+    },
+    {
+      "duty": "Offer assistance to customers proactively and without prompt, using suggestive selling techniques."
+    },
+    {
+      "duty": "Use technology such as mobile devices, digital point-of-sale, Belk App, and website to enhance the customer shopping experience."
+    },
+    {
+      "duty": "Meet or exceed personal sales goals, increase units sold per transaction, and reduce shrinkage in the area."
+    },
+    {
+      "duty": "Maintain store standards, assist with non-sell duties, and comply with store policies."
+    },
+    {
+      "duty": "Assist Operations teams with non-sell duties as assigned by Sales Team Manager."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "No education requirement. Experience in retail preferred."
+    }
+  ]
+}

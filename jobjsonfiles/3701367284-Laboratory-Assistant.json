@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Laboratory Assistant",
+      "job_category": "Laboratory",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Specimen Processing",
+      "experience": 2
+    },
+    {
+      "skill": "Laboratory Information Systems",
+      "experience": 2
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Anatomy",
+      "experience": 1
+    },
+    {
+      "skill": "Physiology",
+      "experience": 1
+    },
+    {
+      "skill": "Chemistry",
+      "experience": 1
+    },
+    {
+      "skill": "Biology",
+      "experience": 1
+    },
+    {
+      "skill": "Computer Keyboard Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Processing of all types of specimens"
+    },
+    {
+      "duty": "Operating Laboratory and Hospital Information Systems for data entry and retrieval"
+    },
+    {
+      "duty": "Providing client support"
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "College level coursework in anatomy, physiology, chemistry, and/or biology"
+    }
+  ]
+}

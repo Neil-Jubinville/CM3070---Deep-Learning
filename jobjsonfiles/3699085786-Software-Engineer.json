@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Android SDK",
+      "experience": 7
+    },
+    {
+      "skill": "Android Development",
+      "experience": 7
+    },
+    {
+      "skill": "Cloud Message APIs",
+      "experience": 7
+    },
+    {
+      "skill": "Push Notifications",
+      "experience": 7
+    },
+    {
+      "skill": "RESTful APIs",
+      "experience": 7
+    },
+    {
+      "skill": "GraphQL APIs",
+      "experience": 7
+    },
+    {
+      "skill": "Git",
+      "experience": 7
+    },
+    {
+      "skill": "Continuous Integration",
+      "experience": 7
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 7
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 7
+    },
+    {
+      "skill": "Innovation",
+      "experience": 7
+    },
+    {
+      "skill": "Technology Awareness",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain high-quality Android applications using Android SDK and various versions of Android."
+    },
+    {
+      "duty": "Implement cloud message APIs and push notifications for seamless communication within the applications."
+    },
+    {
+      "duty": "Utilize RESTful and GraphQL APIs to enhance application functionality and user experience."
+    },
+    {
+      "duty": "Work with Git and continuous integration tools to manage codebase and deployment process."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams in an Agile environment to drive innovation and deliver cutting-edge technological solutions."
+    },
+    {
+      "duty": "Stay updated with the latest technological developments and integrate them into the software development process."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 110,
+      "student_teacher": 90,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

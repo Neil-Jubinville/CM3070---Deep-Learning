@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Clerk",
+      "job_category": "Administrative",
+      "job_class": "Clerk",
+      "sector": "Administrative",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Fleet Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Parts Ordering",
+      "experience": 3
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 3
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Data Reconciliation",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain fleet records on inventory levels, preventive maintenance schedules, and corrective maintenance performed on all units."
+    },
+    {
+      "duty": "Input fleet information into the computerized fleet management system daily."
+    },
+    {
+      "duty": "Act as a point of contact with vendors to order, receive and ensure payment for goods and services."
+    },
+    {
+      "duty": "Prepare truck purchase orders for management approval, including assignment of general ledger codes."
+    },
+    {
+      "duty": "Receive, tag, stock and dispense parts to mechanics according to Corporate and Regional policy and local operating procedures."
+    },
+    {
+      "duty": "Review purchase orders with accounting to ensure accuracy and proper payment of invoices."
+    },
+    {
+      "duty": "Produce various productivity and usage reports for management review."
+    },
+    {
+      "duty": "Follow all safety policies and procedures to achieve safety goals."
+    },
+    {
+      "duty": "Reconcile Dossier financial data to Lawson general ledger."
+    },
+    {
+      "duty": "Support the Fleet Manager with analysis of fleet operations reports."
+    },
+    {
+      "duty": "Assist with parts organization and inventory."
+    },
+    {
+      "duty": "Perform other job-related duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or G.E.D."
+    },
+    {
+      "credential": "1 year of general office experience or equivalent training."
+    }
+  ]
+}

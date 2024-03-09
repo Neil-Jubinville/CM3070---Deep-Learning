@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Class A CDL Driver",
+      "job_category": "Logistics/Transportation",
+      "job_class": "Driver",
+      "sector": "Transportation",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CDL License",
+      "experience": 1
+    },
+    {
+      "skill": "Forklift Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Route Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Delivery Management",
+      "experience": 2
+    },
+    {
+      "skill": "DOT Regulations",
+      "experience": 3
+    },
+    {
+      "skill": "Vehicle Inspection",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assisting forklift operators when loading and organizing and securing load (Touch Freight)"
+    },
+    {
+      "duty": "Checking orders for accuracy and delivering and unloading replenishment deliveries to store locations"
+    },
+    {
+      "duty": "Preparing DOT required log of time on duty and driving and completing daily equipment pre-inspection"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Class A CDL License"
+    }
+  ]
+}

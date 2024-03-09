@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineer Level 3",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Database Development",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Database Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Disaster Recovery Planning",
+      "experience": 3
+    },
+    {
+      "skill": "SQL Query Optimization",
+      "experience": 5
+    },
+    {
+      "skill": "Database Schema Design",
+      "experience": 5
+    },
+    {
+      "skill": "NoSQL Database Management",
+      "experience": 3
+    },
+    {
+      "skill": "Azure Database Management",
+      "experience": 5
+    },
+    {
+      "skill": "Golang",
+      "experience": 3
+    },
+    {
+      "skill": "Kafka",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and support cloud DB systems, including maintenance and administration of distributed databases on Azure."
+    },
+    {
+      "duty": "Collaborate with development teams to optimize database schemas, indexes, and data models."
+    },
+    {
+      "duty": "Monitor and tune SQL queries, identify bottlenecks, and optimize query execution plans."
+    },
+    {
+      "duty": "Design and build new customer platform subsystems using Golang, NoSQL databases, and Kafka."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field (Master's preferred)"
+    }
+  ]
+}

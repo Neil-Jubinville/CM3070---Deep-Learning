@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Coding Specialist",
+      "job_category": "Healthcare",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AHIMA CCS-P (Certified Coding Specialist -Phys based)",
+      "experience": 3
+    },
+    {
+      "skill": "ICD-10 proficiency/certification",
+      "experience": 4
+    },
+    {
+      "skill": "Production driven coding experience",
+      "experience": 3
+    },
+    {
+      "skill": "CPT Coding experience",
+      "experience": 2
+    },
+    {
+      "skill": "National RAD-V/HEDIS abstraction experience",
+      "experience": 2
+    },
+    {
+      "skill": "Clinical Care or Managed Care experience",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform coding services in a production driven environment, ensuring accuracy and efficiency."
+    },
+    {
+      "duty": "Maintain ICD-10 proficiency and stay up to date with coding regulations and standards."
+    },
+    {
+      "duty": "Utilize CPT coding experience to accurately assign codes for medical procedures and services."
+    },
+    {
+      "duty": "Nationally RAD-V/HEDIS abstraction experience to abstract information from medical records and assign corresponding codes."
+    },
+    {
+      "duty": "Apply clinical care or managed care experience to understand and code complex healthcare services and diagnoses."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 40,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Active coding certification (AHIMA, CCS-P, CCS, OR AAPC)"
+    }
+  ]
+}

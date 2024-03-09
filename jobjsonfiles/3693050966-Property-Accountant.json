@@ -1,0 +1,110 @@
+{
+  "meta": [
+    {
+      "job_title": "Property Accountant",
+      "job_category": "Accounting",
+      "job_class": "Accountant",
+      "sector": "Finance",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Reporting",
+      "experience": 3
+    },
+    {
+      "skill": "Commercial Property Management",
+      "experience": 3
+    },
+    {
+      "skill": "Excel",
+      "experience": 3
+    },
+    {
+      "skill": "Yardi",
+      "experience": 3
+    },
+    {
+      "skill": "GAAP Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Statement Preparation",
+      "experience": 3
+    },
+    {
+      "skill": "Bank Reconciliation",
+      "experience": 3
+    },
+    {
+      "skill": "Variance Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Amortization",
+      "experience": 3
+    },
+    {
+      "skill": "Cash Receipts",
+      "experience": 3
+    },
+    {
+      "skill": "Tenant Billing",
+      "experience": 3
+    },
+    {
+      "skill": "Invoice Processing",
+      "experience": 3
+    },
+    {
+      "skill": "Management Fee Calculation",
+      "experience": 3
+    },
+    {
+      "skill": "CAM Reconciliations",
+      "experience": 3
+    },
+    {
+      "skill": "Insurance Reconciliations",
+      "experience": 3
+    },
+    {
+      "skill": "Real Estate Tax Reconciliations",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare monthly journal entries, financial statements, bank reconciliations, and variance reports."
+    },
+    {
+      "duty": "Create and maintain schedules for prepaids, accruals, depreciation and amortization."
+    },
+    {
+      "duty": "Process all cash receipts, review and bill tenant recurring charges and billing adjustments, and perform tenant ledger reconciliations."
+    },
+    {
+      "duty": "Review invoice coding and approvals while ensuring proper audit trails."
+    },
+    {
+      "duty": "Prepare monthly funding distribution reports and calculate and process monthly management fees."
+    },
+    {
+      "duty": "Produce annual year-end reconciliations for CAM, percentage rent, insurance, utilities, real estate taxes, etc."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting or Finance (CPA preferred)"
+    }
+  ]
+}

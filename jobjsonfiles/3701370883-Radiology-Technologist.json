@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Radiology Technologist",
+      "job_category": "Healthcare",
+      "job_class": "Technologist",
+      "sector": "Healthcare",
+      "salary": 27500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Radiographic Procedures",
+      "experience": 2
+    },
+    {
+      "skill": "Radiation Safety",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "C-ARM Operation",
+      "experience": 2
+    },
+    {
+      "skill": "BLS - CPR",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Running C-ARM intraoperatively during surgical procedures."
+    },
+    {
+      "duty": "Performing radiographic procedures."
+    },
+    {
+      "duty": "Inventory, receive, and restock materials used for radiological services."
+    },
+    {
+      "duty": "May be assigned radiation safety officers and/ or life skills officer duties."
+    },
+    {
+      "duty": "Performing all other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school graduate or equivalent."
+    },
+    {
+      "credential": "Completion of an accredited radiology program."
+    },
+    {
+      "credential": "ARRT (The American Registry of Radiologic Technologists) certification as required by state."
+    },
+    {
+      "credential": "Successful completion of BLS - CPR Course within 90 days of employment required or documentation of current certification."
+    },
+    {
+      "credential": "Certification in radiation technology preferred."
+    }
+  ]
+}

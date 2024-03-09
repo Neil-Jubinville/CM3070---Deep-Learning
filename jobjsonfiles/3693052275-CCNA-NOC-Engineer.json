@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "CCNA NOC Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Telecom",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Network Protocols",
+      "experience": 5
+    },
+    {
+      "skill": "Network Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Vendor Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Network Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Network Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Emerging Technologies Evaluation",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Guidance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Monitor and maintain the organization's network infrastructure to ensure smooth operation of our systems."
+    },
+    {
+      "duty": "Identify and troubleshoot network issues, including but not limited to routing, switching, firewall, and VPN."
+    },
+    {
+      "duty": "Respond to network-related issues and provide timely resolution."
+    },
+    {
+      "duty": "Coordinate with other technical teams to ensure the reliability, stability, and security of our network."
+    },
+    {
+      "duty": "Work with vendors and service providers to ensure that services are delivered according to the agreed-upon service level agreements (SLAs)."
+    },
+    {
+      "duty": "Create and maintain network documentation, including network diagrams, configurations, and procedures."
+    },
+    {
+      "duty": "Participate in network projects, including planning, design, implementation, and testing."
+    },
+    {
+      "duty": "Maintain awareness of emerging network technologies and evaluate their potential use in the organization."
+    },
+    {
+      "duty": "Provide technical guidance and support to other technical teams and end-users as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field. Certifications such as CCNA, CCNP, JNCIA, or JNCIS are a plus."
+    }
+  ]
+}

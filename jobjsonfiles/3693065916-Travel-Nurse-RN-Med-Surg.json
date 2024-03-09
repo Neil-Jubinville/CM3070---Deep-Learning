@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Travel Nurse RN Med Surg",
+      "job_category": "Nursing",
+      "job_class": "Registered Nurse",
+      "sector": "Medical",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Wound Care",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide nursing care to patients in the medical-surgical unit, addressing their healthcare needs and promoting recovery."
+    },
+    {
+      "duty": "Assess and monitor patients' conditions, administer medications, and assist with wound care as required."
+    },
+    {
+      "duty": "Educate patients and their families about treatments, medications, and post-discharge care instructions."
+    },
+    {
+      "duty": "Exercise critical thinking and decision-making skills to provide optimal patient care in a fast-paced environment."
+    },
+    {
+      "duty": "Collaborate with the healthcare team to develop and implement patient care plans, ensuring comprehensive and effective treatment."
+    },
+    {
+      "duty": "Maintain accurate patient records, charting, and documentation of nursing interventions and responses."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Nursing (Master's preferred)"
+    },
+    {
+      "credential": "Active RN license in the state of practice"
+    }
+  ]
+}

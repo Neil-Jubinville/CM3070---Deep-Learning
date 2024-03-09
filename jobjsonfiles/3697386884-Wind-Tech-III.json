@@ -1,0 +1,109 @@
+{
+  "meta": [
+    {
+      "job_title": "Wind Tech III",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 70000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Mechanical Maintenance",
+      "experience": 4
+    },
+    {
+      "skill": "Hydraulic Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 4
+    },
+    {
+      "skill": "Electrical Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Training",
+      "experience": 4
+    },
+    {
+      "skill": "Documenting",
+      "experience": 3
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 4
+    },
+    {
+      "skill": "Driver's License",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in the performance of wind turbine mechanical, hydraulic, and electric component maintenance under the guidance of the Wind Site Supervisor."
+    },
+    {
+      "duty": "Follow safety procedures and maintain a safe working environment during maintenance operations."
+    },
+    {
+      "duty": "Troubleshoot mechanical, hydraulic, and electrical problems on wind turbines, and assist in remote troubleshooting for other sites."
+    },
+    {
+      "duty": "Perform mechanical, hydraulic, and electrical component maintenance, repair, and replacement to correct malfunctions."
+    },
+    {
+      "duty": "Use electrical test equipment to assist in troubleshooting and testing of wind turbine components."
+    },
+    {
+      "duty": "Assist in all areas of site operations as directed by Site Supervisor and Site Manager with minimal supervision."
+    },
+    {
+      "duty": "Assist in the training and development of lower-level operation and maintenance personnel."
+    },
+    {
+      "duty": "Document all work performed, parts used, and time spent using computer-based service reporting procedures."
+    },
+    {
+      "duty": "Read and understand electrical schematics and wiring diagrams, and operate and maintain a service vehicle."
+    },
+    {
+      "duty": "Maintain hand tools in good working order and well organized, and support the training and development of Tech I and Tech IIs on-site."
+    },
+    {
+      "duty": "Safely perform LOTO (Lockout/Tagout) and mentor lower-level technicians in LOTO, as well as perform balance of plant and switchyard work as required."
+    },
+    {
+      "duty": "Work a flexible on-call schedule when needed, including weeknights, weekends, and holidays."
+    },
+    {
+      "duty": "Operate and maintain a service vehicle."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED is required or willing to obtain GED within first 6 months of employment."
+    },
+    {
+      "credential": "Possess an A.S. degree (electrical or technical) and 2 years turbine experience, or 3+ years wind turbine experience."
+    },
+    {
+      "credential": "Possess at least one year of independent turbine troubleshooting experience, and be able to troubleshoot turbines without assistance."
+    }
+  ]
+}

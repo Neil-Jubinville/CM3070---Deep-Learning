@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Cook",
+      "job_category": "Food Service",
+      "job_class": "Culinary",
+      "sector": "Hospitality",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food Preparation",
+      "experience": 5
+    },
+    {
+      "skill": "Cooking Techniques",
+      "experience": 5
+    },
+    {
+      "skill": "HACCP Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Menu Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Food Safety",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collect, measure, and prepare food according to standardized recipes and menus following professional food production methods."
+    },
+    {
+      "duty": "Ensure food meets quality parameters of taste, texture, temperature, and appearance and complies with DOH guidelines."
+    },
+    {
+      "duty": "Maintain a clean and safe work environment, including the cleaning of equipment and adherence to sanitation practices."
+    },
+    {
+      "duty": "Prepare food as needed for patient service, ensuring it aligns with nutritional diet order requests and follows the menu."
+    },
+    {
+      "duty": "Communicate with other cooks and supervisors to ensure timely meal production and correct non-compliant food items."
+    },
+    {
+      "duty": "Run the Employee Dining Room and Patient line as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalency"
+    },
+    {
+      "credential": "DOH Food Handlers Certificate (preferred)"
+    },
+    {
+      "credential": "Prefer five years experience in quantity food production"
+    }
+  ]
+}

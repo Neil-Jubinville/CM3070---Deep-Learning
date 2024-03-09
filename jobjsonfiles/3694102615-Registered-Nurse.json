@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Nursing",
+      "salary": 46000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medication Administration",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Chart Review",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Procedures",
+      "experience": 2
+    },
+    {
+      "skill": "Observational Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Administering medications and injections at the intermediate care facility."
+    },
+    {
+      "duty": "Assisting medical coordinators with tracking individuals' medical appointments and ensuring follow-ups are done."
+    },
+    {
+      "duty": "Reviewing individual's medical charts."
+    },
+    {
+      "duty": "Assisting individuals on medical appointments when needed."
+    },
+    {
+      "duty": "Observing individuals and reporting changes in their condition."
+    },
+    {
+      "duty": "Performing medical procedures as directed by RNs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 60,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "LPN license, High School Diploma/GED, Valid Driver's license"
+    }
+  ]
+}

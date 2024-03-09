@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Med Surg Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Telemetry Experience",
+      "experience": 3
+    },
+    {
+      "skill": "AHA BLS Certification",
+      "experience": 3
+    },
+    {
+      "skill": "Critical Care Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Charge Nurse Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Bachelor of Science in Nursing (BSN)",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide care to adult and geriatric patients with a focus on orthopedic surgery and care of the bariatric patient."
+    },
+    {
+      "duty": "Utilize appropriate time management skills and communicate effectively."
+    },
+    {
+      "duty": "Document professional developmental activities and knowledge of critical paths."
+    },
+    {
+      "duty": "Floating to areas where staffing is needed."
+    },
+    {
+      "duty": "Passing Telemetry Competency Exam within 90 days of beginning the position."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current Massachusetts RN License, Evidence of Continuing Education"
+    }
+  ]
+}

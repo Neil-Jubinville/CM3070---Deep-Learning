@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Consultant",
+      "job_category": "Sales",
+      "job_class": "Consultant",
+      "sector": "Sales",
+      "salary": 22000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Onboarding",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Operations",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist and consult with customers on company products and services to provide a world-class sales and service experience."
+    },
+    {
+      "duty": "Demonstrate and share product and sales know-how with customers, providing product demonstrations and educating customers on product capabilities."
+    },
+    {
+      "duty": "Listen to and evaluate customer needs, providing appropriate solutions and achieving sales and customer experience goals."
+    },
+    {
+      "duty": "Perform operational and administrative tasks, onboarding activities, and resolve customer issues as appropriate."
+    },
+    {
+      "duty": "Demonstrate sales excellence and professionalism, comply with company policies and procedures, and actively engage in team huddles and learning."
+    },
+    {
+      "duty": "Work a flexible schedule, carry and lift up to 25 pound boxes, and perform other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma / GED"
+    }
+  ]
+}

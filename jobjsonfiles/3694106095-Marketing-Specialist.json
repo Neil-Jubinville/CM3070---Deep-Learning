@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Marketing Specialist",
+      "job_category": "Marketing",
+      "job_class": "Specialist",
+      "sector": "Marketing",
+      "salary": 40000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Content Creation",
+      "experience": 3
+    },
+    {
+      "skill": "Social Media Management",
+      "experience": 3
+    },
+    {
+      "skill": "Video Editing",
+      "experience": 3
+    },
+    {
+      "skill": "Website Design",
+      "experience": 3
+    },
+    {
+      "skill": "Graphic Design",
+      "experience": 3
+    },
+    {
+      "skill": "Presentation Design",
+      "experience": 3
+    },
+    {
+      "skill": "Research",
+      "experience": 3
+    },
+    {
+      "skill": "Wordpress",
+      "experience": 3
+    },
+    {
+      "skill": "Canva",
+      "experience": 3
+    },
+    {
+      "skill": "PowerPoint",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Social media content creation and engagement"
+    },
+    {
+      "duty": "Video and website content editing and creation"
+    },
+    {
+      "duty": "Website design and graphic design for promotional materials"
+    },
+    {
+      "duty": "Research for marketing opportunities and promotional materials"
+    },
+    {
+      "duty": "Presentation creation and coordination of networking group activities"
+    },
+    {
+      "duty": "Administrative tasks as needed"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Marketing, Advertising, or related field"
+    }
+  ]
+}

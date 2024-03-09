@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Retail Sales and Service Specialist",
+      "job_category": "Retail",
+      "job_class": "Specialist",
+      "sector": "Sales",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Automotive Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Management",
+      "experience": 3
+    },
+    {
+      "skill": "Supervisory Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Vehicle Service",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Store Operations",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide superior customer service, assess customer needs, recommend products/services, communicate sales/promotions, resolve customer complaints, and ensure customer satisfaction."
+    },
+    {
+      "duty": "Complete basic vehicle service tasks including tire services, engine oil and filter changes, battery testing/maintenance, fluid replacement, bulb and wiper replacement, and alignment checks."
+    },
+    {
+      "duty": "Perform store operational tasks such as opening/closing procedures, unloading/store stocking, product inventories, set-up/maintenance of store displays, and general cleaning."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent, valid automobile driver's license, completion of required store education courses and modules"
+    }
+  ]
+}

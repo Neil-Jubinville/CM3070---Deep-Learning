@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Experienced Electrician",
+      "job_category": "Skilled Labor",
+      "job_class": "Experienced",
+      "sector": "Industrial",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Robotics Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Industrial Equipment Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Installation",
+      "experience": 5
+    },
+    {
+      "skill": "Schematic Reading",
+      "experience": 5
+    },
+    {
+      "skill": "Refrigeration System Repairs",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Troubleshoot and repair typical industrial electrical equipment, i.e. perform maintenance on robotics, air compressors, electric generators, DC & AC motor controllers, overhead cranes, hydraulics, pneumatics, camera systems, and security systems."
+    },
+    {
+      "duty": "Troubleshoot and perform minor repairs on industrial refrigeration systems, install raceways, enclosures, lighting systems, wiring systems/devices, motors, pumps and related industrial electrical equipment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED"
+    },
+    {
+      "credential": "Utah State Journeyman Electrician License (not residential journeyman license)"
+    }
+  ]
+}

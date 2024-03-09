@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "GNC Engineer I",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 105000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C++",
+      "experience": 5
+    },
+    {
+      "skill": "Aerospace Design",
+      "experience": 5
+    },
+    {
+      "skill": "GNC Sensors and Actuators",
+      "experience": 5
+    },
+    {
+      "skill": "MATLAB",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Orbital Dynamics",
+      "experience": 5
+    },
+    {
+      "skill": "Spacecraft Operations",
+      "experience": 5
+    },
+    {
+      "skill": "STK or ODTK",
+      "experience": 5
+    },
+    {
+      "skill": "Space Mission Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Manufacturing",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "GNC design, modeling, and analysis for a wide variety of spacecraft and space missions to include LEO, MEO, GEO, Lunar, Interplanetary, Reentry, and RPOD."
+    },
+    {
+      "duty": "Design of flight software, algorithms, and simulation product."
+    },
+    {
+      "duty": "Development of spacecraft autonomy tools for constellation management."
+    },
+    {
+      "duty": "GNC component selection and GNC subsystem design."
+    },
+    {
+      "duty": "Test process development and execution."
+    },
+    {
+      "duty": "Define fault detection and response."
+    },
+    {
+      "duty": "Hardware-in-the-loop and monte carlo simulation."
+    },
+    {
+      "duty": "Integration of flight and simulation software with modern analysis, test, and operations tools."
+    },
+    {
+      "duty": "Support internal and external design reviews."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 0,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in computer science, aerospace engineering or similar technical discipline (Advanced degree preferred)"
+    }
+  ]
+}

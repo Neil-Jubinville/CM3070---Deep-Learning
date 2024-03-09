@@ -1,0 +1,129 @@
+{
+  "meta": [
+    {
+      "job_title": "Automotive Technician",
+      "job_category": "Automotive",
+      "job_class": "Technician",
+      "sector": "Automotive",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Vehicle Diagnostics",
+      "experience": 5
+    },
+    {
+      "skill": "Auto Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Maintenance Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Brake and Wheel Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Certification",
+      "experience": 2
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Manual Operation",
+      "experience": 5
+    },
+    {
+      "skill": "HVAC Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnostic Equipment",
+      "experience": 5
+    },
+    {
+      "skill": "Hand-eye Coordination",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform maintenance and repair on customer vehicles."
+    },
+    {
+      "duty": "Identify problems with vehicles using the diagnostic equipment."
+    },
+    {
+      "duty": "Explain automotive repairs and issues and provide great customer service."
+    },
+    {
+      "duty": "Plan repair procedures using charts manuals and experience."
+    },
+    {
+      "duty": "Test the functionality of parts and systems."
+    },
+    {
+      "duty": "Perform basic auto care and maintenance tasks such as oil changes, fluid level checks, and tire rotation."
+    },
+    {
+      "duty": "Repair and replace brake pads, wheel bearings, sensors and other parts."
+    },
+    {
+      "duty": "Perform routine maintenance and general mechanic work on vehicles."
+    },
+    {
+      "duty": "Prepared to get additional certification as needed."
+    },
+    {
+      "duty": "Willingness to learn with hands-on training."
+    },
+    {
+      "duty": "Help keep repair shop clean and organized."
+    },
+    {
+      "duty": "Keep a professional appearance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 200,
+      "student_teacher": 50,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "2-3 years' experience in an automotive technician role."
+    },
+    {
+      "credential": "High school diploma or equivalent required."
+    },
+    {
+      "credential": "Understanding of automotive air-conditioning systems."
+    },
+    {
+      "credential": "Master Technician certification preferred, but not required."
+    },
+    {
+      "credential": "Hold a valid driver license."
+    },
+    {
+      "credential": "Ability to use the diagnostic equipment."
+    },
+    {
+      "credential": "Good hand-eye coordination."
+    },
+    {
+      "credential": "Ability to lift objects weighing up to 50 lbs."
+    }
+  ]
+}

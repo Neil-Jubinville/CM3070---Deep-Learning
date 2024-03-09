@@ -1,0 +1,125 @@
+{
+  "meta": [
+    {
+      "job_title": "Java Tech Lead",
+      "job_category": "Software Engineering",
+      "job_class": "Lead",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 12
+    },
+    {
+      "skill": "Azure",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "Deployment Pipeline",
+      "experience": 5
+    },
+    {
+      "skill": "Apache Camel",
+      "experience": 5
+    },
+    {
+      "skill": "Spring Boot",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices",
+      "experience": 5
+    },
+    {
+      "skill": "Docker",
+      "experience": 5
+    },
+    {
+      "skill": "Azure AKS",
+      "experience": 5
+    },
+    {
+      "skill": "Kafka",
+      "experience": 5
+    },
+    {
+      "skill": "Camunda",
+      "experience": 5
+    },
+    {
+      "skill": "Drools",
+      "experience": 5
+    },
+    {
+      "skill": "SpringBoot",
+      "experience": 5
+    },
+    {
+      "skill": "Volante",
+      "experience": 5
+    },
+    {
+      "skill": "Messaging Queues",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "MongoDB",
+      "experience": 5
+    },
+    {
+      "skill": "TDD/BDD",
+      "experience": 5
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 5
+    },
+    {
+      "skill": "SONAR Qube",
+      "experience": 5
+    },
+    {
+      "skill": "CI-CD",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and participate in hands-on development of Java/JEE applications with a focus on functional and object-oriented programming paradigms."
+    },
+    {
+      "duty": "Package and deploy microservice components to Kubernetes via Docker containers, preferably using Azure AKS."
+    },
+    {
+      "duty": "Utilize Chubb.IO stack technologies such as Kafka, Apache Camel, Camunda, and Spring Boot for application development."
+    },
+    {
+      "duty": "Collaborate with cloud environments, preferably Azure, for building SpringBoot / Apache Camel applications with Volante mapping."
+    },
+    {
+      "duty": "Work with messaging queues and DBMS technologies such as SQL and MongoDB for application development."
+    },
+    {
+      "duty": "Drive engineering focus on TDD/BDD, unit testing, SONAR Qube, and CI-CD processes for quality and continuous integration."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 190,
+      "student_teacher": 80,
+      "introvert_extrovert": 110
+    }
+  ]
+}

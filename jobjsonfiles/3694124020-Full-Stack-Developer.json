@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Full Stack Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support the Chief Technology Officer in technology development, feature development, and maintenance of Sunsett.io."
+    },
+    {
+      "duty": "Execute technology development strategy and scale product development based on directives of Chief Technology Officer."
+    },
+    {
+      "duty": "Hands-on data structuring, logic-design, and code development."
+    },
+    {
+      "duty": "Execute research and technical proof-of-concept initiatives, as well as write, organize, and maintain code based on designs."
+    },
+    {
+      "duty": "Co-develop functional leadership and mentorship for the engineering and data science team."
+    },
+    {
+      "duty": "Assist in recruiting, hiring, and onboarding new engineering and data science team members."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Web-based and mobile application development",
+      "experience": 3
+    },
+    {
+      "skill": "Large scale data structures design",
+      "experience": 3
+    },
+    {
+      "skill": "Front-end and back-end development in React (Next.js) and Laravel",
+      "experience": 3
+    },
+    {
+      "skill": "Front-end tools: React Query, Tailwind",
+      "experience": 3
+    },
+    {
+      "skill": "Proficiency in Hubspot, Mixpanel, AWS, Stripe, Heroku & Bugsnag",
+      "experience": 3
+    },
+    {
+      "skill": "Integration of external APIs including Eventbrite, Google Analytics, and Shopify",
+      "experience": 3
+    },
+    {
+      "skill": "Data library development",
+      "experience": 3
+    },
+    {
+      "skill": "Technical design tools (i.e. Invision, Zeplin)",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "introvert_extrovert": 100,
+      "student_teacher": 150,
+      "soldier_general": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor degree (BS) in Computer Science/Engineering, other technical major or equivalent professional experience."
+    }
+  ]
+}

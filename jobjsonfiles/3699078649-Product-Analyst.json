@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Product Analyst",
+      "job_category": "Data Analysis",
+      "job_class": "Analyst",
+      "sector": "Technology",
+      "salary": 220000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Analytics",
+      "experience": 10
+    },
+    {
+      "skill": "Statistical Analysis",
+      "experience": 10
+    },
+    {
+      "skill": "Python",
+      "experience": 10
+    },
+    {
+      "skill": "R",
+      "experience": 10
+    },
+    {
+      "skill": "SQL",
+      "experience": 10
+    },
+    {
+      "skill": "People Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform analysis utilizing relevant tools (e.g., SQL, R, Python)."
+    },
+    {
+      "duty": "Provide analytical thought leadership through proactive and strategic contributions."
+    },
+    {
+      "duty": "Own outcomes for projects by covering problem definition, metrics development, data extraction and manipulation, visualization, creation, and implementation of analytical/statistical models, and presentation to stakeholders."
+    },
+    {
+      "duty": "Develop solutions, lead, and manage problems that may be ambiguous and lacking clear precedent by framing problems, generating hypotheses, and making recommendations from a perspective that combines both, analytical and product-specific expertise."
+    },
+    {
+      "duty": "Oversee the integration of cross-functional and cross-organizational project/process timelines, develop process improvements and recommendations, and help define operational goals and objectives."
+    },
+    {
+      "duty": "Directly or indirectly oversee the contributions of others and develop colleagues\u2019 capabilities in the area of specialization."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Statistics, Mathematics, Data Science, Engineering, Physics, Economics, or a related quantitative field (Master's preferred)"
+    }
+  ]
+}

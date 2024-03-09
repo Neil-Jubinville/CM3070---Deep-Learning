@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Physical Therapist",
+      "job_category": "Rehabilitation Therapy",
+      "job_class": "Physical Therapist",
+      "sector": "Rehabilitation",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Therapy",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Expertise",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medicare Regulations",
+      "experience": 5
+    },
+    {
+      "skill": "Rehabilitation Therapy",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "BLS Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide physical therapy services to clients of all ages, demonstrating clinical expertise and adherence to healthcare compliance standards."
+    },
+    {
+      "duty": "Utilize current treatment modalities for safe use in the home setting, ensuring patient safety and comfort."
+    },
+    {
+      "duty": "Stay aware of Medicare regulations for coverage of physical therapy in the home, ensuring compliance and proper billing."
+    },
+    {
+      "duty": "Maintain accurate patient records and documentation, following all regulatory and legal requirements."
+    },
+    {
+      "duty": "Communicate effectively with clients and their families, providing education and support throughout the rehabilitation process."
+    },
+    {
+      "duty": "Collaborate with healthcare professionals to ensure coordinated care for clients and contribute to holistic treatment plans."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an approved Physical Therapy school. Current license to practice in Colorado."
+    },
+    {
+      "credential": "Ability to work with clients of all ages."
+    },
+    {
+      "credential": "BLS certification required."
+    },
+    {
+      "credential": "Professional liability insurance if a contracted service; proof of health/immunization if a contracted service."
+    }
+  ]
+}

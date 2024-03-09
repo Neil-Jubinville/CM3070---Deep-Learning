@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Java Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 4
+    },
+    {
+      "skill": "JEE/J2EE",
+      "experience": 4
+    },
+    {
+      "skill": "Core Java",
+      "experience": 4
+    },
+    {
+      "skill": "OOPs",
+      "experience": 4
+    },
+    {
+      "skill": "Multithreading",
+      "experience": 4
+    },
+    {
+      "skill": "Concurrency",
+      "experience": 4
+    },
+    {
+      "skill": "Exception Handling",
+      "experience": 4
+    },
+    {
+      "skill": "File Handling",
+      "experience": 4
+    },
+    {
+      "skill": "IO",
+      "experience": 4
+    },
+    {
+      "skill": "Generics",
+      "experience": 4
+    },
+    {
+      "skill": "Java Collections",
+      "experience": 4
+    },
+    {
+      "skill": "RESTful Services",
+      "experience": 4
+    },
+    {
+      "skill": "SOAP Web Services",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop web-based applications using Java, JEE/J2EE, Core Java, and various Java concepts."
+    },
+    {
+      "duty": "Implement RESTful Services and SOAP based Web Services for web applications."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 0,
+      "student_teacher": 0,
+      "introvert_extrovert": 0
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field."
+    }
+  ]
+}

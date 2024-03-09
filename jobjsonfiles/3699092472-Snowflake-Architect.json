@@ -1,0 +1,135 @@
+{
+  "meta": [
+    {
+      "job_title": "Snowflake Architect",
+      "job_category": "Software Engineering",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Snowflake Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Architectural Design",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Databases",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Platforms",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Go",
+      "experience": 5
+    },
+    {
+      "skill": "C++",
+      "experience": 5
+    },
+    {
+      "skill": "Database Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Distributed Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Monitoring Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Computing Toolsets",
+      "experience": 5
+    },
+    {
+      "skill": "Configuration Management Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Git",
+      "experience": 5
+    },
+    {
+      "skill": "JIRA",
+      "experience": 5
+    },
+    {
+      "skill": "Jenkins",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and support highly parallel and fault-tolerant database systems."
+    },
+    {
+      "duty": "Introduce tools to facilitate greater automation and operability of services."
+    },
+    {
+      "duty": "Utilize deep experience and problem-solving skills to help prevent and investigate production issues."
+    },
+    {
+      "duty": "Create runtime tools/processes that optimize cloud triaging and limit downtime."
+    },
+    {
+      "duty": "Define best practices around making systems and services measurable."
+    },
+    {
+      "duty": "Work closely with various teams to ensure best practices are applied."
+    },
+    {
+      "duty": "Maintain technical ownership and ensure concise collaboration with the technical leadership of other major parts of Snowflake."
+    },
+    {
+      "duty": "Architect critical systems and anticipate strategic challenges and opportunities in key areas such as query processing, transaction management, or distributed data processing algorithms."
+    },
+    {
+      "duty": "Own the production rollout of the features of the area while at the same time leveraging and growing other strong engineering talent in the team."
+    },
+    {
+      "duty": "Evaluate and determine priorities with a critical understanding of where performance matters most."
+    },
+    {
+      "duty": "Analyze and understand performance and scalability bottlenecks in the system and solve them."
+    },
+    {
+      "duty": "Pinpoint problems, instrument relevant components as needed, and ultimately implement solutions."
+    },
+    {
+      "duty": "Provide, improve, and translate a highly automated infrastructure pipeline for deploying and scaling a distributed, multi-tenant, high performance compute and data platform to new environments."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

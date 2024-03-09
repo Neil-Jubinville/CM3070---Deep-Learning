@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ASP.NET",
+      "experience": 3
+    },
+    {
+      "skill": "C#",
+      "experience": 3
+    },
+    {
+      "skill": "SQL Server",
+      "experience": 3
+    },
+    {
+      "skill": "HTML5/CSS3",
+      "experience": 3
+    },
+    {
+      "skill": "REST APIs",
+      "experience": 2
+    },
+    {
+      "skill": "MVC",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, code, test, and manage various applications"
+    },
+    {
+      "duty": "Collaborate with engineering team and product team to establish best products"
+    },
+    {
+      "duty": "Follow outlined standards of quality related to code and systems"
+    },
+    {
+      "duty": "Develop automated tests and conduct performance tuning"
+    },
+    {
+      "duty": "Familiarity with the ASP.NET framework, SQL Server, and design/architectural patterns (e.g. Model-View-Controller (MVC))"
+    },
+    {
+      "duty": "Knowledge of at least one of the .NET languages (e.g. C#, Visual Basic .NET) and HTML5/CSS3"
+    },
+    {
+      "duty": "Familiarity with architecture styles/APIs (REST, RPC)"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or relevant field (Master's preferred)"
+    }
+  ]
+}

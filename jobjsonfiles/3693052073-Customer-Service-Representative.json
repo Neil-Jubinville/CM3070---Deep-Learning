@@ -1,0 +1,49 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Representative",
+      "job_category": "Customer Service",
+      "job_class": "Representative",
+      "sector": "Customer Service",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Client Interaction",
+      "experience": 3
+    },
+    {
+      "skill": "Administrative Support",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support Team with customer requests, utilizing company systems."
+    },
+    {
+      "duty": "Provides courteous and efficient customer service and answers basic customer inquiries."
+    },
+    {
+      "duty": "Provides routine administrative support to assigned group."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma/GED required (Associate's Degree preferred)"
+    }
+  ]
+}

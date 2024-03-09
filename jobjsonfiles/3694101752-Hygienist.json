@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Hygienist",
+      "job_category": "Healthcare",
+      "job_class": "Hygienist",
+      "sector": "Cosmetic and Family Practice",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide dental hygiene services to patients, including teeth cleaning, examining and assessing oral health, and educating patients on oral hygiene practices."
+    },
+    {
+      "duty": "Take and develop dental x-rays, remove plaque and stains from teeth, and apply fluoride treatments."
+    },
+    {
+      "duty": "Assist the dentist during dental procedures and maintain patient records and treatment plans."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Dental Hygiene",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "X-Ray Imaging",
+      "experience": 2
+    },
+    {
+      "skill": "Fluoride Treatment",
+      "experience": 2
+    },
+    {
+      "skill": "Dental Assisting",
+      "experience": 3
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's Degree in Dental Hygiene (Bachelor's Degree preferred)"
+    },
+    {
+      "credential": "Valid state licensure as a Dental Hygienist"
+    }
+  ]
+}

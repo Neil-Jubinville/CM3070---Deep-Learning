@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Research Professor",
+      "job_category": "Research",
+      "job_class": "Professor",
+      "sector": "Materials Science and Engineering",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Machine Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Materials Manufacturing Processes",
+      "experience": 5
+    },
+    {
+      "skill": "Interdisciplinary Research",
+      "experience": 5
+    },
+    {
+      "skill": "Journal Paper Publication",
+      "experience": 5
+    },
+    {
+      "skill": "Proposal Writing",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct interdisciplinary research on infrastructure materials, artificial intelligence, and machine learning."
+    },
+    {
+      "duty": "Write large proposals for research projects."
+    },
+    {
+      "duty": "Develop original machine learning models for materials manufacturing processes."
+    },
+    {
+      "duty": "Work with collaborators to optimize the performance of various classes of materials."
+    },
+    {
+      "duty": "Publish journal papers based on research findings."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Ph.D. in Materials Science and Engineering or a closely related field"
+    }
+  ]
+}

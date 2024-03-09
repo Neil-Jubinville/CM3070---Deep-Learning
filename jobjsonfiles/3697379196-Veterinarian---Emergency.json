@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinarian - Emergency",
+      "job_category": "Veterinary",
+      "job_class": "Emergency",
+      "sector": "Healthcare",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Veterinary Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Care",
+      "experience": 5
+    },
+    {
+      "skill": "Surgery",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnostic Imaging",
+      "experience": 5
+    },
+    {
+      "skill": "Anesthesia",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Compassion and Empathy",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide emergency veterinary care to a variety of cases during after-hours, weekends, and holidays."
+    },
+    {
+      "duty": "Work with highly-trained emergency staff and utilize advanced tools and treatments to provide the best care for patients."
+    },
+    {
+      "duty": "Collaborate with on-staff specialists and medical leaders to discuss cases, address concerns, and champion patient care."
+    },
+    {
+      "duty": "Participate in continuous learning and professional development to stay updated with the latest advancements in veterinary medicine."
+    },
+    {
+      "duty": "Maintain mental and physical well-being to ensure the best care for patients while balancing professional and personal life."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 125,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Veterinary Medicine (DVM/VMD) or equivalent degree required. State Veterinary Board License in good standing."
+    }
+  ]
+}

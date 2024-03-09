@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 57750,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Process",
+      "experience": 3
+    },
+    {
+      "skill": "Assessment",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 3
+    },
+    {
+      "skill": "Teaching",
+      "experience": 3
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Advocacy",
+      "experience": 3
+    },
+    {
+      "skill": "Interdisciplinary Collaboration",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide direct and indirect nursing services to patients and families."
+    },
+    {
+      "duty": "Independently perform the nursing process through individualized assessment, planning, implementation, and evaluation of safe, therapeutic, efficient care for patients with overt and subtle needs throughout the continuum of care, and according to unit's standards of care."
+    },
+    {
+      "duty": "Perform safe nursing care for patients in more complex situations with some assistance and supervision."
+    },
+    {
+      "duty": "Coordinate patient care administered by other members of the care team."
+    },
+    {
+      "duty": "Establish a therapeutic relationship with patient and family."
+    },
+    {
+      "duty": "Delegate/assign and communicate expectations for care delivery processes to each member of the team."
+    },
+    {
+      "duty": "Document per department/entity guidelines of care and policies and procedures."
+    },
+    {
+      "duty": "Provide age-appropriate patient education that facilitates recovery, self-care, end-of-life care, and health maintenance, health promotion, and wellness."
+    },
+    {
+      "duty": "Utilize the nursing process and a critical thinking approach to provide patient care that incorporates the mind, body, and spirit; is individualized, goal-directed, and consistent with current standards of safety."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of nursing school"
+    },
+    {
+      "credential": "California Registered Nurse (RN) - CA Board of Registered Nursing"
+    },
+    {
+      "credential": "AHA Basic Life Support for Healthcare Professional (AHA BLS Healthcare)"
+    },
+    {
+      "credential": "ACLS Certification (Advanced Cardiac Life Support)"
+    },
+    {
+      "credential": "NIH Stroke Scale (NIHSS)"
+    }
+  ]
+}

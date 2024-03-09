@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Orthopaedic Surgeon",
+      "job_category": "Medical",
+      "job_class": "Surgeon",
+      "sector": "Healthcare",
+      "salary": 400000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Orthopaedic Surgery",
+      "experience": 5
+    },
+    {
+      "skill": "Hand Surgery",
+      "experience": 5
+    },
+    {
+      "skill": "Trauma Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Practice Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform orthopaedic and hand surgical procedures in a hospital setting."
+    },
+    {
+      "duty": "Provide trauma care for hand injuries and participate in on-call coverage."
+    },
+    {
+      "duty": "Manage and contour medical practice to physician preferences and patient needs."
+    },
+    {
+      "duty": "Collaborate with other healthcare professionals for comprehensive patient care."
+    },
+    {
+      "duty": "Contribute to the development and implementation of new surgical techniques and approaches."
+    },
+    {
+      "duty": "Engage in research and publication of findings in the field of orthopaedic surgery and hand surgery."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Medical Degree with specialty training in Orthopaedic Surgery and Hand Surgery."
+    }
+  ]
+}

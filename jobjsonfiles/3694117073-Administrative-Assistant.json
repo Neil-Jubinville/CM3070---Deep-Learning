@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Administrative Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Management",
+      "salary": 20,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "experience": 2
+    },
+    {
+      "skill": "QuickBooks",
+      "experience": 2
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide comprehensive administrative support to executives and teams, ensuring smooth operations and efficient workflow."
+    },
+    {
+      "duty": "Utilize strong data entry skills to manage records, update spreadsheets, and create presentations for various meetings and reports."
+    },
+    {
+      "duty": "Demonstrate expertise in using Microsoft Office suite (Excel, Word, PowerPoint), QuickBooks, and other relevant software tools."
+    },
+    {
+      "duty": "Coordinate travel arrangements for team members, ensuring timely and cost-effective bookings."
+    },
+    {
+      "duty": "Monitor office supply levels and handle shipping logistics, ensuring a well-stocked and organized office environment."
+    },
+    {
+      "duty": "Work effectively in a team-oriented environment, exchanging information, and collaborating with colleagues to achieve common goals."
+    },
+    {
+      "duty": "Handle sensitive and confidential information with the utmost discretion and in accordance with company policies."
+    },
+    {
+      "duty": "Utilize exceptional customer service skills to interact with clients, vendors, and internal staff, addressing inquiries and resolving issues promptly and professionally."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED required (Associate's degree preferred)"
+    }
+  ]
+}

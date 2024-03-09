@@ -1,0 +1,109 @@
+{
+  "meta": [
+    {
+      "job_title": "Desktop Support Technician",
+      "job_category": "IT",
+      "job_class": "Technician",
+      "sector": "Information Technology",
+      "salary": 47500,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Support",
+      "experience": 3
+    },
+    {
+      "skill": "ITIL Framework",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Active Directory",
+      "experience": 3
+    },
+    {
+      "skill": "Windows7/Windows10 Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Desktop Imaging",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office 365 Administration",
+      "experience": 3
+    },
+    {
+      "skill": "VOIP Phone System Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Print Server Administration",
+      "experience": 3
+    },
+    {
+      "skill": "VMware Environment Administration",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide Tier 1 & 2 support for all assigned support desk incident requests following the ITIL framework for service management."
+    },
+    {
+      "duty": "Manage, sort, and track service requests. Ensure proper recording, documentation, and closure in the help desk tracking system."
+    },
+    {
+      "duty": "Develop standard procedures for recurring service request issues."
+    },
+    {
+      "duty": "Create documentation on standard support resolutions and publish this documentation accordingly for future reference."
+    },
+    {
+      "duty": "Perform routine patching for desktops and laptops utilizing WSUS."
+    },
+    {
+      "duty": "Perform administration tasks in Microsoft Office 365, maintaining security account access and authorizations for new and existing end-users."
+    },
+    {
+      "duty": "Maintain and Administer Desktop/Laptop encryption process."
+    },
+    {
+      "duty": "Execute basic administrative tasks in the VOIP phone system."
+    },
+    {
+      "duty": "Light administration in VMware environment."
+    },
+    {
+      "duty": "Administer printers and print servers."
+    },
+    {
+      "duty": "Implement special projects or tasks as assigned."
+    },
+    {
+      "duty": "Contribute to Infrastructure initiatives for more efficiency and optimal performance for users."
+    },
+    {
+      "duty": "Maintain ownership of the workstation management with full responsibility and follow through."
+    },
+    {
+      "duty": "Work closely with 3rd party providers related to software and/or services."
+    },
+    {
+      "duty": "Ensure that operating & project related spending remains well within budget parameters."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or a related MIS discipline preferred."
+    }
+  ]
+}

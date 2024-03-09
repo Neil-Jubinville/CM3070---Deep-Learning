@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Associate",
+      "job_category": "Logistics",
+      "job_class": "Associate",
+      "sector": "Warehousing",
+      "salary": 950,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Forklift Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Warehouse Management",
+      "experience": 3
+    },
+    {
+      "skill": "Physical Strength",
+      "experience": 5
+    },
+    {
+      "skill": "High-energy Work Ethic",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    },
+    {
+      "skill": "Training",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Unload and load trucks using EPJ and Sit-down Forklift"
+    },
+    {
+      "duty": "Handle materials weighing 25-75lbs and maintain a fast-paced work environment"
+    },
+    {
+      "duty": "Undergo and maintain certification for equipment operation and safety standards"
+    },
+    {
+      "duty": "Adhere to high-performance culture and perform physical and teamwork-oriented tasks"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED equivalent, Forklift Certification (Preferred)"
+    }
+  ]
+}

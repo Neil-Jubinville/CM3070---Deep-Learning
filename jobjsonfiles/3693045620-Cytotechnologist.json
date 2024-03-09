@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Cytotechnologist",
+      "job_category": "Medical",
+      "job_class": "Technologist",
+      "sector": "Medical",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cytology",
+      "experience": 3
+    },
+    {
+      "skill": "Clinical Laboratory Operations",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Laboratory Science",
+      "experience": 3
+    },
+    {
+      "skill": "Clinical Microscopy",
+      "experience": 3
+    },
+    {
+      "skill": "ThinPrep Certification",
+      "experience": 3
+    },
+    {
+      "skill": "Laboratory Information Systems (LIS)",
+      "experience": 3
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 3
+    },
+    {
+      "skill": "Color Vision Screening",
+      "experience": 3
+    },
+    {
+      "skill": "Laboratory Safety and Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Screen and evaluate gynecologic and non-gynecologic specimens for possible malignant or abnormal conditions"
+    },
+    {
+      "duty": "Perform microscopic evaluation of cytological specimens and maintain accurate documentation of workload as required by CLIA and laboratory guidelines"
+    },
+    {
+      "duty": "Finalize testing results into the computer in an accurate and timely manner and provide backup for cytology processing as needed"
+    },
+    {
+      "duty": "Comply with safety, infection control, and HIPAA policies"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.A./B.S. in Biological Science with Cytotechnologist (CT) Certification, plus 1-3 years of experience and successful completion of an accredited Cytology program"
+    }
+  ]
+}

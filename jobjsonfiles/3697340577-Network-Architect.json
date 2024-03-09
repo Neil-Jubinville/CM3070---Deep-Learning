@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Network Architect",
+      "job_category": "IT",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 135000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Network Architecture",
+      "experience": 10
+    },
+    {
+      "skill": "Python",
+      "experience": 7
+    },
+    {
+      "skill": "IT Monitoring Tools",
+      "experience": 10
+    },
+    {
+      "skill": "DevOps",
+      "experience": 7
+    },
+    {
+      "skill": "Linux",
+      "experience": 10
+    },
+    {
+      "skill": "Cloud Computing",
+      "experience": 7
+    },
+    {
+      "skill": "Distributed Systems",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and implement network architecture solutions for IT systems monitoring, logging, and discovery."
+    },
+    {
+      "duty": "Write custom collectors/adapters with Python, Java, or other lightweight programming languages."
+    },
+    {
+      "duty": "Configure alerts, deduplication, correlation & aggregation rules for monitoring tools."
+    },
+    {
+      "duty": "Integrate with ITSM tools for Incident Management."
+    },
+    {
+      "duty": "Implement CI Topology map & update CMDB leveraging discovery process."
+    },
+    {
+      "duty": "Manage log migration to a central location and monitor log performance."
+    },
+    {
+      "duty": "Implement and manage telemetry and logging technologies for observability."
+    },
+    {
+      "duty": "Implement industry frameworks and cloud computing platforms such as AWS/Azure/GCP."
+    },
+    {
+      "duty": "Implement DevOps methodologies and tools such as Docker, Kubernetes, and Ansible."
+    },
+    {
+      "duty": "Provide technical leadership and mentorship to junior staff in the NOC team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

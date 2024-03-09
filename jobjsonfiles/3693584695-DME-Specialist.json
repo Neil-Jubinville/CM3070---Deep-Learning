@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "DME Specialist",
+      "job_category": "Healthcare",
+      "job_class": "Specialist",
+      "sector": "Healthcare",
+      "salary": 30,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Respiratory Care",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 3
+    },
+    {
+      "skill": "Equipment Setup",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Patient Advocacy",
+      "experience": 3
+    },
+    {
+      "skill": "Driver's License",
+      "experience": 0
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Setting up CPAP/BiPAP equipment, nebulizers, and oxygen equipment in office, in home, and in facility environments."
+    },
+    {
+      "duty": "Provide patient and family education regarding use of equipment."
+    },
+    {
+      "duty": "Rotate time in-office and out in the field."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Respiratory Therapist (RT) or Licensed Practical Nurse (LPN) licensure"
+    }
+  ]
+}

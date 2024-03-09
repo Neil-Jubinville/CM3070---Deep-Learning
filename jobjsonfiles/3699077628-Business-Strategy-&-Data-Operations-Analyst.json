@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Strategy & Data Operations Analyst",
+      "job_category": "Data Analysis",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Database Query (e.g., SQL)",
+      "experience": 5
+    },
+    {
+      "skill": "Visualization Tools (e.g., Tableau, Dashboards)",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "C/C++",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Learning (ML)",
+      "experience": 3
+    },
+    {
+      "skill": "Big Data Infrastructure",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Presentation Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with engineering teams to ensure infrastructure supports key analyses by identifying logging gaps."
+    },
+    {
+      "duty": "Build or modify new/existing data pipelines for tracking metrics."
+    },
+    {
+      "duty": "Conduct end-to-end analysis including data gathering, processing, analysis, and presentations."
+    },
+    {
+      "duty": "Produce insights and metrics for technical and business stakeholders."
+    },
+    {
+      "duty": "Deliver presentations of findings and recommendations to leadership."
+    },
+    {
+      "duty": "Make business recommendations for stakeholders through visual displays of quantitative information."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, a related technical field, or equivalent practical experience (Master's preferred)"
+    }
+  ]
+}

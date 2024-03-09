@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Staffing Consultant",
+      "job_category": "Staffing",
+      "job_class": "Consultant",
+      "sector": "Sales",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Recruiting",
+      "experience": 5
+    },
+    {
+      "skill": "Networking",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Relationship Building",
+      "experience": 5
+    },
+    {
+      "skill": "Interviewing",
+      "experience": 5
+    },
+    {
+      "skill": "Career Coaching",
+      "experience": 5
+    },
+    {
+      "skill": "Job Board Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Identify prospective candidates through job board search tools, referrals, and professional networking."
+    },
+    {
+      "duty": "Interview and qualify job seekers for temporary/contract roles with client companies."
+    },
+    {
+      "duty": "Prep candidates for interviews with client companies, providing resume tips and conducting mock interviews."
+    },
+    {
+      "duty": "Contact candidates post-interview, provide feedback, and manage the offer process for candidates."
+    },
+    {
+      "duty": "Manage and maintain relationships with job seekers, offering career coaching and support throughout the job search process."
+    },
+    {
+      "duty": "Meet with the team to discuss open positions and post job advertisements on job boards."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Human Resources, or related field (Master's preferred)"
+    }
+  ]
+}

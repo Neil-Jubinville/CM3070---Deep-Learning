@@ -1,0 +1,102 @@
+{
+  "meta": [
+    {
+      "job_title": "Dental Hygienist",
+      "job_category": "Dental",
+      "job_class": "Hygienist",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Education",
+      "experience": 2
+    },
+    {
+      "skill": "Dental Charting",
+      "experience": 2
+    },
+    {
+      "skill": "Medical History Review",
+      "experience": 2
+    },
+    {
+      "skill": "Dental Cleaning",
+      "experience": 3
+    },
+    {
+      "skill": "X-Ray Procedure",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Vital Signs",
+      "experience": 2
+    },
+    {
+      "skill": "Sealant Application",
+      "experience": 3
+    },
+    {
+      "skill": "Fluoride Application",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Emergency Procedures",
+      "experience": 4
+    },
+    {
+      "skill": "Supervision and Training",
+      "experience": 3
+    },
+    {
+      "skill": "CPR/BLS",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and implement individualized dental care plans for patients."
+    },
+    {
+      "duty": "Perform patient education, discharge planning, and patient/family teaching under the supervision of a qualified dentist."
+    },
+    {
+      "duty": "Assess dental conditions and needs of patients, including medical history review, dental charting, and perio charting."
+    },
+    {
+      "duty": "Deliver direct patient care, including routine treatment procedures such as cleaning, polishing, x-rays, application of sealants and fluorides."
+    },
+    {
+      "duty": "Document dental history or chief complaint; record and report observations, patient reactions, and lab procedures."
+    },
+    {
+      "duty": "Assist with or institute emergency measures for sudden adverse developments during treatment."
+    },
+    {
+      "duty": "Provide supervision of or training for students assigned to Neighborcare Health as part of their professional education."
+    },
+    {
+      "duty": "Work in partnership and joint accountability with other team members to achieve Neighborcare's Mission, Guiding Principles, Service Commitments, and Goals."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Completed an accredited dental hygiene program"
+    },
+    {
+      "credential": "Active Dental Hygiene license with the Washington State Department of Health"
+    },
+    {
+      "credential": "CPR/BLS Certification"
+    }
+  ]
+}

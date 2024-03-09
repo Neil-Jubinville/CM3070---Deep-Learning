@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Pest Control Technician",
+      "job_category": "Pest Control",
+      "job_class": "Technician",
+      "sector": "Maintenance and Repair",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Pest Control",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Route Management",
+      "experience": 2
+    },
+    {
+      "skill": "Pesticide Application",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Running a daily route to resolve customer pest concerns and issues"
+    },
+    {
+      "duty": "Maintaining truck and equipment in proper working order"
+    },
+    {
+      "duty": "Keeping accurate records of treatments provided"
+    },
+    {
+      "duty": "Mixing, applying, and working with pesticides following state and federal laws"
+    },
+    {
+      "duty": "Serving as the subject matter expert for customers by implementing the most efficient pest solutions for individual needs"
+    },
+    {
+      "duty": "Maintaining and servicing all route customers according to company standards and procedures"
+    },
+    {
+      "duty": "Advising customers of potential problems"
+    },
+    {
+      "duty": "Keeping management informed of any problems encountered on service routes"
+    },
+    {
+      "duty": "Maintaining proper inventory of pesticides in usage"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "A valid US driver\u2019s license for a minimum of 4 years"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Laboratory Technician",
+      "job_category": "Scientific",
+      "job_class": "Technician",
+      "sector": "Research & Development",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sample Management",
+      "experience": 3
+    },
+    {
+      "skill": "Laboratory Operations",
+      "experience": 3
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 3
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 3
+    },
+    {
+      "skill": "Good Clinical Practice (GCP)",
+      "experience": 3
+    },
+    {
+      "skill": "In Vitro Diagnostics",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Device Industry",
+      "experience": 3
+    },
+    {
+      "skill": "Laboratory Information Systems (LIMS)",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform sample receipt, accessioning, processing, testing, analysis, reporting, and final disposition (storage and/or shipping)"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in a relevant scientific field or equivalent experience"
+    }
+  ]
+}

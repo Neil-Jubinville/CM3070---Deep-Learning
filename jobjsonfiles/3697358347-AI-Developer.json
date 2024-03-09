@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "AI Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 200000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Generative AI",
+      "experience": 5
+    },
+    {
+      "skill": "Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Product Development",
+      "experience": 5
+    },
+    {
+      "skill": "Experimentation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Proposing and conducting experiments with generative AI to enhance engineering processes, including problem decomposition, solution design, code generation, and advanced troubleshooting."
+    },
+    {
+      "duty": "Documenting best practices and techniques in playbooks and guides that enable others to harness the power of generative AI effectively."
+    },
+    {
+      "duty": "Using AI tools and techniques to develop and ship actual features and products."
+    },
+    {
+      "duty": "Plain-old regular development work."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 200,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum 5 years of experience in software development. Minimum 3 years as a primary technical contributor for a development team or software product. Extensive hands-on experience using generative AI for software engineering tasks or in a product built."
+    }
+  ]
+}

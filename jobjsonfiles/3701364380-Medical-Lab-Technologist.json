@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Lab Technologist",
+      "job_category": "Medical",
+      "job_class": "Technologist",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Laboratory Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Clinical Laboratory Science",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Control Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Proficiency",
+      "experience": 3
+    },
+    {
+      "skill": "Color Vision Screen",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Determine the acceptability of specimens for testing according to established criteria."
+    },
+    {
+      "duty": "Perform routine and complex technical procedures and functions according to departmental Standard Operating Procedures."
+    },
+    {
+      "duty": "Monitor, operate and troubleshoot instrumentation to ensure proper functionality."
+    },
+    {
+      "duty": "Prepare, test and evaluate new reagents or controls."
+    },
+    {
+      "duty": "Report accurate and timely test results in order to deliver quality patient care."
+    },
+    {
+      "duty": "Maintain a safe work environment and wear appropriate personal protective equipment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate\u2019s or Bachelor's degree in Biology, Chemistry, Clinical Laboratory Science, Medical Technology or meet local regulatory (CLIA & State) requirements"
+    }
+  ]
+}

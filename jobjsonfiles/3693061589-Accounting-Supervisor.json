@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Accounting Supervisor",
+      "job_category": "Accounting",
+      "job_class": "Supervisor",
+      "sector": "Accounting",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Accounting",
+      "experience": 10
+    },
+    {
+      "skill": "ERP Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Process Improvement",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Supervisory Abilities",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office Suite",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Partner with Purchasing/Logistics coordinator & the warehouse staff to record & manage inventory with timely reconciliation."
+    },
+    {
+      "duty": "Coordinate & assist month-end close processes, including but not limited to: Inventory & Cost Accounting, Fixed Asset Accounting, Intercompany transactions and reconciliations, AR & AP Reconciliation, Various month-end financial reports."
+    },
+    {
+      "duty": "Assist Controller in preparing material for periodic JSOX audit, quarterly & annual financial audits, and corporate income tax provision as well annual transfer pricing studies."
+    },
+    {
+      "duty": "Supervise & guide AR and AP staff in day-to-day transaction processing."
+    },
+    {
+      "duty": "Prepare ad-hoc financial reports and analysis as needed & during the annual budgeting cycle."
+    },
+    {
+      "duty": "Help in improving transaction processing on the ERP system to make the system robust."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS in Accounting required. CPA preferred but not required"
+    }
+  ]
+}

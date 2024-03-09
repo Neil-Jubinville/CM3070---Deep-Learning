@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Development Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Engineering",
+      "experience": 3
+    },
+    {
+      "skill": "Labview",
+      "experience": 3
+    },
+    {
+      "skill": "CAD Software",
+      "experience": 3
+    },
+    {
+      "skill": "3D Printing",
+      "experience": 3
+    },
+    {
+      "skill": "Machining",
+      "experience": 3
+    },
+    {
+      "skill": "Data Acquisition Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Fabrication",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, fabricate, and assemble custom-built experimental setups to measure variables such as force, displacement, pressure, and current."
+    },
+    {
+      "duty": "Program and operate data acquisition platforms such as Labview or dSpace."
+    },
+    {
+      "duty": "Run experiments and record data on a variety of test equipment including mechanical testing machines, vibration shakers, potentiostats, and custom-built setups."
+    },
+    {
+      "duty": "Prepare samples for testing using fabrication methods such as laser cutting, stitching, 3D printing, machining, solvent casting, vacuum bagging, and thermal curing."
+    },
+    {
+      "duty": "Effectively communicate and collaborate with project leaders, managers, and colleagues to accomplish project goals."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s or Associate degree in Mechanical Engineering Technology or equivalent"
+    }
+  ]
+}

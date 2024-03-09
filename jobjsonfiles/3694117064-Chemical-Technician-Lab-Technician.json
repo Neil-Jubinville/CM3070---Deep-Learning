@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Chemical Technician/Lab Technician",
+      "job_category": "Science",
+      "job_class": "Technician",
+      "sector": "Chemistry",
+      "salary": 28,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Wet Chemistry",
+      "experience": 4
+    },
+    {
+      "skill": "Oil-based Product Testing",
+      "experience": 4
+    },
+    {
+      "skill": "HPLC",
+      "experience": 3
+    },
+    {
+      "skill": "GC",
+      "experience": 3
+    },
+    {
+      "skill": "ICP-MS",
+      "experience": 3
+    },
+    {
+      "skill": "FTIR",
+      "experience": 3
+    },
+    {
+      "skill": "Titrations (manual and automatic)",
+      "experience": 3
+    },
+    {
+      "skill": "SAP or LIMS",
+      "experience": 2
+    },
+    {
+      "skill": "Chromatography",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for all steps of routine experimentation, including sample prep, equipment orientation, instrument control, data processing, and analysis."
+    },
+    {
+      "duty": "Setup methods on vendor software (HPLC, GC, AA, auto-titrator, FT-IR, etc.)."
+    },
+    {
+      "duty": "Performs and documents periodic calibration and maintenance of all laboratory equipment."
+    },
+    {
+      "duty": "Tests and evaluates the use of salvage/rework material before its introduction into new production batches."
+    },
+    {
+      "duty": "Conducts reexamination of borderline results and communicates opportunities for process improvements."
+    },
+    {
+      "duty": "Provides analytical and technical support for quality-related product investigations."
+    },
+    {
+      "duty": "Completes data reviews for out-of-specification test results issuing SPC charts of historical results."
+    },
+    {
+      "duty": "Monitors laboratory inventory (quantity and expiration date)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 30,
+      "student_teacher": 100,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Four-year degree in a science field (Chemistry preferred, but Biology, Physics, etc., will also be considered)"
+    }
+  ]
+}

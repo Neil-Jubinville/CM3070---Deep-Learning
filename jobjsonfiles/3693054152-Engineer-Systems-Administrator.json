@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Engineer Systems Administrator",
+      "job_category": "Engineering",
+      "job_class": "Administrator",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Computer-Aided Design (CAD)",
+      "experience": 5
+    },
+    {
+      "skill": "AVEVA Software",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting Language (PML or Python)",
+      "experience": 5
+    },
+    {
+      "skill": "Database SQL (Oracle or MS SQL)",
+      "experience": 5
+    },
+    {
+      "skill": "Autodesk Revit and Plant 3D",
+      "experience": 5
+    },
+    {
+      "skill": "BIM Coordination",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office Suite",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage engineering systems, system standards, and system outputs related to Computer-Aided Design (CAD), Building Information Model (BIM), and project management software."
+    },
+    {
+      "duty": "Develop engineering systems, document management, and program information standards for managing and storing electronic copies of drawings, specifications, and other project-related documents."
+    },
+    {
+      "duty": "Execute solution implementation and configure project deliverables independently or collaboratively using engineering software."
+    },
+    {
+      "duty": "Coordinate model production, 3D Coordination, and associated 2D CAD drafting."
+    },
+    {
+      "duty": "Review models and model files for compliance with agency and AIA BIM standards, policies, guidelines, and workflows."
+    },
+    {
+      "duty": "Stay up to date on emerging BIM trends to evaluate and recommend new and existing tools and solutions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Engineering, Computer Science, or related field (Master's preferred)"
+    }
+  ]
+}

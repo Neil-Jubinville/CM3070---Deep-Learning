@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Finance and Accounting Manager",
+      "job_category": "Finance",
+      "job_class": "Manager",
+      "sector": "Accounting",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Strategic Financial Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 5
+    },
+    {
+      "skill": "Internal Controls",
+      "experience": 5
+    },
+    {
+      "skill": "GAAP & FASB Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Quickbooks",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Excel",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Handle all financial aspects of the company and supervise staff as needed."
+    },
+    {
+      "duty": "Perform budget-to-actual reporting and analysis on completed projects and those in process."
+    },
+    {
+      "duty": "Forecast cash flow needs and report operational data to key members of the leadership team."
+    },
+    {
+      "duty": "Complete a timely, accurate, and efficient accounting close on a monthly basis."
+    },
+    {
+      "duty": "Manage the annual financial audit process conducted by an outside firm."
+    },
+    {
+      "duty": "Develop, analyze, document, and implement internal controls."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Accounting or related field (Master's preferred)"
+    }
+  ]
+}

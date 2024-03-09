@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Team Member",
+      "job_category": "Retail",
+      "job_class": "Team Member",
+      "sector": "Retail",
+      "salary": 28000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Cashiering",
+      "experience": 3
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 3
+    },
+    {
+      "skill": "High School Diploma",
+      "experience": 0
+    },
+    {
+      "skill": "Motivated",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greeting and assisting customers, handling transactions, and making purchase suggestions."
+    },
+    {
+      "duty": "Working in various areas within the store to maintain high standards of appearance and provide friendly service."
+    },
+    {
+      "duty": "Selling products, providing excellent customer care, and maintaining a quick pace while working as part of a team."
+    },
+    {
+      "duty": "Thinking quickly, offering suggestions, and coming up with great ideas to solve problems."
+    },
+    {
+      "duty": "Inspecting store facilities and equipment for safety, cleanliness, and proper working order."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or GED preferred"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Consultant",
+      "job_category": "Consulting",
+      "job_class": "Senior",
+      "sector": "Cyber Security",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Oracle Cloud Applications Security & Controls",
+      "experience": 7
+    },
+    {
+      "skill": "Risk Management Cloud (RMC) modules",
+      "experience": 7
+    },
+    {
+      "skill": "Security and Controls Assessment",
+      "experience": 7
+    },
+    {
+      "skill": "Security and Controls Implementation",
+      "experience": 7
+    },
+    {
+      "skill": "Security and Controls Design",
+      "experience": 7
+    },
+    {
+      "skill": "Cyber Security Tools",
+      "experience": 7
+    },
+    {
+      "skill": "Project Management",
+      "experience": 7
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver Oracle Cloud Applications Security & Controls implementations and Risk Management Cloud (RMC) modules."
+    },
+    {
+      "duty": "Assess, design, and implement Security and Controls for Oracle Cloud Applications."
+    },
+    {
+      "duty": "Implement out of the box HDL tool, application package migration tools."
+    },
+    {
+      "duty": "Design and deploy Business process controls, automated controls, and IT controls."
+    },
+    {
+      "duty": "Integrate with Identity products for enabling SSO."
+    },
+    {
+      "duty": "Manage integrations with Oracle Identity Cloud Services."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Computer Science, Information Technology, Computer Engineering, or related discipline (Master's preferred)"
+    }
+  ]
+}

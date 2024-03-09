@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Sales Engineer",
+      "job_category": "Sales",
+      "job_class": "Engineer",
+      "sector": "Sales",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Migration Strategies",
+      "experience": 5
+    },
+    {
+      "skill": "Database Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Database Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Data Warehousing",
+      "experience": 5
+    },
+    {
+      "skill": "Data Lakes",
+      "experience": 5
+    },
+    {
+      "skill": "Event Processing",
+      "experience": 5
+    },
+    {
+      "skill": "Data Visualization Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Consulting",
+      "experience": 5
+    },
+    {
+      "skill": "Architecture Design",
+      "experience": 5
+    },
+    {
+      "skill": "Query Optimization",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Requirements Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Computing",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Identify and qualify business opportunities, and develop strategies to resolve technical blockers"
+    },
+    {
+      "duty": "Manage technical relationship with customers, including product and solution briefings, proof-of-concept work, and coordination of technical resources"
+    },
+    {
+      "duty": "Demonstrate and prototype Google Cloud product integrations, guide customers through assessments of their existing legacy application environment(s), provide recommendations on prioritization road map for application modernization, and identify applications for migration to hybrid-cloud computing models"
+    },
+    {
+      "duty": "Recommend integration strategies, enterprise architectures, platforms, and application infrastructure required to successfully implement a complete solution using best practices on Google Cloud"
+    },
+    {
+      "duty": "Travel to customer sites, conferences, and other related events as required"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or equivalent practical experience (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Psychiatrist",
+      "job_category": "Healthcare",
+      "job_class": "Physician",
+      "sector": "Healthcare",
+      "salary": 250000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Psychiatric Evaluation",
+      "experience": 5
+    },
+    {
+      "skill": "Supervision",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Directorship",
+      "experience": 5
+    },
+    {
+      "skill": "Addiction Psychiatry",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform psychiatric evaluations and supervision of APRNs."
+    },
+    {
+      "duty": "Serve as the interim medical director for the facility."
+    },
+    {
+      "duty": "Consider onsite coverage and telepsych services for admissions."
+    },
+    {
+      "duty": "Treat cases related to addictions, co-occurring disorders, and residential detox."
+    },
+    {
+      "duty": "Maintain oversight of the patient population and ensure high-quality care."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Board Certification in Psychiatry"
+    }
+  ]
+}

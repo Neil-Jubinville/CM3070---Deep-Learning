@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Nurse Exploration Program",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 58000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 1
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Assessments",
+      "experience": 1
+    },
+    {
+      "skill": "Care Planning",
+      "experience": 1
+    },
+    {
+      "skill": "Documentation",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Evaluate assigned patients and plans, implements and documents nursing care."
+    },
+    {
+      "duty": "Deliver excellent nursing care through evaluations, planning, implementation, and documentation while serving a diverse patient population with complex concerns."
+    },
+    {
+      "duty": "Perform various patient tests and administers medications within the scope of practice of the registered nurse."
+    },
+    {
+      "duty": "Promote patients' independence by establishing patient care goals and teaching patients and families to understand conditions, medications, and self-care skills."
+    },
+    {
+      "duty": "Rely on experience and judgment to plan and accomplish goals."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited school of Nursing"
+    },
+    {
+      "credential": "PA Registered Nurse Temporary Practice Permit or Registered Nurse License"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Accounting Manager",
+      "job_category": "Accounting",
+      "job_class": "Manager",
+      "sector": "Finance",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Fund Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Business Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Excel",
+      "experience": 5
+    },
+    {
+      "skill": "Accounting Software",
+      "experience": 5
+    },
+    {
+      "skill": "Investran Software",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work on projects related to fund accounting, valuations, portfolio monitoring, performance reporting, and closing the books for clients."
+    },
+    {
+      "duty": "Utilize accounting and reporting skills to extract, review, summarize, and report actionable information from data."
+    },
+    {
+      "duty": "Collaborate with auditors and assist in the audit process."
+    },
+    {
+      "duty": "Demonstrate proficiency in Excel and at least one accounting software, with experience in Investran or similar alternative investment software as a plus."
+    },
+    {
+      "duty": "Possess strong organizational, written, and oral communication skills."
+    },
+    {
+      "duty": "Maintain a positive, client service orientation and a strong work ethic."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in Accounting (MBA or CPA preferred)"
+    }
+  ]
+}

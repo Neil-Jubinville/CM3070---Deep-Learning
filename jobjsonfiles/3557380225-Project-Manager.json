@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Construction",
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage capital improvement projects through planning, design, construction, and closeout."
+    },
+    {
+      "duty": "Lead and coordinate project teams, contractors, and stakeholders to ensure successful project delivery."
+    },
+    {
+      "duty": "Develop project plans, schedules, and budgets, and monitor progress to meet project goals and objectives."
+    },
+    {
+      "duty": "Evaluate project risks and issues, and implement effective mitigation strategies."
+    },
+    {
+      "duty": "Communicate project updates, timelines, and milestones to project stakeholders and senior management."
+    },
+    {
+      "duty": "Ensure compliance with regulatory requirements, building codes, and project specifications."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Construction Management",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 5
+    },
+    {
+      "skill": "Stakeholder Engagement",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Project Management, Construction Management, or a related field (Master's preferred)"
+    }
+  ]
+}

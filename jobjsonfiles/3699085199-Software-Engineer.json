@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Development",
+      "experience": 2
+    },
+    {
+      "skill": "Data Structures",
+      "experience": 2
+    },
+    {
+      "skill": "Algorithms",
+      "experience": 2
+    },
+    {
+      "skill": "Android Application Development",
+      "experience": 2
+    },
+    {
+      "skill": "Performance Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Large-Scale Systems Data Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Visualization Tools",
+      "experience": 2
+    },
+    {
+      "skill": "Debugging",
+      "experience": 2
+    },
+    {
+      "skill": "Accessible Technologies",
+      "experience": 2
+    },
+    {
+      "skill": "Code and System Health",
+      "experience": 2
+    },
+    {
+      "skill": "Software Test Engineering",
+      "experience": 2
+    },
+    {
+      "skill": "Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Versatility",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Write product or system development code."
+    },
+    {
+      "duty": "Review code developed by other engineers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency)."
+    },
+    {
+      "duty": "Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback."
+    },
+    {
+      "duty": "Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality."
+    },
+    {
+      "duty": "Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree or equivalent practical experience. 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree in an industry setting. 2 years of experience with data structures or algorithms in either an academic or industry setting. 2 years of experience Android application development. Master's degree or PhD in Computer Science or related technical field. 2 years of experience with performance, large scale systems data analysis, visualization tools, and/or debugging. Experience developing accessible technologies. Proficiency in code and system health, diagnosis and resolution, and software test engineering"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Plant Manager",
+      "job_category": "Manufacturing",
+      "job_class": "Manager",
+      "sector": "Manufacturing",
+      "salary": 115000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Manufacturing Operations",
+      "experience": 10
+    },
+    {
+      "skill": "Industrial Engineering",
+      "experience": 10
+    },
+    {
+      "skill": "Continuous Improvement",
+      "experience": 10
+    },
+    {
+      "skill": "ERP Systems",
+      "experience": 10
+    },
+    {
+      "skill": "Project Management",
+      "experience": 10
+    },
+    {
+      "skill": "Leadership",
+      "experience": 10
+    },
+    {
+      "skill": "Manufacturing Philosophy",
+      "experience": 10
+    },
+    {
+      "skill": "Safety Management",
+      "experience": 10
+    },
+    {
+      "skill": "Team Building",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead transformation and optimization of manufacturing operations for enhanced efficiency and agility."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to drive strategic activities and manufacturing capabilities."
+    },
+    {
+      "duty": "Implement Lean principles and Quick Response Manufacturing to minimize setup times and improve quality."
+    },
+    {
+      "duty": "Drive industrial and manufacturing engineering improvements to enhance safety, quality, and performance."
+    },
+    {
+      "duty": "Drive continuous improvement initiatives and talent development to support agile manufacturing practices."
+    },
+    {
+      "duty": "Measure, analyze, and optimize key manufacturing metrics to improve safety, quality, and delivery performance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree (Master\u2019s preferred) in Engineering, Manufacturing, Business Management or related field."
+    }
+  ]
+}

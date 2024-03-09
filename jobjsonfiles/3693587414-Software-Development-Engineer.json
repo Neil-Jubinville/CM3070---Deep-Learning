@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Development Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cordova",
+      "experience": 3
+    },
+    {
+      "skill": "JavaScript (React)",
+      "experience": 4
+    },
+    {
+      "skill": "PHP (Laravel)",
+      "experience": 4
+    },
+    {
+      "skill": "Docker",
+      "experience": 3
+    },
+    {
+      "skill": "CI/CD Pipelines",
+      "experience": 3
+    },
+    {
+      "skill": "Elastic Search",
+      "experience": 3
+    },
+    {
+      "skill": "Python",
+      "experience": 2
+    },
+    {
+      "skill": "DevOps",
+      "experience": 4
+    },
+    {
+      "skill": "Infrastructure Management",
+      "experience": 4
+    },
+    {
+      "skill": "Full Stack Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and maintain iOS applications using the Cordova framework and JavaScript."
+    },
+    {
+      "duty": "Develop server-side applications using PHP and the Laravel framework."
+    },
+    {
+      "duty": "Develop interactive and dynamic user interfaces using React and related technologies."
+    },
+    {
+      "duty": "Utilize Docker to containerize applications and streamline deployment processes."
+    },
+    {
+      "duty": "Apply strong object-oriented programming principles (OOP) and utilize data structures effectively."
+    },
+    {
+      "duty": "Leverage knowledge of Elastic Search for efficient data retrieval and manipulation."
+    },
+    {
+      "duty": "Contribute to web development tasks and collaborate on back-end and front-end features."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 80,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science, Software Engineering, or related field (Master\u2019s preferred)"
+    }
+  ]
+}

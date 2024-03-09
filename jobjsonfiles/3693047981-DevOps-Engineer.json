@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "DevOps Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Advanced Linux",
+      "experience": 5
+    },
+    {
+      "skill": "Security Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Terraform",
+      "experience": 4
+    },
+    {
+      "skill": "Ansible",
+      "experience": 4
+    },
+    {
+      "skill": "Git",
+      "experience": 4
+    },
+    {
+      "skill": "GitHub",
+      "experience": 4
+    },
+    {
+      "skill": "Containers (Kubernetes)",
+      "experience": 3
+    },
+    {
+      "skill": "Pipelines (Jenkins, GitHub Actions)",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Processes",
+      "experience": 3
+    },
+    {
+      "skill": "Excellent Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 5
+    },
+    {
+      "skill": "Process Documentation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage cloud-based and on-premise infrastructure, including AWS migration and maintenance tasks."
+    },
+    {
+      "duty": "Troubleshoot security issues, network issues, and deployment-related problems for the TechOps/SysOps team."
+    },
+    {
+      "duty": "Keep EC2 instances up to date by running OS update scripts and ensure environments are operational."
+    },
+    {
+      "duty": "Work on load balancer and network health, ensure smooth operation of services."
+    },
+    {
+      "duty": "Execute security requests, manage Cherwell tickets, and address InfoSec and CloudOps concerns."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

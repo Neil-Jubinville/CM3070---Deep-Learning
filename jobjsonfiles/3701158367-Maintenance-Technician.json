@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Property Maintenance",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Respond to guest requests to ensure the safety and comfort of guests and provide exceptional guest interactions."
+    },
+    {
+      "duty": "Perform general maintenance tasks, complete assigned work orders, and assist in the maintenance and repairs of all property areas."
+    },
+    {
+      "duty": "Work as part of a team to assist other engineering personnel with routine repairs and preventive maintenance."
+    },
+    {
+      "duty": "Monitor and maintain cleanliness, sanitation, and organization of assigned work areas."
+    },
+    {
+      "duty": "Prepare for daily work assignments, review priorities and special projects, and ensure appropriate time management."
+    },
+    {
+      "duty": "Maintain the safety and security of the property, guests, and fellow associates."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Building Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "General Repair",
+      "experience": 1
+    },
+    {
+      "skill": "HVAC Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Electrical Repair",
+      "experience": 1
+    },
+    {
+      "skill": "Plumbing Repair",
+      "experience": 1
+    },
+    {
+      "skill": "Painting",
+      "experience": 1
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 1
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 1
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 1
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Basic knowledge of building maintenance fields and experience with diagnostic devices, mechanical, electrical, plumbing, HVAC, kitchen, and carpentry knowledge."
+    }
+  ]
+}

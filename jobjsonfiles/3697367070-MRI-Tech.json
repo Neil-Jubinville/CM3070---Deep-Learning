@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "MRI Tech",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Medical",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "MRI Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Machine Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Venipuncture",
+      "experience": 2
+    },
+    {
+      "skill": "IV Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Aseptic Technique",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Assessment",
+      "experience": 3
+    },
+    {
+      "skill": "Continuing Education",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Corroborate patient\u2019s clinical history with procedure, assuring information is documented and available for use by radiologist."
+    },
+    {
+      "duty": "Prepare patients for MRI procedure and ensure their safety in the MRI environment."
+    },
+    {
+      "duty": "Operate and perform MRI examinations using appropriate equipment and procedures."
+    },
+    {
+      "duty": "Evaluate images and data for technical quality and maintain patient logbooks."
+    },
+    {
+      "duty": "Maintain MRI systems, perform venipuncture, and ensure aseptic technique."
+    },
+    {
+      "duty": "Assist in clerical duties, participate in quality assessment, and pursue continuing education."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Technical School/2 Years College/Associate\u2019s Degree (Bachelor's Degree Preferred)"
+    },
+    {
+      "credential": "ARRT Registration"
+    },
+    {
+      "credential": "MRI Certification within 1 year of hire"
+    },
+    {
+      "credential": "CPR Certification"
+    },
+    {
+      "credential": "IV Certification Preferred"
+    }
+  ]
+}

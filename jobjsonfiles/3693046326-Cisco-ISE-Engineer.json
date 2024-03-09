@@ -1,0 +1,37 @@
+{
+  "meta": [
+    {
+      "job_title": "Cisco ISE Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cisco ISE",
+      "experience": 10
+    },
+    {
+      "skill": "Route/switching",
+      "experience": 10
+    },
+    {
+      "skill": "SDWAN",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Hands-on experience with Cisco ISE for network access control and security enforcement."
+    },
+    {
+      "duty": "Proficiency in route/switching protocols and technologies for network connectivity and operations."
+    },
+    {
+      "duty": "Experience with SDWAN (Software-Defined Wide Area Network) for efficient and secure network infrastructure."
+    }
+  ]
+}

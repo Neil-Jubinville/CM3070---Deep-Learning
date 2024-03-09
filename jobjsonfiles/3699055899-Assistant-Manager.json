@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Manager",
+      "job_category": "Restaurant",
+      "job_class": "Manager",
+      "sector": "Hospitality",
+      "salary": 52000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "experience": 4
+    },
+    {
+      "skill": "Training",
+      "experience": 4
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 4
+    },
+    {
+      "skill": "Customer Experience",
+      "experience": 4
+    },
+    {
+      "skill": "Cost Control",
+      "experience": 4
+    },
+    {
+      "skill": "Sales Management",
+      "experience": 4
+    },
+    {
+      "skill": "Operational Task Management",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Supervising assigned shifts, and providing supervision to crew members in the absence of the General Manager."
+    },
+    {
+      "duty": "Training and developing crew members."
+    },
+    {
+      "duty": "Completing administrative tasks such as financial and inventory control, schedules, logging maintenance, etc."
+    },
+    {
+      "duty": "Creating and ensuring exceptional guest experiences."
+    },
+    {
+      "duty": "Ensuring compliance with all security, food safety, quality, and cleanliness standards."
+    },
+    {
+      "duty": "Maintaining cost controls and contributing to the sales/profit goals."
+    },
+    {
+      "duty": "Building skills and leveraging available tools to prepare for a future General Manager role."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent (GED) preferred."
+    }
+  ]
+}

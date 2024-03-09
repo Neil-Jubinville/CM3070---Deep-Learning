@@ -1,0 +1,104 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Data Engineer",
+      "job_category": "Data Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide technical direction and mentoring of a small data engineering project team, to design solutions ensuring industry best SDLC practices."
+    },
+    {
+      "duty": "Identify new development processes that improve the predictability and quality of projects."
+    },
+    {
+      "duty": "Create, build and deploy robust data structures and pipelines to support analysis and decision making."
+    },
+    {
+      "duty": "Provide high-level technical analysis and design as new projects go through the ideation phase."
+    },
+    {
+      "duty": "Collaborate with end users and peers to understand requirements, formulate use cases, and translate into an effective technical solution."
+    },
+    {
+      "duty": "Ownership of the design and delivery of key components of a large-scale data platform."
+    },
+    {
+      "duty": "Build and deploy data warehouses and ETL and ELT applications."
+    },
+    {
+      "duty": "Participate in global data strategy."
+    },
+    {
+      "duty": "Design data integration pipeline architecture and infrastructure required for reporting and data analysis."
+    },
+    {
+      "duty": "Use the Scrum development process to deliver software solutions."
+    },
+    {
+      "duty": "Coordinate integration testing and debugging of software components."
+    },
+    {
+      "duty": "Understand system architecture and integration of new functionality."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Software Development Life Cycle (SDLC)",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Data Structure Design",
+      "experience": 5
+    },
+    {
+      "skill": "ETL and ELT Applications",
+      "experience": 5
+    },
+    {
+      "skill": "Scrum Development",
+      "experience": 5
+    },
+    {
+      "skill": "Data Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Database Management",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Spark SQL",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science, Engineering, Mathematics or a related field plus 5 years\u2019 data engineering or business intelligence experience which must include 5 years of each of the following: Working with enterprise data management technologies such as database and ETL technologies; Writing complex queries across large data sets; Configuring, managing, and monitoring cloud data solutions/applications; Using Python and a module for structured data processing such as Spark SQL."
+    }
+  ]
+}

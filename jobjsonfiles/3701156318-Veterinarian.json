@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinarian",
+      "job_category": "Veterinary",
+      "job_class": "Medical Director",
+      "sector": "Veterinary",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Veterinary Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Strategic Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Business Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain high-quality patient care, communication, and mentoring at the veterinary practice."
+    },
+    {
+      "duty": "Enforce a strict policy in regard to referral cases to maintain trust with local referral DVMs."
+    },
+    {
+      "duty": "Lead, mentor, and advise Associate Veterinarians to deliver outstanding, high-quality medical care."
+    },
+    {
+      "duty": "Identify potential problems and formulate solutions to remove barriers in medical operations."
+    },
+    {
+      "duty": "Maintain a 3\u20134-day schedule to provide emergency and critical care services."
+    },
+    {
+      "duty": "Ensure compliance with state Veterinary Board License requirements and maintain a flexible work schedule."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "State Veterinary Board License in good standing"
+    },
+    {
+      "credential": "DVM, VMD or equivalent degree"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Construction Craft Laborer",
+      "job_category": "Construction",
+      "job_class": "Laborer",
+      "sector": "Construction",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Labor",
+      "experience": 2
+    },
+    {
+      "skill": "Hand and Power Tools",
+      "experience": 2
+    },
+    {
+      "skill": "Trenching",
+      "experience": 2
+    },
+    {
+      "skill": "Construction Site Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Scaffolding",
+      "experience": 2
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Protocols",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform physical labor at highway and heavy construction projects, including operating hand and power tools."
+    },
+    {
+      "duty": "Clean and prepare construction sites, dig trenches, set braces, erect scaffolding, and remove waste materials and debris."
+    },
+    {
+      "duty": "Execute job deliverables according to customer specifications and contract requirements while promoting and monitoring the safety of team members."
+    },
+    {
+      "duty": "Assist in installing pipes and drains, erect temporary structures, fill potholes, and use hand tools to cut and shape materials."
+    },
+    {
+      "duty": "Ensure compliance with safety protocols and report any incidents or problems to the foreman."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent. Limited experience in Gas, Drilling, Overhead and Underground Power, or Solar/Electrical installation techniques and standards"
+    }
+  ]
+}

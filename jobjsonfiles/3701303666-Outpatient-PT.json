@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Outpatient PT",
+      "job_category": "Physical Therapy",
+      "job_class": "Outpatient Therapist",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Therapy",
+      "experience": 3
+    },
+    {
+      "skill": "Manual Therapy",
+      "experience": 3
+    },
+    {
+      "skill": "Rehabilitation Exercise",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Assessment",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "FPTA/APTA Membership",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide outpatient physical therapy services, including patient assessment, treatment, and rehabilitation exercise programs."
+    },
+    {
+      "duty": "Collaborate with a multi-disciplinary team to ensure holistic care and effective treatment plans for patients."
+    },
+    {
+      "duty": "Maintain documentation and records of patient progress, treatment plans, and outcomes."
+    },
+    {
+      "duty": "Participate in FPTA and APTA activities to stay updated on industry best practices and standards."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Physical Therapy (DPT) or Master of Physical Therapy (MPT) degree from an accredited program."
+    }
+  ]
+}

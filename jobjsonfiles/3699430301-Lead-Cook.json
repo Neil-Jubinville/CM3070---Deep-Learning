@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Cook",
+      "job_category": "Food Service",
+      "job_class": "Cook",
+      "sector": "Food Service",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food Preparation",
+      "experience": 3
+    },
+    {
+      "skill": "Recipe Management",
+      "experience": 3
+    },
+    {
+      "skill": "Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Food Safety",
+      "experience": 3
+    },
+    {
+      "skill": "Meal Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Kitchen Management",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Flexibility",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and instruct meal preparations including food preparation, baking, cooking, and clean-up."
+    },
+    {
+      "duty": "Follow company recipes and manage food preparation."
+    },
+    {
+      "duty": "Work well in a structured correctional environment."
+    },
+    {
+      "duty": "Lift up to 50 pounds."
+    },
+    {
+      "duty": "Work varying shifts and flexibility to work weekends and holidays."
+    },
+    {
+      "duty": "Obtain clearance approval into the facility."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

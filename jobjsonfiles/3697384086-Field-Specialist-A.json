@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Specialist A",
+      "job_category": "Oil and Gas",
+      "job_class": "Specialist",
+      "sector": "Oil and Gas",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Oil and Gas Production",
+      "experience": 2
+    },
+    {
+      "skill": "Oil and Gas Equipment Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "SCADA Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Data Acquisition",
+      "experience": 2
+    },
+    {
+      "skill": "Safety and Environmental Compliance",
+      "experience": 2
+    },
+    {
+      "skill": "Computerized Maintenance Management System (CMMS)",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Troubleshooting",
+      "experience": 2
+    },
+    {
+      "skill": "MS Office",
+      "experience": 2
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 2
+    },
+    {
+      "skill": "Time Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Monitor and optimize all production process variables, ensuring peak reliability and efficiency of production equipment."
+    },
+    {
+      "duty": "Operate, troubleshoot, repair, and maintain oil and gas production equipment."
+    },
+    {
+      "duty": "Acquire and store data related to oil and gas producing operations."
+    },
+    {
+      "duty": "Support Health, Environment, and Safety processes by ensuring compliance with regulations and policies."
+    },
+    {
+      "duty": "Partner with other employees and contractors to ensure peak efficiency of equipment."
+    },
+    {
+      "duty": "Utilize a Computerized Maintenance Management System to create work orders and ensure operational excellence."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent (Associate degree in Petroleum or Process Technology preferred)"
+    }
+  ]
+}

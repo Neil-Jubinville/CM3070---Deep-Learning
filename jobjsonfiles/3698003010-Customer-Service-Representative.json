@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Representative",
+      "job_category": "Customer Service",
+      "job_class": "Representative",
+      "sector": "Service",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Care",
+      "experience": 2
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Cashiering",
+      "experience": 2
+    },
+    {
+      "skill": "Retail",
+      "experience": 2
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 2
+    },
+    {
+      "skill": "High School Diploma",
+      "experience": 1
+    },
+    {
+      "skill": "Adaptability",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greet customers, run the register, make purchase suggestions, and work with food program."
+    },
+    {
+      "duty": "Maintain store appearance and provide fast and friendly customer service."
+    },
+    {
+      "duty": "Interact with customers and accomplish daily tasks around the store."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

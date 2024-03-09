@@ -1,0 +1,43 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Writer",
+      "job_category": "Documentation",
+      "job_class": "Writer",
+      "sector": "Information Technology",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Policy Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Standard Operating Procedures Writing",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare instruction manuals"
+    },
+    {
+      "duty": "Disseminate technical information in easy-to-understand language for a non-technical audience"
+    },
+    {
+      "duty": "Have technical accuracy in writing user documentation"
+    },
+    {
+      "duty": "Create software documentation after a thorough collaboration with subject matter experts and technical staff"
+    },
+    {
+      "duty": "Help other writers in creating documentation"
+    }
+  ]
+}

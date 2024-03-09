@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 160000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Computing",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Kotlin",
+      "experience": 5
+    },
+    {
+      "skill": "Infrastructure as Code",
+      "experience": 5
+    },
+    {
+      "skill": "Threat Modelling",
+      "experience": 3
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 3
+    },
+    {
+      "skill": "Docker",
+      "experience": 3
+    },
+    {
+      "skill": "GitHub Actions",
+      "experience": 3
+    },
+    {
+      "skill": "SDLC Methodologies",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Use domain modeling techniques to allow building best-in-class business products."
+    },
+    {
+      "duty": "Structure software to be easy to understand, test, and evolve."
+    },
+    {
+      "duty": "Build solutions that avoid single points of failure and use scalable architectural patterns."
+    },
+    {
+      "duty": "Develop secure code to protect customers and the business from malicious actors."
+    },
+    {
+      "duty": "Investigate and fix issues promptly to ensure they do not resurface in the future."
+    },
+    {
+      "duty": "Ensure releases happen with zero downtime for end-users."
+    },
+    {
+      "duty": "Write and read data in a way that is optimized for the company's needs."
+    },
+    {
+      "duty": "Keep an eye on performance and identify and solve problems using the right approach."
+    },
+    {
+      "duty": "Ensure systems are reliable and easy to operate."
+    },
+    {
+      "duty": "Keep technologies and patterns up to date by continuous updating."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

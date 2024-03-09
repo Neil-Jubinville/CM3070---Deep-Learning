@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Store Crew",
+      "job_category": "Retail",
+      "job_class": "Entry Level",
+      "sector": "Retail",
+      "salary": 25000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Cash handling, fuel transactions, cleaning, and stocking inventory."
+    },
+    {
+      "duty": "Food preparation and foodservice safety for foodservice positions."
+    },
+    {
+      "duty": "Provide excellent customer service and create a positive in-store experience for customers."
+    },
+    {
+      "duty": "Enroll customers in rewards loyalty program and promote its benefits."
+    },
+    {
+      "duty": "Maintain clean and safe store environment, including adherence to health code guidelines."
+    },
+    {
+      "duty": "Ability to multi-task, perform repeated bending, standing, and reaching, and occasionally lifting up to 50 pounds."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cash Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Retail Operations",
+      "experience": 1
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "Promotions",
+      "experience": 1
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ]
+}

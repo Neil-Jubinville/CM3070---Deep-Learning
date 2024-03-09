@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. Kubernetes Lead/Architect",
+      "job_category": "Engineering",
+      "job_class": "Lead",
+      "sector": "Software Engineering",
+      "salary": 160000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Kubernetes",
+      "experience": 8
+    },
+    {
+      "skill": "Cloud (Azure) & Infra-Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Kafka",
+      "experience": 3
+    },
+    {
+      "skill": "Container Traffic Management Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Linux",
+      "experience": 8
+    },
+    {
+      "skill": "DevOps Programming Languages",
+      "experience": 8
+    },
+    {
+      "skill": "Monitoring Tools",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, build, secure, and manage Kubernetes on the cloud at scale."
+    },
+    {
+      "duty": "Work with messaging and data streaming technologies like KAFKA and event hub."
+    },
+    {
+      "duty": "Utilize different Kubernetes flavors such as Rancher, OpenShift, etc."
+    },
+    {
+      "duty": "Demonstrate expert knowledge and experience with Linux, Cloud Platforms (Azure preferred), and infra-automation such as Terraform, Docker Compose, GitOps, and shell scripting."
+    },
+    {
+      "duty": "Program in modern DevOps languages such as Python, Golang, and PowerShell."
+    },
+    {
+      "duty": "Employ monitoring tools such as Prometheus, Grafana, AppDynamics, Dynatrace, or related tools."
+    },
+    {
+      "duty": "Experience in working with public cloud, preferably Microsoft Azure."
+    },
+    {
+      "duty": "Familiarity with Agile best practices."
+    },
+    {
+      "duty": "Possess Architect-level cloud certification."
+    },
+    {
+      "duty": "Certifications such as CKD, CKA, and CKS are a plus."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or related field (Master's preferred)"
+    },
+    {
+      "credential": "Architect-level cloud certification"
+    }
+  ]
+}

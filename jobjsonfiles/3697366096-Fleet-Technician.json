@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Fleet Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Logistics",
+      "salary": 40000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Vehicle Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Fleet Management",
+      "experience": 1
+    },
+    {
+      "skill": "Inspection and Repair",
+      "experience": 1
+    },
+    {
+      "skill": "Mechanical Diagnostics",
+      "experience": 1
+    },
+    {
+      "skill": "Preventive Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Computer-based Diagnostic Software",
+      "experience": 1
+    },
+    {
+      "skill": "Welding and Cutting",
+      "experience": 1
+    },
+    {
+      "skill": "Electrical Systems Diagnosis and Repair",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform quality preventive maintenance inspections and repairs on fleet vehicles to ensure safety and reliability."
+    },
+    {
+      "duty": "Diagnose and perform repairs to prevent breakdowns and reduce vehicle downtime."
+    },
+    {
+      "duty": "Document all work performed using company maintenance programs."
+    },
+    {
+      "duty": "Learn and develop efficiency in all Maintenance Relates Sysco Computer programs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent. Medium/Heavy Duty truck technical training 2-year school."
+    }
+  ]
+}

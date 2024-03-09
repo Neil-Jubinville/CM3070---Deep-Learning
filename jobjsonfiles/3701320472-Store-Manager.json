@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Store Manager",
+      "job_category": "Retail",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Management",
+      "experience": 5
+    },
+    {
+      "skill": "Profit Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Loss Prevention",
+      "experience": 5
+    },
+    {
+      "skill": "Expense Management",
+      "experience": 5
+    },
+    {
+      "skill": "Staffing and Recruitment",
+      "experience": 5
+    },
+    {
+      "skill": "Team Development",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Meeting or exceeding store sales and profit plans through the training, coaching & managing of the sales staff."
+    },
+    {
+      "duty": "Coordinate timely floor setup for all promotional and seasonal activity."
+    },
+    {
+      "duty": "Ensure shrinkage control and Loss Prevention in store through the continual management of associates."
+    },
+    {
+      "duty": "Adhering to annual expense budgets for store to achieve profit goals."
+    },
+    {
+      "duty": "Responsible for leading Workload Planning process."
+    },
+    {
+      "duty": "Recruiting, interviewing, selecting and retaining quality associates while ensuring all positions are filled in a timely manner."
+    },
+    {
+      "duty": "Maintaining high store morale through efficient, timely communications of policies and other information."
+    },
+    {
+      "duty": "Provide effective coaching in order to improve performance of all associates."
+    },
+    {
+      "duty": "Communicate with associates on possible career paths and advancement opportunities."
+    },
+    {
+      "duty": "Ensure HR guidelines are being met, such as hiring to the store matrix, maximizing Weekend Hours Utilization, and proactively completing associate turnover plans."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Four-year college degree or experience in retail management."
+    }
+  ]
+}

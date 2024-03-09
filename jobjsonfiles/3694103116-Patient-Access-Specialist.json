@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Access Specialist",
+      "job_category": "Healthcare",
+      "job_class": "Specialist",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Epic Software",
+      "experience": 3
+    },
+    {
+      "skill": "Insurance Provider Interaction",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work with patients to ensure proper registration for all service lines."
+    },
+    {
+      "duty": "Provide excellent written and verbal communication with patients."
+    },
+    {
+      "duty": "Demonstrate exceptional customer service attitude."
+    },
+    {
+      "duty": "Utilize Epic software for patient management."
+    },
+    {
+      "duty": "Interact with insurance providers for patient coverage and billing."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 130
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Health Management or related field (Master's preferred)"
+    }
+  ]
+}

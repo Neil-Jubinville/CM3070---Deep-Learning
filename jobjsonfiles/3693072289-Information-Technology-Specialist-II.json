@@ -1,0 +1,93 @@
+{
+  "meta": [
+    {
+      "job_title": "Information Technology Specialist II",
+      "job_category": "Information Technology",
+      "job_class": "Specialist",
+      "sector": "Information Technology",
+      "salary": 80000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "System Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Service Desk Support",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Active Directory",
+      "experience": 5
+    },
+    {
+      "skill": "Endpoint Security",
+      "experience": 5
+    },
+    {
+      "skill": "Network Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Application Support",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare IT Experience",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide service desk support for end users and resolve support requests."
+    },
+    {
+      "duty": "System administration for enterprise tools and platforms such as Microsoft Active Directory and Exchange management console."
+    },
+    {
+      "duty": "Perform hardware and software system configuration, maintenance, upgrades, and troubleshooting of workstations, laptops, mobile devices, and printers."
+    },
+    {
+      "duty": "Support Microsoft products such as Windows, Office, Office365, and other cloud-based applications."
+    },
+    {
+      "duty": "Maintain cyber security practices including anti-malware, threat management, vulnerability management, and anti-phishing technologies."
+    },
+    {
+      "duty": "Assist in the training and orientation of new staff in the use of hardware and software."
+    },
+    {
+      "duty": "Support telephony adds, moves, and changes as required."
+    },
+    {
+      "duty": "Provide Audio/Video Conference support for presentations and meetings."
+    },
+    {
+      "duty": "Assist in writing technical specifications for PC configurations and maintain standards documentation."
+    },
+    {
+      "duty": "Support development and implementation of new computer projects and new hardware installations as well as software roll-outs."
+    },
+    {
+      "duty": "Participate in audit events as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in IT technology or administration (Master's preferred). Minimum 4 years of hands-on IT experience in a Microsoft Windows environment, preferably in the healthcare industry. MCSA, A+, Network+, Security+ certifications a plus. ITIL Service Management knowledge a must. Vendor or Industry Certification in a specific system or practice used by DNWest."
+    }
+  ]
+}

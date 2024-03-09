@@ -1,0 +1,30 @@
+{
+  "meta": [
+    {
+      "job_title": "Willow Pharmacist",
+      "job_category": "Healthcare",
+      "job_class": "Pharmacist",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Hospital Pharmacy Support",
+      "experience": 3
+    },
+    {
+      "skill": "Medication Load Experience",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide hospital pharmacy support, ensuring the safe and effective use of medications."
+    },
+    {
+      "duty": "Manage medication loading processes and ensure accuracy and compliance with regulations."
+    }
+  ]
+}

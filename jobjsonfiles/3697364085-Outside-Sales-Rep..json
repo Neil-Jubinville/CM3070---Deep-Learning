@@ -1,0 +1,33 @@
+{
+  "meta": [
+    {
+      "job_title": "Outside Sales Rep.",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Generate new rental agreements and grow existing customer revenue within a defined sales territory"
+    },
+    {
+      "duty": "Builds prospects and business relationships"
+    },
+    {
+      "duty": "Performs cold-calls and job site visits"
+    },
+    {
+      "duty": "Utilizes customer resource software regularly to identify business opportunities"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 200,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Development Engineer in Test",
+      "job_category": "Software Development",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "C#",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Automation Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Selenium",
+      "experience": 5
+    },
+    {
+      "skill": "SOAP",
+      "experience": 5
+    },
+    {
+      "skill": "REST",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "LoadRunner",
+      "experience": 5
+    },
+    {
+      "skill": "JMeter",
+      "experience": 5
+    },
+    {
+      "skill": "APM/Log/Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop automation/performance solutions to test applications across Web/Windows/API/Services platforms and framing efficient data comparison methods."
+    },
+    {
+      "duty": "Lead the test automation/performance strategy and ensure best practices, refactoring and extending test automation/performance frameworks and suites as necessary."
+    },
+    {
+      "duty": "Act as a test lead, planning the work of other testing staff and assigning tasks to meet project deadlines."
+    },
+    {
+      "duty": "Participate in internal/cross-team meetings, project scoping, functional reviews, test specifications, and technical reviews for assigned projects in an Agile environment."
+    },
+    {
+      "duty": "Provide guidance and assistance to project staff, including reviewing and approving work, and ensuring standard methodologies are followed."
+    },
+    {
+      "duty": "Gather quality assurance data and metrics to provide insights and conclusions, estimate and perform risk analysis for quality delivery."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or higher qualification in Computer Science, Information Systems, or equivalent is preferred"
+    }
+  ]
+}

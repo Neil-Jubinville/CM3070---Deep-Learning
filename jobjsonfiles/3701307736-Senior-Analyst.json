@@ -1,0 +1,118 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Analyst",
+      "job_category": "Information Security",
+      "job_class": "Analyst",
+      "sector": "Network Security",
+      "salary": 125000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Information Security",
+      "experience": 10
+    },
+    {
+      "skill": "Network Security",
+      "experience": 10
+    },
+    {
+      "skill": "IPS",
+      "experience": 5
+    },
+    {
+      "skill": "WAF",
+      "experience": 5
+    },
+    {
+      "skill": "EDR",
+      "experience": 5
+    },
+    {
+      "skill": "NDR",
+      "experience": 5
+    },
+    {
+      "skill": "Firewall Security Policies",
+      "experience": 5
+    },
+    {
+      "skill": "Secure Web Gateway",
+      "experience": 5
+    },
+    {
+      "skill": "MFA",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Networking",
+      "experience": 5
+    },
+    {
+      "skill": "SIEM Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting (Python, PowerShell, Shell)",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement, maintain, and administer network security tools for preventing, detecting, and responding to security events."
+    },
+    {
+      "duty": "Collaborate with Information Technology teams to configure data flows and integration with various systems."
+    },
+    {
+      "duty": "Assess and assist in the development of network security requirements, and evaluate security services and technologies."
+    },
+    {
+      "duty": "Identify systems misconfigurations and serve as a resource to correct and analyze the configurations."
+    },
+    {
+      "duty": "Maintain availability of security technologies, including IPS, WAF, EDR, NDR, and MFA."
+    },
+    {
+      "duty": "Manage and provide engineering support to EDR and NDR solutions, including client and system health, upgrades, protection policies, and logs."
+    },
+    {
+      "duty": "Review firewall security policies and profiles and make recommendations to the Network infrastructure team based on security best practices."
+    },
+    {
+      "duty": "Maintain Secure Web Gateway, including traffic steering configuration, client health, and client configuration."
+    },
+    {
+      "duty": "Proactively identify and determine priority for any network security gaps and bridge the gap between security and network engineering teams."
+    },
+    {
+      "duty": "Partner with project teams to ensure control techniques are incorporated into the overall security model regarding operating systems, applications, database management, and network management."
+    },
+    {
+      "duty": "Provide clear and concise documentation of technical solutions and communicate plans to management and customers."
+    },
+    {
+      "duty": "Assess new and changing security needs and select the right tools for those needs."
+    },
+    {
+      "duty": "Build scripts and techniques to automate and speed up tasks."
+    },
+    {
+      "duty": "Research, evaluate, and recommend new or improved information security software and tools."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Four-Year undergraduate degree in a technical field or equivalent experience."
+    }
+  ]
+}

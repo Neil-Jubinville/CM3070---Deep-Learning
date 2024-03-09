@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "VMware/UCS Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "VMware",
+      "experience": 5
+    },
+    {
+      "skill": "UCS",
+      "experience": 5
+    },
+    {
+      "skill": "Cisco Networking",
+      "experience": 5
+    },
+    {
+      "skill": "Storage Solutions",
+      "experience": 5
+    },
+    {
+      "skill": "Data Center Design",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Configure and maintain the performance, availability, capacity, and security of servers and storage systems."
+    },
+    {
+      "duty": "Design, install, configure, administer, and maintain operating systems, client systems, servers, and storage environments."
+    },
+    {
+      "duty": "Participate in testing, implementation, maintenance, documentation, and development of operations and maintenance procedures."
+    },
+    {
+      "duty": "Design, develop, and maintain data interfaces and the interface engine that manipulates the interface messages in production and non-production environments."
+    },
+    {
+      "duty": "Perform software installations/deployments and upgrades to operating systems and multi-tiered software packages."
+    },
+    {
+      "duty": "Schedule installations and upgrades."
+    }
+  ]
+}

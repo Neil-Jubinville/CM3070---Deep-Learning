@@ -1,0 +1,49 @@
+{
+  "meta": [
+    {
+      "job_title": "Frontend UI UX Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 125000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "React JS",
+      "experience": 6
+    },
+    {
+      "skill": "UI Design",
+      "experience": 8
+    },
+    {
+      "skill": "UX Design",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and implement user interfaces using React JS"
+    },
+    {
+      "duty": "Collaborate on UI/UX design to enhance user experience"
+    },
+    {
+      "duty": "Bridge the gap between graphical design and technical implementation"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 80,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Web Design, or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "meta": [
+    {
+      "job_title": "Programmer/Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Power Portals and Power Pages (Liquid)",
+      "experience": 3
+    },
+    {
+      "skill": "Power Apps (Model Driven Apps, Canvas Apps)",
+      "experience": 3
+    },
+    {
+      "skill": "Power Automate Flows",
+      "experience": 3
+    },
+    {
+      "skill": "Web Application Development (HTML, CSS, JavaScript)",
+      "experience": 5
+    },
+    {
+      "skill": "C# Development (Power Platform Plugins)",
+      "experience": 5
+    },
+    {
+      "skill": "Visual Studio Development",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 5
+    },
+    {
+      "skill": "Code Control/Version/Build Tools (e.g. Azure DevOps)",
+      "experience": 5
+    },
+    {
+      "skill": "AI Builder",
+      "experience": 5
+    },
+    {
+      "skill": "Power Virtual Agents",
+      "experience": 5
+    },
+    {
+      "skill": "Power BI",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Blob and Azure Cognitive Services",
+      "experience": 5
+    },
+    {
+      "skill": "Unit Testing Frameworks (e.g. NUnit)",
+      "experience": 5
+    },
+    {
+      "skill": "XRM Toolkit",
+      "experience": 5
+    },
+    {
+      "skill": "Integration with REST/SOAP APIs and Postman",
+      "experience": 5
+    },
+    {
+      "skill": "ASP.NET",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript Frameworks (e.g. JQuery, Ext, React)",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and enhance Power Platform solutions, extending the Microsoft practice."
+    },
+    {
+      "duty": "Mentor and guide less experienced staff, contributing to the team's goals with creativity and latitude."
+    },
+    {
+      "duty": "Contribute to web application development, C# development, and Visual Studio development using Agile methodologies."
+    },
+    {
+      "duty": "Utilize code control/version/build tools, AI Builder, Power Virtual Agents, Power BI, Azure services, unit testing frameworks, and integration with REST/SOAP APIs."
+    },
+    {
+      "duty": "Collaborate in large-scale Agile software development projects, following best practices for development in an Agile environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or a technology-related field (Master's preferred)"
+    }
+  ]
+}

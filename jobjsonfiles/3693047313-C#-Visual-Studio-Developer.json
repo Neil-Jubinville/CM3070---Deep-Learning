@@ -1,0 +1,41 @@
+{
+  "meta": [
+    {
+      "job_title": "C# Visual Studio Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C# Programming",
+      "experience": 7
+    },
+    {
+      "skill": "Visual Studio",
+      "experience": 7
+    },
+    {
+      "skill": "C++ Programming",
+      "experience": 7
+    },
+    {
+      "skill": "VB.NET",
+      "experience": 7
+    },
+    {
+      "skill": "SSIS",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Writing and maintaining source code in C++ and VB.NET within Visual Studio."
+    },
+    {
+      "duty": "Using SSIS for data integration and workflow applications."
+    }
+  ]
+}

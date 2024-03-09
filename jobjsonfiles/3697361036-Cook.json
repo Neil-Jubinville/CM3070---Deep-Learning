@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Cook",
+      "job_category": "Culinary",
+      "job_class": "Cook",
+      "sector": "Hospitality",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Culinary Arts",
+      "experience": 3
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 3
+    },
+    {
+      "skill": "Kitchen Equipment Management",
+      "experience": 3
+    },
+    {
+      "skill": "Sanitation and Safety Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Accurately and efficiently cook and assemble dishes that meet culinary and aesthetic standards."
+    },
+    {
+      "duty": "Prepare and maintain mise en place for dishes and uphold station cleanliness."
+    },
+    {
+      "duty": "Handle, store, and rotate all food products properly."
+    },
+    {
+      "duty": "Report to scheduled shifts, meetings, and events on time and ready to work."
+    },
+    {
+      "duty": "Maintain a clean and sanitary workstation and area."
+    },
+    {
+      "duty": "Responsible for bringing personal cutlery tools/knife roll."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 80,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Culinary degree preferred but not required. Food Handlers Certifications required at time of hire."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Construction",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Budgeting",
+      "experience": 5
+    },
+    {
+      "skill": "Project Coordination",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Construction Industry Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Plan, coordinate, and implement projects within the decided-upon budget, timeline, and scope."
+    },
+    {
+      "duty": "Attend all job meetings and represent the company."
+    },
+    {
+      "duty": "Buy out material within budget."
+    },
+    {
+      "duty": "Monitor project status and track job progress."
+    },
+    {
+      "duty": "Provide paperwork for billing and report project status to ownership."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Construction Management or related field (Master's preferred)"
+    }
+  ]
+}

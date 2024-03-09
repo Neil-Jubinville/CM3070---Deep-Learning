@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Assistant",
+      "sector": "HVAC",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 2
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 2
+    },
+    {
+      "skill": "Site Evaluation",
+      "experience": 2
+    },
+    {
+      "skill": "Proposal Writing",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Travel Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Tracks and controls project schedule and costs to make sure projects are completed on-time and within budget"
+    },
+    {
+      "duty": "Negotiate revisions, changes and additions to contracts"
+    },
+    {
+      "duty": "Complete site evaluations at the end of each project to ensure project is completed to standard"
+    },
+    {
+      "duty": "Create proposals to install new or replacement; upgrade HVAC systems"
+    },
+    {
+      "duty": "Prepare and submit weekly status updates on the progress of the project"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "1+ years of experience in the HVAC industry"
+    }
+  ]
+}

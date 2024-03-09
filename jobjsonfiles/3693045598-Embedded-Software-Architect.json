@@ -1,0 +1,152 @@
+{
+  "meta": [
+    {
+      "job_title": "Embedded Software Architect",
+      "job_category": "Software Engineering",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "SPICE/ASPICE Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Embedded Systems",
+      "experience": 7
+    },
+    {
+      "skill": "C/C++ Programming",
+      "experience": 7
+    },
+    {
+      "skill": "Microprocessors",
+      "experience": 7
+    },
+    {
+      "skill": "SysML/UML",
+      "experience": 5
+    },
+    {
+      "skill": "ARM-Based MCUs",
+      "experience": 5
+    },
+    {
+      "skill": "Real-time Operating Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Protocols",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Functional Safety Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "DFMEA",
+      "experience": 5
+    },
+    {
+      "skill": "Environmental & Safety Regulations",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the work on selecting the technologies and patterns needed for supporting Litens' future product needs."
+    },
+    {
+      "duty": "Be the technical authority shaping the software platform to support the functionality of new products."
+    },
+    {
+      "duty": "Create overall software architecture, define interfaces, select appropriate technologies, and ensure that software meets performance, reliability, and resource constraints."
+    },
+    {
+      "duty": "Advise engineering leadership and senior management at Litens on strategic paths involving technology choices and how to balance the combination of business and technology."
+    },
+    {
+      "duty": "Be a software architect mentor to the rest of the engineering team."
+    },
+    {
+      "duty": "Work in cross-functional agile teams to produce and release new applications, features, and enhancements to improve the user experience, applying the full understanding of software engineering discipline and industry best practices."
+    },
+    {
+      "duty": "Design and rapidly prototype proposed solutions in the correct tech stack for that application."
+    },
+    {
+      "duty": "Work closely with the development team members in major architecture projects, design and implementation, review of functional and technical requirements."
+    },
+    {
+      "duty": "Utilize proven architecture development methods/tools to layout software functions and performance."
+    },
+    {
+      "duty": "Supporting systems and requirements engineering activities to enable functional safety within vehicle systems."
+    },
+    {
+      "duty": "Advise on the development of Functional Safety compliant software at various levels."
+    },
+    {
+      "duty": "Take a lead role in ensuring compliance with ASPICE software engineering process requirements across software development projects. Provide guidance, support, and hands-on involvement to ensure adherence to the defined processes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in Electrical/Software Engineering with 5 years of professional software development or system engineering experience."
+    },
+    {
+      "credential": "Extensive experience in software architecture development with a focus on SPICE/ASPICE compliance within the automotive industry or other regulated industry."
+    },
+    {
+      "credential": "Familiarity with automotive development standards and processes is a plus."
+    },
+    {
+      "credential": "7+ years' experience in developing and debugging embedded software, written in C/C++."
+    },
+    {
+      "credential": "Deep understanding of embedded systems and microprocessors and software architectures."
+    },
+    {
+      "credential": "Demonstrated experience with SysML/UML or similar tool for use in defining software architecture."
+    },
+    {
+      "credential": "Strong skills in efficiently documenting software design (requirements etc)."
+    },
+    {
+      "credential": "Experience in ARM-Based MCUs (Infineon AURIX Family - TC3xx is a plus)."
+    },
+    {
+      "credential": "Experience with Real-time Operating Systems (FreeRTOS, SAFERTOS)."
+    },
+    {
+      "credential": "Experience with communication protocols (UART / I2C / SPI / USB / Ethernet / CAN)."
+    },
+    {
+      "credential": "Experience with Python is beneficial."
+    },
+    {
+      "credential": "Performed key product development deliverables such as: DFMEA, design validation plans and reports (DVP&R), and problem-solving techniques (ex. 8D)."
+    },
+    {
+      "credential": "Experience and knowledge in environmental, reliability, and safety requirements for Automotive, Industrial & Residential applications for battery systems is a bonus (ASIL, ASPICE, ISO26262, etc)."
+    }
+  ]
+}

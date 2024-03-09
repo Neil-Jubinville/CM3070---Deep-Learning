@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Skilled Labor",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "HVAC",
+      "experience": 5
+    },
+    {
+      "skill": "Plumbing",
+      "experience": 5
+    },
+    {
+      "skill": "Carpentry",
+      "experience": 5
+    },
+    {
+      "skill": "Welding",
+      "experience": 5
+    },
+    {
+      "skill": "Reading Schematics",
+      "experience": 5
+    },
+    {
+      "skill": "CMMS",
+      "experience": 5
+    },
+    {
+      "skill": "Computer Proficiency",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform preventative and corrective maintenance procedures on material handling equipment, powered equipment, and physical building structures."
+    },
+    {
+      "duty": "Analyze, improve, and repair equipment using diagnostics and troubleshooting skills."
+    },
+    {
+      "duty": "Install, troubleshoot, and repair electrical systems, motors, motor controls, wiring, and HVAC systems."
+    },
+    {
+      "duty": "Perform welding, plumbing, carpentry, and general building maintenance tasks."
+    },
+    {
+      "duty": "Read and interpret schematics, blueprints, and technical documentation for maintenance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED, with electrical maintenance training/certification"
+    }
+  ]
+}

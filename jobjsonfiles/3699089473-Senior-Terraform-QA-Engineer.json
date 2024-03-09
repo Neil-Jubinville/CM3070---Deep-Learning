@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Terraform QA Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Terraform",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Terratest",
+      "experience": 5
+    },
+    {
+      "skill": "Infrastructure Automation Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Azure services",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "API Testing Frameworks",
+      "experience": 5
+    },
+    {
+      "skill": "Atlassian stack",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Enabling full stack solutions through multi-disciplinary team planning and ecosystem integration to accelerate delivery and drive quality across the application lifecycle."
+    },
+    {
+      "duty": "Performing continuous testing for security, API, and regression suite."
+    },
+    {
+      "duty": "Creating automation strategy, automated scripts, and supporting data and environment configuration."
+    },
+    {
+      "duty": "Participating in code reviews, monitoring, and reporting defects to support continuous improvement activities for the end-to-end testing process."
+    },
+    {
+      "duty": "Experience with creating Terraform templates and troubleshooting failures."
+    },
+    {
+      "duty": "Understanding of Azure services and best practices."
+    },
+    {
+      "duty": "Proficient in either Java or Python (both as a plus)."
+    },
+    {
+      "duty": "Experience with building automated API testing frameworks."
+    },
+    {
+      "duty": "Comfortable with the Atlassian stack (Bitbucket, JIRA, Confluence)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

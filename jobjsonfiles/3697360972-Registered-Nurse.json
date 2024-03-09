@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Complete assessments, administer medications/treatments, observe patient progress, and evaluate therapies for clinical outcomes and effectiveness."
+    },
+    {
+      "duty": "Collaborate with physicians and medical professionals to develop optimal healthcare strategy plans for each patient."
+    },
+    {
+      "duty": "Support and educate patients and their loved ones to achieve maximum outcomes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelors Degree in Nursing (BSN), or obtain BSN within 5 years of hire. Current license to practice as a Registered Nurse in the Commonwealth of Massachusetts. Work experience in unit-specific specialty preferred."
+    }
+  ]
+}

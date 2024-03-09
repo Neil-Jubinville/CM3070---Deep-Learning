@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Security Engineer",
+      "job_category": "Information Technology",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "IT Security Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Programming Languages (C\\C++, Java, etc)",
+      "experience": 5
+    },
+    {
+      "skill": "Operating Systems (Microsoft, Linux, Unix)",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical and Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Excellent Writing Skills",
+      "experience": 5
+    },
+    {
+      "skill": "English Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Knowledge of Cryptography and Algorithms",
+      "experience": 5
+    },
+    {
+      "skill": "Wireless Communication Protocols (e.g., Wi-Fi, Bluetooth, NFC)",
+      "experience": 5
+    },
+    {
+      "skill": "IT Test Tools and Techniques (e.g., Wireshark)",
+      "experience": 5
+    },
+    {
+      "skill": "CVP Tester Certification or Prior FIPS Experience",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform security analysis, documentation authoring, source code review, and operational testing for cryptographic IT products."
+    },
+    {
+      "duty": "Conduct presentations, workshops, and report writing related to security evaluation."
+    },
+    {
+      "duty": "Maintain/improve technical knowledge and perform audit-related tasks as directed."
+    },
+    {
+      "duty": "Prepare and execute source code test plans, operational test plans, and other testing activities in accordance with applicable standards and methodologies."
+    },
+    {
+      "duty": "Consult with senior engineers on testing matters requiring clarification and develop creative solutions in a team environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Post-secondary program in IT security, computer science, or engineering"
+    }
+  ]
+}

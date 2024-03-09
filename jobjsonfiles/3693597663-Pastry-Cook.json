@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Pastry Cook",
+      "job_category": "Hospitality",
+      "job_class": "Cook",
+      "sector": "Hospitality",
+      "salary": 23,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Kitchen Preparations",
+      "experience": 1
+    },
+    {
+      "skill": "Food safety standards",
+      "experience": 1
+    },
+    {
+      "skill": "English Speaking",
+      "experience": 1
+    },
+    {
+      "skill": "Machinery Operation",
+      "experience": 1
+    },
+    {
+      "skill": "Food Preservation",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support the Pastry Chef in all kitchen preparations with a strong attention to detail."
+    },
+    {
+      "duty": "Assist with cleaning, cutting vegetables, and preparing main dishes, desserts, appetizers, and snacks."
+    },
+    {
+      "duty": "Stock and set up kitchen stations, supporting the Chef team in the daily preparation and maintenance of the kitchen."
+    },
+    {
+      "duty": "Take care of the conservation of kitchen products in compliance with food safety standards and regulations."
+    },
+    {
+      "duty": "Clean and maintain work environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "At least one year of experience in the hospitality industry within the Kitchen area."
+    },
+    {
+      "credential": "Fluent English speaking skills."
+    },
+    {
+      "credential": "Certification of Food Handlers License."
+    }
+  ]
+}

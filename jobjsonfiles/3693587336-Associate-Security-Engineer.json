@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Associate Security Engineer",
+      "job_category": "Technology",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 63000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Security Engineering",
+      "experience": 1
+    },
+    {
+      "skill": "Identity Access Management (IAM)",
+      "experience": 2
+    },
+    {
+      "skill": "Cloud Computing",
+      "experience": 1
+    },
+    {
+      "skill": "Access Governance",
+      "experience": 1
+    },
+    {
+      "skill": "Access Control",
+      "experience": 1
+    },
+    {
+      "skill": "Token-Based Integrations",
+      "experience": 1
+    },
+    {
+      "skill": "Firewalls",
+      "experience": 1
+    },
+    {
+      "skill": "SIEM",
+      "experience": 1
+    },
+    {
+      "skill": "IT Lifecycle",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Fulfill IAM work requests and maintain the stability of the application in production and lower environments."
+    },
+    {
+      "duty": "Prioritize and resolve issues from stakeholders like HR and helpdesk collaborating with the IGA team."
+    },
+    {
+      "duty": "Manage configurations within the IGA tool and build application integrations, update birthright policies and enable new features."
+    },
+    {
+      "duty": "Perform regular tech upgrades and socialize the changes with stakeholders."
+    },
+    {
+      "duty": "Monitor task failures and resolve or work with the vendor to resolve the causes for failure."
+    },
+    {
+      "duty": "Apply basic principles such as least privilege and defense in depth appropriately to a set of problems within their team and projects."
+    },
+    {
+      "duty": "Identify and escalate issues for resolution as necessary."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Credit Analyst",
+      "job_category": "Finance",
+      "job_class": "Analyst",
+      "sector": "Private Credit",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cash-Flow Loan Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "DCF Models",
+      "experience": 3
+    },
+    {
+      "skill": "LBO Models",
+      "experience": 3
+    },
+    {
+      "skill": "Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Due Diligence",
+      "experience": 5
+    },
+    {
+      "skill": "Portfolio Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Valuation Consulting",
+      "experience": 3
+    },
+    {
+      "skill": "CPA",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct due diligence and monitor the performance of a portfolio of cash-flow loans."
+    },
+    {
+      "duty": "Utilize DCF and LBO models for analysis and assessment."
+    },
+    {
+      "duty": "Analyze financial information to assess risk and make lending decisions."
+    },
+    {
+      "duty": "Evaluate creditworthiness of borrowers and make lending recommendations."
+    },
+    {
+      "duty": "Collaborate with team members to assess and manage portfolio risks."
+    },
+    {
+      "duty": "Stay updated on industry trends and regulations impacting private credit."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting, Finance, or Economics (CPA is a plus)"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Security Specialist",
+      "job_category": "Security",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support badging inside of access control systems, creating badges, and running reports"
+    },
+    {
+      "duty": "Monitor and remediate intrusion detection alarms"
+    },
+    {
+      "duty": "Answer, prioritize, and respond to telephonic security incident reporting"
+    },
+    {
+      "duty": "Manage and log site entry/exit system disarm events"
+    },
+    {
+      "duty": "Write and submit security incident reports"
+    },
+    {
+      "duty": "Submit service requests for corrective maintenance of security systems, perform service ticket validation"
+    },
+    {
+      "duty": "Perform and document system checks and video tours"
+    },
+    {
+      "duty": "Perform forensic investigative support of video and access control records"
+    },
+    {
+      "duty": "Perform administrative ESOC tasks"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Access Control Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Intrusion Detection",
+      "experience": 3
+    },
+    {
+      "skill": "Alarm Management",
+      "experience": 3
+    },
+    {
+      "skill": "Security Incident Reporting",
+      "experience": 3
+    },
+    {
+      "skill": "Forensic Investigation",
+      "experience": 3
+    },
+    {
+      "skill": "System Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Video Surveillance",
+      "experience": 3
+    },
+    {
+      "skill": "ESOC Management",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Information Technology, Cybersecurity, or related field (Master's preferred)"
+    }
+  ],
+  "salary": 75000
+}

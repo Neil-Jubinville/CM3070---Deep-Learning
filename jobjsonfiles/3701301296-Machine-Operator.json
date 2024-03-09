@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Machine Operator",
+      "job_category": "Manufacturing",
+      "job_class": "Operator",
+      "sector": "Manufacturing",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Machine Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 3
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 3
+    },
+    {
+      "skill": "Mechanical Aptitude",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Setting up, operating, monitoring, troubleshooting, and performing preventive maintenance on assigned machines."
+    },
+    {
+      "duty": "Inspecting parts to specifications and making adjustments or tool changes as necessary to maintain quality specifications."
+    },
+    {
+      "duty": "Reading and interpreting blueprints and diagrams to select, position, and secure machinery."
+    },
+    {
+      "duty": "Performing necessary pre-operation activities to ensure proper equipment startup and operation."
+    },
+    {
+      "duty": "Operating and monitoring multiple pieces of equipment during operation to ensure quality production and minimal unplanned stops."
+    },
+    {
+      "duty": "Inspecting product for defects, reprocessing, and repair along with wrapping and attaching product identification tags."
+    },
+    {
+      "duty": "Performing general housekeeping of floors, machinery, and other areas as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    },
+    {
+      "credential": "Minimum of 1 year of experience as a Machine Operator"
+    }
+  ]
+}

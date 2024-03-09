@@ -1,0 +1,123 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Database Administrator",
+      "job_category": "Technology",
+      "job_class": "Admin",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Database Design",
+      "experience": 5
+    },
+    {
+      "skill": "Database Administration",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Optimization",
+      "experience": 5
+    },
+    {
+      "skill": "Data Warehousing",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Data Warehouse (AWS Redshift, Snowflake)",
+      "experience": 5
+    },
+    {
+      "skill": "Hadoop Ecosystem",
+      "experience": 5
+    },
+    {
+      "skill": "Vendor Support Interaction",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Query Performance",
+      "experience": 5
+    },
+    {
+      "skill": "Backup and Recovery",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Shell Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Agile",
+      "experience": 5
+    },
+    {
+      "skill": "Unix/Linux",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, configure, and manage Data Warehouse Database Systems on Cloud (AWS Redshift, EMR HBase and Snowflake)"
+    },
+    {
+      "duty": "Monitor and report on performance metrics, system health, and logging compliance on database services or database appliances."
+    },
+    {
+      "duty": "Perform database administration tasks including backup and recovery, troubleshooting, performance tuning and SQL optimization"
+    },
+    {
+      "duty": "Design database schema, and tune data types and data distribution for performance optimization"
+    },
+    {
+      "duty": "Configure and implement workload management for resource allocation and query event handling"
+    },
+    {
+      "duty": "Support users, and troubleshoot data access applications and ad hoc queries"
+    },
+    {
+      "duty": "Develop and support shell scripts for database activities, such as data loading, unloading, and maintenance"
+    },
+    {
+      "duty": "Manage data replication, data encryption, backup storage and archiving procedures"
+    },
+    {
+      "duty": "Follow standards and best practices for availability, security, backup and recovery, and integrity of client databases"
+    },
+    {
+      "duty": "Evaluate new database technologies and products and recommend to technical management"
+    },
+    {
+      "duty": "Contribute to document company database standards, guidelines, and operational procedures"
+    },
+    {
+      "duty": "Perform a variety of tasks relying on experience and judgment to manage time, plan and accomplish goals on several client engagements"
+    },
+    {
+      "duty": "Provide 24 x 7 x 365 support through on-call rotation"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS in Computer Science or related technical discipline or equivalent practical experience.4-6 years of experience in general database administrationAt least 3 years of experience managing and maintaining Data Warehouse technologies, such as IBM Netezza, Teradata, Greenplum or similarAt least 1 years of experience managing Cloud Data Warehouse database technologies, such as AWS Redshift, Snowflake, Databricks or similarStrong Knowledge in Hadoop eco system components such as YARN, MapReduce, HDFS, HBase, Zookeeper, Hive.Experience interacting with vendor support to ensure open issues are resolved within defined SLAUnderstanding of Data Warehousing MPP architecture, technologies, and conceptsAbility to write and analyze complex SQL queries for performanceCompetence to read and interpret query plans, database statistics and database performance measurements and optimize SQLProficiency in backup and recovery methodologies and techniquesAbility to diagnose problems and resolve issues across various tiers (application, database, network, and appliance)Adherence to SDLC, Change Management, troubleshooting and development methodologiesStrong Unix/Linux and shell scriptingAbility to perform work with minimal supervisory directionExcellent written and verbal communication skillsAgile experience a plus (Kanban, Scrum, etc.)"
+    }
+  ]
+}

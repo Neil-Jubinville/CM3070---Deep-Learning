@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Associate",
+      "job_category": "Retail",
+      "job_class": "Sales Associate",
+      "sector": "Retail",
+      "salary": 17719,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Stocking",
+      "experience": 2
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Interaction",
+      "experience": 2
+    },
+    {
+      "skill": "Foodservice Safety",
+      "experience": 2
+    },
+    {
+      "skill": "Marketing",
+      "experience": 2
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Cash handling, fuel transactions, cleaning, and stocking"
+    },
+    {
+      "duty": "Food preparation and foodservice safety"
+    },
+    {
+      "duty": "Interact with customers and provide excellent customer service"
+    },
+    {
+      "duty": "Maintain a clean, safe environment and ensure proper food preparation and presentation"
+    },
+    {
+      "duty": "Handle fuel transactions and promote rewards loyalty program"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

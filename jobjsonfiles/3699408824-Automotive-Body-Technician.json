@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Automotive Body Technician",
+      "job_category": "Automotive",
+      "job_class": "Technician",
+      "sector": "Automotive",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Frame Machine Usage",
+      "experience": 3
+    },
+    {
+      "skill": "Body Repair Certification",
+      "experience": 3
+    },
+    {
+      "skill": "Vehicle Repair Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "I-CAR Welding Certification",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Supervisory Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Examine damaged vehicles and efficiently plan repair process."
+    },
+    {
+      "duty": "Work and communicate with others on vehicle repair status."
+    },
+    {
+      "duty": "Perform quality repairs while keeping on-time status in mind."
+    },
+    {
+      "duty": "Make decisions on repair vs. replace considering safety, cost, and cycle time."
+    },
+    {
+      "duty": "Remove upholstery, accessories, electrical and hydraulic window operating equipment, and trim to gain access to vehicle and fenders."
+    },
+    {
+      "duty": "Participate in all required safety meetings."
+    },
+    {
+      "duty": "File, grind, and sand repaired surfaces, using power tools and hand tools."
+    },
+    {
+      "duty": "Direct the work of an apprentice in the performance of tasks when needed, i.e., unusual problems or questions and explain procedures to assistant."
+    },
+    {
+      "duty": "Supervise repair personnel."
+    },
+    {
+      "duty": "Pass thorough background check."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certification in Body Repair preferred."
+    },
+    {
+      "credential": "I-CAR Welding Certification."
+    },
+    {
+      "credential": "Frame Machine Usage Certification."
+    }
+  ]
+}

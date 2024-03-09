@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Produce Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintaining a positive attitude by smiling, greeting and thanking members."
+    },
+    {
+      "duty": "Providing exceptional customer service to members across the club as needed, answering any questions they may have."
+    },
+    {
+      "duty": "Maintaining a clean, neat, and member-ready area."
+    },
+    {
+      "duty": "Receiving and stocking merchandise in an organized manner."
+    },
+    {
+      "duty": "Maintaining inventory to prevent out of stock and over-stock products."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Product Quality Control",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

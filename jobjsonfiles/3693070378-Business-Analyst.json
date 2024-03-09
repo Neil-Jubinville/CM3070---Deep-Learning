@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Analyst",
+      "job_category": "Business Analysis",
+      "job_class": "Analyst",
+      "sector": "Business",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Business Intelligence",
+      "experience": 4
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 4
+    },
+    {
+      "skill": "Query Optimization",
+      "experience": 4
+    },
+    {
+      "skill": "Statistical Analysis",
+      "experience": 4
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 4
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Excel",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Translate business problems into analysis requirements and drive business decisions through analytical and statistical rigor."
+    },
+    {
+      "duty": "Develop queries, visualizations, and reports for ad-hoc requests and ongoing projects."
+    },
+    {
+      "duty": "Monitor and troubleshoot operational or data issues in the data pipelines."
+    },
+    {
+      "duty": "Review existing ETL jobs and SQL queries to ensure data integrity and efficiency."
+    },
+    {
+      "duty": "Automate metrics and analyze data to drive decisions that support sellers on the Amazon platform."
+    },
+    {
+      "duty": "Collaborate with Business Stakeholders to understand customer needs and concerns, and provide solutions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent in finance, economics, or a related field (Master's preferred)"
+    }
+  ]
+}

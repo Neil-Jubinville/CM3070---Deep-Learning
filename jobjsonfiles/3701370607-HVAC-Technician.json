@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "HVAC Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HVAC Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Calibration",
+      "experience": 3
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office Suite",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Electromechanical Devices",
+      "experience": 3
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Schedule and facilitate Preventative Maintenance for all equipment and document accordingly using GDP."
+    },
+    {
+      "duty": "Schedule and facilitate Calibration for all equipment and document accordingly using GDP."
+    },
+    {
+      "duty": "Create and revise SOP as needed."
+    },
+    {
+      "duty": "Monitor controlled environment areas and problem solve any issues that arise."
+    },
+    {
+      "duty": "Assisting in executing equipment validations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 60,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree, or equivalent years of education and relevant work experience"
+    }
+  ]
+}

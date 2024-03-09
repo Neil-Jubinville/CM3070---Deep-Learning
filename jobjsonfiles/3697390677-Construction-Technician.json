@@ -1,0 +1,93 @@
+{
+  "meta": [
+    {
+      "job_title": "Construction Technician",
+      "job_category": "Construction",
+      "job_class": "Technician",
+      "sector": "Construction",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Pole Installation",
+      "experience": 1
+    },
+    {
+      "skill": "Cable Installation and Repair",
+      "experience": 1
+    },
+    {
+      "skill": "Fiber Optic Installation",
+      "experience": 1
+    },
+    {
+      "skill": "Heavy Machinery Operation",
+      "experience": 1
+    },
+    {
+      "skill": "Splicing",
+      "experience": 1
+    },
+    {
+      "skill": "DOT Vehicle Inspection",
+      "experience": 1
+    },
+    {
+      "skill": "Construction Equipment Operation",
+      "experience": 1
+    },
+    {
+      "skill": "Maintenance",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Install, repair, and maintain poles, cables, and conduits for aerial and buried cable installations"
+    },
+    {
+      "duty": "Operate heavy machinery and perform routine maintenance work"
+    },
+    {
+      "duty": "Measure signal strength, test lines, and analyze test results for transmission characteristics"
+    },
+    {
+      "duty": "Lay underground cable, string it through conduits, and pull cables to proper tension using the necessary equipment"
+    },
+    {
+      "duty": "Follow industry standards, read and interpret staking sheets and blueprints, and maintain work scope on the project"
+    },
+    {
+      "duty": "Participate in engineering, permit, and construction processes as required"
+    },
+    {
+      "duty": "Perform routine maintenance, recognize and repair route issues, and fill and tamp holes as required"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "1 year of outside plant construction experience or related Trade School certification in-lieu of one year of experience"
+    },
+    {
+      "credential": "Pole climbing certification"
+    },
+    {
+      "credential": "Valid driver\u2019s license"
+    },
+    {
+      "credential": "Minimum qualifications to obtain a CDL"
+    },
+    {
+      "credential": "Ability to pass DOT certification"
+    }
+  ]
+}

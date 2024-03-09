@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Manufacturing Technician",
+      "job_category": "Manufacturing",
+      "job_class": "Technician",
+      "sector": "Manufacturing",
+      "salary": 19,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Manufacturing Processes",
+      "experience": 1
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 2
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 2
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 2
+    },
+    {
+      "skill": "Production Procedures",
+      "experience": 1
+    },
+    {
+      "skill": "Certification Maintenance",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate wafer fabrication tools and processes to produce semiconductor devices according to written procedures and process specifications."
+    },
+    {
+      "duty": "Test manufactured products and deliver them to work areas following safety protocols and procedures."
+    },
+    {
+      "duty": "Recognize and address quality problems on equipment and products, taking appropriate action to resolve issues."
+    },
+    {
+      "duty": "Maintain certification in multiple areas and escalates issues as needed to achieve manufacturing goals."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent or GED. Previous manufacturing experience preferred"
+    }
+  ]
+}

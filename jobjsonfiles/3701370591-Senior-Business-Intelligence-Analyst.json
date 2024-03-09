@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Business Intelligence Analyst",
+      "job_category": "Business Intelligence",
+      "job_class": "Senior Analyst",
+      "sector": "Data Analysis",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Predictive Modeling",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Visualization",
+      "experience": 5
+    },
+    {
+      "skill": "A/B Testing",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work with big data sets using SQL and excel to distill meaningful insights for stakeholders."
+    },
+    {
+      "duty": "Perform analysis around content performance, competitor analysis, etc."
+    },
+    {
+      "duty": "Create visualizations, predictive modeling, A/B testing."
+    },
+    {
+      "duty": "Predictive modeling using Python is a plus!"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Data Science, Statistics, or a related field (Master's preferred)"
+    }
+  ]
+}

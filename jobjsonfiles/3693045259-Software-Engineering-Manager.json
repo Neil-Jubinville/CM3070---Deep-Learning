@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineering Manager",
+      "job_category": "Engineering",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 180000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C",
+      "experience": 15
+    },
+    {
+      "skill": "Java",
+      "experience": 10
+    },
+    {
+      "skill": "Financial Services",
+      "experience": 5
+    },
+    {
+      "skill": "Team Management",
+      "experience": 10
+    },
+    {
+      "skill": "Leadership",
+      "experience": 10
+    },
+    {
+      "skill": "Communication",
+      "experience": 10
+    },
+    {
+      "skill": "AIX",
+      "experience": 5
+    },
+    {
+      "skill": "Public Cloud",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage cross-functional engineering teams"
+    },
+    {
+      "duty": "Hands-on engineer \u2013 pickup stories, code reviews, and support production"
+    },
+    {
+      "duty": "End-to end platform owner and engineer: design, build, and support resilient services / solutions"
+    },
+    {
+      "duty": "Partner with business owners to define platform roadmaps and scope for initiatives / features"
+    },
+    {
+      "duty": "Drive prioritization of technical investment on in-scope platforms"
+    },
+    {
+      "duty": "Design performant, efficient, effective, and reusable technical solutions (partnering with architecture)"
+    },
+    {
+      "duty": "Provide thought leadership across acquiring engines"
+    },
+    {
+      "duty": "Partner effectively with DevOps, Production Support, and peer platform teams"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in computer science, engineering, or equivalent work experience"
+    },
+    {
+      "credential": "Experience in AIX"
+    },
+    {
+      "credential": "Experience building solutions in public cloud (AWS, Azure, GCP)"
+    }
+  ]
+}

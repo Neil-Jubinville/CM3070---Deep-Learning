@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Cloud Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Platform as a Service (PaaS)",
+      "experience": 3
+    },
+    {
+      "skill": "Scripted Languages (Bash, PowerShell, Perl)",
+      "experience": 3
+    },
+    {
+      "skill": "Containerization (Docker)",
+      "experience": 3
+    },
+    {
+      "skill": "RedHat OpenShift",
+      "experience": 3
+    },
+    {
+      "skill": "AWS System Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Automation of Service Deployments",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain and improve existing infrastructure including autoscaling, supporting new services, and optimizing for cost efficiencies/authentication/search."
+    },
+    {
+      "duty": "Build and Maintain Platform as a Service Offering using RedHat OpenShift."
+    },
+    {
+      "duty": "Work with A&A Team to maintain security requirements for operation of systems."
+    },
+    {
+      "duty": "Produce detailed documentation."
+    },
+    {
+      "duty": "Automate and optimize service deployments."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Active Top Secret Clearance with SCI eligibility and the ability to obtain a CI Polygraph."
+    },
+    {
+      "credential": "Current DoD IAT II Level certification or the ability to successfully obtain one within 90 days of hire."
+    }
+  ]
+}

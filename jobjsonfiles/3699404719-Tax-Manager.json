@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Tax Manager",
+      "job_category": "Accounting",
+      "job_class": "Manager",
+      "sector": "Accounting",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Public Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "CPA Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Training and Development",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    },
+    {
+      "skill": "Philosophy and Policies Knowledge",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Formulate recommendations and implement solutions to technical issues in the field of tax management."
+    },
+    {
+      "duty": "Participate in training and maintaining current technical knowledge in the area of tax management."
+    },
+    {
+      "duty": "Develop and maintain complete knowledge of the firm's philosophy, reports, policies, procedures, and opinions on financial matters."
+    },
+    {
+      "duty": "Lead and guide a responsible, knowledgeable, and trained staff in the field of tax management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's Degree in Accounting"
+    }
+  ]
+}

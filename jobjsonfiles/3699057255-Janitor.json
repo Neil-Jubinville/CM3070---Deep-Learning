@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Janitor",
+      "job_category": "Cleaning",
+      "job_class": "Janitorial",
+      "sector": "Cleaning",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cleaning",
+      "experience": 1
+    },
+    {
+      "skill": "Janitorial",
+      "experience": 1
+    },
+    {
+      "skill": "Housekeeping",
+      "experience": 1
+    },
+    {
+      "skill": "Time Management",
+      "experience": 1
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform various cleaning tasks to an acceptable standard in meeting customer expectations while continuously providing services and improvements \"with a smile\", in accordance with all applicable company and government policies and procedures."
+    },
+    {
+      "duty": "Makes recommendations and observations for custodial inspection checklists, check sheets and task calendars for various assigned facilities to supervision for the continued improvements of the quality of programs and the services offered to our customers."
+    },
+    {
+      "duty": "Perform other duties as assigned in accordance with contractual, functional and mission requirements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 0,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School/GED, and one (1) year additional education and/or experience."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. Engineer, .Net Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior Engineer",
+      "sector": "Software Engineering",
+      "salary": 125000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "dotnet",
+      "experience": 8
+    },
+    {
+      "skill": "system design",
+      "experience": 8
+    },
+    {
+      "skill": "technical problem-solving",
+      "experience": 8
+    },
+    {
+      "skill": "communication skills",
+      "experience": 8
+    },
+    {
+      "skill": "interpersonal skills",
+      "experience": 8
+    },
+    {
+      "skill": "C#",
+      "experience": 8
+    },
+    {
+      "skill": "data integration",
+      "experience": 8
+    },
+    {
+      "skill": ".Net core",
+      "experience": 8
+    },
+    {
+      "skill": "web API",
+      "experience": 8
+    },
+    {
+      "skill": "microservices",
+      "experience": 8
+    },
+    {
+      "skill": "distributed systems",
+      "experience": 8
+    },
+    {
+      "skill": "cloud",
+      "experience": 8
+    },
+    {
+      "skill": "agile scrum process",
+      "experience": 8
+    },
+    {
+      "skill": "software testing",
+      "experience": 8
+    },
+    {
+      "skill": "SQL",
+      "experience": 8
+    },
+    {
+      "skill": "NoSQL",
+      "experience": 8
+    },
+    {
+      "skill": "system architecture patterns",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead cross functional teams to understand the requirements, current state architecture of the system and create roadmap for future enhancements."
+    },
+    {
+      "duty": "Guide and mentor the team in technical aspects and provide technical expertise and ownership of solutions."
+    },
+    {
+      "duty": "Apply software engineering and architecture best practices to design, develop and manage high-quality, scalable, and highly-available multi-tier enterprise systems."
+    },
+    {
+      "duty": "Analyze existing user interface components and find the areas that can be improved."
+    },
+    {
+      "duty": "Lead the efforts to design, develop, test, deploy, and support various applications."
+    },
+    {
+      "duty": "Mentor and guide the team members with system design, best practices and coding standards."
+    },
+    {
+      "duty": "Identify bottlenecks and issues and provide solutions to mitigate and address these issues."
+    },
+    {
+      "duty": "Cover most of their code with unit tests and estimate efforts to ensure that work is completed in a timely manner."
+    },
+    {
+      "duty": "Responsible for code reviews and merges."
+    },
+    {
+      "duty": "Experience in C# or other development languages, data integration, .Net core, Web API, Microservices, distributed systems, Cloud, Agile Scrum Process, design patterns, software testing, SQL, NoSQL, system architecture patterns."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS or advanced degree in Computer Science, or related field"
+    }
+  ]
+}

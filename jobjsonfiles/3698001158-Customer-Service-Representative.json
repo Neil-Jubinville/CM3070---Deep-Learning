@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Representative",
+      "job_category": "Customer Service",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Care",
+      "experience": 2
+    },
+    {
+      "skill": "Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 2
+    },
+    {
+      "skill": "Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Cashiering",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greet customers, run the register, cashier, make purchase suggestions, and work with the food program."
+    },
+    {
+      "duty": "Maintain high standards for store appearance and provide fast and friendly service to customers."
+    },
+    {
+      "duty": "Interact with many customers daily while working with a fun, energetic team to accomplish daily tasks around the store."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": []
+}

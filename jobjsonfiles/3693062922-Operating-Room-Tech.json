@@ -1,0 +1,50 @@
+{
+  "meta": [
+    {
+      "job_title": "Operating Room Tech",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for the preparation of sterile supplies and instruments for each assigned procedure."
+    },
+    {
+      "duty": "Maintaining sterile field during case and providing surgeon with sterile supplies and instruments during assigned procedures."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Surgical Instrument Preparation",
+      "experience": 3
+    },
+    {
+      "skill": "Sterile Field Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Emergency Care",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100
+    },
+    {
+      "student_teacher": 80
+    },
+    {
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or Equivalent or related experience required for new hires effective April 2014. Graduate of an ORT training program or on the job training with a minimum of 3 years experience (surgical setting preferred). Experience in scrubbing minor and major procedures in the generalized surgical specialties, (i.e., GYN, General and Plastics). Experience in scrubbing at least minor procedures in the specialty surgical areas (i.e., ortho, neuro, ENT, Uro. Etc.). Current BLS (AHA) certificate upon hire and maintain current."
+    }
+  ]
+}

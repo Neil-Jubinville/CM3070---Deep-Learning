@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Coordinator",
+      "job_category": "Management",
+      "job_class": "Coordinator",
+      "sector": "Management",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Coordination",
+      "experience": 5
+    },
+    {
+      "skill": "SAP Integration Support",
+      "experience": 5
+    },
+    {
+      "skill": "Communications",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Coordinate and manage interfaces between client legacy applications and new SAP installation."
+    },
+    {
+      "duty": "Support SAP integration, with preference for SAP FI module."
+    },
+    {
+      "duty": "Organize occasional onsite working sessions within commuting distance to Burbank."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Project Management, Business, or a related field (MBA preferred)"
+    }
+  ]
+}

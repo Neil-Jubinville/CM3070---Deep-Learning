@@ -1,0 +1,49 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Designer",
+      "job_category": "Engineering",
+      "job_class": "Designer",
+      "sector": "Engineering",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical CAD Design",
+      "experience": 3
+    },
+    {
+      "skill": "PCB Layout Design",
+      "experience": 3
+    },
+    {
+      "skill": "Altium",
+      "experience": 3
+    },
+    {
+      "skill": "CREO Integration",
+      "experience": 3
+    },
+    {
+      "skill": "Electronic Background",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design layouts for PCBs according to specifications, including minimum bend radius."
+    },
+    {
+      "duty": "Create, maintain, and route wire harnesses."
+    },
+    {
+      "duty": "Incorporate designs from Altium and specs from Windchill into CREO Parametric for 3D models of the components."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Root Cause Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Technology",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Engineering",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Engineering",
+      "experience": 3
+    },
+    {
+      "skill": "Programming",
+      "experience": 3
+    },
+    {
+      "skill": "Electronics",
+      "experience": 3
+    },
+    {
+      "skill": "CAN Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 3
+    },
+    {
+      "skill": "Ethernet Protocol",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead electrical issue identification and resolution for all electrical features on a program line to ensure successful vehicle launch."
+    },
+    {
+      "duty": "Rapid troubleshooting / triage of vehicle electrical systems including wiring issues, electrical component issues, assembly plant issues, and vehicle networking issues."
+    },
+    {
+      "duty": "Support vehicle launches, durability fleets, and prototype vehicles."
+    },
+    {
+      "duty": "Drive identified issues to closure."
+    },
+    {
+      "duty": "Collaborate with various Engineering Support teams, Program Management, and Manufacturing teams as required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's in Electrical Engineering, Computer Engineering, or Computer Science"
+    }
+  ]
+}

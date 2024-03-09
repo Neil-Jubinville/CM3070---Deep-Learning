@@ -1,0 +1,104 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer II",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 2
+    },
+    {
+      "skill": "System Design",
+      "experience": 2
+    },
+    {
+      "skill": "Application Development",
+      "experience": 2
+    },
+    {
+      "skill": "Programming Languages",
+      "experience": 2
+    },
+    {
+      "skill": "Database Querying Languages",
+      "experience": 2
+    },
+    {
+      "skill": "Software Development Life Cycle",
+      "experience": 2
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 2
+    },
+    {
+      "skill": "Cloud Technologies",
+      "experience": 2
+    },
+    {
+      "skill": "AWS",
+      "experience": 2
+    },
+    {
+      "skill": "Front-end Technologies",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Executes standard software solutions, design, development, and technical troubleshooting."
+    },
+    {
+      "duty": "Writes secure and high-quality code using the syntax of at least one programming language with limited guidance."
+    },
+    {
+      "duty": "Designs, develops, codes, and troubleshoots with consideration of upstream and downstream systems and technical implications."
+    },
+    {
+      "duty": "Applies knowledge of tools within the Software Development Life Cycle toolchain to improve the value realized by automation."
+    },
+    {
+      "duty": "Applies technical troubleshooting to break down solutions and solve technical problems of basic complexity."
+    },
+    {
+      "duty": "Gathers, analyzes, and draws conclusions from large, diverse data sets to identify problems and contribute to decision-making in service of secure, stable application development."
+    },
+    {
+      "duty": "Learns and applies system processes, methodologies, and skills for the development of secure, stable code and systems."
+    },
+    {
+      "duty": "Adds to team culture of diversity, equity, inclusion, and respect."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 120,
+      "introvert_extrovert": 95
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Formal training or certification on software engineering concepts and 2+ years applied experience."
+    },
+    {
+      "credential": "Bachelor's degree in Software Engineering, Computer Science, or a related field (Master's preferred)"
+    },
+    {
+      "credential": "AWS hands-on experience preferred."
+    },
+    {
+      "credential": "Familiarity with modern front-end technologies."
+    },
+    {
+      "credential": "Exposure to cloud technologies."
+    }
+  ]
+}

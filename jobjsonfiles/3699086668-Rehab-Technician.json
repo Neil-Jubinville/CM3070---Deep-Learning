@@ -1,0 +1,47 @@
+{
+  "meta": [
+    {
+      "job_title": "Rehab Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Records Management",
+      "experience": 1
+    },
+    {
+      "skill": "Equipment Sterilization",
+      "experience": 1
+    },
+    {
+      "skill": "Housekeeping",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in handling patients, preparing medical records, and monitoring routine exercises in the department."
+    },
+    {
+      "duty": "Purchasing department supplies and transporting materials to and from the department."
+    },
+    {
+      "duty": "Perform cleaning, sterilization of equipment, and general housekeeping duties."
+    }
+  ],
+  "subjective_elements": [],
+  "education_certification": [
+    {
+      "credential": "High School graduate or equivalent (GED)."
+    }
+  ]
+}

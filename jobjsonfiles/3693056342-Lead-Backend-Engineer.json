@@ -1,0 +1,110 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Backend Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analytics",
+      "experience": 6
+    },
+    {
+      "skill": "ML-Derived Actionable Insights",
+      "experience": 6
+    },
+    {
+      "skill": "Natural Language Processing (NLP)",
+      "experience": 6
+    },
+    {
+      "skill": "Rich Data Functionality",
+      "experience": 6
+    },
+    {
+      "skill": "Scalable Data Pipeline",
+      "experience": 6
+    },
+    {
+      "skill": "Technology Partnership Decisions",
+      "experience": 6
+    },
+    {
+      "skill": "Architectural Decisions",
+      "experience": 6
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 6
+    },
+    {
+      "skill": "API Design",
+      "experience": 6
+    },
+    {
+      "skill": "Relational Database Systems",
+      "experience": 6
+    },
+    {
+      "skill": "NoSQL Systems",
+      "experience": 6
+    },
+    {
+      "skill": "Ruby on Rails",
+      "experience": 6
+    },
+    {
+      "skill": "Automated Test Coverage",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Architect AnyRoad\u2019s data analytics platform and lay the foundation for actionable insights through ML"
+    },
+    {
+      "duty": "Design and build a scalable and performant data pipeline that can ingest and enrich data from both AnyRoad and external systems"
+    },
+    {
+      "duty": "Design rich data functionality that powers responsive analytic dashboards at scale"
+    },
+    {
+      "duty": "Improve engineering standards, tooling, and processes for platform APIs"
+    },
+    {
+      "duty": "Shape future-proof interfaces that are easy to build against and meet the requirements of internal product teams and customers"
+    },
+    {
+      "duty": "Work with the Data Analytics Platform team to build a scalable data ingestion pipeline that can serve as the basis for the rich data analytics platform"
+    },
+    {
+      "duty": "Enhance the Natural Language Processing (NLP) Engine leveraging OpenAI to extract themes and actionable insights from attendee feedback"
+    },
+    {
+      "duty": "Ingest data from Point of Sale (POS) Systems and correlate it to the experiential guest information in AnyRoad"
+    },
+    {
+      "duty": "Build ML models that leverage experiential data (guest, demographic, purchase, feedback information) to provide actionable insights"
+    },
+    {
+      "duty": "Work across engineering teams to design, build-out, and drive adoption of our Data Analytics Platform interfaces"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

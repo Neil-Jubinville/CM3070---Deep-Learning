@@ -1,0 +1,48 @@
+{
+  "meta": [
+    {
+      "job_title": "Server",
+      "job_category": "Hospitality",
+      "job_class": "Service",
+      "sector": "Hospitality",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Food and Beverage Knowledge",
+      "experience": 1
+    },
+    {
+      "skill": "Team Player",
+      "experience": 1
+    },
+    {
+      "skill": "Fast-Paced Environment",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide exceptional customer service to guests, ensuring a positive dining experience."
+    },
+    {
+      "duty": "Utilize food and beverage knowledge to assist guests with menu choices and recommendations."
+    },
+    {
+      "duty": "Work collaboratively as a team player in a fast-paced dining environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ]
+}

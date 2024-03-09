@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "CAD Drafter/Designer",
+      "job_category": "Engineering",
+      "job_class": "Designer",
+      "sector": "Software Engineering",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AutoCAD 3D",
+      "experience": 2
+    },
+    {
+      "skill": "Solid Edge",
+      "experience": 2
+    },
+    {
+      "skill": "Solid Works",
+      "experience": 2
+    },
+    {
+      "skill": "Inventor",
+      "experience": 2
+    },
+    {
+      "skill": "Tekla",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create structural steel and sheet metal design and layout of fabrication details using 3D modeling software."
+    },
+    {
+      "duty": "Verify accuracy of models and create detailed shop drawings from 3D models."
+    },
+    {
+      "duty": "Generate DXF files for laser-cut parts and STP files for beam processor parts."
+    },
+    {
+      "duty": "Review projects, determine material quantities required, and assist Sales Department with estimates."
+    },
+    {
+      "duty": "Perform additional duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 60,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduation from High School or GED equivalent. Graduation from an accredited Technical School Program or an Associates of Technology Degree in CAD Technology preferred."
+    }
+  ]
+}

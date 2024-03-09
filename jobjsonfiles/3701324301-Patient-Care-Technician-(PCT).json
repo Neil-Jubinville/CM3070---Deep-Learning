@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Care Technician (PCT)",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Dialysis Treatment",
+      "experience": 2
+    },
+    {
+      "skill": "Machine Safety Checks",
+      "experience": 1
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 1
+    },
+    {
+      "skill": "Safety Regulations",
+      "experience": 2
+    },
+    {
+      "skill": "Blood Sample Collection",
+      "experience": 2
+    },
+    {
+      "skill": "Hemodialysis Machine Preparation",
+      "experience": 2
+    },
+    {
+      "skill": "Disinfection Procedures",
+      "experience": 2
+    },
+    {
+      "skill": "Monitoring Patients",
+      "experience": 2
+    },
+    {
+      "skill": "Personal Protective Equipment",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Life Support",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide safe and high-quality dialysis treatment to patients, including initiating, monitoring, and terminating treatment."
+    },
+    {
+      "duty": "Prepare and clean hemodialysis machines, conduct safety checks, and ensure quality control."
+    },
+    {
+      "duty": "Adhere to safety measures, policies, procedures, and state/federal laws and regulations."
+    },
+    {
+      "duty": "Participate in staff meetings and continuing education offerings."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 130,
+      "student_teacher": 100,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certified Hemodialysis Technician (CHT) certificate from relevant state Board of Nursing or an approved dialysis technician training program."
+    }
+  ]
+}

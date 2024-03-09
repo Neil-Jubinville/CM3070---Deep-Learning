@@ -1,0 +1,130 @@
+{
+  "meta": [
+    {
+      "job_title": "Azure Specialist",
+      "job_category": "Information Technology",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Azure Private Link",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Front Door Service",
+      "experience": 5
+    },
+    {
+      "skill": "Azure DNS",
+      "experience": 5
+    },
+    {
+      "skill": "Azure CDN",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Traffic Manager",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Application Gateway",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Load Balancer",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Express Route",
+      "experience": 5
+    },
+    {
+      "skill": "Virtual Appliance",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Virtual WAN",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Route Server",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Peering Service",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Firewall",
+      "experience": 5
+    },
+    {
+      "skill": "Azure VPN",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Virtual Network",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Network Watcher",
+      "experience": 5
+    },
+    {
+      "skill": "Azure DDOS Protection",
+      "experience": 5
+    },
+    {
+      "skill": "Network Performance Monitor",
+      "experience": 5
+    },
+    {
+      "skill": "IP Services",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Bastion",
+      "experience": 5
+    },
+    {
+      "skill": "NAT Gateway",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement and manage Azure infrastructure services, including Azure Private Link, Azure Front Door Service, Azure DNS, Azure CDN, and Azure Traffic Manager."
+    },
+    {
+      "duty": "Configure and monitor Azure application gateway, load balancer, express route, and virtual network to ensure high availability and performance."
+    },
+    {
+      "duty": "Utilize Azure VPN, peering service, and firewall to establish secure connections and protect the Azure network from unauthorized access and threats."
+    },
+    {
+      "duty": "Implement and monitor Azure virtual WAN, route server, and virtual appliance for efficient network management and connectivity."
+    },
+    {
+      "duty": "Utilize Azure Bastion and NAT Gateway for secure and seamless access to virtual networks and resources."
+    },
+    {
+      "duty": "Monitor and optimize Azure DDOS protection, network performance, and IP services to ensure reliability and scalability of the Azure infrastructure."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science, Information Technology, or related field (Azure certification preferred)"
+    }
+  ]
+}

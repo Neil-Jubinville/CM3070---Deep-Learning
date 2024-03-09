@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Optometrist",
+      "job_category": "Healthcare",
+      "job_class": "Doctor",
+      "sector": "Healthcare",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Comprehensive Eye Exams",
+      "experience": 5
+    },
+    {
+      "skill": "Ocular Disease Diagnosis and Treatment",
+      "experience": 5
+    },
+    {
+      "skill": "Prescription Lenses",
+      "experience": 5
+    },
+    {
+      "skill": "Pre- and Post-operative Care",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Counseling",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Eye Care",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform comprehensive eye exams, including AR, OCT, Topo, Optos, Meibography, and Icare tonometry."
+    },
+    {
+      "duty": "Diagnose and assist in the treatment of ocular disease."
+    },
+    {
+      "duty": "Prescribe corrective lenses for patients."
+    },
+    {
+      "duty": "Provide pre- and post-operative care to surgical patients."
+    },
+    {
+      "duty": "Counsel and educate patients on maintaining healthy vision."
+    },
+    {
+      "duty": "Handle eye care emergencies with expertise."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Optometry (O.D.) degree"
+    }
+  ]
+}

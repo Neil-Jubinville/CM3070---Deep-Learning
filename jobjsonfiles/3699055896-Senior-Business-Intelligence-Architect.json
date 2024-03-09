@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Business Intelligence Architect",
+      "job_category": "Business Intelligence",
+      "job_class": "Architect",
+      "sector": "Data Analysis",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tableau",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 15
+    },
+    {
+      "skill": "Requirements Gathering",
+      "experience": 15
+    },
+    {
+      "skill": "Data Warehousing",
+      "experience": 15
+    },
+    {
+      "skill": "ETL",
+      "experience": 15
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 15
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Interpret functional needs and translate them into effective business intelligence solutions."
+    },
+    {
+      "duty": "Lead and facilitate requirements gathering sessions with stakeholders and document detailed requirements."
+    },
+    {
+      "duty": "Design and architect complex business intelligence systems that align with organizational goals."
+    },
+    {
+      "duty": "Develop impactful Tableau dashboards and reports using various data sources such as AWS, DB2, SQL, etc."
+    },
+    {
+      "duty": "Utilize expertise in data warehousing tools and techniques (DataStage, ETL/Informatica/Tableau Prep) to ensure data quality and consistency."
+    },
+    {
+      "duty": "Demonstrate a deep understanding of the data warehouse lifecycle from data source to ETL to multidimensional models (data marts, star schema) to reporting."
+    },
+    {
+      "duty": "Provide consulting, leadership, and mentorship to junior team members."
+    },
+    {
+      "duty": "Analyze data to identify patterns, trends, and insights that drive business decision-making."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, Business, or a related field"
+    }
+  ]
+}

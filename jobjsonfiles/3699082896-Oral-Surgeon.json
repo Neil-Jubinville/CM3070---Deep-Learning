@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Oral Surgeon",
+      "job_category": "Healthcare",
+      "job_class": "Surgeon",
+      "sector": "Dentistry",
+      "salary": 200000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Oral Surgery",
+      "experience": 5
+    },
+    {
+      "skill": "Dentistry",
+      "experience": 5
+    },
+    {
+      "skill": "Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "Anesthesiology",
+      "experience": 5
+    },
+    {
+      "skill": "Dental Implants",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform surgical procedures on the mouth, jaws, and teeth."
+    },
+    {
+      "duty": "Administer anesthesia, interpret X-rays, and conduct other diagnostic tests."
+    },
+    {
+      "duty": "Evaluate patients for surgical procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 75
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Dental Medicine (DMD) or Doctor of Dental Surgery (DDS) degree from an accredited program."
+    },
+    {
+      "credential": "Completed residency or fellowship training in Oral Surgery."
+    },
+    {
+      "credential": "Board Certification by the American Board of Oral and Maxillofacial Surgery (ABOMS) is desirable."
+    }
+  ]
+}

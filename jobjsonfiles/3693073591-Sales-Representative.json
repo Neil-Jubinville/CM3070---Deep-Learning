@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 3
+    },
+    {
+      "skill": "CRM Software",
+      "experience": 3
+    },
+    {
+      "skill": "Lead Generation",
+      "experience": 3
+    },
+    {
+      "skill": "Client Acquisition",
+      "experience": 3
+    },
+    {
+      "skill": "Prospecting",
+      "experience": 3
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Presentation Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain relationships with new and existing clients to achieve sales goals."
+    },
+    {
+      "duty": "Negotiate and close sales, overcoming objections to effectively communicate product value."
+    },
+    {
+      "duty": "Utilize CRM software to track leads and manage client interactions throughout the sales process."
+    },
+    {
+      "duty": "Generate leads through prospecting, cold calling, and networking activities."
+    },
+    {
+      "duty": "Acquire new clients through effective communication and the demonstration of product knowledge."
+    },
+    {
+      "duty": "Identify and prioritize potential clients to achieve efficient and targeted prospecting efforts."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 40,
+      "introvert_extrovert": 120
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Management Trainee",
+      "job_category": "Management",
+      "job_class": "Trainee",
+      "sector": "Management",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Management Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Recruiting",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Business Development",
+      "experience": 5
+    },
+    {
+      "skill": "MBA",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Start as a financial professional, learning to sell products and build client relationships before transitioning into a management role."
+    },
+    {
+      "duty": "Undergo a six-month intensive training program designed to prepare for success as a manager."
+    },
+    {
+      "duty": "Coach and lead a team of financial professionals."
+    },
+    {
+      "duty": "Meet specific production and licensing requirements before transitioning to field management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "MBA or advanced degree"
+    }
+  ]
+}

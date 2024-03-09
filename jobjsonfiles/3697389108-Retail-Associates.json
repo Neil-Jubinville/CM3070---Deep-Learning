@@ -1,0 +1,49 @@
+{
+  "meta": [
+    {
+      "job_title": "Retail Associates",
+      "job_category": "Retail",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 13500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Time Management",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist customers with locating and purchasing art, crafts, custom frames, fabrics, floral, and hobby supplies."
+    },
+    {
+      "duty": "Maintain store cleanliness and organization, including restocking and arranging merchandise."
+    },
+    {
+      "duty": "Work flexible hours, including nights and weekends, to accommodate customer needs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": []
+}

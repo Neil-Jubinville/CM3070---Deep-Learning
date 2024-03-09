@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Travel Nurse - PCU",
+      "job_category": "Nursing",
+      "job_class": "RN",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide care and support to patients in the Progressive Care Unit."
+    },
+    {
+      "duty": "Monitor patient vital signs and health status, assessing any changes and responding accordingly."
+    },
+    {
+      "duty": "Collaborate with a multidisciplinary team to develop and implement patient care plans."
+    },
+    {
+      "duty": "Administer medications and treatments as prescribed by physicians."
+    },
+    {
+      "duty": "Educate patients and their families on health management and post-discharge care plans."
+    },
+    {
+      "duty": "Maintain accurate medical records and documentation of patient care."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Vital Signs Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Care Plan Development",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Record Keeping",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "JavaScript",
+      "experience": 2
+    },
+    {
+      "skill": "Vue.js",
+      "experience": 2
+    },
+    {
+      "skill": "Gitlab",
+      "experience": 2
+    },
+    {
+      "skill": "Docker",
+      "experience": 1
+    },
+    {
+      "skill": "JSON",
+      "experience": 1
+    },
+    {
+      "skill": "PostgreSQL",
+      "experience": 1
+    },
+    {
+      "skill": "react.js",
+      "experience": 1
+    },
+    {
+      "skill": "REST API",
+      "experience": 1
+    },
+    {
+      "skill": "Spring Boot",
+      "experience": 1
+    },
+    {
+      "skill": "Spring Framework",
+      "experience": 1
+    },
+    {
+      "skill": "SQL",
+      "experience": 1
+    },
+    {
+      "skill": "XML",
+      "experience": 1
+    },
+    {
+      "skill": "flask",
+      "experience": 0
+    },
+    {
+      "skill": "Grails",
+      "experience": 0
+    },
+    {
+      "skill": "Groovy",
+      "experience": 0
+    },
+    {
+      "skill": "Python",
+      "experience": 0
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Participate in requirements formulation, design, prototype, develop, and document the software applications and ensure the solutions meet all requirements."
+    },
+    {
+      "duty": "Help determine technical direction for multiple projects to streamline workflow efficiencies."
+    },
+    {
+      "duty": "Responsible for creating brand new solutions with support to meet business process needs."
+    },
+    {
+      "duty": "Communicate with senior internal and external customers and vendors."
+    },
+    {
+      "duty": "Design, develop, test, debug, and implement operating systems components, software tools, and utilities."
+    },
+    {
+      "duty": "Determine systems software design requirements and ensure that system improvements are successfully implemented and monitored to increase efficiency."
+    },
+    {
+      "duty": "Generate systems software engineering policies, standards, and procedures."
+    }
+  ]
+}

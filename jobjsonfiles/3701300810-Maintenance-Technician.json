@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Carpentry",
+      "experience": 5
+    },
+    {
+      "skill": "Painting",
+      "experience": 5
+    },
+    {
+      "skill": "Plumbing",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide installation, preventative and corrective maintenance on building machinery, equipment, physical structures, pipe and electrical systems."
+    },
+    {
+      "duty": "Maintain and make repairs to building, furniture and other general maintenance work including carpentry, sheet rocking, painting, wiring, and electrical components."
+    },
+    {
+      "duty": "Perform preventative maintenance on facility systems including HVAC, plumbing, compressors, etc."
+    },
+    {
+      "duty": "Assist in repair of machine shop and plant equipment."
+    },
+    {
+      "duty": "Perform general plant custodial tasks."
+    },
+    {
+      "duty": "Perform general grounds keeping work."
+    },
+    {
+      "duty": "Requisition, buy, and pick up maintenance supplies from local vendors."
+    },
+    {
+      "duty": "Maintain neat and orderly work area to ensure efficiency and compliance with safety requirements."
+    },
+    {
+      "duty": "Meet all quality, quantity, and established manufacturing practices to satisfy customer requirements."
+    },
+    {
+      "duty": "Maintain a daily log (Notes Database) of jobs/tasks completed."
+    },
+    {
+      "duty": "Comply with the Incident Command System adopted by the company."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Vocational school classes or education/experience equivalent (construction, wiring, mechanical, plumbing, etc.)"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "PC Technician",
+      "job_category": "IT",
+      "job_class": "Technician",
+      "sector": "IT",
+      "salary": 25,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft PC Support",
+      "experience": 1
+    },
+    {
+      "skill": "Active Directory Troubleshooting",
+      "experience": 1
+    },
+    {
+      "skill": "Microsoft Teams",
+      "experience": 1
+    },
+    {
+      "skill": "Citrix Remote Desktop",
+      "experience": 1
+    },
+    {
+      "skill": "Windows 10",
+      "experience": 1
+    },
+    {
+      "skill": "Microsoft O365",
+      "experience": 1
+    },
+    {
+      "skill": "TeamViewer",
+      "experience": 1
+    },
+    {
+      "skill": "Documentation Development",
+      "experience": 1
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide support for an enterprise Microsoft PC environment, including troubleshooting issues within Active Directory and Microsoft Teams."
+    },
+    {
+      "duty": "Assist with Citrix Remote Desktop and streaming applications, as well as Windows 10/11 and Microsoft O365."
+    },
+    {
+      "duty": "Utilize tools such as TeamViewer, VNC, and other remote assistance services to provide technical support."
+    },
+    {
+      "duty": "Document progress on projects and develop documentation to assist in training of other technicians."
+    },
+    {
+      "duty": "Demonstrate verbal and written communication skills, organizational skills, and the ability to learn new technologies."
+    },
+    {
+      "duty": "Display working knowledge of advanced hardware component maintenance, repair, and replacement as required."
+    },
+    {
+      "duty": "Implement new technologies, communicate with users, and multitask in a fast-paced environment."
+    },
+    {
+      "duty": "Work on-site for 40 hours per week, Monday-Friday with weekends off."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 80,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": []
+}

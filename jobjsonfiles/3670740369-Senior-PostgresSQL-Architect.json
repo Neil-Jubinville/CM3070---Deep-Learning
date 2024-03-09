@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior PostgresSQL Architect",
+      "job_category": "Software Engineering",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "PostgreSQL",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Software Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "Continuous Integration (Jenkins)",
+      "experience": 5
+    },
+    {
+      "skill": "Amazon AWS",
+      "experience": 3
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assessment and improvement of databases, with a focus on PostgreSQL."
+    },
+    {
+      "duty": "Optimizing performance at the application level by proposing solutions like indexing, archiving, and partitioning."
+    },
+    {
+      "duty": "Participation in team rituals and presentations to understand the product."
+    },
+    {
+      "duty": "Collaboration with the development team to provide end-to-end solutions and implement them."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ]
+}

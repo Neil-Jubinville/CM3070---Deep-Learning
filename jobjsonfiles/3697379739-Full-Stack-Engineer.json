@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Full-Stack Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "Node.js",
+      "experience": 5
+    },
+    {
+      "skill": "React",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices",
+      "experience": 5
+    },
+    {
+      "skill": "Serverless Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "NoSQL",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Security",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "CICD",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, implementation, development, and documentation of projects that interact with other internal and external systems."
+    },
+    {
+      "duty": "Develop solutions that are of high quality, scalable, cloud-based, reliable, and reusable."
+    },
+    {
+      "duty": "Participate in a highly collaborative Agile/Scrum environment, interacting and communicating across teams to ensure sharing of knowledge."
+    },
+    {
+      "duty": "Participate in code and architecture reviews within and between teams."
+    },
+    {
+      "duty": "Recommend and evangelize for new technologies, architectures, and processes that can better improve the quality of deliverables."
+    },
+    {
+      "duty": "Contribute to an environment and culture of integrity, trust, feedback, and continuous improvement."
+    },
+    {
+      "duty": "Using the AWS ecosystem of services to develop and deliver business value."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in Computer Science or Engineering disciplines, preferred but not required"
+    }
+  ]
+}

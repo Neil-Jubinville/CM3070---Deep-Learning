@@ -1,0 +1,115 @@
+{
+  "meta": [
+    {
+      "job_title": "Database Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 115000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL Development",
+      "experience": 5
+    },
+    {
+      "skill": "ETL",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Database Design Principles",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Computing",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting Languages",
+      "experience": 5
+    },
+    {
+      "skill": "Data Warehouse Concepts",
+      "experience": 5
+    },
+    {
+      "skill": "Data Management",
+      "experience": 5
+    },
+    {
+      "skill": "Data Processing",
+      "experience": 5
+    },
+    {
+      "skill": "SOA",
+      "experience": 5
+    },
+    {
+      "skill": "Service Bus Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "GIT",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, document, test, and assist in implementation of secure medium to complex database solutions and ETL processes."
+    },
+    {
+      "duty": "Work in both relational, non-relational and multi-dimensional environments."
+    },
+    {
+      "duty": "Perform data development activities, research requests, resolve defects, mange time and planning of project activities for data management projects (new and existing)."
+    },
+    {
+      "duty": "Develop and test solutions including creating automated test scripts."
+    },
+    {
+      "duty": "Collaborate with other IT colleagues and business users to define developmental requirements."
+    },
+    {
+      "duty": "Elicit solid data element descriptions and definitions and with physical data modeling tools."
+    },
+    {
+      "duty": "Efficiently work and produce results within the structure of project management methodologies (e.g., Agile, Scrum, Waterfall)."
+    },
+    {
+      "duty": "Demonstrate commitment to meeting organizational, department and team goals and objectives."
+    },
+    {
+      "duty": "Familiar with the DevOps, data pipeline and sharing code repositories with tools such as GIT."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

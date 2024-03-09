@@ -1,0 +1,125 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 135000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Agile Development Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft .NET framework",
+      "experience": 5
+    },
+    {
+      "skill": "C#",
+      "experience": 5
+    },
+    {
+      "skill": "Git",
+      "experience": 5
+    },
+    {
+      "skill": "Test Driven Development (TDD)",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Server, T-SQL",
+      "experience": 5
+    },
+    {
+      "skill": "MongoDB",
+      "experience": 5
+    },
+    {
+      "skill": "Web Services",
+      "experience": 5
+    },
+    {
+      "skill": "HTML, JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "IIS",
+      "experience": 5
+    },
+    {
+      "skill": "SaaS (Software-as-a-Service)",
+      "experience": 5
+    },
+    {
+      "skill": "ASP.NET",
+      "experience": 4
+    },
+    {
+      "skill": "Blazor",
+      "experience": 4
+    },
+    {
+      "skill": "Python",
+      "experience": 4
+    },
+    {
+      "skill": "Google Cloud",
+      "experience": 4
+    },
+    {
+      "skill": "CI/CD build and release pipelines",
+      "experience": 4
+    },
+    {
+      "skill": "ETL",
+      "experience": 4
+    },
+    {
+      "skill": "Jira",
+      "experience": 4
+    },
+    {
+      "skill": "Retail industry",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Designing, developing, testing, deploying, and maintaining applications to support business requirements."
+    },
+    {
+      "duty": "Resolving technical issues through debugging and troubleshooting is also required."
+    },
+    {
+      "duty": "Estimating level of effort for user stories and tasks."
+    },
+    {
+      "duty": "Providing leadership, guidance, coaching and expertise around software engineering best practices."
+    },
+    {
+      "duty": "Providing mentoring to facilitate growth in less experienced developer colleagues."
+    },
+    {
+      "duty": "Help chart a path toward improving our software-based solutions both from a process and technology perspective."
+    },
+    {
+      "duty": "Participate in Agile/SCRUM processes and ceremonies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "College degree in Computer Science or equivalent."
+    }
+  ]
+}

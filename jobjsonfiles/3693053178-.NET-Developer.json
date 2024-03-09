@@ -1,0 +1,108 @@
+{
+  "meta": [
+    {
+      "job_title": ".NET Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": ".Net C#",
+      "experience": 5
+    },
+    {
+      "skill": ".Net Core",
+      "experience": 5
+    },
+    {
+      "skill": "SQL with Stored Procedure",
+      "experience": 3
+    },
+    {
+      "skill": "Rest API",
+      "experience": 5
+    },
+    {
+      "skill": "Angular",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft SQL Server",
+      "experience": 3
+    },
+    {
+      "skill": "Oracle Database",
+      "experience": 3
+    },
+    {
+      "skill": "Database Design/Programming (Stored Procedures/Functions)",
+      "experience": 3
+    },
+    {
+      "skill": "SDLC",
+      "experience": 2
+    },
+    {
+      "skill": "DevOps/Agile",
+      "experience": 2
+    },
+    {
+      "skill": "API REST web services",
+      "experience": 2
+    },
+    {
+      "skill": "Front-End UI Frameworks (Angular)",
+      "experience": 2
+    },
+    {
+      "skill": "Version Management (Git, AzureDevOps, SVN)",
+      "experience": 2
+    },
+    {
+      "skill": "Xamarin",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "3+ years of development and testing experience in C# / .Net or .Net Core"
+    },
+    {
+      "duty": "1-3+ years of development experience on Microsoft SQL Server or Oracle Database"
+    },
+    {
+      "duty": "1-3+ years of Database Design/Programming (Stored Procedures/Functions)"
+    },
+    {
+      "duty": "1-3+ years of SDLC or DevOps/Agile experience"
+    },
+    {
+      "duty": "1-2+ years of working experience with API REST web services"
+    },
+    {
+      "duty": "Experience with Front-End UI Frameworks (Angular)"
+    },
+    {
+      "duty": "Experience with version management tools (Git, AzureDevOps, SVN, etc.)"
+    },
+    {
+      "duty": "Nice to have skill for 1 or 2 of the resources is 1-3+ years of Xamarin experience, but not a requirement"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree or equivalent in IT, Computer Science, or related field (Master's preferred)"
+    }
+  ]
+}

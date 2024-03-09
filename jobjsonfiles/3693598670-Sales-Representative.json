@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 45000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 3
+    },
+    {
+      "skill": "Cold Calling",
+      "experience": 3
+    },
+    {
+      "skill": "Door-to-Door Sales",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Generate new leads through door-to-door and cold calling sales techniques."
+    },
+    {
+      "duty": "Build and maintain customer relationships through effective communication and follow-up."
+    },
+    {
+      "duty": "Negotiate and close sales deals with residential and commercial clients."
+    },
+    {
+      "duty": "Achieve monthly sales targets by identifying and pursuing sales opportunities."
+    },
+    {
+      "duty": "Regularly update the CRM system with client interactions and sales progress."
+    },
+    {
+      "duty": "Collaborate with the sales team to optimize sales strategies and share best practices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 40,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school Diploma"
+    }
+  ]
+}

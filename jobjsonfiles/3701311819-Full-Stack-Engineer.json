@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "Full Stack Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Angular",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Spring Boot",
+      "experience": 5
+    },
+    {
+      "skill": "GraphQL",
+      "experience": 3
+    },
+    {
+      "skill": "API Integration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build new single-page web applications from scratch and consume APIs"
+    },
+    {
+      "duty": "Connect front and back-end points and build APIs if possible"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (Masters preferred)"
+    }
+  ]
+}

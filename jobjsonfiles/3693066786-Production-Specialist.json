@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Production Specialist",
+      "job_category": "Manufacturing",
+      "job_class": "Specialist",
+      "sector": "Manufacturing",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Manufacturing Process Improvement",
+      "experience": 2
+    },
+    {
+      "skill": "Quality Engineering",
+      "experience": 2
+    },
+    {
+      "skill": "New Product Introduction",
+      "experience": 2
+    },
+    {
+      "skill": "Maintenance and Repairs",
+      "experience": 2
+    },
+    {
+      "skill": "Equipment Calibration",
+      "experience": 2
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develops, maintains, and improves assembly processes."
+    },
+    {
+      "duty": "Evaluates process specifications and reviews process steps to reduce inefficiencies."
+    },
+    {
+      "duty": "Collaborates with Quality Engineers on process improvement, monitoring tools, and corrective actions."
+    },
+    {
+      "duty": "Drives production schedules and process related problems to closure."
+    },
+    {
+      "duty": "Supports engineering and development labs with new product introduction."
+    },
+    {
+      "duty": "Assists in the compliance of safety regulations and provides production ready documentation."
+    },
+    {
+      "duty": "Leads team in making process and efficiency improvements."
+    },
+    {
+      "duty": "Handles first calls in non-maintenance down issues and aids in implementing changes."
+    },
+    {
+      "duty": "Monitors equipment performance and makes minor adjustments and repairs under supervision."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate\u2019s Degree, vocational or technical training, or equivalent"
+    }
+  ]
+}

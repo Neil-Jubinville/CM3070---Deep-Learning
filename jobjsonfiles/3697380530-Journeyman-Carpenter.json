@@ -1,0 +1,41 @@
+{
+  "meta": [
+    {
+      "job_title": "Journeyman Carpenter",
+      "job_category": "Carpenter",
+      "job_class": "Journeyman",
+      "sector": "Construction",
+      "salary": 30,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Hand Tools",
+      "experience": 3
+    },
+    {
+      "skill": "OSHA 10",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform basic bolt up work and build metal commercial buildings."
+    },
+    {
+      "duty": "Undertake ground-up work and work on roofs according to project requirements."
+    },
+    {
+      "duty": "Complete other assigned tasks related to carpentry and construction."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

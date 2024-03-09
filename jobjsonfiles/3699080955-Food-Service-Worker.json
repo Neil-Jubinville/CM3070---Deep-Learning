@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Food Service Worker",
+      "job_category": "Food Service",
+      "job_class": "Worker",
+      "sector": "Healthcare",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Language Proficiency",
+      "experience": 3
+    },
+    {
+      "skill": "Mathematical Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for patient food service on assigned units including menu selections, tray assembly, tray delivery and pick up, stocking patients\u2019 units where needed, and fulfilling special requests in-between meal food delivery."
+    },
+    {
+      "duty": "Maintains accurate and current information for each patient on their assigned unit."
+    },
+    {
+      "duty": "Takes patients menu selections prior to meal service while complying with dietary restrictions on special, modified diets to ensure optimal food preferences are met within guidelines of diet order limitations."
+    },
+    {
+      "duty": "Communicates any patient related problems/concerns to appropriate personnel in a timely manner following departmental procedures."
+    },
+    {
+      "duty": "Participates and attends departmental meetings and staff development programs, as appropriate."
+    },
+    {
+      "duty": "Performs other related duties as required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED"
+    }
+  ]
+}

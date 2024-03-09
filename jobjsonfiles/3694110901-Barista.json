@@ -1,0 +1,42 @@
+{
+  "meta": [
+    {
+      "job_title": "Barista",
+      "job_category": "Food and Beverage",
+      "job_class": "Entry-Level",
+      "sector": "Hospitality",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food and Beverage Preparation",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greet customers, answer questions, take orders, accept payments, and prepare and serve food and drinks."
+    },
+    {
+      "duty": "Maintain a clean and well-stocked workspace and continuously expand knowledge of food and beverage quality controls, preparation, methods, and presentation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or General Education Degree (GED)"
+    }
+  ]
+}

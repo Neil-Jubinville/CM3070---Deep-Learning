@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Welder",
+      "job_category": "Skilled Trade",
+      "job_class": "Welder",
+      "sector": "Manufacturing",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform welding and metal preparation tasks such as sanding and grinding configurations while assembling custom truck bodies."
+    },
+    {
+      "duty": "Use hand-welding, flame-cutting, hand soldering, or brazing equipment to weld or join metal components."
+    },
+    {
+      "duty": "Read and comprehend blueprints, process routings, and schematics for installation of various truck and body components."
+    },
+    {
+      "duty": "Provide quality and timely workmanship on each work order and maintain daily time standards."
+    },
+    {
+      "duty": "Follow established safety and quality procedures and be flexible to move from job to job to support the schedule."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Welding",
+      "experience": 3
+    },
+    {
+      "skill": "Metal Fabrication",
+      "experience": 3
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or GED required. Welding knowledge through experience or vocational school training. Ability to pass a preliminary weld test and ability to complete AWS D1.1 Code certification within 60 days after being placed in a welding position."
+    }
+  ]
+}

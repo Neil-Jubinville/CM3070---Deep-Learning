@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Automotive Service Technician",
+      "job_category": "Retail",
+      "job_class": "Technician",
+      "sector": "Automotive",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tire Service",
+      "experience": 1
+    },
+    {
+      "skill": "Car Service",
+      "experience": 1
+    },
+    {
+      "skill": "Automotive Repair",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Vehicle Inspection",
+      "experience": 1
+    },
+    {
+      "skill": "Warehouse Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 1
+    },
+    {
+      "skill": "Driving",
+      "experience": 1
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 1
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 1
+    },
+    {
+      "skill": "Service Center Cleaning",
+      "experience": 1
+    },
+    {
+      "skill": "Physical Strength",
+      "experience": 1
+    },
+    {
+      "skill": "Oil Changes",
+      "experience": 1
+    },
+    {
+      "skill": "Supply Inventory",
+      "experience": 1
+    },
+    {
+      "skill": "Facility Maintenance",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform tire service duties including tire repairs, balancing, and changing as per SOPs and policies"
+    },
+    {
+      "duty": "Perform car service duties such as lubrications, oil changes, and basic vehicle inspections following inspection and recommendations procedures"
+    },
+    {
+      "duty": "Unload and load heavy items from trucks, maintain service center cleanliness, and comply with safety policies"
+    },
+    {
+      "duty": "Drive vehicles for delivery and other non-sales purposes"
+    },
+    {
+      "duty": "Engage in store upkeep tasks such as cleaning, stock maintenance, and using cleaning supplies"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid automobile driver\u2019s license at all times"
+    }
+  ]
+}

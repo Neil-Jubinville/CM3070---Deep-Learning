@@ -1,0 +1,37 @@
+{
+  "meta": [
+    {
+      "job_title": "Developer/Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Salesforce",
+      "experience": 2
+    },
+    {
+      "skill": "Java",
+      "experience": 4
+    },
+    {
+      "skill": "Spring Boot",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain and improve Enterprise Service Integrations with Salesforce application"
+    },
+    {
+      "duty": "Learn and develop skills in Salesforce on the job"
+    },
+    {
+      "duty": "Work on Java/Spring Boot projects"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Intelligence Developer Lead",
+      "job_category": "Information Technology",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the design, development, and implementation of Business Intelligence solutions, including data pipelines, data models, and data visualizations."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to gather and analyze business requirements, translating them into effective technical solutions."
+    },
+    {
+      "duty": "Architect and optimize data warehousing strategies, ensuring efficient storage, retrieval, and transformation of data for reporting and analysis."
+    },
+    {
+      "duty": "Design and implement ETL processes, utilizing tools such as SSIS, to extract, transform, and load data from various sources into data warehouses."
+    },
+    {
+      "duty": "Develop and maintain Azure Pipelines to automate the deployment of BI solutions, ensuring a smooth and efficient deployment process."
+    },
+    {
+      "duty": "Utilize SSAS (SQL Server Analysis Services) to create and manage multidimensional and tabular data models for analytical purposes."
+    },
+    {
+      "duty": "Lead a team of BI Developers, providing mentorship, guidance, and technical leadership to ensure high-quality deliverables and continuous improvement."
+    },
+    {
+      "duty": "Collaborate with business stakeholders to understand their reporting and analytical needs, translating them into actionable insights through BI solutions."
+    },
+    {
+      "duty": "Perform data quality assessments and implement data cleansing and enrichment processes to maintain the integrity of the data warehouse."
+    },
+    {
+      "duty": "Stay up-to-date with industry trends and emerging technologies in the BI and data warehousing space, applying relevant advancements to enhance our BI capabilities."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Azure Pipeline Development",
+      "experience": 5
+    },
+    {
+      "skill": "SSAS (SQL Server Analysis Services)",
+      "experience": 5
+    },
+    {
+      "skill": "SSIS (SQL Server Integration Services)",
+      "experience": 5
+    },
+    {
+      "skill": "ETL Processes",
+      "experience": 5
+    },
+    {
+      "skill": "Data Warehousing",
+      "experience": 5
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 180,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Systems, or a related field. Master's degree preferred."
+    }
+  ]
+}

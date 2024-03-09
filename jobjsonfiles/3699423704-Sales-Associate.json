@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Establish and maintain rapport with key store individuals to provide outstanding customer service and maximize sales."
+    },
+    {
+      "duty": "Conduct effective planning & order-writing while supporting and completing activities such as merchandising displays."
+    },
+    {
+      "duty": "Participate in instore visits, ensuring leading brands are well represented, stocked, and maintained."
+    },
+    {
+      "duty": "Negotiate with store managers, communicate any issues, and work closely with sales representative to optimize product visibility."
+    },
+    {
+      "duty": "Enhance seasonal sales, seasonal displays, and new product launches."
+    },
+    {
+      "duty": "Work with Merchandisers to ensure inventory is fully stocked, rotated, and presentable at all times."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Sales Planning",
+      "experience": 2
+    },
+    {
+      "skill": "Merchandising",
+      "experience": 2
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 2
+    },
+    {
+      "skill": "Product Promotion",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 20,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED required. College degree preferred."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Security Analyst",
+      "job_category": "Cyber Security",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cyber Security",
+      "experience": 3
+    },
+    {
+      "skill": "SIEM (Splunk/Grey log)",
+      "experience": 3
+    },
+    {
+      "skill": "EDR (crowd strike/defender)",
+      "experience": 3
+    },
+    {
+      "skill": "OS querying",
+      "experience": 3
+    },
+    {
+      "skill": "Network Security (Windows/Linux)",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Environment",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Analyze and assess potential security threats and vulnerabilities to the organization's systems and networks."
+    },
+    {
+      "duty": "Implement and manage security tools such as SIEM and EDR to detect, respond, and mitigate security incidents."
+    },
+    {
+      "duty": "Conduct OS querying and network monitoring to identify and address security issues."
+    },
+    {
+      "duty": "Collaborate with IT teams to ensure security measures are integrated into the organization's infrastructure."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field (Certifications such as CISSP, CEH, or CompTIA Security+ are preferred)"
+    }
+  ]
+}

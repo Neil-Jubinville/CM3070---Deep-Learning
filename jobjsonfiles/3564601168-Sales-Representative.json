@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Lead Qualification",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "CRM Systems",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create and close new sales opportunities using a consultative approach."
+    },
+    {
+      "duty": "Identify and qualify leads, leading to sales opportunities with new and existing customers."
+    },
+    {
+      "duty": "Meet and exceed sales targets."
+    },
+    {
+      "duty": "Successfully create business from new and existing customer accounts."
+    },
+    {
+      "duty": "Manage complex negotiations with senior-level executives."
+    },
+    {
+      "duty": "Build rapport and establish long term relationships with customers."
+    }
+  ]
+}

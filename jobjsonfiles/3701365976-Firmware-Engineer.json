@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Firmware Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 175000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Firmware Development",
+      "experience": 10
+    },
+    {
+      "skill": "C/C++",
+      "experience": 10
+    },
+    {
+      "skill": "WiFi/Bluetooth Technologies",
+      "experience": 10
+    },
+    {
+      "skill": "Embedded RTOS",
+      "experience": 10
+    },
+    {
+      "skill": "RF and Wireless Protocols",
+      "experience": 10
+    },
+    {
+      "skill": "USB, UART, PCIe, SDIO, SPI, I2C, I2S",
+      "experience": 10
+    },
+    {
+      "skill": "Customer Support",
+      "experience": 10
+    },
+    {
+      "skill": "RTOS, ICE Debugger, Simulation Environment",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design firmware system to work closely with the underlying ASIC to provide the best performance and lowest power in the industry."
+    },
+    {
+      "duty": "Collaborate with audio algorithm development team to integrate various audio-related algorithms and design optimal audio products."
+    },
+    {
+      "duty": "Verify various HW blocks before chip tapeout and debug issues with the system, ASIC, SW, and FW team members."
+    },
+    {
+      "duty": "Work with tier 1 customers to understand their requests, design and deliver solutions to meet or exceed customer expectations."
+    },
+    {
+      "duty": "Investigate and develop acoustic system design for optimal performance for various customers."
+    },
+    {
+      "duty": "Support tier 1 customers, collaborate with teams, and possess excellent interpersonal, communication, and writing skills."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BSCS/BSEE or MSCS/MSEE degree with 12+ years of related experience (Ph.D. in related field is a plus)"
+    }
+  ]
+}

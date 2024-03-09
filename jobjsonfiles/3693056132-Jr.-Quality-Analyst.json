@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Jr. Quality Analyst",
+      "job_category": "Quality Assurance",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "QA Testing",
+      "experience": 5
+    },
+    {
+      "skill": "API Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Postman",
+      "experience": 5
+    },
+    {
+      "skill": "GraphQL",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "ETL Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "Azure DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "Integration Testing",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Participate as a QA member in an agile team, reviewing and clarifying requirements, creating and executing test plans/scripts/scenarios, and logging defects."
+    },
+    {
+      "duty": "Facilitate testing meetings, summarize results, issue/defect reporting, and maintain metrics."
+    },
+    {
+      "duty": "Generate and manage test data for short and long term application needs, and validate APIs for functionality and reliability."
+    },
+    {
+      "duty": "Develop and execute test cases for API testing, collaborating with the development team to understand API functionalities."
+    },
+    {
+      "duty": "Support team in Production deployment planning and validations, managing deployments into Test and UAT environments."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field (Master's preferred)"
+    }
+  ]
+}

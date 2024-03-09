@@ -1,0 +1,50 @@
+{
+  "meta": [
+    {
+      "job_title": "Junior Mechanical Engineer",
+      "job_category": "Mechanical Engineering",
+      "job_class": "Junior",
+      "sector": "Engineering",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analysis",
+      "experience": 1
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "experience": 1
+    },
+    {
+      "skill": "Microsoft Office Suite",
+      "experience": 1
+    },
+    {
+      "skill": "Sharepoint",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support and maintain parts, availability, and readiness for critical weapon systems."
+    },
+    {
+      "duty": "Conduct data analysis of 2D drawings to ensure no deficiencies or defaults."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Mechanical Engineering"
+    }
+  ]
+}

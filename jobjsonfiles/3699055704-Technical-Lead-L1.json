@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Lead L1",
+      "job_category": "Information Technology",
+      "job_class": "Technical Lead",
+      "sector": "Software Engineering",
+      "salary": 125000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "FE/BE testing - Cucumber",
+      "experience": 7
+    },
+    {
+      "skill": "Gherkin",
+      "experience": 7
+    },
+    {
+      "skill": "Selenium",
+      "experience": 7
+    },
+    {
+      "skill": "Postman",
+      "experience": 7
+    },
+    {
+      "skill": "Python",
+      "experience": 7
+    },
+    {
+      "skill": "Shell scripting",
+      "experience": 7
+    },
+    {
+      "skill": "Junit",
+      "experience": 7
+    },
+    {
+      "skill": "Cloud AWS",
+      "experience": 7
+    },
+    {
+      "skill": "AWS developer tools \u2013 CodeBuild",
+      "experience": 7
+    },
+    {
+      "skill": "CodeCommit",
+      "experience": 7
+    },
+    {
+      "skill": "Docker",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and execute comprehensive software testing strategies for front-end and back-end applications using industry-standard tools."
+    },
+    {
+      "duty": "Lead a team of testing specialists, fostering collaboration and guiding their efforts towards achieving set testing goals."
+    },
+    {
+      "duty": "Analyze testing trends, defects, and system performance to identify improvement opportunities and refine testing strategies."
+    },
+    {
+      "duty": "Manage cloud AWS services and developer tools for testing and deployment purposes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree or 3 years of experience in Information Technology"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Machine Learning",
+      "experience": 4
+    },
+    {
+      "skill": "Computer Vision",
+      "experience": 4
+    },
+    {
+      "skill": "API Development",
+      "experience": 4
+    },
+    {
+      "skill": "Cloud Application Development",
+      "experience": 4
+    },
+    {
+      "skill": "Golang",
+      "experience": 4
+    },
+    {
+      "skill": "Python",
+      "experience": 4
+    },
+    {
+      "skill": "C++",
+      "experience": 4
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 4
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 4
+    },
+    {
+      "skill": "IoT",
+      "experience": 3
+    },
+    {
+      "skill": "ML Models and Pipelines",
+      "experience": 3
+    },
+    {
+      "skill": "Enterprise Customer Engagement",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and implement applications using machine learning and computer vision models to find solutions for real world problems."
+    },
+    {
+      "duty": "Develop hybrid enterprise applications with solid API support."
+    },
+    {
+      "duty": "Work closely with customers and partners to simplify solutions."
+    },
+    {
+      "duty": "Build insights to help customers visualize and analyze the trend to further optimize their business."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 20,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, a related technical field involving software/systems engineering, or equivalent practical experience"
+    }
+  ]
+}

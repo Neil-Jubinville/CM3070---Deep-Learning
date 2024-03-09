@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Front End Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "React",
+      "experience": 4
+    },
+    {
+      "skill": "Typescript",
+      "experience": 3
+    },
+    {
+      "skill": "HTML",
+      "experience": 5
+    },
+    {
+      "skill": "CSS",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "User Interface Development",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 4
+    },
+    {
+      "skill": "Scrum",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop new and enhance existing web-based applications using cutting edge technology."
+    },
+    {
+      "duty": "Translate difficult business logic into readable and maintainable code."
+    },
+    {
+      "duty": "Collaborate with UX and engineering team members to solve complex user experience problems."
+    },
+    {
+      "duty": "Provide code, styles, and expertise of cutting edge web technologies in designs."
+    },
+    {
+      "duty": "Work in an Agile/Scrum environment to develop web-based responsive solutions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": []
+}

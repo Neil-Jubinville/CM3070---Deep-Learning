@@ -1,0 +1,45 @@
+{
+  "meta": [
+    {
+      "job_title": "Tester",
+      "job_category": "Testing",
+      "job_class": "Tester",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Manual Testing",
+      "experience": 3
+    },
+    {
+      "skill": "SNAP, TANF, or Medicaid Projects",
+      "experience": 3
+    },
+    {
+      "skill": "Public Sector, IES, or Welfare",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Building test cases, preparing test data, and completing test cases."
+    },
+    {
+      "duty": "Collaborating with internal teams and leadership."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 20,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

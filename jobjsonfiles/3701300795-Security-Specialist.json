@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Security Specialist",
+      "job_category": "Information Technology",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SSO Authentication",
+      "experience": 5
+    },
+    {
+      "skill": "Kerberos",
+      "experience": 5
+    },
+    {
+      "skill": "Ping Identity Products",
+      "experience": 5
+    },
+    {
+      "skill": "Radiant Logic Virtual Directory",
+      "experience": 5
+    },
+    {
+      "skill": "CA Siteminder",
+      "experience": 5
+    },
+    {
+      "skill": "LDAP Commands",
+      "experience": 5
+    },
+    {
+      "skill": "Security Product Troubleshooting",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Configure and deploy authentication services technologies such as SSO, Kerberos, and Federation using Ping Identity products, Radiant Logic Virtual Directory, and Broadcom (CA Siteminder, CA Directory server)."
+    },
+    {
+      "duty": "Maintain and troubleshoot security products including understanding and analyzing logs to resolve issues."
+    },
+    {
+      "duty": "Manage directory servers using command line and standard LDAP commands for data examination and maintenance."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

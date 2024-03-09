@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Director of Nursing",
+      "job_category": "Healthcare",
+      "job_class": "Director",
+      "sector": "Healthcare",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for clinical day-to-day operations of the multi-specialty Ambulatory Surgery Center."
+    },
+    {
+      "duty": "Oversees sterile processing area and clinical personnel management."
+    },
+    {
+      "duty": "Sets up policies and procedures for the surgery center and a Quality Improvement program."
+    },
+    {
+      "duty": "Manages accreditation knowledge and infection control experience."
+    },
+    {
+      "duty": "Ensures the smooth functioning of the Ambulatory Surgery Center."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Management",
+      "experience": 5
+    },
+    {
+      "skill": "Accreditation Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Policies and Procedures",
+      "experience": 5
+    },
+    {
+      "skill": "Sterile Processing",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Improvement",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Nursing (Master's preferred)"
+    },
+    {
+      "credential": "Previous Outpatient Surgery management experience"
+    }
+  ]
+}

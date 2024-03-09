@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Process",
+      "experience": 5
+    },
+    {
+      "skill": "Interdisciplinary Care Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Lifelong Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Professional Development",
+      "experience": 5
+    },
+    {
+      "skill": "Change Agent",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform nursing process according to the City of Hope's Professional Practice Model."
+    },
+    {
+      "duty": "Coordinate interdisciplinary care planning and documentation according to standards."
+    },
+    {
+      "duty": "Serve as a change agent committed to lifelong learning and professional development."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in nursing (Master's preferred)"
+    },
+    {
+      "credential": "Current California RN license"
+    },
+    {
+      "credential": "Current Basic Life Support (BLS) CPR Card through American Heart Association"
+    },
+    {
+      "credential": "ONS preferred (some departments will require)"
+    },
+    {
+      "credential": "ACLS/PALS - Some departments will require"
+    }
+  ]
+}

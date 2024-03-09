@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Manager",
+      "job_category": "Sales",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 125000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Strategy",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Pipeline Management",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Team Management",
+      "experience": 5
+    },
+    {
+      "skill": "Strategic Prospecting",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead an evangelistic and educational sales process, working closely with potential customers from initial contact to closing the account."
+    },
+    {
+      "duty": "Lead negotiations, build and deliver contracts autonomously."
+    },
+    {
+      "duty": "Manage complex sales engagements with multiple stakeholders in mid-market companies."
+    },
+    {
+      "duty": "Help shape the evolution of our sales philosophy, playbook, and processes."
+    },
+    {
+      "duty": "Manage inbound and outbound opportunity creation, generating your own pipeline through strategic prospecting, working the network, sourcing referrals, and maintaining relationships with lost opportunities."
+    },
+    {
+      "duty": "Deeply internalize and be able to articulate the problem we solve and how we drive value for our customers above and beyond any competitive solutions."
+    },
+    {
+      "duty": "Run excellent customer discovery to understand current methods and challenges and determine where our solution will add true value."
+    },
+    {
+      "duty": "Accurately forecast and manage pipeline by adopting sales process and methodology and maintaining the CRM."
+    },
+    {
+      "duty": "Collaborate with other team members to ensure a seamless customer experience and successful onboarding."
+    },
+    {
+      "duty": "Relay feedback and insights from prospect and customer conversations to cross-functional teams to ensure we center our roadmap and processes around customer needs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Sales, Business Administration, or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "RN Med Surg",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Wound Care",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Life Support",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Empathy",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide patient care for medical and surgical patients, including pre and post-operative care."
+    },
+    {
+      "duty": "Utilize critical thinking skills to assess, plan, implement, and evaluate patient care."
+    },
+    {
+      "duty": "Administer medications and treatments, and provide wound care as needed."
+    },
+    {
+      "duty": "Collaborate with multidisciplinary teams to ensure comprehensive patient care."
+    },
+    {
+      "duty": "Document patient information and treatment plans accurately and efficiently."
+    },
+    {
+      "duty": "Provide life support and emergency care as required."
+    },
+    {
+      "duty": "Communicate effectively with patients, families, and healthcare team members."
+    },
+    {
+      "duty": "Demonstrate empathy and compassion in patient interactions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (Master's preferred)"
+    }
+  ]
+}

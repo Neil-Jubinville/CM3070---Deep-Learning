@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Teacher",
+      "job_category": "Education",
+      "job_class": "Teacher",
+      "sector": "Education",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Child Care",
+      "experience": 3
+    },
+    {
+      "skill": "Observation",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Training",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    },
+    {
+      "skill": "Lesson Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Curriculum Development",
+      "experience": 3
+    },
+    {
+      "skill": "Early Childhood Education",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Follow all licensing guidelines and company standards to ensure the daily care of every child in your classroom."
+    },
+    {
+      "duty": "Develop your ability to accurately observe, assess, and plan for children, as well as effectively communicate with families."
+    },
+    {
+      "duty": "Complete extensive training that provides insight on child care, preschool, and development topics."
+    },
+    {
+      "duty": "Implement our proprietary curriculum while creating fun, interactive learning experiences for the children."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Experience in a licensed childcare center or related field."
+    },
+    {
+      "credential": "Ability to meet state requirements for education and our center requirements."
+    },
+    {
+      "credential": "Able to work indoors or outdoors and engage in physical activity with children."
+    },
+    {
+      "credential": "At least 18 years old."
+    }
+  ]
+}

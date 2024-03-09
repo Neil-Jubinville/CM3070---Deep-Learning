@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Phlebotomist",
+      "job_category": "Healthcare",
+      "job_class": "Specialist",
+      "sector": "Healthcare",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Phlebotomy",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 3
+    },
+    {
+      "skill": "Specimen Collection",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Information Management",
+      "experience": 2
+    },
+    {
+      "skill": "Billing Information Processing",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Administrative Duties",
+      "experience": 2
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform blood collections by venipuncture and capillary techniques for all age groups"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 75,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    },
+    {
+      "credential": "Phlebotomy certification from an accredited agency is preferred"
+    }
+  ]
+}

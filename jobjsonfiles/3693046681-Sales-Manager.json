@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Manager",
+      "job_category": "Sales",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee the Sales teams' operations and strategies."
+    },
+    {
+      "duty": "Develop and implement sales strategies."
+    },
+    {
+      "duty": "Prepare operational and financial sales department reports."
+    },
+    {
+      "duty": "Oversee the management, learning, and career development of the sales team."
+    },
+    {
+      "duty": "Directly coordinate cross-selling and joint marketing initiatives to maximize exposure and profitability."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Sales Strategy Development",
+      "experience": 5
+    },
+    {
+      "skill": "Market Research",
+      "experience": 5
+    },
+    {
+      "skill": "Operational and Financial Reporting",
+      "experience": 4
+    },
+    {
+      "skill": "Team Management",
+      "experience": 5
+    },
+    {
+      "skill": "Cross-selling and Joint Marketing",
+      "experience": 4
+    },
+    {
+      "skill": "Competitor Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Career Development",
+      "experience": 4
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent experience"
+    }
+  ]
+}

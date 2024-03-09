@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Representative",
+      "job_category": "Customer Service",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 2
+    },
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Answer telephone and written or Internet-based inquiries of a technical or complex nature from customers regarding company products."
+    },
+    {
+      "duty": "Analyze non-routine problems with nonfunctioning electro/mechanical equipment or software applications to identify problem areas and recommend corrective action."
+    },
+    {
+      "duty": "Maintain a log of problems for reporting to product development and handle problem resolution, including follow-up and escalation as needed."
+    },
+    {
+      "duty": "Adapt response and conduct extensive research according to customer needs and may orient, train, or check the work of other employees."
+    },
+    {
+      "duty": "Navigate multiple computer screens and programs while interacting with customers."
+    },
+    {
+      "duty": "Be available to work a flexible schedule including days, nights, weekends, and holidays."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED"
+    }
+  ]
+}

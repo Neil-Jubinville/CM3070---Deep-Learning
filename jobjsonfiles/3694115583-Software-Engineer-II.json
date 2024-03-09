@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer II",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Software Development",
+      "experience": 3
+    },
+    {
+      "skill": "Microservices Architecture",
+      "experience": 3
+    },
+    {
+      "skill": "RESTful API Design",
+      "experience": 3
+    },
+    {
+      "skill": "Cloud Technologies",
+      "experience": 3
+    },
+    {
+      "skill": "SQL",
+      "experience": 3
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 3
+    },
+    {
+      "skill": "AWS",
+      "experience": 3
+    },
+    {
+      "skill": "Jenkins",
+      "experience": 3
+    },
+    {
+      "skill": "Monitoring and Resilient Platforms",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and test software for scalability, reliability, and data recovery associated with a high-volume, high-availability platform."
+    },
+    {
+      "duty": "Collaborate with other internal teams to convert business requirements into technical solutions."
+    },
+    {
+      "duty": "Use Agile software techniques such as pair programming and test-driven development to maximize productivity and quality."
+    },
+    {
+      "duty": "Deploy new features into production with zero platform downtime and no impact to end customers."
+    },
+    {
+      "duty": "Build domain expertise in e-commerce payments and apply engineering expertise to develop new product features."
+    },
+    {
+      "duty": "Work in a team-focused culture, where strong collaboration and communication are critical."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "A Bachelor\u2019s degree in computer engineering, computer science or other related discipline or the equivalent combination of education, training, or work experience."
+    }
+  ]
+}

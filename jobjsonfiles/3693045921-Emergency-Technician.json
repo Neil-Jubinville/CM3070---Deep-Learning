@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Emergency Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Emergency Medical Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Emergency Services Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Life Support (BLS)",
+      "experience": 3
+    },
+    {
+      "skill": "Acute Care Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Trauma Care",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform basic emergency medical/trauma procedures and patient care to patients and families of all ages as directed, in accordance with physician orders, hospital policy, scope and standards of practice."
+    },
+    {
+      "duty": "Work 12-hour shifts in the emergency department, providing acute care and trauma support to patients."
+    },
+    {
+      "duty": "Collaborate with the nursing team and patient care providers to ensure efficient and effective patient care in alignment with hospital policy and standards of practice."
+    },
+    {
+      "duty": "Adhere to physician orders and hospital policy for the management of emergency cases and trauma situations."
+    },
+    {
+      "duty": "Assist in the execution of comprehensive emergency medical procedures to stabilize and manage patients in critical conditions."
+    },
+    {
+      "duty": "Comply with California state requirements for emergency medical technician licensure and certifications."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "California Emergency Medical Technician License, Advanced License, or Paramedic License"
+    }
+  ]
+}

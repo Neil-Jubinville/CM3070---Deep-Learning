@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Receptionist",
+      "job_category": "Administrative",
+      "job_class": "Entry-level",
+      "sector": "Healthcare",
+      "salary": 31000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greet clients and their pets and complete the appointment sign in process."
+    },
+    {
+      "duty": "Assist clients with check-out and handle money, process credit and debit cards, accept and record various forms of payment, and set future appointments."
+    },
+    {
+      "duty": "Answer phone calls from clients requesting appointments, asking questions about the hospital, and requesting medication refills."
+    },
+    {
+      "duty": "Make outbound phone calls to remind clients of upcoming appointments and set appointments for pets due for services."
+    },
+    {
+      "duty": "Understand common vaccination protocols, basic lab tests, common diseases, veterinary terminology, and pet behavior."
+    },
+    {
+      "duty": "Assist in the cleanliness and maintenance of the hospital to ensure a great client experience."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Appointment Scheduling",
+      "experience": 2
+    },
+    {
+      "skill": "Payment Processing",
+      "experience": 1
+    },
+    {
+      "skill": "Phone Etiquette",
+      "experience": 2
+    },
+    {
+      "skill": "Record Keeping",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Veterinary Knowledge",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 90
+    }
+  ]
+}

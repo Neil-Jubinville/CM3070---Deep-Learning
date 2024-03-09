@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Hydrogeologist",
+      "job_category": "Environmental Science",
+      "job_class": "Hydrogeologist",
+      "sector": "Engineering",
+      "salary": 70000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Geology",
+      "experience": 3
+    },
+    {
+      "skill": "Environmental Science",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "ArcGIS",
+      "experience": 2
+    },
+    {
+      "skill": "Lithologic Descriptions",
+      "experience": 2
+    },
+    {
+      "skill": "Field Hydrological Data Collection",
+      "experience": 2
+    },
+    {
+      "skill": "Groundwater Modeling Software",
+      "experience": 2
+    },
+    {
+      "skill": "Communications",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct routine data collection, synthesis, and analysis using approved procedures appropriate for their discipline."
+    },
+    {
+      "duty": "Assist in identifying technical issues and approaches for evaluation."
+    },
+    {
+      "duty": "Oversee investigation activities including drilling, well construction, field mapping, and environmental sampling of different media."
+    },
+    {
+      "duty": "Perform other routine fieldwork activities including lithologic descriptions, pump testing, and surface water measurements."
+    },
+    {
+      "duty": "Document project-related activities in the field and office using electronic and written documentation."
+    },
+    {
+      "duty": "Draft technical sections of project communications, work plans, and reports."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Geology (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Worker",
+      "job_category": "Logistics",
+      "job_class": "Warehouse Associate",
+      "sector": "Logistics",
+      "salary": 1730,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Warehouse Operations",
+      "experience": 3
+    },
+    {
+      "skill": "Material Handling",
+      "experience": 3
+    },
+    {
+      "skill": "RF Scanners",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Math",
+      "experience": 3
+    },
+    {
+      "skill": "Physical Endurance",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Pick, pack, and stage parts in the warehouse."
+    },
+    {
+      "duty": "Utilize handheld RF scanners to manage inventory."
+    },
+    {
+      "duty": "Move boxes throughout the distribution center."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or Equivalent"
+    }
+  ]
+}

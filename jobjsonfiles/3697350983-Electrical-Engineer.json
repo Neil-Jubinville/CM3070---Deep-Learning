@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Automation",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Product Troubleshooting",
+      "experience": 2
+    },
+    {
+      "skill": "Test Equipment Setup",
+      "experience": 2
+    },
+    {
+      "skill": "Documentation Review",
+      "experience": 2
+    },
+    {
+      "skill": "System Requirements Design",
+      "experience": 2
+    },
+    {
+      "skill": "Custom test processes",
+      "experience": 2
+    },
+    {
+      "skill": "Technical Support",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform product verification and validation"
+    },
+    {
+      "duty": "Troubleshoot and debug circuit boards"
+    },
+    {
+      "duty": "Set up test benches and test equipment"
+    },
+    {
+      "duty": "Integrate products and review documentation"
+    },
+    {
+      "duty": "Design system requirements and custom test processes"
+    },
+    {
+      "duty": "Provide technical support to customers"
+    },
+    {
+      "duty": "Adhere to US export control laws"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in Electrical Engineering, Computer Engineering or Automation Engineering"
+    }
+  ]
+}

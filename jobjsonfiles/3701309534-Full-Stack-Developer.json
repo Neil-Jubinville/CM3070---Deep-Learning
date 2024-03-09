@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Full Stack Developer",
+      "job_category": "Information Technology",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 105000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Full Stack Development",
+      "experience": 3
+    },
+    {
+      "skill": "Angular",
+      "experience": 3
+    },
+    {
+      "skill": "Java",
+      "experience": 3
+    },
+    {
+      "skill": "Spring Boot",
+      "experience": 3
+    },
+    {
+      "skill": "PostgreSQL",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Debugging",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Designing, developing, and implementing custom software and database applications."
+    },
+    {
+      "duty": "Collaborating with stakeholders and end users to gather requirements and ensure that the software meets their needs."
+    },
+    {
+      "duty": "Working within an Agile development team to deliver releasable software in short sprint cycles."
+    },
+    {
+      "duty": "Conducting code reviews and unit testing to ensure the quality of the software."
+    },
+    {
+      "duty": "Optimizing applications for maximum speed and scalability."
+    },
+    {
+      "duty": "Mentoring less experienced team members."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or a related field."
+    }
+  ]
+}

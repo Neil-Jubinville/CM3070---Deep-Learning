@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Associate",
+      "job_category": "General Labor",
+      "job_class": "Associate",
+      "sector": "Manufacturing",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Warehouse Management",
+      "experience": 2
+    },
+    {
+      "skill": "Shipping & Receiving",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Physical Ability",
+      "experience": 5
+    },
+    {
+      "skill": "Picking and Packing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for performing general warehouse duties based on Company and customer requirements"
+    },
+    {
+      "duty": "Accurately shipping and receiving Company products, both physically and through NetSuite"
+    },
+    {
+      "duty": "Performing tasks in both the Shipping & Receiving and Returns areas"
+    },
+    {
+      "duty": "Performing tasks in FedEx/UPS/USPS system"
+    },
+    {
+      "duty": "Assisting in conducting inventory cycle counts"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

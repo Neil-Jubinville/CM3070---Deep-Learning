@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Nurse Practitioner",
+      "job_category": "Healthcare",
+      "job_class": "Practitioner",
+      "sector": "Medical",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Home Health",
+      "experience": 5
+    },
+    {
+      "skill": "Geriatrics",
+      "experience": 5
+    },
+    {
+      "skill": "Hospice Care",
+      "experience": 5
+    },
+    {
+      "skill": "Primary Care",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "CPR/BLS Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Federal DEA License",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide patient-centered care in home health and primary care settings, with a focus on geriatrics and hospice care."
+    },
+    {
+      "duty": "Address patient needs with compassion and dedication, ensuring the highest quality of care."
+    },
+    {
+      "duty": "Maintain active licensing and certifications required for the role, including DEA license and CPR/BLS certification."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Licensed Nurse Practitioner (NP) in the State of practice, with geriatric training/experience preferred."
+    }
+  ]
+}

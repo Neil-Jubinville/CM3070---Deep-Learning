@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Automotive Service Technician",
+      "job_category": "Automotive",
+      "job_class": "Technician",
+      "sector": "Automotive",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Automotive Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Vehicle Diagnosis",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Tire Service",
+      "experience": 5
+    },
+    {
+      "skill": "Fluid Service",
+      "experience": 5
+    },
+    {
+      "skill": "Brake Service",
+      "experience": 5
+    },
+    {
+      "skill": "Oil Changes",
+      "experience": 5
+    },
+    {
+      "skill": "Alignment Service",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Services and repairs automotive systems, including brakes, electrical, engine performance, engine repair, heating/air conditioning, suspension/steering, transmissions, and axles."
+    },
+    {
+      "duty": "Performs customer and vehicle service, including road tests, inspections, mechanical diagnoses, and explaining needed repairs."
+    },
+    {
+      "duty": "Maintains service center standards of cleanliness and orderliness, reviews tool and equipment maintenance, and complies with safety policies."
+    },
+    {
+      "duty": "Performs tire deliveries, tire service, oil changes, alignments, and fluid services, while adhering to physical demands and environmental conditions."
+    },
+    {
+      "duty": "Meets minimum qualifications, including basic mechanical tasks, vocational-technical education, and valid driver's license with automotive repair experience."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid automobile driver\u2019s license and minimum 2 years of automotive repair experience, completion of Vocational-Technical School program in a related field, or demonstrated skills via third-party certificates/assessment. A.S.E. certification in at least one of A1-A8 is preferred."
+    }
+  ]
+}

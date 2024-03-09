@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Services Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Utilize foodservice safety and sanitation principles to prepare patient trays for all diets, delivery and pickup of trays, special requests and needs, in-between meal food delivery, and dish/pot washing."
+    },
+    {
+      "duty": "Communicate with nutrition supervisor, clinical nutrition coordinator, supervisor, and others on the healthcare team."
+    },
+    {
+      "duty": "Provide proper etiquette and excellent customer service for all age groups from infants to elderly and all customers."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Foodservice Safety",
+      "experience": 3
+    },
+    {
+      "skill": "Sanitation Principles",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Dishwashing",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree in Nutrition, Dietetics, or a related field"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Scientist",
+      "job_category": "Data Science",
+      "job_class": "Scientist",
+      "sector": "Software Engineering",
+      "salary": 180000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Statistics",
+      "experience": 5
+    },
+    {
+      "skill": "Data Science",
+      "experience": 5
+    },
+    {
+      "skill": "Mathematics",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Analytics",
+      "experience": 5
+    },
+    {
+      "skill": "Database Querying",
+      "experience": 5
+    },
+    {
+      "skill": "Statistical Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Product Development",
+      "experience": 5
+    },
+    {
+      "skill": "Engineering",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with stakeholders to identify and clarify business or product questions to answer."
+    },
+    {
+      "duty": "Provide feedback to translate and refine business questions into tractable analysis, evaluation metrics, or mathematical models."
+    },
+    {
+      "duty": "Use custom data infrastructure or existing data models as appropriate, using specialized knowledge."
+    },
+    {
+      "duty": "Design and evaluate models to mathematically express and solve defined problems with limited precedent."
+    },
+    {
+      "duty": "Gather, extract, and compile data across sources via relevant tools (e.g., SQL, R, Python)."
+    },
+    {
+      "duty": "Independently format, re-structure, and/or validate data to ensure quality, and review the dataset to ensure it is ready for analysis."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree in Statistics, Data Science, Mathematics, Physics, Economics, Operations Research, Engineering, or a related quantitative field."
+    }
+  ]
+}

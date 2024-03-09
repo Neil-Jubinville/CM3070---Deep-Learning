@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Online Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 80000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Expertise",
+      "experience": 5
+    },
+    {
+      "skill": "Client Acquisition",
+      "experience": 1
+    },
+    {
+      "skill": "Counseling Adults, Couples, and Teens",
+      "experience": 5
+    },
+    {
+      "skill": "Online Therapy",
+      "experience": 5
+    },
+    {
+      "skill": "Privacy and Confidentiality",
+      "experience": 5
+    },
+    {
+      "skill": "Technology Platform Security",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide counseling services to clients via online therapy platform."
+    },
+    {
+      "duty": "Focus solely on clinical work without the need to acquire clients or handle administrative tasks."
+    },
+    {
+      "duty": "Work with specific populations and presenting concerns."
+    },
+    {
+      "duty": "Utilize state-of-the-art technology for secure and encrypted communication."
+    },
+    {
+      "duty": "Maintain privacy and confidentiality for all client interactions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Fully licensed by a State Board to provide counseling independently (e.g., LCSW, LPC, LMFT, PsyD or similar credentials)"
+    },
+    {
+      "credential": "Professional liability insurance"
+    },
+    {
+      "credential": "Reliable Internet connection"
+    }
+  ]
+}

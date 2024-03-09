@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "Security Supervisor",
+      "job_category": "Security",
+      "job_class": "Supervisor",
+      "sector": "Public Safety",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensures effective and responsible operation of the assigned area."
+    },
+    {
+      "duty": "Enforces policies and procedures."
+    },
+    {
+      "duty": "Responds to patron, staff, and student complaints, incidents, emergencies, queries, and other related matters."
+    },
+    {
+      "duty": "Responsible for handling situations of potential unrest, e.g. theft suspect."
+    },
+    {
+      "duty": "Prepares accurate and detailed confidential incident reports."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Security Management",
+      "experience": 3
+    },
+    {
+      "skill": "Conflict Resolution",
+      "experience": 4
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 3
+    },
+    {
+      "skill": "Incident Reporting",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 170
+    }
+  ]
+}

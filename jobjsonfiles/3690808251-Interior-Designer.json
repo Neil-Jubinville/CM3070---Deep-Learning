@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Interior Designer",
+      "job_category": "Design",
+      "job_class": "Designer",
+      "sector": "Design",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Revit",
+      "experience": 5
+    },
+    {
+      "skill": "AutoCAD",
+      "experience": 3
+    },
+    {
+      "skill": "SketchUp",
+      "experience": 5
+    },
+    {
+      "skill": "Chief Architect",
+      "experience": 3
+    },
+    {
+      "skill": "Studio Designer",
+      "experience": 3
+    },
+    {
+      "skill": "Photoshop",
+      "experience": 5
+    },
+    {
+      "skill": "Pages",
+      "experience": 5
+    },
+    {
+      "skill": "Numbers",
+      "experience": 5
+    },
+    {
+      "skill": "Administrative Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Construction Knowledge",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage and oversee project from design concept to completion"
+    },
+    {
+      "duty": "Research and source materials, fixtures, furniture, treatments and accessories"
+    },
+    {
+      "duty": "Document day to day progress using Studio Designer"
+    },
+    {
+      "duty": "Research and maintain industry knowledge, changes, evolutions and best practices"
+    },
+    {
+      "duty": "Produce tear sheets, presentation books and interior samples and memos"
+    },
+    {
+      "duty": "Place and manage all design orders with vendors"
+    },
+    {
+      "duty": "Interpret and translate client ideas and expectations"
+    },
+    {
+      "duty": "Work up estimates for each project according to client\u2019s budget"
+    },
+    {
+      "duty": "Provide problem solving for all design aspects of each project"
+    },
+    {
+      "duty": "Foster and maintain a collaborative professional working relationship with design team"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in Interior Design (Bachelor's Degree required)"
+    }
+  ]
+}

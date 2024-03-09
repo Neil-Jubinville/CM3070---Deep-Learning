@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Construction",
+      "job_class": "Manager",
+      "sector": "Construction",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Architectural and Engineering Document Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "Project Budgeting",
+      "experience": 5
+    },
+    {
+      "skill": "Contract Negotiation",
+      "experience": 5
+    },
+    {
+      "skill": "Project Scheduling",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Understand and interpret architectural and engineering documents."
+    },
+    {
+      "duty": "Develop comprehensive project budgets and coordinate design documents and specifications with design professionals."
+    },
+    {
+      "duty": "Obtain the required government licenses, permits, and approvals necessary for projects."
+    },
+    {
+      "duty": "Prepare bid packages and negotiate contracts with subcontractors for each trade."
+    },
+    {
+      "duty": "Maintain project schedules, provide oversight, and manage and coordinate daily jobsite activities when required."
+    },
+    {
+      "duty": "Research and develop solutions to design document issues, review payment applications, and prepare invoicing documents to clients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Construction Management or related field (Master's preferred)"
+    }
+  ]
+}

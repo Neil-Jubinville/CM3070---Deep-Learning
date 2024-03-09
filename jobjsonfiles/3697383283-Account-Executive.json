@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Account Executive",
+      "job_category": "Sales",
+      "job_class": "Executive",
+      "sector": "Sales",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "B2B Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Client-Facing",
+      "experience": 5
+    },
+    {
+      "skill": "Office Proficiency",
+      "experience": 5
+    },
+    {
+      "skill": "CRM Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Sell Intelligent Communication Automation (ICA) software, Smart Mailing, and Shipping Solutions (MRS), and Intelligent Parcel Locker Solutions (PLS) to a large portfolio of current customers."
+    },
+    {
+      "duty": "Pursue leads via CRM database, discover new prospects through traditional and digital marketing, and work independently to boost the customer base in the assigned region."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business or related field"
+    }
+  ]
+}

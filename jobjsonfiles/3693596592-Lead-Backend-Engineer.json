@@ -1,0 +1,116 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Backend Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Lead",
+      "sector": "Software Engineering",
+      "salary": 160000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "JavaScript/TypeScript",
+      "experience": 5
+    },
+    {
+      "skill": "Node.js",
+      "experience": 5
+    },
+    {
+      "skill": "RESTful APIs",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices",
+      "experience": 5
+    },
+    {
+      "skill": "Service Oriented Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "AWS CDK",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "NoSQL",
+      "experience": 5
+    },
+    {
+      "skill": "Docker",
+      "experience": 5
+    },
+    {
+      "skill": "Testing Frameworks",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "GitHub Actions",
+      "experience": 5
+    },
+    {
+      "skill": "AWS CodePipeline",
+      "experience": 5
+    },
+    {
+      "skill": "Jenkins",
+      "experience": 5
+    },
+    {
+      "skill": "DataDog",
+      "experience": 5
+    },
+    {
+      "skill": "CloudWatch",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with cross-functional teams to understand business requirements and translate them into technical specifications."
+    },
+    {
+      "duty": "Design, develop, and implement scalable and efficient backend solutions using TypeScript."
+    },
+    {
+      "duty": "Support, improve, and optimize existing backend services."
+    },
+    {
+      "duty": "Write clean, maintainable, and testable code following best practices and coding standards."
+    },
+    {
+      "duty": "Conduct code reviews and provide constructive feedback to ensure code quality."
+    },
+    {
+      "duty": "Implement and maintain CI/CD pipelines for automated build, test, and deployment processes."
+    },
+    {
+      "duty": "Support and triage production incidents in real time."
+    },
+    {
+      "duty": "Improve team efficiency and productivity by advising on process improvement ideas."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 0,
+      "student_teacher": 255,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field"
+    }
+  ]
+}

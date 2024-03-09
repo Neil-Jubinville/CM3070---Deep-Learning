@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Manufacturing",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide clear project direction to internal teams and ensure exceptional client experiences from kickoff to completion."
+    },
+    {
+      "duty": "Understand client expectations and communicate them to the manufacturing team with clarity using APQP/Epicor tools."
+    },
+    {
+      "duty": "Gain internal commitment to client expectations and negotiate as needed to get the team on board with the plan."
+    },
+    {
+      "duty": "Coordinate multiple tasks and functions within the organization to achieve program goals."
+    },
+    {
+      "duty": "Problem solve during the project, including technical problems, and facilitate resolution by the team."
+    },
+    {
+      "duty": "Represent the customer and ensure that customer requirements are addressed, including setting quality objectives and related training."
+    },
+    {
+      "duty": "Maintain awareness of regulatory and customer requirements as they pertain to the company's clients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Project Management, or a related field (Master's preferred)"
+    }
+  ]
+}

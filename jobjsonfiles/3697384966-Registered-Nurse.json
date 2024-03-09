@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing",
+      "experience": 3
+    },
+    {
+      "skill": "Healthcare Administration",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Software Aptitude",
+      "experience": 1
+    },
+    {
+      "skill": "Communication",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and implement home health care plans for patients."
+    },
+    {
+      "duty": "Provide direct patient care and coordinate the activities of the nursing staff."
+    },
+    {
+      "duty": "Ensure compliance with all applicable laws, regulations, and standards of practice."
+    },
+    {
+      "duty": "Develop and maintain relationships with patients, families, and other healthcare providers."
+    },
+    {
+      "duty": "Provide education to patients and families on home health care topics."
+    },
+    {
+      "duty": "Assess patient's needs and develop a plan of care to meet those needs."
+    },
+    {
+      "duty": "Monitor patient progress and adjust plans as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Registered Nurse License in New Jersey"
+    }
+  ]
+}

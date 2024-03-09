@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Infrastructure Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 280000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Computer Science Fundamentals",
+      "experience": 5
+    },
+    {
+      "skill": "Data Structures and Algorithms",
+      "experience": 5
+    },
+    {
+      "skill": "Functional Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Object-Oriented Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting Languages",
+      "experience": 5
+    },
+    {
+      "skill": "Distributed Data Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Public Cloud Platforms",
+      "experience": 5
+    },
+    {
+      "skill": "Distributed Databases",
+      "experience": 5
+    },
+    {
+      "skill": "Containerization and Orchestration Technologies",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage petabytes of data for machine learning applications"
+    },
+    {
+      "duty": "Design and implement new frameworks for scalable and efficient data processing workflows and machine learning pipelines"
+    },
+    {
+      "duty": "Ensure complete data lineage and legal workflow integration while optimizing performance and scalability"
+    },
+    {
+      "duty": "Monitor the performance of the system, optimize it for cost and efficiency, and solve any issues that arise"
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to deliver high-quality software solutions"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS, MS, or PhD in Computer Science or equivalent"
+    }
+  ]
+}

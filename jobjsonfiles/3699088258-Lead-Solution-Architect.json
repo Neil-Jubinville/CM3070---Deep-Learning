@@ -1,0 +1,97 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Solution Architect",
+      "job_category": "Software Engineering",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Solution Planning",
+      "experience": 10
+    },
+    {
+      "skill": "DevOps",
+      "experience": 7
+    },
+    {
+      "skill": "C#",
+      "experience": 10
+    },
+    {
+      "skill": "SQL",
+      "experience": 10
+    },
+    {
+      "skill": "API Development",
+      "experience": 10
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 10
+    },
+    {
+      "skill": "HTML/CSS",
+      "experience": 10
+    },
+    {
+      "skill": "Azure or AWS",
+      "experience": 7
+    },
+    {
+      "skill": "Technical Design",
+      "experience": 10
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 10
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 10
+    },
+    {
+      "skill": "Communication",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead planning, definition, and high-level design of the solution architecture and exploration of alternative solutions."
+    },
+    {
+      "duty": "Partner with DevOps to drive the continuous exploration process as part of the continuous delivery pipeline."
+    },
+    {
+      "duty": "Define subsystems and their interfaces, allocate responsibilities to subsystems, understand solution deployment, and communication requirements."
+    },
+    {
+      "duty": "Establish nonfunctional requirements for the solution and participate in defining others."
+    },
+    {
+      "duty": "Support the Product Manager and RTE in program leadership, PI planning, pre and post-PI planning, system and solution demos, and I&A events."
+    },
+    {
+      "duty": "Plan and develop the architectural runway in support of new business features and capabilities."
+    },
+    {
+      "duty": "Serve as a technical resource for the development team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

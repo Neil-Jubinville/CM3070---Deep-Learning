@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Scientist",
+      "job_category": "Data Science",
+      "job_class": "Scientist",
+      "sector": "Software Engineering",
+      "salary": 180000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Analytics",
+      "experience": 8
+    },
+    {
+      "skill": "Python",
+      "experience": 8
+    },
+    {
+      "skill": "R",
+      "experience": 8
+    },
+    {
+      "skill": "SQL",
+      "experience": 8
+    },
+    {
+      "skill": "Statistical Analysis",
+      "experience": 8
+    },
+    {
+      "skill": "Data Infrastructure",
+      "experience": 8
+    },
+    {
+      "skill": "Mathematical Modeling",
+      "experience": 8
+    },
+    {
+      "skill": "Data Gathering",
+      "experience": 8
+    },
+    {
+      "skill": "Data Compilation",
+      "experience": 8
+    },
+    {
+      "skill": "Data Quality Assurance",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with stakeholders to identify and clarify business or product questions."
+    },
+    {
+      "duty": "Use custom data infrastructure or existing data models to design and evaluate mathematical models."
+    },
+    {
+      "duty": "Gather information, business goals, priorities, and organizational context surrounding questions to be answered."
+    },
+    {
+      "duty": "Own the process of gathering, extracting, and compiling data using relevant tools (e.g., SQL, R, Python)."
+    },
+    {
+      "duty": "Independently format, re-structure, and validate data to ensure quality, and review the dataset for analysis readiness."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree in Statistics, Data Science, Mathematics, Physics, Economics, Operations Research, Engineering, or a related quantitative field"
+    }
+  ]
+}

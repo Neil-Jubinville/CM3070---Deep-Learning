@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Test Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Test Procedure Execution",
+      "experience": 5
+    },
+    {
+      "skill": "Circuit Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Component Level Repair",
+      "experience": 5
+    },
+    {
+      "skill": "PCBA Rework",
+      "experience": 5
+    },
+    {
+      "skill": "Test Jig Design",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Execute test procedures and neatly document the results."
+    },
+    {
+      "duty": "Provide feedback to engineer on procedure issues."
+    },
+    {
+      "duty": "Troubleshoot circuit issues to the component level."
+    },
+    {
+      "duty": "Repair and rework SMT PCBA\u2019s."
+    },
+    {
+      "duty": "Design and construct various test jigs and fixtures."
+    },
+    {
+      "duty": "Communicate issues found during testing."
+    },
+    {
+      "duty": "Collaborate with electrical and mechanical engineers to achieve project and program goals."
+    },
+    {
+      "duty": "Meet program schedule and deliverable goals."
+    },
+    {
+      "duty": "Document activities and results."
+    }
+  ]
+}

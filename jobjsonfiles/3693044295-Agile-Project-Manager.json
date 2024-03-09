@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Agile Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Stakeholder Management",
+      "experience": 5
+    },
+    {
+      "skill": "Change Management",
+      "experience": 5
+    },
+    {
+      "skill": "Resource Allocation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead projects from initial conceptualization to ultimate execution, collaborating with internal teams and external clients."
+    },
+    {
+      "duty": "Define project scope and objectives while formulating comprehensive work plans, schedules, project estimates, and progress reports to attain set objectives."
+    },
+    {
+      "duty": "Establish and maintain project schedules for each endeavor by identifying and tracking elements such as overall project timeline, project milestones, tasks, resource allocations, estimated completion times (ETAs), task interdependencies, and critical paths."
+    },
+    {
+      "duty": "Govern the change control process, encompassing ownership of process-related documentation pertaining to the overarching workflow within the Business Unit."
+    },
+    {
+      "duty": "Supervise and monitor project performance, resource allocations, costs, and quality by continuously evaluating project advancement and conducting regular team status meetings."
+    },
+    {
+      "duty": "Be prepared for occasional requests to engage in off-hour work during emergency client incidents or critical business exigencies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Project Management, Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

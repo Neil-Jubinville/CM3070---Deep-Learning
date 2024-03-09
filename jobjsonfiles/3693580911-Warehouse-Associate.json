@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Associate",
+      "job_category": "Warehouse",
+      "job_class": "Associate",
+      "sector": "Warehouse",
+      "salary": 17500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Loading",
+      "experience": 1
+    },
+    {
+      "skill": "Unloading",
+      "experience": 1
+    },
+    {
+      "skill": "Package Sorting",
+      "experience": 1
+    },
+    {
+      "skill": "Shift Work",
+      "experience": 1
+    },
+    {
+      "skill": "Physical Stamina",
+      "experience": 1
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Loading and unloading packages of various sizes in a fast-paced warehouse environment."
+    },
+    {
+      "duty": "Sorting and organizing packages efficiently and accurately."
+    },
+    {
+      "duty": "Working one shift a day for part-time employees and two shifts for full-time employees."
+    },
+    {
+      "duty": "Adhering to shift lengths based on package volume."
+    },
+    {
+      "duty": "Being physically fit and able to work overtime when required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

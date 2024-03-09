@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 7
+    },
+    {
+      "skill": "Java 8",
+      "experience": 7
+    },
+    {
+      "skill": "Java 11",
+      "experience": 5
+    },
+    {
+      "skill": "Object-Oriented Design",
+      "experience": 7
+    },
+    {
+      "skill": "Spring Framework",
+      "experience": 7
+    },
+    {
+      "skill": "Hibernate",
+      "experience": 7
+    },
+    {
+      "skill": "Database Management",
+      "experience": 7
+    },
+    {
+      "skill": "CI/CD Pipeline",
+      "experience": 7
+    },
+    {
+      "skill": "Front-end Technologies",
+      "experience": 7
+    },
+    {
+      "skill": "Restful API",
+      "experience": 7
+    },
+    {
+      "skill": "Test Frameworks",
+      "experience": 7
+    },
+    {
+      "skill": "Bachelor's Degree in Computer Science",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Building and operating highly scalable software using cutting edge technologies for a variety of devices."
+    },
+    {
+      "duty": "Solving complex problems in the areas of distributed computing and high-volume transaction processing."
+    },
+    {
+      "duty": "Maintaining a test-driven mindset with a focus on unit and integration testing."
+    },
+    {
+      "duty": "Contributing to open source projects and participating in cross training opportunities."
+    },
+    {
+      "duty": "Mentoring and teaching, sharing experiences, best practices, and knowledge to elevate the team."
+    },
+    {
+      "duty": "Producing world-class products with skilled management of competing priorities and effective communication within a collaborative team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 150,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related discipline (Master's or PhD preferred)"
+    }
+  ]
+}

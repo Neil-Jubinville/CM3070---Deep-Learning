@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "RN",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provides direct patient care to adult and geriatric patient populations."
+    },
+    {
+      "duty": "Addresses the psychosocial, physical and general aspects of care related to the surgical environment."
+    },
+    {
+      "duty": "Communicates with physician continuously and as needed about patient condition."
+    },
+    {
+      "duty": "Assists with the maintenance of equipment and inventory."
+    },
+    {
+      "duty": "Assesses procedure room or equipment functioning and readiness."
+    },
+    {
+      "duty": "Obtains supplies for individual cases and ensures all appropriate needs of the Cardiovascular Laboratory team are met."
+    },
+    {
+      "duty": "Monitors physiologic and hemodynamic data, as related to diagnostic and/or therapeutic procedures performed in the cardiovascular lab."
+    },
+    {
+      "duty": "Monitors and records patients condition continuously while in the Cardiovascular lab."
+    },
+    {
+      "duty": "Participates in performance improvement and continuous quality improvement activities."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Surgical Environment Care",
+      "experience": 5
+    },
+    {
+      "skill": "Communication with Physicians",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Maintenance and Inventory",
+      "experience": 5
+    },
+    {
+      "skill": "Physiological Data Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Performance Improvement",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor Degree in Nursing (BSN) preferred.Active state Registered Nursing (RN) License required.Current BCLS (AHA), ACLS certificate upon hire and maintain current required.One (1) year clinical experience in a Cardiovascular Lab doing cardiac work or in a Critical Care area required."
+    }
+  ]
+}

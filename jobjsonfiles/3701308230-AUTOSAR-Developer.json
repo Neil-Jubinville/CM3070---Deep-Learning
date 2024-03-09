@@ -1,0 +1,135 @@
+{
+  "meta": [
+    {
+      "job_title": "AUTOSAR Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Development",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AUTOSAR Diagnostic modules (DCM, DEM, CanTP)",
+      "experience": 5
+    },
+    {
+      "skill": "AUTOSAR Communication modules (PDUR, Com, Can, CanTp, CanTrv, CanIF, CanM, NM, CanNM, CanFM, ComM)",
+      "experience": 5
+    },
+    {
+      "skill": "AUTOSAR Lifecycle modules (ECUM, BWSM)",
+      "experience": 5
+    },
+    {
+      "skill": "AUTOSAR Memory modules (NVM, FEE)",
+      "experience": 5
+    },
+    {
+      "skill": "SW configuration and development using AUTOSAR specific tool like: Davinci Configurator/ EB Tresos/ ISOLAR",
+      "experience": 5
+    },
+    {
+      "skill": "UDS protocol",
+      "experience": 5
+    },
+    {
+      "skill": "CAN/CAN FD or LIN protocol",
+      "experience": 5
+    },
+    {
+      "skill": "Development tools like DaVinci, CANAlyzer/CANoe, HIL",
+      "experience": 5
+    },
+    {
+      "skill": "CDD drivers for AUTOSAR application",
+      "experience": 5
+    },
+    {
+      "skill": "Requirement analysis, design, implementation, and testing of automotive SW",
+      "experience": 5
+    },
+    {
+      "skill": "AUTOSAR RTE configuration",
+      "experience": 5
+    },
+    {
+      "skill": "Memory programming (Memory Stack)",
+      "experience": 5
+    },
+    {
+      "skill": "Debugging and problem-solving skills",
+      "experience": 5
+    },
+    {
+      "skill": "Python/Perl/CAPL scripting",
+      "experience": 3
+    },
+    {
+      "skill": "Cyber Security configuration, integration, and COM-C Requirement Analysis, HSM framework, Key management, Key rotation, key provisioning frameworks",
+      "experience": 3
+    },
+    {
+      "skill": "Configuration management tool - GIT, SVN, Gerrit, DNG, RTC",
+      "experience": 3
+    },
+    {
+      "skill": "Change management tool like JIRA, Confluence, Jenkins",
+      "experience": 3
+    },
+    {
+      "skill": "Agile SW development methodologies",
+      "experience": 3
+    },
+    {
+      "skill": "MISRA C 2012 and its related tools",
+      "experience": 3
+    },
+    {
+      "skill": "Model based development",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop CDD drivers for AUTOSAR applications."
+    },
+    {
+      "duty": "Perform requirement analysis, design, implementation, and testing of automotive software."
+    },
+    {
+      "duty": "Configure AUTOSAR RTE and Memory Stack for automotive software."
+    },
+    {
+      "duty": "Utilize development tools such as DaVinci, CANAlyzer/CANoe, and HIL for SW development."
+    },
+    {
+      "duty": "Use Python, Perl, or CAPL scripting for Automotive software development."
+    },
+    {
+      "duty": "Implement Cyber Security configuration, integration, and COM-C Requirement Analysis, HSM framework, Key management, Key rotation, and key provisioning frameworks."
+    },
+    {
+      "duty": "Utilize configuration management tools like GIT, SVN, Gerrit, DNG, RTC, and change management tools like JIRA, Confluence, Jenkins."
+    },
+    {
+      "duty": "Follow Agile SW development methodologies and adhere to MISRA C 2012 standards and related tools."
+    },
+    {
+      "duty": "Employ Model-based development techniques for automotive software."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Engineering, Computer Science, or related field (Master's preferred)"
+    }
+  ]
+}

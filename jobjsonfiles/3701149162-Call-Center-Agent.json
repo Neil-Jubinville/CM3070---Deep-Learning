@@ -1,0 +1,43 @@
+{
+  "meta": [
+    {
+      "job_title": "Call Center Agent",
+      "job_category": "Customer Service",
+      "job_class": "Agent",
+      "sector": "Customer Service",
+      "salary": 30,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Answer incoming calls from customers and respond to their inquiries"
+    },
+    {
+      "duty": "Provide accurate information about our products and services to customers"
+    },
+    {
+      "duty": "Document all customer interactions and transactions in our system"
+    },
+    {
+      "duty": "Meet and exceed performance metrics, including call handling time and customer satisfaction"
+    },
+    {
+      "duty": "Collaborate with team members to achieve individual and team performance targets"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    }
+  ]
+}

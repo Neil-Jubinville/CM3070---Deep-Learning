@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Bioinformatics Analyst",
+      "job_category": "Bioinformatics",
+      "job_class": "Analyst",
+      "sector": "Genomic Medicine",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "R",
+      "experience": 5
+    },
+    {
+      "skill": "NGS Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 5
+    },
+    {
+      "skill": "HPC Clusters",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Computing",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Contribute to oncology discovery and clinical development through the analysis of high dimensional data from oncology clinical trials, real world evidence datasets, and biomarker strategy."
+    },
+    {
+      "duty": "Formulate scientific questions into coherent analytical efforts and develop rigorous statistical modeling and bioinformatics methods."
+    },
+    {
+      "duty": "Integrate large-scale multi-modal datasets to derive quantitative biological insights and communicate scientific findings to project teams."
+    },
+    {
+      "duty": "Play an integral role in a multi-disciplinary team focused on developing new therapies for the treatment of cancer."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "PhD. Degree in bioinformatics, computational biology, statistics, mathematics, computer science, genomics, cancer biology, immunology, or a related field."
+    },
+    {
+      "credential": "Master\u2019s degree with typically 2 years of experience."
+    },
+    {
+      "credential": "Bachelor\u2019s degree with typically 5 years of experience."
+    }
+  ]
+}

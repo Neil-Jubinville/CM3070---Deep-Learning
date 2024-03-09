@@ -1,0 +1,127 @@
+{
+  "meta": [
+    {
+      "job_title": "Principal Data Engineer",
+      "job_category": "Data Engineering",
+      "job_class": "Principal",
+      "sector": "Software Engineering",
+      "salary": 182500,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ETL and ELT Data Pipeline Design",
+      "experience": 8
+    },
+    {
+      "skill": "Data Warehouse Administration",
+      "experience": 8
+    },
+    {
+      "skill": "Python",
+      "experience": 8
+    },
+    {
+      "skill": "Airflow",
+      "experience": 8
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 8
+    },
+    {
+      "skill": "Cloud-Based Analytical Data Warehouses",
+      "experience": 8
+    },
+    {
+      "skill": "Team Leadership and Mentorship",
+      "experience": 8
+    },
+    {
+      "skill": "SQL",
+      "experience": 8
+    },
+    {
+      "skill": "Snowflake",
+      "experience": 8
+    },
+    {
+      "skill": "Documentation",
+      "experience": 8
+    },
+    {
+      "skill": "Data Build Tool (dbt)",
+      "experience": 8
+    },
+    {
+      "skill": "Data Architecture",
+      "experience": 8
+    },
+    {
+      "skill": "Git",
+      "experience": 8
+    },
+    {
+      "skill": "AWS",
+      "experience": 8
+    },
+    {
+      "skill": "CloudFormation",
+      "experience": 8
+    },
+    {
+      "skill": "Docker",
+      "experience": 8
+    },
+    {
+      "skill": "Docker Compose",
+      "experience": 8
+    },
+    {
+      "skill": "Digital Marketing",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build, maintain, and administer our Snowflake data warehouse using Data Build Tool (dbt)"
+    },
+    {
+      "duty": "Implement and maintain data pipelines between various operational systems and our data warehouse using Python, Airflow, and integration platforms"
+    },
+    {
+      "duty": "Create and maintain documentation of data architecture"
+    },
+    {
+      "duty": "Collaborate with internal and external stakeholders to ensure that data requirements are addressed"
+    },
+    {
+      "duty": "Mentor and lead other data engineering team members and participate in peer design and code reviews"
+    },
+    {
+      "duty": "Ship production-quality features independently"
+    },
+    {
+      "duty": "Work efficiently and productively in a remote-first work environment"
+    },
+    {
+      "duty": "Communicate and collaborate effectively, both verbally and in writing"
+    },
+    {
+      "duty": "Learn independently - keep up to date with developments in the field"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 130
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS Degree in computer science or related STEM field"
+    }
+  ]
+}

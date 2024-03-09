@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Pump Mechanic",
+      "job_category": "Maintenance",
+      "job_class": "Mechanic",
+      "sector": "Engineering",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Pump Inspection and Diagnosis",
+      "experience": 5
+    },
+    {
+      "skill": "Pump Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Pipe Fittings and Flanges",
+      "experience": 5
+    },
+    {
+      "skill": "Pipe and Hose Assembly",
+      "experience": 5
+    },
+    {
+      "skill": "Trailer Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Work Order Management",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Training",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform full inspection and diagnosis of pumps, pump ends, and electrical systems."
+    },
+    {
+      "duty": "Troubleshoot for priming and performance issues on Centrifugal Pump System."
+    },
+    {
+      "duty": "Diagnose and repair trailer issues, including trailer electrical, wheels, tires, and bearings."
+    },
+    {
+      "duty": "Identify pipe fittings and flanges, and demonstrate pipe and hose assembly methods for safe installation."
+    },
+    {
+      "duty": "Load, transport, and install pumps for customers, and inspect and test pumps using various methods."
+    },
+    {
+      "duty": "Travel to customer sites to troubleshoot, make repairs, and manage work orders."
+    },
+    {
+      "duty": "Assist in the training of lower-level mechanics, complete paperwork, and participate in on-call rotation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certification in Pump Mechanics or Mechanical Engineering (Degree in Mechanical Engineering preferred)"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Manager",
+      "job_category": "Data Management",
+      "job_class": "Manager",
+      "sector": "Information Technology",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Systems Management",
+      "experience": 5
+    },
+    {
+      "skill": "Database Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Data Quality Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Training and Development",
+      "experience": 5
+    },
+    {
+      "skill": "Data Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Reporting and Analysis",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Developing and managing data systems, forms, reports, and processes"
+    },
+    {
+      "duty": "Monitoring data completeness and quality"
+    },
+    {
+      "duty": "Training, supporting, and learning from staff"
+    },
+    {
+      "duty": "Integrating internal and external data systems"
+    },
+    {
+      "duty": "Working collaboratively with other MEL staff to complete other duties as assigned"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Information Technology, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

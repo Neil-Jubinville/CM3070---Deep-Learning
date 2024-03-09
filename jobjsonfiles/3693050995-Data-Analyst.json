@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Analyst",
+      "job_category": "Data Analysis",
+      "job_class": "Analyst",
+      "sector": "Banking",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "SAS",
+      "experience": 5
+    },
+    {
+      "skill": "Data Processing",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Data Governance",
+      "experience": 3
+    },
+    {
+      "skill": "Data Management",
+      "experience": 3
+    },
+    {
+      "skill": "Data Architecture",
+      "experience": 3
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 3
+    },
+    {
+      "skill": "Big Data",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Skills Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Research and build a detailed understanding of the problem and related data assets in order to code the data processing and analysis."
+    },
+    {
+      "duty": "Ensure that the data used follows the compliance, access management, and control policies of the company while meeting the data governance requirements of the business."
+    },
+    {
+      "duty": "Work with technical groups to support the collection, integration, and retention of the data sources."
+    },
+    {
+      "duty": "Apply data visualization and summarization techniques to the analytical results."
+    },
+    {
+      "duty": "Interpret and communicate the results in a manner that is understood by the business."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or master\u2019s degree in mathematics, Engineering, Computer Science, or equivalent work experience."
+    }
+  ]
+}

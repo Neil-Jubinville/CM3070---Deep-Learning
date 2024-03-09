@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Executive",
+      "job_category": "Sales",
+      "job_class": "Executive",
+      "sector": "Sales",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Strategy",
+      "experience": 5
+    },
+    {
+      "skill": "Relationship Building",
+      "experience": 5
+    },
+    {
+      "skill": "Prospecting",
+      "experience": 5
+    },
+    {
+      "skill": "Networking",
+      "experience": 5
+    },
+    {
+      "skill": "Business Development",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and execute comprehensive sales strategies to drive business growth and achieve revenue targets."
+    },
+    {
+      "duty": "Build and manage a network of high-value clients, nurturing relationships and identifying opportunities for collaboration."
+    },
+    {
+      "duty": "Prospect and identify potential leads, leveraging various channels and platforms to expand the client base."
+    },
+    {
+      "duty": "Engage in proactive networking, attending industry events and business functions to promote the company\u2019s services and secure new business relationships."
+    },
+    {
+      "duty": "Utilize CRM tools and platforms to track client interactions, manage leads, and ensure efficient communication and follow-up."
+    },
+    {
+      "duty": "Analyze sales performance data, identifying trends and insights to optimize sales strategies and achieve higher conversion rates."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Marketing, or a related field (Master's preferred)"
+    }
+  ]
+}

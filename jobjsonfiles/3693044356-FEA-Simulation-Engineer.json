@@ -1,0 +1,97 @@
+{
+  "meta": [
+    {
+      "job_title": "FEA Simulation Engineer",
+      "job_category": "Engineering",
+      "job_class": "Simulation Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide structural and physics-based modeling, simulation, and analysis."
+    },
+    {
+      "duty": "Perform implicit and explicit simulations such as static load and product drop."
+    },
+    {
+      "duty": "Utilize commercially available Finite Element Analysis and numerical modeling tools such as Abaqus, ANSYS Mechanical, LS-Dyna, Cosmos, Matlab, etc."
+    },
+    {
+      "duty": "Complete hand calculations and second-order simulations (e.g. statics, mechanics of materials, MATLAB, etc.)"
+    },
+    {
+      "duty": "Design, build, and test structural prototypes to validate analysis."
+    },
+    {
+      "duty": "Collaborate with cross-functional engineering teams to ensure simulations are realistic and aligned with design intent."
+    },
+    {
+      "duty": "Present results in a form actionable by cross-functional team members and leadership."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Structural Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Finite Element Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Numerical Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Abaqus",
+      "experience": 5
+    },
+    {
+      "skill": "ANSYS Mechanical",
+      "experience": 5
+    },
+    {
+      "skill": "LS-Dyna",
+      "experience": 5
+    },
+    {
+      "skill": "Cosmos",
+      "experience": 5
+    },
+    {
+      "skill": "Matlab",
+      "experience": 5
+    },
+    {
+      "skill": "Hand Calculations",
+      "experience": 5
+    },
+    {
+      "skill": "Prototyping",
+      "experience": 5
+    },
+    {
+      "skill": "Cross-functional Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Presentation",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's degree in Mechanical Engineering, Structural Engineering, or related field."
+    }
+  ]
+}

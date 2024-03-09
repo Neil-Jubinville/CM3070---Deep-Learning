@@ -1,0 +1,102 @@
+{
+  "meta": [
+    {
+      "job_title": "L3 Support Specialist",
+      "job_category": "Information Technology",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Secrets Management",
+      "experience": 4
+    },
+    {
+      "skill": "PAM Applications (CyberArk, HashiCorp Vault)",
+      "experience": 4
+    },
+    {
+      "skill": "Integration Support",
+      "experience": 4
+    },
+    {
+      "skill": "Onboarding",
+      "experience": 4
+    },
+    {
+      "skill": "Documentation",
+      "experience": 4
+    },
+    {
+      "skill": "Change Management",
+      "experience": 4
+    },
+    {
+      "skill": "Disaster Recovery",
+      "experience": 4
+    },
+    {
+      "skill": "Root Cause Analysis",
+      "experience": 4
+    },
+    {
+      "skill": "Customer Support",
+      "experience": 4
+    },
+    {
+      "skill": "Requirements Gathering",
+      "experience": 4
+    },
+    {
+      "skill": "SDKs and API Services",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide L3 support for secrets management/PAM applications like CyberArk, HashiCorp Vault."
+    },
+    {
+      "duty": "Collaborate with various internal and external teams to support the integration related issues reported by clients."
+    },
+    {
+      "duty": "Onboarding of business applications into the environment."
+    },
+    {
+      "duty": "Document the product, process, and work with L1/2 teams to support them with training and escalations."
+    },
+    {
+      "duty": "Perform DEV, UAT and PROD change and disaster recovery drill support."
+    },
+    {
+      "duty": "Be responsible to assess the risk and associated impact of all operational issues and change events and react quickly to escalate to technology management in a timely manner when required."
+    },
+    {
+      "duty": "Provide on-call support in rotation as required."
+    },
+    {
+      "duty": "Perform root cause analysis of reported issues/product bugs by collaborating with various internal teams and product vendor."
+    },
+    {
+      "duty": "Maintain L3 and customer facing knowledge based and continuously improve it to stay current and improve service experience."
+    },
+    {
+      "duty": "Gather requirements and provide walkthroughs to businesses on usage of various SDKs and API services available for integration with Secrets/Identity and Access Management applications."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

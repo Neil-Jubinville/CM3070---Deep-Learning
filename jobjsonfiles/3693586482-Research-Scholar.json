@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Research Scholar",
+      "job_category": "Research",
+      "job_class": "Scholar",
+      "sector": "Education",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Statistical Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Coding (R, Stata)",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    },
+    {
+      "skill": "Grant Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Academic Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Quasi-experimental Techniques",
+      "experience": 4
+    },
+    {
+      "skill": "Health Research",
+      "experience": 4
+    },
+    {
+      "skill": "Communication",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Carry out and supervise data analyses led by graduate students and postdoctoral fellows."
+    },
+    {
+      "duty": "Write manuscripts for publication in scientific journals."
+    },
+    {
+      "duty": "Mentor and advise junior researchers."
+    },
+    {
+      "duty": "Assist with and lead the writing of grant applications for research funding."
+    },
+    {
+      "duty": "Communicate with research funders and project administrative staff."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 140,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctoral degree with quantitative training or research experience."
+    },
+    {
+      "credential": "Training and experience in quasi-experimental techniques is a plus."
+    },
+    {
+      "credential": "A background in health-related research is a plus but not required."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 71000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Occupational Health Care",
+      "experience": 5
+    },
+    {
+      "skill": "Employee Wellness Training",
+      "experience": 5
+    },
+    {
+      "skill": "Compliance Management",
+      "experience": 5
+    },
+    {
+      "skill": "Health and Safety Regulations",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Program Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform occupational health care activities, including health and wellness training and education, employee health services, and compliance."
+    },
+    {
+      "duty": "Help determine what employees can do under restrictive duty, when they can return to work, and when to refer them to an outside medical provider."
+    },
+    {
+      "duty": "Develop, formulate, and implement plans of care based on standard order and medical directives."
+    },
+    {
+      "duty": "Treat, evaluate, and assess employee illness or injury and determine medical direction."
+    },
+    {
+      "duty": "Assist in designing and executing employee health and wellness programs using technical knowledge and training."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 20
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid Rhode Island RN License"
+    }
+  ]
+}

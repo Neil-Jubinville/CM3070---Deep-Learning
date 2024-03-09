@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Cyber Security Operator",
+      "job_category": "Information Technology",
+      "job_class": "Operator",
+      "sector": "Cyber Security",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SIEM Development",
+      "experience": 3
+    },
+    {
+      "skill": "SIEM Implementation",
+      "experience": 3
+    },
+    {
+      "skill": "Continuous Monitoring",
+      "experience": 3
+    },
+    {
+      "skill": "Security Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Cybersecurity Research",
+      "experience": 3
+    },
+    {
+      "skill": "SIEM Dashboards",
+      "experience": 3
+    },
+    {
+      "skill": "SIEM Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Tooling Integration",
+      "experience": 3
+    },
+    {
+      "skill": "Splunk Innovation",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop SIEM skills to move from entry-level to architect level skill status."
+    },
+    {
+      "duty": "Design, deploy, and configure SIEM solutions to meet a variety of client and NCSOC SIEM requirements."
+    },
+    {
+      "duty": "Develop and maintain SIEM dashboards, reports, and alerts to support Continuous Monitoring (ConMon) efforts to secure client infrastructure."
+    },
+    {
+      "duty": "Research possible SIEM solutions to enhance existing solutions or create new solutions."
+    },
+    {
+      "duty": "Conduct regular audits and assessments of SIEM infrastructure to ensure optimal performance, scalability, availability, and efficiency."
+    },
+    {
+      "duty": "Stay current with emerging cybersecurity threats and industry trends to ensure SIEM implementations are providing the best possible service levels and protection for clients."
+    },
+    {
+      "duty": "Troubleshoot and resolve issues related to SIEM implementation, data ingestion, and log management."
+    },
+    {
+      "duty": "Work closely with all CSOC teams to integrate tooling, data sources, develop connectors, and streamline data collection processes."
+    },
+    {
+      "duty": "Work with the Research and Development Team to innovate within the Splunk platform but also to look for new ways to integrate existing applications while building out future Splunk capability."
+    },
+    {
+      "duty": "Lead the collaborative effort of SIEM capacity building and general SIEM activity improvement."
+    },
+    {
+      "duty": "Integrate cybersecurity best practices into the organization."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science (BS) degree in Computer Science, Information Technology or related field (or equivalent years experience, certs a plus)"
+    }
+  ]
+}

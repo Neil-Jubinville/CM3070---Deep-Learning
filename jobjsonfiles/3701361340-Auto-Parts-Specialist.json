@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Auto Parts Specialist",
+      "job_category": "Automotive",
+      "job_class": "Reconditioning",
+      "sector": "Automotive",
+      "salary": 18,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Auto Parts Procurement",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Mechanical Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Interact with Service Technicians to coordinate parts for vehicle reconditioning."
+    },
+    {
+      "duty": "Order parts from suppliers based on Reconditioning Department and Technicians requests."
+    },
+    {
+      "duty": "Receive, unpack and store parts in appropriate storage areas for easy access."
+    },
+    {
+      "duty": "Take inventory and maintain records of parts received."
+    },
+    {
+      "duty": "Process parts warranties and returns as necessary."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60
+    },
+    {
+      "student_teacher": 50
+    },
+    {
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": []
+}

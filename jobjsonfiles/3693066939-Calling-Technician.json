@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Calling Technician",
+      "job_category": "Automotive",
+      "job_class": "Technician",
+      "sector": "Automotive",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Automotive Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Metal Finishing",
+      "experience": 5
+    },
+    {
+      "skill": "Fabrication",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform automotive repair and maintenance services on various vehicles."
+    },
+    {
+      "duty": "Utilize metal finishing techniques to restore and enhance vehicle exteriors."
+    },
+    {
+      "duty": "Fabricate and customize automotive components to meet specific requirements."
+    },
+    {
+      "duty": "Communicate effectively with team members and clients to ensure smooth operations."
+    },
+    {
+      "duty": "Collaborate with other technicians and bodywork professionals to achieve high-quality results."
+    },
+    {
+      "duty": "Ensure compliance with safety regulations and industry standards in all repair and restoration activities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent (Automotive certification preferred)"
+    }
+  ]
+}

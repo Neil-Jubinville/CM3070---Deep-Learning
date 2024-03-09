@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Team Member",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 15,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Salesmanship",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Retail Operations",
+      "experience": 2
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 2
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greet customers, run the register, cashier, make purchase suggestions, and sometimes work with the food program."
+    },
+    {
+      "duty": "Interact with many customers daily, provide fast and friendly service, and work with a fun, energetic team to accomplish daily goals."
+    },
+    {
+      "duty": "Selling products to customers and providing excellent customer care."
+    },
+    {
+      "duty": "Performing at a quick pace while having fun and working as part of a team."
+    },
+    {
+      "duty": "Coming up with great ideas to solve problems and thinking quickly to offer suggestions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 110,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or GED preferred."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Systems Engineer",
+      "job_category": "Systems Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 80000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Server Virtualization",
+      "experience": 5
+    },
+    {
+      "skill": "Splunk",
+      "experience": 5
+    },
+    {
+      "skill": "Linux",
+      "experience": 5
+    },
+    {
+      "skill": "IT Foundation",
+      "experience": 5
+    },
+    {
+      "skill": "Database Management",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Systems Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "Querying Databases",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the design and implementation of advanced technology solutions, such as server virtualization, active directory, and database systems, to drive innovation and progress."
+    },
+    {
+      "duty": "Maintain, optimize, and enhance the Splunk environment to ensure exceptional insights and analytics for the organization."
+    },
+    {
+      "duty": "Tackle escalated incidents and performance tuning requests, applying critical thinking skills to swiftly resolve issues and ensure seamless operations."
+    },
+    {
+      "duty": "Create and maintain meticulous documentation for services, solutions, and interfaces, fostering transparency and collaboration across teams."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in a related field (Master's preferred)"
+    }
+  ]
+}

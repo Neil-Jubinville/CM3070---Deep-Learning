@@ -1,0 +1,100 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Developer III",
+      "job_category": "Software Engineering",
+      "job_class": "III",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": ".NET Languages (C#, VB.NET, etc.)",
+      "experience": 4
+    },
+    {
+      "skill": "SQL Server Database Design",
+      "experience": 4
+    },
+    {
+      "skill": ".NET Core",
+      "experience": 4
+    },
+    {
+      "skill": "ASP.NET MVC",
+      "experience": 4
+    },
+    {
+      "skill": "Entity Framework",
+      "experience": 4
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Code Refactoring",
+      "experience": 4
+    },
+    {
+      "skill": "Web APIs",
+      "experience": 4
+    },
+    {
+      "skill": "Software Engineering Practices",
+      "experience": 4
+    },
+    {
+      "skill": "Business Judgment",
+      "experience": 4
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop intuitive software solutions that meet and exceed the company's needs."
+    },
+    {
+      "duty": "Work collaboratively in a team to design, develop, and maintain applications."
+    },
+    {
+      "duty": "Enhance the feature set of legacy systems based on evolving business needs."
+    },
+    {
+      "duty": "Review, analyze, and evaluate business systems and user requirements."
+    },
+    {
+      "duty": "Design and build relational databases, including tables, views, and stored procedures."
+    },
+    {
+      "duty": "Conduct thorough testing and debugging before formal launch."
+    },
+    {
+      "duty": "Stay updated on new technologies and be willing to learn and adapt as the organization grows."
+    },
+    {
+      "duty": "Limited travel will be required. Will travel to NJ office once every 3 months."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

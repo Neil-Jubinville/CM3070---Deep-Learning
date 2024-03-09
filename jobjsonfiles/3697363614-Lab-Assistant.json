@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Lab Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 37000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Phlebotomy",
+      "experience": 2
+    },
+    {
+      "skill": "Specimen Identification",
+      "experience": 2
+    },
+    {
+      "skill": "Client Service",
+      "experience": 2
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform venipuncture and capillary collections appropriate for the patient's age, professionally, and with minimal discomfort according to laboratory policy."
+    },
+    {
+      "duty": "Accurately distribute reports according to procedures at each site and review reports as directed by the site manager."
+    },
+    {
+      "duty": "Use the Laboratory Information system and other systems related to the management of patient orders and payment reconciliation. Includes patient registration, payment processing, laboratory order retrieval, and test ordering."
+    },
+    {
+      "duty": "Follow all laboratory procedures for proper patient identification and specimen labeling."
+    },
+    {
+      "duty": "Follow CAP, CLIA, and other accreditation and safety guidelines as described in their respective guidelines."
+    },
+    {
+      "duty": "Attend department meetings and complete training and education activities as assigned by the laboratory manager."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED (required). Phlebotomy skills required for lab assistants working in locations that perform specimen collection; previous work experience with phlebotomy or the successful completion of a phlebotomy training course is strongly preferred."
+    }
+  ]
+}

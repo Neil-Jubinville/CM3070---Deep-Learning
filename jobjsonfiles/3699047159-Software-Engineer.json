@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 4
+    },
+    {
+      "skill": "Hadoop",
+      "experience": 4
+    },
+    {
+      "skill": "Spark",
+      "experience": 4
+    },
+    {
+      "skill": "Google Cloud",
+      "experience": 4
+    },
+    {
+      "skill": "Postgres SQL",
+      "experience": 4
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 6
+    },
+    {
+      "skill": "Big Data",
+      "experience": 6
+    },
+    {
+      "skill": "Continuous Integration",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work hands-on with the team and other stakeholders to deliver quality software products that meet our customer\u2019s requirements and needs."
+    },
+    {
+      "duty": "Help business partners understand our iterative development approach and focus on delivering a Minimum Viable Product (MVP) through careful and deliberate prioritization."
+    },
+    {
+      "duty": "Grow technical capabilities / expertise and provide guidance to other members on the team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science or similar technical discipline (Master's preferred)"
+    },
+    {
+      "credential": "GCP certifications or other comparable cloud certifications"
+    }
+  ]
+}

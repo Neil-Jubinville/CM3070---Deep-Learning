@@ -1,0 +1,50 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Clinician",
+      "job_category": "Healthcare",
+      "job_class": "Clinician",
+      "sector": "Behavioral Healthcare",
+      "salary": 80000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Evaluation",
+      "experience": 2
+    },
+    {
+      "skill": "Telehealth Assessment",
+      "experience": 2
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing level of care assessments remotely in Washington State."
+    },
+    {
+      "duty": "Meeting company availability requirements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 90,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Licensed to practice independently in Washington State"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "meta": [
+    {
+      "job_title": "Nursing Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 36000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborates with a registered nurse on developing a patient's care plan."
+    },
+    {
+      "duty": "Develops and maintains competencies as delegated by a registered nurse."
+    },
+    {
+      "duty": "Maintains the safety of patients who have been identified at risk for preventable injury by the implementation of nursing safety interventions or the use of protective devices/equipment under the supervision of the registered nurse."
+    },
+    {
+      "duty": "Reports all patient activity to the registered nurse in a timely manner."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or GED required. 0-1 years related work experience required. Patient care experience strongly preferred through any of the following areas: CNA (or LNA), MA, ED Tech, EMT, PCT certificate or currently enrolled nursing student who has completed at least one clinical rotation."
+    }
+  ]
+}

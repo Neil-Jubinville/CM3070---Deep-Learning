@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Talend Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Talend Development",
+      "experience": 5
+    },
+    {
+      "skill": "ETL Development",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Database Management",
+      "experience": 5
+    },
+    {
+      "skill": "Data Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Understanding requirements, solution design, and ETL development"
+    },
+    {
+      "duty": "Analyze business requirement documents, Source to Target Mappings, and complex data models"
+    },
+    {
+      "duty": "End-to-end development and testing of Talend processes, including documenting technical data flows"
+    },
+    {
+      "duty": "Designing and developing transformation rules to support transaction databases"
+    },
+    {
+      "duty": "Working closely with business and others in systems team to design flexible, supportable, and extensible solutions"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Computer Science or related field required (years of relevant experience may be substituted)"
+    }
+  ]
+}

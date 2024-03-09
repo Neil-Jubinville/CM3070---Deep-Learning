@@ -1,0 +1,121 @@
+{
+  "meta": [
+    {
+      "job_title": "Java Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Lead",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java/J2EE",
+      "experience": 8
+    },
+    {
+      "skill": "Spring Framework",
+      "experience": 8
+    },
+    {
+      "skill": "Web Services (SOAP/REST)",
+      "experience": 8
+    },
+    {
+      "skill": "Spring Batch Framework",
+      "experience": 8
+    },
+    {
+      "skill": "Spring Boot",
+      "experience": 8
+    },
+    {
+      "skill": "Spring Microservices",
+      "experience": 8
+    },
+    {
+      "skill": "Hibernate",
+      "experience": 8
+    },
+    {
+      "skill": "ExtJS Framework",
+      "experience": 8
+    },
+    {
+      "skill": "JSP",
+      "experience": 8
+    },
+    {
+      "skill": "Java Scripts",
+      "experience": 8
+    },
+    {
+      "skill": "Mongo DB",
+      "experience": 8
+    },
+    {
+      "skill": "IBM DB2 & RDMS Concepts",
+      "experience": 8
+    },
+    {
+      "skill": "JUnit/ Unit Testing frameworks",
+      "experience": 8
+    },
+    {
+      "skill": "Drools Framework",
+      "experience": 5
+    },
+    {
+      "skill": "Angular JS Framework",
+      "experience": 5
+    },
+    {
+      "skill": "Bit Bucket",
+      "experience": 5
+    },
+    {
+      "skill": "Experience working in JIRA",
+      "experience": 5
+    },
+    {
+      "skill": "Experience working in AWS",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Interpret the application/feature/component design to develop the same in accordance with specifications."
+    },
+    {
+      "duty": "Code, debug, test, document, and communicate product/component/feature development stages."
+    },
+    {
+      "duty": "Validate results with user representatives; integrates and commission the overall solution."
+    },
+    {
+      "duty": "Select appropriate technical options for development such as reusing, improving, or reconfiguration of existing components or creating your own solutions."
+    },
+    {
+      "duty": "Optimize efficiency, cost, and quality."
+    },
+    {
+      "duty": "Influence and improve customer satisfaction."
+    },
+    {
+      "duty": "Other relevant essential functions may be required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

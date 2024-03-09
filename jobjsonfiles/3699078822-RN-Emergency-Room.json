@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "RN Emergency Room",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 67000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Emergency Care",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Triage",
+      "experience": 3
+    },
+    {
+      "skill": "Nursing Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Telephone Triage",
+      "experience": 3
+    },
+    {
+      "skill": "Emergency Severity Index",
+      "experience": 3
+    },
+    {
+      "skill": "Critical Care Management",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Triage, assess, and treat patients of all ages presenting for emergency care"
+    },
+    {
+      "duty": "Document pertinent nursing notes, administer medications, and respond to incoming telephone calls"
+    },
+    {
+      "duty": "Coordinate and triage incoming ambulance traffic and manage care with primary ED attending"
+    },
+    {
+      "duty": "Educate patients regarding their medications, procedure, and treatments, providing support throughout their stay"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate from an accredited school of Nursing: Associate's Degree in Nursing or higher is required, with a current Registered Nurse license and required certifications (BLS, ACLS, PALS)"
+    }
+  ]
+}

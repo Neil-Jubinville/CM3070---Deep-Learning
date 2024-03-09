@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Infectious Disease Physician",
+      "job_category": "Medical",
+      "job_class": "Physician",
+      "sector": "Healthcare",
+      "salary": 300000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Infectious Disease Management",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Diagnosis",
+      "experience": 5
+    },
+    {
+      "skill": "Treatment Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Hospital Consultations",
+      "experience": 5
+    },
+    {
+      "skill": "Internal Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "Academic Affiliation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Diagnose and manage infectious diseases in hospital and outpatient settings"
+    },
+    {
+      "duty": "Collaborate on treatment planning and patient care with other healthcare professionals"
+    },
+    {
+      "duty": "Participate in hospital consultations for infectious disease cases"
+    },
+    {
+      "duty": "Engage in academic affiliation activities, including mentoring residents and fellows"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Medicine (MD) or Doctor of Osteopathic Medicine (DO) degree"
+    },
+    {
+      "credential": "Board Certification in Internal Medicine and Infectious Disease"
+    }
+  ]
+}

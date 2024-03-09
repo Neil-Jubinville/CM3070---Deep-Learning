@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 210000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Data Structures/Algorithms",
+      "experience": 5
+    },
+    {
+      "skill": "Software Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Software Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Software Launching",
+      "experience": 3
+    },
+    {
+      "skill": "Software Design",
+      "experience": 1
+    },
+    {
+      "skill": "Architecture",
+      "experience": 1
+    },
+    {
+      "skill": "Technical Leadership",
+      "experience": 1
+    },
+    {
+      "skill": "Accessibility Development",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Write and test product or system development code."
+    },
+    {
+      "duty": "Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies."
+    },
+    {
+      "duty": "Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency)."
+    },
+    {
+      "duty": "Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback."
+    },
+    {
+      "duty": "Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree or equivalent practical experience in Computer Science or related technical field (Master's degree or PhD preferred)"
+    }
+  ]
+}

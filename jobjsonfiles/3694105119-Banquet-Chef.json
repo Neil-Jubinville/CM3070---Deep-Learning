@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Banquet Chef",
+      "job_category": "Culinary",
+      "job_class": "Chef",
+      "sector": "Hospitality",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food Preparation",
+      "experience": 5
+    },
+    {
+      "skill": "Culinary Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Menu Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Kitchen Management",
+      "experience": 5
+    },
+    {
+      "skill": "Catering",
+      "experience": 5
+    },
+    {
+      "skill": "Sanitation and Safety",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Menu planning, recipe development, and kitchen staff schedule management."
+    },
+    {
+      "duty": "Supervising food production for events of all sizes, including on-site and off-site catering."
+    },
+    {
+      "duty": "Ensuring kitchen sanitation, safety, and quality standards are met."
+    },
+    {
+      "duty": "Managing kitchen staff and fostering a collaborative team environment."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent qualification in culinary arts or related field is a plus"
+    }
+  ]
+}

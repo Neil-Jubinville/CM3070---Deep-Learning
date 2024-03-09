@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Store Manager",
+      "job_category": "Retail",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Retail Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Team Management",
+      "experience": 2
+    },
+    {
+      "skill": "Merchandising",
+      "experience": 2
+    },
+    {
+      "skill": "Leadership",
+      "experience": 4
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Visual Merchandising",
+      "experience": 3
+    },
+    {
+      "skill": "Coaching",
+      "experience": 3
+    },
+    {
+      "skill": "Business Degree",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and inspire a retail team to achieve sales goals and create a positive customer experience."
+    },
+    {
+      "duty": "Build and maintain strong relationships with customers to drive sales and repeat business."
+    },
+    {
+      "duty": "Implement merchandising and visual concepts to enhance the store's appeal and drive sales."
+    },
+    {
+      "duty": "Coach and develop retail team members to promote sales and internal career growth."
+    },
+    {
+      "duty": "Analyze reports and identify opportunities to make merchandising and presentation adjustments."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 80,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "College Degree in Business or a related degree"
+    }
+  ]
+}

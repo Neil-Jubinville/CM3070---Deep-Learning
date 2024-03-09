@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Doctor's Assistant",
+      "job_category": "Veterinary",
+      "job_class": "Administrative",
+      "sector": "Veterinary",
+      "salary": 20,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Computer Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Billing",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Veterinary Experience",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Creating estimates and documenting doctor conversations"
+    },
+    {
+      "duty": "Answering client questions and performing client follow-up calls"
+    },
+    {
+      "duty": "Creating prescription labels and handling prescription refills"
+    },
+    {
+      "duty": "Constant communication with doctors, technicians, and front office"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Experience in the veterinary field is required"
+    }
+  ]
+}

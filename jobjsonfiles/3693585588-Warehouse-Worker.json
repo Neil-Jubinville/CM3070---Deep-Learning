@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Worker",
+      "job_category": "Warehouse",
+      "job_class": "Worker",
+      "sector": "Warehouse",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Loading and Unloading",
+      "experience": 1
+    },
+    {
+      "skill": "Package Sorting",
+      "experience": 1
+    },
+    {
+      "skill": "Physical Stamina",
+      "experience": 1
+    },
+    {
+      "skill": "Time Management",
+      "experience": 1
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Loading, unloading, and sorting packages of various sizes in a fast-paced warehouse environment."
+    },
+    {
+      "duty": "Work one shift a day for part-time employees and two shifts for full-time employees."
+    },
+    {
+      "duty": "Maintain flexible scheduling to balance work and personal life."
+    },
+    {
+      "duty": "Expect varying shift lengths based on package volume."
+    },
+    {
+      "duty": "Overtime paid after 40 hours a week."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140
+    },
+    {
+      "student_teacher": 60
+    },
+    {
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": []
+}

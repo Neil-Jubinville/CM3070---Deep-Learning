@@ -1,0 +1,44 @@
+{
+  "meta": [
+    {
+      "job_title": "Fiscal Clerk",
+      "job_category": "Finance",
+      "job_class": "Clerk",
+      "sector": "Finance",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Excel",
+      "experience": 2
+    },
+    {
+      "skill": "Administrative Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Receive cash, process permits and renew licenses"
+    },
+    {
+      "duty": "Answer inquiries for the department via phone, in-person, and other"
+    },
+    {
+      "duty": "Maintain organized and up-to-date financial records, ensuring their accuracy and completeness."
+    },
+    {
+      "duty": "Assist the finance team with various tasks as needed, contributing to the overall efficiency of the department."
+    }
+  ]
+}

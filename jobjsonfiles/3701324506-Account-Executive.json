@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Account Executive",
+      "job_category": "Sales",
+      "job_class": "Executive",
+      "sector": "Sales",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Pipeline Management",
+      "experience": 2
+    },
+    {
+      "skill": "Lead Prospecting",
+      "experience": 2
+    },
+    {
+      "skill": "B2B Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    },
+    {
+      "skill": "Event Marketing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prospecting, Networking, and Lead Generation (80%)"
+    },
+    {
+      "duty": "Administrative Sales Support (20%)"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in Marketing, Business, or a related field"
+    }
+  ]
+}

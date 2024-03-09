@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "ETL Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 115000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ETL Activities",
+      "experience": 5
+    },
+    {
+      "skill": "ETL Architecture Design",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft SQL Server",
+      "experience": 10
+    },
+    {
+      "skill": "SQL Server Management Studio",
+      "experience": 10
+    },
+    {
+      "skill": "SQL Server Integration Services",
+      "experience": 10
+    },
+    {
+      "skill": "SQL Language",
+      "experience": 10
+    },
+    {
+      "skill": "Database Stored Procedures and Triggers",
+      "experience": 10
+    },
+    {
+      "skill": "Query Performance Tuning",
+      "experience": 10
+    },
+    {
+      "skill": "Visual Basic",
+      "experience": 10
+    },
+    {
+      "skill": "ProLaw and Elite 3E data transformation schema",
+      "experience": 5
+    },
+    {
+      "skill": "Professional Services Experience",
+      "experience": 5
+    },
+    {
+      "skill": "COMPTIA+ Certification",
+      "experience": 0
+    },
+    {
+      "skill": "Microsoft Certified",
+      "experience": 0
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing complex ETL activities in support of data migration for software implementations"
+    },
+    {
+      "duty": "Hands-on experience with ETL architecture design, ETL standards and processes, develop ETL mapping document between source and target data elements, etc."
+    },
+    {
+      "duty": "Professional experience using Microsoft SQL Server, SQL Server Management Studio, SQL Language, Database stored procedures and triggers, Query performance tuning, Visual Basic"
+    },
+    {
+      "duty": "Experience using ProLaw and/or Elite 3E data transformation schema"
+    },
+    {
+      "duty": "Experience working for or with professional services organizations (Law, Consulting, etc.)"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science in Computer Science, Mathematics, or Information Technology"
+    }
+  ]
+}

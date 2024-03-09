@@ -1,0 +1,127 @@
+{
+  "meta": [
+    {
+      "job_title": "UI Frontend Developer",
+      "job_category": "Software Development",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "JavaScript",
+      "experience": 4
+    },
+    {
+      "skill": "ES6",
+      "experience": 4
+    },
+    {
+      "skill": "HTML5",
+      "experience": 4
+    },
+    {
+      "skill": "CSS",
+      "experience": 4
+    },
+    {
+      "skill": "Ajax",
+      "experience": 4
+    },
+    {
+      "skill": "Jquery",
+      "experience": 4
+    },
+    {
+      "skill": "rest API integration",
+      "experience": 3
+    },
+    {
+      "skill": "Object Oriented Javascript",
+      "experience": 3
+    },
+    {
+      "skill": "prototyping inheritance in JS",
+      "experience": 3
+    },
+    {
+      "skill": "Vue.Js",
+      "experience": 3
+    },
+    {
+      "skill": "React Js",
+      "experience": 3
+    },
+    {
+      "skill": "Angular",
+      "experience": 3
+    },
+    {
+      "skill": "Typescript",
+      "experience": 3
+    },
+    {
+      "skill": "SCSS",
+      "experience": 3
+    },
+    {
+      "skill": "LESS",
+      "experience": 3
+    },
+    {
+      "skill": "ADA/UX",
+      "experience": 3
+    },
+    {
+      "skill": "Cross browser Issues",
+      "experience": 3
+    },
+    {
+      "skill": "Agile methodology",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain frontend architecture for web applications using JavaScript, ES6, HTML5, and CSS."
+    },
+    {
+      "duty": "Integrate frontend with rest APIs using Ajax and work with different JavaScript frameworks like Vue.js, React.js, and Angular."
+    },
+    {
+      "duty": "Write scalable and maintainable code using Typescript and CSS pre-processors like SCSS and LESS."
+    },
+    {
+      "duty": "Ensure ADA/UX compliance and address cross-browser compatibility issues for web applications."
+    },
+    {
+      "duty": "Work in an Agile environment, collaborate with the team, and communicate effectively to achieve project goals."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree or foreign equivalent in Information Technology or related field"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Internal Medicine Physician",
+      "job_category": "Medical",
+      "job_class": "Physician",
+      "sector": "Healthcare",
+      "salary": 250000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Supervision",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Board Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Practice Management",
+      "experience": 5
+    },
+    {
+      "skill": "CME Management",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Malpractice Coverage",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide compassionate and caring medical care to patients"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "M.D. or D.O. Degree, License in good standing in Iowa, Board Certified or Board Eligible"
+    }
+  ]
+}

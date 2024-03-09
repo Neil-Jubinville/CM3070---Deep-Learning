@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Restaurant General Manager",
+      "job_category": "Restaurant",
+      "job_class": "Manager",
+      "sector": "Hospitality",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Team Management",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Staff Development",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Food & Beverage Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage all functions of the restaurant, including guest relations, staffing, and food & beverage quality."
+    },
+    {
+      "duty": "Supervise and develop FOH/BOH staff, ensuring proper ambiance, housekeeping, and safety standards."
+    },
+    {
+      "duty": "Create and maintain SOPs to uphold standards and ensure the efficient and profitable performance of the restaurant."
+    },
+    {
+      "duty": "Direct all restaurant operations and ensure compliance with health, safety, and service standards."
+    },
+    {
+      "duty": "Plan and adjust staffing, scheduling, and financial goals for the restaurant's optimal performance."
+    },
+    {
+      "duty": "Address any unexpected problems or emergencies that may arise during the shift."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Hospitality Management or related field (Master's preferred)"
+    }
+  ]
+}

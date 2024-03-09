@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Fabricator",
+      "job_category": "Manufacturing",
+      "job_class": "Fabrication",
+      "sector": "Manufacturing",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Welding",
+      "experience": 5
+    },
+    {
+      "skill": "Fabrication",
+      "experience": 5
+    },
+    {
+      "skill": "Blueprint Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "MIG Welding",
+      "experience": 5
+    },
+    {
+      "skill": "TIG Welding",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Detail Orientation",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Read and interpret blueprints"
+    },
+    {
+      "duty": "Collaborate with designers and engineers"
+    },
+    {
+      "duty": "Improve overall production process"
+    },
+    {
+      "duty": "Fabricate and weld products using MIG and TIG methods"
+    },
+    {
+      "duty": "Read assembly instructions and finish products on time"
+    },
+    {
+      "duty": "Understand weld symbols and read tape measures"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": []
+}

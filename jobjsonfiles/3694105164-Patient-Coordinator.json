@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Coordinator",
+      "job_category": "Healthcare",
+      "job_class": "Coordinator",
+      "sector": "Healthcare",
+      "salary": 50000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Coordination",
+      "experience": 3
+    },
+    {
+      "skill": "Sales Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Bilingual (English/Spanish)",
+      "experience": 1
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Organization Skills",
+      "experience": 3
+    },
+    {
+      "skill": "EMR Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "HIPAA Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Bachelor's Degree",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responding to inquiries via phone call, SMS, online chat, email, and other communication channels."
+    },
+    {
+      "duty": "Maintaining accurate records in lead tracking, CRM, and other software systems."
+    },
+    {
+      "duty": "Scheduling appointments per the client's booking protocols and policies."
+    },
+    {
+      "duty": "Educating patients on different products and services, discussing fees, pricing, programs, etc."
+    },
+    {
+      "duty": "Providing cross-training and back-up support for other positions as required."
+    },
+    {
+      "duty": "Ensuring strict HIPAA compliance and maintaining patient confidentiality."
+    },
+    {
+      "duty": "Possibility of bilingual communication and assistance (English/Spanish)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree preferred, equivalent experience considered."
+    }
+  ]
+}

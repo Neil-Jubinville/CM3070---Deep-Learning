@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Nursing",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Judgement",
+      "experience": 5
+    },
+    {
+      "skill": "Wound Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 5
+    },
+    {
+      "skill": "CPR Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide comprehensive patient care, addressing physical, emotional, and spiritual needs."
+    },
+    {
+      "duty": "Manage a wide range of diagnoses and acute medical conditions in the emergency department."
+    },
+    {
+      "duty": "Maintain nursing ratios based on patient acuity, ensuring high-quality care for all patients."
+    },
+    {
+      "duty": "Participate in the Nurse Residency program for new graduates and mentorship of junior staff."
+    },
+    {
+      "duty": "Adhere to guiding behaviors, promoting a compassionate and transforming healing presence within the community."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 115,
+      "student_teacher": 90,
+      "introvert_extrovert": 95
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Nursing (BSN) or Associate Degree in Nursing (ADN)"
+    },
+    {
+      "credential": "BLS Provider certification accredited by the American Heart Association"
+    },
+    {
+      "credential": "Illinois Board of Nursing license"
+    }
+  ]
+}

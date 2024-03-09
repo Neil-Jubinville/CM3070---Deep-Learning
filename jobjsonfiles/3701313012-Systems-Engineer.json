@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Systems Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "System Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "VMware",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Azure/365",
+      "experience": 5
+    },
+    {
+      "skill": "SAN Methodologies",
+      "experience": 5
+    },
+    {
+      "skill": "VEEAM Backup Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft SCCM",
+      "experience": 3
+    },
+    {
+      "skill": "Active Directory",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Endpoint Manager Configuration Manager",
+      "experience": 3
+    },
+    {
+      "skill": "Dell Storage Solutions",
+      "experience": 3
+    },
+    {
+      "skill": "Pure Storage",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Continuous building out, maintaining, and troubleshooting rapidly expanding infrastructure including Office 365, Azure, VMware, Data backup Environment, Anti-virus, SAN environment, Email System, etc."
+    },
+    {
+      "duty": "Develop and maintain standard operating procedures (SOP) documents for System Architecture Solutions."
+    },
+    {
+      "duty": "Implement projects to meet TS goals and objectives. Provide reports and metrics to support operational requirements for performance analysis and growth planning."
+    },
+    {
+      "duty": "Manage implementation, configuration, and ongoing support of the System Architecture solutions. Establish Preventive Maintenance (PM) schedules and monitor their completion."
+    },
+    {
+      "duty": "Provide technical support and guidance to staff and contractors. Analyze and resolve enterprise system hardware and software problems for 24x7 support."
+    },
+    {
+      "duty": "Perform other similar and related duties as required or directed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.S. in Engineering, Electronics, Computer Science, or a closely related field OR High School Diploma with minimum 5 years of related experience working in an environment with specified technologies."
+    }
+  ]
+}

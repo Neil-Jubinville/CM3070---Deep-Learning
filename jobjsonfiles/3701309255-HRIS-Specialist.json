@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "HRIS Specialist",
+      "job_category": "Human Resources",
+      "job_class": "Specialist",
+      "sector": "Human Resources",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HRIS Implementation",
+      "experience": 5
+    },
+    {
+      "skill": "Data Management",
+      "experience": 5
+    },
+    {
+      "skill": "Process Improvement",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Support",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "HR Compliance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the implementation, configuration, and maintenance of the HRIS system to ensure it aligns with company needs and industry best practices."
+    },
+    {
+      "duty": "Perform data migration, data validation, and data cleansing to ensure accurate and consistent data within the HRIS system."
+    },
+    {
+      "duty": "Develop and maintain documentation, including process flows, procedures, and user guides, to ensure effective utilization of the HRIS system by HR and other stakeholders."
+    },
+    {
+      "duty": "Provide technical support to end-users, troubleshooting issues, and identifying opportunities for system enhancements or optimization."
+    },
+    {
+      "duty": "Collaborate with HR and IT teams to ensure data security, privacy, and compliance with relevant regulations (e.g. GDPR, CCPA) within the HRIS system."
+    },
+    {
+      "duty": "Identify and recommend process improvements and system enhancements to increase efficiency and effectiveness of HR processes."
+    },
+    {
+      "duty": "Assist in training HR staff and other end-users on HRIS system functionality and best practices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor degree in Human Resources, Information Systems, Business Administration, or a related field."
+    }
+  ]
+}

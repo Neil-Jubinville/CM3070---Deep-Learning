@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Physical Science Technician",
+      "job_category": "Science",
+      "job_class": "Technician",
+      "sector": "Science",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Laboratory Experiment Planning",
+      "experience": 1
+    },
+    {
+      "skill": "Material Purchasing",
+      "experience": 1
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "ARMA Request Oversight",
+      "experience": 1
+    },
+    {
+      "skill": "Physical Science",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist with planning laboratory experiments and/or projects in support of an organization's mission."
+    },
+    {
+      "duty": "Make credit card purchases concerning chemicals, gases, general lab supplies, lab maintenance and repair contracts."
+    },
+    {
+      "duty": "Conduct routine equipment maintenance and repairs; and/or coordinate external equipment repairs."
+    },
+    {
+      "duty": "Submit, monitor, and oversee ARMA requests for lab maintenance and repairs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 25,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Physical Science or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Full Stack Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Review and enhance DW ETL screens and restful API for data warehouse management."
+    },
+    {
+      "duty": "Enhance SPC screens and restful API for Automated Statistical Process Control management."
+    },
+    {
+      "duty": "Improve Newt screens and restful API for data entry system management."
+    },
+    {
+      "duty": "Create or modify UI screens for enhancing user functionality and experience."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Full Stack Development",
+      "experience": 10
+    },
+    {
+      "skill": "Front End Development",
+      "experience": 5
+    },
+    {
+      "skill": "Business Logic",
+      "experience": 5
+    },
+    {
+      "skill": "Data Access Interfaces",
+      "experience": 5
+    },
+    {
+      "skill": "Angular",
+      "experience": 5
+    },
+    {
+      "skill": "React",
+      "experience": 5
+    },
+    {
+      "skill": "Typescript",
+      "experience": 5
+    },
+    {
+      "skill": "Javascript",
+      "experience": 5
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer I",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python3",
+      "experience": 3
+    },
+    {
+      "skill": "Java",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 3
+    },
+    {
+      "skill": "Distributed Systems Architecture",
+      "experience": 3
+    },
+    {
+      "skill": "AWS (e.g. Lambda, DynamoDB)",
+      "experience": 3
+    },
+    {
+      "skill": "Snowflake",
+      "experience": 3
+    },
+    {
+      "skill": "SQL",
+      "experience": 3
+    },
+    {
+      "skill": "Terraform",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and ship software in a collaborative team environment."
+    },
+    {
+      "duty": "Build partnerships, iterate quickly in response to business needs, and communicate effectively."
+    },
+    {
+      "duty": "Occasionally lead projects from inception through deployment."
+    },
+    {
+      "duty": "Collaborate with the team to improve process through agile methodologies."
+    },
+    {
+      "duty": "Monitor and support live systems in a rotation with the rest of the team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

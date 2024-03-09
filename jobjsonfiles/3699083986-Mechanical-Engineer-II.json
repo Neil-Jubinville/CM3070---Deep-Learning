@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Mechanical Engineer II",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "R&D",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Engineering Change Control",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Root Cause Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Optical Systems",
+      "experience": 4
+    },
+    {
+      "skill": "Electrical Design",
+      "experience": 4
+    },
+    {
+      "skill": "CAD Modelling",
+      "experience": 4
+    },
+    {
+      "skill": "Manufacturability",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide technical responsibility for Sustaining Engineering (lifecycle management) activities and improvement of the R&D portfolio of products."
+    },
+    {
+      "duty": "Support existing product field issues through root cause analysis and continuous improvement."
+    },
+    {
+      "duty": "Drive projects through the change control process, ensuring completion of all activities within compliance."
+    },
+    {
+      "duty": "Manage and drive multiple projects in parallel, driving results to maintain the production line and customer satisfaction."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in Mechanical Engineering or equivalent combination of education and experience"
+    }
+  ]
+}

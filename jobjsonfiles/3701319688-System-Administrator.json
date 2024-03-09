@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "System Administrator",
+      "job_category": "Information Technology",
+      "job_class": "Administrator",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "System Administration",
+      "experience": 9
+    },
+    {
+      "skill": "Windows Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Linux Administration",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "Active Directory",
+      "experience": 5
+    },
+    {
+      "skill": "Security Management",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Change Control Management",
+      "experience": 5
+    },
+    {
+      "skill": "Virtualization (VMware)",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate and maintain all production, test, and development systems in Windows and Linux environments."
+    },
+    {
+      "duty": "Perform system administration activities including account management, monitoring/management of system resources, back-up/recovery, continuity of operations, security, managing operating systems, and storage management."
+    },
+    {
+      "duty": "Perform administrative functions in AWS and respond to ATO requirements."
+    },
+    {
+      "duty": "Install Operating Systems, upgrades/patches, and address security and information assurance requirements."
+    },
+    {
+      "duty": "Assist with creating and maintaining documentation to support the testing, installation, operations, and maintenance of data center equipment."
+    },
+    {
+      "duty": "Support basic Active Directory tasks including maintaining users and groups."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Information Technology, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

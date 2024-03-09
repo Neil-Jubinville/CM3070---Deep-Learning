@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Office Associate",
+      "job_category": "Healthcare",
+      "job_class": "Associate",
+      "sector": "Healthcare",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 0.5
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 0.5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 0.5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 0.5
+    },
+    {
+      "skill": "Office Equipment Operation",
+      "experience": 0.5
+    },
+    {
+      "skill": "Effective Communication",
+      "experience": 0.5
+    },
+    {
+      "skill": "Physical Stamina",
+      "experience": 0.5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensure accuracy of patient intake, registration, payments, and scheduling."
+    },
+    {
+      "duty": "Answer and screen telephone calls, scheduling appointments, entering patient charges, payments, and third-party billing information."
+    },
+    {
+      "duty": "Focus on patient registration, customer service, and optimizing patient flow."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent required"
+    }
+  ]
+}

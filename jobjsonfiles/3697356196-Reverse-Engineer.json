@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Reverse Engineer",
+      "job_category": "Cybersecurity",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Reverse Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Malware Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Network Data Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "Threat Intelligence Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Cyber Intrusion Tracking",
+      "experience": 5
+    },
+    {
+      "skill": "Windows OS Internals",
+      "experience": 5
+    },
+    {
+      "skill": "Botnet Tracking",
+      "experience": 5
+    },
+    {
+      "skill": "Big Game Hunting (BGH) Tracking",
+      "experience": 5
+    },
+    {
+      "skill": "Intelligence Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Network Security",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Discover, investigate, and track advanced cyber intrusion campaigns and document findings."
+    },
+    {
+      "duty": "Produce high-quality threat intelligence reporting for all levels of readership, including actionable mitigation and detection guidance."
+    },
+    {
+      "duty": "Develop tools to assist with automation of malware reverse engineering tasks and tracking of threat actors."
+    },
+    {
+      "duty": "Create host-based and network-based signatures suited for large-scale hunting, detection, and tracking of threats."
+    },
+    {
+      "duty": "Analyze market trends, customer behavior, and competitor activity to identify growth opportunities and refine strategies."
+    },
+    {
+      "duty": "Collaborate across teams to inform various functions within CrowdStrike Intelligence and beyond about activity of interest, to coordinate adversary and campaign tracking, and to provide support to teams developing mitigation strategies and responding to incidents."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BA/BS or equivalent experience in a related field"
+    }
+  ]
+}

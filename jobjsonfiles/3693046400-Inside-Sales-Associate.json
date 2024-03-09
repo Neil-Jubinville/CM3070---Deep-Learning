@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Inside Sales Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Upselling",
+      "experience": 3
+    },
+    {
+      "skill": "Order Processing",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Bilingual Skills (Spanish/English)",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist customers in determining their needs and recommend suitable products and solutions."
+    },
+    {
+      "duty": "Follow product/supply checklist for each customer's job and upsell additional products and supplies."
+    },
+    {
+      "duty": "Answer telephones, take sales orders, and process payments."
+    },
+    {
+      "duty": "Coordinate customer pick-ups with the warehouse and ensure timely delivery."
+    },
+    {
+      "duty": "Reorder products to maintain stock levels and address service concerns if they arise."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent (Bachelor's degree preferred)"
+    }
+  ]
+}

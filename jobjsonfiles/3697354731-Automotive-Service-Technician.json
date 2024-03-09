@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Automotive Service Technician",
+      "job_category": "Retail",
+      "job_class": "Technician",
+      "sector": "Automotive",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Automotive Repair",
+      "experience": 1
+    },
+    {
+      "skill": "Tire Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Vehicle Inspection",
+      "experience": 1
+    },
+    {
+      "skill": "Lubrication",
+      "experience": 1
+    },
+    {
+      "skill": "OSHA Safety Standards",
+      "experience": 1
+    },
+    {
+      "skill": "Driving",
+      "experience": 1
+    },
+    {
+      "skill": "Warehouse Management",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing tire service duties, including repairs, balancing, operating tire changers and handling air impact wrenches"
+    },
+    {
+      "duty": "Performing car service duties, such as lubrication, oil changes, basic vehicle inspections, and elemental mechanical tasks"
+    },
+    {
+      "duty": "Unloading and loading 20 to 100-pound items from trucks, maintaining service center standards of cleanliness, complying with company safety policy, and driving vehicles"
+    },
+    {
+      "duty": "Performing physical tasks related to tire service, oil changes, and miscellaneous duties"
+    },
+    {
+      "duty": "Working in varied work environments, including cold and hot conditions, and exposure to chemicals"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid automobile driver\u2019s license, and the ability to learn basic mechanical tasks"
+    }
+  ]
+}

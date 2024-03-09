@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Sous Chef",
+      "job_category": "Culinary",
+      "job_class": "Chef",
+      "sector": "Food and Beverage",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Culinary Arts",
+      "experience": 8
+    },
+    {
+      "skill": "Menu Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 8
+    },
+    {
+      "skill": "Kitchen Management",
+      "experience": 8
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee kitchen operations and ensure high quality food preparation and presentation."
+    },
+    {
+      "duty": "Create and plan menus, considering factors such as budget, dietary needs, and seasonal availability."
+    },
+    {
+      "duty": "Manage kitchen staff, including hiring, training, and scheduling."
+    },
+    {
+      "duty": "Monitor inventory and order supplies to maintain adequate stock levels."
+    },
+    {
+      "duty": "Maintain a clean and organized kitchen environment, adhering to safety and sanitation guidelines."
+    },
+    {
+      "duty": "Collaborate with restaurant management to ensure seamless food service and customer satisfaction."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Culinary Degree or Certification from a recognized culinary institution"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "meta": [
+    {
+      "job_title": "Java Tech Lead",
+      "job_category": "Software Engineering",
+      "job_class": "Tech Lead",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 12
+    },
+    {
+      "skill": "Azure",
+      "experience": 8
+    },
+    {
+      "skill": "AKS",
+      "experience": 8
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 8
+    },
+    {
+      "skill": "Deployment pipeline",
+      "experience": 8
+    },
+    {
+      "skill": "Object Oriented Programming",
+      "experience": 12
+    },
+    {
+      "skill": "Functional programming",
+      "experience": 12
+    },
+    {
+      "skill": "Design Patterns",
+      "experience": 12
+    },
+    {
+      "skill": "Chubb.IO Stack",
+      "experience": 10
+    },
+    {
+      "skill": "Kafka",
+      "experience": 10
+    },
+    {
+      "skill": "Apache Camel",
+      "experience": 10
+    },
+    {
+      "skill": "Camunda",
+      "experience": 10
+    },
+    {
+      "skill": "Spring Boot Java",
+      "experience": 10
+    },
+    {
+      "skill": "Drools",
+      "experience": 10
+    },
+    {
+      "skill": "Microservice Deployment",
+      "experience": 8
+    },
+    {
+      "skill": "Docker Containers",
+      "experience": 8
+    },
+    {
+      "skill": "Azure AKS",
+      "experience": 8
+    },
+    {
+      "skill": "Cloud Environments",
+      "experience": 8
+    },
+    {
+      "skill": "SpringBoot",
+      "experience": 8
+    },
+    {
+      "skill": "Apache Camel (Volante)",
+      "experience": 8
+    },
+    {
+      "skill": "Kafka Messaging Queues",
+      "experience": 8
+    },
+    {
+      "skill": "DBMS Technology",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and provide technical guidance in Java and related technologies"
+    },
+    {
+      "duty": "Develop and deploy microservice components to Kubernetes via Docker Containers, preferably using Azure AKS"
+    },
+    {
+      "duty": "Work in cloud environments, with a focus on Azure"
+    },
+    {
+      "duty": "Knowledgeable in building SpringBoot and Apache Camel (preferred) applications with Volante mapping"
+    },
+    {
+      "duty": "Experience in Kafka and Messaging Queues"
+    },
+    {
+      "duty": "Exposure to DBMS technology such as SQL / MongoDB (NoSQL)"
+    },
+    {
+      "duty": "Strong engineering focus on TDD/BDD, Unit Testing, SONARQube, CI-CD etc."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

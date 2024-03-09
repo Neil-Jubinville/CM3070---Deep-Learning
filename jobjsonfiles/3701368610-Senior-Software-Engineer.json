@@ -1,0 +1,123 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 190000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Web Development",
+      "experience": 5
+    },
+    {
+      "skill": "API Design",
+      "experience": 5
+    },
+    {
+      "skill": "NodeJS",
+      "experience": 5
+    },
+    {
+      "skill": "TypeScript",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Docker",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "GraphQL",
+      "experience": 5
+    },
+    {
+      "skill": "Apollo Federation",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Fast API",
+      "experience": 3
+    },
+    {
+      "skill": "Mobile Application Development",
+      "experience": 3
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead design and implementation of technical solutions for various initiatives, ensuring the system design meets scalability, performance, and security requirements."
+    },
+    {
+      "duty": "Collaborate with product designers, product managers, and other software engineers to deliver customer facing features with high quality."
+    },
+    {
+      "duty": "Investigate design approaches, prototype technology and evaluate technical feasibility."
+    },
+    {
+      "duty": "Make critical engineering decisions considering risks, trade offs, and alternative solutions."
+    },
+    {
+      "duty": "Drive continuous improvement in our software and development process within an agile development team."
+    },
+    {
+      "duty": "Write automated unit and integrations test as appropriate to support our continuous integration pipelines, with a focus on DevOps and robust automation."
+    },
+    {
+      "duty": "Spearhead investigations, production issues and bugs."
+    },
+    {
+      "duty": "Identify tech debt before it becomes an issue and work with team to prioritize it appropriately."
+    },
+    {
+      "duty": "Mentor other engineers and improve engineering processes to increase team effectiveness."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Software Engineering, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

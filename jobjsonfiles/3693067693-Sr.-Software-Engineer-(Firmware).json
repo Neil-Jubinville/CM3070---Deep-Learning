@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. Software Engineer (Firmware)",
+      "job_category": "Software Engineering",
+      "job_class": "Senior Engineer",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Linux",
+      "experience": 8
+    },
+    {
+      "skill": "C/C++",
+      "experience": 8
+    },
+    {
+      "skill": "Bootloader",
+      "experience": 8
+    },
+    {
+      "skill": "Device Driver Development",
+      "experience": 8
+    },
+    {
+      "skill": "ARM Processors",
+      "experience": 8
+    },
+    {
+      "skill": "Kernel Migration",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Code Linux on C/C++, Bootloader, and Device Driver Development."
+    },
+    {
+      "duty": "Familiarity with ARM processors and kernel migration."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

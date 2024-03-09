@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Practical Nurse (LPN)",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 30,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Licensed Practical Nursing",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "CPR Certification",
+      "experience": 2
+    },
+    {
+      "skill": "Healthcare Regulations",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Records Management",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Computer Knowledge",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provides nursing care to assigned residents/patients, following the care plan and adhering to the standards of care."
+    },
+    {
+      "duty": "Manages the environment to maintain resident/patient safety and supervises the resident/patient care activity performance by nursing assistants."
+    },
+    {
+      "duty": "Performs duties as defined by the State Nurse Practice Act and follows all center policies and procedures."
+    },
+    {
+      "duty": "Utilizes necessary supplies and equipment, calculates drug dosage, and meets all health requirements imposed by law."
+    },
+    {
+      "duty": "Relates positively, effectively, and appropriately with residents, families, community members, volunteers, and other center staff."
+    },
+    {
+      "duty": "Demonstrates basic computer knowledge and ability with an aptitude to learn company applications."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Licensed Practical Nurse (LPN) certification and current CPR certification"
+    }
+  ]
+}

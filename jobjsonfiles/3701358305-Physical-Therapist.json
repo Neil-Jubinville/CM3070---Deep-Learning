@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Physical Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Orthopedic Therapy",
+      "experience": 5
+    },
+    {
+      "skill": "Manual Therapy",
+      "experience": 5
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Foreign Language Proficiency",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide outpatient orthopedic therapy services with a focus on client/patient care."
+    },
+    {
+      "duty": "Utilize manual therapy skills to improve patient outcomes and experience."
+    },
+    {
+      "duty": "Maintain professional behavior and documentation standards in therapy sessions."
+    },
+    {
+      "duty": "Demonstrate a positive and caring attitude towards patients and co-workers."
+    },
+    {
+      "duty": "Utilize foreign language proficiency to enhance patient interaction and satisfaction."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Licensed Physical Therapist"
+    }
+  ]
+}

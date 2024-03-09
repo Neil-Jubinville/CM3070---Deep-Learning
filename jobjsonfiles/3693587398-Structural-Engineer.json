@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Structural Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Engineering",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Structural Analysis",
+      "experience": 6
+    },
+    {
+      "skill": "Design Engineering",
+      "experience": 6
+    },
+    {
+      "skill": "Construction Document Preparation",
+      "experience": 6
+    },
+    {
+      "skill": "Earthquake Assessment",
+      "experience": 6
+    },
+    {
+      "skill": "Structural Retrofitting",
+      "experience": 6
+    },
+    {
+      "skill": "Forensic Investigations",
+      "experience": 6
+    },
+    {
+      "skill": "SAP 2000",
+      "experience": 6
+    },
+    {
+      "skill": "RISA",
+      "experience": 6
+    },
+    {
+      "skill": "RAM",
+      "experience": 6
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct structural analysis and design for new building projects as well as retrofit of existing buildings."
+    },
+    {
+      "duty": "Prepare construction documents and assess earthquake, wind, and fire damage for repair projects."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "M.S. Degree in Structural Engineering"
+    },
+    {
+      "credential": "P.E. License"
+    },
+    {
+      "credential": "S.E. Certification"
+    }
+  ]
+}

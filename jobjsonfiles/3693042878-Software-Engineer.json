@@ -1,0 +1,102 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "React",
+      "experience": 3
+    },
+    {
+      "skill": "TypeScript",
+      "experience": 3
+    },
+    {
+      "skill": "Open-Source Projects",
+      "experience": 3
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 3
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Scalability",
+      "experience": 5
+    },
+    {
+      "skill": "Rapid Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Code Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Product Sense",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Design Principles",
+      "experience": 5
+    },
+    {
+      "skill": "Detail-Oriented",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement smaller fixes/features by writing well-tested and maintainable code within the first month of joining."
+    },
+    {
+      "duty": "Execute more complex changes and enhancements to the product within the first quarter."
+    },
+    {
+      "duty": "Take ownership of significant portions of the code base, ensuring its reliability and scalability within the first quarter."
+    },
+    {
+      "duty": "Actively source at least one engineering candidate for our hiring pipeline every month within the first quarter."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Computer Science degree, providing a solid foundation in software engineering principles."
+    },
+    {
+      "credential": "Prior experience working on complex tools or with Series A-C startups in chart or data visualization tools."
+    },
+    {
+      "credential": "Degree in Computer Science."
+    }
+  ]
+}

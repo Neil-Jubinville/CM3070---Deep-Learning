@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Cloud Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 135000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "Azure",
+      "experience": 5
+    },
+    {
+      "skill": "Google Cloud Platform",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Infrastructure Management",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting Languages",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "Red Hat Enterprise Linux (RHEL) Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Architect, design, and implement cloud-based solutions and infrastructure to support the company's digital transformation initiatives."
+    },
+    {
+      "duty": "Work closely with the Program Managers, Application development and DevOps teams to ensure efficient deployment and management of cloud resources, including continuous integration and continuous deployment (CI/CD) pipelines."
+    },
+    {
+      "duty": "Develop and maintain technical documentation for cloud architecture, infrastructure, and systems."
+    },
+    {
+      "duty": "Analyze current on-premises infrastructure and applications and develop strategies for migrating to the cloud."
+    },
+    {
+      "duty": "Design, implement, and manage highly available cloud infrastructure solutions to ensure seamless system performance and resilience."
+    },
+    {
+      "duty": "Implement cloud security best practices, including identity and access management, data encryption, and vulnerability management."
+    },
+    {
+      "duty": "Monitor and optimize the performance, cost, and scalability of cloud resources."
+    },
+    {
+      "duty": "Provide guidance and mentorship to other team members."
+    },
+    {
+      "duty": "Stay current with emerging cloud technologies and industry trends to drive innovation and continuous improvement."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to develop and implement new projects and initiatives."
+    },
+    {
+      "duty": "Troubleshoot and resolve complex technical issues related to cloud infrastructure and services."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 200,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field (Master's preferred)"
+    }
+  ]
+}

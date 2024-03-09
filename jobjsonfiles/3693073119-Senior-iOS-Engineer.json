@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior iOS Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior Engineer",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "iOS Development",
+      "experience": 8
+    },
+    {
+      "skill": "React Native Development",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 8
+    },
+    {
+      "skill": "Software Testing",
+      "experience": 7
+    },
+    {
+      "skill": "Mobile App Deployment",
+      "experience": 7
+    },
+    {
+      "skill": "Software Development Best Practices",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain iOS and React Native SDKs with a focus on reliability, performance, and binary size."
+    },
+    {
+      "duty": "Test and distribute iOS and React Native SDKs."
+    },
+    {
+      "duty": "Improve the testability of the SDKs."
+    },
+    {
+      "duty": "Streamline build and release processes."
+    },
+    {
+      "duty": "Enable local testing of Android/iOS SDKs on React Native."
+    },
+    {
+      "duty": "Build and deploy iOS SDK features."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or a related field"
+    }
+  ]
+}

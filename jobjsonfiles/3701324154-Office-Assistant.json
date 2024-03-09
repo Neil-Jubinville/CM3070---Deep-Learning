@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Office Assistant",
+      "job_category": "Administration",
+      "job_class": "Assistant",
+      "sector": "Administration",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist with administrative and clerical tasks"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "General Office Administration",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 2
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Self-Management",
+      "experience": 2
+    },
+    {
+      "skill": "Time Management",
+      "experience": 2
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 180,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

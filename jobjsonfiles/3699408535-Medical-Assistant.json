@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 54720,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Vital Signs Measurement",
+      "experience": 3
+    },
+    {
+      "skill": "Phlebotomy",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Records Management",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Assisting",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assisting physicians and nurses in providing patient care."
+    },
+    {
+      "duty": "Obtaining vital signs, weights, and EKGs when needed, and all other tests within the scope of the practice."
+    },
+    {
+      "duty": "Assisting with blood collection/phlebotomy as needed."
+    },
+    {
+      "duty": "Maintaining patient flow to and from exam rooms and treatment areas."
+    },
+    {
+      "duty": "Escorting patients and specimens throughout the facility."
+    },
+    {
+      "duty": "Ensuring chart is available, with relevant lab work and test reports if indicated, for the physician when the physician sees the patient."
+    },
+    {
+      "duty": "Stocking exam room/treatment rooms with medical supplies, linen, and designated chart forms."
+    },
+    {
+      "duty": "Cleaning and sterilizing designated equipment after use."
+    },
+    {
+      "duty": "Assisting with light housekeeping duties including spills."
+    },
+    {
+      "duty": "Completing patient charges as per policy."
+    },
+    {
+      "duty": "Assisting patient with obtaining food, toileting, ambulating, and maintaining comfort."
+    },
+    {
+      "duty": "Assisting physicians with procedures e.g. GI procedures, all medical exams."
+    },
+    {
+      "duty": "Answering telephone in treatment area and assisting staff in scheduling treatments."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent. Completion of a Medical Assistant Program from an accredited institution OR upon hire hold a current medical assistant Certification from a Nationally Recognized accredited institution (e.g. American Association of Medical Assistant (AAMA); American Medical Technologies (AMT); National Center for Competency Testing (NCCT); National Healthcare Association (NHA))"
+    }
+  ]
+}

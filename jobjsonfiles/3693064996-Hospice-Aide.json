@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Hospice Aide",
+      "job_category": "Healthcare",
+      "job_class": "Nursing",
+      "sector": "Medical",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Comfort Care",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Support",
+      "experience": 2
+    },
+    {
+      "skill": "Emotional Support",
+      "experience": 2
+    },
+    {
+      "skill": "Spiritual Care",
+      "experience": 2
+    },
+    {
+      "skill": "CPR Certification",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide comfort care to patients enabling them to remain at home with their loved ones"
+    },
+    {
+      "duty": "Work as a member of the hospice team to meet each patient\u2019s unique physical, emotional, and spiritual needs"
+    },
+    {
+      "duty": "Help patients approach their final days with joy, peace, and dignity"
+    },
+    {
+      "duty": "Enhance the quality of someone\u2019s life every day"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certified Nursing Assistant highly preferred."
+    },
+    {
+      "credential": "Current CPR certification required."
+    }
+  ]
+}

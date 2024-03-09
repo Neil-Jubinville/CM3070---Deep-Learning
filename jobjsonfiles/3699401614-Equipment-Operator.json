@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Equipment Operator",
+      "job_category": "Logistics",
+      "job_class": "Operator",
+      "sector": "Supply Chain",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "PIT Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "RF Scanner Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Warehouse Safety",
+      "experience": 2
+    },
+    {
+      "skill": "Order Picking",
+      "experience": 2
+    },
+    {
+      "skill": "Loading/Unloading",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Mathematical Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate powered industrial trucks (PIT) including standup forklifts, order selectors, reach trucks, powered pallet jacks, and dock stockers."
+    },
+    {
+      "duty": "Perform daily checks on equipment and follow all safety guidelines to ensure a safe working environment."
+    },
+    {
+      "duty": "Accurately pick/pack orders, restock picking bins, and sort, count, and receive merchandise."
+    },
+    {
+      "duty": "Safely move products to and from pallet racks, work with conveyors, and load/unload trucks."
+    },
+    {
+      "duty": "Organize warehouse storage space effectively and adhere to all safety, quality, and production standards."
+    },
+    {
+      "duty": "Use a scanner to direct work, handle and feel, and lift and move boxes, products, or equipment weighing up to 50 pounds."
+    },
+    {
+      "duty": "Demonstrate flexibility in daily task assignments and perform other general warehouse tasks as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED; 1-2 years of related experience as a certified equipment operator is ideal; knowledge of RF (radio frequency) scanners and basic computer skills are preferred."
+    }
+  ]
+}

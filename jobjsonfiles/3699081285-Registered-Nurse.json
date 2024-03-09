@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Theory and Practice",
+      "experience": 2
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Analytical Ability",
+      "experience": 2
+    },
+    {
+      "skill": "BLS Certification",
+      "experience": 2
+    },
+    {
+      "skill": "ACLS Certification",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Execute professional nursing care in accordance with physician treatment plans to provide for the comfort and well-being of patients and their families."
+    },
+    {
+      "duty": "Collect patient health data, perform initial assessments, record relevant data, and demonstrate awareness of special needs of each age group or culture served."
+    },
+    {
+      "duty": "Incorporate discharge planning into the admission process, identify expected outcomes individualized to the patient, and combine theoretical knowledge and clinical expertise to anticipate and plan for patient and family care needs."
+    },
+    {
+      "duty": "Develop a family-centered plan of care consistent with the patient's needs and the physician's treatment plan, integrating cultural, ethnic, and spiritual aspects of care and incorporating teaching and learning principles in the plan of care."
+    },
+    {
+      "duty": "Assist the patient and family in identifying and securing services to address health-related needs, communicate the plan of care, document the initial plan of care, and provide updates as required."
+    },
+    {
+      "duty": "Establish realistic goals, set appropriate priorities, and use time efficiently, implement the plan of care for each patient, and provide appropriate patient monitoring."
+    },
+    {
+      "duty": "Evaluate the patient's progress toward attainment of outcomes, document the patient's response to interventions and revisions to the plan of care, identify barriers to achieving desired patient/family outcomes, and communicate with and include the patient, family, and other healthcare providers in the evaluation process."
+    },
+    {
+      "duty": "Provide care that demonstrates ethical beliefs and respect for patient's rights, participate in the evaluation of the quality and effectiveness of nursing practices, and maintain effective interactions with the staff and other departments."
+    },
+    {
+      "duty": "Maintain knowledge base through participation in learning situations such as departmental meetings, educational programs, professional association membership, journal reviews, or committee participation, and comply with staff meeting attendance requirement."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Professional knowledge of nursing theory and practice acquired through completion of a two-year training at an accredited School of Nursing, Current New York State license or Permit as a Registered Professional Nurse, BLS certification and de-escalation training, ACLS (ICU, Float pool)."
+    }
+  ]
+}

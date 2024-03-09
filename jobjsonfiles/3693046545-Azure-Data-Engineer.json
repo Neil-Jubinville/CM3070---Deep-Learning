@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Azure Data Engineer",
+      "job_category": "Data Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "ETL",
+      "experience": 5
+    },
+    {
+      "skill": "Data Warehousing",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Data Factory",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Databricks",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Synapse Analytics",
+      "experience": 5
+    },
+    {
+      "skill": "Data Governance",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "Power BI",
+      "experience": 5
+    },
+    {
+      "skill": "Git",
+      "experience": 5
+    },
+    {
+      "skill": "Visual Studio",
+      "experience": 5
+    },
+    {
+      "skill": "Azure DevOps",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and implement data pipelines using Azure Data Factory to move data from various sources to Azure Data Lake Storage and Azure SQL Database."
+    },
+    {
+      "duty": "Create and maintain data models in Azure Synapse Analytics for reporting and analytics with Power BI."
+    },
+    {
+      "duty": "Work with data scientists and analysts to implement data solutions."
+    },
+    {
+      "duty": "Collaborate with the DevOps team to automate the deployment of data pipelines using Azure DevOps."
+    },
+    {
+      "duty": "Participate in data governance efforts to ensure data quality and compliance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in computer science, data science, or a related field"
+    }
+  ]
+}

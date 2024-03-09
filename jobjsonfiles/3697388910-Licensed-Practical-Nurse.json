@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Practical Nurse",
+      "job_category": "Nursing",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 48000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Expertise",
+      "experience": 5
+    },
+    {
+      "skill": "Record Management",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Management",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Regulations",
+      "experience": 5
+    },
+    {
+      "skill": "Referral Management",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Mission Participation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage efficient flow of patients including screening, preparation for exam, instructing patients on collection of any necessary samples/tests, and obtaining vitals"
+    },
+    {
+      "duty": "Notify patients of test results and follow-up appointments and instructs patients and families regarding medications and treatment instructions"
+    },
+    {
+      "duty": "Manage patient records including chart entries and posting lab/tests and examination results"
+    },
+    {
+      "duty": "Schedule tests and treatments including arranging referrals to a specialist and obtaining pre-authorizations when directed by the provider"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduation from an accredited school of practical nursing"
+    },
+    {
+      "credential": "Minimum of 2 years experience in a hospital or clinic setting is preferred"
+    },
+    {
+      "credential": "Must be licensed as a Licensed Practical Nurse in accordance with state regulations"
+    }
+  ]
+}

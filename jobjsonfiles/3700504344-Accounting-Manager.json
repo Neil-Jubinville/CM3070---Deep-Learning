@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Accounting Manager",
+      "job_category": "Accounting",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "General Ledger",
+      "experience": 7
+    },
+    {
+      "skill": "Management",
+      "experience": 7
+    },
+    {
+      "skill": "Asset Management",
+      "experience": 5
+    },
+    {
+      "skill": "Accounting Knowledge",
+      "experience": 7
+    },
+    {
+      "skill": "Microsoft Office Suite",
+      "experience": 7
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 7
+    },
+    {
+      "skill": "Strategic Thinking",
+      "experience": 7
+    },
+    {
+      "skill": "ERP Environment",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage and ensure compliance with all GAAP, FASB, and IRS rules and regulations."
+    },
+    {
+      "duty": "Manage routine accounting functions such as Accounts Payable, Accounts Receivable, and Revenue Recognition."
+    },
+    {
+      "duty": "Balance rental operating system, fleet operating system, and accounting system for month-end process."
+    },
+    {
+      "duty": "Ensure cash balances for multiple bank accounts and prepare and process monthly billing and payments for customers."
+    },
+    {
+      "duty": "Manage fleet inventory, sales of vehicles, collision/insurance claims, and OEMs incentive payments."
+    },
+    {
+      "duty": "Assist in audit support, tax compliance, and financial systems oversight."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in a business discipline (Accounting or Finance preferred)"
+    },
+    {
+      "credential": "Supervisory experience in a similar role."
+    },
+    {
+      "credential": "Asset Management experience a plus."
+    },
+    {
+      "credential": "Experience working in a large-scale ERP environment, preferably Intacct."
+    }
+  ]
+}

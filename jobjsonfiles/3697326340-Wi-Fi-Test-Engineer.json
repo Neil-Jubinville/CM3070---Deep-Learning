@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Wi-Fi Test Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Wi-Fi Standards and Protocols",
+      "experience": 5
+    },
+    {
+      "skill": "Networking",
+      "experience": 5
+    },
+    {
+      "skill": "Wireshark and Packet Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "RF Survey",
+      "experience": 5
+    },
+    {
+      "skill": "IP, DHCP, VLAN",
+      "experience": 5
+    },
+    {
+      "skill": "Packet Capture and Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Android and iOS Debugging",
+      "experience": 5
+    },
+    {
+      "skill": "Wi-Fi Performance Testing",
+      "experience": 5
+    },
+    {
+      "skill": "802.11 ac/ax Validation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Plan and execute tests for new Wi-Fi features and services."
+    },
+    {
+      "duty": "Capture and analyze packets using tools like Wireshark, Omnipeek, AirMagnet."
+    },
+    {
+      "duty": "Extract, analyze, and debug logs on Android and iOS."
+    },
+    {
+      "duty": "Baseline Wi-Fi performance under multiple environmental conditions."
+    },
+    {
+      "duty": "Conduct performance testing using Ixia, Spirent."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ]
+}

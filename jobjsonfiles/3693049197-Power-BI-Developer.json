@@ -1,0 +1,107 @@
+{
+  "meta": [
+    {
+      "job_title": "Power BI Developer",
+      "job_category": "Information Technology",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Power BI",
+      "experience": 7
+    },
+    {
+      "skill": "DAX Queries",
+      "experience": 7
+    },
+    {
+      "skill": "SSRS/PBRS",
+      "experience": 7
+    },
+    {
+      "skill": "Azure Data Factory",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Techniques",
+      "experience": 7
+    },
+    {
+      "skill": "Source Control Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 7
+    },
+    {
+      "skill": "Agile Environment",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "Jira",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Mindset",
+      "experience": 7
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 7
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create complex dashboards, visualization, and DAX queries in Power BI."
+    },
+    {
+      "duty": "Design and develop reporting solutions with SSRS/PBRS and other MSDN tools."
+    },
+    {
+      "duty": "Manage data modeling, visualizations, and analysis for existing and new reports."
+    },
+    {
+      "duty": "Develop data strategy for projects and onboard new trading partners and systems."
+    },
+    {
+      "duty": "Lead the development of report standards and best practices for repeatable tasks."
+    },
+    {
+      "duty": "Mentor analytics team on various data projects, process improvements, and technical innovations."
+    },
+    {
+      "duty": "Extract, filter, and aggregate data through logical SQL queries and programming."
+    },
+    {
+      "duty": "Deliver quality customer service and collaborate with end users to design effective solutions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in an IT or Computer Science discipline, or equivalent combination of education and experience."
+    },
+    {
+      "credential": "Certification in Power BI modeling, visualization and analyzing data (preferable)"
+    }
+  ]
+}

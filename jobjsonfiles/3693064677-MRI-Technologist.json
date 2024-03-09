@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "MRI Technologist",
+      "job_category": "Healthcare",
+      "job_class": "Technical",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "MRI Scanning",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "GE and Siemens Scanner Operation",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Standards Compliance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate a magnetic resonance scanner to obtain images for use by physicians in the diagnosis and treatment of patients of all age categories."
+    },
+    {
+      "duty": "Perform MRI examinations using GE equipment, while ensuring the highest standards of safety for patients."
+    },
+    {
+      "duty": "Properly store and maintain equipment, instruct patients on exams, and accurately log and document related information."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 180,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited/approved radiologic program with a certification in MR (ARRT). NY State License required and NY State DOH IV injection license preferred."
+    }
+  ]
+}

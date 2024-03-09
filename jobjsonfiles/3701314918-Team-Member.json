@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Team Member",
+      "job_category": "Retail",
+      "job_class": "Associate",
+      "sector": "Customer Service",
+      "salary": 20000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide support performing duties related to customer service, stocking, and sanitation in assigned department(s)."
+    },
+    {
+      "duty": "Perform opening, mid, and closing duties as assigned."
+    },
+    {
+      "duty": "Prepare, package, weigh, and price products for sale."
+    },
+    {
+      "duty": "Assist with periodic inventory checks."
+    },
+    {
+      "duty": "Maximize sales potential through effective and proper procedures for prepping, storing, rotating, stocking, and merchandising product."
+    },
+    {
+      "duty": "Maintain a clean and sanitary working and shopping environment; maintain equipment in accordance with Whole Foods Market cleanliness and safety standards."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "Product Packaging",
+      "experience": 1
+    },
+    {
+      "skill": "Sales Maximization",
+      "experience": 1
+    },
+    {
+      "skill": "Sanitation Procedures",
+      "experience": 1
+    },
+    {
+      "skill": "Merchandising",
+      "experience": 1
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "No prior retail experience required."
+    }
+  ]
+}

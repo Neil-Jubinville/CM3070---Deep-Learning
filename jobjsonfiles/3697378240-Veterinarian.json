@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinarian",
+      "job_category": "Healthcare",
+      "job_class": "Veterinarian",
+      "sector": "Healthcare",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Diagnostic Abilities",
+      "experience": 5
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Emotional Intelligence",
+      "experience": 5
+    },
+    {
+      "skill": "Internal Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "Surgical Expertise",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide excellent patient care and uphold high standards of diagnostic abilities and communication."
+    },
+    {
+      "duty": "Contribute dedicated efforts in internal medicine, emergency care, and surgical cases."
+    },
+    {
+      "duty": "Maintain a friendly and accommodating environment for clients and patients."
+    },
+    {
+      "duty": "Collaborate with the Thrive Pet Healthcare community and utilize emotional intelligence in the practice."
+    },
+    {
+      "duty": "Actively participate in professional development and utilization of industry-leading resources."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 100,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Veterinary Medicine (DVM/VMD) or equivalent degree required"
+    }
+  ]
+}

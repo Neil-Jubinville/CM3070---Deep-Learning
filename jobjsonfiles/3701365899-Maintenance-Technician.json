@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Manufacturing",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Schematics",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Mechanical Repairs",
+      "experience": 3
+    },
+    {
+      "skill": "Fabrication",
+      "experience": 2
+    },
+    {
+      "skill": "Welding",
+      "experience": 2
+    },
+    {
+      "skill": "Control System Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Predictive Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    },
+    {
+      "skill": "CPR/First Aid",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Read electrical schematics and hardwire prints, and troubleshoot electrical systems."
+    },
+    {
+      "duty": "Perform simple mechanical repairs and replacements on various systems and components."
+    },
+    {
+      "duty": "Fabricate to blueprint specifications and practice safe lifting and rigging techniques."
+    },
+    {
+      "duty": "Troubleshoot control systems (PLC's and CNC's) and repair stand-alone electronic equipment."
+    },
+    {
+      "duty": "Apply predictive maintenance techniques, perform preventative maintenance tasks, and identify repetitive failures for corrective actions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or Equivalent"
+    },
+    {
+      "credential": "Manufacturing maintenance experience (1-3 years)"
+    }
+  ]
+}

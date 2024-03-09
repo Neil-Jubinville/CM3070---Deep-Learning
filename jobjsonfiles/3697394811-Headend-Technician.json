@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Headend Technician",
+      "job_category": "Technology",
+      "job_class": "Technician",
+      "sector": "Technology",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "RF Technologies",
+      "experience": 4
+    },
+    {
+      "skill": "Network Implementation",
+      "experience": 4
+    },
+    {
+      "skill": "Fiber Optic Transmission",
+      "experience": 4
+    },
+    {
+      "skill": "RF and IP Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "HFC Design",
+      "experience": 5
+    },
+    {
+      "skill": "Video Networking",
+      "experience": 5
+    },
+    {
+      "skill": "IP and DOCSIS",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver high-quality off-air, satellite, microwave, and digital transport programming up to the outside plant."
+    },
+    {
+      "duty": "Install, maintain, and operate a variety of optical and electrical interfaces including coaxial cable, microwave, fiber optic transmission, CAT 6, etc."
+    },
+    {
+      "duty": "Conduct Headend (HE), Hubs, and facility Technical Quality Assurance (TQA) inspections and ensure compliance with standards."
+    },
+    {
+      "duty": "Troubleshoot communication architectures, topologies, hardware, software, transmission, and signaling links."
+    },
+    {
+      "duty": "Test equipment, perform testing of emergency alert systems, and maintain required documentation in compliance with technical requirements."
+    },
+    {
+      "duty": "Implement and document required PoP testing, maintain logs, records, and documentation in compliance with company and FCC technical requirements."
+    },
+    {
+      "duty": "Support and maintain protocol compatibility standards, develop and implement network enhancements, and work on network planning, configuration, and optimization."
+    },
+    {
+      "duty": "Work on projects/systems/issues surrounding network planning, configuration, and optimization."
+    },
+    {
+      "duty": "Support all efforts to simplify and enhance the customer experience and execute network problem resolution and proof of performance tests."
+    },
+    {
+      "duty": "Perform other duties as requested by manager."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 30,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science, Engineering or related field (or equivalent work experience)"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Tax Manager",
+      "job_category": "Accounting",
+      "job_class": "Manager",
+      "sector": "Finance",
+      "salary": 140000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Client Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Tax Return Management",
+      "experience": 5
+    },
+    {
+      "skill": "Mentorship",
+      "experience": 5
+    },
+    {
+      "skill": "Tax Research",
+      "experience": 5
+    },
+    {
+      "skill": "Staff Training",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain long-term quality client relationships"
+    },
+    {
+      "duty": "Review, prepare, and manage multiple tax returns"
+    },
+    {
+      "duty": "Mentor and train staff, seniors, and managers"
+    },
+    {
+      "duty": "Work directly with partners and staff to ensure efficiency, accuracy, and budget expectations"
+    },
+    {
+      "duty": "Research complex tax matters"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science in Accounting, Master of Science in Taxation (preferred)"
+    }
+  ]
+}

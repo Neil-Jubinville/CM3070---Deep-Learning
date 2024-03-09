@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Worker",
+      "job_category": "Warehouse",
+      "job_class": "Worker",
+      "sector": "Logistics",
+      "salary": 17,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Warehouse Duties",
+      "experience": 2
+    },
+    {
+      "skill": "Loading and Unloading",
+      "experience": 2
+    },
+    {
+      "skill": "Package Sorting",
+      "experience": 2
+    },
+    {
+      "skill": "Physical Fitness",
+      "experience": 2
+    },
+    {
+      "skill": "Time Management",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing fast-paced and physical warehouse work including loading, unloading, and sorting of packages of various sizes."
+    },
+    {
+      "duty": "Working one shift a day for part time employees and two shifts for full time employees, with shift lengths varying based on package volume."
+    },
+    {
+      "duty": "Adhering to safety procedures and regulations while working."
+    },
+    {
+      "duty": "Receiving competitive wages beginning at $17.00 per hour for both full and part time opportunities, with overtime paid after 40 hours a week."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Facilities",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Maintenance and Repair",
+      "experience": 6
+    },
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 4
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Complete all maintenance and repair tasks as directed by Facilities management"
+    },
+    {
+      "duty": "Monitor operation and proper use of all equipment and systems"
+    },
+    {
+      "duty": "Troubleshoot and repair issues in all areas of the venue"
+    },
+    {
+      "duty": "Answer and respond to maintenance calls for assistance"
+    },
+    {
+      "duty": "Monitor the use and inventory of spare parts, maintenance supplies, and equipment"
+    },
+    {
+      "duty": "Adhere to safety, health, and environmental policies and procedures"
+    },
+    {
+      "duty": "Communicate accurately and effectively with Guests and Associates"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 30,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    },
+    {
+      "credential": "Valid Driver\u2019s License"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Microsoft 365 Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft 365 Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "PowerShell Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Performance Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Network and Internet Concepts",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Administration, configuration, and troubleshooting of Microsoft 365 technologies including Exchange Online, SharePoint Online, Microsoft Teams, and OneDrive for Business."
+    },
+    {
+      "duty": "Scripting in PowerShell for administration and automation tasks related to Microsoft 365 and Exchange Online."
+    },
+    {
+      "duty": "Monitoring performance and troubleshooting mail flow."
+    },
+    {
+      "duty": "Understanding of network and internet concepts such as firewalls, load balancers, web browsers, TCP/IP, SSL, HTTP, etc."
+    },
+    {
+      "duty": "Identifying and resolving complex issues related to Microsoft 365 deployments and configurations."
+    },
+    {
+      "duty": "Staying updated with the latest trends, updates, and advancements in the Microsoft 365 ecosystem."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, Engineering, or a related field"
+    }
+  ]
+}

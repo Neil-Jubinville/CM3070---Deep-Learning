@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Supervisor",
+      "job_category": "Maintenance",
+      "job_class": "Supervisor",
+      "sector": "Industrial",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Industrial Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Management",
+      "experience": 5
+    },
+    {
+      "skill": "CMMS",
+      "experience": 5
+    },
+    {
+      "skill": "Wood Products Manufacturing",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensure a safe working environment and administer safety program policies and practices."
+    },
+    {
+      "duty": "Utilize a computerized maintenance management system (CMMS) for tracking work orders, spare parts, and maintenance history of plant equipment."
+    },
+    {
+      "duty": "Make recommendations for improving plant equipment reliability and solving maintenance-related problems."
+    },
+    {
+      "duty": "Assist with hiring, scheduling, and supervision of maintenance personnel."
+    },
+    {
+      "duty": "Evaluate employee competency, knowledge, and core values relative to expected standards and provide coaching to employees as needed."
+    },
+    {
+      "duty": "Oversee machine center performance (mechanical and electrical) and develop, plan, and implement work projects based on company personnel and other policies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Post-secondary education strongly preferred; Industrial, Mechanical or Electrical Engineering is considered a strong asset."
+    }
+  ]
+}

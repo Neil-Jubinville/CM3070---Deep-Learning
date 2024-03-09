@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead software engineering efforts to open, investigate, design, implement, and test software engineering solutions on existing RTS software products."
+    },
+    {
+      "duty": "Coordinate with Software Engineers, Systems Engineers, Configuration Management, and Test Operations to ensure successful integration, verification, and validation of new software releases."
+    },
+    {
+      "duty": "Support all RTS software products to include Optics, Radar, and Telemetry sensors, and Space Surveillance Software in support of the Department of Defense."
+    },
+    {
+      "duty": "Maintain existing software projects by preventing code rot, upgrading systems, and resolving critical software bugs."
+    },
+    {
+      "duty": "Produce Static Code Analysis reports; Remediate critical cyber vulnerabilities as needed."
+    },
+    {
+      "duty": "Support Reagan Test Site missions as well as RTS technical projects involving software and other technical support."
+    },
+    {
+      "duty": "Guide internal software Issue Review Boards (IRBs) to triage all new problem reports and feature requests."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Object Oriented Programming (OOP)",
+      "experience": 5
+    },
+    {
+      "skill": "Red Hat Linux / Unix Operating System",
+      "experience": 5
+    },
+    {
+      "skill": "Version Control software (SVN or GIT)",
+      "experience": 5
+    },
+    {
+      "skill": "Written and Verbal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting and Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "C++ or Java",
+      "experience": 5
+    },
+    {
+      "skill": "Boost Libraries",
+      "experience": 5
+    },
+    {
+      "skill": "Static Code Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Relational Database Queries",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 110,
+      "student_teacher": 80,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science, Computer Engineering, or Software Engineering (Master's preferred)"
+    },
+    {
+      "credential": "DoD Secret Security Clearance"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Nurse Practitioner",
+      "job_category": "Healthcare",
+      "job_class": "Professional",
+      "sector": "Primary Care Medicine",
+      "salary": 105000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Management",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Health Education",
+      "experience": 5
+    },
+    {
+      "skill": "Collaborative Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Prescribing",
+      "experience": 5
+    },
+    {
+      "skill": "Chronic Disease Management",
+      "experience": 5
+    },
+    {
+      "skill": "Procedural Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Interdisciplinary Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide comprehensive history, physical and psychosocial health assessments of patients."
+    },
+    {
+      "duty": "Request appropriate tests and evaluations, differentiating between normal and abnormal findings."
+    },
+    {
+      "duty": "Record and maintain complete and organized patient progress notes and plans for future care."
+    },
+    {
+      "duty": "Develop health care plans with patients and families and utilize available resources."
+    },
+    {
+      "duty": "Coordinate with interdisciplinary team to determine, evaluate, and alter health goals."
+    },
+    {
+      "duty": "Responsible for screening and management of chronic conditions within scope of practice."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (Master's in Nursing preferred)"
+    },
+    {
+      "credential": "Valid New York State license and current registration to practice as a Registered Professional Nurse."
+    },
+    {
+      "credential": "Current certificate as a Nurse Practitioner issued by the New York State Department of Education."
+    },
+    {
+      "credential": "Current certification issued by the State Education Department to prescribe medication."
+    }
+  ]
+}

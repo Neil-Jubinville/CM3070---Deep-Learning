@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Manager",
+      "job_category": "Sales",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Strategy",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Pipeline Management",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "CRM Management",
+      "experience": 5
+    },
+    {
+      "skill": "Salesforce Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office Suite",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and execute comprehensive sales strategies to drive the pipeline and close sales for the Athena Security System."
+    },
+    {
+      "duty": "Lead and develop a team of sales representatives, ensuring they meet sales targets and objectives."
+    },
+    {
+      "duty": "Analyze market trends, customer behavior, and competitor activity to identify growth opportunities and refine sales strategies."
+    },
+    {
+      "duty": "Manage the company's sales pipeline, effectively using CRM systems and salesforce automation for maximum efficiency."
+    },
+    {
+      "duty": "Prepare and deliver accurate and persuasive client proposals, communicating the value of Athena Security solutions to potential clients."
+    },
+    {
+      "duty": "Measure and report on the performance of sales activities, using data-driven insights to continuously improve sales strategies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Sales, Business, or a related field (Master's preferred)"
+    }
+  ]
+}

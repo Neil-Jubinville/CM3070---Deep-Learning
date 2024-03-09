@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Interior Designer",
+      "job_category": "Art and Design",
+      "job_class": "Senior",
+      "sector": "Design",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create and present interior design concepts and plans for client projects, ensuring alignment with project requirements and client vision."
+    },
+    {
+      "duty": "Oversee and coordinate the design process, including space planning, material selection, and furniture procurement to meet project deadlines."
+    },
+    {
+      "duty": "Collaborate with architects, contractors, and clients to ensure seamless implementation of design concepts and resolution of any design challenges."
+    },
+    {
+      "duty": "Manage and mentor junior designers, providing guidance and support in the development of their design skills and project management abilities."
+    },
+    {
+      "duty": "Stay updated on industry trends, materials, and technologies to incorporate innovative design solutions into projects and maintain a competitive edge."
+    },
+    {
+      "duty": "Participate in client presentations, communicate design concepts effectively, and address client feedback to achieve project approval and client satisfaction."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Interior Design",
+      "experience": 7
+    },
+    {
+      "skill": "Space Planning",
+      "experience": 7
+    },
+    {
+      "skill": "Furniture Procurement",
+      "experience": 7
+    },
+    {
+      "skill": "Architectural Collaboration",
+      "experience": 7
+    },
+    {
+      "skill": "Project Management",
+      "experience": 6
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 6
+    },
+    {
+      "skill": "Industry Research",
+      "experience": 7
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 90,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Interior Design, Architecture, or related field (Master's preferred)"
+    }
+  ]
+}

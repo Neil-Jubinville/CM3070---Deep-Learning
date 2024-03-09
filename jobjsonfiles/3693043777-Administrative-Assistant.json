@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Administrative Assistant",
+      "job_category": "Administration",
+      "job_class": "Assistant",
+      "sector": "Human Resources",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Organization",
+      "experience": 5
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Process staff applications, paperwork, and background checks"
+    },
+    {
+      "duty": "Ensure trainings are completed and maintain staff files and data"
+    },
+    {
+      "duty": "Manage OSHA and Incident Reports submission"
+    },
+    {
+      "duty": "Handle mail distribution, receptionist tasks, and filing"
+    },
+    {
+      "duty": "Assist in data entry and ensure efficient operations of the organization"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED equivalent"
+    }
+  ]
+}

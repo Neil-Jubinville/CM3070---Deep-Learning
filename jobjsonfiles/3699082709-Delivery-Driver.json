@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Delivery Driver",
+      "job_category": "Customer Service",
+      "job_class": "Associate",
+      "sector": "Logistics",
+      "salary": 23000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Safe Driving",
+      "experience": 1
+    },
+    {
+      "skill": "Store Technology",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver food to customers with excellent customer service and a positive attitude."
+    },
+    {
+      "duty": "Maintain food and team member safety"
+    },
+    {
+      "duty": "Operate store technology"
+    },
+    {
+      "duty": "Assist with store operations"
+    },
+    {
+      "duty": "Operate and troubleshoot technology"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid driver\u2019s license with safe driving record meeting company standards"
+    }
+  ]
+}

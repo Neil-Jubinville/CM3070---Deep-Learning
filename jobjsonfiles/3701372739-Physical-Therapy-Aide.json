@@ -1,0 +1,38 @@
+{
+  "meta": [
+    {
+      "job_title": "Physical Therapy Aide",
+      "job_category": "Physical Therapy",
+      "job_class": "Aide",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work alongside licensed clinicians to build rapport, motivate, and assist patients during treatment."
+    },
+    {
+      "duty": "Maintain clinic cleanliness and cover receptionist duties as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma"
+    }
+  ]
+}

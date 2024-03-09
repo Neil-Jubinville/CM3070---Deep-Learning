@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Security Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 135000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Penetration Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Network Security",
+      "experience": 5
+    },
+    {
+      "skill": "Security Vulnerability Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Security",
+      "experience": 5
+    },
+    {
+      "skill": "Mentorship",
+      "experience": 5
+    },
+    {
+      "skill": "OWASP",
+      "experience": 5
+    },
+    {
+      "skill": "Exploitation Techniques",
+      "experience": 5
+    },
+    {
+      "skill": "Security Certifications",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform penetration tests on applications, networks, and cloud infrastructures."
+    },
+    {
+      "duty": "Research and experiment with different types of cyber attacks."
+    },
+    {
+      "duty": "Develop methodologies for penetration testing and review code for security vulnerabilities."
+    },
+    {
+      "duty": "Document detailed steps and automate common testing techniques."
+    },
+    {
+      "duty": "Write technical reports and communicate findings to technical staff and leadership."
+    },
+    {
+      "duty": "Stay current with emerging threat trends, research, and improve skills."
+    },
+    {
+      "duty": "Mentor and share knowledge with other security practitioners and technology stakeholders."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Information Systems, Computer Science, Information Systems Management, or equivalent professional experience."
+    },
+    {
+      "credential": "Industry-specific technical certification: CEH, CompTIA PenTest+, GPEN, GWAPT, OSCP, CPT, etc."
+    }
+  ]
+}

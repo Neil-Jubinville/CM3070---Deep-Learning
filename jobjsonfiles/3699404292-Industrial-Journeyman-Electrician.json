@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Industrial Journeyman Electrician",
+      "job_category": "Industrial",
+      "job_class": "Electrician",
+      "sector": "Construction",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Wiring",
+      "experience": 5
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 5
+    },
+    {
+      "skill": "Conduit Installation",
+      "experience": 5
+    },
+    {
+      "skill": "Cable Termination",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Equipment Installation",
+      "experience": 5
+    },
+    {
+      "skill": "Cable Tray Fabrication",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Precautions",
+      "experience": 5
+    },
+    {
+      "skill": "High Voltage Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Cable Pulling Methods",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Lock Out Tag Out System",
+      "experience": 5
+    },
+    {
+      "skill": "State Journeyman Electrician License",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Install, repair, and maintain electrical wiring, conduit, equipment, and fixtures."
+    },
+    {
+      "duty": "Read blueprints and specifications to determine the scope of work and identify all tools required for tasks."
+    },
+    {
+      "duty": "Identify safety risks, precautions required to eliminate those risks, and set up and maintain temporary power systems."
+    },
+    {
+      "duty": "Assemble and install electrical equipment, terminate wires and cable to electrical equipment, and inspect electrical equipment and components to ensure operational conditions."
+    },
+    {
+      "duty": "Install and maintain grounding systems for all equipment and structures, and hoist equipment and tools into a location via bull rigging or crane."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Electrical Apprentice License at a minimum and a state Journeyman Electrician License."
+    }
+  ]
+}

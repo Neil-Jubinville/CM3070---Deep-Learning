@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 180000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and Engineering cloud infrastructure with effective computing and storage resources and efficient networking topology that meets enterprise security compliance."
+    },
+    {
+      "duty": "Build and develop an effective and maintainable toolkit for infrastructure provision and management on public cloud like AWS."
+    },
+    {
+      "duty": "Design and develop SDK and backend services for emerging data capabilities."
+    },
+    {
+      "duty": "Collaborate with clients, architects, product management, and work with an engineering-focused, iterative team to build and establish product requirements."
+    },
+    {
+      "duty": "Write and review technical documents, including requirements and design documents for existing and continuously evolving features of the Sensei platform."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "Docker",
+      "experience": 3
+    },
+    {
+      "skill": "Micro-services",
+      "experience": 3
+    },
+    {
+      "skill": "REST APIs",
+      "experience": 3
+    },
+    {
+      "skill": "RDBMS",
+      "experience": 4
+    },
+    {
+      "skill": "NoSQL databases",
+      "experience": 4
+    },
+    {
+      "skill": "Data Processing",
+      "experience": 5
+    },
+    {
+      "skill": "Large Data File Processing",
+      "experience": 5
+    },
+    {
+      "skill": "Large Language Model Techniques",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "MS/PhD in Computer Science or a related field."
+    }
+  ]
+}

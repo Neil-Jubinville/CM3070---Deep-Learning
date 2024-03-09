@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Physician - Family Practice-Without OB",
+      "job_category": "Healthcare",
+      "job_class": "Physician",
+      "sector": "Healthcare",
+      "salary": 245000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Primary Care",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Diagnosis",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Empathy",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide primary care and medical treatment to patients with a focus on family practice and without obstetrics."
+    },
+    {
+      "duty": "Conduct patient assessments, medical diagnoses, and treatment planning while ensuring compassionate and empathetic care delivery."
+    },
+    {
+      "duty": "Apply clinical knowledge and expertise to address a wide range of health concerns, including chronic conditions and preventive care."
+    },
+    {
+      "duty": "Effectively manage time and patient flow while maintaining high-quality care standards."
+    },
+    {
+      "duty": "Utilize strong communication skills to educate patients, discuss treatment options, and coordinate with other healthcare professionals."
+    },
+    {
+      "duty": "Demonstrate problem-solving abilities in addressing complex medical issues and adapting to changing patient needs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 30,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Medical degree (MD or DO) from an accredited institution and completion of residency in family medicine."
+    }
+  ]
+}

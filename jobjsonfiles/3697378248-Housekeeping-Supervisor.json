@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Housekeeping Supervisor",
+      "job_category": "Housekeeping",
+      "job_class": "Supervisor",
+      "sector": "Hospitality",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Housekeeping",
+      "experience": 5
+    },
+    {
+      "skill": "General Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Supervisory Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee housekeeping department and duties for the community, including laundry."
+    },
+    {
+      "duty": "Perform deep cleaning and special cleaning projects."
+    },
+    {
+      "duty": "Schedule and manage staff."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent required, 1 year housekeeping experience required. General maintenance experiences a plus. Previous supervisory experience preferred."
+    }
+  ]
+}

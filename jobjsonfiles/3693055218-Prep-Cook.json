@@ -1,0 +1,47 @@
+{
+  "meta": [
+    {
+      "job_title": "Prep Cook",
+      "job_category": "Culinary",
+      "job_class": "Cook",
+      "sector": "Hospitality",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Fine Dining",
+      "experience": 1
+    },
+    {
+      "skill": "Baking",
+      "experience": 1
+    },
+    {
+      "skill": "Fast-paced Environment",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare and cook food in a fast-paced restaurant environment with an emphasis on fine dining and baking."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "1+ year of Fine Dining Prep Cook or Baking experience"
+    }
+  ]
+}

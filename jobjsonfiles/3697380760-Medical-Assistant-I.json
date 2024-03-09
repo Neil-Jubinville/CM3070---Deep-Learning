@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Assistant I",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 22,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Venipuncture",
+      "experience": 1
+    },
+    {
+      "skill": "EKG",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Records Management",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Clerical Duties",
+      "experience": 2
+    },
+    {
+      "skill": "Phlebotomy",
+      "experience": 1
+    },
+    {
+      "skill": "Appointment Scheduling",
+      "experience": 2
+    },
+    {
+      "skill": "Insurance Verification",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform venipuncture, EKGs, and point of care testing, and assist with patient care and administrative duties."
+    },
+    {
+      "duty": "Accompany patients to exam/procedure room, assist with walking and dressing, and collect/process specimens."
+    },
+    {
+      "duty": "Assist physicians with procedures, take vital signs, and relay instructions to patients and families."
+    },
+    {
+      "duty": "Fulfill clerical responsibilities such as sending/receiving patient medical records and obtaining lab/x-ray reports."
+    },
+    {
+      "duty": "Enter orders into the electronic medical record system, manage medical supplies, and maintain examination rooms."
+    },
+    {
+      "duty": "Maintain a safe, healthy work environment and ensure compliance with legal regulations."
+    },
+    {
+      "duty": "Assist in the maintenance of medical charts and perform appointment scheduling and insurance verification."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma/GED with completion of an approved Medical Assistant certificate course, and preferred Certified Medical Assistant. Heartsaver Certification from American Heart Association and/or BCLS also required."
+    }
+  ]
+}

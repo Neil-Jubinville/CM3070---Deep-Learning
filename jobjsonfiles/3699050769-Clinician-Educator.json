@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Clinician-Educator",
+      "job_category": "Healthcare",
+      "job_class": "Assistant Professor",
+      "sector": "Medical",
+      "salary": 180000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Background",
+      "experience": 5
+    },
+    {
+      "skill": "Thoracic Surgery",
+      "experience": 5
+    },
+    {
+      "skill": "Educational Program Participation",
+      "experience": 5
+    },
+    {
+      "skill": "Research Programs",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide a wide range of Thoracic Surgery services in a medical institution's Central region, including shared service call, rounding, pre-op and post-op patient care, and consultation requests."
+    },
+    {
+      "duty": "Support the expansion of the Thoracic Surgery program in other regions."
+    },
+    {
+      "duty": "Participate in academic programs of the medical institution, including didactic teaching, resident training, preceptorship, and mentoring, or research programs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Completed an ACGME-accredited Thoracic Surgery fellowship/residency program. Board-eligible or board certified in Thoracic Surgery."
+    }
+  ]
+}

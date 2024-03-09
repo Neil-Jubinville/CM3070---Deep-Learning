@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Music Instructor",
+      "job_category": "Education",
+      "job_class": "Instructor",
+      "sector": "Education",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Music Teaching",
+      "experience": 2
+    },
+    {
+      "skill": "Lesson Planning",
+      "experience": 2
+    },
+    {
+      "skill": "Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 2
+    },
+    {
+      "skill": "Online Teaching",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Music Education",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Teach music lessons to a diverse population of students."
+    },
+    {
+      "duty": "Communicate with parents of students (where applicable) on the progress of each student."
+    },
+    {
+      "duty": "Work with students in our clean and safe studios or through online lessons."
+    },
+    {
+      "duty": "Collaborate with store team to maximize lesson experience."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree or equivalent substitutable experience."
+    },
+    {
+      "credential": "2 years of music teaching experience."
+    }
+  ]
+}

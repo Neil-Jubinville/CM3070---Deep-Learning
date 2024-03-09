@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Analytical Chemist",
+      "job_category": "Science",
+      "job_class": "Specialist",
+      "sector": "Pharmaceutical",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform physical, chemical, and instrumental analysis of active pharmaceutical ingredients and finished pharmaceutical products (tablets, capsules, parenterals, devices, aerosols, liquids, creams, and gels)"
+    },
+    {
+      "duty": "Run the instrumentation independently including, but not limited to, various chromatographic systems, Karl Fischer (Coulometric and Volumetric), UV/Spec, various wet chemistry analyses, HPLC, IC, IR, ICP, AA, TGP, DSC, PDA, auto-titrators, TLC, and dissolution apparatus"
+    },
+    {
+      "duty": "Preparing samples for analysis and running some instrumentation with minimum supervision"
+    },
+    {
+      "duty": "Set up and validate new analytical or related processes used by the department"
+    },
+    {
+      "duty": "Prepare standards and samples for analysis"
+    },
+    {
+      "duty": "Execute method transfer protocols"
+    },
+    {
+      "duty": "Document work as required for GMP compliance"
+    },
+    {
+      "duty": "Perform monthly maintenance of laboratory equipment"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical, chemical, and instrumental analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Instrumentation operation",
+      "experience": 5
+    },
+    {
+      "skill": "Chromatographic systems",
+      "experience": 5
+    },
+    {
+      "skill": "Wet chemistry analyses",
+      "experience": 5
+    },
+    {
+      "skill": "Method transfer protocols",
+      "experience": 5
+    },
+    {
+      "skill": "GMP compliance",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in chemistry, biology, biochemistry, or other related degree concentration, or equivalent directly-related experience (Master's preferred)"
+    }
+  ]
+}

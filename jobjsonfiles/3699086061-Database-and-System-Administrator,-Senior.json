@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Database and System Administrator, Senior",
+      "job_category": "Information Technology",
+      "job_class": "Administrator",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Oracle and PostgreSQL Database Administration",
+      "experience": 8
+    },
+    {
+      "skill": "Linux System Administration",
+      "experience": 8
+    },
+    {
+      "skill": "Data Extraction and Conversion",
+      "experience": 8
+    },
+    {
+      "skill": "Python Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Bash Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 5
+    },
+    {
+      "skill": "SQL and Script Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Data Recovery and Disaster Recovery Concepts",
+      "experience": 8
+    },
+    {
+      "skill": "Vendor Support",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing back-up and recovery, analyzing and resolving database system production problems, and participating in database design and implementation."
+    },
+    {
+      "duty": "System administration for database servers, including security patching and upgrades of OS, database, and supporting software."
+    },
+    {
+      "duty": "Working with data owners to resolve data representation issues and producing desired data products in an environment where models and taxonomies are evolving."
+    },
+    {
+      "duty": "Managing virtual machines, supporting overall IT department operations, and closely monitoring and controlling the integrity of the Safety System IT infrastructure."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)."
+    }
+  ]
+}

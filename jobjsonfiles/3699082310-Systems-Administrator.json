@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Systems Administrator",
+      "job_category": "Information Technology",
+      "job_class": "Administrator",
+      "sector": "Software Engineering",
+      "salary": 125000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Windows Administration",
+      "experience": 15
+    },
+    {
+      "skill": "NAS Setup",
+      "experience": 15
+    },
+    {
+      "skill": "Agency Security",
+      "experience": 15
+    },
+    {
+      "skill": "VMware ESXi",
+      "experience": 15
+    },
+    {
+      "skill": "Linux",
+      "experience": 20
+    },
+    {
+      "skill": "Cisco Switches",
+      "experience": 15
+    },
+    {
+      "skill": "Isilon Storage",
+      "experience": 10
+    },
+    {
+      "skill": "Centrify",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage a standalone lab network that includes VMWare servers, Cisco switches, Windows domain controllers, and 60+ Linux and Windows workstations."
+    },
+    {
+      "duty": "Build, configure, and maintain hardware components and install, configure, and maintain software components."
+    },
+    {
+      "duty": "Research and recommend new hardware solutions and support the system security process."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 0,
+      "student_teacher": 0,
+      "introvert_extrovert": 0
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Technology and 15+ years of experience with systems administration, or 20+ years of experience with systems administration in lieu of a degree. TS/SCI clearance with a polygraph."
+    }
+  ]
+}

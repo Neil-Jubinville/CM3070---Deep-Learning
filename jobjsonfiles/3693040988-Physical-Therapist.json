@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Physical Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 48000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Therapy",
+      "experience": 1
+    },
+    {
+      "skill": "Respiratory Treatment",
+      "experience": 1
+    },
+    {
+      "skill": "Hemo-dialysis",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 1
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 1
+    },
+    {
+      "skill": "Desire to Help",
+      "experience": 1
+    },
+    {
+      "skill": "Positive Attitude",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide physical therapy services to patients with advanced respiratory treatment and hemo-dialysis needs."
+    },
+    {
+      "duty": "Collaborate with the clinical team to ensure effective patient care and treatment outcomes."
+    },
+    {
+      "duty": "Maintain a positive and supportive attitude towards patients and contribute to the culture of love and unity among staff and patients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 200
+    },
+    {
+      "student_teacher": 50
+    },
+    {
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Physical Therapy (Doctorate preferred)"
+    }
+  ]
+}

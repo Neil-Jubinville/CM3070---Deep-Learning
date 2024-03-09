@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Hardware Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Engineering",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Circuit Design",
+      "experience": 5
+    },
+    {
+      "skill": "Analog Design",
+      "experience": 5
+    },
+    {
+      "skill": "RF Design",
+      "experience": 5
+    },
+    {
+      "skill": "Power Supply Design",
+      "experience": 5
+    },
+    {
+      "skill": "PCB Layout",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop digital, analog, RF, and power supply circuits to meet product and sub-system requirements."
+    },
+    {
+      "duty": "Complete design simulations, Hardware Design Specifications, schematics, and oversee PCB layouts containing analog, digital, RF, and power supply subsystems."
+    },
+    {
+      "duty": "Work with a team of Electrical, Mechanical, and Embedded Engineers in an office/lab environment."
+    },
+    {
+      "duty": "Collaborate with firmware, digital design, and validation teams to ensure overall success of the project."
+    },
+    {
+      "duty": "Ensure compliance to product safety, emissions, and performance standards supporting 3rd party certification labs as needed."
+    },
+    {
+      "duty": "Support and troubleshoot existing product design deficiencies reported by customers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Engineering with a minimum of 5 years (or Graduate Degree with a minimum of 3 years) of prior relevant experience with hardware design tools and development process spanning requirements to production."
+    }
+  ]
+}

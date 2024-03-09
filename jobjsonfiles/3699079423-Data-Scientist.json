@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Scientist",
+      "job_category": "Data Science",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 180000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Statistical Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "R",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Mathematics",
+      "experience": 5
+    },
+    {
+      "skill": "Product Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Data Infrastructure",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with stakeholders to identify and solve product or business problems using analytics and mathematical models."
+    },
+    {
+      "duty": "Design and evaluate mathematical models to solve defined problems with limited precedent."
+    },
+    {
+      "duty": "Gather, extract, and compile data across sources using SQL, R, and Python."
+    },
+    {
+      "duty": "Format, re-structure, and validate data to ensure quality, and review the dataset to ensure it is ready for analysis."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree in Statistics, Data Science, Mathematics, Physics, Economics, Operations Research, Engineering, or a related quantitative field"
+    }
+  ]
+}

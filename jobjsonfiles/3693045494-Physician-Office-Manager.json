@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Physician Office Manager",
+      "job_category": "Healthcare",
+      "job_class": "Manager",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physician Office Management",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration with Physicians",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Knowledge of Medicare",
+      "experience": 5
+    },
+    {
+      "skill": "Knowledge of Medicaid",
+      "experience": 5
+    },
+    {
+      "skill": "Knowledge of Third Party Payers",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage the day-to-day operations of a physician's office, including administrative and clinical functions."
+    },
+    {
+      "duty": "Collaborate with physicians and medical staff to ensure efficient and effective patient care."
+    },
+    {
+      "duty": "Oversee billing and coding processes, including knowledge of Medicare, Medicaid, and third-party payer requirements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Healthcare Administration or related field (Master's preferred)"
+    }
+  ]
+}

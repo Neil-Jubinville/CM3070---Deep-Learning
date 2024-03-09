@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Operations Technician",
+      "job_category": "IT",
+      "job_class": "Technician",
+      "sector": "Software Engineering",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Operating Systems",
+      "experience": 2
+    },
+    {
+      "skill": "Networking Protocols",
+      "experience": 2
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 2
+    },
+    {
+      "skill": "Hardware Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Server Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Data Center Operations",
+      "experience": 2
+    },
+    {
+      "skill": "Linux",
+      "experience": 3
+    },
+    {
+      "skill": "Networking Servers",
+      "experience": 3
+    },
+    {
+      "skill": "Light Coding",
+      "experience": 2
+    },
+    {
+      "skill": "Scripting",
+      "experience": 2
+    },
+    {
+      "skill": "Work Rotations",
+      "experience": 2
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Install, configure, test, troubleshoot, and maintain hardware and server software"
+    },
+    {
+      "duty": "Configure networks, routers, hubs, bridges, switches, and networking protocols"
+    },
+    {
+      "duty": "Lead small project teams on larger installations and develop project contingency plans"
+    },
+    {
+      "duty": "Participate in the deployment, maintenance, and support of current and new data center infrastructure"
+    },
+    {
+      "duty": "Troubleshoot and resolve critical or escalated technical issues"
+    },
+    {
+      "duty": "Test and troubleshoot new server hardware components and designs"
+    },
+    {
+      "duty": "Deploy and maintain advanced Data Center Server and Network Infrastructure"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Information Technology, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Associate",
+      "job_category": "Retail",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 25000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Cash handling and processing fuel transactions"
+    },
+    {
+      "duty": "Cleaning and stocking of store inventory"
+    },
+    {
+      "duty": "Food preparation and foodservice safety for foodservice positions"
+    },
+    {
+      "duty": "Interacting with customers and providing excellent customer service"
+    },
+    {
+      "duty": "Promoting rewards loyalty program and handling cash transactions"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Retail Operations",
+      "experience": 2
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Cleaning and Sanitation",
+      "experience": 2
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": []
+}

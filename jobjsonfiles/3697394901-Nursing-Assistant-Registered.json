@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Nursing Assistant Registered",
+      "job_category": "Nursing",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 24000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CPR",
+      "experience": 1
+    },
+    {
+      "skill": "Vital Signs Recording",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Life Support",
+      "experience": 1
+    },
+    {
+      "skill": "Documenting Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Clerical Support",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in providing direct patient care as delegated by the Registered Nurse within the scope of the NAR licensure."
+    },
+    {
+      "duty": "Perform basic technical skills including CPR, vital signs recording, measuring and recording fluid intake/output, applying dressings, recognizing and reporting signs and symptoms of common diseases or conditions, and administering treatments as directed."
+    },
+    {
+      "duty": "Assist patient with personal care such as bathing, care, grooming, toileting assistance, and eating and hydration."
+    },
+    {
+      "duty": "Provide patients with help walking, exercising, and moving in and out of bed."
+    },
+    {
+      "duty": "Document relevant patient care data and provide clerical support to the unit."
+    },
+    {
+      "duty": "Graduate of an approved Certified Nursing Assistant program and possess current Nursing Assistant Registered certification and BLS certification."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 100,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an approved Certified Nursing Assistant program and possess current Nursing Assistant Registered certification and BLS certification."
+    }
+  ]
+}

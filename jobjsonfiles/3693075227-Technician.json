@@ -1,0 +1,30 @@
+{
+  "meta": [
+    {
+      "job_title": "Technician",
+      "job_category": "Automotive",
+      "job_class": "Technician",
+      "sector": "Automotive",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Accurately, Honestly, Consistently diagnose active issues."
+    },
+    {
+      "duty": "Consistently flags 35 hours a week or more"
+    },
+    {
+      "duty": "No more than 1 comeback per month"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "meta": [
+    {
+      "job_title": "Certified Respiratory Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Respiratory Therapy",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Gas Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Aerosol Therapy",
+      "experience": 3
+    },
+    {
+      "skill": "Blood Specimen Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Respiratory Equipment Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Caridopulmonary Equipment Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Mechanical Ventilation",
+      "experience": 4
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 3
+    },
+    {
+      "skill": "Infection Control",
+      "experience": 3
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Life Support",
+      "experience": 4
+    },
+    {
+      "skill": "Advanced Life Support",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform diagnostic and therapeutic procedures as ordered by a physician."
+    },
+    {
+      "duty": "Administer medical gas and aerosol therapy, obtain and analyze blood specimens, and operate respiratory and cardiopulmonary equipment."
+    },
+    {
+      "duty": "Provide mechanical ventilation, maintain artificial airways, and assist with cardiopulmonary resuscitation."
+    },
+    {
+      "duty": "Conduct patient education, monitor equipment and patient response, and complete documentation of in-patient records."
+    },
+    {
+      "duty": "Clean equipment, maintain safety and infection control practices, and comply with all regulatory requirements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associates or Bachelors in Respiratory Therapy from an accredited program"
+    },
+    {
+      "credential": "Current Respiratory Therapist license from the State Board for Respiratory Care"
+    },
+    {
+      "credential": "NBRC CRT certification"
+    },
+    {
+      "credential": "Basic and Advanced Cardiac Life Support certifications"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Platform Architect",
+      "job_category": "Technology",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Technology",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Enterprise Products",
+      "experience": 5
+    },
+    {
+      "skill": "Virtualization Platforms",
+      "experience": 5
+    },
+    {
+      "skill": "Terraform or Ansible",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Native Tooling",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Procuring, installing, managing, and monitoring physical and virtual infrastructure in both local and remote geographies."
+    },
+    {
+      "duty": "Automating commonly performed tasks using scripting tools such as Powershell, Ansible, and Python."
+    },
+    {
+      "duty": "Supporting multi-geography cloud deployments across Azure."
+    },
+    {
+      "duty": "Managing backup and recovery operations for multiple data centers across geography, backing up multiple petabytes of data weekly."
+    },
+    {
+      "duty": "Documenting commonly encountered issues and creating documentation on newly implemented systems on various Atlassian products."
+    },
+    {
+      "duty": "Participating in on-call rotations, responding to after-hours incidents in a timely manner."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

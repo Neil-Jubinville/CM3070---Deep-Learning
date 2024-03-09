@@ -1,0 +1,50 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Veterinary Technician",
+      "job_category": "Veterinary",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Veterinary Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "Animal Handling",
+      "experience": 5
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Lab Testing",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist veterinarians during examinations and procedures, and perform various technical tasks related to animal care and treatment."
+    },
+    {
+      "duty": "Administer medications, vaccinations, and treatments as prescribed by veterinarians."
+    },
+    {
+      "duty": "Conduct laboratory tests and analyze results to aid in the diagnosis and treatment of animal illnesses and injuries."
+    },
+    {
+      "duty": "Provide compassionate care and handle animals with patience and gentleness, ensuring their comfort and well-being."
+    },
+    {
+      "duty": "Communicate with pet owners, providing guidance on animal care, treatment plans, and preventive healthcare measures."
+    },
+    {
+      "duty": "Maintain medical records, prepare and sterilize surgical instruments, and ensure cleanliness and organization in the clinic or hospital."
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "meta": [
+    {
+      "job_title": "Administrative Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Office Administration",
+      "salary": 50000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 7
+    },
+    {
+      "skill": "Project Coordination",
+      "experience": 5
+    },
+    {
+      "skill": "Office Management",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Data Management",
+      "experience": 5
+    },
+    {
+      "skill": "English Composition",
+      "experience": 7
+    },
+    {
+      "skill": "Clerical Duties",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide high-level administrative support including conducting research, handling information requests, and performing clerical functions."
+    },
+    {
+      "duty": "Act as information and communication manager for the office."
+    },
+    {
+      "duty": "Maintain office supplies inventory, order, and verify receipt of supplies."
+    },
+    {
+      "duty": "Assist with project coordination and documentation."
+    },
+    {
+      "duty": "Participate in client meetings and assist in the documentation of implementation processes."
+    },
+    {
+      "duty": "Update status reports, concentrating on schedule and deliverables."
+    },
+    {
+      "duty": "Execute and manage the invoicing efforts."
+    },
+    {
+      "duty": "Perform clerical duties such as copying documents, mailing, and filing."
+    },
+    {
+      "duty": "Knowledge of English composition and grammar."
+    },
+    {
+      "duty": "Communicate orally and in writing."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED required."
+    },
+    {
+      "credential": "5-7 years' experience required."
+    },
+    {
+      "credential": "Experience working with executives highly preferred."
+    }
+  ]
+}

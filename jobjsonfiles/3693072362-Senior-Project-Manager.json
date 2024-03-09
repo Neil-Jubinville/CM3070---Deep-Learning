@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Senior",
+      "sector": "Management",
+      "salary": 135000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Planning",
+      "experience": 10
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 10
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 10
+    },
+    {
+      "skill": "Stakeholder Management",
+      "experience": 8
+    },
+    {
+      "skill": "Change Management",
+      "experience": 8
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 8
+    },
+    {
+      "skill": "Communication Planning",
+      "experience": 8
+    },
+    {
+      "skill": "Leadership",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Define project scope, goals, and deliverables in collaboration with stakeholders."
+    },
+    {
+      "duty": "Develop a comprehensive project plan, including timelines, resource allocation, and dependencies."
+    },
+    {
+      "duty": "Identify and mitigate risks and issues throughout the project lifecycle in a timely and productive manner."
+    },
+    {
+      "duty": "Lead cross-functional teams involved in application and infrastructure projects, providing guidance and support."
+    },
+    {
+      "duty": "Engage and collaborate with stakeholders to understand their requirements and expectations."
+    },
+    {
+      "duty": "Ensure quality assurance processes are executed to ensure successful project implementation."
+    },
+    {
+      "duty": "Develop a communication plan to effectively communicate the changes to all stakeholders."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Management Information Systems, Engineering, or a related field (or equivalent experience)."
+    }
+  ]
+}

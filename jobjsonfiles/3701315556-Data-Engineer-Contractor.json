@@ -1,0 +1,111 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineer Contractor",
+      "job_category": "Data",
+      "job_class": "Contractor",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Pipelines",
+      "experience": 5
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Queries",
+      "experience": 5
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Object-Oriented Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "GitHub",
+      "experience": 5
+    },
+    {
+      "skill": "ETL",
+      "experience": 5
+    },
+    {
+      "skill": "Data Governance",
+      "experience": 4
+    },
+    {
+      "skill": "Snowflake",
+      "experience": 4
+    },
+    {
+      "skill": "Superset",
+      "experience": 4
+    },
+    {
+      "skill": "Looker",
+      "experience": 4
+    },
+    {
+      "skill": "Airflow",
+      "experience": 4
+    },
+    {
+      "skill": "DBT",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Establish a unified data model to support analytics initiatives and build scalable infrastructure for data teams."
+    },
+    {
+      "duty": "Write and optimize complex SQL queries, with preference for Snowflake."
+    },
+    {
+      "duty": "Utilize data visualization tools, with preference for Superset and Looker."
+    },
+    {
+      "duty": "Utilize object-oriented programming, particularly Python, for data engineering tasks."
+    },
+    {
+      "duty": "Work with orchestration systems, with preference for Airflow."
+    },
+    {
+      "duty": "Use GitHub for version control and collaboration in data engineering projects."
+    },
+    {
+      "duty": "Develop and optimize data pipelines and ETL processes, transitioning to dbt where applicable."
+    },
+    {
+      "duty": "Build scalable systems for monitoring, alerting, and automation of data workflows."
+    },
+    {
+      "duty": "Contribute to data governance efforts within the organization."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Data Engineering, or related field (Master's degree preferred)"
+    }
+  ]
+}

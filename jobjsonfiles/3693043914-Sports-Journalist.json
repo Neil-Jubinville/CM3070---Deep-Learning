@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Sports Journalist",
+      "job_category": "Media",
+      "job_class": "Journalist",
+      "sector": "Media",
+      "salary": 50000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Cover sports events and write engaging, high-quality articles for publication."
+    },
+    {
+      "duty": "Capture and edit compelling sports-related photographs to accompany articles."
+    },
+    {
+      "duty": "Conduct enterprise reporting to uncover unique stories within the sports world."
+    },
+    {
+      "duty": "Contribute to special sections and magazine writing, showcasing in-depth coverage of sports-related topics."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sports Journalism",
+      "experience": 5
+    },
+    {
+      "skill": "Photography",
+      "experience": 5
+    },
+    {
+      "skill": "Editing",
+      "experience": 5
+    },
+    {
+      "skill": "Enterprise Reporting",
+      "experience": 3
+    },
+    {
+      "skill": "Magazine Writing",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Journalism, Communications, or related field"
+    }
+  ]
+}

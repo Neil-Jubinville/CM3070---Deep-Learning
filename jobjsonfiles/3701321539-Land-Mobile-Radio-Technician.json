@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Land Mobile Radio Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Software Engineering",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Land Mobile Radio Systems",
+      "experience": 4
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 4
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Testing Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "LMR System Deployment",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Certification",
+      "experience": 2
+    },
+    {
+      "skill": "Radio Communication",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain, operate, and verify operation of LMR systems."
+    },
+    {
+      "duty": "Deploy and support LMR systems at client sites."
+    },
+    {
+      "duty": "Troubleshoot and resolve LMR issues."
+    },
+    {
+      "duty": "Document LMR configurations and overall system topologies."
+    },
+    {
+      "duty": "Build and test proof of concept LMR solutions in a lab environment."
+    },
+    {
+      "duty": "Develop and execute testing procedures, and document results."
+    },
+    {
+      "duty": "Provide support to Field Operations team initiatives as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Technical Certification (FCC License, NABER License) preferred"
+    }
+  ]
+}

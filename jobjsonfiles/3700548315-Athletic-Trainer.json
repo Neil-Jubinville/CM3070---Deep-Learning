@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Athletic Trainer",
+      "job_category": "Sports Medicine",
+      "job_class": "Trainer",
+      "sector": "Sports Medicine",
+      "salary": 44000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Athletic Training",
+      "experience": 3
+    },
+    {
+      "skill": "Injury Prevention",
+      "experience": 3
+    },
+    {
+      "skill": "Rehabilitation Techniques",
+      "experience": 3
+    },
+    {
+      "skill": "Physical Therapy",
+      "experience": 3
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 3
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assess and treat athletic injuries, providing immediate care and developing rehabilitation plans."
+    },
+    {
+      "duty": "Create injury prevention programs and educate athletes on proper techniques to reduce the risk of injury."
+    },
+    {
+      "duty": "Utilize rehabilitation techniques to aid in the recovery process and ensure safe return to activity."
+    },
+    {
+      "duty": "Collaborate with other healthcare professionals to provide comprehensive care for athletes."
+    },
+    {
+      "duty": "Respond to medical emergencies on the field and provide appropriate care and support."
+    },
+    {
+      "duty": "Document injury assessments, treatment plans, and progress to maintain accurate records."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Athletic Training or related field, Certification from the Board of Certification for the Athletic Trainer (BOC)"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Executive Assistant",
+      "job_category": "Administration",
+      "job_class": "Assistant",
+      "sector": "Management",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Calendar Management",
+      "experience": 5
+    },
+    {
+      "skill": "Travel Coordination",
+      "experience": 5
+    },
+    {
+      "skill": "Expense Report Processing",
+      "experience": 5
+    },
+    {
+      "skill": "Meeting Scheduling",
+      "experience": 5
+    },
+    {
+      "skill": "Minute Taking",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Arrange complex and detailed domestic and international travel itineraries"
+    },
+    {
+      "duty": "Serve as the gatekeeper by filtering phone calls, drop-ins, and emails, determining the level of importance and handling accordingly"
+    },
+    {
+      "duty": "Schedule meetings, prepare meeting materials, and take minutes. Ensure follow-up actions from meetings are completed."
+    },
+    {
+      "duty": "Assist with personal matters as needed to maintain the executive's optimal performance levels. This may include, but is not limited to, managing personal appointments, coordinating family travel, or overseeing household matters that could impact the executive's schedule."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 70,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration or related field (Master's preferred)"
+    }
+  ]
+}

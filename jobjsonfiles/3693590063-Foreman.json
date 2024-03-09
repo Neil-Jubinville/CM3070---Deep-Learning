@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Foreman",
+      "job_category": "Construction",
+      "job_class": "Foreman",
+      "sector": "Construction",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Restoration",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Team Coordination",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Valid Driver's License",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Coordinate repairs of various homes and businesses damaged by floods, fires, and more"
+    },
+    {
+      "duty": "Project manage restoration teams and activities"
+    },
+    {
+      "duty": "Provide strong communication and customer service"
+    },
+    {
+      "duty": "Ensure valid driver's license and clean driving record for coordination"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": []
+}

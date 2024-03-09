@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "IS Manager, Epic Services",
+      "job_category": "Information Technology",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Epic EHR Implementation",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Team Development",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Systems Management",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 5
+    },
+    {
+      "skill": "Security Controls",
+      "experience": 5
+    },
+    {
+      "skill": "Diversity and Inclusion",
+      "experience": 5
+    },
+    {
+      "skill": "IT Project Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, implement, and optimize the Epic EHR to enhance patient care quality and safety, improve health outcomes, enable innovation and research, and optimize revenue cycle processes."
+    },
+    {
+      "duty": "Lead team development and management, consensus building, and analyze existing procedures to recommend modifications and develop and monitor budgets."
+    },
+    {
+      "duty": "Manage multiple concurrent objectives, projects, groups, or activities, making effective judgments as to prioritizing and time allocation."
+    },
+    {
+      "duty": "Plan, organize, monitor, and control IT projects ensuring the utilization of technical resources to better achieve project objectives."
+    },
+    {
+      "duty": "Protect the security, confidentiality, and ensure appropriate security controls are in place and effective."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in computer information science, management, healthcare administration, or a healthcare-related field (Master\u2019s Degree Preferred)"
+    }
+  ]
+}

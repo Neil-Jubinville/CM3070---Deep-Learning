@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Scientist",
+      "job_category": "Research",
+      "job_class": "Scientist",
+      "sector": "Research",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Experimental Design",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Protocol Development",
+      "experience": 5
+    },
+    {
+      "skill": "Grant Applications",
+      "experience": 5
+    },
+    {
+      "skill": "Literature Review",
+      "experience": 5
+    },
+    {
+      "skill": "Lab Experience",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform highly technical and complex tasks to advance basic and/or translational research programs."
+    },
+    {
+      "duty": "Work with experimental platforms specific to the hiring Program."
+    },
+    {
+      "duty": "Review literature and apply advanced knowledge and skills for protocol development."
+    },
+    {
+      "duty": "Assist in grant and other funding applications as necessary."
+    },
+    {
+      "duty": "Interpret and communicate results of basic and/or translational research."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "PhD or Master's degree and five years of experience in a technical or research lab."
+    }
+  ]
+}

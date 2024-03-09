@@ -1,0 +1,102 @@
+{
+  "meta": [
+    {
+      "job_title": "MRI Technologist",
+      "job_category": "Healthcare",
+      "job_class": "Technologist",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Magnetic Resonance Imaging (MRI) Procedures",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Radiographic Diagnostics",
+      "experience": 5
+    },
+    {
+      "skill": "MRI Equipment Operation",
+      "experience": 5
+    },
+    {
+      "skill": "Education and Training",
+      "experience": 5
+    },
+    {
+      "skill": "Scheduling and Optimization",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnostic Testing and Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Record Keeping and Billing",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performs Magnetic Resonance Imaging (MRI) procedures for patients and coordinates daily patient flow and the activities of the MRI scanner."
+    },
+    {
+      "duty": "Transfers, positions, and instructs patients regarding the procedure in order to obtain and effect the desired radiographic diagnostic results as specified by the physician."
+    },
+    {
+      "duty": "Operates control console for each patient's scan, including selection of proper imaging techniques and operates various peripheral hardware."
+    },
+    {
+      "duty": "Enters patient data at start of examination and monitors data acquisition during procedure."
+    },
+    {
+      "duty": "Assists in the education of student technologists."
+    },
+    {
+      "duty": "Schedules MRI examinations when needed to ensure smooth flow and optimal utilization of equipment."
+    },
+    {
+      "duty": "Performs diagnostic testing on equipment, general maintenance and quality assurance as is appropriate for a MRI Technologist."
+    },
+    {
+      "duty": "Assists Radiologist in special or invasive procedures."
+    },
+    {
+      "duty": "Notifies appropriate personnel of equipment malfunctions and repairs needed."
+    },
+    {
+      "duty": "Requests, orders, and inventories supplies as necessary to keep materials on hand at all times."
+    },
+    {
+      "duty": "Maintains records of examination data and other pertinent information on patients."
+    },
+    {
+      "duty": "Processes billing for patient exams."
+    },
+    {
+      "duty": "Performs other related duties as assigned or requested."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School or equivalent ; Post High School Vocational/Specialized Training3-5 years as an MRI Tech"
+    },
+    {
+      "credential": "Certification by the ARRT or ARMRITBLS through the American Heart Association"
+    }
+  ]
+}

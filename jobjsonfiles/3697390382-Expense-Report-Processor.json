@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Expense Report Processor",
+      "job_category": "Financial",
+      "job_class": "Processor",
+      "sector": "Accounting",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Expense Claims Processing",
+      "experience": 3
+    },
+    {
+      "skill": "Excel",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Accounting",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Receive and process expense claims of field personnel and ensure prompt and efficient payment of authorized claims in accordance with company stewardship of financial resource and procedures."
+    },
+    {
+      "duty": "Handle inquiries in a prompt manner and make necessary corrections."
+    },
+    {
+      "duty": "Determine whether field expenditures are within budgetary limits and are within company policies, being responsible for deciding to allow or disallow expenditures based on policy guidelines and budgetary limits."
+    },
+    {
+      "duty": "Analyze expenditures, costs per item, exchange rate, etc. to determine appropriateness."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Accounting or Business (Master's preferred)"
+    }
+  ]
+}

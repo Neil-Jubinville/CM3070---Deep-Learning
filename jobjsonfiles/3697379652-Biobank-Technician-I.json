@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Biobank Technician I",
+      "job_category": "Laboratory Science",
+      "job_class": "Technician",
+      "sector": "Life Sciences",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Biobanking",
+      "experience": 2
+    },
+    {
+      "skill": "Laboratory Procedures",
+      "experience": 2
+    },
+    {
+      "skill": "Sample Management",
+      "experience": 2
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 2
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Register, label, retrieve, and discard biological and production materials in accordance with Standard Operating Procedures (SOPs)."
+    },
+    {
+      "duty": "Adhere to FDA Good Practices, International Organization of Standards (ISO), and other regulatory requirements as outlined in SOPs."
+    },
+    {
+      "duty": "Handle materials in a manner that maintains required temperatures per the project definition and SOPs."
+    },
+    {
+      "duty": "Utilize the Company Inventory Management System for sample handling tasks and ensure chain of custody and audit trails for all activities."
+    },
+    {
+      "duty": "Perform quality control checks and investigate/document issues encountered in registration or retrieval of materials."
+    },
+    {
+      "duty": "Assist with freezer maintenance and upkeep of the facility."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate Degree OR HS Diploma + 2 years of relevant experience OR six months\u2019 demonstrated proficiency as a Biobank Assistant. Life Sciences experience preferred"
+    }
+  ]
+}

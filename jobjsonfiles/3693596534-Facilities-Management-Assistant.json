@@ -1,0 +1,42 @@
+{
+  "meta": [
+    {
+      "job_title": "Facilities Management Assistant",
+      "job_category": "Maintenance",
+      "job_class": "Assistant",
+      "sector": "Facilities Management",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Maintenance Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Healthcare Experience",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform routine maintenance and repair tasks in a healthcare setting."
+    },
+    {
+      "duty": "Assist in maintaining the cleanliness and safety of the facility."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent (Associate's degree preferred)"
+    }
+  ]
+}

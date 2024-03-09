@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Control Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Engineering",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "PLC/SCADA/HMI Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Control Systems Design",
+      "experience": 5
+    },
+    {
+      "skill": "Instrumentation",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "HMI/SCADA Programming",
+      "experience": 5
+    },
+    {
+      "skill": "PLC (Allen Bradley PLCs, Device Net, ControlNet Point I/O, and Allen Bradley VFDs)",
+      "experience": 5
+    },
+    {
+      "skill": "PID Loop Tuning",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Regulations Compliance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and implement control systems (logic software and hardware) for machine and integrated system requirements."
+    },
+    {
+      "duty": "Perform onsite PLC & HMI changes and maintain the plant OT/IT environment."
+    },
+    {
+      "duty": "Collaborate with key stakeholders to define the scope of projects and prepare project specifications."
+    },
+    {
+      "duty": "Acquire and negotiate contractor bids, manage and support capital projects."
+    },
+    {
+      "duty": "Understand piping and instrument diagrams, wiring diagrams, vendor manuals, and appropriate ISA standards and practices."
+    },
+    {
+      "duty": "Follow OSHA and safety regulations, communicate safety issues to management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Computer Engineering, Electrical Engineering, or Computer Science"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Retail",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Visual Merchandising",
+      "experience": 2
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Ear Piercing",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Mathematics",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Supporting the Store Manager and Assistant Store Manager in achieving retail store targets by driving sales."
+    },
+    {
+      "duty": "Delivering sales through friendly and efficient customer service."
+    },
+    {
+      "duty": "Ensuring customers have a fun and enjoyable shopping experience."
+    },
+    {
+      "duty": "Assisting customers with their queries using product knowledge."
+    },
+    {
+      "duty": "Assisting with processing store deliveries, visual merchandising, stock takes, markdowns, and promotions."
+    },
+    {
+      "duty": "Performing ear piercing procedures after receiving full training."
+    },
+    {
+      "duty": "Ensuring the store looks presentable and inviting to customers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 30,
+      "student_teacher": 60,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

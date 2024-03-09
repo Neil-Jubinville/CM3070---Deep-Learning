@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Case Manager",
+      "job_category": "Healthcare",
+      "job_class": "Manager",
+      "sector": "Healthcare",
+      "salary": 28800,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Knowledge",
+      "experience": 4
+    },
+    {
+      "skill": "Therapeutic Services",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care Planning",
+      "experience": 4
+    },
+    {
+      "skill": "Data Collection",
+      "experience": 3
+    },
+    {
+      "skill": "Case Management",
+      "experience": 3
+    },
+    {
+      "skill": "Utilization Review",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop, implement, manage, and evaluate patient care plans."
+    },
+    {
+      "duty": "Collect clinical data, correlate this clinical data, and provide clinical input to the treatment team."
+    },
+    {
+      "duty": "Accurately convey medical criteria and clinical information between the insurance provider and treatment team as warranted."
+    },
+    {
+      "duty": "Correlate clinical data for the business office as required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Social Work, Counseling or related Human Service field."
+    },
+    {
+      "credential": "Minimum AOD Registration required (RADT-1, RADT-II, RAC, or RACi)"
+    },
+    {
+      "credential": "CCAPP, CAADE, or CADTP certification preferred."
+    }
+  ]
+}

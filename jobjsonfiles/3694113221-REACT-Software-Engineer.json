@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "REACT Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "React",
+      "experience": 5
+    },
+    {
+      "skill": "TypeScript",
+      "experience": 5
+    },
+    {
+      "skill": "GraphQL",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Advocate for the use of cutting-edge technology to build intelligent and scalable products."
+    },
+    {
+      "duty": "Act as a technology partner for clients from inception to completion while architecting reusable front-end systems."
+    },
+    {
+      "duty": "Work with multidisciplinary teams to solve challenging problems and drive internal initiatives."
+    },
+    {
+      "duty": "Deliver high-quality applications by understanding client needs and translating requirements into world-class design."
+    },
+    {
+      "duty": "Develop skills and gain exposure to multinational brands through project work."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 130,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

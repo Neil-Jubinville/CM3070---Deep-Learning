@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Physical Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Therapy",
+      "experience": 3
+    },
+    {
+      "skill": "Sports Medicine",
+      "experience": 3
+    },
+    {
+      "skill": "Orthopedics",
+      "experience": 3
+    },
+    {
+      "skill": "Rehabilitation",
+      "experience": 3
+    },
+    {
+      "skill": "EMR Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 3
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Diagnostic Testing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Evaluating patients' physical abilities and medical conditions through diagnostic tests and health history analysis."
+    },
+    {
+      "duty": "Developing personalized treatment plans that focus on patient goals, including pain management, mobility improvement, and overall physical function."
+    },
+    {
+      "duty": "Implementing therapeutic interventions, such as exercise, manual therapy, and patient education, to promote healing and recovery."
+    },
+    {
+      "duty": "Collaborating with the multidisciplinary team to ensure comprehensive patient care."
+    },
+    {
+      "duty": "Documenting patient progress and adjusting treatment plans as necessary using Electronic Medical Records (EMR)."
+    },
+    {
+      "duty": "Educating patients and their families about their conditions and the therapeutic exercises they can do at home."
+    },
+    {
+      "duty": "Complying with all federal, state, and local regulations, as well as professional standards of practice."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Physical Therapy or related field, Current state licensure as a Physical Therapist, Minimum of 1 year of experience in physical therapy with a focus on sports, orthopedics, or rehabilitation."
+    }
+  ]
+}

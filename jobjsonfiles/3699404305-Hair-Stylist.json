@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Hair Stylist",
+      "job_category": "Beauty",
+      "job_class": "Stylist",
+      "sector": "Beauty Services",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Hair Services",
+      "experience": 5
+    },
+    {
+      "skill": "Hair Design",
+      "experience": 5
+    },
+    {
+      "skill": "Color and Texture",
+      "experience": 5
+    },
+    {
+      "skill": "Makeup Applications",
+      "experience": 5
+    },
+    {
+      "skill": "Product Recommendation",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Independent Work",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing hair services including hair design, haircuts, color, texture, hair treatments, makeup applications, and ear piercing (where applicable)"
+    },
+    {
+      "duty": "Building personal and professional rapport with all guests"
+    },
+    {
+      "duty": "Providing professional product recommendations as part of all services"
+    },
+    {
+      "duty": "Meeting/exceeding all individual sales and productivity goals"
+    },
+    {
+      "duty": "Attending mandatory education events and workshops"
+    },
+    {
+      "duty": "Assisting in store duties (e.g., filling Salon retail displays and shelves.)"
+    },
+    {
+      "duty": "Adhering to all Salon standards for guest service and cleanliness"
+    },
+    {
+      "duty": "Attending manager-led monthly business development meetings to support personal business growth"
+    },
+    {
+      "duty": "Demonstrating personal style (while adhering to the Ulta Beauty dress code)"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Cosmetology and/or Barber license, 18+ years-old"
+    }
+  ]
+}

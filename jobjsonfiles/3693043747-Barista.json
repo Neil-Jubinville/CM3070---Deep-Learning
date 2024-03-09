@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Barista",
+      "job_category": "Customer Service",
+      "job_class": "Associate",
+      "sector": "Hospitality",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Coffee Preparation",
+      "experience": 3
+    },
+    {
+      "skill": "Point-of-Sale Operations",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 4
+    },
+    {
+      "skill": "Latte Art",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Multi-tasking",
+      "experience": 4
+    },
+    {
+      "skill": "Communication",
+      "experience": 4
+    },
+    {
+      "skill": "High School Diploma",
+      "experience": 0
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Preparing a variety of hot and cold coffee beverages, focusing on delivering delicious drinks."
+    },
+    {
+      "duty": "Entering and completing customers\u2019 orders on the point-of-sale computer system, accepting various types of payment, and making change."
+    },
+    {
+      "duty": "Maintaining complete knowledge of products and preparation standards, while interacting with guests in a friendly and fast manner."
+    },
+    {
+      "duty": "Performing other duties as directed, including handling food deliveries, cleaning the service area, and replenishing food."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 90,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma"
+    }
+  ]
+}

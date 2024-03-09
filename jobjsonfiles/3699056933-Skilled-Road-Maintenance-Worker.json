@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Skilled Road Maintenance Worker",
+      "job_category": "Maintenance",
+      "job_class": "Skilled Worker",
+      "sector": "Construction",
+      "salary": 48000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Road Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Heavy Equipment Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Construction Duties",
+      "experience": 3
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Road Materials Handling",
+      "experience": 3
+    },
+    {
+      "skill": "CDL License with Tanker Endorsement",
+      "experience": 0
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform skilled road maintenance including drainage, pothole patching, asphalt repairs, concrete repairs, and traffic signs."
+    },
+    {
+      "duty": "Operate heavy construction equipment, including excavator, asphalt equipment, patch trucks, rollers, dump trucks, front end loaders, backhoes, haul truck, motor grader, and other equipment, as required."
+    },
+    {
+      "duty": "Perform routine daily maintenance including pre/post trip inspections, checking and filling fluids, report repairs, and cleaning all offices, work area, equipment, and facilities."
+    },
+    {
+      "duty": "Perform construction duties including setting up road signs, barricades, flagging and directing traffic, and utilizing hand tools."
+    },
+    {
+      "duty": "Handle road materials including asphalt, oils, gravel, limestone, concrete, compounds, spoils, and crack sealer material."
+    },
+    {
+      "duty": "Assist crew leader in daily operations; may become crew leader as needed."
+    },
+    {
+      "duty": "Document daily operations as required."
+    },
+    {
+      "duty": "Perform any other duties or responsibilities that may be assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or G.E.D. equivalent from an accredited educational institution"
+    },
+    {
+      "credential": "Class \u201cA\u201d (CDL) commercial driver's license with Tanker Endorsement within 180 days of hire"
+    }
+  ]
+}

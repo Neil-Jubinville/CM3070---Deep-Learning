@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "HRIS Manager",
+      "job_category": "HR",
+      "job_class": "Manager",
+      "sector": "Human Resources",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HRIS Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Proficiency in UKG/Kronos Products",
+      "experience": 5
+    },
+    {
+      "skill": "Reporting and Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Functional Analysis and System Design",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration and Documentation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Evaluate, recommend, and coordinate solutions, collaborating with key stakeholders to align HRIS infrastructure with business changes, policy adjustments, and regulatory compliance."
+    },
+    {
+      "duty": "Lead and oversee a team that manages HR information management systems, such as UKG, Autotime, IBM Cognos Analytics, Kronos, iCIMS, Brainier, Business Solver, etc., and establish procedural guidelines and documentation."
+    },
+    {
+      "duty": "Serve as a subject matter expert in HR technology, data security, compliance, process mapping, and workflow best practices."
+    },
+    {
+      "duty": "Manage the reporting of employment data, collaborating with various departments to ensure accurate data mining and reporting."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "At least 5 years of HRIS Systems experience in a large-scale environment (5,000+ employees), and some supervisory experience. Technical proficiency in UKG/Kronos Products. Experience in building complex reports and manipulating data (Power BI, SQL, Cognos, Crystal Reports or similar reporting tools). In-depth understanding of functional analysis and system design. Ability to collaborate, document requirements, propose solutions, and build workflows."
+    }
+  ]
+}

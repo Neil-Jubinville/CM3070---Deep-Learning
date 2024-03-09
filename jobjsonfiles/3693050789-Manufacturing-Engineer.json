@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Manufacturing Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Manufacturing",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Manufacturing Engineering",
+      "experience": 4
+    },
+    {
+      "skill": "Ability to read blueprints",
+      "experience": 4
+    },
+    {
+      "skill": "Hands-on equipment operation",
+      "experience": 4
+    },
+    {
+      "skill": "Equipment reprogramming",
+      "experience": 4
+    },
+    {
+      "skill": "Automotive Manufacturing Engineering",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work in a high-speed and volume-producing team to help with the manufacturing of steering columns"
+    },
+    {
+      "duty": "Assist the plant in all areas of manufacturing"
+    },
+    {
+      "duty": "Perform and provide independent evaluations and recommendations of design and process changes"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate Degree in Manufacturing Engineering (Bachelor's preferred)"
+    }
+  ]
+}

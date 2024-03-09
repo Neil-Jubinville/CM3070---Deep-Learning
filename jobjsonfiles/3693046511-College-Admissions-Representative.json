@@ -1,0 +1,48 @@
+{
+  "meta": [
+    {
+      "job_title": "College Admissions Representative",
+      "job_category": "Education",
+      "job_class": "Representative",
+      "sector": "Education",
+      "salary": 52000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Presentation",
+      "experience": 3
+    },
+    {
+      "skill": "Rapport Building",
+      "experience": 3
+    },
+    {
+      "skill": "Inside Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Admissions Experience",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Engage in recruitment of prospective students for the college through sales and presentations."
+    },
+    {
+      "duty": "Build and maintain rapport with potential students to guide them through the admissions process."
+    },
+    {
+      "duty": "Utilize inside sales techniques to convert prospects into enrolled students."
+    },
+    {
+      "duty": "Utilize strong communications skills to convey the benefits of the educational program to prospective students."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Nursing",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medical-Surgical",
+      "experience": 5
+    },
+    {
+      "skill": "Oncology Care",
+      "experience": 5
+    },
+    {
+      "skill": "Hematology",
+      "experience": 5
+    },
+    {
+      "skill": "Palliative Care",
+      "experience": 5
+    },
+    {
+      "skill": "Chemotherapy Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide comprehensive patient care in medical-surgical and oncological settings, with a focus on oncology, hematology, and palliative care."
+    },
+    {
+      "duty": "Administer chemotherapy and manage care for patients with complex medical needs, including diagnosis and treatment of AML, CML, leukemia, and sickle cell diseases."
+    },
+    {
+      "duty": "Communicate effectively with healthcare teams, patients, and families to ensure optimal care and support."
+    },
+    {
+      "duty": "Participate in interdisciplinary collaboration and coordination to deliver holistic and compassionate care to patients and families."
+    },
+    {
+      "duty": "Maintain accurate patient records, administer medications, and monitor patient responses to treatment plans."
+    },
+    {
+      "duty": "Support patients and families in navigating the challenges of diagnosis, treatment, and end-of-life care, demonstrating empathy and understanding."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current Michigan Nursing License \u2013 Graduate Nurses invited to apply. Graduation from accredited nursing program. BSN degree preferred or must agree in writing to obtain a BSN within five years."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": [
+    {
+      "job_title": "HVAC Test Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Software Engineering",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform electrical operation tests on HVAC units following installation of structural, electrical, and condensing components."
+    },
+    {
+      "duty": "Verify job number, revision level of drawings, and ensure compliance with job specifications."
+    },
+    {
+      "duty": "Inspect and test electrical control panels, wiring, air flow, sensors, and safety devices to ensure proper operation and safety."
+    },
+    {
+      "duty": "Perform Hi Pot testing and energize units to test all components for proper operation and safety."
+    },
+    {
+      "duty": "Operate crankcase heaters, measure amperage draws, and inspect pressure drops and fan rpm's as per engineering specifications."
+    },
+    {
+      "duty": "Troubleshoot failed units, make defined adjustments, and document all defects."
+    },
+    {
+      "duty": "Use a variety of tools and equipment such as multimeter, digital refrigeration gauge, temp probe, manometer, and leak detectors."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Knowledge of refrigeration operation systems and reading circuit diagrams and schematics required."
+    }
+  ]
+}

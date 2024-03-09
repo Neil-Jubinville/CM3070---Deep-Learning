@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Manager",
+      "job_category": "Information Technology",
+      "job_class": "Manager",
+      "sector": "IT",
+      "salary": 119000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Agile Team Development",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Team Management",
+      "experience": 5
+    },
+    {
+      "skill": "Software Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Agile/Lean Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Change Management",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Achieve the software/solutions/services delivery commitments of the team."
+    },
+    {
+      "duty": "Maximize the effectiveness of the team and take actions to increase performance."
+    },
+    {
+      "duty": "Develop, mentor, and coach team members while promoting and facilitating their professional development."
+    },
+    {
+      "duty": "Work with product owners or other relevant partners and IT leadership to ensure a steady flow of valuable solutions from the team."
+    },
+    {
+      "duty": "Oversee, evaluate, and address issues in the team's delivery."
+    },
+    {
+      "duty": "Facilitate effective meetings and understand and influence the roles played by participants."
+    },
+    {
+      "duty": "Champion change and support teams through change."
+    },
+    {
+      "duty": "Think critically, challenge conventional thinking, and generate unique business insight to create a competitive advantage."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelors degree in computer science preferred, or relevant technical experience (Master's preferred)"
+    }
+  ]
+}

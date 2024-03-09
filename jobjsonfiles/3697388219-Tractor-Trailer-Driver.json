@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Tractor Trailer Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Transportation",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tractor-Trailer Operation",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Load and Unload Freight",
+      "experience": 5
+    },
+    {
+      "skill": "Safe Driving",
+      "experience": 5
+    },
+    {
+      "skill": "Hazardous Materials Handling",
+      "experience": 5
+    },
+    {
+      "skill": "Forklift Operation",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Safely operate a tractor-trailer combination, including doubles and triples, and provide excellent service to customers, including generating sales leads."
+    },
+    {
+      "duty": "Load and unload freight in a safe and efficient manner."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 75
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid Class A commercial driver's license, hazardous materials, tank vehicle and doubles/triples endorsements"
+    }
+  ]
+}

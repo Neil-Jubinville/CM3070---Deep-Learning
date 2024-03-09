@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "RN ED - Emergency Department",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Emergency Care",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Care",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Care Plan Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide emergency care and treatment to patients in the ED (Emergency Department) setting."
+    },
+    {
+      "duty": "Assess patient conditions, prioritize care, and collaborate with healthcare team for patient stabilization."
+    },
+    {
+      "duty": "Adhere to healthcare compliance standards and regulations for patient care and documentation."
+    },
+    {
+      "duty": "Manage and implement care plans for patients based on assessment and diagnosis."
+    },
+    {
+      "duty": "Effectively communicate and collaborate with healthcare team members to ensure coordinated patient care."
+    },
+    {
+      "duty": "Participate in critical care scenarios and respond to emergency situations in a timely and effective manner."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (Master's preferred)"
+    }
+  ]
+}

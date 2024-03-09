@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Technician I",
+      "job_category": "Technician",
+      "job_class": "I",
+      "sector": "Technical",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Hand Tools",
+      "experience": 3
+    },
+    {
+      "skill": "Data Interpretation",
+      "experience": 3
+    },
+    {
+      "skill": "Vehicle Operation",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Install and repair services for customers in a customer-facing role, while educating them on proper use of Spectrum services and equipment."
+    },
+    {
+      "duty": "Perform basic installations, disconnects, downgrades, upgrades, and reconnects for residential customers, providing world-class customer service."
+    },
+    {
+      "duty": "Work outdoors using hand tools, in a variety of working conditions and locations, with minimal supervision."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or GED"
+    }
+  ]
+}

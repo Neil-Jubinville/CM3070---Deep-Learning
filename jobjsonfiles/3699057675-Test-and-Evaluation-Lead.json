@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Test and Evaluation Lead",
+      "job_category": "Engineering",
+      "job_class": "Manager",
+      "sector": "Engineering",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Test Planning",
+      "experience": 10
+    },
+    {
+      "skill": "Test Execution",
+      "experience": 10
+    },
+    {
+      "skill": "Test Documentation",
+      "experience": 10
+    },
+    {
+      "skill": "Resource Forecasting",
+      "experience": 10
+    },
+    {
+      "skill": "MATDEV Priorities",
+      "experience": 10
+    },
+    {
+      "skill": "Technical Testing Experience",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Plan, develop, document, and execute test and evaluation actions for complex mechanical, electro-mechanical, and electrical/electronic systems."
+    },
+    {
+      "duty": "Forecast and request resources to support test and evaluation actions, including supporting ATEC in efficiently executing tests to MATDEV priorities."
+    },
+    {
+      "duty": "Coordinate schedules and timeline requirements with APMs, PdMs, PM, and PEO to ensure test and evaluation actions are executed in accordance with program requirements."
+    },
+    {
+      "duty": "Complete test documentation in support of milestone decisions and material release."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 20
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelors Degree in Computer Science, Information Systems, Engineering, Business, or related technical disciplines. Four years of additional direct relevant technical experience or relevant military service may be substituted for education."
+    }
+  ]
+}

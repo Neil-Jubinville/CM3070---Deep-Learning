@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Truck Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Logistics",
+      "salary": 47000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CDL-A License",
+      "experience": 3
+    },
+    {
+      "skill": "Spotter Truck Driving",
+      "experience": 3
+    },
+    {
+      "skill": "Safe driving",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Time Management",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Drive spotter truck and/or day cab within the distribution center from and to loading doors."
+    },
+    {
+      "duty": "Shuttle trailers over public road."
+    },
+    {
+      "duty": "Maintain non-excepted interstate status on medical card."
+    },
+    {
+      "duty": "Possess and maintain a valid CDL-A license."
+    },
+    {
+      "duty": "Communicate professionally and diplomatically at all times."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid CDL-A license with a non-excepted interstate status on the medical card."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Support Specialist",
+      "job_category": "Information Technology",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 65000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "PC Computer Hardware and Peripherals",
+      "experience": 5
+    },
+    {
+      "skill": "Windows OS",
+      "experience": 5
+    },
+    {
+      "skill": "Server Hardware and OS",
+      "experience": 5
+    },
+    {
+      "skill": "OS Internal Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Networking and TCP/IP",
+      "experience": 5
+    },
+    {
+      "skill": "Firewall and Router",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Efficient Problem Solving and Troubleshooting of reported issues"
+    },
+    {
+      "duty": "Clear, concise, and respectful communication with customers and other engineers"
+    },
+    {
+      "duty": "Keeping detailed records of specific issues worked and the results of the resolution"
+    },
+    {
+      "duty": "Staying up to date on evolving technologies"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Relevant education, courses, and certifications in the IT and Networking field"
+    }
+  ]
+}

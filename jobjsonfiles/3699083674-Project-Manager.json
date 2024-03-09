@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Program & Project Management",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 5
+    },
+    {
+      "skill": "Budgeting",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 5
+    },
+    {
+      "skill": "Client Management",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for managing a project to achieve specified objectives, involving overall planning, coordination, and control of the project from inception to completion."
+    },
+    {
+      "duty": "Manage scope, schedule, budget, quality, safety, and change management."
+    },
+    {
+      "duty": "Manage one or more moderately complex projects, involving clients with a regional geographic footprint, projects involving multiple services, and other complexities."
+    },
+    {
+      "duty": "Works mostly independently but receives basic instruction on specific assignments, objectives, complex features, and possible solutions."
+    },
+    {
+      "duty": "Supervise senior-level engineers, project administration, project controls, scheduling, cost control, estimating, and procurement representatives."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 110,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BA/BS + 2 years of related experience or demonstrated equivalency of experience and/or education Degree in Construction management, or Architecture U.S. Citizenship required, due to the nature of the work"
+    }
+  ]
+}

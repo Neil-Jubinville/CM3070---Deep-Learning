@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Associate",
+      "job_category": "Logistics",
+      "job_class": "Associate",
+      "sector": "Logistics",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Warehouse Operations",
+      "experience": 1
+    },
+    {
+      "skill": "Product Inspection",
+      "experience": 1
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "Pallet Jack Operation",
+      "experience": 1
+    },
+    {
+      "skill": "Forklift Operation",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Identify damaged products within the warehouse and separate, clean-up, and repack or repair if warranted."
+    },
+    {
+      "duty": "Transport product returns for processing and stage recouped product for return to inventory."
+    },
+    {
+      "duty": "Follow Food Safety and Quality Control (Q.C.) standards and operate equipment such as a pallet jack or forklift."
+    },
+    {
+      "duty": "Attend all required company meetings and perform other assigned duties as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or General Education Development (GED) or equivalent"
+    }
+  ]
+}

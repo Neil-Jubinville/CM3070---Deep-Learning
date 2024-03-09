@@ -1,0 +1,102 @@
+{
+  "meta": [
+    {
+      "job_title": "Database Architect",
+      "job_category": "Software Engineering",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft SQL Server and Oracle",
+      "experience": 5
+    },
+    {
+      "skill": "AWS-CSA Professional",
+      "experience": 5
+    },
+    {
+      "skill": "PHP",
+      "experience": 4
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 4
+    },
+    {
+      "skill": "Python",
+      "experience": 4
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "ETL Processes",
+      "experience": 5
+    },
+    {
+      "skill": "Database Performance Optimization",
+      "experience": 5
+    },
+    {
+      "skill": "Database Security",
+      "experience": 5
+    },
+    {
+      "skill": "Database Platform Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud-based Solutions",
+      "experience": 5
+    },
+    {
+      "skill": "High Availability Architectures",
+      "experience": 5
+    },
+    {
+      "skill": "Compliance and Security Policies",
+      "experience": 5
+    },
+    {
+      "skill": "Technology Integration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Model, design, and construct relational databases, warehouses, lakes, and pipelines."
+    },
+    {
+      "duty": "Create and optimize data models and scripts to automate database workflows and ETL processes."
+    },
+    {
+      "duty": "Regulate database storage consumption and forecast requirements."
+    },
+    {
+      "duty": "Ensure compliance with security policies and procedures to protect network, server, and database infrastructure and assets."
+    },
+    {
+      "duty": "Communicate technology needs and strategy to team members and senior management."
+    },
+    {
+      "duty": "Provide 24/7 support to Database Administration Team as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

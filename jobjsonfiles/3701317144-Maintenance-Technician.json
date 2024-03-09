@@ -1,0 +1,51 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Skilled Labor",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 20,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Electrical Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Equipment Repair",
+      "experience": 3
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Delivery Operations",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Inspect completed products and perform routine equipment maintenance."
+    },
+    {
+      "duty": "Troubleshoot, repair, and test various types of rental equipment."
+    },
+    {
+      "duty": "Prepare jobs according to instructions and company quality standards."
+    },
+    {
+      "duty": "Load and unload delivery vehicles and transport rental/sales orders."
+    },
+    {
+      "duty": "Ensure proper maintenance of delivery vehicles and report any incidents."
+    }
+  ]
+}

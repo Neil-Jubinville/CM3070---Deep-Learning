@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Security Guard",
+      "job_category": "Security",
+      "job_class": "Guard",
+      "sector": "Security",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Unarmed Foot Patrol",
+      "experience": 2
+    },
+    {
+      "skill": "Surveillance Monitoring",
+      "experience": 2
+    },
+    {
+      "skill": "Crime Deterrence",
+      "experience": 2
+    },
+    {
+      "skill": "Report Writing",
+      "experience": 2
+    },
+    {
+      "skill": "Access Control",
+      "experience": 2
+    },
+    {
+      "skill": "Vehicle Inspection",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct unarmed foot patrol and control access and egress."
+    },
+    {
+      "duty": "Monitor CCTV and alarm systems, and compose reports."
+    },
+    {
+      "duty": "Deter criminal activity and misconduct."
+    },
+    {
+      "duty": "Log in all visitors to the facility and notify person being visited by phone prior to visitor access."
+    },
+    {
+      "duty": "Maintain logs of all incoming and outgoing tractors and trailers, both on paper and electronically as required."
+    },
+    {
+      "duty": "Conduct inspections of all outgoing passenger vehicles, both visitor and employee."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 60,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED equivalent"
+    }
+  ]
+}

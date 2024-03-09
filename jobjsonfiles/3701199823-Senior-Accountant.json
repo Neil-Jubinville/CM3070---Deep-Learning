@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Accountant",
+      "job_category": "Accounting",
+      "job_class": "Accountant",
+      "sector": "Finance",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "General Ledger Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Tax Document Preparation",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Audit Completion",
+      "experience": 5
+    },
+    {
+      "skill": "GAAP Understanding",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Record Preparation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare financial reports"
+    },
+    {
+      "duty": "Maintain the general ledger"
+    },
+    {
+      "duty": "Prepare inventory records and balance sheets"
+    },
+    {
+      "duty": "Prepare tax documents"
+    },
+    {
+      "duty": "Complete audits and filing of forms"
+    },
+    {
+      "duty": "Financial analysis"
+    },
+    {
+      "duty": "Assist lower-level accountants as needed"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 0,
+      "student_teacher": 0,
+      "introvert_extrovert": 0
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Accounting"
+    }
+  ]
+}

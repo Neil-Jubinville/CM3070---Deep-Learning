@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Systems Software Architect",
+      "job_category": "Software Engineering",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 200000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Systems Architecture",
+      "experience": 10
+    },
+    {
+      "skill": "Rust",
+      "experience": 5
+    },
+    {
+      "skill": "C/C++",
+      "experience": 5
+    },
+    {
+      "skill": "Linux/Unix",
+      "experience": 5
+    },
+    {
+      "skill": "Data Processing Systems",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the architecture and development of complex system software for high-rate data processing systems."
+    },
+    {
+      "duty": "Develop a high-performance and scale-out infrastructure layer that moves data efficiently and securely between storage and compute."
+    },
+    {
+      "duty": "Be the technical lead for major systems software modules."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's in Computer Science or a similar degree"
+    }
+  ]
+}

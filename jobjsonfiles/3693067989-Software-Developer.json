@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C#",
+      "experience": 5
+    },
+    {
+      "skill": "MVC",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Web API",
+      "experience": 5
+    },
+    {
+      "skill": "WPF",
+      "experience": 5
+    },
+    {
+      "skill": "Azure",
+      "experience": 3
+    },
+    {
+      "skill": "Hardware Communications",
+      "experience": 3
+    },
+    {
+      "skill": "PI",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work on all phases of SDLC, developing new features to enhance core products and modifying/maintaining existing applications."
+    },
+    {
+      "duty": "Utilize C#, MVC, SQL, Web APIs, and WPF to develop and enhance applications."
+    },
+    {
+      "duty": "Experience with Azure, hardware communications, and PI for problem-solving and continuous product improvement."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or related field"
+    }
+  ]
+}

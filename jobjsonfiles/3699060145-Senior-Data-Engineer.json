@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Data Engineer",
+      "job_category": "Data Science",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Apache Spark",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices",
+      "experience": 5
+    },
+    {
+      "skill": "Event Driven Architecture",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work with cross functional partners - Data Scientists, Engineers, Product Managers to understand and deliver data needs."
+    },
+    {
+      "duty": "Champion code quality, reusability, scalability, security and help make strategic architecture decisions with the lead engineer."
+    },
+    {
+      "duty": "Design, build and launch extremely efficient and reliable data pipelines to move data across a number of platforms including Data Warehouse, online caches and real-time systems."
+    },
+    {
+      "duty": "Build product-focused datasets and scalable, fault-tolerant pipelines."
+    },
+    {
+      "duty": "Build data quality checks, data anomaly detection, and optimize pipelines for ideal compute and storage."
+    },
+    {
+      "duty": "Develop APIs and Microservices to expose and integrate data products with software systems."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Data Science, or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Territory Manager",
+      "job_category": "Sales",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Strategy",
+      "experience": 5
+    },
+    {
+      "skill": "Relationship Building",
+      "experience": 5
+    },
+    {
+      "skill": "Lead Generation",
+      "experience": 5
+    },
+    {
+      "skill": "Event Management",
+      "experience": 5
+    },
+    {
+      "skill": "Social Media Marketing",
+      "experience": 5
+    },
+    {
+      "skill": "Data Collection",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Computer Proficiency",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create and maintain relationships with retail and wholesale businesses to drive sales and business growth."
+    },
+    {
+      "duty": "Generate leads and collect data to identify opportunities for business expansion."
+    },
+    {
+      "duty": "Plan and execute events, trade shows, and travel to promote products and engage with potential clients."
+    },
+    {
+      "duty": "Represent the company via social media and other channels to increase brand visibility and attract new clients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Sales, Business, or a related field (Master's preferred)"
+    }
+  ]
+}

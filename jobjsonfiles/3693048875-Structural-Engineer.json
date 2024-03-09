@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Structural Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Civil Engineering",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Structural Design",
+      "experience": 5
+    },
+    {
+      "skill": "Steel Structure Design",
+      "experience": 5
+    },
+    {
+      "skill": "Concrete Structure Design",
+      "experience": 5
+    },
+    {
+      "skill": "Professional Engineering License",
+      "experience": 3
+    },
+    {
+      "skill": "STADD.pro",
+      "experience": 3
+    },
+    {
+      "skill": "Structural Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Review design requirements and establish design criteria."
+    },
+    {
+      "duty": "Develop design sketches for arrangement of structures and connection details."
+    },
+    {
+      "duty": "Develop structural calculations by hand or with computer analysis program to demonstrate code compliance."
+    },
+    {
+      "duty": "Develop design reports documenting the suitability of designs against requirements."
+    },
+    {
+      "duty": "Review and check engineering drawings of structures."
+    },
+    {
+      "duty": "Communicate with others on the project team and with the customer's technical personnel."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science degree in Applied Mechanics or Civil Engineering"
+    }
+  ]
+}

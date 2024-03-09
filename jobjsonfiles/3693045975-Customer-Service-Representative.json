@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Representative",
+      "job_category": "Customer Service",
+      "job_class": "Representative",
+      "sector": "Customer Service",
+      "salary": 30000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 1
+    },
+    {
+      "skill": "Empathy",
+      "experience": 1
+    },
+    {
+      "skill": "Multitasking",
+      "experience": 1
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide exceptional customer service by answering inbound calls and addressing customer inquiries and concerns."
+    },
+    {
+      "duty": "Demonstrate empathy and understanding while assisting customers and finding solutions to their problems."
+    },
+    {
+      "duty": "Effectively multitask while managing customer requests and navigating computer systems to provide accurate information."
+    },
+    {
+      "duty": "Adhere to company policies and procedures while addressing customer needs and maintaining high-quality service standards."
+    },
+    {
+      "duty": "Collaborate with team members to ensure consistent and efficient customer support across all communication channels."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent (Associate's degree preferred)"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "HRIS Specialist",
+      "job_category": "Human Resources",
+      "job_class": "Specialist",
+      "sector": "Human Resources",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Expertise",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Data Management",
+      "experience": 5
+    },
+    {
+      "skill": "Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Paycom",
+      "experience": 3
+    },
+    {
+      "skill": "PeopleSoft",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide technical expertise and analytical support for HR functions and data management."
+    },
+    {
+      "duty": "Track workflow related to HR functions."
+    },
+    {
+      "duty": "Work with Paycom and/or PeopleSoft."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Human Resources, Information Technology, or a related field (Master's preferred)"
+    }
+  ]
+}

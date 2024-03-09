@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "City Engineer",
+      "job_category": "Engineering",
+      "job_class": "City Engineer",
+      "sector": "Civil Engineering",
+      "salary": 165000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Civil Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Supervision",
+      "experience": 5
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Budgeting",
+      "experience": 5
+    },
+    {
+      "skill": "Report Preparation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Plan and direct professional civil engineering activities associated with the planning, design, maintenance, and construction of private development and public works projects."
+    },
+    {
+      "duty": "Oversee the management of engineering activities associated with city engineering and public works operations and maintenance."
+    },
+    {
+      "duty": "Attend and participate in City Council meetings, construction meetings and other Board and Committee meetings as needed."
+    },
+    {
+      "duty": "Develop the City Engineering Budget including Capital Improvement Plan."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree with major course work in civil engineering from a recognized college or university."
+    },
+    {
+      "credential": "Possession of a Professional Civil Engineer\u2019s license in the State of California and California Drivers License."
+    }
+  ]
+}

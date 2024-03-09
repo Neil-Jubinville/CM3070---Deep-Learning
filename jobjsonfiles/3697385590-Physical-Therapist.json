@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Physical Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Therapy",
+      "experience": 5
+    },
+    {
+      "skill": "Rehabilitation Therapy",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Evaluate client's physical functional ability, establish and progressively revise treatment plans, treat and/or supervise treatment of client, teach client and family, communicate with appropriate medical and rehabilitation personnel, and document the above."
+    },
+    {
+      "duty": "Use problem-solving skills, collecting, analyzing, and interpreting data to solve clinical problems that require a professional level of knowledge in a specific discipline."
+    },
+    {
+      "duty": "Demonstrate good communication skills (verbal/written) and active listening skills, giving directions and information, problem solving, and making independent decisions."
+    },
+    {
+      "duty": "Handle interruptions and stressful situations while prioritizing, organizing, and using management skills optimally."
+    },
+    {
+      "duty": "Respond in an emergency situation appropriately and follow existing procedures and instructions, while receiving assignments in the form of results expected, due dates, and general procedures to follow."
+    },
+    {
+      "duty": "Maintain CPR Certification."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Physical Therapy (Required)"
+    }
+  ]
+}

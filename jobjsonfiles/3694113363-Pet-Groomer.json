@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Pet Groomer",
+      "job_category": "Animal Care",
+      "job_class": "Groomer",
+      "sector": "Pet Care",
+      "salary": 25000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Animal Grooming",
+      "experience": 1
+    },
+    {
+      "skill": "Pet Styling",
+      "experience": 1
+    },
+    {
+      "skill": "Animal Welfare",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 2
+    },
+    {
+      "skill": "Cleaning and Sanitizing",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Professionally perform grooming services on animals as requested by pet parents and in accordance with company policy and procedure, ensuring the safety and well-being of each animal."
+    },
+    {
+      "duty": "Complete bath services, haircut services, walk-in services (e.g. nail trims) for pets."
+    },
+    {
+      "duty": "Provide quick and courteous service to pet parents by utilizing INTENT in the salon."
+    },
+    {
+      "duty": "Ensure OSE standards are maintained in the department and keep a clean and safe environment for the pets in the salon."
+    },
+    {
+      "duty": "Interact professionally and effectively through verbal and written communication with all professional contacts with emphasis on company interests."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or its equivalent (GED) is preferred."
+    },
+    {
+      "credential": "Completed the Petco Pet Stylist Apprentice Program or a minimum of one year's experience grooming/styling pets under the leadership of a professional groomer."
+    },
+    {
+      "credential": "Successfully complete a personal skills evaluation by a Petco Pet Stylist or Grooming Salon Manager."
+    }
+  ]
+}

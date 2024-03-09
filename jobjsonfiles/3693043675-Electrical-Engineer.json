@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Power & Utilities",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Power Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Power Generation and Transmission",
+      "experience": 5
+    },
+    {
+      "skill": "AC/DC Schematic Drawings",
+      "experience": 5
+    },
+    {
+      "skill": "PLC Ladder Logic",
+      "experience": 5
+    },
+    {
+      "skill": "Field Install Work",
+      "experience": 5
+    },
+    {
+      "skill": "Metering and Controls",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Installation",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing design and installation for complex equipment upgrade projects in power plants and medium/high voltage substations."
+    },
+    {
+      "duty": "Developing DC schematic drawings, AC elementary drawings, physical drawings, bill of materials, and relay settings."
+    },
+    {
+      "duty": "Developing and reviewing wiring diagrams, cable/conduit schedules, and front panel layouts."
+    },
+    {
+      "duty": "Developing control system architecture, points list, PLC ladder logic, and HMI screen configurations."
+    },
+    {
+      "duty": "Assisting with the development of LOTO requirements and project schedules."
+    },
+    {
+      "duty": "Supporting electricians during installs, performing functional testing and startup checks."
+    },
+    {
+      "duty": "Attending design review meetings and making project redlines."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Electrical Engineering (BSEE)"
+    }
+  ]
+}

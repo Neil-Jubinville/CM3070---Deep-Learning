@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Information Security Analyst",
+      "job_category": "Information Technology",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 143800,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Risk Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Security Policy Management",
+      "experience": 5
+    },
+    {
+      "skill": "Vulnerability Management",
+      "experience": 5
+    },
+    {
+      "skill": "Incident Detection and Response",
+      "experience": 5
+    },
+    {
+      "skill": "Bash Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Python Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "GCP",
+      "experience": 5
+    },
+    {
+      "skill": "SIEM",
+      "experience": 5
+    },
+    {
+      "skill": "Compliance Frameworks",
+      "experience": 5
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct risk assessment and monitoring for internal and third-party operations."
+    },
+    {
+      "duty": "Manage security policy and process, including system configuration and monitoring."
+    },
+    {
+      "duty": "Collaborate with other teams to develop, train, and monitor security best practices."
+    },
+    {
+      "duty": "Detect and respond to security incidents, including remediation and forensics."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in a technology-related field or equivalent work experience."
+    }
+  ]
+}

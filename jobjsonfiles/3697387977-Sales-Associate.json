@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Associate",
+      "job_category": "Retail",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Stock Management",
+      "experience": 3
+    },
+    {
+      "skill": "Cashier Duties",
+      "experience": 3
+    },
+    {
+      "skill": "Merchandising",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Communication",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide prompt, efficient, and courteous customer service."
+    },
+    {
+      "duty": "Drive sales through effective communication with customers."
+    },
+    {
+      "duty": "Maintain a clean, customer-friendly environment in the store."
+    },
+    {
+      "duty": "Perform cashier duties, including ringing sales and maintaining cash control."
+    },
+    {
+      "duty": "Perform all regular cleaning activities and other tasks assigned in the job."
+    },
+    {
+      "duty": "Forecast, order, and stock merchandise with appropriate training."
+    },
+    {
+      "duty": "Check in merchandise deliveries from vendors."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100
+    },
+    {
+      "student_teacher": 80
+    },
+    {
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

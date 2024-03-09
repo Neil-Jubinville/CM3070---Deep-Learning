@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Lab Analyst",
+      "job_category": "Science",
+      "job_class": "Analyst",
+      "sector": "Science",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Lab Equipment Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Database Search",
+      "experience": 2
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Sample Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Detail-Oriented",
+      "experience": 2
+    },
+    {
+      "skill": "Computer Applications",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare samples and measure specifications using prescribed lab equipment for each product."
+    },
+    {
+      "duty": "Analyze samples to determine sample condition and specifications, record data and measurements."
+    },
+    {
+      "duty": "Conduct database searches, identify selections, make report comments, and generate reports based on correct specifications."
+    },
+    {
+      "duty": "Communicate with manufacturers and distributors as required by specific products."
+    },
+    {
+      "duty": "Assist in \u201cDisaster Recovery\u201d implementation and building wrap exercises for hurricane preparedness."
+    },
+    {
+      "duty": "Assist other departments as needed or directed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    },
+    {
+      "credential": "Some college degree"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "meta": [
+    {
+      "job_title": "AEM Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Adobe Experience Manager (AEM)",
+      "experience": 7
+    },
+    {
+      "skill": "Core Java",
+      "experience": 7
+    },
+    {
+      "skill": "Servlets",
+      "experience": 7
+    },
+    {
+      "skill": "React",
+      "experience": 5
+    },
+    {
+      "skill": "HTML",
+      "experience": 7
+    },
+    {
+      "skill": "CSS",
+      "experience": 7
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 7
+    },
+    {
+      "skill": "Ajax",
+      "experience": 7
+    },
+    {
+      "skill": "JSON",
+      "experience": 7
+    },
+    {
+      "skill": "XML",
+      "experience": 7
+    },
+    {
+      "skill": "OSGI Framework",
+      "experience": 7
+    },
+    {
+      "skill": "Sling Framework",
+      "experience": 5
+    },
+    {
+      "skill": "Java Based IDE (e.g., Eclipse)",
+      "experience": 7
+    },
+    {
+      "skill": "JUnit",
+      "experience": 5
+    },
+    {
+      "skill": "Mockito",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and execute components using AEM and web technologies such as Core Java and Servlets."
+    },
+    {
+      "duty": "Collaborate with client directors and executives to deliver AEM solutions."
+    },
+    {
+      "duty": "Utilize Adobe solutions such as Launch, Target, Analytics, Audience Manager, and CDP for enhanced AEM development."
+    },
+    {
+      "duty": "Create and use custom workflows for AEM development."
+    },
+    {
+      "duty": "Participate in development/enhancement activities based on design proposed by architect/tech lead."
+    },
+    {
+      "duty": "Provide defect fixes and support during warranty period."
+    },
+    {
+      "duty": "Unit Testing of the implementation with JUnit and Mockito."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 20,
+      "introvert_extrovert": 30
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certification as an AEM developer and architect. Bachelor's degree in Computer Science or related field (Master's preferred)."
+    }
+  ]
+}

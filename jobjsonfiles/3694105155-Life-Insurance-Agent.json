@@ -1,0 +1,45 @@
+{
+  "meta": [
+    {
+      "job_title": "Life Insurance Agent",
+      "job_category": "Insurance",
+      "job_class": "Agent",
+      "sector": "Sales",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Insurance Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Telesales",
+      "experience": 3
+    },
+    {
+      "skill": "Relationship Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Receive calls from potential clients seeking final expense life insurance, and/or make outbound direct sales calls."
+    },
+    {
+      "duty": "Educating clients and prospects about their coverage"
+    },
+    {
+      "duty": "Maintain strong relationships with clients."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "job_title": "Physical Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Therapy",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Assessment",
+      "experience": 3
+    },
+    {
+      "skill": "Treatment Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Rehabilitation Techniques",
+      "experience": 3
+    },
+    {
+      "skill": "Pain Management",
+      "experience": 3
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 4
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Ergonomics",
+      "experience": 3
+    },
+    {
+      "skill": "Injury Prevention",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Proficiency",
+      "experience": 3
+    },
+    {
+      "skill": "Continual Learning",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Consult with patients and interpret evaluations and test results."
+    },
+    {
+      "duty": "Develop personalized treatment plans and administer physical therapy treatments."
+    },
+    {
+      "duty": "Advise patients on exercise techniques, in-home treatment options, and injury prevention."
+    },
+    {
+      "duty": "Provide educational information on promoting physical health and collaborate with other healthcare professionals."
+    },
+    {
+      "duty": "Document patient care history and ensure compliance with regulations and procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 80,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree in Physical Therapy from an accredited institution."
+    },
+    {
+      "credential": "Valid state license to practice physical therapy."
+    },
+    {
+      "credential": "Pass the National Physical Therapist Examination (NPTE)."
+    },
+    {
+      "credential": "Compliance with state regulatory requirements."
+    },
+    {
+      "credential": "Completion of an American Physical Therapy Association (APTA)-accredited residency program."
+    }
+  ]
+}

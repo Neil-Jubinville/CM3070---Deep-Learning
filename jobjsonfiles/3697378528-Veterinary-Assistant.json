@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinary Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Veterinary",
+      "salary": 37000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Collecting patient histories",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Assistance",
+      "experience": 2
+    },
+    {
+      "skill": "Laboratory Work",
+      "experience": 3
+    },
+    {
+      "skill": "Diagnostic Imaging",
+      "experience": 3
+    },
+    {
+      "skill": "Pharmacy",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Recovery",
+      "experience": 2
+    },
+    {
+      "skill": "Client Education",
+      "experience": 2
+    },
+    {
+      "skill": "Husbandry",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collect patient histories and assist Medical Oncologists and Veterinary Technicians."
+    },
+    {
+      "duty": "Perform physical examinations and patient assessment."
+    },
+    {
+      "duty": "Conduct laboratory work and diagnostic imaging."
+    },
+    {
+      "duty": "Handle pharmacy duties and patient recovery."
+    },
+    {
+      "duty": "Work collaboratively with team members of all hospital services."
+    },
+    {
+      "duty": "Educate clients and communicate effectively regarding patient care and treatments."
+    },
+    {
+      "duty": "Husbandry duties and more."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent (Associate's degree preferred)"
+    }
+  ]
+}

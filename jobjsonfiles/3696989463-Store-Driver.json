@@ -1,0 +1,46 @@
+{
+  "meta": [
+    {
+      "job_title": "Store Driver",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Retail",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Delivery",
+      "experience": 1
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "Sales",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver parts to commercial customers"
+    },
+    {
+      "duty": "Assist with task and inventory processes in the store"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 20,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma"
+    }
+  ]
+}

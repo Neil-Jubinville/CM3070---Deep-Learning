@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "MedSurg RN",
+      "job_category": "Nursing",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 2221.4,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Critical Care",
+      "experience": 2
+    },
+    {
+      "skill": "IV Therapy",
+      "experience": 2
+    },
+    {
+      "skill": "Medical-Surgical",
+      "experience": 2
+    },
+    {
+      "skill": "Healthcare Regulations",
+      "experience": 2
+    },
+    {
+      "skill": "Time Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide direct patient care, perform assessments, and develop and implement a nursing care plan."
+    },
+    {
+      "duty": "Assist with procedures and treatments, administer medications, and monitor patient conditions."
+    },
+    {
+      "duty": "Collaborate with healthcare team members, including physicians and other nurses, to provide optimal patient care."
+    },
+    {
+      "duty": "Document patient data and ensure accurate and timely record-keeping."
+    },
+    {
+      "duty": "Adhere to healthcare regulations and maintain a safe and clean work environment."
+    },
+    {
+      "duty": "Communicate effectively with patients and their families, providing education and support."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (Master's preferred)"
+    }
+  ]
+}

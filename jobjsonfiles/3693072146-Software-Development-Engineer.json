@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Development Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Development",
+      "experience": 3
+    },
+    {
+      "skill": "Design Patterns",
+      "experience": 2
+    },
+    {
+      "skill": "Reliability and Scaling",
+      "experience": 2
+    },
+    {
+      "skill": "Mobile Application Development (iOS and Android)",
+      "experience": 2
+    },
+    {
+      "skill": "Full Software Development Life Cycle",
+      "experience": 3
+    },
+    {
+      "skill": "Bachelor's degree in Computer Science or equivalent",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Obsess over software performance and deliver highly scalable, low latency, reliable, and fast services to customers."
+    },
+    {
+      "duty": "Leverage AWS technologies to operate on a global scale and deliver low-latency, highly-available services."
+    },
+    {
+      "duty": "Work with other talented Software Development engineers, Product managers, and Data Engineers to build the future of IT applications."
+    },
+    {
+      "duty": "Combine the culture of a startup, the innovation and creativity of a R&D Lab, the work-life balance of a mature organization, and technical challenges at scale."
+    },
+    {
+      "duty": "Offer a playground of opportunities for builders to build and make history in the organization."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or equivalent (preferred)"
+    }
+  ]
+}

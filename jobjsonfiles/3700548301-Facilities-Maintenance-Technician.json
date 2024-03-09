@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Facilities Maintenance Technician",
+      "job_category": "Facilities",
+      "job_class": "Technician",
+      "sector": "Facilities",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Operations",
+      "experience": 5
+    },
+    {
+      "skill": "Preventive Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Repairs",
+      "experience": 5
+    },
+    {
+      "skill": "Plumbing Repairs",
+      "experience": 5
+    },
+    {
+      "skill": "Facility Management",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate and monitor facility mechanical plant, report malfunctions, and provide support during preventive maintenance of electro/mechanical systems."
+    },
+    {
+      "duty": "Perform preventive maintenance on fitness equipment, pool, and spas, oversee outside maintenance and cleaning service contractors, and make minor repairs."
+    },
+    {
+      "duty": "Coordinate with outside vendors for major repairs, including plumbing, electrical, and mechanical systems, and perform architectural repairs."
+    },
+    {
+      "duty": "Conduct general maintenance duties, ensure safety in the centers, and provide emergency support as needed."
+    },
+    {
+      "duty": "Order maintenance supplies, report policy violations, and meet timelines and deadlines for supporting systems and employee compliance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED Equivalent, 5 years of commercial experience in building systems operations, including swimming pools, basic computer skills, clear driving record, and valid Texas Driver\u2019s License."
+    }
+  ]
+}

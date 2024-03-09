@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Service Plumber",
+      "job_category": "Skilled Trades",
+      "job_class": "Plumber",
+      "sector": "Construction",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform plumbing services for clients in a timely and professional manner."
+    },
+    {
+      "duty": "Troubleshoot and diagnose plumbing issues to provide effective solutions."
+    },
+    {
+      "duty": "Install and repair plumbing systems and fixtures with a focus on quality and durability."
+    },
+    {
+      "duty": "Ensure compliance with building codes and safety standards while completing plumbing tasks."
+    },
+    {
+      "duty": "Deliver exceptional customer service and maintain a positive rapport with clients."
+    },
+    {
+      "duty": "Participate in on-call rotations to handle emergency plumbing situations outside of regular working hours."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Plumbing Services",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Installation & Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Compliance & Safety",
+      "experience": 5
+    },
+    {
+      "skill": "On-call Services",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certification in Plumbing or related field (e.g., Journeyman or Master Plumber)"
+    }
+  ]
+}

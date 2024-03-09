@@ -1,0 +1,93 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Care Technician",
+      "job_category": "Healthcare",
+      "job_class": "Clinical",
+      "sector": "Healthcare",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "CNA",
+      "experience": 2
+    },
+    {
+      "skill": "Nursing Assistant",
+      "experience": 2
+    },
+    {
+      "skill": "Emergency Medical Technician",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Life Support",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Arithmetic",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Follow care plans established by the Registered Nurse and ensure a culture of safety and focus for excellence."
+    },
+    {
+      "duty": "Promote cohesive work teams and collaborate with other departments to provide patient-centered care."
+    },
+    {
+      "duty": "Participate in department and organizational education programs and professional initiatives."
+    },
+    {
+      "duty": "Identify and utilize resources for safe delivery of patient care, report malfunctioning/expired equipment, and ensure proper cleaning and storage of work areas and equipment."
+    },
+    {
+      "duty": "Attend training and education required for the position, keep up to date with clinicals, communication and computer skills, and maintain certifications."
+    },
+    {
+      "duty": "Meet all other duties as required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 30,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma"
+    },
+    {
+      "credential": "Certified Nursing Assistant (CNA) program completion, or first year of Nursing School Program and successful CNA exam."
+    },
+    {
+      "credential": "Certified as a Nursing Assistant by the State of Maryland and be on the State of Maryland registry, or be a certified Emergency Medical Technician (EMT)."
+    },
+    {
+      "credential": "Active American Heart Association Basic Life Support (BLS) certification."
+    },
+    {
+      "credential": "Basic arithmetic calculation skills."
+    },
+    {
+      "credential": "Basic computer skills."
+    }
+  ]
+}

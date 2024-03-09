@@ -1,0 +1,145 @@
+{
+  "meta": [
+    {
+      "job_title": "Systems Administrator III",
+      "job_category": "Information Technology",
+      "job_class": "Administrator",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Systems Administration",
+      "experience": 7
+    },
+    {
+      "skill": "Network Security",
+      "experience": 7
+    },
+    {
+      "skill": "Web Server Maintenance",
+      "experience": 7
+    },
+    {
+      "skill": "Network Account Management",
+      "experience": 7
+    },
+    {
+      "skill": "Firewall Installation",
+      "experience": 7
+    },
+    {
+      "skill": "Intrusion Detection",
+      "experience": 7
+    },
+    {
+      "skill": "Software Training",
+      "experience": 7
+    },
+    {
+      "skill": "Hardware and Software Installation",
+      "experience": 7
+    },
+    {
+      "skill": "Server Configuration",
+      "experience": 7
+    },
+    {
+      "skill": "Active Directory Administration",
+      "experience": 7
+    },
+    {
+      "skill": "Microsoft Exchange Administration",
+      "experience": 7
+    },
+    {
+      "skill": "SQL Server Design",
+      "experience": 7
+    },
+    {
+      "skill": "Powershell Scripting",
+      "experience": 7
+    },
+    {
+      "skill": "Virtualization Technologies",
+      "experience": 7
+    },
+    {
+      "skill": "DevOps Technologies",
+      "experience": 7
+    },
+    {
+      "skill": "Backup and Storage Solutions",
+      "experience": 7
+    },
+    {
+      "skill": "Enterprise PKI/DoD CAC",
+      "experience": 7
+    },
+    {
+      "skill": "RHEL Design",
+      "experience": 7
+    },
+    {
+      "skill": "Scripting with BASH, PERL, Python",
+      "experience": 7
+    },
+    {
+      "skill": "Server and Application Monitoring",
+      "experience": 7
+    },
+    {
+      "skill": "Routing and Switching",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Install hardware and software including systems upgrades."
+    },
+    {
+      "duty": "Create network accounts and ensure network security."
+    },
+    {
+      "duty": "Design web pages and create and update the interfaces."
+    },
+    {
+      "duty": "Create and maintain local system design documentation."
+    },
+    {
+      "duty": "Install and maintain firewalls, anti-virus, and intrusion detection services."
+    },
+    {
+      "duty": "Monitor and document hardware and software system configurations."
+    },
+    {
+      "duty": "Provide users with training on software applications as necessary."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master\u2019s or Bachelor\u2019s degree in Electrical/Electronic/Computer Engineering, Computer Science, or Information Systems (7 years experience with Master\u2019s or 11 years experience with Bachelor\u2019s)"
+    },
+    {
+      "credential": "Current Cybersecurity workforce certification/training in accordance with DoD 8570.1M and subsequent DoD 8140 manual"
+    },
+    {
+      "credential": "Information Assurance Technical II certification"
+    },
+    {
+      "credential": "Active Top Secret Security Clearance"
+    },
+    {
+      "credential": "Proficient in scripting using BASH, PERL, Python, or similar language"
+    }
+  ]
+}

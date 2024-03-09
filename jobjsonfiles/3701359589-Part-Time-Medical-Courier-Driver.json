@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Part Time Medical Courier/Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Logistics",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Safe Driving",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Physical Strength",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Pick up, transport, and deliver medical specimens, lab supplies, and reports in a timely and efficient manner."
+    },
+    {
+      "duty": "Operate company vehicle safely and adhere to traffic laws."
+    },
+    {
+      "duty": "Handle specimens and lab samples with care and ensure safe transportation."
+    },
+    {
+      "duty": "Utilize a handheld electronic device to manage daily pickups and communicate with the dispatcher for additional pick-ups."
+    },
+    {
+      "duty": "Evaluate traffic patterns, alternative routes, and weather conditions as needed for efficient deliveries."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    },
+    {
+      "credential": "Valid Driver's License and clean driving record"
+    },
+    {
+      "credential": "At least 21 years of age"
+    }
+  ]
+}

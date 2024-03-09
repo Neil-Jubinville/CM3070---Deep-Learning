@@ -1,0 +1,97 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Combine technical expertise and problem-solving passion to work closely with clients, turning complex ideas into end-to-end solutions that transform our client\u2019s business."
+    },
+    {
+      "duty": "Lead, design, develop and deliver large-scale data systems, data processing, and data transformation projects that deliver business value for clients."
+    },
+    {
+      "duty": "Automate data platform operations and manage the post-production system and processes."
+    },
+    {
+      "duty": "Conduct technical feasibility assessments and provide project estimates for the design and development of the solution."
+    },
+    {
+      "duty": "Provide technical inputs to agile processes, such as epic, story, and task definition to resolve issues and remove barriers throughout the lifecycle of client engagements."
+    },
+    {
+      "duty": "Creation and maintenance of infrastructure-as-code for cloud, on-prem, and hybrid environments using tools such as Terraform, CloudFormation, Azure Resource Manager, Helm, and Google Cloud Deployment Manager."
+    },
+    {
+      "duty": "Mentor, help and grow junior team members."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Platforms",
+      "experience": 8
+    },
+    {
+      "skill": "Cloud Data Platforms (Azure, AWS, Google Cloud)",
+      "experience": 5
+    },
+    {
+      "skill": "Database Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Data Pipeline Implementation",
+      "experience": 8
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 8
+    },
+    {
+      "skill": "Continuous Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Data Processing Programming (SQL, Python)",
+      "experience": 8
+    },
+    {
+      "skill": "Cloud-native Data Platform Design",
+      "experience": 8
+    },
+    {
+      "skill": "Automated Testing Frameworks",
+      "experience": 5
+    },
+    {
+      "skill": "Metadata Management",
+      "experience": 5
+    },
+    {
+      "skill": "Code Review and Mentorship",
+      "experience": 8
+    },
+    {
+      "skill": "Bachelor's Degree in Computer Science, Engineering, or related field",
+      "experience": 0
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science, Engineering or related field. Master's degree preferred."
+    }
+  ]
+}

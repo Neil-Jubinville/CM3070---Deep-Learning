@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Scientist, Algorithms",
+      "job_category": "Data Science",
+      "job_class": "Scientist",
+      "sector": "Software Engineering",
+      "salary": 170000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mathematical Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Optimization",
+      "experience": 5
+    },
+    {
+      "skill": "Statistical Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Algorithm Development",
+      "experience": 5
+    },
+    {
+      "skill": "Experiment Design",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop mathematical models underpinning the platform\u2019s core services."
+    },
+    {
+      "duty": "Conduct exploratory data analysis and fit statistical, machine learning, or optimization models."
+    },
+    {
+      "duty": "Collaborate with Software Engineers to implement algorithms and models in production."
+    },
+    {
+      "duty": "Design and implement both simulated and live experiments."
+    },
+    {
+      "duty": "Analyze experimental and observational data; communicate findings; facilitate launch decisions."
+    },
+    {
+      "duty": "Drive collaboration and coordination with cross-functional teams."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "M.S. or Ph.D. in Machine Learning, Operations Research, Optimization, Computer Science, or other quantitative fields or related work experience"
+    }
+  ]
+}

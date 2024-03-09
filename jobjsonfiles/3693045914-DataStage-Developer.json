@@ -1,0 +1,106 @@
+{
+  "meta": [
+    {
+      "job_title": "DataStage Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "DataStage",
+      "experience": 10
+    },
+    {
+      "skill": "Python",
+      "experience": 10
+    },
+    {
+      "skill": "ETL",
+      "experience": 10
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 10
+    },
+    {
+      "skill": "SQL",
+      "experience": 10
+    },
+    {
+      "skill": "AWS",
+      "experience": 10
+    },
+    {
+      "skill": "DynamoDB",
+      "experience": 10
+    },
+    {
+      "skill": "Lambda",
+      "experience": 10
+    },
+    {
+      "skill": "Step Functions",
+      "experience": 10
+    },
+    {
+      "skill": "Glue",
+      "experience": 10
+    },
+    {
+      "skill": "S3",
+      "experience": 10
+    },
+    {
+      "skill": "Redshift",
+      "experience": 10
+    },
+    {
+      "skill": "Agile",
+      "experience": 10
+    },
+    {
+      "skill": "QA Methodology",
+      "experience": 10
+    },
+    {
+      "skill": "DevOps",
+      "experience": 10
+    },
+    {
+      "skill": "Banking",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Services",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Development and maintenance of ETL code using DataStage to implement the requirements"
+    },
+    {
+      "duty": "Write complex SQL queries based on requirements to extract the data from databases"
+    },
+    {
+      "duty": "Pull data from Oracle and troubleshoot Oracle as needed"
+    },
+    {
+      "duty": "Contribute to the data reconciliation process"
+    },
+    {
+      "duty": "Perform code fixing and code deployment and Scheduling through different cycles of testing"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 40,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": []
+}

@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Design Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Design",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SolidWorks",
+      "experience": 10
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "experience": 10
+    },
+    {
+      "skill": "Product Development",
+      "experience": 10
+    },
+    {
+      "skill": "Industrial Design",
+      "experience": 10
+    },
+    {
+      "skill": "Material Specification",
+      "experience": 10
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 10
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Project Management",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead all design engineering for furniture, packaging, and regulatory aspects of the business."
+    },
+    {
+      "duty": "Manage NPD/NPI projects and collaborate with internal teams and component suppliers."
+    },
+    {
+      "duty": "Create and validate soft and hard prototypes, with a focus on solid wood construction best practices."
+    },
+    {
+      "duty": "Utilize PLM/ERP for REV control and production implementation."
+    },
+    {
+      "duty": "Develop detailed SolidWorks assemblies with 2D/3D spec packages for production."
+    },
+    {
+      "duty": "Support sales, customer service, purchasing, and production with product knowledge and design expertise."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Mechanical Engineering or Product Development (Master's preferred)"
+    }
+  ]
+}

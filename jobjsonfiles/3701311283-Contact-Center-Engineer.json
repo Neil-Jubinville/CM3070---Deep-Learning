@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Contact Center Engineer",
+      "job_category": "Information Technology",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Contact Center Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "IVR",
+      "experience": 5
+    },
+    {
+      "skill": "ACD",
+      "experience": 5
+    },
+    {
+      "skill": "Call Routing",
+      "experience": 5
+    },
+    {
+      "skill": "Telephony Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Cisco UCCE",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting Languages",
+      "experience": 5
+    },
+    {
+      "skill": "Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Customizations",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "Node.js",
+      "experience": 5
+    },
+    {
+      "skill": "API Interaction",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Configure and maintain contact center technologies, including IVR, ACD, call routing, and telephony systems."
+    },
+    {
+      "duty": "Provision and manage contact center platforms such as Cisco UCCE (ICM, CVP - VXML, ECE)."
+    },
+    {
+      "duty": "Utilize SQL knowledge for data management and analysis within the contact center environment."
+    },
+    {
+      "duty": "Develop and maintain custom applications using scripting languages like Python, PHP, and PowerShell for automation and customizations."
+    },
+    {
+      "duty": "Utilize Java, JavaScript, and node.js for developing custom applications which interact with multiple APIs."
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "meta": [
+    {
+      "job_title": ".NET Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "WPF",
+      "experience": 10
+    },
+    {
+      "skill": "DevOps",
+      "experience": 10
+    },
+    {
+      "skill": "DevExpress",
+      "experience": 10
+    },
+    {
+      "skill": "Microsoft Prism",
+      "experience": 10
+    },
+    {
+      "skill": "NUnit",
+      "experience": 10
+    },
+    {
+      "skill": "Moq",
+      "experience": 10
+    },
+    {
+      "skill": "ClosedXML",
+      "experience": 10
+    },
+    {
+      "skill": "NuGet",
+      "experience": 10
+    },
+    {
+      "skill": "ClickOnce",
+      "experience": 10
+    },
+    {
+      "skill": "PowerShell",
+      "experience": 10
+    },
+    {
+      "skill": "Bitbucket",
+      "experience": 10
+    },
+    {
+      "skill": "Bamboo",
+      "experience": 10
+    },
+    {
+      "skill": "SonarQube",
+      "experience": 10
+    },
+    {
+      "skill": "GraphQL",
+      "experience": 10
+    },
+    {
+      "skill": "gRPC",
+      "experience": 10
+    },
+    {
+      "skill": "protobuf",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop WPF desktop applications using Visual Studio 2022 targeting .NET 5.0."
+    },
+    {
+      "duty": "Utilize DevExpress controls for UX/UI development."
+    },
+    {
+      "duty": "Implement Avlon Dock for docking within the desktop application."
+    },
+    {
+      "duty": "Integrate Microsoft Prism for IOC (DryIoc) and other WPF features."
+    },
+    {
+      "duty": "Conduct unit testing using NUnit & Moq."
+    },
+    {
+      "duty": "Utilize ClosedXML for Excel export within the application."
+    },
+    {
+      "duty": "Implement Jason/Graph QL/GRPC/protobuf for communication/transportation."
+    },
+    {
+      "duty": "Manage packages using NuGet & package deployment using ClickOnce."
+    },
+    {
+      "duty": "Utilize PowerShell for build and scripting purposes."
+    },
+    {
+      "duty": "Utilize Bitbucket for source control, Bamboo for CI/CD & SonarQube for code coverage."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 40,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": []
+}

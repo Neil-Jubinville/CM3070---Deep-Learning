@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Unreal Engine 5 Programmer",
+      "job_category": "Software Engineering",
+      "job_class": "Programmer",
+      "sector": "Gaming",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Unreal Engine 5 Development",
+      "experience": 3
+    },
+    {
+      "skill": "C++ Programming",
+      "experience": 3
+    },
+    {
+      "skill": "Blueprints Scripting",
+      "experience": 3
+    },
+    {
+      "skill": "Game Optimization",
+      "experience": 3
+    },
+    {
+      "skill": "Clear Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Game Design Collaboration",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Working with existing blueprints code"
+    },
+    {
+      "duty": "Writing and debugging in C++"
+    },
+    {
+      "duty": "Making sure game world is optimized and hitting our needs"
+    },
+    {
+      "duty": "Communicating with the game designer and creative director to fulfill the vision of the game"
+    },
+    {
+      "duty": "Being receptive to feedback and implementing changes as needed"
+    },
+    {
+      "duty": "Attending weekly meetings and completing work in letter and spirit"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Game Design, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

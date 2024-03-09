@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Scrub Technologist",
+      "job_category": "Nursing",
+      "job_class": "Technologist",
+      "sector": "Medical",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Scrubbing",
+      "experience": 5
+    },
+    {
+      "skill": "General Surgeries",
+      "experience": 5
+    },
+    {
+      "skill": "Traumas",
+      "experience": 5
+    },
+    {
+      "skill": "Orthopedics",
+      "experience": 5
+    },
+    {
+      "skill": "OBGYN",
+      "experience": 5
+    },
+    {
+      "skill": "Endoscopies",
+      "experience": 5
+    },
+    {
+      "skill": "Call Duty",
+      "experience": 5
+    },
+    {
+      "skill": "BLS/BCLS Certification",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform scrubbing during surgical procedures, ensuring sterile techniques and adherence to safety protocols."
+    },
+    {
+      "duty": "Assist in general surgeries, traumas, orthopedics, OBGYN, and Endoscopies, maintaining a high standard of patient care."
+    },
+    {
+      "duty": "Take call duty as required, responding promptly to assist the surgical team in emergency cases."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certification in Operating Room / Scrub Technology"
+    }
+  ]
+}

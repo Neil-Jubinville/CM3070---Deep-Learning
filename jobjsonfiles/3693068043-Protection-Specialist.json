@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Protection Specialist",
+      "job_category": "Security",
+      "job_class": "Protective Services",
+      "sector": "Security",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Fitness",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Security Operations",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 5
+    },
+    {
+      "skill": "Readiness Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Survelliance",
+      "experience": 5
+    },
+    {
+      "skill": "Adversary Detection",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide protection and logistical support at clients' homes and during travel."
+    },
+    {
+      "duty": "Detect and defeat adversaries as part of protection responsibilities."
+    },
+    {
+      "duty": "Create and maintain readiness to meet any potential threat or emergency."
+    },
+    {
+      "duty": "Survey and prepare locations before the arrival of the protected person."
+    },
+    {
+      "duty": "Coordinate and execute plans for security and medical emergencies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Military, law enforcement, or security background is meaningful, though not a requirement. Bachelor's degree is a plus."
+    }
+  ]
+}

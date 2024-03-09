@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Hourly Supervisor",
+      "job_category": "Retail",
+      "job_class": "Supervisor",
+      "sector": "Retail",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Training",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Merchandising",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensure customer satisfaction by greeting and answering their questions"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree in Business Administration or a related field"
+    }
+  ]
+}

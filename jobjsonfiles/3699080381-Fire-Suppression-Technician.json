@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Fire Suppression Technician",
+      "job_category": "Technician",
+      "job_class": "Fire and Safety",
+      "sector": "Fire Protection",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Fire Protection",
+      "experience": 3
+    },
+    {
+      "skill": "Mechanical Aptitude",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "NFPA Standards",
+      "experience": 3
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain and grow a route servicing existing fire extinguisher, kitchen hood, e-light and pre-engineered and possibly engineered gas system customers."
+    },
+    {
+      "duty": "Inspect, service, repair and install 2 or more suppression product lines; emergency lights, fire extinguishers, pre-engineered and industrial systems according to safety requirements and manufacturer's specifications."
+    },
+    {
+      "duty": "Make recommendations based on manufacturer's specification and state/local codes. Identify deficiencies. Quote, sell, and repair on-site."
+    },
+    {
+      "duty": "Up-sell existing customers to new product offerings and services to meet compliance with current fire code regulations."
+    },
+    {
+      "duty": "Sell new accounts on the route based on the same compliance criteria."
+    },
+    {
+      "duty": "Call on potential customers to offer suppression products and services. Up-sell and cross-sell existing customers to new product offerings and services to meet compliance with current fire code regulations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 45,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalency. Valid motor vehicle license is required."
+    }
+  ]
+}

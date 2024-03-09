@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Support Engineer",
+      "job_category": "Technical Support",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Networking",
+      "experience": 2
+    },
+    {
+      "skill": "Linux OSS",
+      "experience": 2
+    },
+    {
+      "skill": "Operating Sys/Virtualization",
+      "experience": 2
+    },
+    {
+      "skill": "Technical Support/Consulting",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 4
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 4
+    },
+    {
+      "skill": "Analytical Thinking",
+      "experience": 4
+    },
+    {
+      "skill": "Remote Collaboration",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide technical support and troubleshooting for network topologies, network protocols, and operating systems/virtualization."
+    },
+    {
+      "duty": "Conduct problem solving and troubleshooting, using various data collection tools and methodologies to analyze and resolve customer issues."
+    },
+    {
+      "duty": "Drive discussions remotely with authority and collaborate with teams to resolve complex product issues."
+    },
+    {
+      "duty": "Develop and nurture relationships over long distances using remote technologies like Teams."
+    },
+    {
+      "duty": "Analyze patterns of problems and identify workflows to optimize support engineering delivery."
+    },
+    {
+      "duty": "Collaborate on cross-team and cross-product technical issues to resolve complex customer issues."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "None required. CKA (Certified Kubernetes Administrator) is a major plus."
+    }
+  ]
+}

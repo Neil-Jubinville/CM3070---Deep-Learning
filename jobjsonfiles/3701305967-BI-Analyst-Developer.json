@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "BI Analyst/Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Analyst",
+      "sector": "Financial Brokerage",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "BI Development/Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "DAX Programming",
+      "experience": 3
+    },
+    {
+      "skill": "Power BI Report Builder",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 4
+    },
+    {
+      "skill": "Finance Reporting",
+      "experience": 4
+    },
+    {
+      "skill": "Business Intelligence",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop financial dashboards using DAX programming languages and Power BI Report Builder."
+    },
+    {
+      "duty": "Create reports and dashboards for financial and leadership teams, focusing on revenue percentages and the Profit and Loss statement."
+    },
+    {
+      "duty": "Ensure consistency in the design and functionality of dashboards across the team."
+    },
+    {
+      "duty": "Collaborate with the director of the financial teams to prioritize and vet financial reports."
+    },
+    {
+      "duty": "Work with the CIO to meet the reporting requirements of the financial and leadership teams."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Data Science, or related field (Master's preferred)"
+    }
+  ]
+}

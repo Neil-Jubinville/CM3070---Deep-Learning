@@ -1,0 +1,93 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Construction",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Construction Technology",
+      "experience": 3
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 5
+    },
+    {
+      "skill": "Resource Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 5
+    },
+    {
+      "skill": "Client Relations",
+      "experience": 5
+    },
+    {
+      "skill": "Team Management",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 5
+    },
+    {
+      "skill": "Decision-making",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with clients to define project scope, objectives, and deliverables."
+    },
+    {
+      "duty": "Lead cross-functional project teams, including architects, engineers, contractors, and other specialists."
+    },
+    {
+      "duty": "Ensure that all project deliverables meet or exceed client expectations and quality standards."
+    },
+    {
+      "duty": "Allocate and manage project resources effectively, including personnel and technology."
+    },
+    {
+      "duty": "Maintain clear and open communication channels with clients and team members."
+    },
+    {
+      "duty": "Monitor project budgets, track expenses, and ensure cost control throughout the project lifecycle."
+    },
+    {
+      "duty": "Foster strong client relationships through exceptional service and communication."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Construction Management, Engineering, Business Administration, or a related field"
+    }
+  ]
+}

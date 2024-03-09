@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Manufacturing Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Industrial",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Engineering",
+      "experience": 3
+    },
+    {
+      "skill": "3D CAD Modeling",
+      "experience": 3
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Excellent Interpersonal Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Process Documentation",
+      "experience": 4
+    },
+    {
+      "skill": "Tooling Design",
+      "experience": 4
+    },
+    {
+      "skill": "Material and Information Flow",
+      "experience": 4
+    },
+    {
+      "skill": "Coordinating with Suppliers",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Coordinate build ahead with operations and cell setup and integration."
+    },
+    {
+      "duty": "Design tooling and allocate capital equipment."
+    },
+    {
+      "duty": "Document processes and ensure efficient material and information flow for production."
+    },
+    {
+      "duty": "Conduct time studies and analysis, write work instructions."
+    },
+    {
+      "duty": "Collaborate with suppliers and other partners."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 60,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Mechanical, Manufacturing, or Agricultural Engineering (Master's preferred)"
+    }
+  ]
+}

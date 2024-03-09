@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Food Service Worker",
+      "job_category": "Dining and Food Service",
+      "job_class": "Entry Level",
+      "sector": "Food Service",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food Service",
+      "experience": 2
+    },
+    {
+      "skill": "Physical Demands",
+      "experience": 3
+    },
+    {
+      "skill": "Food Safety",
+      "experience": 2
+    },
+    {
+      "skill": "Cleaning",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare items for assembly line and assist in setting up Meals on Wheels tray line."
+    },
+    {
+      "duty": "Store patient care food items and ensure proper covering, dating, and labeling."
+    },
+    {
+      "duty": "Clean tray line, steam tables, food warmers, and refrigerators as well as the floor after meal service."
+    },
+    {
+      "duty": "Maintain physical demands such as walking, carrying, pushing/pulling, twisting, bending, reaching, wrist position deviation, and fine motor activities."
+    },
+    {
+      "duty": "Meet occasional physical demands including sitting, climbing, reaching overhead, squatting/kneeling/crawling, and keyboard use/repetitive motion."
+    },
+    {
+      "duty": "Handle continuous physical demands such as standing, talking, and lifting heavy weights up to 50 lbs."
+    },
+    {
+      "duty": "Adhere to company policies regarding onboarding process, annual flu vaccine, and protection of personal information."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED preferred."
+    },
+    {
+      "credential": "Food Service experience preferred."
+    }
+  ]
+}

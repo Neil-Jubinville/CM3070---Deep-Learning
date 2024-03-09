@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Support Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Retail",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Cash Management",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Visual Merchandising",
+      "experience": 3
+    },
+    {
+      "skill": "Loss Prevention",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "Sales Floor Analysis",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greeting and serving customers at the cash wrap with friendly and efficient interactions."
+    },
+    {
+      "duty": "Maintaining accurate cash wrap organization and cleanliness, and suggesting add-ons and gift cards."
+    },
+    {
+      "duty": "Receiving shipments and transfers, notifying management, and processing them according to company standards."
+    },
+    {
+      "duty": "Analyzing sales floor for replenishment needs, replenishing sales floor, and executing visual merchandising needs."
+    },
+    {
+      "duty": "Regularly participating in store physical inventory counts and maintaining company loss prevention standards."
+    },
+    {
+      "duty": "Representing the Coach brand appropriately and creating lasting impressions on customers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Medical",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Management",
+      "experience": 5
+    },
+    {
+      "skill": "Wound Care",
+      "experience": 5
+    },
+    {
+      "skill": "Health Education",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Report Compilation",
+      "experience": 5
+    },
+    {
+      "skill": "Listening Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Certifications",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Traveling to patients\u2019 homes and managing their care plans according to physicians\u2019 instructions."
+    },
+    {
+      "duty": "Administering medication and insulin, and completing blood pressure, glucose, urine, and stool tests."
+    },
+    {
+      "duty": "Inspecting wounds, changing dressings, and handling personal grooming and hygiene."
+    },
+    {
+      "duty": "Testing for muscle weakness, bedsores, and any signs of infection."
+    },
+    {
+      "duty": "Listening to the concerns of family members and answering their questions."
+    },
+    {
+      "duty": "Educating caregivers and family on the aftercare or ongoing care of the patient."
+    },
+    {
+      "duty": "Providing suggestions for improved healthcare to physicians and family members of the patient."
+    },
+    {
+      "duty": "Monitoring patient recovery and compiling reports for the physician."
+    },
+    {
+      "duty": "Keeping abreast of developments in healthcare and attending workshops and lectures as required."
+    },
+    {
+      "duty": "Collaborating with doctors and other healthcare professionals to develop improved diets and healthcare plans for patients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Active BLS or CPR certification."
+    },
+    {
+      "credential": "RN license for the state of Ohio OR Compact license."
+    }
+  ]
+}

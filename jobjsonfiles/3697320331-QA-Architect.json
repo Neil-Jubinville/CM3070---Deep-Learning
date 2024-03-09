@@ -1,0 +1,137 @@
+{
+  "meta": [
+    {
+      "job_title": "QA Architect",
+      "job_category": "Technology",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Test Automation",
+      "experience": 10
+    },
+    {
+      "skill": "Selenium",
+      "experience": 10
+    },
+    {
+      "skill": "Cypress",
+      "experience": 10
+    },
+    {
+      "skill": "RestAssured",
+      "experience": 10
+    },
+    {
+      "skill": "Java Development",
+      "experience": 10
+    },
+    {
+      "skill": "RDBMS",
+      "experience": 10
+    },
+    {
+      "skill": "SQL",
+      "experience": 10
+    },
+    {
+      "skill": "Jenkins",
+      "experience": 10
+    },
+    {
+      "skill": "Selenium Grid",
+      "experience": 10
+    },
+    {
+      "skill": "Maven",
+      "experience": 10
+    },
+    {
+      "skill": "Eclipse",
+      "experience": 10
+    },
+    {
+      "skill": "IntelliJ IDE",
+      "experience": 10
+    },
+    {
+      "skill": "Spring Framework",
+      "experience": 10
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 10
+    },
+    {
+      "skill": "Integration Testing",
+      "experience": 10
+    },
+    {
+      "skill": "System Testing",
+      "experience": 10
+    },
+    {
+      "skill": "Test Strategy",
+      "experience": 10
+    },
+    {
+      "skill": "Behavior Driven Development (BDD)",
+      "experience": 10
+    },
+    {
+      "skill": "Test Driven Development (TDD)",
+      "experience": 10
+    },
+    {
+      "skill": "Cloud Technologies",
+      "experience": 10
+    },
+    {
+      "skill": "Test Data Management",
+      "experience": 10
+    },
+    {
+      "skill": "Infrastructure Design",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design automation frameworks and automated functional integration tests with and without multifactor authentication (MFA) in Agile environment."
+    },
+    {
+      "duty": "Provide overall automation design and strategy for automated solutions in Fedwire to across all Payments products lines / environments."
+    },
+    {
+      "duty": "Define automation strategy and design tools for functional and performance testing of critical systems."
+    },
+    {
+      "duty": "Guide the design of automated tests for end-to-end quality working closely with multiple engineers and teams."
+    },
+    {
+      "duty": "Craft automation to integrate with build pipelines and other automated unit, integration, and system tests."
+    },
+    {
+      "duty": "Design test automation coverage for convoluted changes requiring testing efforts across multiple products and squads."
+    },
+    {
+      "duty": "Participate in IT strategy development and proactive mentorship of squad members on automation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Permanent Staff PCU Registered Nurse",
+      "job_category": "Nursing",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Physiological Monitoring",
+      "experience": 3
+    },
+    {
+      "skill": "Critical Care",
+      "experience": 3
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Empathy",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide patient care in the PCU setting, including medication administration and physiological monitoring."
+    },
+    {
+      "duty": "Manage critical care situations and document patient information accurately."
+    },
+    {
+      "duty": "Demonstrate empathy and teamwork in providing care to patients and communicating effectively with the healthcare team."
+    },
+    {
+      "duty": "Pay attention to detail and ensure the highest level of patient safety and satisfaction."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing"
+    }
+  ]
+}

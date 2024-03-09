@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Network Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "Linux",
+      "experience": 5
+    },
+    {
+      "skill": "REST APIs",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Processes",
+      "experience": 5
+    },
+    {
+      "skill": "Networking Protocols",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Networking",
+      "experience": 5
+    },
+    {
+      "skill": "VMware NSX-T",
+      "experience": 5
+    },
+    {
+      "skill": "VRO Development",
+      "experience": 3
+    },
+    {
+      "skill": "UI Development",
+      "experience": 3
+    },
+    {
+      "skill": "NSX/NSX-T",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain software-defined networking deployments with VMware NSX-T."
+    },
+    {
+      "duty": "Implement and support network technologies and protocols including BGP, VRF, MPLS, IP, TCP, UDP in a data center context."
+    },
+    {
+      "duty": "Develop, maintain, and support networks in NSX/NSX-T."
+    },
+    {
+      "duty": "Develop, test, and deploy software solutions in Python and JavaScript."
+    },
+    {
+      "duty": "Utilize REST APIs for software development and integration."
+    },
+    {
+      "duty": "Collaborate with teams to ensure Agile development processes and practices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 60,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

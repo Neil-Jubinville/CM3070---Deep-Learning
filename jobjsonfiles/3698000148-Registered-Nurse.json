@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Technology",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Decision Making",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Emotional Intelligence",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Providing patient care and treatment in accordance with medical and nursing standards."
+    },
+    {
+      "duty": "Collaborating with medical professionals to develop and implement patient care plans."
+    },
+    {
+      "duty": "Monitoring and administering medication, and assessing patient responses."
+    },
+    {
+      "duty": "Using healthcare technology for record-keeping and patient monitoring."
+    },
+    {
+      "duty": "Responding to and managing emergency medical situations."
+    },
+    {
+      "duty": "Supporting and educating patients and their families on healthcare options and treatment plans."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Diploma in Nursing or an ASN/BSN"
+    },
+    {
+      "credential": "Valid Registered Nurse license in the applicable state."
+    },
+    {
+      "credential": "CPR certification"
+    },
+    {
+      "credential": "Additional certifications as required for specified areas."
+    },
+    {
+      "credential": "Good verbal and written communication skills."
+    }
+  ]
+}

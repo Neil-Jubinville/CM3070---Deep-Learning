@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Maintenance and Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Personnel Management",
+      "experience": 3
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "OSHA Regulations",
+      "experience": 3
+    },
+    {
+      "skill": "Work Scheduling",
+      "experience": 4
+    },
+    {
+      "skill": "Equipment Inspection",
+      "experience": 4
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 4
+    },
+    {
+      "skill": "Decision Making",
+      "experience": 4
+    },
+    {
+      "skill": "Workplace Safety",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Serve as a team lead for Maintenance technicians, overseeing and assigning work, and providing subject matter expertise and consultancy on equipment maintenance and repair."
+    },
+    {
+      "duty": "Assist with personnel duties, including staffing, performance management, annual reviews, and time and attendance, during management absences."
+    },
+    {
+      "duty": "Promote a safe work environment in compliance with federal and state regulations, conduct safety meetings, and monitor required repair campaigns and warranty procedures."
+    },
+    {
+      "duty": "Inspect completed repairs, schedule inbound equipment, and monitor work in progress to ensure safety, correctness, and standard repair times."
+    },
+    {
+      "duty": "Perform other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED equivalent"
+    }
+  ]
+}

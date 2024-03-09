@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Direct Support Professional",
+      "job_category": "Healthcare",
+      "job_class": "Professional",
+      "sector": "Healthcare",
+      "salary": 20,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Personal Care",
+      "experience": 1
+    },
+    {
+      "skill": "Medication Assistance",
+      "experience": 1
+    },
+    {
+      "skill": "Household Tasks",
+      "experience": 1
+    },
+    {
+      "skill": "Meal Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Relationship Building",
+      "experience": 3
+    },
+    {
+      "skill": "Dependability",
+      "experience": 3
+    },
+    {
+      "skill": "Prosocial Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Willingness to Make a Difference",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist members with personal care and medication assistance"
+    },
+    {
+      "duty": "Handle household tasks and meal preparation"
+    },
+    {
+      "duty": "Participate in chosen social and community activities"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 100,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED, 18 years of age, and possession of a valid driver\u2019s license"
+    }
+  ]
+}

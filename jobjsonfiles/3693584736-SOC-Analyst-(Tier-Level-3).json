@@ -1,0 +1,51 @@
+{
+  "meta": [
+    {
+      "job_title": "SOC Analyst (Tier/Level 3)",
+      "job_category": "IT",
+      "job_class": "Analyst",
+      "sector": "IT and Cybersecurity",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Splunk",
+      "experience": 5
+    },
+    {
+      "skill": "CrowdStrike EDR",
+      "experience": 5
+    },
+    {
+      "skill": "Forescout",
+      "experience": 5
+    },
+    {
+      "skill": "Pan FW",
+      "experience": 5
+    },
+    {
+      "skill": "Tenable",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Monitor and analyze IT systems using Splunk, CrowdStrike EDR, Forescout, Pan FW, and Tenable to identify and respond to security threats."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Security, or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "HVAC Serviceman",
+      "job_category": "HVAC",
+      "job_class": "Serviceman",
+      "sector": "Engineering",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Equipment Service",
+      "experience": 5
+    },
+    {
+      "skill": "HVAC Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Plumbing",
+      "experience": 5
+    },
+    {
+      "skill": "Pipefitting",
+      "experience": 5
+    },
+    {
+      "skill": "Refrigerants",
+      "experience": 5
+    },
+    {
+      "skill": "Boiler and Steam Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform HVAC troubleshooting, plumbing, pipefitting, and mechanical equipment service in residential, light commercial, and heavy commercial markets."
+    },
+    {
+      "duty": "Obtain and maintain necessary licenses and operational knowledge for refrigerants, boilers, and steam."
+    },
+    {
+      "duty": "Demonstrate good verbal and written communication skills in the execution of duties."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "5+ years of practical working experience in HVAC plumbing, pipefitting, and/or mechanical equipment service industry."
+    },
+    {
+      "credential": "Valid driver's license and appropriate licenses for refrigerants, boiler, and steam operational & service knowledge."
+    },
+    {
+      "credential": "Good verbal and written communication skills."
+    }
+  ]
+}

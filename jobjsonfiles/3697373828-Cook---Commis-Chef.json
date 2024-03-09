@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Cook / Commis Chef",
+      "job_category": "Culinary",
+      "job_class": "Chef",
+      "sector": "Hospitality",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food Presentation",
+      "experience": 3
+    },
+    {
+      "skill": "Kitchen Management",
+      "experience": 3
+    },
+    {
+      "skill": "Food Safety",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Supply Management",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Math",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Physical Strength",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create memorable and visually appealing meals that meet high standards and delight guests."
+    },
+    {
+      "duty": "Manage kitchen supplies, equipment, and minimize waste while maintaining cleanliness and hygiene."
+    },
+    {
+      "duty": "Ensure kitchen safety by reporting unsafe equipment and following safety procedures."
+    },
+    {
+      "duty": "Assist with washing up and other kitchen duties as needed."
+    },
+    {
+      "duty": "Provide excellent customer service and assistance to guests when required."
+    },
+    {
+      "duty": "Be flexible with work shifts and take on ad-hoc duties when necessary."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Diploma in Culinary Arts or related field (Bachelor's degree preferred)"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Cath Lab RN",
+      "job_category": "Nursing",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 2778.6,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Clinical Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Equipment Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide patient care in a Cath Lab setting, assisting with medical procedures and operations."
+    },
+    {
+      "duty": "Utilize clinical skills and critical thinking to assess and respond to patient needs during procedures."
+    },
+    {
+      "duty": "Operate and monitor medical equipment to ensure patient safety and accurate data collection."
+    },
+    {
+      "duty": "Assist in emergency response situations, following established protocols and procedures for patient care."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing, RN licensure (Master's preferred)"
+    }
+  ]
+}

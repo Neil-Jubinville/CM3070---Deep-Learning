@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Store Manager",
+      "job_category": "Retail",
+      "job_class": "Manager",
+      "sector": "Retail",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Retail Management",
+      "experience": 5
+    },
+    {
+      "skill": "Merchandising",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Control",
+      "experience": 5
+    },
+    {
+      "skill": "Human Resources Management",
+      "experience": 5
+    },
+    {
+      "skill": "Expense Control",
+      "experience": 5
+    },
+    {
+      "skill": "Shrinkage Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Establish and maintain Guest Services in a retail store environment."
+    },
+    {
+      "duty": "Oversee the operation of the store, ensuring maximum sales and profitability."
+    },
+    {
+      "duty": "Control expenses, shrinkage, and manage human resources."
+    },
+    {
+      "duty": "Manage all aspects of merchandising and inventory control in adherence to company policies."
+    },
+    {
+      "duty": "Ensure compliance with all Company policies and procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Prior retail management experience is required. Minimum age requirement for a Store Manager is 21."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Household Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 115000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Marketing",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Lead Generation",
+      "experience": 4
+    },
+    {
+      "skill": "CRM Systems",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Analyze customers\u2019 water composition and design water treatment solutions."
+    },
+    {
+      "duty": "Make sales presentations and build solid, long-lasting customer relationships within assigned territory."
+    },
+    {
+      "duty": "Utilize company leads and marketing support to build territory."
+    },
+    {
+      "duty": "Generate leads and build a territory."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 130,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma/GED required; bachelor\u2019s degree preferred"
+    }
+  ]
+}

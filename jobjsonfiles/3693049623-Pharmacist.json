@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Pharmacist",
+      "job_category": "Healthcare",
+      "job_class": "Pharmacist",
+      "sector": "Pharmacy",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Services",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Immunization Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Pharmacy Management",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 5
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide world-class customer service and exceed customer expectations in the pharmacy."
+    },
+    {
+      "duty": "Oversee the operation of the pharmacy, ensuring compliance with company standards and regulations."
+    },
+    {
+      "duty": "Administer immunizations and provide clinical services according to relevant case load."
+    },
+    {
+      "duty": "Dispense or compound medications to customers pursuant to prescriptions, following laws, regulations, policies, procedures, and ethics standards."
+    },
+    {
+      "duty": "Evaluate new and existing medications within patient profiles to ensure no drug interactions prior to filling prescriptions."
+    },
+    {
+      "duty": "Maintain records and reports related to pharmacy functions, volume, and sales."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Pharmacy or PharmD. Previous experience preferred."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "DevOps Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Azure DevOps",
+      "experience": 3
+    },
+    {
+      "skill": "Terraform",
+      "experience": 3
+    },
+    {
+      "skill": "Azure Cloud",
+      "experience": 3
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 2
+    },
+    {
+      "skill": "PowerShell",
+      "experience": 2
+    },
+    {
+      "skill": "Python",
+      "experience": 2
+    },
+    {
+      "skill": "ASP.NET Core",
+      "experience": 2
+    },
+    {
+      "skill": "React.js",
+      "experience": 2
+    },
+    {
+      "skill": "Angular.js",
+      "experience": 2
+    },
+    {
+      "skill": "API Security",
+      "experience": 3
+    },
+    {
+      "skill": "Architecture Design",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, build, test, and deploy a highly scalable environment in the Azure Cloud using Azure DevOps, Azure Portal, Azure Pipelines, Terraform, and native Azure services."
+    },
+    {
+      "duty": "Provide recommendations for furthering DevOps capabilities and ensure the security, availability, and performance of API endpoints, applications, and architecture."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": []
+}

@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for the direct and/or indirect care of patients assigned utilizing professional nursing skills and knowledge."
+    },
+    {
+      "duty": "Assesses learning needs, readiness to learn and identify actual or potential barriers to learning and thereby incorporating the patient's education into daily activities based on age, cultural and spiritual values."
+    },
+    {
+      "duty": "Documents admission assessment / reassessment, plan, interventions and medication use and monitors its effects and outcomes according to policy."
+    },
+    {
+      "duty": "Utilizes the information management system to enhance communication and documents change in-patients condition to all appropriate individuals."
+    },
+    {
+      "duty": "Prioritizes work assignment based on changing situations."
+    },
+    {
+      "duty": "Communicates transfer of patient responsibility and pertinent information at the bedside and during Interprofessional Rounds."
+    },
+    {
+      "duty": "Recognizes and integrates patient special needs and individualizes care and knowledgeable in abuse recognition and referral."
+    },
+    {
+      "duty": "Includes pain management and supportive care issues in the plan of care."
+    },
+    {
+      "duty": "Adheres to infection control standards specific to patient care and by promotes and maintains a safe, clean and orderly environment."
+    },
+    {
+      "duty": "Performs other duties as assigned."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Professional Nursing",
+      "experience": 5
+    },
+    {
+      "skill": "Assessment and Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Management of Patient Condition",
+      "experience": 5
+    },
+    {
+      "skill": "Communication and Interpersonal Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Infection Control",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BSN and PA RN License, AHA BLS and AHA ACLS Preferred"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Electrical Engineer",
+      "sector": "Electrical Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Digital Electronics",
+      "experience": 6
+    },
+    {
+      "skill": "Microprocessor Design",
+      "experience": 6
+    },
+    {
+      "skill": "FPGA Design",
+      "experience": 6
+    },
+    {
+      "skill": "Embedded Software",
+      "experience": 6
+    },
+    {
+      "skill": "Xilinx",
+      "experience": 4
+    },
+    {
+      "skill": "MATLAB/Simulink",
+      "experience": 4
+    },
+    {
+      "skill": "Altium",
+      "experience": 4
+    },
+    {
+      "skill": "Micro-Cap Circuit Simulation",
+      "experience": 4
+    },
+    {
+      "skill": "LTspice",
+      "experience": 4
+    },
+    {
+      "skill": "Dymola",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop digital electronic circuits, microprocessors, and FPGA systems for electronic devices."
+    },
+    {
+      "duty": "Create embedded software for microprocessor-based systems and ensure integration with hardware components."
+    },
+    {
+      "duty": "Utilize Xilinx tools and platforms for FPGA design and implementation."
+    },
+    {
+      "duty": "Use software tools such as MATLAB/Simulink, Altium, and LTspice for circuit simulation and analysis."
+    },
+    {
+      "duty": "Bachelor\u2019s degree in Electrical Engineering and 6 or more years of electronic circuit design experience."
+    },
+    {
+      "duty": "Conduct research and development to innovate new electronic designs and solutions."
+    }
+  ]
+}

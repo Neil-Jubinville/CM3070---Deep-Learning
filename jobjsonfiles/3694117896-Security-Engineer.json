@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Security Engineer",
+      "job_category": "Information Technology",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 115000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform security analysis, documentation authoring, and source code review of cryptographic IT products."
+    },
+    {
+      "duty": "Conduct operational testing, presentations, workshops, and report writing related to evaluation of cryptographic IT products."
+    },
+    {
+      "duty": "Maintain and improve technical knowledge, perform status reporting, and perform related audit-related tasks."
+    },
+    {
+      "duty": "Presentations and workshops with customers, cryptographic module design specification review, and authoring of security documentation."
+    },
+    {
+      "duty": "Execution of source code test plans, operational test plans, and reporting observed test results."
+    },
+    {
+      "duty": "Conduct testing activities in accordance with standards and methodologies related to FIPS 140 validation, consulting senior engineers as applicable on testing matters."
+    },
+    {
+      "duty": "Develop creative solutions, work successfully in a team environment, and handle other testing activities as required."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "IT Security",
+      "experience": 5
+    },
+    {
+      "skill": "Programming Languages (e.g., C/C++, Java)",
+      "experience": 5
+    },
+    {
+      "skill": "Operating Systems (e.g., Microsoft, Linux, Unix)",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical and Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Written Communication (Report Writing)",
+      "experience": 5
+    },
+    {
+      "skill": "English Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Cryptography & Encryption",
+      "experience": 5
+    },
+    {
+      "skill": "Wireless Communication Protocols (e.g., Wi-Fi, Bluetooth, NFC)",
+      "experience": 5
+    },
+    {
+      "skill": "IT Test Tools and Techniques (e.g., Wireshark)",
+      "experience": 5
+    },
+    {
+      "skill": "CVP Tester Certification (or prior FIPS testing experience)",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Post-secondary program in IT security, computer science, or engineering (Bachelor's degree preferred)"
+    }
+  ]
+}

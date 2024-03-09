@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Engineer",
+      "job_category": "Engineering",
+      "job_class": "Field Engineer",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Equipment Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Electronic Equipment Servicing",
+      "experience": 5
+    },
+    {
+      "skill": "On-Call Support",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Service Optimization",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform preventative maintenance, installations, troubleshooting, and repairs on medical equipment within a hospital or healthcare system."
+    },
+    {
+      "duty": "Maintain relationships with customers, ensure timely communication, resolution, and proper follow-up to drive customer satisfaction."
+    },
+    {
+      "duty": "Adhere to company policies, procedures, and hospital protocols to ensure regulatory and compliance requirements are met; ensure documentation of all work performed is captured."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate\u2019s degree, Bachelor's degree, Military education, or High School Diploma / GED with 4+ years\u2019 experience servicing electronic equipment."
+    },
+    {
+      "credential": "Valid Driver's License."
+    },
+    {
+      "credential": "Legal authorization to work in the U.S."
+    }
+  ]
+}

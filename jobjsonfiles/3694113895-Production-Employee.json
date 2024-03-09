@@ -1,0 +1,107 @@
+{
+  "meta": [
+    {
+      "job_title": "Production Employee",
+      "job_category": "Production",
+      "job_class": "Employee",
+      "sector": "Manufacturing",
+      "salary": 38000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Hand-eye Coordination",
+      "experience": 3
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 3
+    },
+    {
+      "skill": "Physical Stamina",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 3
+    },
+    {
+      "skill": "Machine Operation",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Handle materials and use hand tools, knives, machinery, and equipment to help deliver good food responsibly to America\u2019s dinner table."
+    },
+    {
+      "duty": "Perform physically demanding work that requires good hand-eye coordination, attention to detail, strength, and stamina."
+    },
+    {
+      "duty": "Be available to work scheduled hours, which may include mandatory overtime, depending upon production demands."
+    },
+    {
+      "duty": "Understand and follow oral and written instructions."
+    },
+    {
+      "duty": "Stand on concrete and/or platforms for up to a 12-hour shift."
+    },
+    {
+      "duty": "Work around animal blood and/or carcass parts."
+    },
+    {
+      "duty": "Work in cold areas (approximately 20-40 degrees) and/or warm areas (over 100 degrees)."
+    },
+    {
+      "duty": "Work in an environment that is wet and humid."
+    },
+    {
+      "duty": "Work while wearing a hard hat, hearing/eye protection, and steel-toed safety shoes."
+    },
+    {
+      "duty": "Work in a noisy environment using personal protective equipment (PPE)."
+    },
+    {
+      "duty": "Work with sanitation/cleaning chemicals."
+    },
+    {
+      "duty": "Work around strong smells/odors."
+    },
+    {
+      "duty": "Climb/move on ladders, steps, stairways, walkways, and platforms."
+    },
+    {
+      "duty": "Bend, stoop, and twist repetitively over the course of an entire shift."
+    },
+    {
+      "duty": "Walk long distances."
+    },
+    {
+      "duty": "Perform physically demanding tasks that may require the use of all body parts and muscle groups."
+    },
+    {
+      "duty": "Lift heavy objects and use mechanical assistance, as required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150
+    },
+    {
+      "student_teacher": 50
+    },
+    {
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

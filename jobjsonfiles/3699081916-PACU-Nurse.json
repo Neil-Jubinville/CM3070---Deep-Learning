@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "PACU Nurse",
+      "job_category": "Nursing",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 4553,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Post-Op Care",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Staff Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Care",
+      "experience": 5
+    },
+    {
+      "skill": "Wellness Program Management",
+      "experience": 5
+    },
+    {
+      "skill": "BLS Certification",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide post-op care and communicate with patients regarding medications and pain management."
+    },
+    {
+      "duty": "Collaborate with physicians, RNs, and medical staff to convey changing circumstances during patient recovery."
+    },
+    {
+      "duty": "Inform and educate patients and their families on proper post-op care procedures."
+    },
+    {
+      "duty": "Administer and manage the wellness program for patients, focused on physical and nutritional health."
+    },
+    {
+      "duty": "Ensure compliance with BLS certification within 90 days of hire."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate Degree in Nursing, State of New Mexico or Compact State Nursing License, BLS certification within 90 days of hire"
+    }
+  ]
+}

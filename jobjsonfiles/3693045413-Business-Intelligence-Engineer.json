@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Intelligence Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Management",
+      "experience": 6
+    },
+    {
+      "skill": "Business Intelligence",
+      "experience": 6
+    },
+    {
+      "skill": "AWS Lake Formation",
+      "experience": 5
+    },
+    {
+      "skill": "Athena",
+      "experience": 5
+    },
+    {
+      "skill": "QuickSight",
+      "experience": 5
+    },
+    {
+      "skill": "Kafka",
+      "experience": 5
+    },
+    {
+      "skill": "ETL Pipelines",
+      "experience": 6
+    },
+    {
+      "skill": "XML Schemas",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 6
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Environment",
+      "experience": 6
+    },
+    {
+      "skill": "Security Development Life Cycle (SDLC)",
+      "experience": 6
+    },
+    {
+      "skill": "Data Masking",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and build a cloud BI platform including scheduled and ad-hoc reporting, interactive dashboards, and data feeds for internal and external customers."
+    },
+    {
+      "duty": "Collaborate with application development and product teams to migrate existing BI and reporting applications to AWS."
+    },
+    {
+      "duty": "Research, design, and build a business intelligence framework to enable analytics, data science, and reporting across all product lines."
+    },
+    {
+      "duty": "Work on mining and onboarding new data sources into the BI platform and modeling the BI data lake to facilitate data-driven decisions for leaders and clients."
+    },
+    {
+      "duty": "Develop and support large, mission-critical transaction processing applications (preferred qualifications)."
+    },
+    {
+      "duty": "Work in a highly regulated financial services environment and understand advanced security concepts including data masking (desired qualifications)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, IT, Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

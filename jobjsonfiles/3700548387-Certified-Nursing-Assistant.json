@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "job_title": "Certified Nursing Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Clinical Rotation",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide direct patient care in accordance with established nursing care procedures."
+    },
+    {
+      "duty": "Assist patients with activities of daily living and personal hygiene."
+    },
+    {
+      "duty": "Communicate effectively with patients, families, and healthcare teams."
+    },
+    {
+      "duty": "Adhere to organizational values, mission, and vision."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 60,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certified Nursing Assistant (CNA) or completion of at least 1 clinical rotation in Nursing School"
+    }
+  ]
+}

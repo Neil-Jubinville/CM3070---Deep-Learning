@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "job_title": "Server",
+      "job_category": "Food Service",
+      "job_class": "Server",
+      "sector": "Food Service",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Fine Dining Experience",
+      "experience": 1
+    },
+    {
+      "skill": "Team Player",
+      "experience": 1
+    },
+    {
+      "skill": "Fast-paced Environment",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver exceptional guest experiences in a fast-paced, fine dining setting."
+    },
+    {
+      "duty": "Create a positive and accommodating atmosphere for guests, embodying the \"Be FAIR\" ideals."
+    },
+    {
+      "duty": "Utilize fine dining experience to provide exemplary service and promote high-quality food and a fun dining environment."
+    },
+    {
+      "duty": "Work as part of a team to ensure a smooth and efficient operation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": []
+}

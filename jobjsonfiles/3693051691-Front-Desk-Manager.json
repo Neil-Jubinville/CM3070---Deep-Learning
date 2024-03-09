@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Front Desk Manager",
+      "job_category": "Hospitality",
+      "job_class": "Manager",
+      "sector": "Hospitality",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Management",
+      "experience": 5
+    },
+    {
+      "skill": "Team Management",
+      "experience": 5
+    },
+    {
+      "skill": "Restaurant Management Software",
+      "experience": 5
+    },
+    {
+      "skill": "POS Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Reservation Systems",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee daily operations at the front desk"
+    },
+    {
+      "duty": "Manage a team at the front desk"
+    },
+    {
+      "duty": "Complete financial tasks at the front desk"
+    },
+    {
+      "duty": "Oversee customer service to ensure customer satisfaction"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Hospitality Management, Business Management, or a related field"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Lactation Consultant",
+      "job_category": "Healthcare",
+      "job_class": "Consultant",
+      "sector": "Healthcare",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Interpersonal and Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Teaching",
+      "experience": 5
+    },
+    {
+      "skill": "Electronic Health Record (EHR) Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide assessment, assistance, and support of infant nutrition, particularly breastfeeding, to infants, adult and adolescent mothers, and families."
+    },
+    {
+      "duty": "Provide education to staff and physicians, as well as to the community."
+    },
+    {
+      "duty": "Work closely with physicians and staff, and promote collaboration and communication."
+    },
+    {
+      "duty": "Participate effectively in the daily operations of both inpatient and outpatient care."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BSN or Bachelor\u2019s degree in related field preferred."
+    },
+    {
+      "credential": "Current applicable Lactation Consultant state license."
+    },
+    {
+      "credential": "IBCLC Certification through the International Board of Lactation Consultant Examiners (IBCLE) and recertification through IBCLE required every 5 years."
+    },
+    {
+      "credential": "AHA BLS for Healthcare Providers."
+    }
+  ]
+}

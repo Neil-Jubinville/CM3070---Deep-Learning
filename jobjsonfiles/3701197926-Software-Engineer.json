@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Angular",
+      "experience": 3
+    },
+    {
+      "skill": "GoLang",
+      "experience": 2
+    },
+    {
+      "skill": "Java",
+      "experience": 3
+    },
+    {
+      "skill": "Python",
+      "experience": 3
+    },
+    {
+      "skill": "Full Stack Development",
+      "experience": 5
+    },
+    {
+      "skill": "Frontend Development",
+      "experience": 5
+    },
+    {
+      "skill": "System Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Software Design",
+      "experience": 5
+    },
+    {
+      "skill": "Enterprise Systems Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work on Utilization Management platform, focusing on Appeals workflow."
+    },
+    {
+      "duty": "Develop detailed functional specifications, design models, and system workflows for software applications."
+    },
+    {
+      "duty": "Assist in the design and development of enterprise systems, ensuring system performance, reliability, and scalability."
+    },
+    {
+      "duty": "Respond to requests for support to troubleshoot and maintain production systems."
+    },
+    {
+      "duty": "Conduct system analysis and development to keep information systems current with changing technologies."
+    },
+    {
+      "duty": "Responsible for programming, testing, and debugging computer programs for assigned projects."
+    },
+    {
+      "duty": "Plan, process, and perform all jobs/tasks in an efficient manner, with little assistance from supervisor."
+    },
+    {
+      "duty": "Perform other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

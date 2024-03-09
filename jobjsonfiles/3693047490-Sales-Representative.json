@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cold Calling",
+      "experience": 3
+    },
+    {
+      "skill": "Sales Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Relationship Management (CRM)",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Making multiple cold calls per day, in person and over the phone."
+    },
+    {
+      "duty": "Learning and knowing the suite of solutions inside and out."
+    },
+    {
+      "duty": "Working in the custom CRM to manage follow-ups with prospects."
+    },
+    {
+      "duty": "Staying extremely organized with prospects in each step of the sales cycle."
+    },
+    {
+      "duty": "Following the sales process from introduction to implementation."
+    },
+    {
+      "duty": "Ensuring all the information needed by internal teams for client success is communicated."
+    },
+    {
+      "duty": "Taking care of clients after the sale and maintaining strong communication."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

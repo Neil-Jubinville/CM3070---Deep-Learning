@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Apprentice Repair Technician",
+      "job_category": "Repair",
+      "job_class": "Technician",
+      "sector": "Repair",
+      "salary": 25000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing repair services on customer-owned instruments with a high level of craftsmanship and expertise"
+    },
+    {
+      "duty": "Maintain store owned inventory, as needed"
+    },
+    {
+      "duty": "Work with Asurion and other vendors to fulfill extended warranty and parts requests per the customer need"
+    },
+    {
+      "duty": "Additional duties as assigned"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Instrument Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Sales Techniques",
+      "experience": 2
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED equivalent"
+    }
+  ]
+}

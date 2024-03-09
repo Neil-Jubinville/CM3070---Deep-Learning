@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Firmware Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the design, development, testing, and documentation of software components and applications, with a focus on embedded real-time, multi-processor systems."
+    },
+    {
+      "duty": "Design, develop, and test software components and applications, with expertise in embedded real-time systems and PC-based applications."
+    },
+    {
+      "duty": "Implement firmware solutions for embedded systems, focusing on reliability, performance, and maintainability."
+    },
+    {
+      "duty": "Develop device drivers for various hardware interfaces (e.g., I2C, DMA, SPI, Ethernet) on Linux and other operating systems."
+    },
+    {
+      "duty": "Utilize scripting languages (e.g., Bash, TCL, Python) to enhance development and testing processes."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Firmware Development",
+      "experience": 5
+    },
+    {
+      "skill": "Embedded Systems",
+      "experience": 5
+    },
+    {
+      "skill": "C/C++ Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Linux",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting Languages",
+      "experience": 5
+    },
+    {
+      "skill": "Device Driver Development",
+      "experience": 5
+    },
+    {
+      "skill": "Hardware Interfaces",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Code Management Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "MATLAB",
+      "experience": 3
+    },
+    {
+      "skill": "Atlassian Suite",
+      "experience": 3
+    },
+    {
+      "skill": "Network Protocols",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electrical Engineering, Computer Engineering, Computer Science, or equivalent (Master's preferred)"
+    }
+  ]
+}

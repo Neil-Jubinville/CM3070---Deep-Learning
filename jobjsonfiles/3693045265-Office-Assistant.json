@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Office Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Real Estate",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Excel",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Word",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain real estate files"
+    },
+    {
+      "duty": "Maintain tenant rent rolls"
+    },
+    {
+      "duty": "Coordinating maintenance issues with Tenants"
+    },
+    {
+      "duty": "Prepare lease summaries"
+    },
+    {
+      "duty": "Draft correspondence"
+    },
+    {
+      "duty": "Assist owner with special projects"
+    },
+    {
+      "duty": "Assist Property Broker with miscellaneous tasks"
+    },
+    {
+      "duty": "Assist Receptionist with answering phones when needed"
+    },
+    {
+      "duty": "Coordinate Owner's schedule and arrange meetings"
+    },
+    {
+      "duty": "Other duties as required"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Experience in Microsoft Word and Excel"
+    }
+  ]
+}

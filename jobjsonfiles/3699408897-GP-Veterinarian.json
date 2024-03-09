@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "GP Veterinarian",
+      "job_category": "Veterinary",
+      "job_class": "Veterinarian",
+      "sector": "Veterinary",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Veterinary Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "Surgery",
+      "experience": 5
+    },
+    {
+      "skill": "Senior Pet Care",
+      "experience": 5
+    },
+    {
+      "skill": "Dentistry",
+      "experience": 5
+    },
+    {
+      "skill": "Urgent Care",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Emotional Intelligence",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide comprehensive veterinary care including wellness, surgery, senior pet care, dentistry, and urgent care services."
+    },
+    {
+      "duty": "Communicate effectively with clients and collaborate with colleagues to ensure the best care for animal patients."
+    },
+    {
+      "duty": "Demonstrate emotional intelligence and empathy in the delivery of care to pets and their owners."
+    },
+    {
+      "duty": "Maintain accurate medical records and comply with all applicable laws and regulations."
+    },
+    {
+      "duty": "Contribute to the development of clinic protocols and continuous improvement of patient care standards."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Veterinary Medicine (DVM/VMD) or equivalent degree required"
+    },
+    {
+      "credential": "State Veterinary Board License and in good standing for the state of employment prior to start date."
+    },
+    {
+      "credential": "Active DEA license or DEA licensure eligible."
+    }
+  ]
+}

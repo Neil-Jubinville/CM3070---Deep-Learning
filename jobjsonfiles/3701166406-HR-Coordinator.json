@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "HR Coordinator",
+      "job_category": "Human Resources",
+      "job_class": "Coordinator",
+      "sector": "Management",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HRIS Systems",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Office Suite",
+      "experience": 2
+    },
+    {
+      "skill": "Employee Relations",
+      "experience": 2
+    },
+    {
+      "skill": "Compliance Management",
+      "experience": 2
+    },
+    {
+      "skill": "HR Policy Implementation",
+      "experience": 2
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Coordinate new hire onboarding activities, such as preparing paperwork, conducting orientation sessions, and assisting with benefits enrollment."
+    },
+    {
+      "duty": "Maintain accurate and up-to-date employee records, ensuring compliance with company policies and regulations."
+    },
+    {
+      "duty": "Process employee changes, including promotions, transfers, and terminations, in the HRIS system."
+    },
+    {
+      "duty": "Support HR projects and initiatives, such as employee engagement programs and performance management processes."
+    },
+    {
+      "duty": "Assist in the implementation and enforcement of HR policies and procedures."
+    },
+    {
+      "duty": "Handle employee inquiries and escalate complex issues to the HR Manager as needed."
+    },
+    {
+      "duty": "Prepare HR-related reports and presentations for management as required."
+    },
+    {
+      "duty": "Ensure compliance with labor laws, regulations, and company policies in all HR-related activities."
+    },
+    {
+      "duty": "Maintain confidentiality and handle sensitive employee information with discretion."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Human Resources, Business Administration, or a related field."
+    }
+  ]
+}

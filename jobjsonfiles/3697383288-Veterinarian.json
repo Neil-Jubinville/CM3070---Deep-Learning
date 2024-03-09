@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinarian",
+      "job_category": "Veterinary",
+      "job_class": "Veterinarian",
+      "sector": "Veterinary",
+      "salary": 105000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Acupuncture",
+      "experience": 2
+    },
+    {
+      "skill": "Herbal Medicine",
+      "experience": 2
+    },
+    {
+      "skill": "Soft Tissue Surgery",
+      "experience": 5
+    },
+    {
+      "skill": "Spays and Neuters",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide high-quality medical care to animals, including diagnosis, treatment, and surgery."
+    },
+    {
+      "duty": "Work collaboratively with support staff, veterinarians, and clients to ensure excellent patient care and client satisfaction."
+    },
+    {
+      "duty": "Utilize acupuncture and herbal medicine techniques when treating animals."
+    },
+    {
+      "duty": "Perform soft tissue surgeries as well as spays and neuters."
+    },
+    {
+      "duty": "Maintain strong communication skills to build a bond with clients and support staff."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Veterinary Medicine degree"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Onsite Medical Representative",
+      "job_category": "Healthcare",
+      "job_class": "Medical Representative",
+      "sector": "Health & Safety",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "First Aid",
+      "experience": 5
+    },
+    {
+      "skill": "Occupational Health",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "OSHA Regulations",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 5
+    },
+    {
+      "skill": "Ergonomics",
+      "experience": 4
+    },
+    {
+      "skill": "CPR Training",
+      "experience": 4
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 4
+    },
+    {
+      "skill": "Recordkeeping",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide triage, first aid, and/or referral to outside medical providers, if indicated."
+    },
+    {
+      "duty": "Minimize the AA risk of injury through awareness, education and proactive engagement."
+    },
+    {
+      "duty": "Maintain all records of care provided to AAs."
+    },
+    {
+      "duty": "Develop a first aid care plan for AAs recovering from an injury, focused on injury improvement, including self-care instructions as needed."
+    },
+    {
+      "duty": "Monitor and ensure appropriate medical supply inventory is maintained."
+    },
+    {
+      "duty": "Participate in special projects and ad hoc tasks as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school or equivalent diploma"
+    },
+    {
+      "credential": "Valid card evidencing successful completion of a first aid, CPR, and AED course from the American Heart Association or American Red Cross within four weeks after start date."
+    },
+    {
+      "credential": "Valid Provincial Primary Care Paramedic Certification from the Ministry of Health OR the Canadian Organization of Paramedic Regulators; OR Current valid Emergency Medical Technician Basic Certification from the Department of Health OR the National Registry of Emergency Medical Technicians (NREMT) OR In the last three years, six months job experience as a Military Medical Technician (Canada), Combat Medic (USA), Field Medic (USA), Healthcare Specialist (USA), Hospital Corpsman (USN), Aerospace Medical Service Technician (USAF); OR In the last three years, six months job experience in a care provider role AND a Bachelor's degree from an accredited academic institution in: Exercise Sciences, Exercise Physiology, Health Sciences, or Kinesiology"
+    }
+  ]
+}

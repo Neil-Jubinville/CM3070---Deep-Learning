@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Administrative Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Administrative",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft Excel",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Access",
+      "experience": 3
+    },
+    {
+      "skill": "PowerPoint Presentation",
+      "experience": 3
+    },
+    {
+      "skill": "Database Management",
+      "experience": 3
+    },
+    {
+      "skill": "Class Scheduling",
+      "experience": 2
+    },
+    {
+      "skill": "Survey Creation",
+      "experience": 3
+    },
+    {
+      "skill": "General Administrative Duties",
+      "experience": 3
+    },
+    {
+      "skill": "Phone Etiquette",
+      "experience": 3
+    },
+    {
+      "skill": "Supply Management",
+      "experience": 2
+    },
+    {
+      "skill": "Travel Arrangements",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Utilize Microsoft Excel and Access for data management and analysis."
+    },
+    {
+      "duty": "Create complex presentations using PowerPoint."
+    },
+    {
+      "duty": "Generate charts and graphs using various database information."
+    },
+    {
+      "duty": "Assist with training class scheduling and ensure proper classroom setup."
+    },
+    {
+      "duty": "Create and administer surveys."
+    },
+    {
+      "duty": "Perform general administrative duties such as answering phones, ordering supplies, and making travel arrangements."
+    }
+  ]
+}

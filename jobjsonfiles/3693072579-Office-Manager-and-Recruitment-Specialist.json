@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Office Manager and Recruitment Specialist",
+      "job_category": "Administration",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 70000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Office Management",
+      "experience": 5
+    },
+    {
+      "skill": "Recruitment",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 5
+    },
+    {
+      "skill": "Talent Acquisition",
+      "experience": 5
+    },
+    {
+      "skill": "Employee Relations",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain a well-organized and efficient office environment by overseeing supplies, equipment, and general operations."
+    },
+    {
+      "duty": "Coordinate and schedule meetings, appointments, and events, ensuring smooth communication across the team."
+    },
+    {
+      "duty": "Source and attract candidates through various channels, including online job boards, social media, and networking events."
+    },
+    {
+      "duty": "Conduct thorough reference checks and background screenings for selected candidates."
+    },
+    {
+      "duty": "Foster a positive and inclusive work environment by addressing employee concerns and facilitating conflict resolution when necessary."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Human Resources, or related field (or equivalent work experience)"
+    }
+  ]
+}

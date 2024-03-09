@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Engineer III",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Engineering",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Requirements Management",
+      "experience": 5
+    },
+    {
+      "skill": "System Integration",
+      "experience": 5
+    },
+    {
+      "skill": "DOORS",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform requirements definition, development, decomposition and tracing, system integration, verification/validation, supportability, and effective analyses for complex engineering projects."
+    },
+    {
+      "duty": "Evaluate and implement innovations and technological advances that improve quality, reduce flow time, improve productivity, and enhance operational surety."
+    },
+    {
+      "duty": "Communicate with stakeholders to determine requirements, documenting all aspects of the development process, and testing system features for usability."
+    },
+    {
+      "duty": "Create a bi-directional Requirement Traceability Matrix from test procedures back to requirements and customer specifications."
+    },
+    {
+      "duty": "Participate in establishing operating procedures on new products and components."
+    },
+    {
+      "duty": "Utilize the requirements management to highlight technical risks, management strategies, and Verification and Validation (V&V) principles."
+    },
+    {
+      "duty": "Provide technical consultation to management and others, and lead technical project teams."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science degree from an ABET accredited Engineering program or Bachelor of Science degree in Physics from an accredited program."
+    },
+    {
+      "credential": "4 or more years of relevant experience in engineering or related technical activities."
+    },
+    {
+      "credential": "Experience with electronic test equipment design, including hardware and software."
+    },
+    {
+      "credential": "Experience in one or more relevant programming languages (.NET, Visual Basic, C#, etc)."
+    }
+  ]
+}

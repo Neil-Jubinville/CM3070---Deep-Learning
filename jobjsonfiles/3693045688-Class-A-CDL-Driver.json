@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "job_title": "Class A CDL Driver",
+      "job_category": "Logistics",
+      "job_class": "Driver",
+      "sector": "Transportation",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Safe Driving",
+      "experience": 5
+    },
+    {
+      "skill": "Vehicle Inspection",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Safely and timely transport and deliver wood products while adhering to Department of Transportation regulations."
+    },
+    {
+      "duty": "Perform vehicle inspections and maintenance."
+    },
+    {
+      "duty": "Complete and maintain accurate paperwork."
+    },
+    {
+      "duty": "Maintain excellent relationships with customers and colleagues."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid Class A Commercial Driver's License"
+    }
+  ]
+}

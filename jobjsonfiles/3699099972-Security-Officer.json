@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Security Officer",
+      "job_category": "Security",
+      "job_class": "Officer",
+      "sector": "Security",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for the oversight of the safety and security of the hotel guests and employees."
+    },
+    {
+      "duty": "Following safety and security standards and complete incident reports as required."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Security Management",
+      "experience": 3
+    },
+    {
+      "skill": "Crisis Management",
+      "experience": 3
+    },
+    {
+      "skill": "Surveillance",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Incident Reporting",
+      "experience": 3
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Flexibility",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Previous security experience preferred."
+    }
+  ]
+}

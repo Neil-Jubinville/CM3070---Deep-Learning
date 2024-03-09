@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Intensive Care Unit Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Critical Care",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform and oversee care of patients with critical illness or injury utilizing the nursing process."
+    },
+    {
+      "duty": "Possess strong assessment and clinical skills to oversee and care for patients with a multitude of disorders."
+    },
+    {
+      "duty": "Serve as primary nurse leading the collaboration of all disciplines for well-coordinated patient care."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited school of nursing. BSN preferred"
+    },
+    {
+      "credential": "Current licensure in the State of Colorado as a Registered Nurse or current active multistate Registered Nurse license"
+    },
+    {
+      "credential": "BLS & ACLS \ndash Health Care provider"
+    },
+    {
+      "credential": "Experience in acute care nursing and ability to work in a stressful and emotional environment preferred"
+    }
+  ]
+}

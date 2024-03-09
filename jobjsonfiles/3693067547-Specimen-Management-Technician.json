@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Specimen Management Technician",
+      "job_category": "Laboratory",
+      "job_class": "Technician",
+      "sector": "Core Lab",
+      "salary": 20,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Specimen Processing",
+      "experience": 1
+    },
+    {
+      "skill": "Laboratory Analysis",
+      "experience": 1
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 1
+    },
+    {
+      "skill": "Training",
+      "experience": 2
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 1
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Receive and process requests and specimens for Laboratory analysis."
+    },
+    {
+      "duty": "Enter requests into Laboratory computer system."
+    },
+    {
+      "duty": "Transport specimens and use problem-solving skills."
+    },
+    {
+      "duty": "Act as a trainer and role model for new Specimen Management Technicians and health care professional students."
+    },
+    {
+      "duty": "Demonstrate knowledge of quality, safety, and compliance programs."
+    },
+    {
+      "duty": "Perform area-specific support activities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Graduate or Equivalent"
+    }
+  ]
+}

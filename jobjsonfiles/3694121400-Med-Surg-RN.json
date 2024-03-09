@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Med Surg RN",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 2656,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Med Surg",
+      "experience": 2
+    },
+    {
+      "skill": "RN License",
+      "experience": 3
+    },
+    {
+      "skill": "BLS Certifications",
+      "experience": 3
+    },
+    {
+      "skill": "RN experience",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide care for patients in medical-surgical wards"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 120,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Active NY Registered Nurse (RN) License"
+    },
+    {
+      "credential": "BLS Certifications"
+    },
+    {
+      "credential": "Recent RN experience"
+    }
+  ]
+}

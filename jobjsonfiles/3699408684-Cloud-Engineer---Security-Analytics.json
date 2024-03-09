@@ -1,0 +1,116 @@
+{
+  "meta": [
+    {
+      "job_title": "Cloud Engineer - Security Analytics",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Go",
+      "experience": 5
+    },
+    {
+      "skill": "Javascript",
+      "experience": 5
+    },
+    {
+      "skill": "C#",
+      "experience": 5
+    },
+    {
+      "skill": "Shell",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Technology",
+      "experience": 5
+    },
+    {
+      "skill": "Continuous Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Continuous Delivery",
+      "experience": 5
+    },
+    {
+      "skill": "IT Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Linux OS Management",
+      "experience": 5
+    },
+    {
+      "skill": "Splunk",
+      "experience": 5
+    },
+    {
+      "skill": "Phantom",
+      "experience": 5
+    },
+    {
+      "skill": "Cribl ELK",
+      "experience": 5
+    },
+    {
+      "skill": "Datadog",
+      "experience": 5
+    },
+    {
+      "skill": "Security Operations Support",
+      "experience": 5
+    },
+    {
+      "skill": "Information Security Domain",
+      "experience": 5
+    },
+    {
+      "skill": "Containers (Docker, Kubernetes, Openshift)",
+      "experience": 5
+    },
+    {
+      "skill": "Networking",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Environment and application build out, setting up new data feeds, clustering, and load balancing using industry-leading tools & technologies."
+    },
+    {
+      "duty": "Providing ongoing production support including incident, change, and release management activities."
+    },
+    {
+      "duty": "Participation in global on-call rotation to ensure platform availability and stability."
+    },
+    {
+      "duty": "Utilization of well-established Enterprise standards, processes, and procedures to ensure Engineering activities are delivered with high quality and in a timely fashion."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in computer science or equivalent technology discipline (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Security Analyst",
+      "job_category": "Information Technology",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conducting penetration testing, simulating an attack on the system to find exploitable weaknesses."
+    },
+    {
+      "duty": "Developing and implementing security frameworks, policies, processes/procedures, and guidelines."
+    },
+    {
+      "duty": "Maintaining security subject-matter expertise and keeping abreast of best practices & trends."
+    },
+    {
+      "duty": "Managing vulnerability assessment."
+    },
+    {
+      "duty": "Oversight & resolution of security incidents."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Penetration Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Security Framework Development",
+      "experience": 4
+    },
+    {
+      "skill": "Policy Management",
+      "experience": 4
+    },
+    {
+      "skill": "Vulnerability Assessment",
+      "experience": 3
+    },
+    {
+      "skill": "Incident Resolution",
+      "experience": 4
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 3
+    },
+    {
+      "skill": "Java",
+      "experience": 3
+    },
+    {
+      "skill": "HTML5 / CSS",
+      "experience": 3
+    },
+    {
+      "skill": "Django",
+      "experience": 3
+    },
+    {
+      "skill": "Python",
+      "experience": 3
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Stakeholder Management",
+      "experience": 4
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 4
+    },
+    {
+      "skill": "Networking",
+      "experience": 3
+    },
+    {
+      "skill": "Relationship Building",
+      "experience": 4
+    },
+    {
+      "skill": "Team Management",
+      "experience": 4
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree/Diploma in Computer Science, Engineering, or related field"
+    }
+  ]
+}

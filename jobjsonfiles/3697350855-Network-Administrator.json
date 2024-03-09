@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Network Administrator",
+      "job_category": "Network Administration",
+      "job_class": "Administrator",
+      "sector": "Software Engineering",
+      "salary": 80000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Network Security",
+      "experience": 5
+    },
+    {
+      "skill": "Network Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Network Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "System Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Network Policy Creation",
+      "experience": 5
+    },
+    {
+      "skill": "E-911 Operations",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain a reliable, secure, and efficient data communications network."
+    },
+    {
+      "duty": "Deploy, configure, maintain, and monitor all active network equipment to ensure smooth network operations."
+    },
+    {
+      "duty": "Support and administer third-party applications and ensure network security and connectivity."
+    },
+    {
+      "duty": "Monitor network performance and test for weaknesses, as well as resolve problems reported by end users."
+    },
+    {
+      "duty": "Define network policies and procedures, and research and make recommendations on network system administration."
+    },
+    {
+      "duty": "Write technical and end-user documentation for assigned projects and provide necessary system, maintenance, and disaster recovery plan documents."
+    },
+    {
+      "duty": "Prepare management reports related to system audit, availability, and performance as needed."
+    },
+    {
+      "duty": "Serves as a technical resource or mentor to other employees and may lead or instruct less experienced workers in high-level or technical jobs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science or Engineering or related field (Master\u2019s preferred)"
+    },
+    {
+      "credential": "Certification in CCNA, Network+, and / or ITIL highly desired"
+    },
+    {
+      "credential": "Current driver\u2019s license"
+    }
+  ]
+}

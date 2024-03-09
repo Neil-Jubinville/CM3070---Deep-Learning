@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Nurse Practitioner",
+      "job_category": "Healthcare",
+      "job_class": "Practitioner",
+      "sector": "Healthcare",
+      "salary": 105000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnosis and Treatment",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Record Keeping",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Endoscopic Procedure Coordination",
+      "experience": 5
+    },
+    {
+      "skill": "HIPAA and OSHA Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Bilingual (Preferred)",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver quality care, diagnose health problems, and recommend further treatment options for Gastroenterology patients."
+    },
+    {
+      "duty": "Coordinate inpatient endoscopic procedures, order and interpret tests, administer medications, and provide referrals to other practitioners as necessary."
+    },
+    {
+      "duty": "Ensure patient records are kept up to date, consult with healthcare professionals when needed, and supervise infusions while in office."
+    },
+    {
+      "duty": "Maintain an office-based practice, work as part of a Miriam Hospital UGI physician/NP team, and document notes in the Lifespan Epic system."
+    },
+    {
+      "duty": "Round in the hospital, maintain office hours in a 2-week rotation, and work alongside physicians and nurses in both an office and hospital setting."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Rhode Island Licensure and Board Certification as a Nurse Practitioner"
+    }
+  ]
+}

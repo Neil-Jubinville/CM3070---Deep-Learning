@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Night Stocker",
+      "job_category": "Retail",
+      "job_class": "Stocker",
+      "sector": "Retail",
+      "salary": 24000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Stocking",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Organization",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    },
+    {
+      "skill": "Physical Tasks",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Stock shelves, refill displays, load and move heavy products, and unload trucks."
+    },
+    {
+      "duty": "Maintain department cleanliness and organization, apply product knowledge, and ensure compliance with established procedures."
+    },
+    {
+      "duty": "Assist customers in locating products and answering product questions."
+    },
+    {
+      "duty": "Work overnight shifts, including weekends and holidays, and perform physically demanding tasks."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum age 18, experience in stocking and customer service preferred."
+    }
+  ]
+}

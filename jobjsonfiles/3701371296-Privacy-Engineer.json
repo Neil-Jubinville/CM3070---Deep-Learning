@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Privacy Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 180000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Security",
+      "experience": 5
+    },
+    {
+      "skill": "Data Anonymization",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Computing",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Data Governance",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Consulting",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide consultative guidance for the architecture and design of privacy controls across the organization and product lines."
+    },
+    {
+      "duty": "Guide engineering teams to ensure transparent data collection and usage practices that protect user privacy and mitigate risk."
+    },
+    {
+      "duty": "Implement privacy capabilities, patterns, and policies into products and provide technical consulting on privacy for product teams."
+    },
+    {
+      "duty": "Utilize 3rd party commercial tooling for privacy reviews and tracking issues."
+    },
+    {
+      "duty": "Analyze and audit data through its lifecycle to ensure privacy requirements are met."
+    },
+    {
+      "duty": "Build relationships with technical and compliance teams to deliver privacy-by-design controls for engineering deployments."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or a similar technical field or equivalent practical experience (Master's degree preferred)"
+    },
+    {
+      "credential": "Certifications related to privacy, such as CIPP, CIPT, or CIPM"
+    }
+  ]
+}

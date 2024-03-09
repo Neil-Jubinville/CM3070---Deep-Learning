@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Data Engineer",
+      "job_category": "Engineering",
+      "job_class": "Lead",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Engineering",
+      "experience": 8
+    },
+    {
+      "skill": "Business Intelligence",
+      "experience": 8
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 8
+    },
+    {
+      "skill": "SQL",
+      "experience": 8
+    },
+    {
+      "skill": "NoSQL Databases",
+      "experience": 8
+    },
+    {
+      "skill": "Python",
+      "experience": 8
+    },
+    {
+      "skill": "Data Pipeline Optimization",
+      "experience": 8
+    },
+    {
+      "skill": "AWS Services",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manipulate, process, and extract value from large, disconnected datasets."
+    },
+    {
+      "duty": "Build and optimize 'big data' data pipelines, architectures, and data sets using tools like Airflow."
+    },
+    {
+      "duty": "Expertise in data modeling, data access, and data storage techniques."
+    },
+    {
+      "duty": "Build transformational logic using SQL on relational SQL and NoSQL databases."
+    },
+    {
+      "duty": "Ingest, transform, and load the data using Python."
+    },
+    {
+      "duty": "Utilize AWS cloud services: EC2, EMR, RDS, Redshift."
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Network Engineer",
+      "job_category": "IT",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Network Design",
+      "experience": 8
+    },
+    {
+      "skill": "Network Protocols",
+      "experience": 8
+    },
+    {
+      "skill": "NGFW Management",
+      "experience": 7
+    },
+    {
+      "skill": "SDWAN Technologies",
+      "experience": 7
+    },
+    {
+      "skill": "Automation Scripting",
+      "experience": 6
+    },
+    {
+      "skill": "Cloud Networking",
+      "experience": 7
+    },
+    {
+      "skill": "Wireless Networking",
+      "experience": 6
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 8
+    },
+    {
+      "skill": "Communication",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, implement, and manage network infrastructure with a focus on security, reliability, and performance."
+    },
+    {
+      "duty": "Provide technical support for networking projects and configure NGFW systems to enhance network security."
+    },
+    {
+      "duty": "Optimize SDWAN technologies to improve network performance and reduce operational costs."
+    },
+    {
+      "duty": "Deploy and manage network infrastructure services, including DNS and DHCP, to ensure seamless connectivity."
+    },
+    {
+      "duty": "Configure and manage VPNs for secure remote communication and integrate networking in a multi-cloud environment."
+    },
+    {
+      "duty": "Develop automation scripts to streamline network provisioning and enhance operational efficiency."
+    },
+    {
+      "duty": "Lead change control processes and resolve network-related incidents promptly and efficiently."
+    },
+    {
+      "duty": "Establish and maintain strong communications and relationships with other IT teams and business units."
+    },
+    {
+      "duty": "Stay informed about current technologies and industry trends to provide up-to-date support and solutions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Network Engineering, or a related field. Equivalent experience is also acceptable."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "meta": [
+    {
+      "job_title": "Homemaker/Caregiver",
+      "job_category": "Healthcare",
+      "job_class": "Homemaker",
+      "sector": "Healthcare",
+      "salary": 25000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Routine housekeeping including laundry, cleaning of bathroom, kitchen, refrigerator, changing bed linens, vacuuming, sweeping, mopping floors, dusting, and light pick up"
+    },
+    {
+      "duty": "Meal planning and preparation, monitoring client's food consumption, menu planning, and clean-up"
+    },
+    {
+      "duty": "Assistance in preparation of shopping list, shopping to nearest grocery store or pharmacy, accompanying client to doctor's/grocery store"
+    },
+    {
+      "duty": "Assistance in food consumption and companionship"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 20,
+      "student_teacher": 160,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma, GED, Letter of Experience, College Diploma"
+    }
+  ]
+}

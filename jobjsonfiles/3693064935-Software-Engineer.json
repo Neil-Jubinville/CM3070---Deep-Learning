@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Engineering",
+      "job_class": "Software Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Problem-solving",
+      "experience": 5
+    },
+    {
+      "skill": "Object-Oriented Design",
+      "experience": 5
+    },
+    {
+      "skill": "Web Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Information Taxonomy/Architecture",
+      "experience": 5
+    },
+    {
+      "skill": ".NET Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "CSS",
+      "experience": 5
+    },
+    {
+      "skill": "HTML5",
+      "experience": 5
+    },
+    {
+      "skill": "Modular JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript Frameworks",
+      "experience": 5
+    },
+    {
+      "skill": "Web Services",
+      "experience": 3
+    },
+    {
+      "skill": "Database Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Geographically Dispersed Teams",
+      "experience": 3
+    },
+    {
+      "skill": "Angular",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and design Object-Oriented solutions using .NET technologies for web architectures."
+    },
+    {
+      "duty": "Create and optimize wireframes, site maps, and process flows for site architecture."
+    },
+    {
+      "duty": "Utilize web services and data to enhance the functionality and performance of web applications."
+    },
+    {
+      "duty": "Design and implement database solutions using DB2 or SQLServer to meet specific requirements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

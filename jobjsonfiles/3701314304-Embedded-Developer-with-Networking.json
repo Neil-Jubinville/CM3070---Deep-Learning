@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Embedded Developer with Networking",
+      "job_category": "Technology",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Wireless Knowledge",
+      "experience": 7
+    },
+    {
+      "skill": "Networking",
+      "experience": 7
+    },
+    {
+      "skill": "C/C++ Programming",
+      "experience": 7
+    },
+    {
+      "skill": "Real-time Embedded Software",
+      "experience": 7
+    },
+    {
+      "skill": "Socket Programming",
+      "experience": 7
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 7
+    },
+    {
+      "skill": "CI-CD",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain real-time embedded software with a focus on wireless and networking technologies."
+    },
+    {
+      "duty": "Utilize strong C/C++ programming skills to implement socket programming, IPC, and publish-subscribe mechanisms."
+    },
+    {
+      "duty": "Deep knowledge of networking protocols (TCP/UDP/IP/HTTP/SNMP/DHCP/DNS), VLANs, and routing and switching concepts."
+    },
+    {
+      "duty": "Contribute to Agile-based development and continuous integration/continuous deployment (CI/CD) practices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Computer Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

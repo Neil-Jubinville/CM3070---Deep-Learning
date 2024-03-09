@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Engineering Co-op",
+      "job_category": "Engineering",
+      "job_class": "Co-op",
+      "sector": "Engineering",
+      "salary": 20000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Energy Efficiency Calculation",
+      "experience": 2
+    },
+    {
+      "skill": "Project Review",
+      "experience": 2
+    },
+    {
+      "skill": "Engineering Best Practices",
+      "experience": 2
+    },
+    {
+      "skill": "MS Excel",
+      "experience": 2
+    },
+    {
+      "skill": "Energy Codes",
+      "experience": 2
+    },
+    {
+      "skill": "Mathematics",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Calculate energy savings for energy-efficient projects"
+    },
+    {
+      "duty": "Work with a highly effective team to review projects submitted to our local energy efficiency lighting programs"
+    },
+    {
+      "duty": "Support development of company-wide engineering best-practices"
+    },
+    {
+      "duty": "Support engineering tool development using MS Excel and other software"
+    },
+    {
+      "duty": "Prepare draft reports such as measurement verification plans and billing analysis results"
+    },
+    {
+      "duty": "Update databases and calculators"
+    },
+    {
+      "duty": "Ensure current energy efficiency projects reflect federal and state energy codes"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 50,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Active enrollment and completion of 2 or more years in post-secondary education in Engineering (Mechanical, Electrical, Environmental or Energy preferred)"
+    },
+    {
+      "credential": "Minimum 3.0 GPA"
+    }
+  ]
+}

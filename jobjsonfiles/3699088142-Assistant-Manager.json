@@ -1,0 +1,51 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Manager",
+      "job_category": "Management",
+      "job_class": "Assistant Manager",
+      "sector": "Sales",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Operations Management",
+      "experience": 3
+    },
+    {
+      "skill": "Employee Development",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Technology Troubleshooting",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage cost controls, inventory control, cash control, and customer relations during shifts."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent (Bachelor's degree preferred)"
+    }
+  ]
+}

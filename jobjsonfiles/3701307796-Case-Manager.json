@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Case Manager",
+      "job_category": "Social Work",
+      "job_class": "Manager",
+      "sector": "Social Services",
+      "salary": 50600,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Assessment",
+      "experience": 3
+    },
+    {
+      "skill": "Case Management",
+      "experience": 3
+    },
+    {
+      "skill": "Service Coordination",
+      "experience": 3
+    },
+    {
+      "skill": "Developmental Disabilities",
+      "experience": 3
+    },
+    {
+      "skill": "Mental Health Support",
+      "experience": 3
+    },
+    {
+      "skill": "Chemical Dependency Support",
+      "experience": 3
+    },
+    {
+      "skill": "Aging Support",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assess the areas of the individual's life where assistance is needed."
+    },
+    {
+      "duty": "Offer and coordinate resources for the individuals being supported."
+    },
+    {
+      "duty": "Monitor service delivery and work with providers to ensure the individual's needs are met."
+    },
+    {
+      "duty": "Participate in service plan development and attend regular in-person meetings with individuals served and their interdisciplinary teams."
+    },
+    {
+      "duty": "Case note client-related work to create billable units."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Social Work or related field. Licensure in Social Work (or seeking licensure) required."
+    }
+  ]
+}

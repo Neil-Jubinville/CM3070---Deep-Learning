@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Medical",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Expertise",
+      "experience": 4
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Surgical Care",
+      "experience": 5
+    },
+    {
+      "skill": "Monitoring",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide clinical expertise and high-quality care to adult patient populations with diverse medical, surgical, cardiac, or neurologic conditions."
+    },
+    {
+      "duty": "Learn monitoring and provide care to level I trauma facility patients with stable conditions."
+    },
+    {
+      "duty": "Expand knowledge base by caring for general, urology, and vascular post-surgical patients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 140,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "ADN or BSN degree and Registered Professional Nurse license"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "System Administrator",
+      "job_class": "System Administrator",
+      "job_category": "Information Technology",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Linux",
+      "experience": 15
+    },
+    {
+      "skill": "Windows",
+      "experience": 15
+    },
+    {
+      "skill": "Cisco switches",
+      "experience": 15
+    },
+    {
+      "skill": "Storage devices",
+      "experience": 15
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provides support for implementation, troubleshooting, and maintenance of Information Technology (IT) systems."
+    },
+    {
+      "duty": "Manages IT system infrastructure and any processes related to these systems."
+    },
+    {
+      "duty": "Provides Tier 1 (Help Desk) and Tier 2 (Escalation) problem identification, diagnosis, and resolution of problems."
+    },
+    {
+      "duty": "Configures and manages UNIX and Windows operating systems and installs/loads operating system software."
+    },
+    {
+      "duty": "Supports the design of systems, mission architecture, and associated hardware."
+    },
+    {
+      "duty": "Analyzes and resolves complex problems associated with server hardware, applications, and software integration."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in a technical discipline from an accredited college or university is required."
+    },
+    {
+      "credential": "TS/SCI with Polygraph Required."
+    }
+  ]
+}

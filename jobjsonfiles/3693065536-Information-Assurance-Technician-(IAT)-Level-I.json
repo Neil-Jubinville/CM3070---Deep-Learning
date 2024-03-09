@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Information Assurance Technician (IAT) Level I",
+      "job_category": "Information Technology",
+      "job_class": "Technician",
+      "sector": "Information Technology",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Information Assurance Technology",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 1
+    },
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 1
+    },
+    {
+      "skill": "Network Administration",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage accounts, network rights, and access to Network Environmental (NE) systems and equipment."
+    },
+    {
+      "duty": "Install, configure and troubleshoot IA solutions in a deployed environment."
+    },
+    {
+      "duty": "Implement applicable patches including IAVAs, Information Assurance & Vulnerability Bulletin (IAVBs), and Technical Assessment (TAs) for their NE."
+    },
+    {
+      "duty": "Provide end user support for all IA-related applications for the NE."
+    },
+    {
+      "duty": "Support, monitor, test, and troubleshoot hardware and software IA problems pertaining to the NE."
+    },
+    {
+      "duty": "Configure, optimize, and test network servers, hubs, routers, and switches to ensure they comply with security policy, procedures, and technical requirements."
+    },
+    {
+      "duty": "Research, evaluate, and provide feedback on problematic IA trends and patterns in customer support requirements."
+    },
+    {
+      "duty": "Perform system audits to assess security-related factors within the NE."
+    },
+    {
+      "duty": "Develop and implement access control lists on routers, firewalls, and other network devices."
+    },
+    {
+      "duty": "Install perimeter defense systems including intrusion detection systems, firewalls, grid sensors, etc., and enhance rule sets to block sources of malicious traffic."
+    },
+    {
+      "duty": "Apply security requirements to an operating system for the NE or Communication Environment (CE) used in their current position."
+    },
+    {
+      "duty": "Support Security Test and Evaluations (Part of Certification and Accreditation Process)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate\u2019s degree in Cyber Security, OR one (1) year of recent specialized experience."
+    }
+  ]
+}

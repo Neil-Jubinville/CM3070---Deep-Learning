@@ -1,0 +1,100 @@
+{
+  "meta": [
+    {
+      "job_title": "Adversarial Engineer",
+      "job_category": "Technology",
+      "job_class": "Engineer",
+      "sector": "Cybersecurity",
+      "salary": 137500,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Threat Intelligence",
+      "experience": 5
+    },
+    {
+      "skill": "Penetration Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Cybersecurity Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Social Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Adversary Simulations",
+      "experience": 5
+    },
+    {
+      "skill": "Vulnerability Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Security Frameworks",
+      "experience": 5
+    },
+    {
+      "skill": "Incident Response",
+      "experience": 5
+    },
+    {
+      "skill": "Encryption Protocols",
+      "experience": 5
+    },
+    {
+      "skill": "Programming Languages",
+      "experience": 5
+    },
+    {
+      "skill": "Report Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Network Exploitation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Simulate real-world scenarios and emulate TTPs of real adversaries to improve the target environment using threat intelligence and the MITRE ATT&CK Framework."
+    },
+    {
+      "duty": "Build and maintain red team infrastructure, automating functions where possible."
+    },
+    {
+      "duty": "Research new offensive security tactics, techniques, and procedures."
+    },
+    {
+      "duty": "Develop custom tools and tradecraft to automate tasks and increase team capabilities."
+    },
+    {
+      "duty": "Execute advanced social engineering campaigns and assist cyber defense teams during incident investigations."
+    },
+    {
+      "duty": "Effectively communicate findings, attack paths, and recommendations to client stakeholders through written reports and verbal presentations."
+    },
+    {
+      "duty": "Train other engineers in adversary simulation tactics and participate in purple team exercises."
+    },
+    {
+      "duty": "Produce high-quality reports detailing exercise results, vulnerabilities, risks, and proposed mitigations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in computer science or related discipline, or equivalent work experience (Master's preferred)"
+    }
+  ]
+}

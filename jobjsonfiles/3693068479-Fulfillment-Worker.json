@@ -1,0 +1,93 @@
+{
+  "meta": [
+    {
+      "job_title": "Fulfillment Worker",
+      "job_category": "Warehouse",
+      "job_class": "Worker",
+      "sector": "Logistics",
+      "salary": 38000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Material Handling",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Warehouse Safety",
+      "experience": 4
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Forklift Operation",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Accurately pick and pack items from company stock as specified on the pick lists."
+    },
+    {
+      "duty": "Verify order information and provide to sales and administrative team for generation of shipment labels."
+    },
+    {
+      "duty": "Affix shipping labels to outgoing packages and pallets to ensure the correct customer receives the correct order."
+    },
+    {
+      "duty": "Count and verify incoming stock and put away according to FIFO."
+    },
+    {
+      "duty": "Inventory cycle counts as assigned."
+    },
+    {
+      "duty": "Use company vehicle, forklift, pallet jack, and rolling carts to move inventory from various warehouses and inventory locations."
+    },
+    {
+      "duty": "Lift and carry raw materials and finished goods according to production and fulfillment needs."
+    },
+    {
+      "duty": "Follow all safety protocols and maintains a safe and clean work space."
+    },
+    {
+      "duty": "Follow all company processes."
+    },
+    {
+      "duty": "Communicate inventory needs or shortages with management team."
+    },
+    {
+      "duty": "Communicate order information with sales team."
+    },
+    {
+      "duty": "Materials handling."
+    },
+    {
+      "duty": "Counting and writing down numbers."
+    },
+    {
+      "duty": "Verbal communication."
+    },
+    {
+      "duty": "Reading and following step-by-step procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma/GED"
+    }
+  ]
+}

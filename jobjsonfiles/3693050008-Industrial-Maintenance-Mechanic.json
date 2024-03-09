@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Industrial Maintenance Mechanic",
+      "job_category": "Maintenance",
+      "job_class": "Mechanic",
+      "sector": "Maintenance",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Preventive Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Precision Instrumentation",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Shop Fabrication",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Knowledge Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 5
+    },
+    {
+      "skill": "Team Training",
+      "experience": 5
+    },
+    {
+      "skill": "Computerized Maintenance System",
+      "experience": 5
+    },
+    {
+      "skill": "Workplace Safety Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Complete preventive maintenance requirements on machinery, engines, motors, pneumatic tools, conveyor systems, and production machines."
+    },
+    {
+      "duty": "Troubleshoot malfunctions and locate sources of problems in mechanical, hydraulic, and pneumatic systems."
+    },
+    {
+      "duty": "Remove and dismantle defective parts, and fabricate repair parts using machine shop instrumentation and equipment."
+    },
+    {
+      "duty": "Maintain equipment, parts, and supplies inventories, anticipate equipment needs, and maintain technical knowledge."
+    },
+    {
+      "duty": "Document and communicate actions, irregularities, and training needs within the work teams."
+    },
+    {
+      "duty": "Comply with workplace procedures, rules, and regulations to maintain a safe and clean working environment."
+    },
+    {
+      "duty": "Read blueprints, install and maintain various equipment, and use computerized maintenance system to retrieve and enter information."
+    },
+    {
+      "duty": "Effectively communicate mechanical problems and solutions, participate in the training of line mechanics and apprentices, and observe safe work practices."
+    },
+    {
+      "duty": "Perform other duties as required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Journeyman\u2019s papers or equivalent degree with 3 to 5 years\u2019 experience OR 10 years of industrial maintenance."
+    }
+  ]
+}

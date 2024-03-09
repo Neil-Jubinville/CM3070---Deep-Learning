@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinarian",
+      "job_category": "Healthcare",
+      "job_class": "Doctor",
+      "sector": "Veterinary",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "Surgery",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnostics",
+      "experience": 5
+    },
+    {
+      "skill": "Dentistry",
+      "experience": 5
+    },
+    {
+      "skill": "Client Relationship Building",
+      "experience": 5
+    },
+    {
+      "skill": "Emotional Intelligence",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide medical care including diagnostics, dentistry, radiology, and surgery for pets."
+    },
+    {
+      "duty": "Build and maintain relationships with pet owners through effective communication and empathy."
+    },
+    {
+      "duty": "Collaborate with the clinic team to ensure the highest level of pet care and client satisfaction."
+    },
+    {
+      "duty": "Maintain ethical standards and demonstrate emotional intelligence in interactions with clients and pets."
+    },
+    {
+      "duty": "Contribute to a positive and supportive clinic environment by mentoring and learning from other team members."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Veterinary Medicine (DVM) degree"
+    }
+  ]
+}

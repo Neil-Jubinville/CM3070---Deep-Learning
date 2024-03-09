@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Sanitation Technician",
+      "job_category": "Food and Beverage",
+      "job_class": "Technician",
+      "sector": "Food and Beverage",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Chemical Safety",
+      "experience": 2
+    },
+    {
+      "skill": "Cleaning Procedures",
+      "experience": 2
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Supply Management",
+      "experience": 2
+    },
+    {
+      "skill": "ERP System",
+      "experience": 2
+    },
+    {
+      "skill": "Health and Safety Compliance",
+      "experience": 2
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Physical Dexterity",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Clean and sanitize assigned areas with attention to detail and food safety standards."
+    },
+    {
+      "duty": "Possess knowledge of chemicals and chemical safety for cleaning chemicals."
+    },
+    {
+      "duty": "Follow and execute cleaning schedules, utilizing power washers, hoses, and small hand and power tools."
+    },
+    {
+      "duty": "Disassemble and reassemble equipment using hand and power tools."
+    },
+    {
+      "duty": "Set up equipment and supplies for the next day\u2019s production."
+    },
+    {
+      "duty": "Report and scan materials issued into the company\u2019s ERP system."
+    },
+    {
+      "duty": "Comply with health and safety rules, procedures, laws, and accepted safe work practices."
+    },
+    {
+      "duty": "Follow safety standards and report any unsafe acts, conditions, and injuries."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

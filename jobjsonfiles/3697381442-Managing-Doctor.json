@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Managing Doctor",
+      "job_category": "Veterinary",
+      "job_class": "Doctor",
+      "sector": "Healthcare",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Veterinary Medicine",
+      "experience": 7
+    },
+    {
+      "skill": "Leadership",
+      "experience": 7
+    },
+    {
+      "skill": "Health and Wellbeing",
+      "experience": 5
+    },
+    {
+      "skill": "Effective Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Management",
+      "experience": 5
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 7
+    },
+    {
+      "skill": "Medical Mentorship",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide medical leadership for the hospital and manage associate veterinarians."
+    },
+    {
+      "duty": "Assure regulatory compliance relating to the practice of veterinary medicine."
+    },
+    {
+      "duty": "Create an environment of teamwork, quality medicine, and exceptional client service."
+    },
+    {
+      "duty": "Responsible for the financial performance and general operations of the hospital."
+    },
+    {
+      "duty": "Cultivate a supportive and collaborative team environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Veterinary Medicine (DVM) degree from an accredited university. Licensure in good standing to practice in the state of Tennessee."
+    }
+  ]
+}

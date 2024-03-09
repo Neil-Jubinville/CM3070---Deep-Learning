@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Restaurant Associate",
+      "job_category": "Customer Service",
+      "job_class": "Associate",
+      "sector": "Hospitality",
+      "salary": 29000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Suggestive Selling",
+      "experience": 2
+    },
+    {
+      "skill": "Multi-tasking",
+      "experience": 2
+    },
+    {
+      "skill": "Cleanliness Maintenance",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide prompt, efficient, safe, and courteous quality food service to the guest."
+    },
+    {
+      "duty": "Maintain a clean, safe environment to ensure the restaurant is always customer ready."
+    },
+    {
+      "duty": "Ensure proper preparation, presentation, and freshness of all foodservice products."
+    },
+    {
+      "duty": "Follow proper health code guidelines."
+    },
+    {
+      "duty": "Excellence in cash handling and suggestive selling techniques."
+    },
+    {
+      "duty": "Promote the loyalty rewards program."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": []
+}

@@ -1,0 +1,45 @@
+{
+  "meta": [
+    {
+      "job_title": "Traffic Supervisor",
+      "job_category": "Traffic Management",
+      "job_class": "Supervisor",
+      "sector": "Transportation",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Traffic Management",
+      "experience": 5
+    },
+    {
+      "skill": "Safety",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide day-to-day leadership, training, and management for Traffic employees."
+    },
+    {
+      "duty": "Establish means and methods to ensure all employees perform job functions correctly and safely."
+    },
+    {
+      "duty": "Adhere to company policies and procedures and be responsible for employee performance and retention."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Previous experience within the Traffic or Transportation sector is required. Must be computer literate (Excel, Word, Outlook, Web)."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Security Analyst",
+      "job_category": "Information Technology",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Vulnerability Management",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Security Exception Management",
+      "experience": 5
+    },
+    {
+      "skill": "User Security Support",
+      "experience": 5
+    },
+    {
+      "skill": "Access Governance",
+      "experience": 5
+    },
+    {
+      "skill": "Policy Development",
+      "experience": 5
+    },
+    {
+      "skill": "Tenable Vulnerability Management",
+      "experience": 2
+    },
+    {
+      "skill": "ARCHER GRC System",
+      "experience": 2
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Active Directory Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee VDOT's vulnerability program and ensure timely identification and remediation of security vulnerabilities."
+    },
+    {
+      "duty": "Assist in conducting risk assessments and managing security exceptions to ensure a robust and compliant security posture."
+    },
+    {
+      "duty": "Provide expert support to users, addressing security-related questions and concerns effectively."
+    },
+    {
+      "duty": "Take charge of user account management and the access governance process to maintain proper security controls."
+    },
+    {
+      "duty": "Collaborate on the development of security policies and job aids, contributing expertise to enhance the overall security framework."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field (Master's preferred)"
+    }
+  ]
+}

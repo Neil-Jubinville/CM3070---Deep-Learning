@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Lab Technician",
+      "job_category": "Science",
+      "job_class": "Technician",
+      "sector": "Laboratory",
+      "salary": 48000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Laboratory Techniques",
+      "experience": 3
+    },
+    {
+      "skill": "Report Writing",
+      "experience": 3
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Biology",
+      "experience": 3
+    },
+    {
+      "skill": "Adaptability",
+      "experience": 3
+    },
+    {
+      "skill": "Record Keeping",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform scheduled studies and laboratory tests according to established procedures and protocols."
+    },
+    {
+      "duty": "Assist in writing reports and documenting experimental procedures and results."
+    },
+    {
+      "duty": "Follow all laboratory safety procedures and ensure compliance with PSL safety standards."
+    },
+    {
+      "duty": "Demonstrate the ability to safely wear a respirator as required for certain laboratory activities."
+    },
+    {
+      "duty": "Complete additional duties as assigned by laboratory management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 200,
+      "student_teacher": 150,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.S. degree or equivalent experience in laboratory or biology is preferred."
+    }
+  ]
+}

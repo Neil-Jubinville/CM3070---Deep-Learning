@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Electronic Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Engineering",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Analog and Digital Circuit Design",
+      "experience": 5
+    },
+    {
+      "skill": "Analog Signal Conditioning",
+      "experience": 5
+    },
+    {
+      "skill": "DC-DC Power Conversion",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Interface Design",
+      "experience": 5
+    },
+    {
+      "skill": "Hardware Integration and Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Test System Design",
+      "experience": 5
+    },
+    {
+      "skill": "Component and Architecture Trade Studies",
+      "experience": 5
+    },
+    {
+      "skill": "Lab Equipment Operation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Analyze and design analog and digital electronic circuits including analog signal conditioning, DC-DC power conversion, and communication interfaces"
+    },
+    {
+      "duty": "Integrate, test, troubleshoot, and verify electrical hardware"
+    },
+    {
+      "duty": "Develop test criteria and assist in the design of test systems"
+    },
+    {
+      "duty": "Perform component and architecture trade studies to determine optimal system solutions to design hardware and electronics based on commercial and industry components and technologies"
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electrical Engineering or a related field (Master's preferred)"
+    }
+  ]
+}

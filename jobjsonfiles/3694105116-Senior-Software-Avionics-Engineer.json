@@ -1,0 +1,123 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Avionics Engineer",
+      "job_category": "Engineering",
+      "job_class": "Senior Engineer",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Avionics Software Development",
+      "experience": 8
+    },
+    {
+      "skill": "C/C++",
+      "experience": 8
+    },
+    {
+      "skill": "Python",
+      "experience": 8
+    },
+    {
+      "skill": "Real-time Systems",
+      "experience": 8
+    },
+    {
+      "skill": "Linux Development",
+      "experience": 8
+    },
+    {
+      "skill": "Communication Protocols (CAN, SPI, I2C, UART)",
+      "experience": 8
+    },
+    {
+      "skill": "ARM Microcontrollers",
+      "experience": 8
+    },
+    {
+      "skill": "Control Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Robotics",
+      "experience": 5
+    },
+    {
+      "skill": "Sensors",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 8
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 8
+    },
+    {
+      "skill": "Embedded Security",
+      "experience": 5
+    },
+    {
+      "skill": "BLE",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and oversee the avionics software team, providing guidance and technical support."
+    },
+    {
+      "duty": "Allocate tasks and resources efficiently to ensure timely project delivery."
+    },
+    {
+      "duty": "Conduct performance evaluations and provide mentorship to team members."
+    },
+    {
+      "duty": "Foster a collaborative and innovative work environment within the team."
+    },
+    {
+      "duty": "Coordinate with other departments to ensure smooth integration of software with other aircraft components."
+    },
+    {
+      "duty": "Develop and implement best practices for software development and project management."
+    },
+    {
+      "duty": "Collaborate with stakeholders to define project requirements and objectives."
+    },
+    {
+      "duty": "Ensure adherence to industry standards and safety regulations in software development."
+    },
+    {
+      "duty": "Manage budgets and resource planning for the avionics software team."
+    },
+    {
+      "duty": "Develop software/firmware for projects related to sensors, control systems, communications, and navigation"
+    },
+    {
+      "duty": "Improve testing automation, software quality, data collection, analysis and validation"
+    },
+    {
+      "duty": "Debug issues in production, determine the root cause and apply fixes in a timely manner"
+    },
+    {
+      "duty": "Assist in flight testing both locally and at remote sites"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "MS in Software Engineering, Computer Science, Computer Engineering, or similar with 5+ years experience OR\nBS in Software Engineering, Computer Science, Computer Engineering, or similar with 8+ years experience"
+    }
+  ]
+}

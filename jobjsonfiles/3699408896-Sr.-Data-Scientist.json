@@ -1,0 +1,106 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. Data Scientist",
+      "job_category": "Data Science",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "R",
+      "experience": 5
+    },
+    {
+      "skill": "Scala",
+      "experience": 5
+    },
+    {
+      "skill": "Data Cleaning",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Tableau",
+      "experience": 5
+    },
+    {
+      "skill": "Statistical Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "NLP",
+      "experience": 5
+    },
+    {
+      "skill": "Flask",
+      "experience": 5
+    },
+    {
+      "skill": "Docker",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "NoSQL",
+      "experience": 5
+    },
+    {
+      "skill": "Amazon Web Services",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Acquire, clean, and analyze large data sets and perform exploratory data analysis."
+    },
+    {
+      "duty": "Work with multiple stakeholders to identify, design, develop, and implement advanced analytics projects."
+    },
+    {
+      "duty": "Code with machine learning tools like Python, R, and Scala and use Tableau for data visualization."
+    },
+    {
+      "duty": "Identify errors, reactively fix them, and leverage existing models or create new models using the given technologies."
+    },
+    {
+      "duty": "Collaborate on the development of scalable micro-services in Python using Flask or other frameworks."
+    },
+    {
+      "duty": "Present analyses and insights to peers and leadership."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's or PHD in Statistics, Mathematics, Computer Science, predictive analytics, or another quantitative field plus two (2) years of related experience."
+    }
+  ]
+}

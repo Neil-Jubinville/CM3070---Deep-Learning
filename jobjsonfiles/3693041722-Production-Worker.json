@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Production Worker",
+      "job_category": "Manufacturing",
+      "job_class": "Worker",
+      "sector": "Manufacturing",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Load/unload products from feeder"
+    },
+    {
+      "duty": "Pack finished product into sleeves"
+    },
+    {
+      "duty": "Review product for quality"
+    },
+    {
+      "duty": "Make boxes and load skids"
+    },
+    {
+      "duty": "Maintain clean work environment"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Teamwork",
+      "experience": 1
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 1
+    },
+    {
+      "skill": "Communication",
+      "experience": 1
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or G.E.D."
+    }
+  ]
+}

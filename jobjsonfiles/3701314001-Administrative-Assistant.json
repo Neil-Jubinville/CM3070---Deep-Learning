@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Administrative Assistant",
+      "job_category": "Administration",
+      "job_class": "Assistant",
+      "sector": "Administration",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Administrative Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Communication / Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 3
+    },
+    {
+      "skill": "Personal Productivity / Self-Directed",
+      "experience": 3
+    },
+    {
+      "skill": "Procurement Management",
+      "experience": 2
+    },
+    {
+      "skill": "Database Management",
+      "experience": 2
+    },
+    {
+      "skill": "Digital Library Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage purchase order creation and receiving of Chemical Purchase orders for the utilities and stock prep departments."
+    },
+    {
+      "duty": "Manage shared drive folder access for new business owners and change requests for existing employees."
+    },
+    {
+      "duty": "Manage digital training tracking (skill matrix) update requests for the module."
+    },
+    {
+      "duty": "Organize training and technical documentation on digital library."
+    },
+    {
+      "duty": "Develop and manage an organized requisition system, working closely with various departments to gather purchase requests, review their accuracy, and verify necessary approvals before processing orders."
+    },
+    {
+      "duty": "Efficiently process purchase orders, ensuring accurate details, and proper vendor selection."
+    },
+    {
+      "duty": "Ensure adherence to company procurement policies and relevant regulations. Keep meticulous records of purchasing activities, maintain documentation, and provide regular reports to management."
+    },
+    {
+      "duty": "Good communication and customer service skills are critical."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration or related field"
+    }
+  ]
+}

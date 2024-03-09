@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Junior Accountant",
+      "job_category": "Accounting",
+      "job_class": "Junior",
+      "sector": "Finance",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounts Payable",
+      "experience": 3
+    },
+    {
+      "skill": "Accounts Receivable",
+      "experience": 3
+    },
+    {
+      "skill": "General Accounting",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Payroll Management",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Tax Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Handle full service Accounts Payable, Accounts Receivable, and General Accounting duties."
+    },
+    {
+      "duty": "Maintain vendor records for Audit compliance and handle vendor communications."
+    },
+    {
+      "duty": "Reconcile and post daily lockbox and prepare and post mobile deposits."
+    },
+    {
+      "duty": "Assist in month-end close, cash reconciliation, and financial analysis."
+    },
+    {
+      "duty": "Support Finance Manager with Internal and External Audits."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in accounting, finance, or equivalent required (Master\u2019s preferred)"
+    }
+  ]
+}

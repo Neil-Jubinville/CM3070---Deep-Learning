@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Manufacturing",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Electrical Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 2
+    },
+    {
+      "skill": "Reading Schematics",
+      "experience": 2
+    },
+    {
+      "skill": "Hydraulic & Pneumatic Systems",
+      "experience": 2
+    },
+    {
+      "skill": "Corrugated Packaging",
+      "experience": 2
+    },
+    {
+      "skill": "480-volt Motors",
+      "experience": 2
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing maintenance and troubleshooting on manufacturing equipment to ensure safe and efficient operations."
+    },
+    {
+      "duty": "Adhering to plant safety and environmental guidelines, policies, and procedures."
+    },
+    {
+      "duty": "Installing, repairing, and maintaining mechanical drives, chains, sprockets, gears, belts, and couplings."
+    },
+    {
+      "duty": "Troubleshooting and repairing mechanical and electrical problems in accordance with plant policies and procedures."
+    },
+    {
+      "duty": "Reading and interpreting mechanical and electrical schematics."
+    },
+    {
+      "duty": "Completing mechanical and electrical preventive maintenance activities."
+    },
+    {
+      "duty": "Performing tasks such as lifting, walking, climbing, stooping, standing, pushing, and/or pulling in a manufacturing environment."
+    },
+    {
+      "duty": "Supporting safe working environment by maintaining strict adherence to safety rules and wearing appropriate Personal Protective Equipment (PPE)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "At least one year of maintenance experience within an industrial, manufacturing, or military environment."
+    }
+  ]
+}

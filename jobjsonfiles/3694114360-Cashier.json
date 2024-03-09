@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Cashier",
+      "job_category": "Retail",
+      "job_class": "Staff",
+      "sector": "Customer Service",
+      "salary": 25000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Sales Transactions",
+      "experience": 2
+    },
+    {
+      "skill": "Retail Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide excellent customer experiences and support shopping experience."
+    },
+    {
+      "duty": "Process customer sales transactions and returns."
+    },
+    {
+      "duty": "Promote company programs and adhere to established policies and procedures."
+    },
+    {
+      "duty": "Maintain confidentiality of company information."
+    },
+    {
+      "duty": "Create an inclusive store environment where everyone feels welcome and safe."
+    },
+    {
+      "duty": "Support the team across the store and perform other assigned tasks."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

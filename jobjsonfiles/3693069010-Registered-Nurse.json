@@ -1,0 +1,109 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Medical",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Process",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Telemetry Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Cardiac Care",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Team Management",
+      "experience": 5
+    },
+    {
+      "skill": "Ventilator Management",
+      "experience": 5
+    },
+    {
+      "skill": "Medical-Surgical Nursing",
+      "experience": 5
+    },
+    {
+      "skill": "BLS Certification",
+      "experience": 5
+    },
+    {
+      "skill": "ACLS Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver safe patient care using the nursing process of assessment, planning, implementation, and evaluation."
+    },
+    {
+      "duty": "Provide direct patient care and maintain standards of care in Telemetry Unit."
+    },
+    {
+      "duty": "Direct and guide patient/family teaching and activities of other nursing personnel."
+    },
+    {
+      "duty": "Communicate with physician about changes in patient's clinical condition, including cardiac monitoring."
+    },
+    {
+      "duty": "Respond quickly and accurately to changes in patient's condition and/or response to treatment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current and valid state RN License."
+    },
+    {
+      "credential": "Current BLS (AHA) certificate upon hire and maintain current."
+    },
+    {
+      "credential": "Current ACLS (AHA) certificate 30 days upon hire and maintain current."
+    },
+    {
+      "credential": "Previous Acute Care hospital experience preferred."
+    },
+    {
+      "credential": "Ventilator Management experience preferred."
+    },
+    {
+      "credential": "Medical-Surgical Nurse-Board Certified (RN-BC) or similar certification; preferred."
+    },
+    {
+      "credential": "Bachelor of Science in Nursing (BSN) preferred."
+    }
+  ]
+}

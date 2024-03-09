@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Admission Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Administration",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Office Applications",
+      "experience": 3
+    },
+    {
+      "skill": "Organization",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Review and assign documents to inquiry, prospect and applicant files; ensure all files are complete and that documents are properly identified from submission to decision to mailing."
+    },
+    {
+      "duty": "Field general questions from prospective applicants, families and school officials through phone and email communication."
+    },
+    {
+      "duty": "Prepare items for mailing during admission season with a high level of attention to detail and confidentiality."
+    },
+    {
+      "duty": "Assist in preparing for office-wide events and providing support on the day of events."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or GED (Bachelor's degree preferred)"
+    }
+  ]
+}

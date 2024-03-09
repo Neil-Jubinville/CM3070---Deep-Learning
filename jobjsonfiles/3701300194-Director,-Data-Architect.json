@@ -1,0 +1,112 @@
+{
+  "meta": [
+    {
+      "job_title": "Director, Data Architect",
+      "job_category": "Data Architect",
+      "job_class": "Director",
+      "sector": "Software Engineering",
+      "salary": 210000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Define and work with Data and Database Strategies to assess existing Data Strategy and suggest ways to boost competence and potential future strategies."
+    },
+    {
+      "duty": "Collaborate with Enterprise Architects to develop a single Org Architecture Strategy and support cloud-based modernization of legacy mainframe systems."
+    },
+    {
+      "duty": "Collaborate with business partners and technology teams to understand business objectives and establish the best architecture path."
+    },
+    {
+      "duty": "Ensure corporate, client, and customer data is treated safely and securely on the public cloud."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Strategy",
+      "experience": 20
+    },
+    {
+      "skill": "Database Strategy",
+      "experience": 20
+    },
+    {
+      "skill": "Cloud Deployment",
+      "experience": 20
+    },
+    {
+      "skill": "Java",
+      "experience": 20
+    },
+    {
+      "skill": "Python",
+      "experience": 20
+    },
+    {
+      "skill": "Spark",
+      "experience": 20
+    },
+    {
+      "skill": "Snowflake",
+      "experience": 20
+    },
+    {
+      "skill": "Yugabyte",
+      "experience": 20
+    },
+    {
+      "skill": "CockroachDB",
+      "experience": 20
+    },
+    {
+      "skill": "ETL/ELT Design",
+      "experience": 10
+    },
+    {
+      "skill": "Event-driven Architecture",
+      "experience": 10
+    },
+    {
+      "skill": "Mainframe Technology",
+      "experience": 10
+    },
+    {
+      "skill": "Data Integration",
+      "experience": 10
+    },
+    {
+      "skill": "Data Security",
+      "experience": 10
+    },
+    {
+      "skill": "Data Warehousing",
+      "experience": 10
+    },
+    {
+      "skill": "Data Analytics",
+      "experience": 10
+    },
+    {
+      "skill": "Metadata Management",
+      "experience": 10
+    },
+    {
+      "skill": "Data Quality",
+      "experience": 10
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS or MS degree is required"
+    }
+  ]
+}

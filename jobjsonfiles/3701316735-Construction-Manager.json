@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Construction Manager",
+      "job_category": "Construction",
+      "job_class": "Manager",
+      "sector": "Construction",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Construction Management",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Contract Management",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 5
+    },
+    {
+      "skill": "Scheduling",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Construction",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Act as an Owner's Representative on healthcare construction programs from design through closeout."
+    },
+    {
+      "duty": "Integrate company's best practices related to project delivery, budget, schedule, quality, and operations in the healthcare environment."
+    },
+    {
+      "duty": "Advise and liaise with client, user groups, design team, contractors, and facility engineering representatives."
+    },
+    {
+      "duty": "Support traditional Design-Bid-Build and Design/Build contracts with services such as scheduling, progress meetings, issue resolution, and testing and inspection."
+    },
+    {
+      "duty": "Ensure compliance with local, state, and federal jurisdiction requirements, and understand and assess construction contract documents, building codes, and budgeting and scheduling."
+    },
+    {
+      "duty": "Collaborate and integrate with other professionals, and have experience with Healthcare and Federal projects."
+    },
+    {
+      "duty": "Possess knowledge of engineering services, licensing, and certifications such as CCM, PMP, and engineering licenses."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Electrical Engineering from an accredited school of higher education."
+    },
+    {
+      "credential": "Minimum 4 years of experience in both design and construction."
+    },
+    {
+      "credential": "Working knowledge of engineering services, building codes, budgeting, and scheduling."
+    },
+    {
+      "credential": "Preferred: Licensed engineer (PE or EIT), CCM, PMP certifications"
+    }
+  ]
+}

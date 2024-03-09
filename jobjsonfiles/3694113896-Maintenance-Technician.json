@@ -1,0 +1,50 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Hospitality",
+      "salary": 40000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "General Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Repairs",
+      "experience": 1
+    },
+    {
+      "skill": "Hand and Power Tools",
+      "experience": 1
+    },
+    {
+      "skill": "Knowledge of Health and Safety Regulations",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform routine general maintenance throughout all of Hendrick Medical Center."
+    },
+    {
+      "duty": "Make repairs as directed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or Equivalent"
+    }
+  ]
+}

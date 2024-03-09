@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Support Specialist",
+      "job_category": "IT",
+      "job_class": "Specialist",
+      "sector": "Information Technology",
+      "salary": 65000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Endpoint Support",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Support",
+      "experience": 5
+    },
+    {
+      "skill": "Hardware Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Software Installation",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Security Task Triage",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft 365 Deployment",
+      "experience": 5
+    },
+    {
+      "skill": "Apple Device Support",
+      "experience": 5
+    },
+    {
+      "skill": "JAMF Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Address user tickets regarding user hardware and software."
+    },
+    {
+      "duty": "Assist with installing and supporting applications and peripherals."
+    },
+    {
+      "duty": "Design and maintain PC images and deployment tasks."
+    },
+    {
+      "duty": "Image and deploy PC, Mac, and some Mobile hardware."
+    },
+    {
+      "duty": "Maintain accurate equipment inventory, licensing, and warranty documentation."
+    },
+    {
+      "duty": "Work with other members of the Infrastructure Team to assist users with issues with server or networking configurations."
+    },
+    {
+      "duty": "Create documentation and support documents for both end-users and the Service Desk."
+    },
+    {
+      "duty": "Assist users with training of hardware and software usage."
+    },
+    {
+      "duty": "Update users and computer objects in on-prem and Azure Active Directory."
+    },
+    {
+      "duty": "Configuration, deployment, and support of the Microsoft 365 Business suite."
+    },
+    {
+      "duty": "Configuration and deployment of security tools such as EDR/AV solutions."
+    },
+    {
+      "duty": "Basic support of security tasks including responding to alerts from security tools."
+    },
+    {
+      "duty": "Support and management of macOS, iOS, and iPadOS devices including configuration and app deployment and continued support."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate degree in Computer Science, Information Technology or related field or equivalent work experience"
+    }
+  ]
+}

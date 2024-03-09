@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Mental Health Clinician",
+      "job_category": "Healthcare",
+      "job_class": "Clinician",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Emergency Psychiatric Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Substance Abuse Diagnosis",
+      "experience": 5
+    },
+    {
+      "skill": "Crisis Intervention",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Supervision",
+      "experience": 5
+    },
+    {
+      "skill": "Involuntary Commitment Process",
+      "experience": 5
+    },
+    {
+      "skill": "Referral and Placement",
+      "experience": 5
+    },
+    {
+      "skill": "Outpatient Discharge Planning",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide comprehensive first evaluations for patients requiring involuntary commitments including completion of appropriate legal documentation to ensure proper compliance in the involuntary commitment process."
+    },
+    {
+      "duty": "Provide emergency psychiatric and substance abuse assessments, diagnosis, and appropriate crisis intervention/supportive counseling/social work interventions to include referral and placement at other inpatient facilities and outpatient discharge planning, to patients/families identified by the Emergency Department as having significant psychiatric and substance abuse needs."
+    },
+    {
+      "duty": "Must be flexible and adjust well to the needs of a fast-paced environment."
+    },
+    {
+      "duty": "Provide clinical supervision to Master's level or Bachelor level mental health student interns."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 70,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Masters Degree in social work, counseling, Ph.D in psychology, or other equivalent degree in a recognized mental health field"
+    }
+  ]
+}

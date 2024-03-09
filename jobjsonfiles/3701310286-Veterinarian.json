@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinarian",
+      "job_category": "Veterinary Services",
+      "job_class": "Doctor",
+      "sector": "Veterinary Services",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Ultrasound Imaging",
+      "experience": 5
+    },
+    {
+      "skill": "Echocardiography",
+      "experience": 5
+    },
+    {
+      "skill": "Abdominal Examination",
+      "experience": 5
+    },
+    {
+      "skill": "Thoracic Examination",
+      "experience": 5
+    },
+    {
+      "skill": "Pregnancy Confirmation",
+      "experience": 5
+    },
+    {
+      "skill": "Fetal Viability Investigation",
+      "experience": 5
+    },
+    {
+      "skill": "Ultrasound-Guided Biopsy",
+      "experience": 5
+    },
+    {
+      "skill": "Parathyroid & Thyroid Examination",
+      "experience": 5
+    },
+    {
+      "skill": "Cryptorchid Examination",
+      "experience": 5
+    },
+    {
+      "skill": "Ocular Examination",
+      "experience": 5
+    },
+    {
+      "skill": "Fluid Cavity Centesis",
+      "experience": 5
+    },
+    {
+      "skill": "Tru-Cut Tissue Core Biopsies",
+      "experience": 5
+    },
+    {
+      "skill": "Fine-Needle Biopsy",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Use echocardiography to determine the source and extent of cardiac pathology"
+    },
+    {
+      "duty": "Conduct an ultrasound scan to complete abdominal exam, thoracic exam, confirm pregnancy, estimate litter size, confirm fetal viability, investigate parathyroids & thyroid glands, cryptorchid exam, ocular exam, and/or a general health screen"
+    },
+    {
+      "duty": "Perform ultrasound-guided fluid cavity centesis"
+    },
+    {
+      "duty": "Execute ultrasound-guided biopsy to include tru-cut tissue core biopsies (14ga.) and fine-needle biopsy."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Veterinary Medicine (DVM) degree from an accredited university"
+    }
+  ]
+}

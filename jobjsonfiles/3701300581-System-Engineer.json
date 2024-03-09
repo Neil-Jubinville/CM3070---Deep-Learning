@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "System Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 105000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Development",
+      "experience": 10
+    },
+    {
+      "skill": "Systems Integration",
+      "experience": 10
+    },
+    {
+      "skill": "Technical Analysis",
+      "experience": 10
+    },
+    {
+      "skill": "Project Management",
+      "experience": 10
+    },
+    {
+      "skill": "Communication",
+      "experience": 10
+    },
+    {
+      "skill": "Leadership",
+      "experience": 10
+    },
+    {
+      "skill": "Systems Engineering",
+      "experience": 10
+    },
+    {
+      "skill": "Data Flow Architectures",
+      "experience": 10
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 10
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and apply advanced software/systems methods, theories and research techniques in the investigation and solution of complex and advanced technical problems."
+    },
+    {
+      "duty": "Conduct investigations and tests of considerable complexity."
+    },
+    {
+      "duty": "Plan, conduct and technically direct projects or major phases of significant projects, coordinating the efforts of technical support staff in the performance of assigned projects."
+    },
+    {
+      "duty": "Produce relevant technical reports and documentation to inform the Army / DoD Leadership concerning the significant findings, results and recommendations from scheduled technical testing events and laboratory experimentations."
+    },
+    {
+      "duty": "Review literature, patents and current practices relevant to the solution of assigned projects."
+    },
+    {
+      "duty": "Evaluate vendor capabilities to provide required products or services."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 95
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Systems, or a similar field (Master's preferred)"
+    }
+  ]
+}

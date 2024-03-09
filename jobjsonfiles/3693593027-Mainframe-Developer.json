@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Mainframe Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 115000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mainframe Development",
+      "experience": 3
+    },
+    {
+      "skill": "Data Masking",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Solution Explanation",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Scrum Team Collaboration",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Define and automate processes for end users needing masked data in a mainframe developer role."
+    },
+    {
+      "duty": "Work with architects to create feature roadmaps and develop services for data masking."
+    },
+    {
+      "duty": "Implement feature requests from clients and perform operations to ensure correct data obfuscation."
+    },
+    {
+      "duty": "Work in a scrum team using agile methodologies and tools like Jira."
+    },
+    {
+      "duty": "Explain technical solutions to technical and non-technical teams."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

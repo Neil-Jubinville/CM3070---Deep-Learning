@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Product Data Analyst",
+      "job_category": "Data Analysis",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "A/B testing",
+      "experience": 5
+    },
+    {
+      "skill": "Statistical Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "DBT",
+      "experience": 4
+    },
+    {
+      "skill": "Snowflake",
+      "experience": 4
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Dashboard Creation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Propose new product improvements or features."
+    },
+    {
+      "duty": "Support senior leadership, product managers, and others with ad-hoc and recurring reports on users and user behavior."
+    },
+    {
+      "duty": "Develop and monitor important business metrics, including user growth, cohort retention, virtual currency modeling, marketing performance, and user funnels."
+    },
+    {
+      "duty": "Perform research analysis to understand current performance, analyze trends, and contribute to project prioritization."
+    },
+    {
+      "duty": "Design, build, and launch new data models in production."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Data Science, Computer Science, or related field (Master's preferred)"
+    }
+  ]
+}

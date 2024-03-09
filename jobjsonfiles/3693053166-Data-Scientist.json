@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Scientist",
+      "job_category": "Data Science",
+      "job_class": "Data Scientist",
+      "sector": "Data Science",
+      "location": "Saint Louis MO",
+      "remote": true,
+      "salary": 110000
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 5
+    },
+    {
+      "skill": "Multivariate Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Statistical Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "ETL Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Predictive Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Behavioral Segmentation",
+      "experience": 5
+    },
+    {
+      "skill": "Profitability Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Dashboard Development",
+      "experience": 5
+    },
+    {
+      "skill": "Data Cleaning",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead complex initiatives and projects to derive insights from extracted data to solve critical business questions"
+    },
+    {
+      "duty": "Translate client/stakeholder needs into technical analyses and solutions in collaboration with internal and external partners and present findings and outcomes to clients/stakeholders"
+    },
+    {
+      "duty": "Identify rich data sources and monitor the melding and cleaning of datasets to ensure consistency"
+    },
+    {
+      "duty": "Deliver high-quality project solutions and tools within agreed-upon timelines and budget parameters and conduct post-implementation reviews"
+    },
+    {
+      "duty": "Develop data-driven innovative analytical solutions and identify opportunities to support business and client needs in a quantitative manner and facilitate informed recommendations/decisions"
+    },
+    {
+      "duty": "Develop and create predictive models, behavioral segmentation frameworks, profitability analyses, ad hoc reporting, and data visualizations"
+    },
+    {
+      "duty": "Utilize ETL tools for data extraction, transformation, and loading"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Data Science, Computer Science, Statistics, or related field (Master's preferred)"
+    }
+  ]
+}

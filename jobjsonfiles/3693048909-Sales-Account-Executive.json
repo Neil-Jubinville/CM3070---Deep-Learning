@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Account Executive",
+      "job_category": "Sales",
+      "job_class": "Executive",
+      "sector": "Sales",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "B2B Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Transportation Operations",
+      "experience": 2
+    },
+    {
+      "skill": "AS400 Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Managing new and established accounts for continued revenue and profit growth"
+    },
+    {
+      "duty": "Achieving strategic sales objective goals"
+    },
+    {
+      "duty": "Maintaining positive client relationships"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree"
+    }
+  ]
+}

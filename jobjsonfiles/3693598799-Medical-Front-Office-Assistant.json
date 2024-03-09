@@ -1,0 +1,48 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Front Office Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Check-Out",
+      "experience": 2
+    },
+    {
+      "skill": "Surgery Scheduling",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Testing",
+      "experience": 3
+    },
+    {
+      "skill": "EMR System",
+      "experience": 2
+    },
+    {
+      "skill": "eClinicalworks",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform patient check-out procedures including collecting copayments and scheduling follow-up appointments."
+    },
+    {
+      "duty": "Coordinate and schedule patient surgeries, ensuring all necessary pre-operative tests are completed."
+    },
+    {
+      "duty": "Conduct medical testing as required, while ensuring accurate recording in the EMR system."
+    },
+    {
+      "duty": "Scan and input patient data and medical records into the eClinicalworks system."
+    }
+  ]
+}

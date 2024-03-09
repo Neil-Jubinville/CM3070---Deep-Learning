@@ -1,0 +1,44 @@
+{
+  "meta": [
+    {
+      "job_title": "Teradata Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Teradata",
+      "experience": 5
+    },
+    {
+      "skill": "ETL",
+      "experience": 5
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Data Warehousing",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop data solutions using Teradata and ETL processes"
+    },
+    {
+      "duty": "Optimize data solutions to support business intelligence and analytics initiatives"
+    },
+    {
+      "duty": "Utilize SQL programming for query optimization within the Teradata environment"
+    }
+  ]
+}

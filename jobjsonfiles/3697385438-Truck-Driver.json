@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Truck Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Logistics",
+      "salary": 130000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Safe Driving",
+      "experience": 5
+    },
+    {
+      "skill": "Team Driving",
+      "experience": 5
+    },
+    {
+      "skill": "Tanker Endorsement",
+      "experience": 5
+    },
+    {
+      "skill": "Hazmat Endorsement",
+      "experience": 5
+    },
+    {
+      "skill": "Route Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Product Delivery",
+      "experience": 5
+    },
+    {
+      "skill": "CDL Class A",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Safely deliver liquid and bulk helium to Air Products plants and customers throughout the US and Canada."
+    },
+    {
+      "duty": "Delivery will include drop and hook of liquid helium containers and some pressure offloading of bulk helium and liquid nitrogen."
+    },
+    {
+      "duty": "Be able to work in a TEAM driving environment, delivering product coast-to-coast."
+    },
+    {
+      "duty": "Get a minimum of two loads per week, with scheduled home time. Out for 3 weeks and home for 5 days."
+    }
+  ],
+  "subjective_elements": [],
+  "education_certification": [
+    {
+      "credential": "Valid CDL Class A with Tanker and Hazmat endorsements"
+    },
+    {
+      "credential": "Minimum 3 years current tractor-trailer experience"
+    }
+  ]
+}

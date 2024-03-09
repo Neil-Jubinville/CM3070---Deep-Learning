@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Residential Architect",
+      "job_category": "Architecture",
+      "job_class": "Professional",
+      "sector": "Design",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Architectural Design",
+      "experience": 3
+    },
+    {
+      "skill": "Building Codes",
+      "experience": 3
+    },
+    {
+      "skill": "CAD Drafting",
+      "experience": 3
+    },
+    {
+      "skill": "Construction Imagination",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Client Assessment",
+      "experience": 3
+    },
+    {
+      "skill": "Detail Accuracy",
+      "experience": 3
+    },
+    {
+      "skill": "Material Planning",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop residential architectural designs with a focus on residential remodeling and building code compliance."
+    },
+    {
+      "duty": "Utilize CAD Drafting tools such as AutoCAD, Revit, and Chief Architect for design and rendering."
+    },
+    {
+      "duty": "Communicate with residential clients and translate their ideas into architectural plans within budget constraints."
+    },
+    {
+      "duty": "Ensure accuracy of details, plans, and material planning considering construction costs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Non-registered graduate of an Architectural professional degree program with 2+ years of post-degree experience in a related field."
+    },
+    {
+      "credential": "Strong understanding of building codes & requirements."
+    },
+    {
+      "credential": "Previous experience working with and at ease with residential clients, assessing their unique needs and translating those ideas into plans within budget."
+    },
+    {
+      "credential": "Proficient in hand drawing skills, space planning, finishes selections, and the use of CAD software like AutoCAD, Revit, and Chief Architect."
+    }
+  ]
+}

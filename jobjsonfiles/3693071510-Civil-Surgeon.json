@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Civil Surgeon",
+      "job_category": "Healthcare",
+      "job_class": "Physician",
+      "sector": "Healthcare",
+      "salary": 1000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Immigration Law",
+      "experience": 5
+    },
+    {
+      "skill": "Client Interaction",
+      "experience": 5
+    },
+    {
+      "skill": "Record-Keeping",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Physical Examination",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct immigration physicals and complete the I693 form in compliance with UCSIS regulations."
+    },
+    {
+      "duty": "Review past medical history, vaccine history, and required testing for each client."
+    },
+    {
+      "duty": "Accomplish the physical and complete the I693 form within 15-20 minutes per client."
+    },
+    {
+      "duty": "Establish and expand immigration physical services at corporate locations throughout the US."
+    },
+    {
+      "duty": "Seek certification as a Civil Surgeon to provide the service at the company's offices in the area."
+    },
+    {
+      "duty": "Complete paperwork and requirements to become a designated Civil Surgeon."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Medical degree and certification as a Civil Surgeon"
+    }
+  ]
+}

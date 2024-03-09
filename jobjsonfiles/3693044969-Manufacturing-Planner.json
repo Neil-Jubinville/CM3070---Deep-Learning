@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Manufacturing Planner",
+      "job_category": "Manufacturing",
+      "job_class": "Planner",
+      "sector": "Supply Chain",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Production Planning",
+      "experience": 3
+    },
+    {
+      "skill": "MRP Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Capacity Management",
+      "experience": 3
+    },
+    {
+      "skill": "ERP Software Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Supply Chain Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement an effective and appropriate capacity management and production monitoring system."
+    },
+    {
+      "duty": "Maintain all MRP planning and scheduling parameters for all 'make' items."
+    },
+    {
+      "duty": "Analyze planned order reports and provide timely release of production work orders specified by the Production Plan."
+    },
+    {
+      "duty": "Interface with production teams and procurement specialists to prioritize the most critical items."
+    },
+    {
+      "duty": "Identify and bring to resolution any production demand/supply imbalances in both volume and mix."
+    },
+    {
+      "duty": "Provide daily guidance and information to the product line team regarding status of production schedules."
+    },
+    {
+      "duty": "Prepare and communicate shortage and backlog reports and provide visibility of other potential interruptions to the Planning Manager."
+    },
+    {
+      "duty": "Monitor production progress against scheduling needs and intervene as necessary to bring deliveries back into compliance with production schedules."
+    },
+    {
+      "duty": "Identify and report opportunities and implement actions continually to reduce waste, shorten lead times, reduce costs, etc."
+    },
+    {
+      "duty": "Report all scheduling capacity and production tracking data statistics and metrics as defined by the Master Schedule policy."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Business Administration, Engineering, Finance, or a related field (Master's preferred)"
+    },
+    {
+      "credential": "Minimum 3 years\u2019 experience in a Supply Chain, Manufacturing, or Finance role."
+    },
+    {
+      "credential": "At least 1 year of experience in production planning and work order management."
+    }
+  ]
+}

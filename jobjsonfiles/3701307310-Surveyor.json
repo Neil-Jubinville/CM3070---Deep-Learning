@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Surveyor",
+      "job_category": "Construction",
+      "job_class": "Surveyor",
+      "sector": "Construction",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AutoCAD Civil 3D",
+      "experience": 5
+    },
+    {
+      "skill": "MicroStation with GeoPak and/or OpenRoads",
+      "experience": 5
+    },
+    {
+      "skill": "Construction Plan Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office Suite",
+      "experience": 5
+    },
+    {
+      "skill": "Algebra, Geometry, and Trigonometry",
+      "experience": 5
+    },
+    {
+      "skill": "Field Surveying Procedures",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Preparation of survey plats and maps including boundary surveys, as-built surveys, topographic surveys, utility route surveys, etc."
+    },
+    {
+      "duty": "Individual project management, courthouse research, processing of data collected by survey crews, preparation of CAD files, construction staking calculations, and occasional field work."
+    },
+    {
+      "duty": "Ability to work with minimal supervision to complete projects with demanding scopes and schedules."
+    }
+  ],
+  "subjective_elements": [],
+  "education_certification": [
+    {
+      "credential": "Minimum high school diploma or equivalent"
+    }
+  ]
+}

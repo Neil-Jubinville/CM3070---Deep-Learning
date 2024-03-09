@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "School Counselor",
+      "job_category": "Education",
+      "job_class": "Counselor",
+      "sector": "Education",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Counseling",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Adolescent Development",
+      "experience": 5
+    },
+    {
+      "skill": "School Management",
+      "experience": 5
+    },
+    {
+      "skill": "First Aid and CPR",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide guidance and resources to middle and high school students to foster academic success, personal growth, and overall well-being."
+    },
+    {
+      "duty": "Understand and respect the needs of K-12 aged students and create a positive and inclusive school environment."
+    },
+    {
+      "duty": "Manage time and carry out multiple assigned tasks effectively."
+    },
+    {
+      "duty": "Demonstrate strong management skills and the ability to problem solve and show initiative."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 140,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree in School Counseling"
+    }
+  ]
+}

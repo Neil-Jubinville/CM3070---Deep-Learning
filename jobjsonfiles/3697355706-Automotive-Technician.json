@@ -1,0 +1,96 @@
+{
+  "meta": [
+    {
+      "job_title": "Automotive Technician",
+      "job_category": "Auto",
+      "job_class": "Technician",
+      "sector": "Automotive",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Automotive Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Diagnosis",
+      "experience": 5
+    },
+    {
+      "skill": "Vehicle Service",
+      "experience": 5
+    },
+    {
+      "skill": "ASE Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Vehicle Inspection",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Tire Service",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Services and repairs automotive systems"
+    },
+    {
+      "duty": "Performs inspections on assigned vehicles according to M.A.P. Guidelines and reports findings to service management"
+    },
+    {
+      "duty": "Explains mechanical diagnoses and needed repairs to non-mechanical individuals, including teammates and supervisors"
+    },
+    {
+      "duty": "Performs tasks in areas such as brakes, electrical, engine performance, heating/air conditioning, suspension/steering, transmissions, and manual drivetrains and axles"
+    },
+    {
+      "duty": "Ensures service area mechanical repair problems are communicated to store management"
+    },
+    {
+      "duty": "Demonstrates proficiency in the application of BSRO methods, standards, and procedures"
+    },
+    {
+      "duty": "Maintains ASE certification and BSRO certifications according to company standards"
+    },
+    {
+      "duty": "Maintains service center standards of cleanliness, orderliness, and appearance of equipment and space"
+    },
+    {
+      "duty": "Complies with company safety policy and federal/state OSHA safety requirements"
+    },
+    {
+      "duty": "Provides on-the-job training for new team members and apprentices"
+    },
+    {
+      "duty": "Performs physical tasks related to tire service, oil changes, alignments, fluid services, brake services, and other automotive repair services"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum 2 years of automotive repair experience, completion of Vocational-Technical School program in a related field, or demonstrated skills via third party certificates/assessment"
+    },
+    {
+      "credential": "ASE certification in at least one of A1-A8 is preferred"
+    }
+  ]
+}

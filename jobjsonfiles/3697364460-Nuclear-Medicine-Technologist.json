@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Nuclear Medicine Technologist",
+      "job_category": "Healthcare",
+      "job_class": "Technologist",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nuclear Medicine Technology",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Radiation Safety",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Imaging",
+      "experience": 3
+    },
+    {
+      "skill": "Healthcare Technology",
+      "experience": 3
+    },
+    {
+      "skill": "Diagnostic Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Record Keeping",
+      "experience": 3
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform nuclear medicine procedures and imaging tests on patients."
+    },
+    {
+      "duty": "Ensure patient safety during the administration of radioactive pharmaceuticals."
+    },
+    {
+      "duty": "Operate and maintain medical imaging equipment to obtain high-quality images."
+    },
+    {
+      "duty": "Assist in the diagnosis and treatment of various medical conditions using nuclear medicine technology."
+    },
+    {
+      "duty": "Maintain accurate records of procedures, patient information, and radioactive materials."
+    },
+    {
+      "duty": "Communicate with patients to explain procedures, address concerns, and provide support."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nuclear Medicine Technology or related field"
+    }
+  ]
+}

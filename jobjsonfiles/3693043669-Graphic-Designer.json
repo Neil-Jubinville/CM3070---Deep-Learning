@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Graphic Designer",
+      "job_category": "Design",
+      "job_class": "Designer",
+      "sector": "Design",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Creative Sensibility",
+      "experience": 3
+    },
+    {
+      "skill": "Content Translation",
+      "experience": 3
+    },
+    {
+      "skill": "Design Solutions",
+      "experience": 3
+    },
+    {
+      "skill": "Adobe Creative Suite",
+      "experience": 3
+    },
+    {
+      "skill": "Visual Communication",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Translate creative content across various content types with a unique perspective and creative sensibility."
+    },
+    {
+      "duty": "Create deliberate and refined designs within budget and timelines."
+    },
+    {
+      "duty": "Process complex information into simple design solutions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Graphic Design, Fine Arts, or related field (Master's preferred)"
+    }
+  ]
+}

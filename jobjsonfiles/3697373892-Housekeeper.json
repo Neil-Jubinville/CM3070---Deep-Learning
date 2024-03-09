@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Housekeeper",
+      "job_category": "Housekeeping",
+      "job_class": "Housekeeper",
+      "sector": "Housekeeping",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cleaning and Sanitation",
+      "experience": 1
+    },
+    {
+      "skill": "Laundry Service",
+      "experience": 1
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "Health and Safety Knowledge",
+      "experience": 1
+    },
+    {
+      "skill": "Compassion",
+      "experience": 1
+    },
+    {
+      "skill": "Initiative",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Clean and maintain private residences to ensure a sanitary and comfortable space for residents and guests."
+    },
+    {
+      "duty": "Perform laundry service and daily changing of residents' beds, including ironing and pressing as needed."
+    },
+    {
+      "duty": "Inspect rooms and communal areas to ensure high standards of hygiene and cleanliness at all times."
+    },
+    {
+      "duty": "Reset areas after use, keeping safety and sanitation as a motivating factor in daily work."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150
+    },
+    {
+      "student_teacher": 90
+    },
+    {
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent preferred"
+    }
+  ]
+}

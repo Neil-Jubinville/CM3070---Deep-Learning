@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Test Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Manual Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Testing Tool",
+      "experience": 3
+    },
+    {
+      "skill": "Healthcare Domain Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform comprehensive testing procedures on software applications and systems to identify and report defects."
+    },
+    {
+      "duty": "Collaborate effectively with multi-functional teams during the testing process."
+    },
+    {
+      "duty": "Design and execute test cases, and report bugs found during testing."
+    },
+    {
+      "duty": "Conduct regression testing and document testing procedures and strategies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": []
+}

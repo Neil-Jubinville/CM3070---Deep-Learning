@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Executive Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Administration",
+      "salary": 80000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Calendar Management",
+      "experience": 5
+    },
+    {
+      "skill": "Travel Arrangements",
+      "experience": 5
+    },
+    {
+      "skill": "Expense Management",
+      "experience": 5
+    },
+    {
+      "skill": "Meeting and Event Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage calendars, arrange travel, oversee expenses, and plan meetings and events for two C-Suite Executives."
+    },
+    {
+      "duty": "Provide executive-level support to ensure smooth functioning of administrative tasks."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration or related field (Master's preferred)"
+    }
+  ]
+}

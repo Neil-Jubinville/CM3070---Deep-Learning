@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "HVAC Apprentice",
+      "job_category": "Engineering",
+      "job_class": "Apprentice",
+      "sector": "Engineering",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HVAC Knowledge",
+      "experience": 1
+    },
+    {
+      "skill": "Mechanical Installations",
+      "experience": 1
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Driver's License",
+      "experience": 1
+    },
+    {
+      "skill": "On-the-job Training",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform mechanical installations under the mentorship of experienced peers."
+    },
+    {
+      "duty": "Troubleshoot and resolve HVAC system problems, responding to warranty calls as required."
+    },
+    {
+      "duty": "Keep employers and customers informed of job progress and issues."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 70,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    },
+    {
+      "credential": "Valid driver\u2019s license"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Cyber Security Analyst",
+      "job_category": "Information Technology",
+      "job_class": "Analyst",
+      "sector": "Government",
+      "salary": 118000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cybersecurity Tech",
+      "experience": 5
+    },
+    {
+      "skill": "Intrusion Detection/Prevention",
+      "experience": 5
+    },
+    {
+      "skill": "Packet Capture Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Splunk Machine Logs",
+      "experience": 5
+    },
+    {
+      "skill": "Security Event Management",
+      "experience": 5
+    },
+    {
+      "skill": "Information Security",
+      "experience": 5
+    },
+    {
+      "skill": "Network Sensor Activity",
+      "experience": 5
+    },
+    {
+      "skill": "CNDSP-IR Certification",
+      "experience": 5
+    },
+    {
+      "skill": "IAT Level II Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Database Security",
+      "experience": 5
+    },
+    {
+      "skill": "Operating System Security",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide leadership and high-level CSOC Security Support, managing cyber and network sensor activity."
+    },
+    {
+      "duty": "Perform security event and incident correlation using information gathered from various sources within the enterprise."
+    },
+    {
+      "duty": "Perform cyber incident triage, including determining scope, urgency, potential impact, and making recommendations for expeditious remediation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Cybersecurity, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

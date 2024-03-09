@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff RN",
+      "job_category": "Nursing",
+      "job_class": "RN",
+      "sector": "Healthcare",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical-Surgical Nursing",
+      "experience": 2
+    },
+    {
+      "skill": "Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Acute Care",
+      "experience": 5
+    },
+    {
+      "skill": "Registered Nurse License",
+      "experience": 5
+    },
+    {
+      "skill": "BLS Certification",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide direct care in the medical-surgical setting."
+    },
+    {
+      "duty": "Communicate with physicians, Nurse Director, and co-workers about changes in the patient\u2019s clinical condition."
+    },
+    {
+      "duty": "Respond quickly and accurately to changes in patient condition or response to treatment."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing"
+    }
+  ]
+}

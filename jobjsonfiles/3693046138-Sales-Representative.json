@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 80000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Strategy",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 4
+    },
+    {
+      "skill": "Negotiation Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Technical Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Business Software Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage customer relationships and achieve sales goals within an assigned territory."
+    },
+    {
+      "duty": "Develop new prospects and accounts while ensuring customer satisfaction."
+    },
+    {
+      "duty": "Conduct negotiations and build positive relationships with prospective customers."
+    },
+    {
+      "duty": "Provide leadership and mentoring to less experienced sales representatives."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "At least 2 years of relevant sales experience required and/or equivalent industry experience."
+    },
+    {
+      "credential": "Technical background in generators, engines, and related components is highly preferred."
+    },
+    {
+      "credential": "Basic to intermediate technical knowledge required."
+    },
+    {
+      "credential": "Strong work ethic and high sense of motivation."
+    },
+    {
+      "credential": "Competent knowledge of business software systems, such as BMS, Microsoft Office, and Lotus Notes."
+    },
+    {
+      "credential": "Excellent organizational, written, verbal, negotiation, and interpersonal skills."
+    }
+  ]
+}

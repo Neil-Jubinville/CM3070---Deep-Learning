@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Salesforce Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Sales",
+      "salary": 125000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Salesforce Development",
+      "experience": 5
+    },
+    {
+      "skill": "Apex Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Lightning Web Components",
+      "experience": 5
+    },
+    {
+      "skill": "Visualforce Development",
+      "experience": 5
+    },
+    {
+      "skill": "Salesforce Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Mentorship",
+      "experience": 5
+    },
+    {
+      "skill": "DevSecOps",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and implement Salesforce solutions using Apex, Lightning Web Components, Visualforce, and other code-based Salesforce technologies."
+    },
+    {
+      "duty": "Collaborate with business analysts, stakeholders, and development teams to gather requirements and translate them into technical solutions."
+    },
+    {
+      "duty": "Participate in the full software development lifecycle, including design, coding, testing, and deployment."
+    },
+    {
+      "duty": "Develop efficient and scalable code following best practices and industry standards."
+    },
+    {
+      "duty": "Integrate Salesforce with other systems and platforms, ensuring seamless data flow and system interoperability."
+    },
+    {
+      "duty": "Perform code reviews to ensure code quality, adherence to standards, and best practices."
+    },
+    {
+      "duty": "Troubleshoot and debug Salesforce applications, identifying and resolving issues in a timely manner."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams, including other developers, administrators, and QA testers, to ensure successful project delivery."
+    },
+    {
+      "duty": "Stay updated on Salesforce releases, new features, and industry trends, and provide recommendations for enhancing development processes and applications."
+    },
+    {
+      "duty": "Provide technical guidance and mentorship to junior team members, fostering a culture of knowledge sharing and continuous learning."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field. Salesforce Certified Platform Developer I/II"
+    }
+  ]
+}

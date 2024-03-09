@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Delivery Driver",
+      "job_category": "Logistics",
+      "job_class": "Driver",
+      "sector": "Transportation",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Safe Operation of Delivery Truck",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Truck Inspection",
+      "experience": 2
+    },
+    {
+      "skill": "Pallet Jack Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Return Pick-ups",
+      "experience": 2
+    },
+    {
+      "skill": "High school diploma or equivalent",
+      "experience": 0
+    },
+    {
+      "skill": "CDL License",
+      "experience": 0
+    },
+    {
+      "skill": "Physically Fit",
+      "experience": 0
+    },
+    {
+      "skill": "English Proficiency",
+      "experience": 0
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Safely operate the company delivery truck (usually 24\u2019 truck) and deliver product to customers in a professional and courteous manner."
+    },
+    {
+      "duty": "Perform pre and post trip inspection of truck and load trucks with electric or pump pallet jack."
+    },
+    {
+      "duty": "Deliver product on docks using pump pallet jack, and provide product wherever customer needs (upstairs, downstairs, on shelves etc.) with 2 wheel hand cart."
+    },
+    {
+      "duty": "Pick up returns, vendor pick-ups, and provide an excellent level of customer service to both internal and external customers."
+    },
+    {
+      "duty": "Report to work on time, work overtime as required, and maintain a valid driver\u2019s license."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    },
+    {
+      "credential": "Class B CDL license"
+    }
+  ]
+}

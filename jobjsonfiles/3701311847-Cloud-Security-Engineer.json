@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Cloud Security Engineer",
+      "job_category": "Cybersecurity",
+      "job_class": "Engineer",
+      "sector": "Cloud Security",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "GCP Environment",
+      "experience": 6
+    },
+    {
+      "skill": "VPC Service Controls",
+      "experience": 6
+    },
+    {
+      "skill": "Cloud Firewall",
+      "experience": 6
+    },
+    {
+      "skill": "Python/SQL Writing",
+      "experience": 6
+    },
+    {
+      "skill": "Terraform",
+      "experience": 6
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 6
+    },
+    {
+      "skill": "Grafana",
+      "experience": 6
+    },
+    {
+      "skill": "Compliance Frameworks",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work with cloud and product team to test/review features"
+    },
+    {
+      "duty": "Enhance and support existing and new firewalls, and policies"
+    },
+    {
+      "duty": "Collaborate with the InfoSec group for capabilities in the cloud"
+    },
+    {
+      "duty": "Develop monitoring, reporting, and integration into solutions"
+    },
+    {
+      "duty": "Support and contribute to the policies of cloud use"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Professional Cybersecurity Experience"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Analyst",
+      "job_category": "Data Analysis",
+      "job_class": "Analyst",
+      "sector": "Healthcare",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 4
+    },
+    {
+      "skill": "Tableau",
+      "experience": 4
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Business Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft SQL",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Use SQL and Tableau for data analysis and reporting"
+    },
+    {
+      "duty": "Utilize business knowledge within a healthcare environment and testing arena"
+    },
+    {
+      "duty": "Build queries and reports using Microsoft SQL"
+    }
+  ]
+}

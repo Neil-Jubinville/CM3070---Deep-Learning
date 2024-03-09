@@ -1,0 +1,48 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Consultant",
+      "job_category": "Sales",
+      "job_class": "Consultant",
+      "sector": "Sales",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Retail Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Fashion Industry Knowledge",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Accompany customers during their mesmerizing Swarovski journey through the world of wonder."
+    },
+    {
+      "duty": "Create an emotional connection with customers and provide a spellbinding experience."
+    },
+    {
+      "duty": "Anticipate customers' needs and share inspiring styling tips."
+    },
+    {
+      "duty": "Showcase and present legendary products."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Specialist",
+      "job_category": "Information Technology",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 65000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Installation, maintenance, and troubleshooting of laptops, desktops, client-side software applications, and printers within a dynamic network infrastructure and MRP system."
+    },
+    {
+      "duty": "Managing and maintaining computers, users, security, and access privileges through Active Directory."
+    },
+    {
+      "duty": "Documenting software installations and hardware inventories on client-side devices."
+    },
+    {
+      "duty": "Conducting technology needs analysis to address general IT requirements."
+    },
+    {
+      "duty": "Collaborating with IT colleagues to address network infrastructure challenges and enhancements."
+    },
+    {
+      "duty": "Translating technical concepts into easily understandable terms for non-technical stakeholders."
+    },
+    {
+      "duty": "Providing on-site and remote support for warehouse facility, resolving desktop, printer, and handheld scanner issues."
+    },
+    {
+      "duty": "Fulfilling additional duties as assigned by IT management."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "IT Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Windows Desktop OS",
+      "experience": 3
+    },
+    {
+      "skill": "Active Directory",
+      "experience": 3
+    },
+    {
+      "skill": "LAN/WAN Concepts",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "MRP Workflows",
+      "experience": 3
+    },
+    {
+      "skill": "Handheld Scanners",
+      "experience": 3
+    },
+    {
+      "skill": "Printer Management",
+      "experience": 3
+    },
+    {
+      "skill": "Hardware Inventory",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "IT Certifications are desirable but not mandatory"
+    },
+    {
+      "credential": "Proficiency in Windows Desktop OS and Active Directory"
+    }
+  ]
+}

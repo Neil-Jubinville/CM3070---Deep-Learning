@@ -1,0 +1,105 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Layout Engineer",
+      "job_category": "Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "RFIC Layout",
+      "experience": 10
+    },
+    {
+      "skill": "Cadence Virtuoso GXL/XL",
+      "experience": 10
+    },
+    {
+      "skill": "Layout Methodology",
+      "experience": 10
+    },
+    {
+      "skill": "High Frequency Layout Techniques",
+      "experience": 10
+    },
+    {
+      "skill": "EM/IR Analysis",
+      "experience": 10
+    },
+    {
+      "skill": "Latch-Up Analysis",
+      "experience": 10
+    },
+    {
+      "skill": "Signal Integrity Analysis",
+      "experience": 10
+    },
+    {
+      "skill": "Transmission Line Routing",
+      "experience": 10
+    },
+    {
+      "skill": "Power Mesh Routing",
+      "experience": 10
+    },
+    {
+      "skill": "Tape Out Ready Database Creation",
+      "experience": 10
+    },
+    {
+      "skill": "IO Ring Creation",
+      "experience": 10
+    },
+    {
+      "skill": "Package Planning",
+      "experience": 10
+    },
+    {
+      "skill": "Skill Scripting in Constraint Editor",
+      "experience": 5
+    },
+    {
+      "skill": "BiCMOS Layout Experience",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop intricate transistor-level circuit layouts and oversee the integration of circuit modules until the final tape-out stage."
+    },
+    {
+      "duty": "Utilize Virtuoso tools, chip assembly router, bus router, and constraint editor to handle and sustain layouts with a high level of complexity."
+    },
+    {
+      "duty": "Execute comprehensive foundry verifications including LVS/DRC evaluations and other physical validation assessments."
+    },
+    {
+      "duty": "Collaborate with the project lead to create a schedule for tape-out that is both ambitious and feasible in terms of layout-related tasks."
+    },
+    {
+      "duty": "Play a contributory role in refining complete-chip physical design methodologies and in the initial phases of floor planning."
+    },
+    {
+      "duty": "Minimize parasitic effects on critical interconnects, ensure precise matching, and adhere to LVS/DRC guidelines."
+    },
+    {
+      "duty": "Collaboration with P&R team on DRC/LVS closure"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BSEE or MSEE"
+    }
+  ]
+}

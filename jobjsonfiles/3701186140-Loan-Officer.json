@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Loan Officer",
+      "job_category": "Finance",
+      "job_class": "Officer",
+      "sector": "Finance",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Loan Processing",
+      "experience": 4
+    },
+    {
+      "skill": "Sales",
+      "experience": 4
+    },
+    {
+      "skill": "Customer Relations",
+      "experience": 4
+    },
+    {
+      "skill": "Financial Regulation Knowledge",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Originate loans and work with borrowers to guide them through the loan process."
+    },
+    {
+      "duty": "Review and analyze loan applications, ensure all required documents are collected, and assess the creditworthiness of applicants."
+    },
+    {
+      "duty": "Understand and communicate federal, state, and local laws and regulations governing loan processing in a clear and understandable manner."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "4-year Bachelor\u2019s degree in Finance, Business, or a related field"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Android Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Android Application Development",
+      "experience": 5
+    },
+    {
+      "skill": "GitLab",
+      "experience": 5
+    },
+    {
+      "skill": "RxJava",
+      "experience": 5
+    },
+    {
+      "skill": "Dependency Injection",
+      "experience": 5
+    },
+    {
+      "skill": "Android Jetpack Components (Navigation and Room)",
+      "experience": 5
+    },
+    {
+      "skill": "Camera",
+      "experience": 5
+    },
+    {
+      "skill": "Material Components",
+      "experience": 5
+    },
+    {
+      "skill": "APIs",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Scrum",
+      "experience": 5
+    },
+    {
+      "skill": "JIRA",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain high-quality Android applications using the latest technologies and best practices."
+    },
+    {
+      "duty": "Collaborate with the development team to design and deliver new features and improvements for Android applications."
+    },
+    {
+      "duty": "Utilize GitLab, RxJava, Dependency Injection, Android Jetpack Components, Camera, Material Components, and APIs to enhance the performance and user experience of Android applications."
+    },
+    {
+      "duty": "Participate in Agile Scrum processes, including sprint planning, daily stand-ups, and retrospectives, to ensure efficient and collaborative development."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

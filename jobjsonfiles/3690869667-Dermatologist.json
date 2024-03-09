@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Dermatologist",
+      "job_category": "Healthcare",
+      "job_class": "Doctor",
+      "sector": "Medical",
+      "salary": 350000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Surgery",
+      "experience": 5
+    },
+    {
+      "skill": "Biopsy",
+      "experience": 5
+    },
+    {
+      "skill": "Prescribing Medications",
+      "experience": 5
+    },
+    {
+      "skill": "Cosmetic Procedures",
+      "experience": 5
+    },
+    {
+      "skill": "Dermatology",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform general dermatology focusing on surgery of the face and scalp."
+    },
+    {
+      "duty": "Remove samples for testing and biopsies."
+    },
+    {
+      "duty": "Prescribe medications and hormone therapy treatments."
+    },
+    {
+      "duty": "Perform cosmetic procedures to improve patient appearance and quality of life."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Board certified or board eligible in Dermatology."
+    },
+    {
+      "credential": "Current medical license in the state of Florida or willing to obtain."
+    }
+  ]
+}

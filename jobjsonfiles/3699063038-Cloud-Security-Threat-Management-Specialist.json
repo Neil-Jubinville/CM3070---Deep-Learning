@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Cloud Security Threat Management Specialist",
+      "job_category": "Information Technology",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Designing & implementing preventive security, Defender policies"
+    },
+    {
+      "duty": "Implementing threat-hunting & threat-management using Sentinel, ADX, LogAnalytics"
+    },
+    {
+      "duty": "Enable Threat Problem Management: Aligning other parts of security domain (IDM, IAM, Data security, etc.) with detected/discovered threats or security incidents to ensure shift-left in threat management."
+    },
+    {
+      "duty": "Designing & implementing security incident management process & platform as part of threat management"
+    },
+    {
+      "duty": "Designing & implementing preventative policies, runbooks/SOPs for resolution, automated resolution framework, and enforcement solutions"
+    },
+    {
+      "duty": "Designing & implementing infra-authentication & authorization, infrastructure automation (infra-as-code, gitops), config management"
+    },
+    {
+      "duty": "Designing & implementing policies for data encryption, data access, DB logging, data retention"
+    },
+    {
+      "duty": "Designing & implementing for secrets & key management, auto log enablement, log aggregation for DLP/SIEM"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cloud Security",
+      "experience": 7
+    },
+    {
+      "skill": "Threat Detection",
+      "experience": 7
+    },
+    {
+      "skill": "Threat Management",
+      "experience": 7
+    },
+    {
+      "skill": "Security Incident Management",
+      "experience": 7
+    },
+    {
+      "skill": "Infra-as-code",
+      "experience": 5
+    },
+    {
+      "skill": "Data Encryption",
+      "experience": 7
+    },
+    {
+      "skill": "Identity and Access Management (IAM)",
+      "experience": 7
+    },
+    {
+      "skill": "Security Information and Event Management (SIEM)",
+      "experience": 7
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Cybersecurity, or a related field (Master's preferred)"
+    },
+    {
+      "credential": "Relevant cloud security certifications (e.g., AWS Certified Security - Specialty, Azure Security Engineer, or GCP Professional Cloud Security Engineer)"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Aviation Accessory Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Aerospace",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Hand Tool Utilization",
+      "experience": 1
+    },
+    {
+      "skill": "Specialty Tool Utilization",
+      "experience": 1
+    },
+    {
+      "skill": "Technical Data Interpretation",
+      "experience": 1
+    },
+    {
+      "skill": "Document Management",
+      "experience": 1
+    },
+    {
+      "skill": "Mechanical Work",
+      "experience": 1
+    },
+    {
+      "skill": "Mechanical Aptitude",
+      "experience": 1
+    },
+    {
+      "skill": "Technical Drawing Interpretation",
+      "experience": 1
+    },
+    {
+      "skill": "Computer Operating Skills",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform maintenance and alteration tasks on civil aviation articles in accordance with current technical data and industry standards."
+    },
+    {
+      "duty": "Assemble fuel, oil, or air accessories, utilize hand tools, and specialty tools for precision measurements."
+    },
+    {
+      "duty": "Read and interpret technical data and drawings, generate data plates for components, and document maintenance records of repair work orders."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "0-1 years of mechanical work experience."
+    },
+    {
+      "credential": "High mechanical aptitude."
+    },
+    {
+      "credential": "Ability to read and interpret technical drawings and data."
+    },
+    {
+      "credential": "Basic computer operating skills."
+    }
+  ]
+}

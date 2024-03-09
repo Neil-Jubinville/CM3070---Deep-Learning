@@ -1,0 +1,108 @@
+{
+  "meta": [
+    {
+      "job_title": "LDAP Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Linux/UNIX system installation",
+      "experience": 5
+    },
+    {
+      "skill": "LDAP Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "Bash Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Python Programming",
+      "experience": 5
+    },
+    {
+      "skill": "PKI and SSL Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Identity Management Solutions",
+      "experience": 5
+    },
+    {
+      "skill": "Containerization",
+      "experience": 5
+    },
+    {
+      "skill": "Configuration Management",
+      "experience": 5
+    },
+    {
+      "skill": "Continuous Integration and Continuous Delivery",
+      "experience": 5
+    },
+    {
+      "skill": "Compliance and Audit Management",
+      "experience": 5
+    },
+    {
+      "skill": "ServiceNow",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Install, configure, and maintain Linux/UNIX systems, including Red Hat and Solaris."
+    },
+    {
+      "duty": "Enable Lightweight Directory Access Protocol (LDAP), Samba & Kerberos through system analysis."
+    },
+    {
+      "duty": "Utilize scripting and programming (Bash, Shell, Python) for automation and policy-based LDAP data management."
+    },
+    {
+      "duty": "Troubleshoot and debug issues, ensuring compliance and resolving related requests."
+    },
+    {
+      "duty": "Learn and POC new technologies, including public key infrastructure (PKI) and SSL automation."
+    },
+    {
+      "duty": "Support the integration and deployment of identity and access management solutions."
+    },
+    {
+      "duty": "Write and support playbooks for containerization, packaging, and automation."
+    },
+    {
+      "duty": "Develop and support Python, Bash, Perl based scripts and applications deployed on Red Hat, AWS, and Red Hat Virtualization."
+    },
+    {
+      "duty": "Design and build innovative solutions to business problems."
+    },
+    {
+      "duty": "Enhance service delivery mechanisms, including configuration management, containers, CI and CD automation."
+    },
+    {
+      "duty": "Aid application teams consuming identity management systems and support compliance and audit activities."
+    },
+    {
+      "duty": "Utilize ServiceNow skillset when applicable."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

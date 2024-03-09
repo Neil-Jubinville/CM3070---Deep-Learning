@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Laboratory Scientist",
+      "job_category": "Healthcare",
+      "job_class": "Scientist",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Chemistry",
+      "experience": 5
+    },
+    {
+      "skill": "Hematology",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Laboratory Techniques",
+      "experience": 5
+    },
+    {
+      "skill": "Infection Control Techniques",
+      "experience": 5
+    },
+    {
+      "skill": "Automated Laboratory Equipment",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Accurately perform all test procedures as listed in the procedure manual."
+    },
+    {
+      "duty": "Perform and record all scheduled instrument preventative maintenance procedures."
+    },
+    {
+      "duty": "Follow established quality control procedures, documenting corrective action if necessary."
+    },
+    {
+      "duty": "Adhere to all turnaround times, document calls as necessary, verify critical values and specimen identification."
+    },
+    {
+      "duty": "Verify completion of all stat results and all routine results in a timely manner."
+    },
+    {
+      "duty": "Record workload and other statistics into computer system as necessary."
+    },
+    {
+      "duty": "Perform assigned work safely adhering to established department safety rules and practices."
+    },
+    {
+      "duty": "Perform other related duties as instructed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140,
+      "student_teacher": 80,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelors of Science in Medical Technology or Medical Laboratory Science / ASCP Certification preferred"
+    }
+  ]
+}

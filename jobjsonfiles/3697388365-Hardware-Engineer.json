@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Hardware Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 200000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Computer Architecture",
+      "experience": 8
+    },
+    {
+      "skill": "Semiconductor Technologies",
+      "experience": 8
+    },
+    {
+      "skill": "TensorFlow",
+      "experience": 5
+    },
+    {
+      "skill": "PyTorch",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Integrated Circuits",
+      "experience": 5
+    },
+    {
+      "skill": "Networking Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Data Center Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and build hardware and software systems for large-scale computing infrastructure."
+    },
+    {
+      "duty": "Collaborate on architectural innovations for semiconductor TPU roadmap."
+    },
+    {
+      "duty": "Monitor industrial and academic trends in artificial intelligence."
+    },
+    {
+      "duty": "Engage with system and application software engineers to ensure optimization of hardware/software stack."
+    },
+    {
+      "duty": "Evaluate the power, performance, and cost of prospective architecture and subsystems."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Electrical Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

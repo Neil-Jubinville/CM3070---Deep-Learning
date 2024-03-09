@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Certified Veterinary Technician",
+      "job_category": "Veterinary",
+      "job_class": "Technician",
+      "sector": "Veterinary",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Anesthesia Monitoring",
+      "experience": 4
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 4
+    },
+    {
+      "skill": "Diagnostic Imaging",
+      "experience": 4
+    },
+    {
+      "skill": "Laboratory Work",
+      "experience": 4
+    },
+    {
+      "skill": "Venipuncture",
+      "experience": 4
+    },
+    {
+      "skill": "Endoscopy",
+      "experience": 4
+    },
+    {
+      "skill": "Rhinoscopy",
+      "experience": 4
+    },
+    {
+      "skill": "Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Providing anesthesia monitoring and recovery for patients."
+    },
+    {
+      "duty": "Collecting patient histories and performing physical exams."
+    },
+    {
+      "duty": "Performing nursing care of Internal Medicine Patients."
+    },
+    {
+      "duty": "Performing Venipuncture/IVC placement and blood transfusion therapy."
+    },
+    {
+      "duty": "Conducting laboratory work and diagnostic imaging such as ultrasound, radiology, CT and MRI."
+    },
+    {
+      "duty": "Assisting in diagnostic procedures such as endoscopy, rhinoscopy, and fluoroscopy."
+    },
+    {
+      "duty": "Communicating effectively with clients regarding the status of their pets and home care."
+    },
+    {
+      "duty": "Processing laboratory samples in-house and preparing laboratory samples for outside labs."
+    },
+    {
+      "duty": "Working collaboratively with team members of all hospital services and providing Hyperbaric Oxygen Therapy (HBOT)"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certification as a Veterinary Technician"
+    }
+  ]
+}

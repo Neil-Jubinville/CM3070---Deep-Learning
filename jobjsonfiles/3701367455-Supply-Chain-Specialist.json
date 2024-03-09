@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Supply Chain Specialist",
+      "job_category": "Supply Chain",
+      "job_class": "Specialist",
+      "sector": "Logistics",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Supply Chain Management",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Control",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Data Accuracy",
+      "experience": 3
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain adequate levels of medical supplies in the Central Supply Storeroom and Nursing Units"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or Equivalent"
+    }
+  ]
+}

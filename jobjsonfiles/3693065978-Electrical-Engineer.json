@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Engineering",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Schematics Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "Electronic Systems Operation",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Awareness",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Installation",
+      "experience": 5
+    },
+    {
+      "skill": "Panel Termination",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform routine tests and testing activities, generating detailed reports."
+    },
+    {
+      "duty": "Troubleshoot manufacturing & component problems to the lowest Line Replaceable Unit (LRU), and support during qualification tests."
+    },
+    {
+      "duty": "Execute tests according to test procedures and schematics, redlining test procedures as required."
+    },
+    {
+      "duty": "Demonstrate good working knowledge and experience with the use of computers, data recorders, and various measurement instruments."
+    },
+    {
+      "duty": "Read and understand schematics and wire lists, while maintaining technician safety awareness during tests."
+    },
+    {
+      "duty": "Document and report any anomaly or failure during test execution, optimize test execution and troubleshoot electrical issues."
+    },
+    {
+      "duty": "Support mechanical installations and repairs on rail vehicles as directed by Supervisor, including electrical panel installation and termination."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or Equivalent Required"
+    },
+    {
+      "credential": "Electrical Engineering Degree Desirable"
+    }
+  ]
+}

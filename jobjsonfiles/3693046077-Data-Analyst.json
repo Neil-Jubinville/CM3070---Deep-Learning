@@ -1,0 +1,93 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Analyst",
+      "job_category": "Data Analysis",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Data Warehousing/ETL",
+      "experience": 5
+    },
+    {
+      "skill": "Telecom Background",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Source to Target Mapping",
+      "experience": 5
+    },
+    {
+      "skill": "Data Mining",
+      "experience": 5
+    },
+    {
+      "skill": "Predictive Analytics",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Data Warehouses",
+      "experience": 5
+    },
+    {
+      "skill": "Tableau",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Discover, analyze, profile, and document findings on source data systems."
+    },
+    {
+      "duty": "Create source to target mappings using business rules to transform data."
+    },
+    {
+      "duty": "Assist development team during the development phase to resolve data issues and understand data constraints."
+    },
+    {
+      "duty": "Create and maintain data sets for Data Mining and Predictive Analytics."
+    },
+    {
+      "duty": "Drive the testing of the final data output."
+    },
+    {
+      "duty": "Interact regularly with all levels within the organization, including developers, architects, business users, and management."
+    },
+    {
+      "duty": "Assist with Tableau dashboard development."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree from four-year College or University; or three to four years related experience within an IT Department, preferably within a Data Warehouse and/or equivalent combination of education and work experience."
+    }
+  ]
+}

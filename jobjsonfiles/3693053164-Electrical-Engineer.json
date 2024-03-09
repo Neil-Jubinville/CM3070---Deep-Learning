@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Engineering",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AutoCAD",
+      "experience": 4
+    },
+    {
+      "skill": "SKM Power Tools",
+      "experience": 4
+    },
+    {
+      "skill": "Electrical Design",
+      "experience": 2
+    },
+    {
+      "skill": "Ship Hull Design",
+      "experience": 3
+    },
+    {
+      "skill": "Power Plant Systems Design",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design Ship Hull, Mechanical and Electrical (HM&E), Power Plant Systems, or controls engineering using AutoCAD and other drafting programs."
+    },
+    {
+      "duty": "Utilize SKM Power Tools for electrical design."
+    },
+    {
+      "duty": "Analyze customer behavior and competitor activity to identify growth opportunities and refine strategies."
+    },
+    {
+      "duty": "Work on electrical design projects for ships and power plant systems."
+    },
+    {
+      "duty": "Collaborate with a team of engineers to achieve project goals."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS Degree in Electrical Engineering from an accredited school."
+    }
+  ]
+}

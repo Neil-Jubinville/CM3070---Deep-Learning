@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Family Practice Nurse Practitioner",
+      "job_category": "Healthcare",
+      "job_class": "Nurse Practitioner",
+      "sector": "Healthcare",
+      "salary": 70,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical assessment and diagnosis",
+      "experience": 3
+    },
+    {
+      "skill": "Health promotion and disease prevention",
+      "experience": 3
+    },
+    {
+      "skill": "Medication management",
+      "experience": 3
+    },
+    {
+      "skill": "Patient education and counseling",
+      "experience": 3
+    },
+    {
+      "skill": "Collaborative care",
+      "experience": 3
+    },
+    {
+      "skill": "Documentation and record keeping",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct physical exams, diagnose illnesses, and develop patient care plans."
+    },
+    {
+      "duty": "Prescribe medication and perform therapeutic interventions."
+    },
+    {
+      "duty": "Collaborate with physicians and other healthcare providers to coordinate patient care."
+    },
+    {
+      "duty": "Provide patient education on health promotion and disease prevention."
+    },
+    {
+      "duty": "Maintain patient medical records and document care provided."
+    },
+    {
+      "duty": "Provide routine follow-up care and monitoring of chronic conditions."
+    },
+    {
+      "duty": "Administer diagnostic and therapeutic procedures and interpret test results."
+    },
+    {
+      "duty": "Order, perform, and interpret diagnostic tests and imaging studies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science in Nursing (BSN) degree"
+    },
+    {
+      "credential": "Master of Science in Nursing (MSN) degree or Doctor of Nursing Practice (DNP) degree from an accredited program (required by 2025)"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Accountant",
+      "job_category": "Accounting",
+      "job_class": "Accountant",
+      "sector": "Finance",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Quickbooks",
+      "experience": 3
+    },
+    {
+      "skill": "MS Office",
+      "experience": 3
+    },
+    {
+      "skill": "MS Excel",
+      "experience": 3
+    },
+    {
+      "skill": "Bookkeeping",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare development and construction budgets for prospective developments"
+    },
+    {
+      "duty": "Compile project draw requests to include AIA pay applications and consultant invoices to submit to financial partners"
+    },
+    {
+      "duty": "Communicate regularly with construction team and provide them financial & accounting support for the project"
+    },
+    {
+      "duty": "Verify that transactions comply with financial policies and procedures"
+    },
+    {
+      "duty": "Post and review approved invoices for payment"
+    },
+    {
+      "duty": "Maintain project-related records, including contracts and change orders"
+    },
+    {
+      "duty": "Verbal and written communication with employees, vendors, owners, etc."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree (accounting or finance)"
+    }
+  ]
+}

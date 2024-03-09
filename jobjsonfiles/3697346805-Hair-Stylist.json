@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Hair Stylist",
+      "job_category": "Beauty",
+      "job_class": "Stylist",
+      "sector": "Salon",
+      "salary": 17,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Hair Design",
+      "experience": 1
+    },
+    {
+      "skill": "Haircuts",
+      "experience": 1
+    },
+    {
+      "skill": "Coloring",
+      "experience": 1
+    },
+    {
+      "skill": "Hair Treatments",
+      "experience": 1
+    },
+    {
+      "skill": "Makeup Applications",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 2
+    },
+    {
+      "skill": "Product Recommendations",
+      "experience": 2
+    },
+    {
+      "skill": "Retail Display Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing hair services including hair design, haircuts, color, texture, hair treatments, makeup applications, and ear piercing."
+    },
+    {
+      "duty": "Building personal and professional rapport with all guests."
+    },
+    {
+      "duty": "Providing professional product recommendations as part of all services."
+    },
+    {
+      "duty": "Meeting/exceeding all individual sales and productivity goals."
+    },
+    {
+      "duty": "Attending mandatory educations events and workshops."
+    },
+    {
+      "duty": "Assisting in store duties (e.g., filling Salon retail displays and shelves)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Cosmetology or Barber license"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Supervisor",
+      "job_category": "Sales",
+      "job_class": "Supervisor",
+      "sector": "Sales",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Coaching",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Strategy Development",
+      "experience": 5
+    },
+    {
+      "skill": "Performance Management",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Recruitment and Hiring",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Experience Enhancement",
+      "experience": 5
+    },
+    {
+      "skill": "Marketing Campaign Management",
+      "experience": 5
+    },
+    {
+      "skill": "Staffing and Scheduling",
+      "experience": 5
+    },
+    {
+      "skill": "Relationship Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop new sales strategies within the call center to maximize opportunities"
+    },
+    {
+      "duty": "Oversee all daily sales activities of the Sales Representative Team and lead and guide the team in the attainment of revenue goals and performance metrics"
+    },
+    {
+      "duty": "Lead and guide the team in the attainment of marketing campaign goals and partner with marketing department in the development, implementation, and evaluation of marketing campaigns"
+    },
+    {
+      "duty": "Perform all staffing-related activities including recruiting, hiring, on-boarding, goal-setting, monitoring, measuring, and coaching performance"
+    },
+    {
+      "duty": "Create and manage Sales Representative work schedule, review and approve time-off requests and timesheets, and review, reconcile, and approve commission reports"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent"
+    },
+    {
+      "credential": "2+ years post high school education preferred"
+    }
+  ]
+}

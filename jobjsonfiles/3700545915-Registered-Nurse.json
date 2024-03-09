@@ -1,0 +1,46 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 35,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Acute Care",
+      "experience": 3
+    },
+    {
+      "skill": "Float Nursing",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide acute care nursing services in a variety of healthcare settings."
+    },
+    {
+      "duty": "Effectively manage and monitor patient care in a dynamic and challenging environment."
+    },
+    {
+      "duty": "Adapt to different units and specialties as a float nurse, ensuring high-quality care for patients."
+    },
+    {
+      "duty": "Collaborate with healthcare teams to meet the individual needs of each patient."
+    },
+    {
+      "duty": "Maintain accurate and detailed medical records and reports."
+    },
+    {
+      "duty": "Ensure compliance with all healthcare regulations and standards."
+    }
+  ]
+}

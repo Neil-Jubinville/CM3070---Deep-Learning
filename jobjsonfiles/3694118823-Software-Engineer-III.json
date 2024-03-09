@@ -1,0 +1,106 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer III",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 145000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "System Design",
+      "experience": 3
+    },
+    {
+      "skill": "Application Development",
+      "experience": 3
+    },
+    {
+      "skill": "Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Operation Stability",
+      "experience": 3
+    },
+    {
+      "skill": "AWS",
+      "experience": 3
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices",
+      "experience": 5
+    },
+    {
+      "skill": "RESTful Webservices",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 3
+    },
+    {
+      "skill": "Database Querying Languages",
+      "experience": 3
+    },
+    {
+      "skill": "Cloud Native Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Container Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 3
+    },
+    {
+      "skill": "Security",
+      "experience": 3
+    },
+    {
+      "skill": "Big Data Analysis",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Executes software solutions, design, development, and technical troubleshooting with ability to think beyond routine or conventional approaches to build solutions or break down technical problems."
+    },
+    {
+      "duty": "Creates secure and high-quality production code and maintains algorithms that run synchronously with appropriate systems."
+    },
+    {
+      "duty": "Produces architecture and design artifacts for complex applications while being accountable for ensuring design constraints are met by software code development."
+    },
+    {
+      "duty": "Gathers, analyzes, synthesizes, and develops visualizations and reporting from large, diverse data sets in service of continuous improvement of software applications and systems."
+    },
+    {
+      "duty": "Proactively identifies hidden problems and patterns in data and uses these insights to drive improvements to coding hygiene and system architecture."
+    },
+    {
+      "duty": "Contributes to software engineering communities of practice and events that explore new and emerging technologies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Formal training or certification on software engineering concepts and 3+ years applied experience"
+    }
+  ]
+}

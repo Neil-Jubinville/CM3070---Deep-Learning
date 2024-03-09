@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Manager",
+      "job_category": "Sales",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 155000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Management",
+      "experience": 5
+    },
+    {
+      "skill": "Coaching",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Planning",
+      "experience": 5
+    },
+    {
+      "skill": "CRM Management",
+      "experience": 5
+    },
+    {
+      "skill": "Positive Attitude",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Leading a sales team to achieve revenue and growth targets by establishing KPIs and monitoring achievements."
+    },
+    {
+      "duty": "Coaching AEs on improvement of skills and knowledge via face to face and digital channels."
+    },
+    {
+      "duty": "Serving as a key driver for setting/surpassing sales objectives and developing market strategies."
+    },
+    {
+      "duty": "Providing accurate forecasts, attracting and retaining talented account executives."
+    },
+    {
+      "duty": "Participating in the sales process on key accounts and maintaining positive customer relationships."
+    },
+    {
+      "duty": "Ensuring adoption and consistent use of sales tech stack applications (Salesforce, Salesloft, Seismic, Consensus)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree and/or equivalent experience"
+    }
+  ]
+}

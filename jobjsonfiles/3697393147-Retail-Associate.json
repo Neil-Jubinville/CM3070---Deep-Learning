@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Retail Associate",
+      "job_category": "Retail",
+      "job_class": "Associate",
+      "sector": "Retail",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Stocking",
+      "experience": 1
+    },
+    {
+      "skill": "Food Prep",
+      "experience": 1
+    },
+    {
+      "skill": "Retail Experience",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Complete cash handling and fuel transactions"
+    },
+    {
+      "duty": "Stock inventory and ensure store cleanliness"
+    },
+    {
+      "duty": "Prepare food items and adhere to foodservice safety standards"
+    },
+    {
+      "duty": "Interact with customers and provide excellent customer service"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 60,
+      "introvert_extrovert": 90
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Store Crew",
+      "job_category": "Retail",
+      "job_class": "Crew",
+      "sector": "Retail",
+      "salary": 24000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cash Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Retail Operations",
+      "experience": 1
+    },
+    {
+      "skill": "Foodservice Safety",
+      "experience": 1
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Coffee Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Health Code Compliance",
+      "experience": 1
+    },
+    {
+      "skill": "Multi-tasking",
+      "experience": 1
+    },
+    {
+      "skill": "Physical Endurance",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Cash handling, fuel transactions, cleaning, and stocking."
+    },
+    {
+      "duty": "Food prep and foodservice safety for foodservice positions."
+    },
+    {
+      "duty": "Provide excellent customer service and maintain a clean, safe environment."
+    },
+    {
+      "duty": "Ensure proper food and coffee preparation, cash handling, fuel transactions, and promotion of loyalty programs."
+    },
+    {
+      "duty": "Follow health code guidelines and perform physical tasks such as bending, standing, reaching, and occasionally lifting up to 50 pounds."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 55,
+      "student_teacher": 70,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": []
+}

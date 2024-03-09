@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Physician",
+      "job_category": "Healthcare",
+      "job_class": "Physician",
+      "sector": "Medical Treatment",
+      "salary": 200000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ADHD Diagnosis",
+      "experience": 5
+    },
+    {
+      "skill": "Behavioral Health Treatment",
+      "experience": 5
+    },
+    {
+      "skill": "Telemedicine",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Technology Proficiency",
+      "experience": 5
+    },
+    {
+      "skill": "Compliance Management",
+      "experience": 5
+    },
+    {
+      "skill": "Regulatory Knowledge",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide Telemedicine Medical Treatment services via video visits for adults and/or children with ADHD and other behavioral health conditions."
+    },
+    {
+      "duty": "Complete patient related tasks including prescription refills, patient questions/concerns, and compliance with employment laws and regulations."
+    },
+    {
+      "duty": "Maintain knowledge of trends, best practices, and telemedicine regulatory changes."
+    },
+    {
+      "duty": "Complete any other tasks and functions as requested by the company."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Medicine (MD) or Osteopathy (DO) Required"
+    },
+    {
+      "credential": "Completion of Residency Program in either Internal or Family Medicine"
+    },
+    {
+      "credential": "Board Certification or Board Eligible"
+    },
+    {
+      "credential": "Current, unrestricted State Medical license(s)"
+    },
+    {
+      "credential": "DEA license(s) and controlled substance license(s), if applicable"
+    }
+  ]
+}

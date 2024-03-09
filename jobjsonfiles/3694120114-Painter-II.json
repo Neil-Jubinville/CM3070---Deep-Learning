@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Painter II",
+      "job_category": "Skilled Labor",
+      "job_class": "Tradesman",
+      "sector": "Maintenance",
+      "salary": 40400,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Painting",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform semi-skilled and skilled painting tasks within school facilities."
+    },
+    {
+      "duty": "Prepare surfaces for painting by using de-glossers, solvents or sandpaper."
+    },
+    {
+      "duty": "Mix materials used such as paint, stains, varnishes, enamels, epoxies and lacquers."
+    },
+    {
+      "duty": "Assist in hanging, taping, and finishing sheetrock as needed."
+    },
+    {
+      "duty": "Assist with the removal of graffiti from various surfaces on school buildings using pressure washer and a variety of paint solvents."
+    },
+    {
+      "duty": "Make minor repairs to and clean equipment associated with job duties."
+    },
+    {
+      "duty": "Assist in the marking of asphalt areas."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 30,
+      "student_teacher": 50,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or Equivalency Certificate required."
+    }
+  ]
+}

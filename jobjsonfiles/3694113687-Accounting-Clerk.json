@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Accounting Clerk",
+      "job_category": "Accounting",
+      "job_class": "Clerk",
+      "sector": "Finance",
+      "salary": 38000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounts Payable",
+      "experience": 2
+    },
+    {
+      "skill": "Invoicing",
+      "experience": 2
+    },
+    {
+      "skill": "Financial Processing",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Process invoices, verify, and code payment documents"
+    },
+    {
+      "duty": "Verify transactions comply with financial policies and procedures"
+    },
+    {
+      "duty": "Bill and credit accounts involved with the accounts payable system"
+    },
+    {
+      "duty": "Liaise between departments and vendors"
+    },
+    {
+      "duty": "Review electronic direct invoices for proper accountability and weekly balancing"
+    },
+    {
+      "duty": "Oversee the efficient functioning of the cash recycler between specific hours"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 50,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in Accounting with additional specialized training or demonstrated ability"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Lead",
+      "job_category": "Software Engineering",
+      "job_class": "Technical Lead",
+      "sector": "Software Engineering",
+      "salary": 240000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Embedded Software Development",
+      "experience": 8
+    },
+    {
+      "skill": "Data Structures",
+      "experience": 8
+    },
+    {
+      "skill": "Algorithms",
+      "experience": 8
+    },
+    {
+      "skill": "Software Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Software Launching",
+      "experience": 5
+    },
+    {
+      "skill": "Software Design",
+      "experience": 3
+    },
+    {
+      "skill": "Software Architecture",
+      "experience": 3
+    },
+    {
+      "skill": "Linux",
+      "experience": 5
+    },
+    {
+      "skill": "Kernel",
+      "experience": 5
+    },
+    {
+      "skill": "Networking",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    },
+    {
+      "skill": "Data Performance Improvement",
+      "experience": 3
+    },
+    {
+      "skill": "VPN",
+      "experience": 3
+    },
+    {
+      "skill": "Cryptography",
+      "experience": 3
+    },
+    {
+      "skill": "Linux Networking Device Drivers",
+      "experience": 3
+    },
+    {
+      "skill": "Real-Time Operating System",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, guide, and vet systems designs within the scope of the broader area, and write product or system development code to solve ambiguous problems."
+    },
+    {
+      "duty": "Innovate, architect, design, and develop exceptional networking functionality and data performance to improve overall Pixel connectivity experience."
+    },
+    {
+      "duty": "Partner and collaborate with peer engineering teams, product/project management, and external partners to launch high-quality performant solutions tailored for Pixel needs."
+    },
+    {
+      "duty": "Review code developed by other engineers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency)."
+    },
+    {
+      "duty": "Influence and coach a distributed team of engineers and provide technical leadership on high-impact projects."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science or related technical field (Master's preferred)"
+    }
+  ]
+}

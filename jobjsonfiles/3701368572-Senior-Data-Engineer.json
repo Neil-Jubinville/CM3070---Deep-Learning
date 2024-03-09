@@ -1,0 +1,104 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Data Engineer",
+      "job_category": "Software Development",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Engineering",
+      "experience": 7
+    },
+    {
+      "skill": "Snowflake",
+      "experience": 7
+    },
+    {
+      "skill": "Python",
+      "experience": 7
+    },
+    {
+      "skill": "ETL",
+      "experience": 7
+    },
+    {
+      "skill": "Cloud Platforms",
+      "experience": 5
+    },
+    {
+      "skill": "Git",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD Pipelines",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 7
+    },
+    {
+      "skill": "Communication",
+      "experience": 7
+    },
+    {
+      "skill": "Leadership",
+      "experience": 7
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 7
+    },
+    {
+      "skill": "Snowflake Certification",
+      "experience": 1
+    },
+    {
+      "skill": "Cloud Platform Certification",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and maintain robust and scalable data pipelines, ensuring the seamless integration of various data sources into Snowflake."
+    },
+    {
+      "duty": "Collaborate with data scientists and analysts to understand data requirements and translate them into efficient ETL processes."
+    },
+    {
+      "duty": "Optimize data pipelines for performance, reliability, and data quality, utilizing best practices in data engineering."
+    },
+    {
+      "duty": "Develop and maintain data models, schema designs, and data dictionaries within Snowflake."
+    },
+    {
+      "duty": "Work closely with the DevOps team to ensure proper deployment, monitoring, and logging of data pipelines."
+    },
+    {
+      "duty": "Troubleshoot and resolve data pipeline issues, ensuring minimal downtime and data integrity."
+    },
+    {
+      "duty": "Stay current with industry trends and emerging technologies in data engineering and share insights with the team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 0,
+      "student_teacher": 0,
+      "introvert_extrovert": 0
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or higher degree in Computer Science, Engineering, or a related field."
+    },
+    {
+      "credential": "Certifications in Snowflake and relevant cloud platforms are advantageous."
+    }
+  ]
+}

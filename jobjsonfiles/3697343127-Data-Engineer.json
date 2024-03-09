@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Oracle",
+      "experience": 5
+    },
+    {
+      "skill": "Datastage",
+      "experience": 5
+    },
+    {
+      "skill": "UNIX",
+      "experience": 5
+    },
+    {
+      "skill": "PL/SQL",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 3
+    },
+    {
+      "skill": "Matillion",
+      "experience": 3
+    },
+    {
+      "skill": "Snowflake",
+      "experience": 3
+    },
+    {
+      "skill": "Data Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "ETL/ELT Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Git",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Principles",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and maintain data pipelines using Oracle and DataStage."
+    },
+    {
+      "duty": "Utilize UNIX and PL/SQL for data processing and management."
+    },
+    {
+      "duty": "Experience with cloud-based data warehouses and ETL/ELT tools."
+    },
+    {
+      "duty": "Implement and maintain data models for efficient data storage and retrieval."
+    },
+    {
+      "duty": "Adoption and application of Agile Principles in data engineering projects."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 130,
+      "student_teacher": 70,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Data Analyst",
+      "job_category": "Data Analysis",
+      "job_class": "Senior",
+      "sector": "Data & Insights",
+      "salary": 136000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "E-commerce Metrics",
+      "experience": 5
+    },
+    {
+      "skill": "Data Visualization (e.g., Tableau)",
+      "experience": 5
+    },
+    {
+      "skill": "A/B Testing",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Services (e.g., Redshift, Athena)",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Statistical Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Forecasting Techniques",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Extract, transform, and analyze large datasets from multiple sources to identify insights by building intuitive dashboards."
+    },
+    {
+      "duty": "Apply statistical models and forecasting techniques to predict customer behavior, sales trends, and demand patterns."
+    },
+    {
+      "duty": "Translate complex data findings into concise recommendations to guide strategic decisions, improve conversion rates, and enhance customer segmentation."
+    },
+    {
+      "duty": "Use statistical modeling techniques to conduct A/B testing, cohort analysis, regression analysis, and other advanced statistical methods to uncover patterns, correlations, and predictive insights."
+    },
+    {
+      "duty": "Design interactive dashboards and reports using data visualization tools (e.g., Tableau, MixPanel, and Apache Superset)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's degree in Data Science, Statistics, Computer Science, or related field"
+    }
+  ]
+}

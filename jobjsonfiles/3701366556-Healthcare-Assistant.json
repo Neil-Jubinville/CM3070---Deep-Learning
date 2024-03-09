@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Healthcare Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Administrative",
+      "sector": "Healthcare",
+      "salary": 38000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Healthcare Compliance",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 2
+    },
+    {
+      "skill": "Health Record Management",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Equipment Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist patients with daily activities such as feeding, grooming, and toileting."
+    },
+    {
+      "duty": "Educate and teach patients and their families under the direction of a Registered Nurse."
+    },
+    {
+      "duty": "Collect, report, and document data related to direct patient care activities."
+    },
+    {
+      "duty": "Support the maintenance of a clean and safe patient care environment, conduct companion care, and housekeeping tasks."
+    },
+    {
+      "duty": "Communicate with hospital staff, physicians, patients, families, and visitors to provide assistance and information."
+    },
+    {
+      "duty": "Process medical treatment and test orders, retrieve patient test and lab results, and schedule patient appointments."
+    },
+    {
+      "duty": "Maintain patient records, observe the cardiac monitor, and notify the nursing and medical staff of any abnormal heart rhythm variances."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certification as a Nursing Assistant or completion of a nursing education program, or successful completion of an RN program. Basic Life Support Health Care Provider card through American Heart Association."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Practical Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Direct Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "IV Therapy",
+      "experience": 3
+    },
+    {
+      "skill": "Critical Care",
+      "experience": 3
+    },
+    {
+      "skill": "Emergency Room",
+      "experience": 3
+    },
+    {
+      "skill": "Cath Lab Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Urgent Care Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide direct patient care under the supervision of the registered nurse, including IV therapy and recognition and treatment of physical and psychosocial changes unique to patient age/population group served."
+    },
+    {
+      "duty": "Apply customer service behaviors and communication skills in the delivery of patient care."
+    },
+    {
+      "duty": "Preferably have previous nursing experience in specialty areas such as Critical Care, Emergency Room, Cath Lab, and Urgent Care."
+    },
+    {
+      "duty": "Stay updated with educational programs to maintain current knowledge and clinical skills."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited School of Practical/Vocational Nursing. Eligible for, or currently licensed as a Practical Nurse in Pennsylvania. CPR certification required."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Family Medicine Nurse Practitioner",
+      "job_category": "Healthcare",
+      "job_class": "Nurse Practitioner",
+      "sector": "Medical",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Family Medicine",
+      "experience": 0
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 0
+    },
+    {
+      "skill": "Clinical Diagnosis",
+      "experience": 0
+    },
+    {
+      "skill": "Primary Care",
+      "experience": 0
+    },
+    {
+      "skill": "Elderly Care",
+      "experience": 0
+    },
+    {
+      "skill": "Acute Care",
+      "experience": 0
+    },
+    {
+      "skill": "EMR Management",
+      "experience": 0
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 0
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide family medicine care to adult patients and the elderly."
+    },
+    {
+      "duty": "Utilize evidence-based practice to diagnose and treat patients in a clinical setting."
+    },
+    {
+      "duty": "Participate in the management of acute care cases with a focus on patient-centered care."
+    },
+    {
+      "duty": "Collaborate with a team of clinicians to provide comprehensive care in line with the medical home model."
+    },
+    {
+      "duty": "Manage patient records and information using the Epic EMR system."
+    },
+    {
+      "duty": "Contribute to the growth and development of primary care services within the community."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree in Nursing with a specialization in Family Medicine or related field (DNP preferred)"
+    }
+  ]
+}

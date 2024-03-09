@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "RN ED - Emergency Department",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Emergency Care",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Emergency Protocols",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Decision Making",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide emergency care to patients in the Emergency Department."
+    },
+    {
+      "duty": "Conduct patient assessments and implement appropriate medical interventions."
+    },
+    {
+      "duty": "Collaborate with the healthcare team to deliver critical care to patients."
+    },
+    {
+      "duty": "Adhere to medical emergency protocols and respond to emergency situations."
+    },
+    {
+      "duty": "Make clinical decisions and administer medications as required."
+    },
+    {
+      "duty": "Ensure effective communication and teamwork in emergency response situations."
+    },
+    {
+      "duty": "Document patient care and maintain accurate medical records."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (RN)"
+    }
+  ]
+}

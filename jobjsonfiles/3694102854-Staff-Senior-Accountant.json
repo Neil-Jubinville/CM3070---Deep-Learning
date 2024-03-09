@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Senior Accountant",
+      "job_category": "Accounting",
+      "job_class": "Senior",
+      "sector": "Accounting",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 3
+    },
+    {
+      "skill": "Excel",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Overseeing accounting operations"
+    },
+    {
+      "duty": "Maintaining general ledger accounts"
+    },
+    {
+      "duty": "Handling AP/AR"
+    },
+    {
+      "duty": "Managing journal entries"
+    },
+    {
+      "duty": "Managing account reconciliations"
+    },
+    {
+      "duty": "Preparing financial statements"
+    },
+    {
+      "duty": "Assisting with month-end close"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting/Finance (Master's preferred)"
+    }
+  ]
+}

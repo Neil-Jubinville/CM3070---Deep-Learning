@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Diagnostic Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Consultation",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 3
+    },
+    {
+      "skill": "Instruction",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Record Systems",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform initial-response screening and escort patients to exam room."
+    },
+    {
+      "duty": "Obtain vital signs, record patient history, and prepare for examinations and treatments."
+    },
+    {
+      "duty": "Prepare, administer, and document medications and immunizations as ordered."
+    },
+    {
+      "duty": "Respond to patient requests and enter medication, radiology, and lab orders in the electronic health record."
+    },
+    {
+      "duty": "Schedule appointments, procedures, referrals, and apply third party and managed care policies."
+    },
+    {
+      "duty": "Participate in Quality Assessment and Quality Improvement Programs, practicing standard precautions and aseptic technique."
+    },
+    {
+      "duty": "Educate patients in office policies, procedures, health maintenance, and disease prevention."
+    },
+    {
+      "duty": "Uphold goals, policies, and expectations of the healthcare system and maintain examination/treatment rooms."
+    },
+    {
+      "duty": "Perform a wide variety of clinical skills related to ambulatory patient care, problem-solving, and effective communication."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or G.E.D. equivalent. Basic computer knowledge preferred. Professionally Recognized Medical Assistant Certification preferred. Graduate of a Medical Assistant program with clinical externship, or equivalent experience."
+    }
+  ]
+}

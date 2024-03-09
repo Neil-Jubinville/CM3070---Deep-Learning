@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Invoice Processing Specialist",
+      "job_category": "Accounting",
+      "job_class": "Specialist",
+      "sector": "Media and Telecommunications",
+      "salary": 46000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Invoice Processing",
+      "experience": 1
+    },
+    {
+      "skill": "MS Office",
+      "experience": 1
+    },
+    {
+      "skill": "Database Tools",
+      "experience": 1
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Review invoice packages for accuracy and input into Salesforce."
+    },
+    {
+      "duty": "Perform a 3-way match between invoices, purchase orders, and construction maps."
+    },
+    {
+      "duty": "Work with purchase orders for funding availability and reallocate funds."
+    },
+    {
+      "duty": "Prepare dashboard-style summaries using various database resources for Leadership meeting readouts."
+    },
+    {
+      "duty": "Assist in process improvement and standardization projects."
+    },
+    {
+      "duty": "Perform ad hoc projects including researching, analyzing, and summarizing data/analysis requests."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 55,
+      "student_teacher": 65,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting, Finance, MIS, or related field"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "meta": [
+    {
+      "job_title": "Data & Analytics Development Engineer",
+      "job_category": "Data & Analytics",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 105000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 10
+    },
+    {
+      "skill": "DataStage",
+      "experience": 10
+    },
+    {
+      "skill": "SQL",
+      "experience": 10
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 10
+    },
+    {
+      "skill": "Cloud Experience",
+      "experience": 8
+    },
+    {
+      "skill": "Database Query Tuning",
+      "experience": 8
+    },
+    {
+      "skill": "Oracle and SQL Databases",
+      "experience": 10
+    },
+    {
+      "skill": "Cloud Platforms (AWS/GCP)",
+      "experience": 8
+    },
+    {
+      "skill": "Pentaho or Informatica",
+      "experience": 8
+    },
+    {
+      "skill": "DW Methodologies",
+      "experience": 10
+    },
+    {
+      "skill": "Data Marts",
+      "experience": 10
+    },
+    {
+      "skill": "Data Ingestion",
+      "experience": 10
+    },
+    {
+      "skill": "Linux",
+      "experience": 10
+    },
+    {
+      "skill": "Guidewire",
+      "experience": 5
+    },
+    {
+      "skill": "Autosys",
+      "experience": 5
+    },
+    {
+      "skill": "Architecture and Dataflow Diagrams",
+      "experience": 5
+    },
+    {
+      "skill": "Self-motivation",
+      "experience": 10
+    },
+    {
+      "skill": "Thoroughness",
+      "experience": 10
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop Data & Analytics solutions using Python, DataStage, and SQL to support business objectives."
+    },
+    {
+      "duty": "Optimize database query performance and data modeling for Oracle and SQL databases."
+    },
+    {
+      "duty": "Ingest data from multiple sources such as SQL server, mainframe files, APIs, and JSON feeds using Python and DataStage."
+    },
+    {
+      "duty": "Utilize cloud platforms to enhance data analytics capabilities, with a preference for GCP experience."
+    },
+    {
+      "duty": "Lead the development of architecture and dataflow diagrams for Data & Analytics solutions."
+    },
+    {
+      "duty": "Collaborate with a small team, support team members, and adapt to rapid changes in team dynamics."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 40,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Data Science, or related field (Master's preferred)"
+    }
+  ]
+}

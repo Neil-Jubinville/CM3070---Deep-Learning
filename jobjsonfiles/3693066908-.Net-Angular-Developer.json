@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": ".Net/Angular Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Classic asp",
+      "experience": 5
+    },
+    {
+      "skill": "ASP.NET",
+      "experience": 5
+    },
+    {
+      "skill": ".NET framework 4.5",
+      "experience": 5
+    },
+    {
+      "skill": "C#",
+      "experience": 5
+    },
+    {
+      "skill": ".NET WCF and Web Api RESTful web services",
+      "experience": 5
+    },
+    {
+      "skill": "T-SQL",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "CSS",
+      "experience": 5
+    },
+    {
+      "skill": "Strong database development skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work on questions and bugs reported by users for homegrown web applications"
+    },
+    {
+      "duty": "Develop functional and non-functional requirements for .NET applications"
+    },
+    {
+      "duty": "Translate application storyboards and use cases into functional applications"
+    },
+    {
+      "duty": "Write clean, scalable code using .NET programming languages"
+    },
+    {
+      "duty": "Review and develop necessary API scripts for related enhancements"
+    },
+    {
+      "duty": "Perform integration and system testing of all developed modules"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS in Computer Science or relevant experience"
+    }
+  ]
+}

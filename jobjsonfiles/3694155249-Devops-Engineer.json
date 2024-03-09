@@ -1,0 +1,49 @@
+{
+  "meta": [
+    {
+      "job_title": "Devops Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python Programming",
+      "experience": 10
+    },
+    {
+      "skill": ".NET Development",
+      "experience": 10
+    },
+    {
+      "skill": "GitHub Development",
+      "experience": 10
+    },
+    {
+      "skill": "Container Orchestration",
+      "experience": 8
+    },
+    {
+      "skill": "Chef",
+      "experience": 8
+    },
+    {
+      "skill": "Puppet",
+      "experience": 8
+    },
+    {
+      "skill": "Ansible",
+      "experience": 8
+    },
+    {
+      "skill": "Octopus",
+      "experience": 5
+    },
+    {
+      "skill": "TeamCity",
+      "experience": 5
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Insurance Adjuster",
+      "job_category": "Insurance",
+      "job_class": "Adjuster",
+      "sector": "Property & Casualty Insurance",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Xactimate",
+      "experience": 5
+    },
+    {
+      "skill": "Property Insurance",
+      "experience": 5
+    },
+    {
+      "skill": "General Liability Insurance",
+      "experience": 3
+    },
+    {
+      "skill": "Auto Insurance",
+      "experience": 3
+    },
+    {
+      "skill": "Training",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct property and casualty insurance claim investigations, ensuring accurate assessments and fair settlements."
+    },
+    {
+      "duty": "Utilize Xactimate software to estimate property damage and calculate claim payouts."
+    },
+    {
+      "duty": "Provide training to team members on insurance adjusting procedures and software tools."
+    },
+    {
+      "duty": "Communicate with clients, policyholders, and third-party vendors to gather necessary information for claims handling."
+    },
+    {
+      "duty": "Adhere to regulatory requirements and industry standards while processing claims and settlements."
+    },
+    {
+      "duty": "Collaborate with other departments to resolve complex claim issues and provide exceptional customer service."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 70,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Insurance, Risk Management, or related field (Certifications such as AIC, CPCU, or ARM are a plus)"
+    }
+  ]
+}

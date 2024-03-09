@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Nuclear Medicine Technologist",
+      "job_category": "Diagnostic Imaging",
+      "job_class": "Technologist",
+      "sector": "Clinical Care",
+      "salary": 72000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nuclear Medicine Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Cardiac Studies",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Interactions",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Certification",
+      "experience": 3
+    },
+    {
+      "skill": "Emergency Care",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform clinical diagnostic nuclear medicine testing, including general studies, cardiac studies, and computer interactions."
+    },
+    {
+      "duty": "Obtain required medical certifications."
+    },
+    {
+      "duty": "Provide emergency and trauma care."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate from a program in nuclear medicine."
+    },
+    {
+      "credential": "National Certified Nuclear Medicine Technologist - Nuclear Medicine Technology Certification Board upon hire -or-National Registered Technologist - Nuclear Medicine Technology upon hire."
+    },
+    {
+      "credential": "California Nuclear Medicine Technology Certification upon hire."
+    },
+    {
+      "credential": "National Provider BLS - American Heart Association upon hire."
+    }
+  ]
+}

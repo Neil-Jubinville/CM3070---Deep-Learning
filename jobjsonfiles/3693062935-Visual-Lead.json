@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Visual Lead",
+      "job_category": "Sales",
+      "job_class": "Lead",
+      "sector": "Sales",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Visual Merchandising",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Jewelry Product Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Stock Management",
+      "experience": 3
+    },
+    {
+      "skill": "Sales Floor Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain sales floor and visual displays to ensure cleanliness, organization, and stocked inventory"
+    },
+    {
+      "duty": "Implement merchandising strategies aligning with business goals and maintain awareness of stock levels"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "At least one year of visual experience"
+    }
+  ]
+}

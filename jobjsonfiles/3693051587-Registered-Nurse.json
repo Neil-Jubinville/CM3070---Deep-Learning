@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Occupational Health Care",
+      "experience": 2
+    },
+    {
+      "skill": "Employee Health Services",
+      "experience": 3
+    },
+    {
+      "skill": "Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "OSHA Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Wellness Training",
+      "experience": 2
+    },
+    {
+      "skill": "Employee Illness Assessment",
+      "experience": 3
+    },
+    {
+      "skill": "Ergonomic Training",
+      "experience": 3
+    },
+    {
+      "skill": "Drug and Alcohol Programs",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform occupational health care activities, including health and wellness training and education, employee health services, and compliance."
+    },
+    {
+      "duty": "Support OSHA-required record keeping and determine employee restrictions and return to work eligibility."
+    },
+    {
+      "duty": "Develop, formulate, and implement plans of care based on standard order and medical directives."
+    },
+    {
+      "duty": "Treat, evaluate, and assess employee illness or injury and determine medical direction."
+    },
+    {
+      "duty": "Conduct safety and ergonomic training and administer drug and alcohol programs."
+    },
+    {
+      "duty": "Assist in designing and executing employee health and wellness programs."
+    },
+    {
+      "duty": "Handle basic issues and problems under direct supervision, while escalating more complex issues to appropriate staff."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 90,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in a related field or equivalent experience"
+    }
+  ]
+}

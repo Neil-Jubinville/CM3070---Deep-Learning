@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "Underwriting/Actuarial Expert",
+      "job_category": "Underwriting",
+      "job_class": "Expert",
+      "sector": "Insurance",
+      "salary": 105000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Underwriting Model Creation",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Underwriting Regulations",
+      "experience": 5
+    },
+    {
+      "skill": "Underwriting Software",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and implement an auto underwriting system to help run experiments on new underwriting models."
+    },
+    {
+      "duty": "Create and work with traditional underwriting models."
+    },
+    {
+      "duty": "Understand underwriting principles, risk assessment, and personal & commercial auto specific considerations."
+    },
+    {
+      "duty": "Stay aware of US and State underwriting regulations."
+    },
+    {
+      "duty": "Utilize various underwriting software and tools."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ]
+}

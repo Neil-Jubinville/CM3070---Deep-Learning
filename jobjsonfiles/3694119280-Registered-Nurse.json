@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Nursing Process",
+      "experience": 2
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 2
+    },
+    {
+      "skill": "Assessment",
+      "experience": 2
+    },
+    {
+      "skill": "Planning",
+      "experience": 2
+    },
+    {
+      "skill": "Healthcare Team Coordination",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver patient care and coordinate nursing care according to established standards of practice."
+    },
+    {
+      "duty": "Assess patient needs, plan care, implement the plan, and evaluate patient's responses and progress."
+    },
+    {
+      "duty": "Collaborate with colleagues, physicians, healthcare team members, patients, and families to ensure safe, effective, and efficient care delivery."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited School of Nursing. Bachelor of Science in Nursing (BSN) degree preferred. Registered Nurse (RN) Licensure: Valid and current Connecticut registered nurse licensure is required. ACLS is required within six months of hire. BLS or CPR certification: Current American Heart Association or American Red Cross will be accepted."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Analyst/ Tableau Developer",
+      "job_category": "Data Analysis",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 2
+    },
+    {
+      "skill": "Tableau",
+      "experience": 2
+    },
+    {
+      "skill": "SageMaker",
+      "experience": 1
+    },
+    {
+      "skill": "Python",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Learns and understands client area business functions and requirements. Determines the appropriate technical tool to address the client's business needs."
+    },
+    {
+      "duty": "Storytelling / communication ability to both technical and non-technical audiences will be extremely beneficial in this role."
+    },
+    {
+      "duty": "Business Analyst mindset (ability to think outside the box, ask questions, uncover gaps)"
+    },
+    {
+      "duty": "Learns and experiments with new technologies, tools, and processes."
+    },
+    {
+      "duty": "Experience with SQL development and Tableau reporting required."
+    },
+    {
+      "duty": "Ability to create complex and interactive tableau dashboards."
+    },
+    {
+      "duty": "Experience in data wrangling (i.e. connecting to multiple data sources such as Athena, S3)"
+    },
+    {
+      "duty": "Experience working with sensitive data (e.g., fraud) preferred."
+    },
+    {
+      "duty": "Experience with Data Prep or Data Wrangler would be beneficial."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

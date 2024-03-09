@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 145000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Pandas",
+      "experience": 5
+    },
+    {
+      "skill": "NumPy",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "Software Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with other Everbright teams and customers to develop and deliver industry-leading technology solutions to complex challenges."
+    },
+    {
+      "duty": "Gain insights from real-world PV systems to optimized energy estimates, savings, and production."
+    },
+    {
+      "duty": "Develop novel algorithms and software infrastructure to improve accuracy, efficiency, and drive growth in the clean energy industry."
+    },
+    {
+      "duty": "Write technical specifications given product requirements and estimate scope of work for technical implementation."
+    },
+    {
+      "duty": "Write unit and integration tests for new and existing features."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree or equivalent experience"
+    }
+  ]
+}

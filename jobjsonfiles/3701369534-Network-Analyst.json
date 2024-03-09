@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Network Analyst",
+      "job_category": "IT",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 51500,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "IT Support",
+      "experience": 3
+    },
+    {
+      "skill": "LAN Administration",
+      "experience": 3
+    },
+    {
+      "skill": "WAN Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Network Security",
+      "experience": 3
+    },
+    {
+      "skill": "Hardware and Software Upgrades",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide telephone support for troubleshooting software and hardware issues for end users"
+    },
+    {
+      "duty": "Perform daily administration of the LAN and WAN including system stability, integrity, and troubleshooting"
+    },
+    {
+      "duty": "Implement new client setups requiring some travel (10% travel time)"
+    },
+    {
+      "duty": "Perform hardware and software upgrades for users, including operating systems and applications"
+    },
+    {
+      "duty": "Identify and fix network devices in response to security threats"
+    },
+    {
+      "duty": "Plan and execute software and hardware upgrade planning, including desktop rollouts"
+    },
+    {
+      "duty": "Complete assigned projects and daily reporting"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum 3 years workstation support experience with Windows based products"
+    }
+  ]
+}

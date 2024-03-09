@@ -1,0 +1,44 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Electrical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Senior Engineer",
+      "sector": "Electrical Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Digital circuit architecture & design",
+      "experience": 6
+    },
+    {
+      "skill": "RTL coding",
+      "experience": 6
+    },
+    {
+      "skill": "VHDL or Verilog",
+      "experience": 6
+    },
+    {
+      "skill": "ASIC or FPGA simulation",
+      "experience": 6
+    },
+    {
+      "skill": "Testbench development",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Development of state-of-the-art communications systems"
+    },
+    {
+      "duty": "Proficiency using ASIC or FPGA simulation and synthesis tools"
+    },
+    {
+      "duty": "Testbench development for verification"
+    }
+  ]
+}

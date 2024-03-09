@@ -1,0 +1,102 @@
+{
+  "meta": [
+    {
+      "job_title": "Python or Groovy Developer with DevOps Experience",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 8
+    },
+    {
+      "skill": "Groovy",
+      "experience": 8
+    },
+    {
+      "skill": "DevOps",
+      "experience": 8
+    },
+    {
+      "skill": "CI/CD Automation",
+      "experience": 8
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 8
+    },
+    {
+      "skill": "Node.js",
+      "experience": 5
+    },
+    {
+      "skill": "Data Science",
+      "experience": 5
+    },
+    {
+      "skill": "Salesforce",
+      "experience": 5
+    },
+    {
+      "skill": "Jenkins",
+      "experience": 8
+    },
+    {
+      "skill": "GitLab",
+      "experience": 8
+    },
+    {
+      "skill": "Spinnaker",
+      "experience": 8
+    },
+    {
+      "skill": "Automation",
+      "experience": 8
+    },
+    {
+      "skill": "Git",
+      "experience": 8
+    },
+    {
+      "skill": "YAML",
+      "experience": 8
+    },
+    {
+      "skill": "Shell Scripting",
+      "experience": 8
+    },
+    {
+      "skill": "Integration",
+      "experience": 8
+    },
+    {
+      "skill": "Release Management",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop CI/CD automation solutions for multiple technologies with a specific focus on Kubernetes technologies."
+    },
+    {
+      "duty": "Onboard application technologies such as Python, Node.js, Data Science, and Salesforce into the DevOps automation platform."
+    },
+    {
+      "duty": "Develop libraries, modules, and microservices using Python, Go, or Groovy for CI/CD automation areas."
+    },
+    {
+      "duty": "Integrate DevTestSecOps tooling and experience in various DevOps tooling including Jenkins, GitLab, GitHub, Fortify, Checkmarx, SonarQube, Artifactory, Spinnaker, Argo CD, Flux CD, Rancher, Ansible, Terraform, and SonarQube."
+    },
+    {
+      "duty": "Develop Jenkins Shared Libraries and modules."
+    },
+    {
+      "duty": "Automate Release Management processing using release tools like Digital.ai, Plutora, and Cloudbees CD."
+    }
+  ]
+}

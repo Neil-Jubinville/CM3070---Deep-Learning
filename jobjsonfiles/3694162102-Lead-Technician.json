@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Energy",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Advice",
+      "experience": 5
+    },
+    {
+      "skill": "Plant Operations",
+      "experience": 5
+    },
+    {
+      "skill": "Safe Operation",
+      "experience": 5
+    },
+    {
+      "skill": "Thermodynamic Principles",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform routine preventative and predictive maintenance on all plant equipment, including troubleshooting complicated issues."
+    },
+    {
+      "duty": "Directly supervise day-to-day activity of a team of Solar Technicians, providing technical advice and support."
+    },
+    {
+      "duty": "Study and qualify on all systems within a Geothermal and Solar Power Plant."
+    },
+    {
+      "duty": "Operate plant equipment in accordance with standard operating procedures."
+    },
+    {
+      "duty": "Support LOTO on equipment and systems that an official qualification has been completed."
+    },
+    {
+      "duty": "Ensure safe operation of plant heavy equipment, such as man lifts and forklifts."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED (Plant operations qualifications program completion required)"
+    }
+  ]
+}

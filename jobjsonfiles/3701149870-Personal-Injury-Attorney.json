@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Personal Injury Attorney",
+      "job_category": "Legal",
+      "job_class": "Attorney",
+      "sector": "Legal",
+      "salary": 200000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Personal Injury Law",
+      "experience": 10
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 10
+    },
+    {
+      "skill": "Legal Principles",
+      "experience": 10
+    },
+    {
+      "skill": "Communication",
+      "experience": 10
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Empathy",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide exceptional legal representation to individuals who have suffered physically and emotionally."
+    },
+    {
+      "duty": "Advocate for clients to ensure they receive what they deserve."
+    },
+    {
+      "duty": "Handle complex personal injury cases successfully."
+    },
+    {
+      "duty": "Negotiate effectively in personal injury claims."
+    },
+    {
+      "duty": "Communicate with empathy and compassion when working with clients who have suffered injuries."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Juris Doctor (JD) from an accredited law school"
+    },
+    {
+      "credential": "Admitted to practice in the state of New York"
+    }
+  ]
+}

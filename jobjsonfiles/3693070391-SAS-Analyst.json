@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "SAS Analyst",
+      "job_category": "Data Analysis",
+      "job_class": "Analyst",
+      "sector": "Data Analysis",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Tableau",
+      "experience": 5
+    },
+    {
+      "skill": "Business Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Quantitative Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Market Research",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide decision support for business areas across the enterprise."
+    },
+    {
+      "duty": "Apply mathematical and statistical techniques to draw conclusions and make recommendations."
+    },
+    {
+      "duty": "Participate in discussions with cross-functional teams to understand and collaborate on business objectives."
+    },
+    {
+      "duty": "Analyze large-scale business problems and influence solution strategies."
+    },
+    {
+      "duty": "Deliver analysis/findings to influence mid to upper-level management and drive business decisions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Data Analysis, Statistics, or a related field (Master's preferred)"
+    }
+  ]
+}

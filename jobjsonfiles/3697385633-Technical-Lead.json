@@ -1,0 +1,110 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Lead",
+      "job_category": "Engineering",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 250000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Embedded Software Development",
+      "experience": 8
+    },
+    {
+      "skill": "Data Structures",
+      "experience": 8
+    },
+    {
+      "skill": "Algorithms",
+      "experience": 8
+    },
+    {
+      "skill": "Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Software Design",
+      "experience": 3
+    },
+    {
+      "skill": "Software Architecture",
+      "experience": 3
+    },
+    {
+      "skill": "Linux",
+      "experience": 5
+    },
+    {
+      "skill": "Kernel",
+      "experience": 5
+    },
+    {
+      "skill": "Networking",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "People Management",
+      "experience": 1
+    },
+    {
+      "skill": "Performance Improvement",
+      "experience": 3
+    },
+    {
+      "skill": "VPN",
+      "experience": 3
+    },
+    {
+      "skill": "Cryptography",
+      "experience": 3
+    },
+    {
+      "skill": "Linux Networking Device Drivers",
+      "experience": 3
+    },
+    {
+      "skill": "Real-time Operating System",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, test, deploy, maintain, and enhance embedded software solutions."
+    },
+    {
+      "duty": "Manage project priorities, deadlines, and deliverables."
+    },
+    {
+      "duty": "Innovate, architect, design, and develop exceptional networking functionality and data performance."
+    },
+    {
+      "duty": "Partner and collaborate with peer engineering teams, product/project management, and external partners."
+    },
+    {
+      "duty": "Review code developed by other engineers and provide feedback to ensure best practices."
+    },
+    {
+      "duty": "Influence and coach a distributed team of engineers and provide technical leadership on high-impact projects."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree, or equivalent practical experience. Master's degree or PhD in Computer Science or related technical field (preferred)"
+    }
+  ]
+}

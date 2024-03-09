@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Helpdesk Support",
+      "job_category": "IT",
+      "job_class": "Support",
+      "sector": "Software Engineering",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Answer the phones politely and transfer calls accordingly."
+    },
+    {
+      "duty": "Set customer expectations upon acknowledgment of all customer facing tickets."
+    },
+    {
+      "duty": "Perform Tier I support requests including triage, troubleshooting, and maintenance."
+    },
+    {
+      "duty": "Follow-up with end users to assess resolution satisfaction."
+    },
+    {
+      "duty": "Perform Remote Hands functions including Hard Drive replacements, Tape Library Storage maintenance, Cabling, and physical building alert checks."
+    },
+    {
+      "duty": "Perform Data Center functions including Shipping and Receiving, Building clean up, and Client and Vendor Escorts."
+    },
+    {
+      "duty": "Monitor real time Network dashboards and alerts that report on: configuration, capacity, access, performance, and security management."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Support",
+      "experience": 3
+    },
+    {
+      "skill": "Data Center Operations",
+      "experience": 3
+    },
+    {
+      "skill": "Network Monitoring",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree in IT, Computer Science, or related field"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior/Lead Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior/Lead",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Firmware Development",
+      "experience": 5
+    },
+    {
+      "skill": "ASPICE",
+      "experience": 5
+    },
+    {
+      "skill": "LIN and CAN Protocols",
+      "experience": 5
+    },
+    {
+      "skill": "Vector Testing Tools",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop & debug real-time firmware in C for automotive microcontrollers."
+    },
+    {
+      "duty": "Assist in the design and development of control software for versatile actuators and valves, including BLDC motor, brushed DC motor controls, electronic valves, and sensors."
+    },
+    {
+      "duty": "Work with hardware engineers to debug electronic circuit designs and develop firmware to support those designs."
+    },
+    {
+      "duty": "Participate in the full product development cycle from specification to release."
+    },
+    {
+      "duty": "Work collaboratively with cross-functional teams to ensure all software meets performance specifications and requirements."
+    },
+    {
+      "duty": "Mentor other junior developers with your technical expertise."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's Degree in Computer Science, Computer Engineering, or Electrical Engineering"
+    }
+  ]
+}

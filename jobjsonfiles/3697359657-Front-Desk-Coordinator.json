@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Front Desk Coordinator",
+      "job_category": "Healthcare",
+      "job_class": "Coordinator",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 3
+    },
+    {
+      "skill": "EMR Systems",
+      "experience": 1
+    },
+    {
+      "skill": "Team Player",
+      "experience": 3
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 3
+    },
+    {
+      "skill": "Insurance Authorization",
+      "experience": 3
+    },
+    {
+      "skill": "Scheduling",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Scheduling office visits, confirming appointments, updating patient information, answering calls, and documenting using EMR."
+    },
+    {
+      "duty": "Composing, processing, and following up on electronic phone messages and alerts with attention to detail."
+    },
+    {
+      "duty": "Utilizing EMR to address quick questions appropriate for administrative staff and processing insurance authorizations."
+    },
+    {
+      "duty": "Monitoring schedule of assigned providers, noting and correcting errors as appropriate."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 60,
+      "introvert_extrovert": 30
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED."
+    }
+  ]
+}

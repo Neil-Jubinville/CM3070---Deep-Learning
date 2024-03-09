@@ -1,0 +1,107 @@
+{
+  "meta": [
+    {
+      "job_title": "Information Security Intern",
+      "job_category": "Information Technology",
+      "job_class": "Intern",
+      "sector": "Software Engineering",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Information Security",
+      "experience": 2
+    },
+    {
+      "skill": "Cybersecurity",
+      "experience": 2
+    },
+    {
+      "skill": "Python Scripting",
+      "experience": 1
+    },
+    {
+      "skill": "PowerShell Scripting",
+      "experience": 1
+    },
+    {
+      "skill": "Incident Response",
+      "experience": 2
+    },
+    {
+      "skill": "Documentation",
+      "experience": 2
+    },
+    {
+      "skill": "Forensic Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Azure",
+      "experience": 1
+    },
+    {
+      "skill": "Vulnerability Assessment",
+      "experience": 2
+    },
+    {
+      "skill": "Security Tools Management",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Monitoring Itron security applications using in-house tools"
+    },
+    {
+      "duty": "Developing automated incident response capabilities in Azure Sentinel"
+    },
+    {
+      "duty": "Automating and developing monitors with scripts such as Python and shell/PowerShell"
+    },
+    {
+      "duty": "Detonating malicious files, codes, and validating vulnerabilities"
+    },
+    {
+      "duty": "Reviewing and updating documentation"
+    },
+    {
+      "duty": "Supporting daily information security related tasks including evaluating phishing attacks and triaging security events"
+    },
+    {
+      "duty": "Participating in incident response exercises with colleagues throughout the organization and incorporating lessons-learned into existing security practices"
+    },
+    {
+      "duty": "Utilizing free training to earn Microsoft Azure Certifications"
+    },
+    {
+      "duty": "Supporting InfoSec projects, implementations, and compliance-related activities"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Currently enrolled in an accredited university degree program working towards a bachelor\u2019s degree in a related field (Information Technology or Cybersecurity highly preferred)"
+    }
+  ]
+}

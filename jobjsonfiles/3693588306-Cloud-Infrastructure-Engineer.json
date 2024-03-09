@@ -1,0 +1,111 @@
+{
+  "meta": [
+    {
+      "job_title": "Cloud Infrastructure Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "GCP",
+      "experience": 3
+    },
+    {
+      "skill": "GCP Networking",
+      "experience": 3
+    },
+    {
+      "skill": "Infrastructure Provisioning",
+      "experience": 5
+    },
+    {
+      "skill": "Vendor Management",
+      "experience": 5
+    },
+    {
+      "skill": "Linux Server Management",
+      "experience": 5
+    },
+    {
+      "skill": "TAS Monitoring",
+      "experience": 3
+    },
+    {
+      "skill": "User and Credential Management",
+      "experience": 5
+    },
+    {
+      "skill": "Service Catalog Management",
+      "experience": 5
+    },
+    {
+      "skill": "Tanzu Platform",
+      "experience": 3
+    },
+    {
+      "skill": "Concourse",
+      "experience": 3
+    },
+    {
+      "skill": "Github",
+      "experience": 3
+    },
+    {
+      "skill": "Vault",
+      "experience": 3
+    },
+    {
+      "skill": "Team Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Client Support",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provision and manage underlying infrastructure on GCP, ensuring scalability and reliability of cloud resources."
+    },
+    {
+      "duty": "Coordinate with vendors and manage the patching and maintenance of infrastructure to ensure robust and secure operations."
+    },
+    {
+      "duty": "Manage and maintain Linux servers, ensuring high availability and performance."
+    },
+    {
+      "duty": "Monitor the health of TAS and other tiles using tools like Grafana, and take necessary actions to optimize performance."
+    },
+    {
+      "duty": "Oversee user and system credential management to ensure secure access and data protection."
+    },
+    {
+      "duty": "Build and manage a robust service catalog to streamline internal processes and enhance operational efficiency."
+    },
+    {
+      "duty": "Manage internal certification on Tanzu platform and ensure proper management of certificates for secure operations."
+    },
+    {
+      "duty": "Utilize expertise in Concourse, Github, and Vault to optimize workflows and enable seamless development and deployment processes."
+    },
+    {
+      "duty": "Facilitate communication and coordination across different enterprise teams while providing exceptional client support and service delivery."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Analyst",
+      "job_category": "Finance",
+      "job_class": "Analyst",
+      "sector": "Finance",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Murex Platform",
+      "experience": 5
+    },
+    {
+      "skill": "Murex Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "Reporting Modules",
+      "experience": 3
+    },
+    {
+      "skill": "Business Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Interest Rate Derivatives (IRD)",
+      "experience": 5
+    },
+    {
+      "skill": "Equity Products",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Understand and support Murex platform and its Accounting and Reporting modules."
+    },
+    {
+      "duty": "Conduct business analysis to support IRD and Equity products."
+    },
+    {
+      "duty": "Work within strict timelines and priorities based on business requirements."
+    }
+  ]
+}

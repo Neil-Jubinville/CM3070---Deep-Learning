@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Steward",
+      "job_category": "Data Management",
+      "job_class": "Steward",
+      "sector": "Data Management",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Salesforce Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Data Migration",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Certification",
+      "experience": 2
+    },
+    {
+      "skill": "Business Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Mapping data from salesforce to the target state system"
+    },
+    {
+      "duty": "Describing data and working with the business to disposition the data."
+    },
+    {
+      "duty": "Looking at a data model and figuring out how to map correctly and knowing whether data is good or bad."
+    },
+    {
+      "duty": "Experience with data migration projects"
+    },
+    {
+      "duty": "Experience working on salesforce migration projects"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Data Management, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

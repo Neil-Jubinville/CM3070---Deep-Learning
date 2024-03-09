@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Beauty Advisor",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Retail",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Merchandising",
+      "experience": 1
+    },
+    {
+      "skill": "Retail Management",
+      "experience": 1
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 1
+    },
+    {
+      "skill": "Visual Merchandising",
+      "experience": 1
+    },
+    {
+      "skill": "Promotions",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Welcome and engage with customers, providing friendly and knowledgeable assistance in identifying their beauty needs and recommending products"
+    },
+    {
+      "duty": "Maintain a clean, organized, and fully stocked store, including participating in inventory management and merchandising"
+    },
+    {
+      "duty": "Facilitate sales transactions and provide exceptional customer service through the entire purchasing process"
+    },
+    {
+      "duty": "Promote loyalty programs, current promotions, and in-store events while assisting multiple customers simultaneously"
+    },
+    {
+      "duty": "Stay informed about new and existing products, maintaining up-to-date product knowledge to better serve customers"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma is preferred"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Paralegal",
+      "job_category": "Legal",
+      "job_class": "Paralegal",
+      "sector": "Legal",
+      "salary": 24,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Legal Analytical Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Legal Research",
+      "experience": 2
+    },
+    {
+      "skill": "Legal Compliance",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Analyze and process incoming subpoenas, search warrants, court orders and other compulsory legal processes to ensure proper service and confer with issuing party regarding the scope of their request, the availability of the information requested, and the status of the response."
+    },
+    {
+      "duty": "Serve as liaison for internal clients, law enforcement, law firms, local, state and federal agencies, and customers."
+    },
+    {
+      "duty": "Perform administrative duties by identifying and resolving routine legal issues under the supervision of the team manager."
+    },
+    {
+      "duty": "Resolve routine compliance, privacy, or legal response issues under the direction of the Team Manager."
+    },
+    {
+      "duty": "Handle cases related to sensitive and/or confidential subject matter."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate degree in Law or related field, or a Paralegal certification or equivalent experience"
+    }
+  ]
+}

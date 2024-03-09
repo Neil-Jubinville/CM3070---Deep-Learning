@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Associate",
+      "job_category": "Consulting",
+      "job_class": "Associate",
+      "sector": "Consulting",
+      "salary": 65000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft Excel",
+      "experience": 3
+    },
+    {
+      "skill": "Analytical Mindset",
+      "experience": 3
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Review, summarize and analyze business, construction, and accounting records."
+    },
+    {
+      "duty": "Assist with the preparation and review of damages for legal claims analyses."
+    },
+    {
+      "duty": "Assist with the preparation of expert reports, expert testimony, and exhibits for trial or settlement negotiations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or Master's degree in a business discipline, preferably in accounting or finance, with a minimum GPA of 3.2 on a 4.0 scale."
+    }
+  ]
+}

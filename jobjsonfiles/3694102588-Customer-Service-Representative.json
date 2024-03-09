@@ -1,0 +1,37 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Representative",
+      "job_category": "Customer Service",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Answer phones and take customer orders"
+    },
+    {
+      "duty": "Assist with tech counter and inventory management"
+    },
+    {
+      "duty": "Pull orders for wholesale"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Human Resources Specialist",
+      "job_category": "Human Resources",
+      "job_class": "Specialist",
+      "sector": "Human Resources",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Analytics",
+      "experience": 5
+    },
+    {
+      "skill": "HR Transformation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and execute HR strategies to enhance organizational effectiveness and talent management."
+    },
+    {
+      "duty": "Lead HR projects and initiatives, fostering collaboration and guiding teams towards achieving set goals."
+    },
+    {
+      "duty": "Analyze HR trends, employee behavior, and industry best practices to identify growth opportunities and refine strategies."
+    },
+    {
+      "duty": "Manage the company's HR processes, optimizing systems and procedures for maximum efficiency and compliance."
+    },
+    {
+      "duty": "Plan and oversee HR programs and initiatives to support employee development and organizational culture."
+    },
+    {
+      "duty": "Measure and report on the performance of HR initiatives, using data-driven insights to continuously improve strategies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business, Human Resources, Analytics, Communications, or other related majors (Master's preferred)"
+    }
+  ]
+}

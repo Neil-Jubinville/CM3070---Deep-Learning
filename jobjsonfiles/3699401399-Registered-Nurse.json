@@ -1,0 +1,44 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Acute - Nursing",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Med/Surg",
+      "experience": 2
+    },
+    {
+      "skill": "Clinic Experience",
+      "experience": 2
+    },
+    {
+      "skill": "IV insertion",
+      "experience": 2
+    },
+    {
+      "skill": "Phlebotomy",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide patient care in medical-surgical or clinical settings, including IV insertion and phlebotomy procedures."
+    },
+    {
+      "duty": "Comply with New York State RN License and maintain Primary Source Verification for AHA BLS and ACLS."
+    }
+  ],
+  "subjective_elements": [],
+  "education_certification": [
+    {
+      "credential": "New York State RN License, AHA BLS, AHA ACLS (Queens only), Bachelor's Degree in Nursing"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "meta": [
+    {
+      "job_title": "Resident Engineer",
+      "job_category": "Engineering",
+      "job_class": "E/E",
+      "sector": "Electronic Components",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electronics Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Interfacing",
+      "experience": 5
+    },
+    {
+      "skill": "Vector Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Root Cause Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Hardware Design",
+      "experience": 5
+    },
+    {
+      "skill": "Circuit Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Mechatronic Integration",
+      "experience": 5
+    },
+    {
+      "skill": "EMC & Thermal Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical/Electronic Support",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Analyze customer specifications and requirements, issues, support & interfacing."
+    },
+    {
+      "duty": "Responsible to be the interface between Client-AL & Customer(s). Very good interfacing, analytic & communication skills in customer discussions."
+    },
+    {
+      "duty": "Very good knowledge & skills of Vector Tools for engineering analysis (CANalyzer, CANoe, CANape, data-logging, tracing, etc.)"
+    },
+    {
+      "duty": "Root cause analysis of any issues related to electronics design."
+    },
+    {
+      "duty": "Good understanding of lighting applications (e.g. LEDs, linear drivers, DC/DC converters, etc.)"
+    },
+    {
+      "duty": "Good understanding of HW-Design & Topologies."
+    },
+    {
+      "duty": "Can quickly understand circuits and read electrical drawings."
+    },
+    {
+      "duty": "Analysis, debugging, and measurement of electronic circuits."
+    },
+    {
+      "duty": "Support Software, Mechanical, Validation and Optics teams for mechatronic integration of the electronic components in the Lamp."
+    },
+    {
+      "duty": "Support EMC & Thermal testing and troubleshooting any design/ test-setup issues."
+    },
+    {
+      "duty": "Support to lamp development team on all electrical/electronic topics."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electrical Engineering, Electronics, or a related field (Master's preferred)"
+    }
+  ]
+}

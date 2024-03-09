@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Services Coordinator",
+      "job_category": "Healthcare",
+      "job_class": "Coordinator",
+      "sector": "Healthcare",
+      "salary": 40000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Healthcare Systems",
+      "experience": 1
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Interact and build relationships with patients, insurance providers, and medical professionals to create a streamlined scheduling and financial workflow."
+    },
+    {
+      "duty": "Manage insurance verifications, prior authorizations, and follow up on physician referrals."
+    },
+    {
+      "duty": "Ensure each patient leaves feeling happy and healthy."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 85,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma"
+    }
+  ]
+}

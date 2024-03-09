@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Electrical",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 5
+    },
+    {
+      "skill": "Testing Methods Design",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Math Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Bilingual in Mandarin",
+      "experience": 5
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement electrical components into devices and help design and manufacture electrical products."
+    },
+    {
+      "duty": "Conduct quality assurance checks to maintain high product standards."
+    },
+    {
+      "duty": "Evaluate electrical products and systems by designing testing methods."
+    },
+    {
+      "duty": "Test finished products and system capabilities."
+    },
+    {
+      "duty": "Keep necessary equipment operational."
+    },
+    {
+      "duty": "Contribute to team efforts by accomplishing related results."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electrical Engineering required"
+    }
+  ]
+}

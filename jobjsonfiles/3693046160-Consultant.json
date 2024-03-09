@@ -1,0 +1,93 @@
+{
+  "meta": [
+    {
+      "job_title": "Consultant",
+      "job_category": "Sales",
+      "job_class": "Consultant",
+      "sector": "Consulting",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software development",
+      "experience": 8
+    },
+    {
+      "skill": ".NET Framework",
+      "experience": 8
+    },
+    {
+      "skill": "C#",
+      "experience": 8
+    },
+    {
+      "skill": "Web Forms",
+      "experience": 8
+    },
+    {
+      "skill": "VB.Net",
+      "experience": 8
+    },
+    {
+      "skill": "RESTful Services/WEB API",
+      "experience": 8
+    },
+    {
+      "skill": "MS SQL development",
+      "experience": 8
+    },
+    {
+      "skill": "Database design",
+      "experience": 8
+    },
+    {
+      "skill": "MS Azure architecture",
+      "experience": 8
+    },
+    {
+      "skill": "MS DevOps",
+      "experience": 8
+    },
+    {
+      "skill": "UI/UX",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collect and write specifications, outline roadmaps to deliver functionality, manage the backlog, direct and/or perform the development, drive continuous code integration, and deliver the solutions within scope and timeline."
+    },
+    {
+      "duty": "Assertive attitude and a commitment to working as a part of a team to meet critical delivery schedules."
+    },
+    {
+      "duty": "Gathering requirements, defining scope, and creating functional specifications that can be estimated across multiple options or approaches."
+    },
+    {
+      "duty": "Architecting and designing integrated applications."
+    },
+    {
+      "duty": "Experience with change control processes and managing deployments using MS DevOps."
+    },
+    {
+      "duty": "Providing oversight and reporting of project status; creating and managing project and resource plans, timelines."
+    },
+    {
+      "duty": "MS Azure architecture and design utilizing IaaS, PaaS and SaaS models and in developing Azure cloud-hosted web apps using containers (Docker with Kubernetes)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

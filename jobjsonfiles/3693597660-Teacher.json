@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Teacher",
+      "job_category": "Education",
+      "job_class": "Teacher",
+      "sector": "Education",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Teaching",
+      "experience": 2
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 2
+    },
+    {
+      "skill": "Classroom Management",
+      "experience": 2
+    },
+    {
+      "skill": "Lesson Planning",
+      "experience": 2
+    },
+    {
+      "skill": "Education Technology",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Patience",
+      "experience": 2
+    },
+    {
+      "skill": "Special Education",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work as a co-teacher in urban classrooms under the guidance of expert faculty, receiving regular feedback."
+    },
+    {
+      "duty": "Develop skills and effectiveness in teaching through practice and training."
+    },
+    {
+      "duty": "Manage own classroom and work alongside experienced teachers during year one."
+    },
+    {
+      "duty": "Participate in mentoring and support programs tailored to your needs."
+    },
+    {
+      "duty": "Combat racial and socioeconomic inequality by teaching students in districts that need qualified teachers the most."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Education or related field (Master's preferred)"
+    }
+  ]
+}

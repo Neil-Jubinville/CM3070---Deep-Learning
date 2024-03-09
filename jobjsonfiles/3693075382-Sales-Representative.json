@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Sales Transactions",
+      "experience": 2
+    },
+    {
+      "skill": "Forklift Maneuvering",
+      "experience": 2
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Spanish Fluency",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Engage and support customers throughout their purchasing journey, providing exceptional service and guidance."
+    },
+    {
+      "duty": "Efficiently process sales orders, ensuring precision and attention to detail."
+    },
+    {
+      "duty": "Offer customers comprehensive and up-to-date information about product specifications and pricing, empowering them to make informed decisions."
+    },
+    {
+      "duty": "Collaborate with the team to deliver outstanding customer service, handling phone inquiries and addressing customer needs with enthusiasm and expertise."
+    },
+    {
+      "duty": "Maintain a visually appealing and well-stocked display area, showcasing a diverse range of plumbing supplies and ensuring customers have easy access to what they need."
+    },
+    {
+      "duty": "Prepare orders for delivery with utmost accuracy, ensuring items are carefully selected and properly packaged for shipment."
+    },
+    {
+      "duty": "Adhere to company policies when processing cash sale returns and efficiently manage refund paperwork."
+    },
+    {
+      "duty": "Sustain a well-kept and hospitable counter area, cultivating an inviting environment that amplifies the overall customer experience."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50
+    },
+    {
+      "student_teacher": 80
+    },
+    {
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Completion of high school or an equivalent level of education."
+    },
+    {
+      "credential": "2+ years of wholesale distribution and plumbing industry experience."
+    },
+    {
+      "credential": "Fluency in English and Spanish is highly valued."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Full Stack Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Full Stack Development",
+      "experience": 5
+    },
+    {
+      "skill": "React (and Redux)",
+      "experience": 3
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 3
+    },
+    {
+      "skill": "Java",
+      "experience": 3
+    },
+    {
+      "skill": "Ruby on Rails",
+      "experience": 3
+    },
+    {
+      "skill": "Postgres",
+      "experience": 3
+    },
+    {
+      "skill": "Networking",
+      "experience": 3
+    },
+    {
+      "skill": "Cloud-based Infrastructure",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Developing tools for network device configuration and monitoring."
+    },
+    {
+      "duty": "Collaborating with firmware engineers to design and build new core product features."
+    },
+    {
+      "duty": "Constructing intuitive and powerful workflows to solve important problems for IT professionals."
+    },
+    {
+      "duty": "Crafting and building high-impact technology projects."
+    },
+    {
+      "duty": "Resolving complex scale-related problems."
+    },
+    {
+      "duty": "Ensuring the stability of the product with a high customer focus."
+    },
+    {
+      "duty": "Sharing knowledge through tech talks and engineering standard methodologies evangelism."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

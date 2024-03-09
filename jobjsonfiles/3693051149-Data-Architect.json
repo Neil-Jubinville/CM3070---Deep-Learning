@@ -1,0 +1,120 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Architect",
+      "job_category": "Data",
+      "job_class": "Architect",
+      "sector": "Data & Analytics",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Lakehouse Implementation",
+      "experience": 3
+    },
+    {
+      "skill": "Delta Lakehouse Implementation",
+      "experience": 3
+    },
+    {
+      "skill": "Unity Catalog Implementation",
+      "experience": 3
+    },
+    {
+      "skill": "Airflow",
+      "experience": 3
+    },
+    {
+      "skill": "Data & Analytics Solution Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Data Mesh / Data Products Implementation",
+      "experience": 3
+    },
+    {
+      "skill": "Data Governance Solution Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Big Data Technologies",
+      "experience": 12
+    },
+    {
+      "skill": "Reporting / Visualizations Tools",
+      "experience": 12
+    },
+    {
+      "skill": "Cloud Platforms (Azure, AWS, Databricks)",
+      "experience": 12
+    },
+    {
+      "skill": "Application Development Lifecycle",
+      "experience": 12
+    },
+    {
+      "skill": "Python",
+      "experience": 12
+    },
+    {
+      "skill": "Spark",
+      "experience": 12
+    },
+    {
+      "skill": "Communication",
+      "experience": 12
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 12
+    },
+    {
+      "skill": "Project Governance",
+      "experience": 12
+    },
+    {
+      "skill": "Certifications (AWS, GCP, Azure)",
+      "experience": 12
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Architect data and analytics solutions using Data Lakehouse, Data Mesh, and Data Governance principles."
+    },
+    {
+      "duty": "Implement Data Lakehouse and Delta Lakehouse solutions, along with Unity Catalog and Airflow."
+    },
+    {
+      "duty": "Utilize big data technologies to architect enterprise data warehouse solutions."
+    },
+    {
+      "duty": "Work with cloud platforms like Azure, AWS, and Databricks to architect data solutions."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to build current state knowledge base and develop data products."
+    },
+    {
+      "duty": "Apply application development lifecycle and technologies like CI/CD, Java, Python, Chef, Puppet, Ansible for solution development."
+    },
+    {
+      "duty": "Use Python and Spark for data pre-processing, transformation, and integrations."
+    },
+    {
+      "duty": "Lead project governance and enterprise customer management for data and analytics solutions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum: At least One Certification of AWS or GCP or Azure. Preferred: AWS & Google Professional Cloud Certified Resource + Data Certified. Nice to Have: Experience in building Framework / Technology Accelerator"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Part-Time Licensed Mental Health Professional",
+      "job_category": "Mental Health",
+      "job_class": "Professional",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Counseling",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Emotional Strength",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "CPR Certification",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide counseling and care in a correctional medical environment for an underserved population."
+    },
+    {
+      "duty": "Work alongside law enforcement to address patient and client needs."
+    },
+    {
+      "duty": "Demonstrate great communication skills, critical thinking, and emotional strength in a challenging and rewarding work environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current state counseling license and CPR certification, clear background check, and references"
+    }
+  ]
+}

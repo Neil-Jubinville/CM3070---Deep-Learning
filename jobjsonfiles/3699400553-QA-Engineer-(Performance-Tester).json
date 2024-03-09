@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "QA Engineer (Performance Tester)",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Performance Testing",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 3
+    },
+    {
+      "skill": "Python",
+      "experience": 3
+    },
+    {
+      "skill": "Locust",
+      "experience": 2
+    },
+    {
+      "skill": "JMeter",
+      "experience": 2
+    },
+    {
+      "skill": "GitHub Actions",
+      "experience": 2
+    },
+    {
+      "skill": "Terraform",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct backend services performance testing to ensure high performance and efficiency."
+    },
+    {
+      "duty": "Utilize AWS services for performance testing and optimization."
+    },
+    {
+      "duty": "Write and execute performance test scripts using Python."
+    },
+    {
+      "duty": "Experience with Locust and/or JMeter for performance testing."
+    },
+    {
+      "duty": "Optional experience with GitHub actions and terraform for automated testing and deployment."
+    }
+  ]
+}

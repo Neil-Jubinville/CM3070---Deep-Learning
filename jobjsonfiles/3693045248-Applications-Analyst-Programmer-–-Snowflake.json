@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Applications Analyst Programmer \u2013 Snowflake",
+      "job_category": "Software Engineering",
+      "job_class": "Analyst Programmer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SSIS",
+      "experience": 5
+    },
+    {
+      "skill": "PL-SQL",
+      "experience": 5
+    },
+    {
+      "skill": "ETL",
+      "experience": 5
+    },
+    {
+      "skill": "Data Warehouse Development",
+      "experience": 5
+    },
+    {
+      "skill": "Database Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Database Architecture",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "SSIS PL-SQL ETL flow from SSIS to SQL based databases"
+    },
+    {
+      "duty": "Data warehouse development, modeling, and architecture"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ]
+}

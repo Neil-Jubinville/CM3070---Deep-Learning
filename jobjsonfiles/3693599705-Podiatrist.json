@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Podiatrist",
+      "job_category": "Healthcare",
+      "job_class": "Specialist",
+      "sector": "Healthcare",
+      "salary": 150000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Podiatric Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "Surgical Techniques",
+      "experience": 5
+    },
+    {
+      "skill": "Figma",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct comprehensive evaluations of foot and ankle conditions, and create tailored treatment plans for patients."
+    },
+    {
+      "duty": "Perform surgical procedures as necessary, including foot and ankle reconstructions, and prescribe medications and orthotics to manage pain and promote healing."
+    },
+    {
+      "duty": "Educate patients on proper foot care techniques and preventive measures."
+    },
+    {
+      "duty": "Utilize Figma to create wireframes and prototypes for innovative podiatric solutions."
+    },
+    {
+      "duty": "Collaborate with interdisciplinary teams to deliver holistic patient care and maintain accurate and detailed patient records."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Podiatric Medicine (DPM) degree from an accredited college of podiatric medicine."
+    }
+  ]
+}

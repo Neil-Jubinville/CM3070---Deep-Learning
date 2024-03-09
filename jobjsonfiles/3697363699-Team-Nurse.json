@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Team Nurse",
+      "job_category": "Nursing",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 3
+    },
+    {
+      "skill": "Clinical Management",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 3
+    },
+    {
+      "skill": "Care Coordination",
+      "experience": 3
+    },
+    {
+      "skill": "Electronic Health Record Management",
+      "experience": 3
+    },
+    {
+      "skill": "Healthcare Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 2
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Coordinate and facilitate quality clinical management of a broad-based outpatient population across the continuum of care."
+    },
+    {
+      "duty": "Collaborate with providers to identify needs for preventive care, evidence-based chronic disease management, and care coordination."
+    },
+    {
+      "duty": "Provide general and specific healthcare education and work directly with patients to identify and monitor self-management goals."
+    },
+    {
+      "duty": "Manage the company's online presence, optimizing the website and social media channels for maximum engagement and conversions."
+    },
+    {
+      "duty": "Responsible for educating and training the Medical Assistant (MA) team and patients with both general and focused health education for preventive, chronic, and episodic health care issues."
+    },
+    {
+      "duty": "Assume responsibility, in collaboration with primary care providers, to coordinate patient-centered care, support transitions between levels of care, and counsel, educate, and support patients in improving health status."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 120,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (Master's preferred)"
+    },
+    {
+      "credential": "License as a Registered Nurse or Licensed Practical Nurse"
+    },
+    {
+      "credential": "Basic Life Support Certification"
+    }
+  ]
+}

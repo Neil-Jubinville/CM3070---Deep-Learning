@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Web Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HTML",
+      "experience": 2
+    },
+    {
+      "skill": "CSS",
+      "experience": 2
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 2
+    },
+    {
+      "skill": "Search Engine Optimization",
+      "experience": 2
+    },
+    {
+      "skill": "Network Diagnostics",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and maintain websites and web tools to enhance user experience."
+    },
+    {
+      "duty": "Take the lead on new innovations and projects while working as part of a team."
+    },
+    {
+      "duty": "Revise, edit, proofread, and optimize web content."
+    },
+    {
+      "duty": "Work with cross-functional teams to enhance overall user experience of web platforms."
+    },
+    {
+      "duty": "Own various design tasks involved in the web development life cycle from start to finish."
+    },
+    {
+      "duty": "Apply basic knowledge of Search Engine Optimization process."
+    },
+    {
+      "duty": "Hands-on experience with network diagnostics and network analytics tools."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent experience in Computer Science"
+    }
+  ]
+}

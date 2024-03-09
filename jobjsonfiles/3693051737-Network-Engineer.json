@@ -1,0 +1,49 @@
+{
+  "meta": [
+    {
+      "job_title": "Network Engineer",
+      "job_category": "IT",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cisco/Juniper R&S",
+      "experience": 5
+    },
+    {
+      "skill": "BGP Routing Protocols",
+      "experience": 5
+    },
+    {
+      "skill": "Linux",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Bash",
+      "experience": 5
+    },
+    {
+      "skill": "Anycast Network Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, Deployment & Support of the Network"
+    },
+    {
+      "duty": "Managing an anycast network and BGP route optimization"
+    },
+    {
+      "duty": "Working with Linux, Ansible, Bash & Python"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinary Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Animal Health Care Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Veterinary Diagnostic Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Necropsy",
+      "experience": 3
+    },
+    {
+      "skill": "Anesthesia Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Teaching/Mentoring",
+      "experience": 3
+    },
+    {
+      "skill": "Clinical Record Keeping",
+      "experience": 3
+    },
+    {
+      "skill": "Diagnostic Test Reporting",
+      "experience": 3
+    },
+    {
+      "skill": "Animal Welfare Response",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform observations of animal colonies for signs of illness and follow up on animals reported ill on Animal Health Reports."
+    },
+    {
+      "duty": "Administer necessary medications or treatments as prescribed by the veterinarian and maintain current animal health reports, treatment, and follow-up records."
+    },
+    {
+      "duty": "Conduct certain veterinary diagnostic procedures under the guidance of the Clinical Veterinarian and assist with preventive medicine and collection of diagnostic samples."
+    },
+    {
+      "duty": "Maintain records of controlled and non-controlled substances in accordance with federal and state regulations."
+    },
+    {
+      "duty": "Prepare and administer analgesia/anesthesia drugs commonly used in research settings based on the approved written IACUC protocols."
+    },
+    {
+      "duty": "Facilitate teaching activities and demonstrate techniques or procedures while maintaining official documentation for regulatory compliance."
+    },
+    {
+      "duty": "Maintain sanitized, well-stocked, and organized procedure rooms, necropsy room, and surgical suite, including preparing surgical packs and troubleshooting anesthetic machines."
+    },
+    {
+      "duty": "Inform the facility users of discrepancies in the animal colonies as reported by the animal census system."
+    },
+    {
+      "duty": "Respond to urgent animal welfare or health concerns during normal working hours and document the usage of procedural space, anesthetic equipment, and other CCM instruments/tools."
+    },
+    {
+      "duty": "Follow established City of Hope and department policies, procedures, objectives, performance improvement, attendance, safety, environmental, and infection control guidelines."
+    },
+    {
+      "duty": "Practice a high level of integrity and honesty in maintaining confidentiality."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 75,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Completion of AVMA accredited Animal Health Technician program or a B.S (preferably in Animal Science or a biological science). At least 3 months of experience in working as a veterinary assistant or technician in clinical settings or as part of RVT training required."
+    },
+    {
+      "credential": "Current California Registered Veterinarian Technician license (or obtain within 6 months of hire)."
+    }
+  ]
+}

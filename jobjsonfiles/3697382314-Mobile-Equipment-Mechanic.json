@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Mobile Equipment Mechanic",
+      "job_category": "Maintenance",
+      "job_class": "Mechanic",
+      "sector": "Facilities",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 4
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "experience": 4
+    },
+    {
+      "skill": "Mechanical Troubleshooting",
+      "experience": 4
+    },
+    {
+      "skill": "Hydraulic Systems Repair",
+      "experience": 4
+    },
+    {
+      "skill": "Electrical Systems Repair",
+      "experience": 4
+    },
+    {
+      "skill": "Parts Inventory Management",
+      "experience": 4
+    },
+    {
+      "skill": "Welding",
+      "experience": 4
+    },
+    {
+      "skill": "Equipment Assembly",
+      "experience": 4
+    },
+    {
+      "skill": "Heavy Equipment Operation",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing maintenance and repair on mobile mechanical, hydraulic, and pneumatic equipment."
+    },
+    {
+      "duty": "Testing and inspecting machines or heavy equipment to diagnose defects."
+    },
+    {
+      "duty": "Reading and understanding operating manuals, blueprints, and technical drawings."
+    },
+    {
+      "duty": "Diagnosing faults or malfunctions to determine required repairs, using engine diagnostic equipment such as computerized test equipment."
+    },
+    {
+      "duty": "Researching, ordering, and maintaining parts inventory for services and repairs."
+    },
+    {
+      "duty": "Assembling, dismantling, and reassembling heavy-operating equipment using hoists and hand tools."
+    },
+    {
+      "duty": "Clean, lubricate, and perform routine maintenance work on all facility vehicles to ensure efficient and safe operation."
+    },
+    {
+      "duty": "Fabricating needed parts or items from sheet metal."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum of four years vehicle and heavy equipment maintenance experience, or two years of mechanical trade school training and two years\u2019 experience as a vehicle and heavy equipment mechanic."
+    },
+    {
+      "credential": "High school diploma or equivalent."
+    }
+  ]
+}

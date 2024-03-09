@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Welder / Fabricator",
+      "job_category": "Skilled Trades",
+      "job_class": "Welder",
+      "sector": "Manufacturing",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Stainless Steel Welding",
+      "experience": 3
+    },
+    {
+      "skill": "Fabrication",
+      "experience": 3
+    },
+    {
+      "skill": "Grinding and Polishing",
+      "experience": 3
+    },
+    {
+      "skill": "Shop Labor",
+      "experience": 2
+    },
+    {
+      "skill": "Parts Cleaning",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "SS Welding (GTAW 90%)(GMAW 10%)"
+    },
+    {
+      "duty": "Fitting and fabrication"
+    },
+    {
+      "duty": "Grinding, polishing, sanding"
+    },
+    {
+      "duty": "Layout, testing"
+    },
+    {
+      "duty": "Assembly of welded and machined components"
+    },
+    {
+      "duty": "General shop labor"
+    },
+    {
+      "duty": "Parts cleaning / deburing"
+    }
+  ]
+}

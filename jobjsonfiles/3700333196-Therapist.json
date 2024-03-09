@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Therapist",
+      "job_category": "Counseling",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Counseling",
+      "experience": 1
+    },
+    {
+      "skill": "Mental Health Counseling",
+      "experience": 1
+    },
+    {
+      "skill": "Substance Abuse Counseling",
+      "experience": 1
+    },
+    {
+      "skill": "Clinical Counseling",
+      "experience": 1
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    },
+    {
+      "skill": "Insurance Reviews",
+      "experience": 3
+    },
+    {
+      "skill": "Progress Reporting",
+      "experience": 3
+    },
+    {
+      "skill": "Treatment Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Family Counseling",
+      "experience": 3
+    },
+    {
+      "skill": "Crisis Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Providing mental health and substance abuse services to a caseload of 8 adolescent boys ages 13-17."
+    },
+    {
+      "duty": "Developing treatment plans."
+    },
+    {
+      "duty": "Completing progress reports."
+    },
+    {
+      "duty": "Conducting weekly individual sessions and bi-weekly family counseling sessions."
+    },
+    {
+      "duty": "Participating in multi-disciplinary treatment team meetings."
+    },
+    {
+      "duty": "Receiving and implementing feedback and constructive criticism."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's Degree in Social Work or Mental Health Clinical Counseling, Tennessee Licensed Professional Counselor/MHSP, or Licensed Clinical Social Worker"
+    }
+  ]
+}

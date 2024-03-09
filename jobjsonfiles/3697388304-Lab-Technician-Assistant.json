@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Lab Technician Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Phlebotomy",
+      "experience": 1
+    },
+    {
+      "skill": "Specimen Processing",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform phlebotomy and a variety of technical and clerical functions in the Laboratory based on the needs of the individual campus."
+    },
+    {
+      "duty": "Handle blood, tissue, fecal matter, sputum, urine, spinal fluid and other body fluids. Specimens may be contaminated with infectious diseases including HIV and other blood borne pathogens."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

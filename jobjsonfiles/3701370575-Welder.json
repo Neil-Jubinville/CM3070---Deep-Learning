@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Welder",
+      "job_category": "Manufacturing",
+      "job_class": "Skilled Labor",
+      "sector": "Manufacturing",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "MIG Welding",
+      "experience": 1
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 1
+    },
+    {
+      "skill": "Equipment Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Quality Checking",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Supply and operate welding systems, making running adjustments as necessary."
+    },
+    {
+      "duty": "Handling equipment such as overhead hoists and cranes."
+    },
+    {
+      "duty": "Layout, position, and tack-weld parts to secure in position for welding."
+    },
+    {
+      "duty": "Perform preventative maintenance on assigned equipment as scheduled."
+    },
+    {
+      "duty": "Meet established production standards."
+    },
+    {
+      "duty": "Conduct required quality checks using basic measuring equipment."
+    },
+    {
+      "duty": "Accurately report daily activities on work orders and other media as required."
+    },
+    {
+      "duty": "Exercise safe working habits while operating machines."
+    },
+    {
+      "duty": "Keep machine and work areas clean and free of safety hazards."
+    },
+    {
+      "duty": "Comply with Quality Management System."
+    },
+    {
+      "duty": "Other duties as assigned."
+    },
+    {
+      "duty": "Maintain regular attendance."
+    },
+    {
+      "duty": "Must pass the Watson & Chalin weld test-2GA."
+    },
+    {
+      "duty": "Read and understand blueprints with geometric tolerancing."
+    },
+    {
+      "duty": "Must be able to read, speak, and write legibly in English."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 20,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED required."
+    },
+    {
+      "credential": "Technical certification preferred."
+    },
+    {
+      "credential": "Welder certified preferred."
+    }
+  ]
+}

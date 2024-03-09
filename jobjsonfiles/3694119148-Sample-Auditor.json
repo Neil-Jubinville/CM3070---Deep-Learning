@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Sample Auditor",
+      "job_category": "Science",
+      "job_class": "Auditor",
+      "sector": "Quality Assurance",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sample Auditing",
+      "experience": 3
+    },
+    {
+      "skill": "LIMS Management",
+      "experience": 3
+    },
+    {
+      "skill": "Client Interaction",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Scientific Background",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct formal review of all protocols, specifications, methods, and documents used within a LIMS system for sample auditing."
+    },
+    {
+      "duty": "Manage technical information within a LIMS system for Sample Management."
+    },
+    {
+      "duty": "Interact with clients via email and phone, and communicate with Project Management, Business Development, and Technical groups as necessary."
+    },
+    {
+      "duty": "Regularly provide status updates to supervisor."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Science (Laboratory experience preferred)"
+    }
+  ]
+}

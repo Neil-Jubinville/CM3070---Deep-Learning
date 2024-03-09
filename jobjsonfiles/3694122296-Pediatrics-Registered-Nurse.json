@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Pediatrics Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 2300,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Pediatric Nursing",
+      "experience": 5
+    },
+    {
+      "skill": "Oncology Nursing",
+      "experience": 5
+    },
+    {
+      "skill": "BLS Certification",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide care for pediatric patients with hematologic and oncologic conditions."
+    },
+    {
+      "duty": "Administer medications and treatments as per oncology protocols."
+    },
+    {
+      "duty": "Assess and monitor patient progress, and report changes to the healthcare team."
+    },
+    {
+      "duty": "Educate patients and families about treatment plans, medication regimens, and potential side effects."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current IA or Compact Nursing License"
+    },
+    {
+      "credential": "American Heart Association BLS"
+    },
+    {
+      "credential": "Oncology Certification"
+    }
+  ]
+}

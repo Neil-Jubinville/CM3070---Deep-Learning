@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Associate",
+      "job_category": "Logistics",
+      "job_class": "Associate",
+      "sector": "Operations",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "RF Scanner Usage",
+      "experience": 2
+    },
+    {
+      "skill": "Equipment Operations",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management Software",
+      "experience": 2
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Fast-Paced Environment Management",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage inventory and prepare products for shipment."
+    },
+    {
+      "duty": "Ensure the warehouse is safe and organized."
+    },
+    {
+      "duty": "Load and unload trucks and track inventory using a scanner."
+    },
+    {
+      "duty": "Maintain records of shipments, returns, and receipts."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent"
+    }
+  ]
+}

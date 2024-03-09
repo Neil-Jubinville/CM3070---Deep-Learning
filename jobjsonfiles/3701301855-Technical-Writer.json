@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Writer",
+      "job_category": "Technical Writing",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Research, gather, and organize technical information from subject matter experts and other relevant sources."
+    },
+    {
+      "duty": "Create and maintain a variety of technical documentation, including user manuals, installation guides, API documentation, release notes, and FAQs."
+    },
+    {
+      "duty": "Collaborate with developers, product managers, and other teams to understand and communicate complex technical concepts effectively."
+    },
+    {
+      "duty": "Ensure accuracy, clarity, and consistency in all documentation by reviewing and editing content meticulously."
+    },
+    {
+      "duty": "Translate technical jargon into user-friendly language, catering to various user personas and their skill levels."
+    },
+    {
+      "duty": "Work with visual designers to incorporate diagrams, screenshots, and illustrations to enhance the readability of documentation."
+    },
+    {
+      "duty": "Keep up-to-date with industry trends and best practices in technical communication to continually improve documentation processes and standards."
+    },
+    {
+      "duty": "Assist in maintaining a content library or knowledge base for both internal and external use."
+    },
+    {
+      "duty": "Participate in usability testing to gather feedback on documentation and implement improvements accordingly."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Research",
+      "experience": 3
+    },
+    {
+      "skill": "Editing",
+      "experience": 4
+    },
+    {
+      "skill": "Documentation Management",
+      "experience": 4
+    },
+    {
+      "skill": "Content Creation",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 100,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Technical Communication, English, Computer Science, or related field (or equivalent work experience)"
+    }
+  ]
+}

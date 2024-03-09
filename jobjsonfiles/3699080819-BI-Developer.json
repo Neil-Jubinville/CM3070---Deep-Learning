@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "BI Developer",
+      "job_category": "Technology",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft BI technologies",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft SQL Server",
+      "experience": 3
+    },
+    {
+      "skill": "SQL querying and data modeling",
+      "experience": 3
+    },
+    {
+      "skill": "ETL processes",
+      "experience": 3
+    },
+    {
+      "skill": "Data visualizations",
+      "experience": 3
+    },
+    {
+      "skill": "Communication and collaboration abilities",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Azure services",
+      "experience": 2
+    },
+    {
+      "skill": "Agile development methodologies",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop end-to-end business intelligence solutions using Azure technologies."
+    },
+    {
+      "duty": "Collaborate with business analysts and development teams."
+    },
+    {
+      "duty": "Create and maintain SQL queries, stored procedures, and functions to extract, transform, and load data."
+    },
+    {
+      "duty": "Design and develop interactive dashboards using Microsoft Power BI."
+    },
+    {
+      "duty": "Optimize and tune SQL queries, data models, and ETL processes for performance and efficiency."
+    },
+    {
+      "duty": "Implement data security measures and ensure compliance with data governance policies."
+    },
+    {
+      "duty": "Keep up-to-date with the latest Microsoft BI technologies and best practices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in computer science, or Information Systems (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Dotnet Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Object-Oriented Programming",
+      "experience": 5
+    },
+    {
+      "skill": ".NET Core",
+      "experience": 5
+    },
+    {
+      "skill": "ASP.NET MVC",
+      "experience": 5
+    },
+    {
+      "skill": "Debugging",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Agile",
+      "experience": 5
+    },
+    {
+      "skill": "Scrum",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for the day-to-day tasks of software development, including Object-Oriented Programming (OOP), .NET Core, ASP.NET MVC, and other backend technologies."
+    },
+    {
+      "duty": "Debugging code, maintaining software documentation, and ensuring that all web applications meet customer requirements and industry standards."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.Sc. degree or higher in Computer Science/Engineering or related field"
+    }
+  ]
+}

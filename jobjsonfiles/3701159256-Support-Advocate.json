@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Support Advocate",
+      "job_category": "Healthcare",
+      "job_class": "Support",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide day-to-day services to program participants, including personal care, household maintenance, and meal preparation."
+    },
+    {
+      "duty": "Administer medications and follow routines of individuals, such as Behavior Support Plans and Physical Therapy."
+    },
+    {
+      "duty": "Accompany individuals on appointments and provide ongoing opportunities for individuals to assume increasing control over their daily lives."
+    },
+    {
+      "duty": "Receive training on CPR/First Aid, Safety Care, Defensive Driving, and Medication Administration Program (MAP)"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Administrative Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Compassion",
+      "experience": 3
+    },
+    {
+      "skill": "CPR/First Aid",
+      "experience": 1
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 1
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

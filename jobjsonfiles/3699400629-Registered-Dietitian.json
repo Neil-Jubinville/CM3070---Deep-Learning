@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Dietitian",
+      "job_category": "Healthcare",
+      "job_class": "Dietitian",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nutrition Counseling",
+      "experience": 2
+    },
+    {
+      "skill": "Food Safety",
+      "experience": 2
+    },
+    {
+      "skill": "Teaching Nutrition Therapy",
+      "experience": 3
+    },
+    {
+      "skill": "Assessment and Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Documenting",
+      "experience": 2
+    },
+    {
+      "skill": "HIPAA Compliance",
+      "experience": 2
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide nutrition counseling, care plans, assessment, and education programs for diverse population"
+    },
+    {
+      "duty": "Assess nutritional needs, complete nutritional plans, and screen patients for nutritional risk"
+    },
+    {
+      "duty": "Complete diet and food drug interaction instructions and attend Care Conferences to address patient\u2019s nutritional needs"
+    },
+    {
+      "duty": "Document nutritional needs of high-risk patients in a timely manner including holidays and weekends"
+    },
+    {
+      "duty": "Maintain privacy and confidentiality at all times and participate in mandatory in-service meetings"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 90,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Registered Dietitian license in the state of Ohio"
+    },
+    {
+      "credential": "Knowledge of food preparation, food safety, and sanitation practices"
+    },
+    {
+      "credential": "Prior experience teaching and counseling nutrition therapy"
+    }
+  ]
+}

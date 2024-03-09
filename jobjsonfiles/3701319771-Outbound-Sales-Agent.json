@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Outbound Sales Agent",
+      "job_category": "Sales",
+      "job_class": "Agent",
+      "sector": "Sales",
+      "salary": 50000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Conducting Sales Activities",
+      "experience": 5
+    },
+    {
+      "skill": "Outbound Call Center",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct sales activities with prospective and current customers over the phone to identify their insurance needs, and offer solutions that address those needs."
+    },
+    {
+      "duty": "Provide excellent customer service and follow defined quality and productivity standards, deadlines, and established procedures."
+    },
+    {
+      "duty": "Demonstrate knowledge of outbound call center best practices, such as quality control and workforce management."
+    },
+    {
+      "duty": "Possess an active resident state life insurance license and be open to learning about our life insurance product portfolio and distribution process."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Active resident state life insurance license"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Certified Surgical Technologist",
+      "job_category": "Healthcare",
+      "job_class": "Technologist",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Surgical Technology",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Computer Applications",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in operative procedures and render quality service to patients and surgeons."
+    },
+    {
+      "duty": "Prepare sterile/unsterile supplies and equipment, and assist with autoclaving of sterile equipment and supplies."
+    },
+    {
+      "duty": "Transport and assist in lifting and positioning patients, report unusual occurrences, and contribute to the efficient operations of the Operating Room."
+    },
+    {
+      "duty": "Partially responsible for the proper care of supplies and equipment and have partial access to medications as required by job responsibilities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited school of Surgical Technology."
+    },
+    {
+      "credential": "Certification as a Certified CST."
+    },
+    {
+      "credential": "BLS from American Heart Association or Red Cross required."
+    },
+    {
+      "credential": "Minimum one year of CVOR scrub experience."
+    }
+  ]
+}

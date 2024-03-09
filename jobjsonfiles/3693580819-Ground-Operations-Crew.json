@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Ground Operations Crew",
+      "job_category": "Operational",
+      "job_class": "Crew",
+      "sector": "Aviation",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Loads and unloads Customer bags, operates ground service equipment, coordinates aircraft servicing, and prepares aircraft cabin for departure."
+    },
+    {
+      "duty": "Helps with ramp service duties, waste disposal, and aircraft re-servicing."
+    },
+    {
+      "duty": "Assists Customers when needed and complies with ad-hoc requests."
+    },
+    {
+      "duty": "Operates ground service equipment, tags, lifts, and unloads Customer bags (in excess of 100 lbs) from baggage compartment of aircraft and baggage system."
+    },
+    {
+      "duty": "Assists Customers with special needs and guides aircraft to and from aircraft parking locations."
+    },
+    {
+      "duty": "Maintains a safe environment and performs other assigned duties."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Ground Service Operations",
+      "experience": 1
+    },
+    {
+      "skill": "Aircraft Servicing",
+      "experience": 1
+    },
+    {
+      "skill": "Ramp Service",
+      "experience": 1
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 1
+    },
+    {
+      "skill": "Communication",
+      "experience": 1
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or General Education Development (GED) Diploma"
+    }
+  ]
+}

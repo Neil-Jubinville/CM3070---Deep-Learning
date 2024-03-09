@@ -1,0 +1,97 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "NodeJS",
+      "experience": 8
+    },
+    {
+      "skill": "Linux/Unix Systems",
+      "experience": 8
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 8
+    },
+    {
+      "skill": "SQL",
+      "experience": 8
+    },
+    {
+      "skill": "AWS",
+      "experience": 6
+    },
+    {
+      "skill": "Heroku",
+      "experience": 6
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 6
+    },
+    {
+      "skill": "Agile",
+      "experience": 8
+    },
+    {
+      "skill": "Software Design",
+      "experience": 8
+    },
+    {
+      "skill": "Web API Design",
+      "experience": 8
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 8
+    },
+    {
+      "skill": "Salesforce Platform",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop and deploy frontend and backend services with focus on high availability, low latency and scalability."
+    },
+    {
+      "duty": "Direct and assist with designing, developing, documenting, testing, and debugging new and existing software systems and/or applications."
+    },
+    {
+      "duty": "Lead and exhibit expert technical problem solving and debugging skills."
+    },
+    {
+      "duty": "Identify, develop, and advocate best practices, design standards and procedures."
+    },
+    {
+      "duty": "Foster a collaborative and professional team environment to achieve objectives."
+    },
+    {
+      "duty": "Collaborate and communicate with Stakeholders, Product Owners, Quality Assurance and other teams in an agile work environment."
+    },
+    {
+      "duty": "Mentor junior and mid-level engineers by providing advice, coaching and educational opportunities to grow their technical skills."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 200,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in Computer Science or Computer Engineering from an accredited college or university or equivalent work experience."
+    }
+  ]
+}

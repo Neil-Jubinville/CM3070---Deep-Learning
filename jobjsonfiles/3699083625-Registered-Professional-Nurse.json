@@ -1,0 +1,37 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Professional Nurse",
+      "job_category": "Nursing",
+      "job_class": "Professional",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide care education to patients in person or over the phone."
+    },
+    {
+      "duty": "Assure quality care by adhering to standards set by the physicians."
+    },
+    {
+      "duty": "Adhere to compliance guidelines throughout processes (OSHA, FDA, HIPAA)."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Must be a Registered Professional Nurse with current licensure."
+    },
+    {
+      "credential": "CPR, ACLS, and BCLS Certification."
+    },
+    {
+      "credential": "Knowledge of OSHA, FDA, and HIPAA compliance."
+    },
+    {
+      "credential": "CHT certification."
+    }
+  ]
+}

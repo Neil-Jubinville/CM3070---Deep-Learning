@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Administrative Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Management",
+      "salary": 25,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft Word",
+      "experience": 3
+    },
+    {
+      "skill": "PowerPoint",
+      "experience": 3
+    },
+    {
+      "skill": "Outlook",
+      "experience": 3
+    },
+    {
+      "skill": "Excel",
+      "experience": 3
+    },
+    {
+      "skill": "Diligence",
+      "experience": 3
+    },
+    {
+      "skill": "Organization",
+      "experience": 3
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 3
+    },
+    {
+      "skill": "High Attention to Detail",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create and revise PowerPoint presentations"
+    },
+    {
+      "duty": "Coordinate senior-level internal/external meetings, conference calls, and travel arrangements"
+    },
+    {
+      "duty": "Maintain complex and extremely detailed calendars"
+    },
+    {
+      "duty": "Provide general administrative support including processing invoices and expenses, assisting with requests for information from various departments, scanning, and maintaining office documents, Excel spreadsheets, checklists, and files"
+    },
+    {
+      "duty": "Interact with senior leaders in a professional and effective manner"
+    },
+    {
+      "duty": "Work on special projects on an ad-hoc basis"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma is required"
+    }
+  ]
+}

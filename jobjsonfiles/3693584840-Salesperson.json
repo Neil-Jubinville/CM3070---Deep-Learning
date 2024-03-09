@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Salesperson",
+      "job_category": "Sales",
+      "job_class": "Salesperson",
+      "sector": "Sales",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Prospecting",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Expand the client base through effective sales strategies and relationship building."
+    },
+    {
+      "duty": "Work some nights and weekends to provide lighting and production services for events."
+    },
+    {
+      "duty": "Drive sales and meet sales targets through prospecting and lead follow-up."
+    },
+    {
+      "duty": "Maintain knowledge of industry trends and products to effectively sell event production services."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ]
+}

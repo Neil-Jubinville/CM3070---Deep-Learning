@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Engineering",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "System Design",
+      "experience": 2
+    },
+    {
+      "skill": "Electronic Systems Development",
+      "experience": 3
+    },
+    {
+      "skill": "Circuit Board Design",
+      "experience": 3
+    },
+    {
+      "skill": "CAD/CAE Tools",
+      "experience": 3
+    },
+    {
+      "skill": "Test Planning",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Define and evaluate board and cable designs for system modules and components of multi-functional systems"
+    },
+    {
+      "duty": "Develop electronic systems that may include low level motion controllers, sensor interfaces and data acquisition, and system test bed utilities for electro-mechanical systems"
+    },
+    {
+      "duty": "Design circuit boards and sub-systems of limited to moderate scope using CAD/CAE tools"
+    },
+    {
+      "duty": "Plan and conduct tests to verify theoretical analysis; performs empirical analysis"
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelors degree in Electrical or Biomedical engineering with electrical background"
+    }
+  ]
+}

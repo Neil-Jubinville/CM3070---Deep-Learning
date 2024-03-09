@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Automotive Technician",
+      "job_category": "Automotive",
+      "job_class": "Technician",
+      "sector": "Retail",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Automotive Diagnostics",
+      "experience": 5
+    },
+    {
+      "skill": "Vehicle Inspection",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Repairs",
+      "experience": 5
+    },
+    {
+      "skill": "Brake Services",
+      "experience": 5
+    },
+    {
+      "skill": "Tire Service",
+      "experience": 5
+    },
+    {
+      "skill": "Fluid Services",
+      "experience": 5
+    },
+    {
+      "skill": "Air Conditioning Inspection",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Inspection",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform automotive diagnostics, vehicle inspection, and mechanical repairs according to BSRO procedures."
+    },
+    {
+      "duty": "Lead and instruct other technicians in diagnostic and repair activities."
+    },
+    {
+      "duty": "Explain mechanical diagnoses and repairs to non-mechanical individuals, including teammates and Managers."
+    },
+    {
+      "duty": "Manage online presence and social media channels to maximize customer engagement and conversions."
+    },
+    {
+      "duty": "Plan industry events and conferences to showcase services and network with potential clients."
+    },
+    {
+      "duty": "Measure and report on the performance of automotive services and repairs, using data-driven insights to improve strategies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent, with a minimum 5 years of automotive repair experience. A.S.E. certification in at least 5 (five) of A1-A8 is preferred."
+    }
+  ]
+}

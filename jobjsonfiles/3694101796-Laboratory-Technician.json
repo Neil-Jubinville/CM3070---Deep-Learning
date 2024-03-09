@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Laboratory Technician",
+      "job_category": "Science & Clinical",
+      "job_class": "Technician",
+      "sector": "Science & Clinical",
+      "salary": 43000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tissue Culture",
+      "experience": 2
+    },
+    {
+      "skill": "Growth Medium Preparation",
+      "experience": 2
+    },
+    {
+      "skill": "Lab Gowning",
+      "experience": 2
+    },
+    {
+      "skill": "Lab SOP Adherence",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform tissue culture with roller bottle tissue culture vessels."
+    },
+    {
+      "duty": "Assist in the preparation of growth medium."
+    },
+    {
+      "duty": "Clean room work requires daily gowning with sterile hooded coveralls, goggles, facemask, gloves, and boot coverings."
+    },
+    {
+      "duty": "Various support duties to include dishware preparation, stocking supplies, and housekeeping."
+    },
+    {
+      "duty": "Follow aseptic laboratory and quality SOP\u2019s and adhere to Good Manufacturing Practice (GMP)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in life-science (preferred) or an Associates degree or High School diploma with some applicable experience."
+    }
+  ]
+}

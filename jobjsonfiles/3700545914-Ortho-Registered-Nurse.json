@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Ortho Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 31,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Record Keeping",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 5
+    },
+    {
+      "skill": "Wound Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Empathy",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide orthopedic nursing care to patients, including assessment, treatment, and patient education."
+    },
+    {
+      "duty": "Maintain accurate and detailed medical records for patients and ensure proper documentation and record keeping."
+    },
+    {
+      "duty": "Educate patients on post-operative care, wound care, and medication administration."
+    },
+    {
+      "duty": "Manage and care for orthopedic patients, including wound care, pain management, and patient comfort."
+    },
+    {
+      "duty": "Administer medications and treatments according to physician orders and nursing protocols."
+    },
+    {
+      "duty": "Utilize critical thinking skills to assess patient conditions and respond appropriately in emergency situations."
+    },
+    {
+      "duty": "Communicate effectively with patients, families, and healthcare team members to ensure quality care and positive patient outcomes."
+    },
+    {
+      "duty": "Demonstrate empathy and compassion to support patients emotionally and mentally during their treatment and recovery."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Staffing Consultant",
+      "job_category": "Recruiting",
+      "job_class": "Consultant",
+      "sector": "Sales",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Recruiting",
+      "experience": 5
+    },
+    {
+      "skill": "Interviewing",
+      "experience": 5
+    },
+    {
+      "skill": "Coaching",
+      "experience": 5
+    },
+    {
+      "skill": "Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Goal Setting",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Identify and engage prospective candidates through various channels such as job boards, LinkedIn, referrals, and professional networks."
+    },
+    {
+      "duty": "Interview and assess potential candidates for qualifications and job fit for temporary/contract roles."
+    },
+    {
+      "duty": "Prepare candidates for client interviews, including discussing client needs, conducting mock interviews, and providing feedback."
+    },
+    {
+      "duty": "Deliver job offers to successful candidates and manage the offer process."
+    },
+    {
+      "duty": "Support candidates on assignment to ensure they have the necessary resources and assistance."
+    },
+    {
+      "duty": "Collaborate with team members to discuss open positions, post job advertisements, and utilize online sourcing tools."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business, Human Resources, or a related field (Master's preferred)"
+    }
+  ]
+}

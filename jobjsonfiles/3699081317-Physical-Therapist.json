@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Physical Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Therapy",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Therapeutic Care",
+      "experience": 5
+    },
+    {
+      "skill": "Care Plan Development",
+      "experience": 5
+    },
+    {
+      "skill": "Home Care",
+      "experience": 5
+    },
+    {
+      "skill": "Instruction and Training",
+      "experience": 5
+    },
+    {
+      "skill": "Caseload Prioritization",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide comprehensive patient-centered physical therapy care in coordination with physicians and patient care team."
+    },
+    {
+      "duty": "Conduct patient assessments and develop individualized care plans focusing on goal achievement and positive patient experience."
+    },
+    {
+      "duty": "Provide purposeful and skilled therapeutic care at patient's home, consistent with the physician's plan of care."
+    },
+    {
+      "duty": "Instruct patients, families, and caregivers in the use of therapies, exercises, and therapeutic appliances."
+    },
+    {
+      "duty": "Prioritize caseload, determine daily staffing needs, and coordinate assignments/handoffs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Physical Therapy (Master's preferred)"
+    }
+  ]
+}

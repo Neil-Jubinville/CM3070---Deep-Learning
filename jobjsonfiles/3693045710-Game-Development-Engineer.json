@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Game Development Engineer",
+      "job_category": "Software Development",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C++",
+      "experience": 5
+    },
+    {
+      "skill": "Network Game Client/Server Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Linux Development",
+      "experience": 5
+    },
+    {
+      "skill": "Debugging Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Backend Service Architecture on Linux",
+      "experience": 5
+    },
+    {
+      "skill": "MMO Development & Multiplayer Networking",
+      "experience": 3
+    },
+    {
+      "skill": "Cloud Development and Kubernetes",
+      "experience": 3
+    },
+    {
+      "skill": "Core Debugging using GDB",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and architect new backend game systems."
+    },
+    {
+      "duty": "Refine systems throughout the development cycle of the project."
+    },
+    {
+      "duty": "Work directly with messaging and database frameworks to provide base level functionality for feature development."
+    },
+    {
+      "duty": "Collaborate with designers and other engineers for feature development."
+    },
+    {
+      "duty": "Optimize code to improve CPU utilization and reduce memory footprint."
+    },
+    {
+      "duty": "Troubleshoot and respond to internal and live server issues as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in Computer Science or equivalent experience"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Data Scientist",
+      "job_category": "Data Science",
+      "job_class": "Senior",
+      "sector": "Data Science",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Statistical Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Big Data Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Data Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "MLOps",
+      "experience": 4
+    },
+    {
+      "skill": "Ad-tech",
+      "experience": 4
+    },
+    {
+      "skill": "Cloud Data Environments",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Mentorship",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and implement ML solutions to enhance ad-serving pathways and optimize operational decision making without tracking user behaviors."
+    },
+    {
+      "duty": "Translate business, product, and engineering requirements into ML solutions and conduct exploratory analyses to refine the ML roadmap."
+    },
+    {
+      "duty": "Query and structure large datasets for model development using Spark and SQL."
+    },
+    {
+      "duty": "Contribute to MLOps workflows and establish a scalable ML Platform for other engineers and data scientists to use."
+    },
+    {
+      "duty": "Train, experiment, and tune ML problem statements in order to find optimal solutions and develop KPIs in the BI platform to track and monitor model performance."
+    },
+    {
+      "duty": "Serve as a mentor to other Data Scientists and Engineers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Statistics, Mathematics, Physics, Economics or related quantitative field (Advanced degree preferred)"
+    }
+  ]
+}

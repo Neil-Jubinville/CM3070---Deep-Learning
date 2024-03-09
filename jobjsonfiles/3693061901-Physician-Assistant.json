@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Physician Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Advanced Practice Provider",
+      "sector": "Healthcare",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Internal Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnostic Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Consultation",
+      "experience": 5
+    },
+    {
+      "skill": "Precepting",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Procedures",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Hospital Management",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Acute Care",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Complete/comprehensive history and physical examination, ordering and interpretation of diagnostic studies, and prescribing appropriate treatments in collaboration with the attending physician."
+    },
+    {
+      "duty": "Consultation with specialist providers and other team members regarding findings/changes in patient condition, documentation of patient care/procedures per policy, and communication/education with patients and their families."
+    },
+    {
+      "duty": "Precepting and mentoring Stanford school of medicine Physician Assistant students."
+    },
+    {
+      "duty": "Orientation on Med 7 inpatient service, participation in team rounds, procedures, and training on difficult conversations including goals of care, and cross training other APP specialty teams."
+    },
+    {
+      "duty": "Carrying out the plan of care for patients, consulting with other services as indicated, admitting and discharging patients, and performing procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BACHELOR'S DEGREE IN NURSING FROM AN ACCREDITED UNIVERSITY. Graduate of a PA program accredited by the Accreditation Review Commission on Education for the Physician Assistant, Inc."
+    },
+    {
+      "credential": "PA - Physician Assistant State Licensure"
+    },
+    {
+      "credential": "BLS - Basic Life Support"
+    },
+    {
+      "credential": "DEA - Drug Enforcement Administration"
+    }
+  ]
+}

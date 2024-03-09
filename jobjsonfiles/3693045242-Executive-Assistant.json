@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Executive Assistant",
+      "job_category": "Administration",
+      "job_class": "Assistant",
+      "sector": "Administrative",
+      "salary": 50000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Client Research",
+      "experience": 3
+    },
+    {
+      "skill": "Client Outreach",
+      "experience": 3
+    },
+    {
+      "skill": "CRM Management",
+      "experience": 3
+    },
+    {
+      "skill": "Calendar Management",
+      "experience": 5
+    },
+    {
+      "skill": "Event Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Personal Assistant Tasks",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conducting client research and organizing leads"
+    },
+    {
+      "duty": "Performing client outreach via emails, phone calls, and meeting requests"
+    },
+    {
+      "duty": "Maintaining and updating the firm\u2019s CRM as needed"
+    },
+    {
+      "duty": "Attending meetings, recording notes, and distributing to team members"
+    },
+    {
+      "duty": "Managing CEO\u2019s calendars, assisting with scheduling, and arranging travel when requested"
+    },
+    {
+      "duty": "Coordinating shipping and mail deliveries"
+    },
+    {
+      "duty": "Organizing special events for the company, including an annual retreat"
+    },
+    {
+      "duty": "Performing light personal assistant tasks (running errands, scheduling appointments, etc.)"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration or related field"
+    }
+  ]
+}

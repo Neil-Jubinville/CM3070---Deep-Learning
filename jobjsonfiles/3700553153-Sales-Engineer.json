@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Engineer",
+      "job_category": "Sales",
+      "job_class": "Engineer",
+      "sector": "Sales",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Business Use Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Solution Consulting",
+      "experience": 5
+    },
+    {
+      "skill": "Demonstration Creation",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Trust Building",
+      "experience": 5
+    },
+    {
+      "skill": "Industry Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Travel Readiness",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Participate in scoping, discovery, demonstration, and proposal review sessions with the customer or prospect and the sales team"
+    },
+    {
+      "duty": "Provide technical expertise by documenting processes and providing best practice recommendations for manufacturing companies"
+    },
+    {
+      "duty": "Consult with the sales team to provide solutions to customer requirements"
+    },
+    {
+      "duty": "Create customized demonstrations with the sales team that highlight the ERP solution and its benefits"
+    },
+    {
+      "duty": "Highlight product and service benefits, anticipate concerns, and offer creative solutions"
+    },
+    {
+      "duty": "Build customer trust in company services and product"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Engineering, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

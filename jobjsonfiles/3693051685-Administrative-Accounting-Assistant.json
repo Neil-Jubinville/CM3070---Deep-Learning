@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Administrative/Accounting Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Accounting",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting Principles",
+      "experience": 3
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 3
+    },
+    {
+      "skill": "Accounts Receivable",
+      "experience": 3
+    },
+    {
+      "skill": "Excel",
+      "experience": 3
+    },
+    {
+      "skill": "Math",
+      "experience": 3
+    },
+    {
+      "skill": "Ariba",
+      "experience": 1
+    },
+    {
+      "skill": "OpenInvoice",
+      "experience": 1
+    },
+    {
+      "skill": "Coupa",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform accounting functions utilizing SAP Business One software"
+    },
+    {
+      "duty": "Sales order and invoice generation using SAP Business One and invoice submission through multiple electronic data interchange systems"
+    },
+    {
+      "duty": "Administer tests covering Excel, general math, and accounting principles"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in accounting or a combination of education and experience appropriate for the position"
+    }
+  ]
+}

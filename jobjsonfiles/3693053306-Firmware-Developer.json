@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Firmware Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 143500,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Firmware Development",
+      "experience": 5
+    },
+    {
+      "skill": "Programming Languages",
+      "experience": 5
+    },
+    {
+      "skill": "Debugging",
+      "experience": 5
+    },
+    {
+      "skill": "Embedded Firmware Design",
+      "experience": 5
+    },
+    {
+      "skill": "Hardware Design",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Firmware development for System electronic solutions"
+    },
+    {
+      "duty": "Board bring-up and validation"
+    },
+    {
+      "duty": "Hardware and firmware integration"
+    },
+    {
+      "duty": "FPGA development"
+    },
+    {
+      "duty": "Firmware and software integration"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Electrical Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

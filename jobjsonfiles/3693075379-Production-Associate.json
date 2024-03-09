@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Production Associate",
+      "job_category": "Manufacturing",
+      "job_class": "Associate",
+      "sector": "Manufacturing",
+      "salary": 28000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Dough Processing",
+      "experience": 1
+    },
+    {
+      "skill": "Food Manufacturing",
+      "experience": 2
+    },
+    {
+      "skill": "Sanitization",
+      "experience": 1
+    },
+    {
+      "skill": "Warehouse Operations",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Participate in the processing and manufacturing of pizza dough, including rotating through various positions such as dough maker, dough placer, tray washer, and cross/down stacker."
+    },
+    {
+      "duty": "Clean and sanitize production equipment and areas, ensuring adherence to safety and hygiene standards."
+    },
+    {
+      "duty": "May receive cross-training to work in warehouse or sanitation areas as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED"
+    }
+  ]
+}

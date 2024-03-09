@@ -1,0 +1,50 @@
+{
+  "meta": [
+    {
+      "job_title": "Search Engine Analyst",
+      "job_category": "Data Analysis",
+      "job_class": "Analyst",
+      "sector": "Technology",
+      "salary": 14,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Web Search",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Feedback Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Content Evaluation",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Evaluate and analyze content like images and videos to improve the accuracy of search results."
+    },
+    {
+      "duty": "Provide feedback to enhance web search results."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

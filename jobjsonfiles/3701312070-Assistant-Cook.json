@@ -1,0 +1,48 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Cook",
+      "job_category": "Hospitality",
+      "job_class": "Entry-Level",
+      "sector": "Hospitality",
+      "salary": 25000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cooking",
+      "experience": 2
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 2
+    },
+    {
+      "skill": "Kitchen Organization",
+      "experience": 2
+    },
+    {
+      "skill": "Recipe Adherence",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist the head chef in food preparation and cooking"
+    },
+    {
+      "duty": "Maintain cleanliness and organization in the kitchen"
+    },
+    {
+      "duty": "Follow recipes and adhere to food safety guidelines"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ]
+}

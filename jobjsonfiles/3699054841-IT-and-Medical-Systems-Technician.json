@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "IT and Medical Systems Technician",
+      "job_category": "Information Technology",
+      "job_class": "Technician",
+      "sector": "Information Technology",
+      "salary": 48500,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Support",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Windows 10",
+      "experience": 2
+    },
+    {
+      "skill": "Network Protocols",
+      "experience": 2
+    },
+    {
+      "skill": "Office 365",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Hardware and Software Support",
+      "experience": 2
+    },
+    {
+      "skill": "End User Computing Administration",
+      "experience": 2
+    },
+    {
+      "skill": "Asset Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide end-user technical support including general maintenance tasks, troubleshooting, and repairing computer systems and peripheral equipment."
+    },
+    {
+      "duty": "Serve as a primary and secondary point of contact for end user support requests and actively troubleshoot and resolve escalated end-user requests within established IT guidelines."
+    },
+    {
+      "duty": "Provisioning and revoking account access to technology systems, including cloud-based systems and business applications."
+    },
+    {
+      "duty": "Collaborate with infrastructure engineering team for problem resolution and new projects/initiatives."
+    },
+    {
+      "duty": "Manage and coordinate hardware deployments and disposals, and work with 3rd party vendors for hardware and software procurement."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 60,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school/GED with at least 2 years of experience in hardware and software support"
+    }
+  ]
+}

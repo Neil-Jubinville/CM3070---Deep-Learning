@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Dishwasher",
+      "job_category": "Service",
+      "job_class": "Entry-Level",
+      "sector": "Hospitality",
+      "salary": 25000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Dishwashing",
+      "experience": 1
+    },
+    {
+      "skill": "Team Work",
+      "experience": 1
+    },
+    {
+      "skill": "Time Management",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain cleanliness and organization of kitchen equipment and tools."
+    },
+    {
+      "duty": "Assist with food preparation and storage as needed."
+    },
+    {
+      "duty": "Ensure compliance with health and safety regulations and standards."
+    },
+    {
+      "duty": "Work collaboratively with kitchen and serving staff to meet guest needs."
+    },
+    {
+      "duty": "Maintain a positive and respectful work environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

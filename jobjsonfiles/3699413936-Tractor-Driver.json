@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Tractor Driver",
+      "job_category": "Logistics",
+      "job_class": "Driver",
+      "sector": "Transportation",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Operate tractor with manual transmission",
+      "experience": 3
+    },
+    {
+      "skill": "Backing tractor with boat/pontoon trailer attached",
+      "experience": 3
+    },
+    {
+      "skill": "Weather condition work",
+      "experience": 3
+    },
+    {
+      "skill": "Safe work practices",
+      "experience": 3
+    },
+    {
+      "skill": "Boat/pontoon/trailer handling",
+      "experience": 3
+    },
+    {
+      "skill": "Traffic laws compliance",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Drive a tractor to coordinate trailers for product loading."
+    },
+    {
+      "duty": "Communicate to leads/supervisor of any issues preventing Tractor Drivers from completing their assigned duties."
+    },
+    {
+      "duty": "Cover any absent outfitters."
+    },
+    {
+      "duty": "Perform a daily 5-S sweep of assigned area."
+    },
+    {
+      "duty": "Report and fix any issues that arise during shift."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or Equivalent"
+    },
+    {
+      "credential": "Valid driver\u2019s license."
+    }
+  ]
+}

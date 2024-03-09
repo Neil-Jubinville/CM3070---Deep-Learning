@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer - Mobile",
+      "job_category": "Software Engineer",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Focus on developing and maintaining reusable user interface components using React Native concepts and workflows and native Android and iOS tools"
+    },
+    {
+      "duty": "Profile and improve mobile application performance, mentor team members, and take end-to-end technical ownership of applications"
+    },
+    {
+      "duty": "Stay on top of technology changes in the market and continuously look for opportunities to leverage new technology"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "React Native",
+      "experience": 5
+    },
+    {
+      "skill": "Android Development",
+      "experience": 5
+    },
+    {
+      "skill": "iOS Development",
+      "experience": 5
+    },
+    {
+      "skill": "Mobile Application Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "Typescript",
+      "experience": 5
+    },
+    {
+      "skill": "RESTful APIs",
+      "experience": 5
+    },
+    {
+      "skill": "GraphQL",
+      "experience": 5
+    },
+    {
+      "skill": "Git",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science / related engineering field OR equivalent experience in a related field"
+    }
+  ]
+}

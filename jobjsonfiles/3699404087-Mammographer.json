@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Mammographer",
+      "job_category": "Diagnostic Imaging",
+      "job_class": "Specialist",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mammography",
+      "experience": 5
+    },
+    {
+      "skill": "X-Ray",
+      "experience": 5
+    },
+    {
+      "skill": "Fluoroscopy",
+      "experience": 5
+    },
+    {
+      "skill": "Bone Density",
+      "experience": 5
+    },
+    {
+      "skill": "CT Scan",
+      "experience": 5
+    },
+    {
+      "skill": "MRI",
+      "experience": 5
+    },
+    {
+      "skill": "Ultrasound",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Provider AHA BLS",
+      "experience": 5
+    },
+    {
+      "skill": "Hospital Setting Experience",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform mammograms and other diagnostic imaging procedures using state-of-the-art technology."
+    },
+    {
+      "duty": "Ensure accurate and high-quality imaging results for fast and precise diagnosis."
+    },
+    {
+      "duty": "Maintain and calibrate imaging equipment to ensure optimal performance and safety standards."
+    },
+    {
+      "duty": "Collaborate with healthcare teams to provide essential diagnostic information for patient care."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current ARRT RT(R) credential and unencumbered Oregon license in Radiologic Technology."
+    },
+    {
+      "credential": "Performance of a minimum of 200 documented mammograms in the last calendar year preferred."
+    },
+    {
+      "credential": "Experience in a hospital setting preferred."
+    },
+    {
+      "credential": "Healthcare Provider AHA BLS required."
+    }
+  ]
+}

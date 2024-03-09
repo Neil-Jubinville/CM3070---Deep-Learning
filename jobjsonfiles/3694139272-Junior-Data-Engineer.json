@@ -1,0 +1,112 @@
+{
+  "meta": [
+    {
+      "job_title": "Junior Data Engineer",
+      "job_category": "Data Engineering",
+      "job_class": "Junior",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ETL Processes",
+      "experience": 2
+    },
+    {
+      "skill": "Database Management",
+      "experience": 3
+    },
+    {
+      "skill": "API Integration",
+      "experience": 2
+    },
+    {
+      "skill": "Data Warehousing",
+      "experience": 3
+    },
+    {
+      "skill": "SQL",
+      "experience": 3
+    },
+    {
+      "skill": "Python",
+      "experience": 2
+    },
+    {
+      "skill": "SSIS Packages",
+      "experience": 2
+    },
+    {
+      "skill": "Database Design",
+      "experience": 3
+    },
+    {
+      "skill": "Data Mining",
+      "experience": 3
+    },
+    {
+      "skill": "Data QA/QC",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 4
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and optimize data pipelines using ETL tools and practices."
+    },
+    {
+      "duty": "Optimize and enhance data ingestion and processing tasks."
+    },
+    {
+      "duty": "Maintain and update SSIS packages, python scripts, and various API integrations."
+    },
+    {
+      "duty": "Support application databases, ensuring high performance and responsiveness."
+    },
+    {
+      "duty": "Assist with database schema design and optimization for application performance."
+    },
+    {
+      "duty": "Contribute to the development and maintenance of the data warehouse architecture."
+    },
+    {
+      "duty": "Develop and integrate APIs to fetch and send data to external systems."
+    },
+    {
+      "duty": "Monitor data quality, ensuring consistency, accuracy, and reliability."
+    },
+    {
+      "duty": "Adhere to data governance standards and compliance requirements."
+    },
+    {
+      "duty": "Work alongside other data professionals and cross-functional teams."
+    },
+    {
+      "duty": "Effectively communicate complex technical concepts to non-technical stakeholders."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in computer science, Mathematics, or related field preferred, or demonstrated experience"
+    }
+  ]
+}

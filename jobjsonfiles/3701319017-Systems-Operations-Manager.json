@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Systems Operations Manager",
+      "job_category": "Information Technology",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Monitor the operations of systems, including quality and compliance."
+    },
+    {
+      "duty": "Recommend improvements to the process through tracking of metrics and reporting of data."
+    },
+    {
+      "duty": "Provide technical support as necessary."
+    },
+    {
+      "duty": "Establish process metrics and goals."
+    },
+    {
+      "duty": "Develop and issue process designs."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Support",
+      "experience": 5
+    },
+    {
+      "skill": "Process Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Compliance Management",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 5
+    },
+    {
+      "skill": "Metric Tracking",
+      "experience": 5
+    },
+    {
+      "skill": "Data Reporting",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent experience in Mechanical Engineering"
+    }
+  ]
+}

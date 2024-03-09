@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "ABAP Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ABAP Development Workbench",
+      "experience": 8
+    },
+    {
+      "skill": "Dialog Programming",
+      "experience": 8
+    },
+    {
+      "skill": "Data Dictionary",
+      "experience": 8
+    },
+    {
+      "skill": "Object Oriented Programming",
+      "experience": 8
+    },
+    {
+      "skill": "Report Programming using ALVs",
+      "experience": 8
+    },
+    {
+      "skill": "Smart Forms",
+      "experience": 8
+    },
+    {
+      "skill": "Adobe Forms",
+      "experience": 8
+    },
+    {
+      "skill": "Interfaces",
+      "experience": 8
+    },
+    {
+      "skill": "BDCs",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee and lead the planning phase of SAP projects, including gathering requirements, setting timelines, allocating resources, and defining project scope."
+    },
+    {
+      "duty": "Design, develop, and implement SAP modules to meet business requirements, adhering to coding standards and best practices. Identify opportunities to re-engineer/integrate existing processes."
+    },
+    {
+      "duty": "Collaborate and work with the team of SAP ABAB/HANA/Fiori developers, providing guidance, mentorship, and support as necessary."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 90,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Business or related field"
+    }
+  ]
+}

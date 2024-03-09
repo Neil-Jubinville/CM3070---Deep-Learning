@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Manufacturing Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Manufacturing",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tight Tolerance Measurement Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 5
+    },
+    {
+      "skill": "Statistical Process Control (SPC)",
+      "experience": 5
+    },
+    {
+      "skill": "Quality System Regulations (ISO, FDA)",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and implement inspection/validation techniques to verify that products meet requirements at the earliest point in the production process."
+    },
+    {
+      "duty": "Lead the Material Review Board for internal non-conformances and customer returns."
+    },
+    {
+      "duty": "Supervise and train personnel in the inspection of raw materials, in-process and finished goods using statistical sampling techniques and precision measuring instruments."
+    },
+    {
+      "duty": "Create, implement and improve quality systems and procedures to meet ISO 13485, FDA, and customer quality system requirements."
+    },
+    {
+      "duty": "Oversee quality including batch testing, inspection, calibration, environmental monitoring, qualification, and document review."
+    },
+    {
+      "duty": "Authorize, initiate, and/or approve product and process changes."
+    },
+    {
+      "duty": "Support both internal and external audits of all corporate quality systems and demonstrate compliance through objective evidence."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in Engineering or related field with a minimum of two years\u2019 experience with tight tolerance measurement systems in machining applications, blueprint reading, GD&T, and a working knowledge of short-run process control methods, DOE, ISO standards, and FDA quality system regulations. Willing to consider relevant experience in combination with professional certificates in Quality such as CQE or CMQE/OE."
+    }
+  ]
+}

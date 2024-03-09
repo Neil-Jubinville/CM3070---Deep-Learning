@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Postgres Database Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "PostgreSQL DBA",
+      "experience": 6
+    },
+    {
+      "skill": "SQL Development",
+      "experience": 6
+    },
+    {
+      "skill": "ETL",
+      "experience": 6
+    },
+    {
+      "skill": "Database Schema Design",
+      "experience": 6
+    },
+    {
+      "skill": "Database Performance Optimization",
+      "experience": 6
+    },
+    {
+      "skill": "Couchbase Database",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop simple and complex stored procedures, functions, and views to meet enhancement requirements."
+    },
+    {
+      "duty": "Provide best practice guidance to the development team with regard to database design and usage."
+    },
+    {
+      "duty": "Develop automation technologies to expedite the process of loading data into the end target."
+    },
+    {
+      "duty": "Develop ETL strategies for integrating data from multiple sources in data warehouses."
+    },
+    {
+      "duty": "Design database schema to meet new enhancement requirements."
+    },
+    {
+      "duty": "Optimize database performance."
+    },
+    {
+      "duty": "Develop ETL strategies for integrating or migrating data from multiple sources."
+    }
+  ]
+}

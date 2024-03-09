@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Outside Sales Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Prospecting",
+      "experience": 2
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Technical Support",
+      "experience": 2
+    },
+    {
+      "skill": "Account Management",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Salesforce Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prospect new accounts."
+    },
+    {
+      "duty": "Learn basic product features and benefits and deliver this message to prospective users."
+    },
+    {
+      "duty": "Provide demonstration of our products."
+    },
+    {
+      "duty": "Offer basic technical support of named product sets."
+    },
+    {
+      "duty": "Visit job sites to support installations and build your knowledge."
+    },
+    {
+      "duty": "Manage select dealer and end user relationships."
+    },
+    {
+      "duty": "Hold distributor demonstration events."
+    },
+    {
+      "duty": "Manage activities through salesforce.com."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate\u2019s degree (AAS), or Trade School Certification, or Bachelor\u2019s Degree (BS) preferred."
+    }
+  ]
+}

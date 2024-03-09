@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Business Analyst",
+      "job_category": "Business Analysis",
+      "job_class": "Senior",
+      "sector": "Product Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Business Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Scrum Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "Product Development",
+      "experience": 5
+    },
+    {
+      "skill": "Software Development Life Cycles",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Change Management",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead requirements elicitation with key stakeholders, documentation, story creation, and refinement for the team."
+    },
+    {
+      "duty": "Perform analysis of large-scale epics for decomposition and work closely with Program Leadership and teams to ensure accurate scoping, feasibility assessment and effort estimation for epics and features."
+    },
+    {
+      "duty": "Schedule, coordinate, and facilitate agile ceremonies and elicitation sessions with the Product Owner and stakeholders to identify, prioritize, and clarify requirements and/or issues."
+    },
+    {
+      "duty": "Develop and conduct product presentations and/or demonstrations that effectively communicate the value, benefits, capabilities, and features to various stakeholders and development team members."
+    },
+    {
+      "duty": "Perform change management activities in support of product releases."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Computer Science, Information Technology, or a related field (Master's preferred)"
+    }
+  ]
+}

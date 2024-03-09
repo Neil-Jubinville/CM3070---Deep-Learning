@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Practice",
+      "experience": 5
+    },
+    {
+      "skill": "Inter-professional Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Safety",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Evidence-based Practice",
+      "experience": 5
+    },
+    {
+      "skill": "Research Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Continuing Education",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide high-quality patient care and clinical leadership in a hospital setting."
+    },
+    {
+      "duty": "Collaborate with healthcare professionals to ensure patient safety and well-being."
+    },
+    {
+      "duty": "Utilize evidence-based practice and critical thinking to provide optimal patient outcomes."
+    },
+    {
+      "duty": "Participate in research activities and continuing education to enhance clinical expertise."
+    },
+    {
+      "duty": "Maintain a spirit of inquiry and promote a culture of safety in the healthcare environment."
+    },
+    {
+      "duty": "Demonstrate strong communication skills and inter-professional collaboration in patient care."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an Accredited Nursing Program"
+    },
+    {
+      "credential": "RN \u2013 Registered Nurse"
+    },
+    {
+      "credential": "BLS \u2013 Basic Life Support (required within 30 days of hire)"
+    }
+  ]
+}

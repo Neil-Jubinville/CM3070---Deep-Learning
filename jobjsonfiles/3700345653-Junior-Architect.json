@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Junior Architect",
+      "job_category": "Architecture",
+      "job_class": "Junior",
+      "sector": "Architecture",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AutoCAD Drafting",
+      "experience": 3
+    },
+    {
+      "skill": "NYC Building Codes",
+      "experience": 3
+    },
+    {
+      "skill": "Field Testing",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Drafting Architectural sets using AutoCAD and Revit"
+    },
+    {
+      "duty": "Working in a multi-disciplinary office environment and multi-tasking"
+    },
+    {
+      "duty": "Interpreting NYC and New York State building codes"
+    },
+    {
+      "duty": "Observing, evaluating, and documenting site conditions and compiling written reports"
+    },
+    {
+      "duty": "Assisting in FISP inspections"
+    },
+    {
+      "duty": "Communicating with Clients and conducting site meetings"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 90,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelors of Architecture or an equivalent professional degree from an Accredited University/College"
+    }
+  ]
+}

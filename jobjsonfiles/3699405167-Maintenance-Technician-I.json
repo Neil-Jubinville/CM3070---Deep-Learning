@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician I",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Logistics",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 2
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Set up and maintain machinery in co pack area."
+    },
+    {
+      "duty": "Maintain machinery in accordance with the Preventative Maintenance Program."
+    },
+    {
+      "duty": "Maintain area to comply with current safety standards."
+    },
+    {
+      "duty": "Understand and assist in the Equipment Validation Process."
+    },
+    {
+      "duty": "Capable of using eMaint for troubleshooting as well as capturing repairs and maintenance tasks."
+    },
+    {
+      "duty": "Miscellaneous tasks as assigned by the Operations Manager and Co Pack Supervisors."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED preferred"
+    }
+  ]
+}

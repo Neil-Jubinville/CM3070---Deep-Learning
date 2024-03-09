@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Software Engineer - Edge Proxy",
+      "job_category": "Software Engineering",
+      "job_class": "Staff",
+      "sector": "Software Engineering",
+      "salary": 200000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Engineering",
+      "experience": 8
+    },
+    {
+      "skill": "Java",
+      "experience": 8
+    },
+    {
+      "skill": "RESTful API Design",
+      "experience": 8
+    },
+    {
+      "skill": "Observability Metrics",
+      "experience": 8
+    },
+    {
+      "skill": "Terraform",
+      "experience": 8
+    },
+    {
+      "skill": "AWS",
+      "experience": 8
+    },
+    {
+      "skill": "Docker",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 8
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Leadership",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, build, and maintain massively scalable, highly reliable and resilient Java services in a fast growing and engineering focused company."
+    },
+    {
+      "duty": "Design and build scalable and segregated infrastructure deployment systems using Terraform, AWS, and Docker."
+    },
+    {
+      "duty": "Lead incident troubleshooting, remediation, and prevention efforts."
+    },
+    {
+      "duty": "Provide technical leadership by promoting best practices, driving innovation, and designing multi-organizational processes and systems."
+    },
+    {
+      "duty": "Collaborate with teams, leaders, and stakeholders across organizations to architect systems and achieve business goals."
+    },
+    {
+      "duty": "Cultivate a culture of ownership and growth by mentoring engineers and sharing technical expertise."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

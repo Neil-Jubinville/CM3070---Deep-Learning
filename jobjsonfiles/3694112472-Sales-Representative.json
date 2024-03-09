@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CRM Systems (Salesforce, HubSpot)",
+      "experience": 3
+    },
+    {
+      "skill": "Lead Nurturing",
+      "experience": 3
+    },
+    {
+      "skill": "Closing Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 3
+    },
+    {
+      "skill": "Sales Forecasting",
+      "experience": 3
+    },
+    {
+      "skill": "Event Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Tech Savvy",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage inbound leads and inquiries on CRM systems such as Salesforce and HubSpot."
+    },
+    {
+      "duty": "Demonstrate and promote educational VR products through virtual demos and email correspondence."
+    },
+    {
+      "duty": "Collaborate with AI agents to generate leads and automate interactions, maintaining a human touch."
+    },
+    {
+      "duty": "Achieve and exceed sales targets, build and maintain customer relationships, and understand competitive landscape."
+    },
+    {
+      "duty": "Attend industry-related events and internal sales meetings, and create quotes and opportunities in CRM systems."
+    },
+    {
+      "duty": "Work with Marketing Team on content and campaigns to drive business growth."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree preferred but not required."
+    }
+  ]
+}

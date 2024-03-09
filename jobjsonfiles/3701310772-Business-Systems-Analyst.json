@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Systems Analyst",
+      "job_category": "Data Analysis",
+      "job_class": "Analyst",
+      "sector": "IT",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Quantitative Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "R",
+      "experience": 5
+    },
+    {
+      "skill": "Data Query",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provides technical support to system users and customer support staff."
+    },
+    {
+      "duty": "Evaluates user needs, defines technical problems, and works with engineering/development staff to determine solutions."
+    },
+    {
+      "duty": "Assists customer in implementing solutions."
+    },
+    {
+      "duty": "Performs ongoing activities to maintain and enhance overall system performance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Technical undergraduate degree (Engineering, Computer Science, Statistics, Analytics etc.) or equivalent experience"
+    }
+  ]
+}

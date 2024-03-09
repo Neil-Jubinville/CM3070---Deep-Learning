@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Technician",
+      "job_category": "Technician",
+      "job_class": "Skilled Trades",
+      "sector": "Mechanical",
+      "salary": 42500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HVAC Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Electrical Repairs",
+      "experience": 3
+    },
+    {
+      "skill": "Reading Circuit Diagrams",
+      "experience": 3
+    },
+    {
+      "skill": "AC/DC Electrical Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Mechanical and Electrical Systems Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for inspection, testing, and maintenance of electrical, electronic, and HVAC systems on rolling stock equipment and components."
+    },
+    {
+      "duty": "Utilizes a variety of test equipment, PC, and graphic information to diagnose malfunctions, troubleshoot and qualify components and circuits to determine corrective actions and causes of equipment failures."
+    },
+    {
+      "duty": "Performs approved electrical modifications and repairs or replaces components, as necessary."
+    },
+    {
+      "duty": "Maintains proper care and use of materials, test equipment, machines, and hand tools normally associated with assigned job."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED"
+    }
+  ]
+}

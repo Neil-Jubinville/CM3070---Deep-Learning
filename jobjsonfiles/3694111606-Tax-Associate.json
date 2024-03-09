@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Tax Associate",
+      "job_category": "Finance",
+      "job_class": "Associate",
+      "sector": "Finance",
+      "salary": 64000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 2
+    },
+    {
+      "skill": "Tax Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Tax Research",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Excel",
+      "experience": 3
+    },
+    {
+      "skill": "CPA Certification",
+      "experience": 3
+    },
+    {
+      "skill": "GAAP Knowledge",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Completing tax planning and research"
+    },
+    {
+      "duty": "Preparing federal and state & local tax returns"
+    },
+    {
+      "duty": "Understanding tax regulations and accounting pronouncements"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.A. or B.S. degree in Accounting or equivalent (CPA preferred)"
+    }
+  ]
+}

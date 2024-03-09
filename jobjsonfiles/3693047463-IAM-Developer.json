@@ -1,0 +1,96 @@
+{
+  "meta": [
+    {
+      "job_title": "IAM Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Programming",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Services",
+      "experience": 5
+    },
+    {
+      "skill": "Identity and Access Management (IAM)",
+      "experience": 5
+    },
+    {
+      "skill": "Unix and Windows Systems Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Scalable Computing Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Ticketing Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Security Design",
+      "experience": 5
+    },
+    {
+      "skill": "Performance Design",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Abilities",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership Abilities",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain IAM solutions using modern programming languages and AWS services."
+    },
+    {
+      "duty": "Administer Unix and Windows systems and utilize ticketing systems for issue resolution."
+    },
+    {
+      "duty": "Provide 24/7 on-call support as a Subject Matter Expert (SME) for IAM systems."
+    },
+    {
+      "duty": "Design secure, scalable computing systems and software architecture for cloud-based services."
+    },
+    {
+      "duty": "Analyze and refine IAM principles and practices to ensure security, availability, and performance."
+    },
+    {
+      "duty": "Demonstrate leadership in driving operational excellence and best practices in IAM engineering environments."
+    },
+    {
+      "duty": "Deliver projects with a focus on security, availability, and performance of distributed software services."
+    },
+    {
+      "duty": "Communicate effectively and coordinate with cross-functional teams for successful project delivery."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 50,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

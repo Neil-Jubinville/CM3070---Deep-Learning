@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java (11 or 17+) development",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Cloud Platform architecting",
+      "experience": 5
+    },
+    {
+      "skill": "Data modeling, relational, and NoSQL database skills",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices, Docker, Kubernetes proficiency",
+      "experience": 5
+    },
+    {
+      "skill": "Python programming and GIT/GITOPS experience",
+      "experience": 5
+    },
+    {
+      "skill": "Innovative, collaborative mindset",
+      "experience": 5
+    },
+    {
+      "skill": "Strong communication",
+      "experience": 5
+    },
+    {
+      "skill": "Passion for sustainability",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Define product architecture with leadership."
+    },
+    {
+      "duty": "Translate business needs into technical solutions."
+    },
+    {
+      "duty": "Mentor junior engineers for scalable cloud apps."
+    },
+    {
+      "duty": "Stay updated on evolving technologies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS/MS in software engineering or related field"
+    }
+  ]
+}

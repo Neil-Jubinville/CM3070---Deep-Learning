@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Associate",
+      "job_category": "Warehouse",
+      "job_class": "Associate",
+      "sector": "Logistics",
+      "salary": 41500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Forklift Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Shipping",
+      "experience": 3
+    },
+    {
+      "skill": "Material Handling",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Accurately loading and unloading trailers, verifying route load(s), and maintaining the shipping yard."
+    },
+    {
+      "duty": "Counting and checking products for accuracy and quality, maintaining accurate records, reporting overages and shortages, and participating in \"Cycle Counts\"."
+    },
+    {
+      "duty": "Operating material handling equipment, including pallet jack, forklift, troubleshoot packing equipment, label machines, tapers, palletizers, etc."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 40,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "At least 18 years of age or older."
+    }
+  ]
+}

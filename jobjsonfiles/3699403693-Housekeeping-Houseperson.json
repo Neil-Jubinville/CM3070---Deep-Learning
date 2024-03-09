@@ -1,0 +1,30 @@
+{
+  "meta": [
+    {
+      "job_title": "Housekeeping Houseperson",
+      "job_category": "Housekeeping",
+      "job_class": "Houseperson",
+      "sector": "Hospitality",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Physical Fitness",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain the cleanliness of the hotel and its premises."
+    },
+    {
+      "duty": "Lift, pull, and push a moderate weight as necessary."
+    }
+  ]
+}

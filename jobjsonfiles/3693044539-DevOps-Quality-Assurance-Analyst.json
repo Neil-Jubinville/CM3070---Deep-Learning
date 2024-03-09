@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "DevOps Quality Assurance Analyst",
+      "job_category": "Quality Assurance",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Test Case Development",
+      "experience": 5
+    },
+    {
+      "skill": "Selenium",
+      "experience": 5
+    },
+    {
+      "skill": "JMeter",
+      "experience": 5
+    },
+    {
+      "skill": "GitHub",
+      "experience": 5
+    },
+    {
+      "skill": "Azure DevOps (ADO)",
+      "experience": 5
+    },
+    {
+      "skill": "Strong Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "MS Office Applications",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop test cases and automated QA testing scripts to thoroughly test applications as part of a CI/CD pipeline."
+    },
+    {
+      "duty": "Log defects discovered into defect repository and report test findings to IT Project Managers and/or Application Developers for corrective action."
+    },
+    {
+      "duty": "Design and maintain system processes, procedures, and support documentation based on lessons learned and continuous improvement."
+    },
+    {
+      "duty": "Perform analysis for system improvements and assist in system test design, system testing, and support of the user during transition stages."
+    },
+    {
+      "duty": "Proactively work with Application Developers to understand system logic and identify reasons for script failure."
+    },
+    {
+      "duty": "Keep abreast of emerging technology and trends in automated test development and provide recommendations to management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

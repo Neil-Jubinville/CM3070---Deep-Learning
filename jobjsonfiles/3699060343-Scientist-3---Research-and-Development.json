@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "job_title": "Scientist 3 - Research and Development",
+      "job_category": "Research and Development",
+      "job_class": "Scientist",
+      "sector": "Science",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cell Biology",
+      "experience": 5
+    },
+    {
+      "skill": "Assay Development",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Data Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "Team Teaching",
+      "experience": 5
+    },
+    {
+      "skill": "Experiment Design",
+      "experience": 5
+    },
+    {
+      "skill": "Presentation Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Cell Culture",
+      "experience": 5
+    },
+    {
+      "skill": "Immunoprecipitation",
+      "experience": 5
+    },
+    {
+      "skill": "Flow Cytometry",
+      "experience": 5
+    },
+    {
+      "skill": "siRNA/shRNA KD Assays",
+      "experience": 5
+    },
+    {
+      "skill": "ELISAs",
+      "experience": 5
+    },
+    {
+      "skill": "Transfection/Infection",
+      "experience": 5
+    },
+    {
+      "skill": "Capillary Protein Electrophoresis",
+      "experience": 5
+    },
+    {
+      "skill": "Cancer Biology",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and perform experiments for target validation and assay development in solid tumors for program advancement."
+    },
+    {
+      "duty": "Interpret complex data, rework experiments based on interpretations, and propose next steps."
+    },
+    {
+      "duty": "Teach others tasks and techniques, correct issues, and provide unsolicited ideas to the team."
+    },
+    {
+      "duty": "Prepare clear and concise summaries of data and present to the project team and senior colleagues."
+    },
+    {
+      "duty": "Work well in a collaborative environment, be organized, and demonstrate urgency and sensitivity to timelines."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "M.S. with 3-6 years of experience or B.S./B.A. with 4-12 years of experience, Strong cell biology and assay development skills are required. A good background in cancer biology is desirable. Prior biotech/pharma experience is preferred."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Technician/Driver",
+      "job_category": "Logistics",
+      "job_class": "Technician/Driver",
+      "sector": "Logistics",
+      "salary": 22000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Forklift Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Audio/Visual Fundamentals",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain inventory and manage shipping and receiving tasks in a warehouse environment."
+    },
+    {
+      "duty": "Operate forklifts and other warehouse equipment to move and organize items."
+    },
+    {
+      "duty": "Drive and maintain larger vehicles, including cargo vans and box trucks."
+    },
+    {
+      "duty": "Recognize and report potential repairs and maintenance needed on vehicles."
+    },
+    {
+      "duty": "Assist in the setup and teardown of audiovisual equipment for events."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma/GED or vocational training in logistics/warehouse management."
+    }
+  ]
+}

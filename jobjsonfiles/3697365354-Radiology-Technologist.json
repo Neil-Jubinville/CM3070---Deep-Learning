@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Radiology Technologist",
+      "job_category": "Healthcare",
+      "job_class": "Technologist",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Radiologic Technology",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Licensure Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Internship",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform diagnostic radiographic procedures to produce images for medical disorder diagnosis and treatment."
+    },
+    {
+      "duty": "Obtain and document patient information for appropriate exams."
+    },
+    {
+      "duty": "Ensure accuracy and quality control of radiographic exams."
+    },
+    {
+      "duty": "Apply ALARA principle to minimize ionizing radiation exposure."
+    },
+    {
+      "duty": "Contribute to a team approach to provide optimal quality patient care."
+    },
+    {
+      "duty": "Maintain annual licensure and comply with clinic policies."
+    },
+    {
+      "duty": "Participate in quality improvement activities and mandatory education."
+    },
+    {
+      "duty": "Assist in orienting new staff and training students."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Two year AMA accredited School of Radiologic Technology"
+    }
+  ]
+}

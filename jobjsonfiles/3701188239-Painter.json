@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Painter",
+      "job_category": "Skilled Trades",
+      "job_class": "Painter",
+      "sector": "Maintenance",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Painting",
+      "experience": 5
+    },
+    {
+      "skill": "Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Work Order Management",
+      "experience": 3
+    },
+    {
+      "skill": "Supply Management",
+      "experience": 3
+    },
+    {
+      "skill": "Vendor Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 3
+    },
+    {
+      "skill": "Invoicing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Paint interior and exterior areas of the property in accordance with Company guidelines."
+    },
+    {
+      "duty": "Assist the maintenance team with service requests and work order requests."
+    },
+    {
+      "duty": "Maintain neat, clean, and orderly work areas after painting or when work orders have otherwise been completed."
+    },
+    {
+      "duty": "Order and manage maintenance supplies while staying within planned budget."
+    },
+    {
+      "duty": "Assist supervisor with scheduling, communicating with vendors, and obtaining bids from outside contractors."
+    },
+    {
+      "duty": "Accurately prepare and submit property invoices in accordance with established guidelines."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

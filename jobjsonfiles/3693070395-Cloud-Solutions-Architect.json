@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Cloud Solutions Architect",
+      "job_category": "Engineering",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cloud Solution Design",
+      "experience": 8
+    },
+    {
+      "skill": "AWS Services",
+      "experience": 8
+    },
+    {
+      "skill": "Cloud Infrastructure Management",
+      "experience": 8
+    },
+    {
+      "skill": "Scripting (Shell, Python)",
+      "experience": 8
+    },
+    {
+      "skill": "Network Setup",
+      "experience": 8
+    },
+    {
+      "skill": "Cloud Security",
+      "experience": 8
+    },
+    {
+      "skill": "CloudFormation, Terraform, Ansible, Chef, or Puppet",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design highly available, scalable, and reliable cloud solutions with a focus on AWS environment and Microservices/Lambda functions."
+    },
+    {
+      "duty": "Configure AWS services and create pipelines for Microservices/Lambda functions using CDK."
+    },
+    {
+      "duty": "Define new architectures and drive projects from an architecture standpoint."
+    },
+    {
+      "duty": "Provision and manage AWS cloud infrastructure, including setup and configuration of VPC, subnets, and security groups."
+    },
+    {
+      "duty": "Set up network components such as DNS, LoadBalancer, Protocols, CIDRs, VPN, and SSL."
+    },
+    {
+      "duty": "Write scripts using Shell, Python, etc., and utilize tools such as CloudFormation, Terraform, Ansible, Chef, or Puppet."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 50,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

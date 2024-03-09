@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "job_title": "Azure Data Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Azure - ADF",
+      "experience": 3
+    },
+    {
+      "skill": "Azure - ADLS",
+      "experience": 3
+    },
+    {
+      "skill": "Azure Databricks",
+      "experience": 3
+    },
+    {
+      "skill": "Azure KeyVault",
+      "experience": 3
+    },
+    {
+      "skill": "CosmosDB",
+      "experience": 3
+    },
+    {
+      "skill": "Background Check",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Hands-on experience with Azure services like ADF, ADLS, Databricks, and KeyVault to design and build data pipelines and applications."
+    },
+    {
+      "duty": "Utilize CosmosDB for data storage and management, ensuring seamless integration and high performance."
+    },
+    {
+      "duty": "Participate in 2 rounds of video interviews to demonstrate technical expertise and problem-solving skills."
+    },
+    {
+      "duty": "Undergo a background check as part of the hiring process."
+    }
+  ]
+}

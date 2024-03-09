@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinary Support Assistant",
+      "job_category": "Veterinary",
+      "job_class": "Support Assistant",
+      "sector": "Healthcare",
+      "salary": 24,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Records Management",
+      "experience": 1
+    },
+    {
+      "skill": "Surgical Suite Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Prescription Filling",
+      "experience": 1
+    },
+    {
+      "skill": "Laboratory Work",
+      "experience": 1
+    },
+    {
+      "skill": "Diagnostic Imaging",
+      "experience": 1
+    },
+    {
+      "skill": "Compassionate Care",
+      "experience": 1
+    },
+    {
+      "skill": "Client Interaction",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain medical records and assist in the preparation of surgical suite and surgical patients."
+    },
+    {
+      "duty": "Fill prescriptions accurately and perform laboratory work and diagnostic imaging."
+    },
+    {
+      "duty": "Provide compassionate care for boarded and hospitalized pets, and create a low-stress atmosphere for clients and patients."
+    },
+    {
+      "duty": "Assist in maintaining a home away from home environment for boarded and hospitalized pets."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certified Veterinary Assistant (CVA) certification is preferred."
+    }
+  ]
+}

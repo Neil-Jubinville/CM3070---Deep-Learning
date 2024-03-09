@@ -1,0 +1,100 @@
+{
+  "meta": [
+    {
+      "job_title": "FULL STACK .NET Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ASP.NET MVC",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Server",
+      "experience": 5
+    },
+    {
+      "skill": "Entity Framework",
+      "experience": 5
+    },
+    {
+      "skill": "WCF Services",
+      "experience": 5
+    },
+    {
+      "skill": "HTML",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "Angular",
+      "experience": 5
+    },
+    {
+      "skill": "REST API",
+      "experience": 5
+    },
+    {
+      "skill": "SOAP",
+      "experience": 5
+    },
+    {
+      "skill": "XML technologies",
+      "experience": 5
+    },
+    {
+      "skill": "OO design",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "AWS services",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare experience",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Apply critical thinking to provide creative solutions to user needs"
+    },
+    {
+      "duty": "Direct/proven experience with ASP.NET MVC, SQL Server, Entity Framework, and WCF Services"
+    },
+    {
+      "duty": "Highly skilled in web interface technologies: HTML, JavaScript, Angular, REST API, SOAP, and XML technologies"
+    },
+    {
+      "duty": "Advanced understanding and experience in OO design"
+    },
+    {
+      "duty": "Ability to work within an Agile Methodology"
+    },
+    {
+      "duty": "Knowledge of AWS services"
+    },
+    {
+      "duty": "Healthcare experience"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ]
+}

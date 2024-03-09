@@ -1,0 +1,117 @@
+{
+  "meta": [
+    {
+      "job_title": "ForgeRock Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ForgeRock products",
+      "experience": 3
+    },
+    {
+      "skill": "Single Sign On",
+      "experience": 3
+    },
+    {
+      "skill": "SAML",
+      "experience": 3
+    },
+    {
+      "skill": "OAuth",
+      "experience": 3
+    },
+    {
+      "skill": "Java/J2EE",
+      "experience": 5
+    },
+    {
+      "skill": "Identity Management",
+      "experience": 3
+    },
+    {
+      "skill": "Access Management",
+      "experience": 3
+    },
+    {
+      "skill": "OpenAM",
+      "experience": 3
+    },
+    {
+      "skill": "OpenDJ",
+      "experience": 3
+    },
+    {
+      "skill": "OpenIDM",
+      "experience": 3
+    },
+    {
+      "skill": "Header based Single Sign On",
+      "experience": 3
+    },
+    {
+      "skill": "Identity Federation",
+      "experience": 3
+    },
+    {
+      "skill": "Multi-factor authentication",
+      "experience": 3
+    },
+    {
+      "skill": "Risk-based authentication",
+      "experience": 3
+    },
+    {
+      "skill": "UI customization",
+      "experience": 3
+    },
+    {
+      "skill": "LDAP directories",
+      "experience": 3
+    },
+    {
+      "skill": "Scripting",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support the delivery and support of high-quality Identity and Access Management services while adhering to client standards and best practices."
+    },
+    {
+      "duty": "Installation and configurations of ForgeRock products."
+    },
+    {
+      "duty": "Thorough understanding and work experience in Single Sign-On, Access Management, Identity Federation, Multi-factor authentication, and Risk-based authentication."
+    },
+    {
+      "duty": "Hands-On experience with ForgeRock UI customization, writing scripts, and developing code to fetch assertion values from multiple data sources."
+    },
+    {
+      "duty": "Experience with ForgeRock OpenIDM system for On-time provisioning / de-provisioning."
+    },
+    {
+      "duty": "Work with LDAP directories like OpenDJ."
+    },
+    {
+      "duty": "Develop and execute comprehensive marketing strategies to enhance brand visibility and promote freight and logistics services."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

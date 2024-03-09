@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Kubernetes Platform Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Infrastructure",
+      "experience": 5
+    },
+    {
+      "skill": "System Integration",
+      "experience": 5
+    },
+    {
+      "skill": "AWS, Azure, GCP",
+      "experience": 5
+    },
+    {
+      "skill": "Terraform, Ansible",
+      "experience": 5
+    },
+    {
+      "skill": "Linux Automation",
+      "experience": 5
+    },
+    {
+      "skill": "APM Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Identity and Access Management",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and sustain secure, resilient, and highly available Kubernetes clusters to support mission critical operations."
+    },
+    {
+      "duty": "Recommend tools and capabilities based on research of the current environment and knowledge of various on premise, cloud-based, and hybrid resources."
+    },
+    {
+      "duty": "Manage and deploy applications in an air-gapped environment."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams and communicate technical ideas and deliver briefings."
+    },
+    {
+      "duty": "Identify and build cloud-based solutions to help customers meet their evolving needs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    },
+    {
+      "credential": "Certified Kubernetes Application Developer (CKAD), Certified Kubernetes Administrator (CKA), or Certified Kubernetes Security (CKS) Certification"
+    },
+    {
+      "credential": "DoD 8570 IAT Level II Certification"
+    }
+  ]
+}

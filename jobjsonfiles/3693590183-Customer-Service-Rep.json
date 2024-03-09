@@ -1,0 +1,51 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Rep",
+      "job_category": "Customer Service",
+      "job_class": "Representative",
+      "sector": "Customer Service",
+      "salary": 13,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Verbal Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Navigation",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    },
+    {
+      "skill": "Multitasking",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide quality customer service and support through phone interactions"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

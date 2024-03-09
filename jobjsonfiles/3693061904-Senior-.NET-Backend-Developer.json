@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior .NET Backend Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior Developer",
+      "sector": "Software Engineering",
+      "salary": 137500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C#/.NET Core Development",
+      "experience": 5
+    },
+    {
+      "skill": "RabbitMQ/Messaging Systems",
+      "experience": 5
+    },
+    {
+      "skill": "PostgreSQL",
+      "experience": 5
+    },
+    {
+      "skill": "MongoDB",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "gRPC and RESTful API Design",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and maintain high-performance .NET backend applications using C# / .NET Core in Kubernetes environment."
+    },
+    {
+      "duty": "Integrate services with RabbitMQ (MassTransit) for asynchronous message processing and communication."
+    },
+    {
+      "duty": "Design, implement, and optimize database schemes in PostgreSQL & MongoDB, ensuring data integrity, performance, and security."
+    },
+    {
+      "duty": "Migrate the legacy codebase (.NET Core 3, ServiceFabric) to the new architecture."
+    },
+    {
+      "duty": "Collaborate with frontend, mobile and other developers, product managers and stakeholders to ensure the delivery of scalable and effective solutions."
+    },
+    {
+      "duty": "Provide technical leadership and mentorship to junior developers."
+    },
+    {
+      "duty": "Engage in code reviews and ensure that best practices are adhered to."
+    },
+    {
+      "duty": "Diagnose, troubleshoot, and resolve software defects and issues."
+    },
+    {
+      "duty": "Participate in architectural decisions and contribute to the optimization of backend systems."
+    },
+    {
+      "duty": "Keep updated with the latest industry trends and technologies to ensure the platform remains current and competitive."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 65,
+      "student_teacher": 150,
+      "introvert_extrovert": 105
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or a related field (Master's preferred)"
+    }
+  ]
+}

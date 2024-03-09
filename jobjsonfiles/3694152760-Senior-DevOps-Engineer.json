@@ -1,0 +1,112 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior DevOps Engineer",
+      "job_category": "Technology",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cloud Infrastructure Design",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Services",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD Pipeline",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Security",
+      "experience": 5
+    },
+    {
+      "skill": "Linux Systems Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Security Compliance Standards",
+      "experience": 5
+    },
+    {
+      "skill": "Programming Languages (Python, Perl, Shell, Bash)",
+      "experience": 5
+    },
+    {
+      "skill": "Agile/Scrum Development",
+      "experience": 5
+    },
+    {
+      "skill": "TCP/IP Network Protocols",
+      "experience": 5
+    },
+    {
+      "skill": "Security Forensics and Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Agile/Scrum Development",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting Complex Networks",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design secure, scalable, and highly available cloud infrastructure on AWS"
+    },
+    {
+      "duty": "Provision, configure, and maintain AWS cloud infrastructure defined as code"
+    },
+    {
+      "duty": "Build and maintain operational tools for deployment, monitoring, and analysis of AWS infrastructure and systems"
+    },
+    {
+      "duty": "Design, deploy and maintain a CI/CD pipeline across various development environments"
+    },
+    {
+      "duty": "Perform infrastructure cost analysis and optimization"
+    },
+    {
+      "duty": "Contribute to automation of code delivery pipeline with one-click deployments, rollbacks, and parameterized builds"
+    },
+    {
+      "duty": "Lead projects for new security solutions across a large-scale production cloud environment"
+    },
+    {
+      "duty": "Implement, configure, and upgrade cloud computer systems, servers, firewall, and network infrastructure using security best practices"
+    },
+    {
+      "duty": "Research security trends, identify business and technical requirements, perform technical evaluation, and support deployment of multi-regional security solutions"
+    },
+    {
+      "duty": "Review implementation of security controls, evaluate effectiveness, and make recommendations for improvements"
+    },
+    {
+      "duty": "Develop a strategy for dealing with audits, compliance checks, and external assessment processes"
+    },
+    {
+      "duty": "Act as primary control point during information security incidents"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

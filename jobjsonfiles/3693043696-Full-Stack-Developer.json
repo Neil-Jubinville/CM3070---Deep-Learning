@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Full Stack Developer",
+      "job_category": "Software Development",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Node.js",
+      "experience": 4
+    },
+    {
+      "skill": "React.js",
+      "experience": 4
+    },
+    {
+      "skill": "Full Stack Development",
+      "experience": 4
+    },
+    {
+      "skill": "Express.js",
+      "experience": 4
+    },
+    {
+      "skill": "MongoDB",
+      "experience": 4
+    },
+    {
+      "skill": "MySQL",
+      "experience": 4
+    },
+    {
+      "skill": "RESTful APIs",
+      "experience": 4
+    },
+    {
+      "skill": "JSON",
+      "experience": 4
+    },
+    {
+      "skill": "Websockets",
+      "experience": 4
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 4
+    },
+    {
+      "skill": "English Communication",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Developing and maintaining web applications using Node.js and React.js"
+    },
+    {
+      "duty": "Designing and implementing RESTful APIs to connect frontend components to the backend"
+    },
+    {
+      "duty": "Building scalable and high-performance applications using modern technologies"
+    },
+    {
+      "duty": "Writing clean and maintainable code following best practices and standards"
+    },
+    {
+      "duty": "Collaborating with cross-functional teams to identify and solve complex problems"
+    },
+    {
+      "duty": "Participating in code reviews to ensure the code meets quality standards"
+    },
+    {
+      "duty": "Continuously researching and evaluating new technologies to improve the development process"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 90,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": []
+}

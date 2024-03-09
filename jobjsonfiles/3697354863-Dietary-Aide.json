@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Dietary Aide",
+      "job_category": "Healthcare",
+      "job_class": "Aide",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Sanitary Regulations",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare food in accordance with sanitary regulations as well as established policies and procedures."
+    },
+    {
+      "duty": "Maintain the cleanliness of the serving kitchen and equipment."
+    },
+    {
+      "duty": "Assist in preparing and serving nutritional supplements and snacks under the direction of the Dietitian or designee."
+    },
+    {
+      "duty": "Develop and maintain a good working rapport with inter-department personnel as well as with other departments within the program to assure that food service can be properly maintained to meet the needs of the participants."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent required"
+    }
+  ]
+}

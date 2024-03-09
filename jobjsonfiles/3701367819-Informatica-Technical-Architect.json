@@ -1,0 +1,105 @@
+{
+  "meta": [
+    {
+      "job_title": "Informatica Technical Architect",
+      "job_category": "Software Engineering",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Informatica PowerCenter",
+      "experience": 5
+    },
+    {
+      "skill": "Informatica BQ",
+      "experience": 5
+    },
+    {
+      "skill": "Data Migration",
+      "experience": 5
+    },
+    {
+      "skill": "GCP Migration",
+      "experience": 5
+    },
+    {
+      "skill": "Google Big Query",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle Exadata",
+      "experience": 5
+    },
+    {
+      "skill": "Spark",
+      "experience": 5
+    },
+    {
+      "skill": "Py Spark",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Scrum",
+      "experience": 5
+    },
+    {
+      "skill": "ETL Processes",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Database Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the design, development, and implementation of end-to-end data integration solutions using Informatica PowerCenter, Data Quality, and IICS."
+    },
+    {
+      "duty": "Collaborate closely with cross-functional teams to understand business requirements and translate them into technical designs and data integration strategies."
+    },
+    {
+      "duty": "Plan and execute migrations from on-premises Informatica PowerCenter to Informatica Intelligent Cloud Services, including data validation and testing."
+    },
+    {
+      "duty": "Leverage experience in Google Big Query to optimize data storage and retrieval and ensure efficient and scalable data processing and analytics capabilities."
+    },
+    {
+      "duty": "Work with Oracle Exadata to design and optimize data storage solutions for high-performance data processing."
+    },
+    {
+      "duty": "Utilize Spark and PySpark to handle large-scale data processing, transformations, and analytics tasks."
+    },
+    {
+      "duty": "Implement Agile Scrum practices and methodologies to manage and deliver data integration projects effectively, ensuring timely completion and high-quality results."
+    },
+    {
+      "duty": "Provide technical guidance and support to development teams, ensuring adherence to best practices, standards, and data governance policies."
+    },
+    {
+      "duty": "Conduct performance tuning and troubleshooting of Informatica workflows, processes, and data integration pipelines."
+    },
+    {
+      "duty": "Stay up to date with the latest trends and advancements in data integration, cloud computing, and Agile Scrum practices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in computer science, Information Systems, or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Construction",
+      "job_class": "Manager",
+      "sector": "Construction",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Construction Management",
+      "experience": 5
+    },
+    {
+      "skill": "Project Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Logistics Management",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Assurance/Control",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Strategic Management",
+      "experience": 5
+    },
+    {
+      "skill": "Site Visits",
+      "experience": 5
+    },
+    {
+      "skill": "Gantt Chart Scheduling",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "MS Office Suite",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop comprehensive project plans for construction projects, coordinate, track, and lead all teams involved to project completion, while providing ongoing clarity to the customer regarding project status."
+    },
+    {
+      "duty": "Conduct pre-proposal scope reviews, select subcontractors/vendors, and build detailed product submittal packages for client approval before purchase orders are issued."
+    },
+    {
+      "duty": "Schedule and conduct all necessary pre-construction meetings and perform regular site visits."
+    },
+    {
+      "duty": "Manage product orders, deliveries, and related logistics, and meticulously track the status of every project."
+    },
+    {
+      "duty": "Strategically guide projects to completion, create and maintain Gantt schedules, and coordinate daily check-ins and weekly status meetings."
+    },
+    {
+      "duty": "Perform all necessary quality assurance/quality control measures before leading clients in final walkthroughs and prepare project closeout packages."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Construction Management, Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

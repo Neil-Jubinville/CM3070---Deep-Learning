@@ -1,0 +1,93 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr Penetration Tester",
+      "job_category": "Information Technology",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform internal application and product security assessments, including threat assessments of embedded systems, mobile applications, and web applications."
+    },
+    {
+      "duty": "Conduct research to identify new vulnerabilities and enhance existing capabilities. Circumvent security protection methods and techniques."
+    },
+    {
+      "duty": "Perform data bus monitoring and data injection, communications protocol analysis, and wireless communications channel snooping and data injection."
+    },
+    {
+      "duty": "Reverse engineer complex systems and protocols. Create detailed technical reports and proof of concept code to document findings."
+    },
+    {
+      "duty": "Proactively interact with engineering group for testing needs, progress/status, and provide detailed analysis report."
+    },
+    {
+      "duty": "Lead testing activities, interact with Testing Pillar lead, and provide support to peers and junior engineers. Preference to practical skills such as functional analysis, memory image capture, and static memory analysis."
+    },
+    {
+      "duty": "Contribute technically to the development lifecycle of an application, product, or service."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Information Security",
+      "experience": 8
+    },
+    {
+      "skill": "Application Security",
+      "experience": 8
+    },
+    {
+      "skill": "Embedded Product Security",
+      "experience": 8
+    },
+    {
+      "skill": "IT Risk Management",
+      "experience": 8
+    },
+    {
+      "skill": "Security Protocols",
+      "experience": 8
+    },
+    {
+      "skill": "Cryptography",
+      "experience": 8
+    },
+    {
+      "skill": "Threat Assessment",
+      "experience": 8
+    },
+    {
+      "skill": "Reverse Engineering",
+      "experience": 8
+    },
+    {
+      "skill": "Technical Report Writing",
+      "experience": 8
+    },
+    {
+      "skill": "Penetration Testing",
+      "experience": 8
+    },
+    {
+      "skill": "GitLab Issue Management",
+      "experience": 8
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 90,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in Information Technology, Computer Science, or related field. Advanced security qualifications such as CISSP, Offensive Security Web Expert (OSWE) or equivalent are preferred."
+    }
+  ]
+}

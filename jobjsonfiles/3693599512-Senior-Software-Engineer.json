@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Golang",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Distributed Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Big Data",
+      "experience": 5
+    },
+    {
+      "skill": "Real-Time Data Processing",
+      "experience": 5
+    },
+    {
+      "skill": "Apache Arrow",
+      "experience": 5
+    },
+    {
+      "skill": "Spark",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and implement big data, distributed, blockchain, and machine learning systems using modern tech stacks in Golang and Python."
+    },
+    {
+      "duty": "Work with founders to design the Spice.xyz technical roadmap and architecture to deliver lasting value to customers."
+    },
+    {
+      "duty": "Build high-performance and scalable architecture to meet the evolution and needs of a rapidly growing platform."
+    },
+    {
+      "duty": "Contribute improvements to the Spice.xyz Data & AI Platform."
+    },
+    {
+      "duty": "Co-build a major feature, like adding new chain support like Polygon."
+    },
+    {
+      "duty": "Take technical and engineering ownership of a major initiative or area."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or a related field (Master's preferred)"
+    }
+  ]
+}

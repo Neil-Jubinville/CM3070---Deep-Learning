@@ -1,0 +1,48 @@
+{
+  "meta": [
+    {
+      "job_title": "Part-time Sales Professional",
+      "job_category": "Sales",
+      "job_class": "Professional",
+      "sector": "Sales",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Scheduling",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist customers and provide excellent customer service in-store"
+    },
+    {
+      "duty": "Handle deliveries and reconcile inventory"
+    },
+    {
+      "duty": "Schedule staff and arrange displays in the store"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Hardware Design Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ASIC/SOC Tape-outs",
+      "experience": 10
+    },
+    {
+      "skill": "RTL Coding",
+      "experience": 10
+    },
+    {
+      "skill": "Synthesis",
+      "experience": 10
+    },
+    {
+      "skill": "Microarchitecture Specification",
+      "experience": 10
+    },
+    {
+      "skill": "Post-Silicon Debugging",
+      "experience": 10
+    },
+    {
+      "skill": "Scripting (Python/Perl)",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and refine IP microarchitecture specifications for complex hardware designs."
+    },
+    {
+      "duty": "Implement RTL coding in Verilog/System Verilog to create efficient and reliable hardware designs."
+    },
+    {
+      "duty": "Integrate IP blocks into larger SOC designs while ensuring seamless operation and interconnectivity."
+    },
+    {
+      "duty": "Contribute to the successful tape-out of ASIC/SOC designs using deep sub-micron technologies."
+    },
+    {
+      "duty": "Work on synthesis, timing constraints, power-performance-area (PPA) trade-offs, and post-silicon debugging."
+    },
+    {
+      "duty": "Utilize expertise in various micro-architecture areas, such as Control Paths, Memory hierarchies, and standard industry interfaces like AXI."
+    },
+    {
+      "duty": "Demonstrate proficiency in Fabric/Network on Chip, Networking ASICs, and IP integration through scripting."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 100,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s or master\u2019s degree in electrical or computer Engineering or related fields."
+    }
+  ]
+}

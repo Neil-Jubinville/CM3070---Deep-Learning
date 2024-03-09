@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Information Assurance Manager (IAM) Level I",
+      "job_category": "Information Technology",
+      "job_class": "Manager",
+      "sector": "Cyber Security",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "IA Management",
+      "experience": 5
+    },
+    {
+      "skill": "Cyber Security",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Management Framework",
+      "experience": 5
+    },
+    {
+      "skill": "Security Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implementation and operation of a DoD IS or system DoD Component within their CE."
+    },
+    {
+      "duty": "Obtain and maintain IA certification appropriate to position in accordance to DoD 8570.01-M."
+    },
+    {
+      "duty": "Understanding of the DOD Risk Management Framework Process (RMF), Certification and Accreditation (C&A) process."
+    },
+    {
+      "duty": "Knowledge of IA policy, procedures, and structure to develop, implement, and maintain a secure CE."
+    },
+    {
+      "duty": "Knowledge of how to use scanning and security assessment tools: RETINA, Security Readiness Review (SRR) scripts, STIG compliance, and DISA Gold-Disk."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Preferred Associate\u2019s degree in Cyber Security, OR five (5) years of recent specialized experience."
+    }
+  ]
+}

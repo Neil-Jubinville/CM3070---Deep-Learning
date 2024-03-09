@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Software Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Lead",
+      "sector": "Software Engineering",
+      "salary": 170000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 8
+    },
+    {
+      "skill": "AWS",
+      "experience": 8
+    },
+    {
+      "skill": "SQL",
+      "experience": 8
+    },
+    {
+      "skill": "Software Engineering",
+      "experience": 8
+    },
+    {
+      "skill": "Fintech",
+      "experience": 8
+    },
+    {
+      "skill": "Payments",
+      "experience": 8
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Full Stack Development",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop, test, and maintain software applications and systems to meet security, scalability, and performance requirements."
+    },
+    {
+      "duty": "Lead a full-stack team to ensure reliable and efficient services at scale."
+    },
+    {
+      "duty": "Work cross-functionally across multiple teams to deliver high-quality products."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100
+    },
+    {
+      "student_teacher": 80
+    },
+    {
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in Computer Science or equivalent"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "JavaScript Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "React",
+      "experience": 3
+    },
+    {
+      "skill": "Vue",
+      "experience": 3
+    },
+    {
+      "skill": "Angular",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Web Development",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop user features with JavaScript and frameworks."
+    },
+    {
+      "duty": "Collaborate for seamless design and integration."
+    },
+    {
+      "duty": "Write efficient, reusable code for optimal performance."
+    },
+    {
+      "duty": "Troubleshoot to maintain application functionality."
+    },
+    {
+      "duty": "Stay updated on industry trends."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

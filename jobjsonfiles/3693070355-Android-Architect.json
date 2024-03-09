@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Android Architect",
+      "job_category": "Software Development",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Android App Development",
+      "experience": 10
+    },
+    {
+      "skill": "Application Performance Engineering",
+      "experience": 10
+    },
+    {
+      "skill": "Architectural Design",
+      "experience": 2
+    },
+    {
+      "skill": "Mobile Networking",
+      "experience": 5
+    },
+    {
+      "skill": "Object-oriented Concepts",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Services",
+      "experience": 5
+    },
+    {
+      "skill": "RESTful Services",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the architectural design and development of production-level Android software systems."
+    },
+    {
+      "duty": "Review code, optimize, and engineer the performance of Android applications."
+    },
+    {
+      "duty": "Provide expert understanding and guidance on Android SDK and mobile networking concepts."
+    },
+    {
+      "duty": "Utilize cloud services such as Firebase or AWS for Android app development."
+    },
+    {
+      "duty": "Implement RESTful services and ensure the optimal performance of Android applications."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 20,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

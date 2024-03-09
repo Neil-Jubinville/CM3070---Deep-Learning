@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Hair Stylist",
+      "job_category": "Cosmetology",
+      "job_class": "Stylist",
+      "sector": "Salon",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Hair Design",
+      "experience": 1
+    },
+    {
+      "skill": "Haircuts",
+      "experience": 1
+    },
+    {
+      "skill": "Coloring",
+      "experience": 1
+    },
+    {
+      "skill": "Texture",
+      "experience": 1
+    },
+    {
+      "skill": "Makeup Application",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Relationship",
+      "experience": 1
+    },
+    {
+      "skill": "Product Recommendations",
+      "experience": 1
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 1
+    },
+    {
+      "skill": "Salon Duties",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform hair services including hair design, haircuts, color, texture, hair treatments, makeup applications, and ear piercing (where applicable)"
+    },
+    {
+      "duty": "Build personal and professional rapport with all guests"
+    },
+    {
+      "duty": "Provide professional product recommendations as part of all services"
+    },
+    {
+      "duty": "Meeting/exceeding all individual sales and productivity goals"
+    },
+    {
+      "duty": "Attending mandatory education events and workshops"
+    },
+    {
+      "duty": "Assisting in store duties (e.g., filling Salon retail displays and shelves)"
+    },
+    {
+      "duty": "Adhering to all Salon standards for guest service and cleanliness"
+    },
+    {
+      "duty": "Attending manager led monthly business development meetings to support personal business growth"
+    },
+    {
+      "duty": "Demonstrating your personal style (while adhering to the Ulta Beauty dress code)"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 20,
+      "student_teacher": 100,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Cosmetology and/or Barber license"
+    }
+  ]
+}

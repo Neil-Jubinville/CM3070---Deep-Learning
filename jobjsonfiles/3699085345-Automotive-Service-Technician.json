@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Automotive Service Technician",
+      "job_category": "Automotive",
+      "job_class": "Service Technician",
+      "sector": "Retail",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Automotive Repair",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Diagnostic Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Training",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    },
+    {
+      "skill": "ASE Certification",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform maintenance and repair orders with efficiency and in accordance with dealership standards"
+    },
+    {
+      "duty": "Diagnose, maintain, and repair vehicle automotive systems including engine, transmission, electrical steering, suspension, brakes, air-conditioning, etc."
+    },
+    {
+      "duty": "Explain mechanical diagnoses and required repairs in a non-technical manner to service advisors and customers"
+    },
+    {
+      "duty": "Test-drive vehicles before and after repairs, and test components and systems using diagnostic tools and special service equipment"
+    },
+    {
+      "duty": "Learn new technical information and techniques in formal training sessions to keep up with rapidly changing technology"
+    },
+    {
+      "duty": "Input all vehicle recommendations and complete check sheet in MPI"
+    },
+    {
+      "duty": "Find pricing and availability of needed parts in the 'notes' section in MPI"
+    },
+    {
+      "duty": "Report any damaged or defective equipment to management"
+    },
+    {
+      "duty": "Report any safety issues to management and ensure a clean working area"
+    },
+    {
+      "duty": "Complete all required training"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 75,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED, ASE Certification is a plus"
+    }
+  ]
+}

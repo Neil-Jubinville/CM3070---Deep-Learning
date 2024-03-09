@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Serviceman",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HVAC Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Mechanical Equipment Repair",
+      "experience": 4
+    },
+    {
+      "skill": "Preventive Maintenance",
+      "experience": 4
+    },
+    {
+      "skill": "Equipment Diagnosis",
+      "experience": 4
+    },
+    {
+      "skill": "EPA Refrigeration Certification",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform maintenance, repair, and replacement services on light commercial heating and cooling systems."
+    },
+    {
+      "duty": "Perform HVAC systems maintenance."
+    },
+    {
+      "duty": "Utilize practical working experience in residential, light commercial, or commercial mechanical equipment for preventive maintenance procedures and equipment diagnosis and repair."
+    },
+    {
+      "duty": "Satisfactorily pass an examination to identify special skills related to HVACR service."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

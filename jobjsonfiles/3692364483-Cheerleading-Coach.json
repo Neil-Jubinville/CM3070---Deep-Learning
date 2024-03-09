@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Cheerleading Coach",
+      "job_category": "Sports",
+      "job_class": "Coach",
+      "sector": "Sports",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cheerleading Techniques",
+      "experience": 5
+    },
+    {
+      "skill": "Choreography",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Team Management",
+      "experience": 5
+    },
+    {
+      "skill": "Event Planning",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and instruct a team of cheerleaders in a variety of techniques and choreographies."
+    },
+    {
+      "duty": "Manage the team's schedule and organize team events."
+    },
+    {
+      "duty": "Demonstrate knowledge of cheerleading techniques, terminology, and choreography."
+    },
+    {
+      "duty": "Communicate effectively and instruct a diverse group of athletes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Previous experience as a cheerleader or cheerleading coach"
+    }
+  ]
+}

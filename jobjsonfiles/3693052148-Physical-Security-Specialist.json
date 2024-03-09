@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Physical Security Specialist",
+      "job_category": "Security",
+      "job_class": "Specialist",
+      "sector": "Security",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Security",
+      "experience": 5
+    },
+    {
+      "skill": "Access Control",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Surveillance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Monitor and control access of employees and visitors in and out of restricted areas."
+    },
+    {
+      "duty": "Enforce proper identification and prevent prohibited and restricted items from entering or leaving the building."
+    },
+    {
+      "duty": "Provide directions to employees and visitors with patience and excellent customer service."
+    },
+    {
+      "duty": "Maintain physical security measures to protect critical assets."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 170
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or GED"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Administrative Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Management",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Team Player",
+      "experience": 3
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Technology Proficiency",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide exceptional in-office patient experience, patient intake, schedule management, billing and insurance knowledge."
+    },
+    {
+      "duty": "Perform front-of-house duties including check-in/check-out, insurance verification, prepping tests, and maintaining service level expectations."
+    },
+    {
+      "duty": "Contribute to team development, attend team huddles, support in-office providers, and master technology suite."
+    },
+    {
+      "duty": "Perform daily office upkeep, maintain the look and feel of patient and employee-facing spaces, and restock supplies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "At least 1 year of experience in high-touch customer or patient-facing roles with strong written and verbal communication skills in English"
+    }
+  ]
+}

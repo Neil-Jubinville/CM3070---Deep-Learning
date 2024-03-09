@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Store Manager",
+      "job_category": "Retail",
+      "job_class": "Manager",
+      "sector": "Retail",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Satisfaction",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Store Management",
+      "experience": 5
+    },
+    {
+      "skill": "Retail Loss Prevention",
+      "experience": 5
+    },
+    {
+      "skill": "Staff Supervision",
+      "experience": 5
+    },
+    {
+      "skill": "Fast-paced Retail Environment",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    },
+    {
+      "skill": "Point of Sale (POS) Systems",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage day-to-day operations, ensuring customer satisfaction and providing excellent customer service."
+    },
+    {
+      "duty": "Manage inventory and sales, implementing retail loss prevention strategies."
+    },
+    {
+      "duty": "Supervise and train staff, fostering collaboration and guiding their efforts towards achieving set goals."
+    },
+    {
+      "duty": "Implement retail loss prevention strategies to reduce shrinkage and maintain a visually appealing store environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business, Retail, or related field"
+    }
+  ]
+}

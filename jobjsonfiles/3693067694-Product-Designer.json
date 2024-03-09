@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Product Designer",
+      "job_category": "Design",
+      "job_class": "Designer",
+      "sector": "Engineering",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Product Design",
+      "experience": 5
+    },
+    {
+      "skill": "SolidWorks Modeling",
+      "experience": 2
+    },
+    {
+      "skill": "Drafting",
+      "experience": 5
+    },
+    {
+      "skill": "Tolerance Stackup",
+      "experience": 5
+    },
+    {
+      "skill": "Materials and Processes Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Design Liaison",
+      "experience": 5
+    },
+    {
+      "skill": "Proposal Drawings",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Lean Manufacturing",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conceptualize and design products according to customer and engineering specifications."
+    },
+    {
+      "duty": "Perform tolerance stackup to ensure parts compatibility and total design accuracy."
+    },
+    {
+      "duty": "Troubleshoot and solve design problems for project personnel, including design of test tooling."
+    },
+    {
+      "duty": "Act as the design liaison between suppliers, procurement, assembly, and test."
+    },
+    {
+      "duty": "Create and maintain product documentation, including layouts, assembly, sub-assembly, and detailed drawings."
+    },
+    {
+      "duty": "Direct or create proposal drawings from Engineering and Marketing inputs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate (A.S.) degree in design/drafting"
+    }
+  ]
+}

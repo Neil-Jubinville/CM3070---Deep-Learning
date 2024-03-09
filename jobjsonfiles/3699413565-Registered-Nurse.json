@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 4
+    },
+    {
+      "skill": "Nursing Process",
+      "experience": 4
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 4
+    },
+    {
+      "skill": "EMR Management",
+      "experience": 4
+    },
+    {
+      "skill": "Effective Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Compliance",
+      "experience": 4
+    },
+    {
+      "skill": "Clinical Ladder Program",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Promote and restore patients' health by completing the nursing process; collaborating with physicians and multidisciplinary team members; performing various treatment procedures; providing physical, educational and emotional support to patients, friends and families; supervising assigned team members."
+    },
+    {
+      "duty": "Develop and document individualized care plans customized for each patient\u2019s unique needs, with support from the interdisciplinary health team as needed; maintain effective communication to convey patient health status, treatment plans and progress."
+    },
+    {
+      "duty": "Demonstrate proficient use of an Electronic Health Record (EHR) \u2013 including accurate patient and provider documentation and communication."
+    },
+    {
+      "duty": "Adhere to required department and system protocols, regulations (local, state, federal) and education requirements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "AS: Nursing (Required), BLS - Basic Life Support - American Heart Association (AHA), RN - Registered Nurse - New York State Education Department (NYSED)"
+    }
+  ]
+}

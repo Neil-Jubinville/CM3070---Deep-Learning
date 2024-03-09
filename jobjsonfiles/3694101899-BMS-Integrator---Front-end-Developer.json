@@ -1,0 +1,127 @@
+{
+  "meta": [
+    {
+      "job_title": "BMS Integrator / Front-end Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "BMS Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "Siemens Desigo CC 4.2",
+      "experience": 5
+    },
+    {
+      "skill": "BacNet Editor",
+      "experience": 5
+    },
+    {
+      "skill": "Remote Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Graphics Design",
+      "experience": 5
+    },
+    {
+      "skill": "Field Device Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Expertise",
+      "experience": 5
+    },
+    {
+      "skill": "IT Systems and Networks",
+      "experience": 5
+    },
+    {
+      "skill": "Network Security",
+      "experience": 5
+    },
+    {
+      "skill": "Shop Drawings Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Applications",
+      "experience": 5
+    },
+    {
+      "skill": "HVAC and Power Monitoring Systems",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Configure the Building Management System (BMS) front-end to communicate with BMS field devices."
+    },
+    {
+      "duty": "Migrate client data from Desigo 3.0 environment to new environment."
+    },
+    {
+      "duty": "Create and update graphics, alarm set points, trending, documentation, and authorization within BMS."
+    },
+    {
+      "duty": "Test and review completed integration with stakeholders."
+    },
+    {
+      "duty": "Track and report on project progress."
+    },
+    {
+      "duty": "Grant user access."
+    },
+    {
+      "duty": "Configure updates/changes via Change Requests."
+    },
+    {
+      "duty": "Perform User Access and Audit Trail reviews."
+    },
+    {
+      "duty": "Integrate building management devices into existing building management system front-end."
+    },
+    {
+      "duty": "Discover new or re-discover existing controllers and import points into BMS."
+    },
+    {
+      "duty": "Remote troubleshoot field device communications and direct others to resolve issues."
+    },
+    {
+      "duty": "Update point descriptions, trending, alarm set points, and authorization scopes."
+    },
+    {
+      "duty": "Create graphics, graphic templates, and associate points to graphics."
+    },
+    {
+      "duty": "Copy existing floor plans to update BMS background graphics."
+    },
+    {
+      "duty": "Provide technical expertise to work with Siemens and any third-party hosting vendors to upgrade Desigo and build out a new Dev-Val-Prod environment."
+    },
+    {
+      "duty": "Author design/config specs and administration SOPs."
+    },
+    {
+      "duty": "Execute validation test cases."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree"
+    }
+  ]
+}

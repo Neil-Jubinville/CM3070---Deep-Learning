@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Superintendent",
+      "job_category": "Construction",
+      "job_class": "Management",
+      "sector": "Construction",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Construction Safety",
+      "experience": 5
+    },
+    {
+      "skill": "Subcontractor Coordination",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Software",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensure safe practices are used in the execution of project work"
+    },
+    {
+      "duty": "Assist with the development and communication of the project plan to include the project schedule, site logistics, safety and quality programs"
+    },
+    {
+      "duty": "Coordinate the work of multiple subcontractors and lead subcontractor coordination meetings on a regular basis"
+    },
+    {
+      "duty": "Maintain daily reports"
+    },
+    {
+      "duty": "Assure all work is installed in accordance with the contract documents"
+    },
+    {
+      "duty": "Assist in resolving construction issues to maintain productivity of subcontractors"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 90,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED (Bachelor's degree preferred)"
+    }
+  ]
+}

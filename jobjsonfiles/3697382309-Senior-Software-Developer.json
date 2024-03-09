@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Developer",
+      "job_category": "Software Development",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 145000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Spring Boot",
+      "experience": 3
+    },
+    {
+      "skill": "UI Development (ReactJS)",
+      "experience": 1
+    },
+    {
+      "skill": "Kafka",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Maven",
+      "experience": 5
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud-based Development",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 3
+    },
+    {
+      "skill": "Amazon Web Services",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop and deploy cloud-based, enterprise-scale web applications."
+    },
+    {
+      "duty": "Collaborate with and across Agile squads in an Agile environment."
+    },
+    {
+      "duty": "Debug and/or recommend system efficiencies and improvements."
+    },
+    {
+      "duty": "Adhere to and promote Agile and technical best practices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 40,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree or higher in Computer Science, engineering or related field."
+    }
+  ]
+}

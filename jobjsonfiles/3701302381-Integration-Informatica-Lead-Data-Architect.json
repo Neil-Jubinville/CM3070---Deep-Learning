@@ -1,0 +1,110 @@
+{
+  "meta": [
+    {
+      "job_title": "Integration Informatica Lead Data Architect",
+      "job_category": "Data Architect",
+      "job_class": "Lead",
+      "sector": "Healthcare/Pharma",
+      "salary": 135000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ETL Development",
+      "experience": 6
+    },
+    {
+      "skill": "Informatica Mappings",
+      "experience": 6
+    },
+    {
+      "skill": "SQL",
+      "experience": 6
+    },
+    {
+      "skill": "Integration Technologies",
+      "experience": 6
+    },
+    {
+      "skill": "Airflow",
+      "experience": 5
+    },
+    {
+      "skill": "API/REST",
+      "experience": 5
+    },
+    {
+      "skill": "JSON",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 5
+    },
+    {
+      "skill": "Git Repositories",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 4
+    },
+    {
+      "skill": "Pytest Framework",
+      "experience": 4
+    },
+    {
+      "skill": "Cloud Platforms (AWS, Azure)",
+      "experience": 4
+    },
+    {
+      "skill": "Program Languages (Java, JavaScript, C/C++)",
+      "experience": 4
+    },
+    {
+      "skill": "Azure DevOps, JIRA",
+      "experience": 4
+    },
+    {
+      "skill": "Builds and Deployments",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Development and maintenance of Informatica Mappings, Workflows, and processes for ETL in a data warehouse environment."
+    },
+    {
+      "duty": "Programming against large data assets using SQL and integration technologies."
+    },
+    {
+      "duty": "Experience with Airflow or other automated job scheduling tools."
+    },
+    {
+      "duty": "Working on an Agile Development team and delivering features incrementally."
+    },
+    {
+      "duty": "Experience with API/REST, JSON, and working with Git repositories."
+    },
+    {
+      "duty": "Developing in Python and working with Pytest framework or other testing frameworks."
+    },
+    {
+      "duty": "Experience with cloud platforms (AWS, Azure) and familiarity with a variety of program languages."
+    },
+    {
+      "duty": "Working knowledge of setting up builds and deployments using Azure DevOps, JIRA, or similar project tracking software."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field (Master's preferred)"
+    }
+  ]
+}

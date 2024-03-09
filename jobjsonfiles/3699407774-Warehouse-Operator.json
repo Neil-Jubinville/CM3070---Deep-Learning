@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Operator",
+      "job_category": "Warehouse",
+      "job_class": "Operator",
+      "sector": "Logistics",
+      "salary": 21,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Material Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Order Fulfillment",
+      "experience": 1
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "Forklift Operation",
+      "experience": 1
+    },
+    {
+      "skill": "Workplace Safety",
+      "experience": 1
+    },
+    {
+      "skill": "Basic English Language Proficiency",
+      "experience": 1
+    },
+    {
+      "skill": "Physical Fitness",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate machinery to move materials around a facility for shipping, processing, and receiving."
+    },
+    {
+      "duty": "Catalog, record, and organize materials received at the warehouse."
+    },
+    {
+      "duty": "Fulfill customer orders by reading production schedules, order forms, and requisitions."
+    },
+    {
+      "duty": "Locate, gather, and transport products to production workers, assembly line, or shipping areas."
+    },
+    {
+      "duty": "Operate hand truck, cart, doilies, forklift, order-picker, and walkie to transport items."
+    },
+    {
+      "duty": "Maintain a clean and safe work area."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or General Education Degree (GED)"
+    }
+  ]
+}

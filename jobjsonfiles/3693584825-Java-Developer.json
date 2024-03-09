@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Java Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 140400,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AWS Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "API Rest Services",
+      "experience": 5
+    },
+    {
+      "skill": "PostgreSQL",
+      "experience": 5
+    },
+    {
+      "skill": "Cross-Departmental Teamwork",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Ability to Ramp Up Quickly",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for backfilling new API work and/or working on the FRB integration."
+    },
+    {
+      "duty": "Work on the Trust and Safety Technology organization within Client Sanctions Screening Tech."
+    },
+    {
+      "duty": "Work with cross-departmental teams including Product, Ops, Business and Tech."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 30,
+      "introvert_extrovert": 15
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering or equivalent (Master's preferred)"
+    }
+  ]
+}

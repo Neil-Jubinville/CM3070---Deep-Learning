@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Vocational Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performs individualized nursing care for patients/families under the direction of an RN."
+    },
+    {
+      "duty": "Uses and practices basic assessment data collection, participates in planning, executes interventions in accordance with the Plan Of Care, and contributes to the evaluation of outcomes."
+    },
+    {
+      "duty": "Communicates to ensure patient/family educated Plan Of Care and planned treatments."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Assessment",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Care Planning",
+      "experience": 2
+    },
+    {
+      "skill": "Documentation",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "1 Year LVN experience in an acute care setting or related area"
+    },
+    {
+      "credential": "AHA Basic Life Support for Healthcare Professional (AHA BLS Healthcare) - American Heart Association - REQUIRED"
+    },
+    {
+      "credential": "California Licensed Vocational Nurse (LVN) - CA Board of Vocational Nursing & Psychiatric Technicians - REQUIRED"
+    }
+  ]
+}

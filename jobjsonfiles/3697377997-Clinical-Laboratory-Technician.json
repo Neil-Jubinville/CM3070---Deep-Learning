@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Clinical Laboratory Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performs routine laboratory procedures according to standardized methodology."
+    },
+    {
+      "duty": "Maintains quality results by running standards and controls, verifying equipment function through routine equipment maintenance and advanced troubleshooting; calibrating equipment utilizing approved testing procedures; monitoring quality control measures and protocols."
+    },
+    {
+      "duty": "Provides test results for patient diagnosis and treatment by operating equipment such as analyzers, spectrophotometers, colorimeters, flame photometers, and other laboratory equipment; completes preventive maintenance requirements; follows manufacturer's instructions; troubleshoots malfunctions."
+    },
+    {
+      "duty": "Maintains laboratory supplies inventory by checking stock to determine inventory level; anticipating needed supplies; placing and expediting orders for supplies; verifying receipt of supplies."
+    },
+    {
+      "duty": "Conserves laboratory resources by using equipment and supplies as needed to accomplish job results."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Laboratory Testing",
+      "experience": 2
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Control Measures",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate degree in an accredited Medical Laboratory Technician Program"
+    },
+    {
+      "credential": "American Society for Clinical Pathology (ASCP) MLT certification or eligible to take MLT certification exam and must be certified within one year of hire or transfer."
+    },
+    {
+      "credential": "Completion of clinical internship."
+    }
+  ]
+}

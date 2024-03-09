@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Project Manager",
+      "job_category": "Technology",
+      "job_class": "Project Manager",
+      "sector": "Technology",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "End-to-End Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage and oversee the migration of on-prem hardware to a hosted vendor for production applications."
+    },
+    {
+      "duty": "Lead and coordinate technical teams involved in the large-scale project, ensure proper management of mini projects within the larger scale project."
+    },
+    {
+      "duty": "Define project activities, identify gaps, and drive output to achieve project goals."
+    },
+    {
+      "duty": "Drive the project from a technology perspective, ensuring proactive problem-solving and timely escalation of issues to senior management."
+    },
+    {
+      "duty": "Apply existing knowledge of PL environment to the project roadmap, manage risks, track progress, report status, handle changes, and facilitate issue resolution."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

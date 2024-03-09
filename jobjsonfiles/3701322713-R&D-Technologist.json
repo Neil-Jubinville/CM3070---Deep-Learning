@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "R&D Technologist",
+      "job_category": "Science",
+      "job_class": "Technologist",
+      "sector": "Engineering",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop, execute, analyze, and document bench-scale experimental processes to achieve research program goals."
+    },
+    {
+      "duty": "Provide accurate and reliable sample test data to support internal and external customers utilizing specialized instrumentation and associated techniques."
+    },
+    {
+      "duty": "Construct, operate, troubleshoot, and maintain lab-scale reaction equipment and perform necessary analytical functions to analyze, report, and document experimental results."
+    },
+    {
+      "duty": "Perform sample analysis, technical writing, and execution of analytical methods using specialized laboratory instruments."
+    },
+    {
+      "duty": "Follow safe work practices for handling chemicals, and work in a collaborative team environment to develop analytical methods."
+    },
+    {
+      "duty": "Communicate the value created from experimental results."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Chemistry",
+      "experience": 5
+    },
+    {
+      "skill": "Laboratory Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Instrumentation",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Operation",
+      "experience": 5
+    },
+    {
+      "skill": "Experimental Techniques",
+      "experience": 5
+    },
+    {
+      "skill": "Data Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Protocols",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in chemistry or a related discipline (Master\u2019s preferred)"
+    },
+    {
+      "credential": "2 years of relevant experience working in a research or analytical lab"
+    }
+  ]
+}

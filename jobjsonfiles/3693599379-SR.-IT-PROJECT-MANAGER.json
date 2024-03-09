@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "SR. IT PROJECT MANAGER",
+      "job_category": "Information Technology",
+      "job_class": "Project Manager",
+      "sector": "Software Engineering",
+      "salary": 125000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "IT Project Management",
+      "experience": 7
+    },
+    {
+      "skill": "Data Migration",
+      "experience": 7
+    },
+    {
+      "skill": "M&A Integration",
+      "experience": 7
+    },
+    {
+      "skill": "CRM Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Sunsetting/Decommissioning",
+      "experience": 5
+    },
+    {
+      "skill": "PMP Certification",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage cross-functional projects from product/technology roadmap to product and solution delivery, covering a range of projects including the integration of existing processes into enterprise CRM platforms and the sunsetting of legacy applications."
+    },
+    {
+      "duty": "Work with various departments across the enterprise to identify existing processes and determine the level of effort to map them into the new platforms."
+    },
+    {
+      "duty": "Engage with the Development Team to design and migrate the processes to the appropriate platform."
+    },
+    {
+      "duty": "Plan and execute the decommission of MS Dynamics and the data preservation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Information Technology, Computer Science, or a related field (PMP Certification preferred)"
+    }
+  ]
+}

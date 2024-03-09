@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "AI Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 200000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Artificial Intelligence",
+      "experience": 5
+    },
+    {
+      "skill": "Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "AI Product Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Proposing and conducting experiments with generative AI to enhance engineering processes, including problem decomposition, solution design, code generation, and advanced troubleshooting."
+    },
+    {
+      "duty": "Documenting best practices and techniques in playbooks and guides that enable others to harness the power of generative AI effectively."
+    },
+    {
+      "duty": "Using AI tools and techniques to develop and ship actual features and products."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Software Engineering, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Personal Assistant",
+      "job_category": "Personal Assistance",
+      "job_class": "Assistant",
+      "sector": "Personal",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Calendar scheduling, organization, and management for personal and family needs"
+    },
+    {
+      "duty": "Assist with time management and prioritizing tasks and deadlines"
+    },
+    {
+      "duty": "Booking flight and travel arrangements, meal reservations, etc."
+    },
+    {
+      "duty": "Update contact database with accurate and current information"
+    },
+    {
+      "duty": "Assistance with event coordinating and execution as needed"
+    },
+    {
+      "duty": "Picking up kids from school and activities"
+    },
+    {
+      "duty": "Coordinating and managing household vendors"
+    },
+    {
+      "duty": "Assorted errands and other miscellaneous tasks appropriate to a personal assistant"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Organization",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "Event Coordinating",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

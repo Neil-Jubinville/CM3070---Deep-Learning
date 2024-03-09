@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Nurse I",
+      "job_category": "Nursing",
+      "job_class": "Staff Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Administer patient care with a high degree of skill, as prescribed by a physician."
+    },
+    {
+      "duty": "Establish nursing care goals for an individual patient or a patient group, formulates patient care plans, and motivates nursing personnel to follow plans and recognize the relationship of each aspect of care to ultimate goals."
+    },
+    {
+      "duty": "Explains departmental and unit policies and procedures, identifies and reports policy and procedural deficiencies, and evaluates new policies and procedures."
+    },
+    {
+      "duty": "Demonstrates nursing procedures and techniques to assure staff\u2019s ability to render effective care."
+    },
+    {
+      "duty": "Establishes short-range goals for patient instruction and rehabilitation, plans assignments of nursing personnel to implement these goals, and assists in patient and family instruction."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Therapeutic Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Healthcare Policy Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Nursing Procedure Demonstration",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Instruction",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 70,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Eligibility for licensure as a Registered Professional Nurse with the Illinois Department of Financial and Professional Regulation, Division of Professional Regulation. Current AHA BLS/CPR and other required unit specific certifications."
+    }
+  ]
+}

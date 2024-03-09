@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Linux Administrator",
+      "job_category": "Information Technology",
+      "job_class": "Administrator",
+      "sector": "Database Admin and Shared Platform Services",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Linux Administration",
+      "experience": 6
+    },
+    {
+      "skill": "Talend",
+      "experience": 5
+    },
+    {
+      "skill": "Data Integration",
+      "experience": 5
+    },
+    {
+      "skill": "ETL",
+      "experience": 5
+    },
+    {
+      "skill": "Talend ESB",
+      "experience": 5
+    },
+    {
+      "skill": "Broadcom Layer7 API Gateway",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Server",
+      "experience": 5
+    },
+    {
+      "skill": "mySQL",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Configure and support Talend Administrator center in a Linux environment."
+    },
+    {
+      "duty": "Install, monitor, patch, and upgrade Talend suite in a Linux environment."
+    },
+    {
+      "duty": "Provide technical leadership and guidance for long-term vision in the Database Administration area."
+    },
+    {
+      "duty": "Execute Talend Data integrations on a weekly basis."
+    },
+    {
+      "duty": "Communicate technical direction and ensure stability, reliability, and integration of systems."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in a related field (Higher education or Master's preferred)"
+    }
+  ]
+}

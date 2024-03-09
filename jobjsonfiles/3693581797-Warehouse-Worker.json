@@ -1,0 +1,46 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Worker",
+      "job_category": "Warehouse",
+      "job_class": "Entry Level",
+      "sector": "Warehouse",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Fast paced and physical warehouse work \n- Loading, unloading, and sorting of packages of various sizes.\n- Part time employees work one shift a day; full time employees work two shifts.\n- Shift lengths vary based on package volume \n- Generally part time employees work between 3 and 6 hours a day. Full time employees can expect to work between 6 and 10 hours.\n- Overtime paid after 40 hours a week."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Stamina",
+      "experience": 1
+    },
+    {
+      "skill": "Package Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Time Management",
+      "experience": 1
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 1
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 1
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 180
+    }
+  ]
+}

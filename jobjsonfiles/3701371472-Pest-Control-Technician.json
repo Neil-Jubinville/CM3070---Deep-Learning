@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Pest Control Technician",
+      "job_category": "Pest Control",
+      "job_class": "Technician",
+      "sector": "Service",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Pest Control",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Driving",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Time Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver pest control services to customers, ensuring safety and effectiveness of treatments."
+    },
+    {
+      "duty": "Build and maintain relationships with customers, schedule appointments, and provide sales support."
+    },
+    {
+      "duty": "Operate a company-provided truck and use state-of-the-art tools to carry out pest control activities."
+    },
+    {
+      "duty": "Adhere to safety protocols and regulations while working in various environments, both indoors and outdoors."
+    },
+    {
+      "duty": "Document and report on pest control activities, maintaining accurate records and paperwork."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED; or one to three months related experience and/or training; or equivalent combination of education and experience. State-required licenses/certificates."
+    }
+  ]
+}

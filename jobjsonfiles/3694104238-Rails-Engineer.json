@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Rails Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Ruby on Rails Development",
+      "experience": 5
+    },
+    {
+      "skill": "Git",
+      "experience": 5
+    },
+    {
+      "skill": "CircleCI",
+      "experience": 5
+    },
+    {
+      "skill": "Sentry.io",
+      "experience": 5
+    },
+    {
+      "skill": "Heroku",
+      "experience": 5
+    },
+    {
+      "skill": "Redis",
+      "experience": 5
+    },
+    {
+      "skill": "PostgreSQL",
+      "experience": 5
+    },
+    {
+      "skill": "HTML/CSS/ReactJS",
+      "experience": 4
+    },
+    {
+      "skill": "Stripe Integration",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage infrastructure, application, and architecture strategy for the company."
+    },
+    {
+      "duty": "Analyze application performance metrics and propose optimizations."
+    },
+    {
+      "duty": "Work with cross-functional teams to empower content creation and integration with moving partner CRMs."
+    },
+    {
+      "duty": "Review pull requests and propose architectural and technical solutions."
+    },
+    {
+      "duty": "Write elegant and readable code with reasonable test coverage."
+    },
+    {
+      "duty": "Provide technical solutions and estimates in layman terms and work well with non-technical team members."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science or relevant field (or equivalent experience)"
+    }
+  ],
+  "salary": 105000
+}

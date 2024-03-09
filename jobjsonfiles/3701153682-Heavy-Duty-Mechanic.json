@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Heavy-Duty Mechanic",
+      "job_category": "Mechanical",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Hydraulics",
+      "experience": 5
+    },
+    {
+      "skill": "Welding",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Heavy Industry Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Vehicle Inspection",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing maintenance and repairs on various heavy-duty equipment such as forklifts, loaders, skid steer, and maintenance trucks."
+    },
+    {
+      "duty": "Ensuring safety standards are met and following safe work procedures."
+    },
+    {
+      "duty": "Operating mobile equipment for test purposes and conducting vehicle inspections."
+    },
+    {
+      "duty": "Performing routine maintenance, adjustments, and repairs on heavy machinery and equipment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "3-5 years' experience as a Heavy-Duty Mechanic"
+    }
+  ]
+}

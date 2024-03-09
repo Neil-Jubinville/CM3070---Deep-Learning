@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "CMDB Business Analyst",
+      "job_category": "Technology",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 115000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ServiceNow CMDB",
+      "experience": 2
+    },
+    {
+      "skill": "ServiceNow Discovery",
+      "experience": 2
+    },
+    {
+      "skill": "Service Mapping",
+      "experience": 2
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Process",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Gather, validate, and maintain accurate data on all IT assets and configurations, including hardware, software, network devices, applications, and services."
+    },
+    {
+      "duty": "Identify and document relationships and dependencies between different IT assets, enabling accurate impact analysis and understanding of the IT landscape."
+    },
+    {
+      "duty": "Ensure data accuracy and integrity within the CMDB by performing regular audits, resolving discrepancies, and eliminating duplicates."
+    },
+    {
+      "duty": "Collaborate with other IT teams to optimize and refine processes related to CMDB management, aiming to increase efficiency and accuracy."
+    },
+    {
+      "duty": "Generate reports and conduct data analysis to provide insights into IT asset utilization, performance, and compliance."
+    },
+    {
+      "duty": "Create and maintain documentation related to CMDB processes, procedures, and guidelines."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in a technical field such as computer science, computer engineering, or related field preferred"
+    },
+    {
+      "credential": "ITIL Foundation v3 or v4 certification desired"
+    }
+  ]
+}

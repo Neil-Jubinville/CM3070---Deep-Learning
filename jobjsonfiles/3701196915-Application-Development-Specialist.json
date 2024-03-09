@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Application Development Specialist",
+      "job_category": "Development",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AWS Serverless Development",
+      "experience": 3
+    },
+    {
+      "skill": "Python",
+      "experience": 3
+    },
+    {
+      "skill": "Relational Databases",
+      "experience": 3
+    },
+    {
+      "skill": "Microservice Design",
+      "experience": 3
+    },
+    {
+      "skill": "API integration and management",
+      "experience": 3
+    },
+    {
+      "skill": "Continuous Integration/Delivery",
+      "experience": 3
+    },
+    {
+      "skill": "Data Movement and Engineering",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Construct and implement software within an AWS environment (API, persistence, integrations)"
+    },
+    {
+      "duty": "Manage the full lifecycle of back-office application development; from designing, building, testing, deploying, to monitoring"
+    },
+    {
+      "duty": "Champion lean-Agile, DevOps principles and practices (e.g., CI/CD; you build it, you own it), and independent architecture, while supporting a culture of innovation and continuous learning"
+    },
+    {
+      "duty": "Perform technical tasks including estimating, analysis, technical requirements, design, construction and unit & integration testing following SDLC"
+    },
+    {
+      "duty": "Participate and enhance organizational initiatives by positively influencing and supporting change management and/or departmental/enterprise initiatives within assigned area(s) of responsibility."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in computer science or equivalent work experience (Master's preferred)"
+    }
+  ]
+}

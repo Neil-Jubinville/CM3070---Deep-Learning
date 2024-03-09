@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Oracle Access Management Consultant",
+      "job_category": "Information Technology",
+      "job_class": "Consultant",
+      "sector": "Information Technology",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Access Management",
+      "experience": 5
+    },
+    {
+      "skill": "SaaS Authentication Management",
+      "experience": 5
+    },
+    {
+      "skill": "User Provisioning",
+      "experience": 5
+    },
+    {
+      "skill": "Application Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "Report Creation",
+      "experience": 5
+    },
+    {
+      "skill": "Middleware Management",
+      "experience": 5
+    },
+    {
+      "skill": "Application Security",
+      "experience": 5
+    },
+    {
+      "skill": "BI Security",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle Identity Management",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Management Cloud",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implementation and management of access management in SaaS, PaaS, EPM, FAW, and Warehouse Management System apps."
+    },
+    {
+      "duty": "Authentication and user provisioning for middleware and SaaS applications."
+    },
+    {
+      "duty": "Configuration and customization of applications, including service offerings, SSO, and page customization."
+    },
+    {
+      "duty": "Administration and content management of RMC, BI, and OTBI security."
+    },
+    {
+      "duty": "Federation of access between SaaS and PaaS, and user access request and administration."
+    },
+    {
+      "duty": "Good to have: Oracle Risk Management Cloud skills, including model and control creation, migration, deployment, and ESS and RMC jobs schedule maintenance."
+    },
+    {
+      "duty": "Secondary skills include BI report creation and maintenance, and working with Oracle for issues as applicable."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

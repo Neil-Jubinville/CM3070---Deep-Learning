@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Lab Services Specialist",
+      "job_category": "Healthcare",
+      "job_class": "Specialist",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Phlebotomy",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Specimen Collection",
+      "experience": 2
+    },
+    {
+      "skill": "EKG/ECG",
+      "experience": 2
+    },
+    {
+      "skill": "Vital Signs Monitoring",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Record Management",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Technology Proficiency",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide best in class venipuncture services on a population ranging from pediatrics to geriatrics"
+    },
+    {
+      "duty": "Perform and assist with extended scope duties such as, but not limited to non-blood specimen collection, EKGs/ECGs, vitals, ear lavages, vaccines, PPD tests, and swabs"
+    },
+    {
+      "duty": "Maintain high standards of in-office care through proper specimen labeling, handling and processing, inventory upkeep, and tool sterilization"
+    },
+    {
+      "duty": "Continue to care for our members beyond the lab room by answering patient messages, following up on lab cases and assisting our providers and virtual medical team with clerical duties such as, but not limited to biometric screening forms, medical record and consult review, billing inquiries, and DOH reporting"
+    },
+    {
+      "duty": "Master our technology suite including, but not limited to Slack, G-suite, Zoom, and our Electronic Medical Record System 1Life, in order to interact with team members and complete daily work"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Active phlebotomy certification to practice in CA and at least 6 months of experience practicing phlebotomy post externship"
+    },
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

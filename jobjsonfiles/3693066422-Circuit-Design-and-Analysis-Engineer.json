@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Circuit Design and Analysis Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Logic and Transistor Level Circuit Design",
+      "experience": 5
+    },
+    {
+      "skill": "CAD Tools",
+      "experience": 5
+    },
+    {
+      "skill": "CMOS Transistor Design",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "High-Performance Design",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement working knowledge of principles of logic and transistor level circuit design, CAD tools and expertise in one of many functional areas (e.g., clocks, standard cell libraries, synthesis, place and route, electrical analysis, etc.)."
+    },
+    {
+      "duty": "Innovate and improve the design. Point out lower power and higher performance tradeoffs."
+    },
+    {
+      "duty": "Preparing schedules and scope several months in advance, such as building the analysis schedule for a given flow step or setting the delivery of a circuit macro across the project."
+    },
+    {
+      "duty": "Prepare well thought out recommendations for technical reviews (e.g., design tradeoffs, bringing a list of various options to a technical review, then submitting a strong recommendation)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "MS degree in Electrical Engineering"
+    }
+  ]
+}

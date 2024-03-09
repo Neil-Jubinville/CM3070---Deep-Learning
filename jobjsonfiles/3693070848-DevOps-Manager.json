@@ -1,0 +1,109 @@
+{
+  "meta": [
+    {
+      "job_title": "DevOps Manager",
+      "job_category": "Technology",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 155000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "DevOps Management",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Computing",
+      "experience": 5
+    },
+    {
+      "skill": "Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Infrastructure Services",
+      "experience": 5
+    },
+    {
+      "skill": "Incident Management",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 5
+    },
+    {
+      "skill": "Networking",
+      "experience": 5
+    },
+    {
+      "skill": "Security Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Containerization",
+      "experience": 5
+    },
+    {
+      "skill": "Linux Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Database Management",
+      "experience": 5
+    },
+    {
+      "skill": "ITIL Concepts",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead a team of DevOps engineers to automate solutions, secure data, and own all aspects of infrastructure for high availability, scalability, and reliability."
+    },
+    {
+      "duty": "Coach the team on principles of automation, visibility improvements, self-healing, high availability, scalability, and root cause analysis."
+    },
+    {
+      "duty": "Partner with development engineering to improve reliability, implement actionable monitoring framework, and establish on-call/incident response process."
+    },
+    {
+      "duty": "Provide thought and subject matter leadership in DevOps, including managing multi-cloud infrastructure and advising development managers in structuring and sizing plans."
+    },
+    {
+      "duty": "Automate release deployments across all stacks and optimize for scalability, efficiency, and security."
+    },
+    {
+      "duty": "Develop effective tooling to accelerate deploy and release management and introduce new technologies into existing computing environments."
+    },
+    {
+      "duty": "Design and implement highly available infrastructures, monitoring and logging services, and operational standards in collaboration with application engineering."
+    },
+    {
+      "duty": "Continually manage cloud assets to ensure right-sized and minimize sprawl, and ensure compliance with required SOC1, SOC2 standards."
+    },
+    {
+      "duty": "Design and implement a disaster recovery/remote service strategy, perform routine audits of systems and software, and remain current on technology infrastructure changes in the industry."
+    },
+    {
+      "duty": "Integrate with developers and configuration management team to implement best practices and cross-collaborate in bug management and feature release."
+    },
+    {
+      "duty": "Perform other related duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in computer science or related discipline highly preferred."
+    }
+  ]
+}

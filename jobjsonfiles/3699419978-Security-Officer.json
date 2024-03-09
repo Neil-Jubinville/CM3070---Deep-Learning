@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Security Officer",
+      "job_category": "Security",
+      "job_class": "Officer",
+      "sector": "Security",
+      "salary": 25000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Crisis Intervention",
+      "experience": 5
+    },
+    {
+      "skill": "Security Patrol",
+      "experience": 5
+    },
+    {
+      "skill": "Law Enforcement",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Protocol Coordination",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Physical Condition",
+      "experience": 5
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide safety and security services including patrolling grounds, parking lots, buildings, securing entryways and exits, etc."
+    },
+    {
+      "duty": "Perform internal and external security patrol of assigned hospitals and/or clinics; dispatch; and access control as assigned."
+    },
+    {
+      "duty": "Provide stand-by service or escort services for protection of caregivers or patients as needed."
+    },
+    {
+      "duty": "Coordinate information, clarification of events and coordinating emergency protocols which may require collaboration with external safety and law enforcement agencies."
+    },
+    {
+      "duty": "Respond to all emergency situations and apply appropriate protocols for various code situations."
+    },
+    {
+      "duty": "Ensure adherence to protocols and complete, file, and maintain correct documentation; filing reports, monitoring visitor permits, and assist with maintaining building access control by utilizing the computerized badge/door system."
+    },
+    {
+      "duty": "Perform other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent is preferred. Minimum of two (2) years, military or civilian security or law enforcement experience is required. Healthcare facility security experience is preferred. BLS Certification upon hire. Valid state Driver's License. IAHSS (International Assoc for Healthcare Security & Safety) Basic (or higher) certification required within 180 days of employment."
+    }
+  ]
+}

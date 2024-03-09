@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Site Agent",
+      "job_category": "Construction",
+      "job_class": "Site Agent",
+      "sector": "Construction",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Infrastructure Development",
+      "experience": 5
+    },
+    {
+      "skill": "Health and Safety Management",
+      "experience": 5
+    },
+    {
+      "skill": "Team Management",
+      "experience": 5
+    },
+    {
+      "skill": "Change Management",
+      "experience": 5
+    },
+    {
+      "skill": "Stakeholder Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Successfully deliver construction projects or sections within budget, on time, and in compliance with client specifications."
+    },
+    {
+      "duty": "Create a 'Knowingly Safe' working environment, ensuring compliance with health and safety principles and regulations."
+    },
+    {
+      "duty": "Engage with stakeholders to ensure safe, buildable, and timely designs for efficient project delivery."
+    },
+    {
+      "duty": "Manage risk and opportunities, investigate incidents, and take ownership for the quality of work and delivery standards."
+    },
+    {
+      "duty": "Champion the use of innovative technologies and techniques, manage the construction teams, and ensure adequate resources are available."
+    },
+    {
+      "duty": "Support the project team in stakeholder communication, community engagement, and delivery of commitments."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "SMSTS/IOSH Managing Safety (required)"
+    }
+  ]
+}

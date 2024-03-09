@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Secondary Teacher",
+      "job_category": "Education",
+      "job_class": "Teacher",
+      "sector": "Education",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Lesson Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Classroom Management",
+      "experience": 5
+    },
+    {
+      "skill": "Curriculum Development",
+      "experience": 5
+    },
+    {
+      "skill": "Student Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Teaching License",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver high-quality and engaging instruction in English language and literature to middle school students."
+    },
+    {
+      "duty": "Effectively manage the classroom environment, ensuring a conducive setting for learning and growth."
+    },
+    {
+      "duty": "Develop and implement comprehensive lesson plans and educational content that align with curriculum objectives."
+    },
+    {
+      "duty": "Assess student performance and provide constructive feedback to support their academic development."
+    },
+    {
+      "duty": "Demonstrate strong communication and interpersonal skills when interacting with students, parents, and colleagues."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree from an accredited college or university"
+    },
+    {
+      "credential": "Teaching license issued by the Nevada Department of Education"
+    },
+    {
+      "credential": "Relevant subject area certification"
+    }
+  ]
+}

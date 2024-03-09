@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Big Data Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Hadoop Distributed File System (HDFS)",
+      "experience": 3
+    },
+    {
+      "skill": "Apache Hadoop",
+      "experience": 3
+    },
+    {
+      "skill": "Apache Cassandra",
+      "experience": 3
+    },
+    {
+      "skill": "Java",
+      "experience": 4
+    },
+    {
+      "skill": "Scala",
+      "experience": 4
+    },
+    {
+      "skill": "Python",
+      "experience": 4
+    },
+    {
+      "skill": "Troubleshooting and Debugging",
+      "experience": 4
+    },
+    {
+      "skill": "NoSQL Databases (Cassandra, MongoDB)",
+      "experience": 4
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 3
+    },
+    {
+      "skill": "ETL Concepts and Data Warehousing",
+      "experience": 3
+    },
+    {
+      "skill": "Database Design",
+      "experience": 3
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Problem-Solving Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and maintain Big Data solutions in Hadoop and Cassandra."
+    },
+    {
+      "duty": "Collaborate with the Development and Infrastructure teams to design and develop Big Data systems that meet the business requirements of clients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or higher in Computer Science, or a related field"
+    }
+  ],
+  "salary": 110000
+}

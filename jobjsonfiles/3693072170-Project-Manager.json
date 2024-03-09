@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Plan, coordinate, and implement projects within the decided-upon budget, timeline, and scope."
+    },
+    {
+      "duty": "Effectively monitor and present project updates to relevant stakeholders, clients, or project team members."
+    },
+    {
+      "duty": "Set project timeline and monitor project deliverables."
+    },
+    {
+      "duty": "Update relevant stakeholders or team members on the project progress."
+    },
+    {
+      "duty": "Coach and support project team members with tasks assigned to them."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Budgeting",
+      "experience": 5
+    },
+    {
+      "skill": "Stakeholder Management",
+      "experience": 5
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Team Coaching",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree or equivalent experience"
+    }
+  ]
+}

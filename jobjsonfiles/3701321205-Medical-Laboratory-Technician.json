@@ -1,0 +1,49 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Laboratory Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Laboratory Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Clinical Pathology",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performs laboratory analysis on received specimens, providing clinical information for the diagnosis, treatment, and prevention of diseases"
+    },
+    {
+      "duty": "Responsible for overall quality, efficiency, and safety in the performance of assigned technical duties"
+    },
+    {
+      "duty": "Prepares reagents, maintains an adequate supply of materials for test procedures, and manages inventory to effectively reduce departmental waste/expense"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Medical Technology or Clinical Laboratory Science (certification required)"
+    }
+  ]
+}

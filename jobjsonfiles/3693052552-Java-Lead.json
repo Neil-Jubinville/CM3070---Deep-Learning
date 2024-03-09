@@ -1,0 +1,106 @@
+{
+  "meta": [
+    {
+      "job_title": "Java Lead",
+      "job_category": "Software Engineering",
+      "job_class": "Lead",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Software Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 5
+    },
+    {
+      "skill": "C#",
+      "experience": 5
+    },
+    {
+      "skill": "Data Integration",
+      "experience": 5
+    },
+    {
+      "skill": "API Consumption",
+      "experience": 5
+    },
+    {
+      "skill": ".Net Core",
+      "experience": 5
+    },
+    {
+      "skill": "Web API",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices",
+      "experience": 5
+    },
+    {
+      "skill": "Distributed Systems",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Server",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Apply software engineering and architecture best practices to design, develop and manage high-quality, scalable, and highly available multi-tier enterprise systems"
+    },
+    {
+      "duty": "Analyze existing user interface components and find the areas that we can improve"
+    },
+    {
+      "duty": "Drive the resolution of problems found in existing applications"
+    },
+    {
+      "duty": "Manage and maintain source code using best practices and proper documentation"
+    },
+    {
+      "duty": "Lead the efforts to design, develop, test, deploy, and support various applications"
+    },
+    {
+      "duty": "Mentor and guide the team members with system design, best practices and coding standards"
+    },
+    {
+      "duty": "Identify bottlenecks and issues and provide solutions to mitigate and address these issues"
+    },
+    {
+      "duty": "Make a habit of covering most of their code with unit tests"
+    },
+    {
+      "duty": "Estimate efforts and ensure that work is completed in a timely manner"
+    },
+    {
+      "duty": "Responsible for code reviews and merges"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 200,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Software Engineering, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

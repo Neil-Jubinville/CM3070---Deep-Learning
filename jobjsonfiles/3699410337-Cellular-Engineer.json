@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Cellular Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "3GPP 5G/4G systems",
+      "experience": 5
+    },
+    {
+      "skill": "5G-NR/4G Layer 1 specifications",
+      "experience": 5
+    },
+    {
+      "skill": "C/C++ Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Mobile protocol stack",
+      "experience": 5
+    },
+    {
+      "skill": "Android platform and services",
+      "experience": 5
+    },
+    {
+      "skill": "Debugging and issue analysis",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Commercialize the Samsung Exynos modem in the North American market."
+    },
+    {
+      "duty": "Understand North American Cellular carrier requirements and analyze field/equipment new feature logs related to 5G/4G technologies."
+    },
+    {
+      "duty": "Participate in new feature development and debugging for North American carrier requirements."
+    },
+    {
+      "duty": "Manage onsite customer support, resolve escalated issues, and work with off-shore team to analyze new feature logs."
+    },
+    {
+      "duty": "Collaborate closely with the global protocol team to resolve North America customer issues found in lab/field/IOT/carrier test."
+    },
+    {
+      "duty": "Take ownership in the development of commercial modem software."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's with 5+ years of relevant industry experience, or Masters with 3+ years, or PhD in Electrical Engineering, Computer Science, or related field (PhD preferred)"
+    }
+  ]
+}

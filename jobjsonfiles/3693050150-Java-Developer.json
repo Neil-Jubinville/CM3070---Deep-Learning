@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Java Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Technology",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Springboot",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "JSON",
+      "experience": 5
+    },
+    {
+      "skill": "XML",
+      "experience": 5
+    },
+    {
+      "skill": "XSD Schema",
+      "experience": 5
+    },
+    {
+      "skill": "Use Case Review",
+      "experience": 5
+    },
+    {
+      "skill": "Functional Design Review",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Design Review",
+      "experience": 5
+    },
+    {
+      "skill": "Test Cases Review",
+      "experience": 5
+    },
+    {
+      "skill": "Web Services",
+      "experience": 5
+    },
+    {
+      "skill": "DB2",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Server",
+      "experience": 5
+    },
+    {
+      "skill": "Linux Shell Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "xQuery",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain applications using Java programming language, Springboot, and Microservices architecture."
+    },
+    {
+      "duty": "Participate in Use case, Functional Design, and Technical Design Reviews, and review Test Cases."
+    },
+    {
+      "duty": "Work with JSON, XML, and XSD Schema for data processing and validation."
+    },
+    {
+      "duty": "Utilize Web Services and databases (DB2, SQL Server) for application development."
+    },
+    {
+      "duty": "Write and execute Linux Shell scripts and xQuery for data transformation and processing."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Associate",
+      "job_category": "Warehousing",
+      "job_class": "Associate",
+      "sector": "Logistics",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Picking",
+      "experience": 2
+    },
+    {
+      "skill": "Packing",
+      "experience": 3
+    },
+    {
+      "skill": "Forklift Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Warehouse Safety",
+      "experience": 3
+    },
+    {
+      "skill": "Physical Strength",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Accurately complete orders according to Standard Operating Procedures."
+    },
+    {
+      "duty": "Pick and pack products for shipment following prescribed procedures."
+    },
+    {
+      "duty": "Operate fork-lift and side-loader to move product."
+    },
+    {
+      "duty": "Assist with assembly when needed."
+    },
+    {
+      "duty": "Follow all safety procedures and wear required Personal Protective Equipment (PPE)."
+    },
+    {
+      "duty": "Keep the distribution area clean and organized."
+    },
+    {
+      "duty": "Support Continuous Improvement and Lean Culture by standardizing work and participating in problem-solving and Kaizen teams."
+    },
+    {
+      "duty": "Submit suggestions to improve Safety, Quality, Delivery, Cost, and Productivity."
+    },
+    {
+      "duty": "Strive to sustain and improve the 5S Workplace Organization (Scan/Sort, Set-in-Order, Shine, Standardize, and Sustain)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

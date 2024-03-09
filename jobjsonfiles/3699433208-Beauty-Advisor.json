@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Beauty Advisor",
+      "job_category": "Retail",
+      "job_class": "Advisor",
+      "sector": "Retail",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Superior Guest Service",
+      "experience": 1
+    },
+    {
+      "skill": "Sales",
+      "experience": 1
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 1
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "Visual Merchandising",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Product Demonstration",
+      "experience": 1
+    },
+    {
+      "skill": "Stock Management",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide superior guest service and maintain strong guest relationships."
+    },
+    {
+      "duty": "Competently handle sales and troubleshooting."
+    },
+    {
+      "duty": "Manage inventory, including stock management and visual merchandising."
+    },
+    {
+      "duty": "Offer exceptional customer service and product demonstration."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma is preferred"
+    }
+  ]
+}

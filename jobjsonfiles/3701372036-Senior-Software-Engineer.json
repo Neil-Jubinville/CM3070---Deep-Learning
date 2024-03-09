@@ -1,0 +1,115 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microservices Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Cloud Services",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Database",
+      "experience": 5
+    },
+    {
+      "skill": "Frontend Development",
+      "experience": 5
+    },
+    {
+      "skill": "Backend Development",
+      "experience": 5
+    },
+    {
+      "skill": "API Design",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Lambda",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Computing",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Optimization",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Strategic Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, implement, test, and deploy responsive and scalable web applications using the latest frontend and backend technologies."
+    },
+    {
+      "duty": "Develop modular and scalable microservices to enhance application efficiency and maintainability."
+    },
+    {
+      "duty": "Collaborate with the architecture team to ensure best practices in API design and microservices implementation."
+    },
+    {
+      "duty": "Leverage AWS cloud-native services like Lambda, ECS, EC2, S3, RDS, and more."
+    },
+    {
+      "duty": "Develop and optimize complex SQL queries, stored procedures, and database schemas."
+    },
+    {
+      "duty": "Collaborate closely with other engineers, product managers, and stakeholders to ensure product requirements are met and exceeded."
+    },
+    {
+      "duty": "Participate in code reviews, contributing to maintaining high code quality and team knowledge sharing."
+    },
+    {
+      "duty": "Stay updated with the latest industry best practices, suggesting and implementing new technologies or processes that can enhance product performance and development efficiency."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s or master\u2019s degree in computer science, Software Engineering, or a related field."
+    }
+  ]
+}

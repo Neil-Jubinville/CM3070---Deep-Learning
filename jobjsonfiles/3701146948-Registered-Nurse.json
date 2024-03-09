@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Compliance Standards",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Care Coordination",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Needs Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Knowledge of OSHA, FDA, and HIPAA compliance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide care to patients in various outpatient specialties while adhering to compliance standards."
+    },
+    {
+      "duty": "Recognize patient needs and prioritize those needs with the needs outlined by physicians."
+    },
+    {
+      "duty": "Assist in the management of patient care in the physician office setting under the direct supervision of a physician or licensed provider."
+    },
+    {
+      "duty": "Demonstrate competency to provide patient care according to the specific needs of the population."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Must be a Registered Professional Nurse with current licensure. CPR, ACLS, and BCLS Certification. Knowledge of OSHA, FDA, and HIPAA compliance."
+    }
+  ]
+}

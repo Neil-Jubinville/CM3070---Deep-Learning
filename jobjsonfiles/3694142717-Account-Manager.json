@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Account Manager",
+      "job_category": "Marketing",
+      "job_class": "Manager",
+      "sector": "Marketing",
+      "salary": 42000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Marketing Strategy",
+      "experience": 3
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 4
+    },
+    {
+      "skill": "Market Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Online Presence Management",
+      "experience": 4
+    },
+    {
+      "skill": "Event Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Digital Marketing",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Managing a book of clients and serving as their primary point of contact via email, call, text, and video call."
+    },
+    {
+      "duty": "Maintaining and developing client relationships based upon mutual respect, high-quality service, expectation setting, and coaching."
+    },
+    {
+      "duty": "Using the company core values to guide independent decisions about client accounts."
+    },
+    {
+      "duty": "Continually innovating new methods to improve client experience, results, and retention."
+    },
+    {
+      "duty": "Managing the entire client life-cycle, including launch calls, check-ins, billing, and offboarding calls."
+    },
+    {
+      "duty": "Upselling clients on relevant products."
+    },
+    {
+      "duty": "Collecting client feedback and passing it along to the team to drive constant improvement."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Marketing, Business, or a related field (Master's preferred)"
+    }
+  ]
+}

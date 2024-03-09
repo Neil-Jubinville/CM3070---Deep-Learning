@@ -1,0 +1,47 @@
+{
+  "meta": [
+    {
+      "job_title": "Scrum Master",
+      "job_category": "Software Engineering",
+      "job_class": "Master",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Agile Practices",
+      "experience": 3
+    },
+    {
+      "skill": "Scrum Ceremonies",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Facilitation",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Facilitate Scrum ceremonies, such as daily stand-ups, sprint planning, and sprint retrospectives."
+    },
+    {
+      "duty": "Coach the team on Agile practices, such as iterative development, continuous integration, and continuous delivery."
+    },
+    {
+      "duty": "Remove impediments to the team's progress."
+    },
+    {
+      "duty": "Promote collaboration and communication within the team and with stakeholders."
+    },
+    {
+      "duty": "Help the team to continuously improve its processes and practices."
+    }
+  ]
+}

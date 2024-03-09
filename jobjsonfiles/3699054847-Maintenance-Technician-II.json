@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician II",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Automated Conveyor Systems",
+      "experience": 2
+    },
+    {
+      "skill": "Material Handling Equipment Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Electrical and Mechanical Troubleshooting",
+      "experience": 2
+    },
+    {
+      "skill": "Metal and Wood Fabrication",
+      "experience": 1
+    },
+    {
+      "skill": "Blueprint and Electrical Schematic Reading",
+      "experience": 1
+    },
+    {
+      "skill": "Electrical and Electronic Principles",
+      "experience": 1
+    },
+    {
+      "skill": "Project Management",
+      "experience": 1
+    },
+    {
+      "skill": "Computerized Maintenance Management System",
+      "experience": 1
+    },
+    {
+      "skill": "Robotic Operation and Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Input and Output Troubleshooting",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Repair and maintain automated conveyor systems and controls, and material handling equipment."
+    },
+    {
+      "duty": "Complete preventative maintenance routines and troubleshoot electrical and mechanical problems related to material handling equipment."
+    },
+    {
+      "duty": "Maintain inventory and troubleshoot basic input and output functions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent (Associate's or vocational degree preferred)"
+    }
+  ]
+}

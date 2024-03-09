@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical-Surgical Nursing",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Health Assessment",
+      "experience": 2
+    },
+    {
+      "skill": "Care Planning",
+      "experience": 2
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Leadership",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 2
+    },
+    {
+      "skill": "Quality Improvement",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provides direct nursing care in accordance with established policies, procedures, and protocols of the healthcare organization."
+    },
+    {
+      "duty": "Uses standards of medical-surgical nursing practice to increase the quality of care and quality of life for the patient, family, and significant other(s)."
+    },
+    {
+      "duty": "Establishes effective relationships and serves as an advocate with the patient, family, and significant other(s) to facilitate the development of the care plan unique to the patient\u2019s care needs."
+    },
+    {
+      "duty": "Develops assessment and management strategies based on a consideration of the physical, functional, cultural, social, economic, developmental, spiritual, vocational, and leisure dimensions of human responses to actual and potential health problems."
+    },
+    {
+      "duty": "Utilizes leadership skills by coordinating and collaborating with the patient, family, significant other(s), communities, and members of the inter-professional team in assessing needs, setting goals, planning interventions, providing care, and evaluating outcomes."
+    },
+    {
+      "duty": "Fosters a healthy work environment within the practice setting and profession by serving as a mentor and role model for nursing colleagues, students, and others."
+    },
+    {
+      "duty": "Applies the existing body of evidence-based practice and scientific knowledge in health care to medical-surgical nursing practice, ensuring that nursing care is delivered based on the patient\u2019s age-specific needs and clinical needs as described in the department's Scope of Service."
+    },
+    {
+      "duty": "Works in a constant state of alertness and safe manner."
+    },
+    {
+      "duty": "May perform point of care testing according to policies and procedures."
+    },
+    {
+      "duty": "Performs other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of accredited school of nursing or education equivalency for licensing"
+    }
+  ]
+}

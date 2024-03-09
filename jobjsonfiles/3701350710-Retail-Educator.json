@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Retail Educator",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 21,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Product Education",
+      "experience": 3
+    },
+    {
+      "skill": "Retail Operations",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "Inclusion & Diversity",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Engage with guests to provide a great customer experience and assess their needs"
+    },
+    {
+      "duty": "Provide technical product education and articulate the value of the product"
+    },
+    {
+      "duty": "Facilitate guest transactions and execute omnichannel programs according to company standards"
+    },
+    {
+      "duty": "Contribute to a respectful and inclusive team environment and establish supportive relationships with all team members"
+    },
+    {
+      "duty": "Perform retail operations tasks and maintain a safe work environment"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma, GED, or equivalent"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Mainframe ZOS Storage Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Storage Infrastructure Design",
+      "experience": 5
+    },
+    {
+      "skill": "Storage Management",
+      "experience": 5
+    },
+    {
+      "skill": "Storage Performance Enhancement",
+      "experience": 5
+    },
+    {
+      "skill": "zEnterprise Storage Platform",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Backup and Recovery",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Assistance",
+      "experience": 5
+    },
+    {
+      "skill": "System Managed Storage",
+      "experience": 5
+    },
+    {
+      "skill": "IBM Mainframe Storage Tools",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Understand and design highly complex storage infrastructures for z/OS Systems without supervision."
+    },
+    {
+      "duty": "Champion customer needs and enhance user experience related to storage performance and reliability."
+    },
+    {
+      "duty": "Act as a technical point of contact for the zEnterprise Storage platform."
+    },
+    {
+      "duty": "Backup and recovery of z/OS systems for business continuity and Disaster Recovery testing."
+    },
+    {
+      "duty": "Provide technical assistance to programming and operations staffs."
+    },
+    {
+      "duty": "Develop, test, and implement System Managed Storage's Automated Class Selection (ACS) routines for storage management policies."
+    },
+    {
+      "duty": "Enforce storage rules and standards, monitor DASD/Tape usage, ensure data integrity, and maintain catalogues and routines of z/OS storage backup, archive, migration, restore, compression, idle space release, management reporting, and DASD conversion and/or movement."
+    },
+    {
+      "duty": "Utilize and administer storage-related tools and software such as IBM utilities, DFSMSdfp, DFSMSdss, DFSMS, DFSMShsm, DFSMSrmm, DIF/ACC/SRS, Catalog Recovery Plus, BVIR Reporting, CA-PDSMAN, other mainframe storage related products, SMP/E, TREX."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "5+ years IT experience with recent storage hardware and software experience and zSeries Enterprise storage technologies"
+    }
+  ]
+}

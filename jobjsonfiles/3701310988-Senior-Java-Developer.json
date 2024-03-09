@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Java Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 115000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java/J2EE development",
+      "experience": 7
+    },
+    {
+      "skill": "Java-microservices",
+      "experience": 7
+    },
+    {
+      "skill": "Pivotal Cloud Foundry or Azure",
+      "experience": 7
+    },
+    {
+      "skill": "SOA, Rest Services and Spring, Spring Batch, Spring Boot",
+      "experience": 7
+    },
+    {
+      "skill": "NoSQL DB",
+      "experience": 7
+    },
+    {
+      "skill": "GIT, SVN, or other distributed version control system",
+      "experience": 7
+    },
+    {
+      "skill": "Java design concepts, patterns, and coding standards",
+      "experience": 7
+    },
+    {
+      "skill": "Creative problem-solving",
+      "experience": 7
+    },
+    {
+      "skill": "Good communicator and team player",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop code using the latest Java, Spring, and NO SQL technologies."
+    },
+    {
+      "duty": "Solve technical problems using cutting-edge technologies and best practices."
+    },
+    {
+      "duty": "Propose different ways to solve the same problem and showcase why one solution is better."
+    },
+    {
+      "duty": "Ensure all aspects of the technical design are correctly incorporated."
+    },
+    {
+      "duty": "Contribute technical expertise to all projects as required."
+    },
+    {
+      "duty": "Contribute research and implement POCs as required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in computer science, information technology, or a related field."
+    }
+  ]
+}

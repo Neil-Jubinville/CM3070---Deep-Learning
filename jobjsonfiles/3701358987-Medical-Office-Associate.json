@@ -1,0 +1,41 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Office Associate",
+      "job_category": "Healthcare",
+      "job_class": "Associate",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide front office support to the clinical operations team, and ensure accuracy of patient intake, registration, payments, and scheduling."
+    },
+    {
+      "duty": "Answer and screen telephone calls, schedule appointments, enter patient charges, payments, and third party billing information."
+    },
+    {
+      "duty": "Prioritize patient registration, customer service, and ensuring optimal patient flow."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 6
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent required"
+    }
+  ]
+}

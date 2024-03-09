@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Head Teller",
+      "job_category": "Banking",
+      "job_class": "Teller",
+      "sector": "Finance",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 3
+    },
+    {
+      "skill": "Banking Regulations",
+      "experience": 3
+    },
+    {
+      "skill": "Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 3
+    },
+    {
+      "skill": "Security Procedures",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Serves customers quickly, accurately, efficiently, and confidentially according to the bank's service standards."
+    },
+    {
+      "duty": "Identifies customer needs and expectations by listening for clues and seeks the opportunity to expand customer relationships by making referrals."
+    },
+    {
+      "duty": "Processes transactions for savings, checking, and loan accounts, maintains a neat and orderly work area, cashes checks, and processes savings withdrawals within assigned limits and in accordance with prescribed procedures."
+    },
+    {
+      "duty": "Balances transactions on a daily basis, knows and follows policies and procedures in completing transactions, minimizing operational errors, and maintains a proper workflow."
+    },
+    {
+      "duty": "Demonstrates expertise and quality performance in all levels of the Teller job function as well as demonstrated leadership skills."
+    },
+    {
+      "duty": "Assists in guiding and training new tellers, coaching and mentoring other tellers, and performs additional branch operational responsibilities including vault and cash management duties."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma, Previous banking experience preferred, good interpersonal skills, good computer skills, ability to read, write, speak, and understand English"
+    }
+  ]
+}

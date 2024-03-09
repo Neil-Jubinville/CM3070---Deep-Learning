@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Mental Health Professional",
+      "job_category": "Mental Health",
+      "job_class": "Professional",
+      "sector": "Health Care",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Counseling",
+      "experience": 3
+    },
+    {
+      "skill": "Case Management",
+      "experience": 3
+    },
+    {
+      "skill": "Advocacy",
+      "experience": 3
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Clinical Services",
+      "experience": 3
+    },
+    {
+      "skill": "Meeting agency standards",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide person-centered counseling, advocacy and case management for patients."
+    },
+    {
+      "duty": "Develop treatment plans and identify patient's voice, treatment strategies, and outcome measures"
+    },
+    {
+      "duty": "Meet agency documentation standards and authorization requirements of contracts."
+    },
+    {
+      "duty": "Tailor effective clinical/case management services to meeting diverse patient needs."
+    },
+    {
+      "duty": "Contribute to the success of the organization's expectations and core values."
+    },
+    {
+      "duty": "Perform other duties as needed or assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree in counseling or one of the behavioral sciences from an accredited college or university, with at least two years of experience in direct treatment of persons with mental illness or emotional disturbance."
+    }
+  ]
+}

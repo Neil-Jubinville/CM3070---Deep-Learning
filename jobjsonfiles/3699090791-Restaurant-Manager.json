@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Restaurant Manager",
+      "job_category": "Hospitality",
+      "job_class": "Manager",
+      "sector": "Hospitality",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Coaching",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Management",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and manage the restaurant team to ensure efficient operations and excellent customer service."
+    },
+    {
+      "duty": "Coach and mentor team members to build a cohesive and high-performing crew."
+    },
+    {
+      "duty": "Manage inventory, ordering, and ensure the smooth running of restaurant operations."
+    },
+    {
+      "duty": "Create and maintain a welcoming and customer-centric atmosphere in the restaurant."
+    },
+    {
+      "duty": "Ensure compliance with health, safety, and food hygiene regulations."
+    },
+    {
+      "duty": "Oversee scheduling, staffing, and training for the restaurant staff."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Hospitality Management, Business, or a related field"
+    }
+  ]
+}

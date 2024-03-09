@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Engineering Manager",
+      "job_category": "Engineering",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 200000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Engineering Management",
+      "experience": 8
+    },
+    {
+      "skill": "Program Execution",
+      "experience": 8
+    },
+    {
+      "skill": "Leadership",
+      "experience": 8
+    },
+    {
+      "skill": "Project Management",
+      "experience": 8
+    },
+    {
+      "skill": "Aerospace Industry Knowledge",
+      "experience": 8
+    },
+    {
+      "skill": "Team Motivation",
+      "experience": 8
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 8
+    },
+    {
+      "skill": "Microsoft Project",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage functional teams through program execution for products and services in the aerospace and defense industry."
+    },
+    {
+      "duty": "Represent the engineering department at all management level meetings and ensure that engineering design, documentation, and approvals meet program schedules."
+    },
+    {
+      "duty": "Own and continuously improve processes and procedures, oversee training of staff, and provide technical direction as required."
+    },
+    {
+      "duty": "Tailor solutions to customer cost, performance, and schedule requirements, and design to consistently exceed expectations."
+    },
+    {
+      "duty": "Motivate and work with others in a highly collaborative, fast-paced environment emphasizing rapid prototyping and fielding of capabilities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's of Science degree in a related discipline and typically 12 or more years of relevant technical experience. Master's degree preferred."
+    }
+  ]
+}

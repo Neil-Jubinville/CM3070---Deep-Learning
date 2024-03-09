@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinary Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Animal Care",
+      "experience": 2
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Records Management",
+      "experience": 2
+    },
+    {
+      "skill": "Continuing Education",
+      "experience": 2
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 2
+    },
+    {
+      "skill": "Laboratory Assistance",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support veterinarians to ensure quality veterinary care, advocate for pets, and educate clients."
+    },
+    {
+      "duty": "Communicate with clients about individualized pet health concerns and offer guidance on Thrive Membership options, medications, and additional treatments."
+    },
+    {
+      "duty": "Assist in maintaining relevant, comprehensive medical records with the support of practice systems."
+    },
+    {
+      "duty": "Obtain relevant health history and information from clients and maintain medical charts."
+    },
+    {
+      "duty": "Use safe restraining techniques, follow standard protocols, and sustain clean, sterile, organized treatment areas, exam rooms, and labs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Previous experience working with animals, preferably in a veterinary setting"
+    }
+  ]
+}

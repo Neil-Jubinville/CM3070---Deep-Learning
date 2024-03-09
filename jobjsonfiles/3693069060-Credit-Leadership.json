@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Credit Leadership",
+      "job_category": "Credit Management",
+      "job_class": "Credit Manager",
+      "sector": "Finance",
+      "salary": 160000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Credit Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Strategic Decision-Making",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Statistics",
+      "experience": 5
+    },
+    {
+      "skill": "Experiment Design",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Learning Techniques",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and deploy credit risk models to production environments."
+    },
+    {
+      "duty": "Lead the effectiveness of predictive modeling and minimize credit losses for our products."
+    },
+    {
+      "duty": "Engage with Engineers, Data Architects, and DevOps colleagues to ship models with step-change improvements in AUC/ROC/KS."
+    },
+    {
+      "duty": "Analyze market trends, customer behavior, and competitor activity to identify growth opportunities and refine strategies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree or Ph.D. in Computer Science, Mathematics, or EE/ECE from a top-tier institution."
+    }
+  ]
+}

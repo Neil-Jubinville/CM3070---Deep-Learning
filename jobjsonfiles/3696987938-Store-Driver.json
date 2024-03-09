@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Store Driver",
+      "job_category": "Retail",
+      "job_class": "Entry level",
+      "sector": "Sales",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Delivery",
+      "experience": 1
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Sales",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver parts to commercial customers"
+    },
+    {
+      "duty": "Assist with task and inventory processes in the store"
+    },
+    {
+      "duty": "Support DIY business and achieve sales and service objectives"
+    },
+    {
+      "duty": "Good knowledge of store systems, basic automotive system knowledge, and basic part knowledge"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

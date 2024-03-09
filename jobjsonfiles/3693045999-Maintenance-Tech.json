@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Tech",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "General Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Carpentry",
+      "experience": 3
+    },
+    {
+      "skill": "Plumbing",
+      "experience": 3
+    },
+    {
+      "skill": "Electrical Repairs",
+      "experience": 3
+    },
+    {
+      "skill": "HVAC Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "OSHA Regulations",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform routine preventive maintenance to ensure that building systems operate efficiently and the physical condition of buildings does not deteriorate."
+    },
+    {
+      "duty": "Perform maintenance tasks such as carpentry, painting, plumbing, and electrical repairs to ensure that the building is properly maintained."
+    },
+    {
+      "duty": "Clean and repair building fixtures including lights, locks, windows, doors, screens, walls, floors, gutters, and drains."
+    },
+    {
+      "duty": "Operate and perform routine maintenance and repairs on HVAC equipment and related systems."
+    },
+    {
+      "duty": "Adhere to OSHA worksite and personal safety requirements and State/local governmental safety regulations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "1 - 3 years of directly related or closely related experience"
+    }
+  ]
+}

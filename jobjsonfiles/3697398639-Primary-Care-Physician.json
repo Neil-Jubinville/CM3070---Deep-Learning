@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Primary Care Physician",
+      "job_category": "Healthcare",
+      "job_class": "Physician",
+      "sector": "Healthcare",
+      "salary": 225000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Telemedicine",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Chronic Disease Management",
+      "experience": 5
+    },
+    {
+      "skill": "Procedural Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Managing a patient panel with a broad array of patient needs; conducting a mix of acute, chronic, and well visits"
+    },
+    {
+      "duty": "Treating patients in-office or in testing centers as well as conducting occasional tele-health visits"
+    },
+    {
+      "duty": "Continuous learning during weekly Clinical Rounds and through other modalities"
+    },
+    {
+      "duty": "Ongoing collaboration with in-office teammates via daily huddles, as well as with virtual clinical teams"
+    },
+    {
+      "duty": "Utilization of specific clinical training and opportunities to perform in-office procedures"
+    },
+    {
+      "duty": "Supervising one or more NP or PA colleagues"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Enrolled in, or have completed, an accredited Internal or Family Medicine residency program"
+    }
+  ]
+}

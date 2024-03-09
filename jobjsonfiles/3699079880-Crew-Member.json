@@ -1,0 +1,49 @@
+{
+  "meta": [
+    {
+      "job_title": "Crew Member",
+      "job_category": "Retail",
+      "job_class": "Entry Level",
+      "sector": "Retail",
+      "salary": 24000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Cash handling, fuel transactions, cleaning, stocking, food prep, and foodservice safety tasks."
+    },
+    {
+      "duty": "Interacting with customers and providing excellent customer service."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Retail Operations",
+      "experience": 1
+    },
+    {
+      "skill": "Food Safety",
+      "experience": 1
+    },
+    {
+      "skill": "Stocking",
+      "experience": 1
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ]
+}

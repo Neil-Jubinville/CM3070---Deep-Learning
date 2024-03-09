@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinary Assistant",
+      "job_category": "Veterinary",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 23,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Animal Care",
+      "experience": 1
+    },
+    {
+      "skill": "Record Keeping",
+      "experience": 1
+    },
+    {
+      "skill": "Restraint Techniques",
+      "experience": 1
+    },
+    {
+      "skill": "Sterilization",
+      "experience": 1
+    },
+    {
+      "skill": "Observation",
+      "experience": 1
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 1
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide support and assistance to the veterinary hospital staff."
+    },
+    {
+      "duty": "Ensure a clean and comfortable environment for patients and clients."
+    },
+    {
+      "duty": "Restrain animals during examinations or vaccinations."
+    },
+    {
+      "duty": "Keep accurate records and logs."
+    },
+    {
+      "duty": "Sterilize equipment and treatment areas."
+    },
+    {
+      "duty": "Observe patients for signs of health concerns and report findings to senior staff."
+    },
+    {
+      "duty": "Assist with additional tasks as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "6+ months experience in the veterinary field"
+    }
+  ]
+}

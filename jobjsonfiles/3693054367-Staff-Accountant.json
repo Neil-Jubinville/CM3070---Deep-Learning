@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Accountant",
+      "job_category": "Accounting",
+      "job_class": "Accountant",
+      "sector": "Finance",
+      "salary": 57500,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 1
+    },
+    {
+      "skill": "Journal Entries",
+      "experience": 1
+    },
+    {
+      "skill": "US GAAP",
+      "experience": 1
+    },
+    {
+      "skill": "Xero",
+      "experience": 1
+    },
+    {
+      "skill": "FundPanel system",
+      "experience": 1
+    },
+    {
+      "skill": "Bill.com",
+      "experience": 1
+    },
+    {
+      "skill": "Excel",
+      "experience": 1
+    },
+    {
+      "skill": "Word",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Reconcile banking transactions and prepare journal entries in accordance with US GAAP in Xero"
+    },
+    {
+      "duty": "Maintain investor information, investment information, and other fund metrics in FundPanel system"
+    },
+    {
+      "duty": "Maintain legal documents including formation documents, investment documents, and other relevant client information in Box"
+    },
+    {
+      "duty": "Process accounts payable on a weekly basis using Bill.com"
+    },
+    {
+      "duty": "Prepare intercompany invoicing process and process reimbursements"
+    },
+    {
+      "duty": "Prepare and obtain documents for annual audit and tax process"
+    },
+    {
+      "duty": "Handle special projects and other duties as assigned"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Accounting or Finance (in progress accepted)"
+    }
+  ]
+}

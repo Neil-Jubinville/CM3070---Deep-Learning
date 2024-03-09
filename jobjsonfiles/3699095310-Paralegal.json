@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Paralegal",
+      "job_category": "Legal",
+      "job_class": "Paralegal",
+      "sector": "Legal",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Legal Research",
+      "experience": 3
+    },
+    {
+      "skill": "Case Management",
+      "experience": 3
+    },
+    {
+      "skill": "MS Office Suite",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist with Personal Injury litigation and Employment Wage & Hour Class Action matters"
+    },
+    {
+      "duty": "Conduct legal research and analysis using specialized tools"
+    },
+    {
+      "duty": "Prepare and manage legal documents and case files"
+    },
+    {
+      "duty": "Coordinate with attorneys and clients for case management"
+    },
+    {
+      "duty": "Maintain case calendars and assist with scheduling"
+    },
+    {
+      "duty": "Prepare and organize evidence and exhibits for trial"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree and paralegal certification from an accredited institution"
+    },
+    {
+      "credential": "Good standing with the California State Bar as a paralegal"
+    }
+  ]
+}

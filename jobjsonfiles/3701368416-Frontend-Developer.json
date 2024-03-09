@@ -1,0 +1,47 @@
+{
+  "meta": [
+    {
+      "job_title": "Frontend Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "JavaScript",
+      "experience": 2
+    },
+    {
+      "skill": "HTML",
+      "experience": 2
+    },
+    {
+      "skill": "CSS",
+      "experience": 2
+    },
+    {
+      "skill": "UI Design",
+      "experience": 2
+    },
+    {
+      "skill": "Scrum/Agile",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Designing, developing, and testing UI for mobile and web applications"
+    },
+    {
+      "duty": "Build reusable code and libraries for future use"
+    },
+    {
+      "duty": "Accurately translate user and business needs into functional frontend code"
+    }
+  ],
+  "subjective_elements": [],
+  "education_certification": []
+}

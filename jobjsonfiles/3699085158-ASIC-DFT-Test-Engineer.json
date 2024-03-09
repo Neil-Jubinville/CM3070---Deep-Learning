@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "ASIC DFT/Test Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 112180,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ASIC Testing",
+      "experience": 4
+    },
+    {
+      "skill": "ATE System",
+      "experience": 4
+    },
+    {
+      "skill": "Digital Circuitry",
+      "experience": 4
+    },
+    {
+      "skill": "Analog Circuitry",
+      "experience": 4
+    },
+    {
+      "skill": "LINUX Programming",
+      "experience": 4
+    },
+    {
+      "skill": "Debugging",
+      "experience": 4
+    },
+    {
+      "skill": "DFT Tools",
+      "experience": 4
+    },
+    {
+      "skill": "Advantest 93K ATE Tester",
+      "experience": 3
+    },
+    {
+      "skill": "ASIC Design Verification",
+      "experience": 3
+    },
+    {
+      "skill": "SystemVerilog",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with ASIC design engineers to incorporate testability features into the chip design."
+    },
+    {
+      "duty": "Develop test methodologies, strategies, and test patterns for validating the ASIC."
+    },
+    {
+      "duty": "Create hardware for package and wafer test systems, utilizing the Advantest 93K test platform."
+    },
+    {
+      "duty": "Write test programs for characterization and production testing."
+    },
+    {
+      "duty": "Execute test programs on the ASIC chips and analyze the test results."
+    },
+    {
+      "duty": "Assess the effectiveness and coverage of the developed test strategies and patterns."
+    },
+    {
+      "duty": "Investigate and diagnose failures or defects found during testing using various diagnostic techniques and tools."
+    },
+    {
+      "duty": "Assist in the verification of the ASIC chip design by developing and executing specific test cases or simulations."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams, including design engineers, product managers, and test managers, to ensure effective communication and coordination throughout the testing and development lifecycle."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electrical Engineering or related field (minimum requirement)"
+    }
+  ]
+}

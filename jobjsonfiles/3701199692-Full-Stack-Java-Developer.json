@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Full Stack Java Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 6
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "HTML/CSS",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "ReactJS",
+      "experience": 4
+    },
+    {
+      "skill": "API Design",
+      "experience": 6
+    },
+    {
+      "skill": "Automation",
+      "experience": 6
+    },
+    {
+      "skill": "Security",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Cloud Service",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Practices",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Participate in design discussions, execute development against design, and navigate the complex codebase."
+    },
+    {
+      "duty": "Experience with Java Frameworks and Professional work experience with API design, automation, & security."
+    },
+    {
+      "duty": "Support and maintain applications utilizing required tools and technologies."
+    },
+    {
+      "duty": "Provide support for applications, including involvement with the Support Centre, Networking and Infrastructure teams, and vendors as appropriate."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

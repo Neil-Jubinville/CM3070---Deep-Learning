@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Production Technician",
+      "job_category": "Biotechnology",
+      "job_class": "Technician",
+      "sector": "Biotechnology",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "3D Printing Techniques",
+      "experience": 4
+    },
+    {
+      "skill": "Laboratory Environment",
+      "experience": 3
+    },
+    {
+      "skill": "Standard Operating Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Control Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Equipment Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 4
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 4
+    },
+    {
+      "skill": "Effective Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Independent Work",
+      "experience": 3
+    },
+    {
+      "skill": "Regulatory Requirements",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Execute 3D printing processes, SOPs, and QC procedures for hydrogel and polymer materials"
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to manufacture development and verification materials"
+    },
+    {
+      "duty": "Maintain a clean and organized workspace, ensuring compliance with safety regulations"
+    },
+    {
+      "duty": "Operate equipment related to 3D printing"
+    },
+    {
+      "duty": "Complete batch records related to the production and QC processes"
+    },
+    {
+      "duty": "Maintain organized supply and parts inventory"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Engineering, Materials Science, Biomedical Engineering, or related field desired"
+    }
+  ]
+}

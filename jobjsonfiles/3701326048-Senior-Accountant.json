@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Accountant",
+      "job_category": "Accounting",
+      "job_class": "Senior",
+      "sector": "Finance",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 5
+    },
+    {
+      "skill": "Audit Oversight",
+      "experience": 5
+    },
+    {
+      "skill": "Accounting Software Implementation",
+      "experience": 5
+    },
+    {
+      "skill": "Real Estate Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "Treasury Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform monthly close activities including reconciliations, journal entries, and preparing financials."
+    },
+    {
+      "duty": "Manage treasury function and ensure proper internal controls are in place."
+    },
+    {
+      "duty": "Assist in implementing new accounting software."
+    },
+    {
+      "duty": "Process and account for real estate transactions including JV Accounting, consolidation/inter-company eliminations, related-party notes, and strategic tax basis allocations."
+    },
+    {
+      "duty": "Prepare annual operating budgets, cash flow projections, and reconciliations vs. actual results."
+    },
+    {
+      "duty": "Oversee audits and ensure compliance with regulations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting, Finance, or related field (Master's preferred)"
+    }
+  ]
+}

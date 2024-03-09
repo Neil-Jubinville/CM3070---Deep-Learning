@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician III",
+      "job_category": "Engineering",
+      "job_class": "Maintenance",
+      "sector": "Engineering",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "General Maintenance",
+      "experience": 4
+    },
+    {
+      "skill": "HVAC Maintenance",
+      "experience": 4
+    },
+    {
+      "skill": "Plumbing Maintenance",
+      "experience": 4
+    },
+    {
+      "skill": "Electrical Repair",
+      "experience": 4
+    },
+    {
+      "skill": "Mechanical Maintenance",
+      "experience": 4
+    },
+    {
+      "skill": "Cleanroom Cleaning",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Operation",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform cleanroom-quality cleaning as well as standard janitorial and craft repair tasks in and around the DKI Solar Telescope Observatory and ancillary locations under the direction of the assigned Supervisor or Manager."
+    },
+    {
+      "duty": "Perform a variety of general maintenance activities while having proficiency in at least two primary craft areas and general proficiency in one or two additional craft areas."
+    },
+    {
+      "duty": "Maintain cleanliness and operability of Observatory Facility and equipment."
+    },
+    {
+      "duty": "Follow procedures for the use of chemical cleaners and power equipment, in order to prevent damage to floors and fixtures."
+    },
+    {
+      "duty": "Service, clean, and supply restrooms and kitchen areas of the observatory."
+    },
+    {
+      "duty": "Operate forklifts, scissor lifts, reach machine, etc. for facility and equipment cleaning, maintenance tasks, handling of materials, disposal of rubbish, etc."
+    },
+    {
+      "duty": "Performs other general maintenance activities as may be assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School or vocational school graduation. At least four years experience in a combination of two or more skill trades, with an additional 2 years experience in one or more additional crafts areas."
+    }
+  ]
+}

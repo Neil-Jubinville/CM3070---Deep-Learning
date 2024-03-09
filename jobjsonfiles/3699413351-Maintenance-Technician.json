@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Electrical Repair",
+      "experience": 1
+    },
+    {
+      "skill": "Equipment Diagnostics",
+      "experience": 1
+    },
+    {
+      "skill": "Time Management",
+      "experience": 1
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Learn and develop standard preventative maintenance skills in line with company standards."
+    },
+    {
+      "duty": "Shadow and support Technicians in diagnosing failures and making required repairs."
+    },
+    {
+      "duty": "Develop a working knowledge of troubleshooting techniques for mechanical, electrical, and control system problems."
+    },
+    {
+      "duty": "Gain familiarity with the FedEx Ground operation and troubleshooting techniques for equipment."
+    },
+    {
+      "duty": "Utilize the CMMS to enter and retrieve activity log information and reports."
+    },
+    {
+      "duty": "Adhere to safety standards, attend safety committees, and address safety concerns."
+    },
+    {
+      "duty": "Work flexible schedules, including weekends and rotating shifts."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED required, enrolled in an approved, accredited technical program or state approved college or technical school."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Survey Crew Chief",
+      "job_category": "Engineering",
+      "job_class": "Chief",
+      "sector": "Construction",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Surveying",
+      "experience": 5
+    },
+    {
+      "skill": "AutoCAD Civil 3D",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Trimble Equipment Operation",
+      "experience": 5
+    },
+    {
+      "skill": "Field Notes Preparation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage survey activities such as leveling, topographic mapping, construction layout, and boundary surveys."
+    },
+    {
+      "duty": "Operate and adjust Trimble survey equipment, including total station, data collector, and GPS equipment."
+    },
+    {
+      "duty": "Review survey field calculations, maintain work-issued vehicle and survey equipment, and follow safety protocols."
+    },
+    {
+      "duty": "Work independently or collaboratively on survey projects, read and interpret engineering plans, and attend training events."
+    },
+    {
+      "duty": "Mentor and assist survey crew members with their new hire training plan and professional development."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "At least 5 years of experience in a Survey Crew Chief role"
+    }
+  ]
+}

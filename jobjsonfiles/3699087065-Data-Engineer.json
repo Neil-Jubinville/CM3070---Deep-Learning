@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineer",
+      "job_category": "Technology",
+      "job_class": "Data Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Engineering",
+      "experience": 2
+    },
+    {
+      "skill": "C++",
+      "experience": 2
+    },
+    {
+      "skill": "Java",
+      "experience": 2
+    },
+    {
+      "skill": "Python",
+      "experience": 2
+    },
+    {
+      "skill": "ETL Workflows",
+      "experience": 2
+    },
+    {
+      "skill": "ELT Workflows",
+      "experience": 2
+    },
+    {
+      "skill": "SQL",
+      "experience": 3
+    },
+    {
+      "skill": "Cloud Computing (AWS, Azure, Google Cloud)",
+      "experience": 3
+    },
+    {
+      "skill": "Distributed Data and Computing (Spark, Databricks, Hadoop, Hive, AWS EMR, Kafka)",
+      "experience": 3
+    },
+    {
+      "skill": "Real-Time Data and Streaming Applications",
+      "experience": 3
+    },
+    {
+      "skill": "NoSQL (MongoDB, Cassandra)",
+      "experience": 3
+    },
+    {
+      "skill": "Data Warehousing (Redshift, MySQL, Snowflake)",
+      "experience": 3
+    },
+    {
+      "skill": "UNIX and Linux",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Engineering",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement data engineering activities on mission-driven projects"
+    },
+    {
+      "duty": "Develop and deploy data pipelines and platforms"
+    },
+    {
+      "duty": "Work with a multi-disciplinary team in a fast-paced, Agile environment"
+    },
+    {
+      "duty": "Support the assessment, design, development, and maintenance of scalable platforms"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Data Science, Computer Science, or related field (Master\u2019s degree preferred)"
+    },
+    {
+      "credential": "Secret clearance required"
+    }
+  ]
+}

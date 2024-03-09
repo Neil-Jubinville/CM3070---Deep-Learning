@@ -1,0 +1,97 @@
+{
+  "meta": [
+    {
+      "job_title": "Digital Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "RTL to GDSII Flow",
+      "experience": 5
+    },
+    {
+      "skill": "SystemVerilog/Verilog RTL",
+      "experience": 5
+    },
+    {
+      "skill": "Design Compiler and PrimeTime",
+      "experience": 5
+    },
+    {
+      "skill": "Programming/Scripting (Perl, Tcl, Python)",
+      "experience": 5
+    },
+    {
+      "skill": "Embedded Micro-controllers",
+      "experience": 5
+    },
+    {
+      "skill": "Digital Design",
+      "experience": 5
+    },
+    {
+      "skill": "High-Speed and Low-Power Design",
+      "experience": 5
+    },
+    {
+      "skill": "Encryption and Authentication Circuits",
+      "experience": 5
+    },
+    {
+      "skill": "Management Protocol Circuits",
+      "experience": 5
+    },
+    {
+      "skill": "Digital Control Circuits for PMICs",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Ownership",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Architect and develop RTL for various products with a focus on Digital Controls, Encryption, and Authentication."
+    },
+    {
+      "duty": "Work with global team members in designing building blocks and entire new products."
+    },
+    {
+      "duty": "Experience in high-speed and low-power digital design in advanced deep sub-micron processes."
+    },
+    {
+      "duty": "Proficient in SystemVerilog/Verilog RTL, Design Compiler, PrimeTime, and programming/scripting languages."
+    },
+    {
+      "duty": "Good communication skills and ability to take ownership of tasks."
+    },
+    {
+      "duty": "Experience in embedded micro-controllers, encryption, authentication, and management protocol circuits."
+    },
+    {
+      "duty": "Experience in digital control circuits for PMICs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electrical Engineering, Computer Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

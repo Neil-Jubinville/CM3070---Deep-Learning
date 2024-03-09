@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Psychiatrist",
+      "job_category": "Healthcare",
+      "job_class": "Psychiatrist",
+      "sector": "Healthcare",
+      "salary": 200000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Psychiatric Evaluation",
+      "experience": 5
+    },
+    {
+      "skill": "Prescription Management",
+      "experience": 5
+    },
+    {
+      "skill": "Psychotherapeutic Interventions",
+      "experience": 5
+    },
+    {
+      "skill": "Supervisory/Management Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Electronic Medical Records (EMR) Charting",
+      "experience": 5
+    },
+    {
+      "skill": "CPT and Diagnosis Coding",
+      "experience": 5
+    },
+    {
+      "skill": "Community Mental Health Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Professional Relationship Building",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform comprehensive psychiatric evaluations, including mental status, current symptoms, and relevant health histories."
+    },
+    {
+      "duty": "Administer treatment plans according to standardized procedures."
+    },
+    {
+      "duty": "Prescribe psychotropic medications and short-term therapies for mental health conditions."
+    },
+    {
+      "duty": "Provide brief psychotherapeutic interventions and evaluation management services."
+    },
+    {
+      "duty": "Monitor and continuously improve patient outcomes."
+    },
+    {
+      "duty": "Maintain timely and accurate charting of clinical encounters through EMR."
+    },
+    {
+      "duty": "Accurately code clinical encounters with CPT and diagnosis codes."
+    },
+    {
+      "duty": "Establish and maintain positive, professional relationships with patients and colleagues."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Board Certified Licensed Psychiatrist in the State of PA, preferred; or will accept a Board Eligible Licensed Psychiatrist, seeking Board Certification."
+    },
+    {
+      "credential": "At least 3-4 years of supervisory/management experience."
+    }
+  ]
+}

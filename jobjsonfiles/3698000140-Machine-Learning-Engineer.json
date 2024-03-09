@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Machine Learning Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 220000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Machine Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Statistical Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    },
+    {
+      "skill": "Deep Learning",
+      "experience": 4
+    },
+    {
+      "skill": "Recommendation Systems",
+      "experience": 4
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collect and gather datasets to build machine learning (ML) models that make real-time decisions for the Nextdoor platform."
+    },
+    {
+      "duty": "Analyze datasets and use important features to build low-latency models for decisions that need to be made quickly."
+    },
+    {
+      "duty": "Deploy ML models into production environments and integrate them into the product."
+    },
+    {
+      "duty": "Run and analyze live user-facing experiments to iterate on model quality by measuring impact on business metrics."
+    },
+    {
+      "duty": "Collaborate with other engineers and data scientists to create optimal experiences on the platform."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.S. in Computer Science, Applied Math, Statistics, Computational Biology or a related field"
+    }
+  ]
+}

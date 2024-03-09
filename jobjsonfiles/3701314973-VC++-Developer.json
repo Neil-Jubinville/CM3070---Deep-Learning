@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "VC++ Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "VC++",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle DB",
+      "experience": 5
+    },
+    {
+      "skill": "OCI Classes",
+      "experience": 5
+    },
+    {
+      "skill": "Build Generation",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Billing",
+      "experience": 3
+    },
+    {
+      "skill": "EDI Claims (837I)",
+      "experience": 3
+    },
+    {
+      "skill": "Remittance (835) Format",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop & maintain applications using VC++ for connecting to Oracle DB using OCI classes"
+    },
+    {
+      "duty": "Implement build generation processes for software development projects"
+    },
+    {
+      "duty": "Utilize knowledge of Healthcare Billing domain to enhance software solutions"
+    },
+    {
+      "duty": "Work with EDI Claims (837I) & Remittance (835) format for data processing and integration"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": []
+}

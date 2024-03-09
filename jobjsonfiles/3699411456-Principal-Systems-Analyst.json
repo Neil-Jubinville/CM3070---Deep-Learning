@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Principal Systems Analyst",
+      "job_category": "Software Engineering",
+      "job_class": "Principal",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "System Evaluation",
+      "experience": 8
+    },
+    {
+      "skill": "Technical Specifications",
+      "experience": 8
+    },
+    {
+      "skill": "Business Analysis",
+      "experience": 8
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 8
+    },
+    {
+      "skill": "User Acceptance Testing (UAT)",
+      "experience": 8
+    },
+    {
+      "skill": "SQL Analysis",
+      "experience": 8
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 8
+    },
+    {
+      "skill": "Incident Management",
+      "experience": 8
+    },
+    {
+      "skill": "Integration Management",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct methodical evaluation of system capabilities relative to business needs and translate them into actionable technical specifications for the software development team."
+    },
+    {
+      "duty": "Identify and assess technology solutions with an understanding of both technical and operational dependencies."
+    },
+    {
+      "duty": "Coordinate and participate in User Acceptance Testing (UAT) and analyze/validate complex data sets using SQL."
+    },
+    {
+      "duty": "Serve as a subject matter expert, providing timely, pertinent information to other members of the squad and/or business partners."
+    },
+    {
+      "duty": "Develop artifacts that support efficient and effective solution delivery, such as user stories, process maps/workflows, and system diagrams."
+    },
+    {
+      "duty": "Identify and respond to production incidents/issues \u2013 validation, scope, impact, urgency, guiding key integration decisions and driving solutions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field (Master's preferred)"
+    }
+  ]
+}

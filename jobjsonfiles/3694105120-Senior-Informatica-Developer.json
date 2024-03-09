@@ -1,0 +1,106 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Informatica Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 125000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Informatica PowerCenter",
+      "experience": 5
+    },
+    {
+      "skill": "Relational Databases (Microsoft SQL Server, DB2)",
+      "experience": 5
+    },
+    {
+      "skill": "PL/SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Data Warehousing",
+      "experience": 5
+    },
+    {
+      "skill": "Shell Scripting (Unix)",
+      "experience": 5
+    },
+    {
+      "skill": "ETL Processes",
+      "experience": 5
+    },
+    {
+      "skill": "Data Quality",
+      "experience": 5
+    },
+    {
+      "skill": "Consulting",
+      "experience": 5
+    },
+    {
+      "skill": "Business Requirements Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Data Governance",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    },
+    {
+      "skill": "Data Profiling",
+      "experience": 5
+    },
+    {
+      "skill": "Data Quality Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Domain Knowledge",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop ETL processes using Informatica PowerCenter."
+    },
+    {
+      "duty": "Provide application design guidance and consultation based on business requirements."
+    },
+    {
+      "duty": "Lead and mentor a team in technical aspects of ETL and data quality."
+    },
+    {
+      "duty": "Analyze complex business requirements and write technical specifications."
+    },
+    {
+      "duty": "Load data from various sources and legacy systems using Informatica."
+    },
+    {
+      "duty": "Create new mappings, workflows, and sessions for data processing."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Nutritional Aide",
+      "job_category": "Allied Health",
+      "job_class": "Nutrition",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food Preparation",
+      "experience": 2
+    },
+    {
+      "skill": "ServSafe Certification",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assemble and breakdown patient trays, prepare, label, and deliver supplements and nourishments."
+    },
+    {
+      "duty": "Operate and clean tray line equipment and the dish machine in a safe and effective manner."
+    },
+    {
+      "duty": "Serve food according to DOH guidelines, wear hairnet and gloves, and read patient menu correctly and place food on tray in a timely manner."
+    },
+    {
+      "duty": "Clean and sanitize work stations, restock appropriately, and remove trash for warewashing."
+    },
+    {
+      "duty": "Follow infection control procedures, maintain clean work environment, and sweep and mop floors when assigned."
+    },
+    {
+      "duty": "Prepare nourishments according to requests, label and date nourishments and snacks correctly, and distribute snacks and supplies according to the list."
+    },
+    {
+      "duty": "Order, portion, or obtain desired food for patron in an efficient manner and provide appropriate condiments and accompaniments for meal selection."
+    },
+    {
+      "duty": "Maintain a level of professionalism and comply with the customers' needs and requests."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalency"
+    }
+  ]
+}

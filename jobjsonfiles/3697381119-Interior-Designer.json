@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Interior Designer",
+      "job_category": "Design",
+      "job_class": "Designer",
+      "sector": "Engineering",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AutoCAD",
+      "experience": 3
+    },
+    {
+      "skill": "Space Planning",
+      "experience": 3
+    },
+    {
+      "skill": "3D Modeling",
+      "experience": 3
+    },
+    {
+      "skill": "Sketchup",
+      "experience": 3
+    },
+    {
+      "skill": "Revit",
+      "experience": 3
+    },
+    {
+      "skill": "Rhino",
+      "experience": 3
+    },
+    {
+      "skill": "Building Codes and Regulations",
+      "experience": 3
+    },
+    {
+      "skill": "Design Concepts",
+      "experience": 3
+    },
+    {
+      "skill": "Computer-Aided Drafting",
+      "experience": 3
+    },
+    {
+      "skill": "Interior Design",
+      "experience": 3
+    },
+    {
+      "skill": "Spatial Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop design concepts and produce contract documents based on client needs."
+    },
+    {
+      "duty": "Estimate material requirements and costs, and present design to client for approval."
+    },
+    {
+      "duty": "Subcontract fabrication, installation, and arrangement of various items."
+    },
+    {
+      "duty": "Use computer-aided drafting (CAD) and related software to produce construction documents."
+    },
+    {
+      "duty": "Collaborate with multidisciplinary team of engineers, architects, and designers on large-scale projects."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 90,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Interior Design, Architecture, or related field."
+    }
+  ]
+}

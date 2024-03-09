@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Retail Sales and Service Specialist",
+      "job_category": "Retail",
+      "job_class": "Sales",
+      "sector": "Sales",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Automotive Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Supervisory Experience",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide superior customer service and assess customer needs"
+    },
+    {
+      "duty": "Recommend appropriate products/services and promote sales"
+    },
+    {
+      "duty": "Perform basic vehicle service tasks such as tire services, oil changes, battery maintenance, and more"
+    },
+    {
+      "duty": "Perform store operational tasks as needed"
+    },
+    {
+      "duty": "Assist Store Management and ensure safe store operations"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    },
+    {
+      "credential": "Valid automobile driver\u2019s license"
+    }
+  ]
+}

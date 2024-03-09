@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Nursing",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Registered Nurse License",
+      "experience": 2
+    },
+    {
+      "skill": "American Heart Association BLS and ACLS",
+      "experience": 2
+    },
+    {
+      "skill": "Specialty Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Willingness to Float",
+      "experience": 2
+    },
+    {
+      "skill": "Orientation and Training",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Fill short and long-term nursing assignments throughout the health system."
+    },
+    {
+      "duty": "Flexibly schedule and work in various practice settings."
+    },
+    {
+      "duty": "Maintain current RN license and necessary certifications."
+    },
+    {
+      "duty": "Complete orientation and training requirements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing or equivalent (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "NDT Inspector",
+      "job_category": "Engineering",
+      "job_class": "Inspector",
+      "sector": "Engineering",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Ultrasonic Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 5
+    },
+    {
+      "skill": "Ultrasonic Flaw Detection",
+      "experience": 5
+    },
+    {
+      "skill": "Materials Inspection",
+      "experience": 5
+    },
+    {
+      "skill": "Process Control",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform ultrasonic inspections using contact, immersion, and phased array ultrasonic methods."
+    },
+    {
+      "duty": "Interpret inspection results and apply acceptance criteria identified on drawing or shop work order."
+    },
+    {
+      "duty": "Document and organize inspection results."
+    },
+    {
+      "duty": "Interface/communicate with employees to describe inspection results."
+    },
+    {
+      "duty": "Perform ultrasonic thickness measurements of composite materials and metallics."
+    },
+    {
+      "duty": "Perform ultrasonic inspections of weldments of various types, such as friction-stir, laser, electron beam, GMAW, etc."
+    },
+    {
+      "duty": "Perform all necessary daily, weekly, and monthly process control checks."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Ultrasonic (UT) certified. Needs to have ASNT or NAS 410 certification."
+    },
+    {
+      "credential": "High School Diploma or GED."
+    },
+    {
+      "credential": "US citizen or national, US permanent resident (current Green Card holder), or lawfully admitted into the US as a refugee or granted asylum."
+    }
+  ]
+}

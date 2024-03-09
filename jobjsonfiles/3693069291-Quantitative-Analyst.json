@@ -1,0 +1,112 @@
+{
+  "meta": [
+    {
+      "job_title": "Quantitative Analyst",
+      "job_category": "Finance",
+      "job_class": "Analyst",
+      "sector": "Finance",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop, test, document, and maintain Counterparty Credit Risk models, including risk factor simulation models, pricing models, aggregation models and back testing methods."
+    },
+    {
+      "duty": "Support models and portfolios of repo-style transactions, fixed income derivatives and commodity derivatives, used for Regulatory Capital, Credit Risk Limits and CVA."
+    },
+    {
+      "duty": "Support the counterparty credit risk platform and interactions with users and regulators."
+    },
+    {
+      "duty": "Investigate and resolve model-related system issues and provide practical quantitative support to model stakeholders including credit risk management and model risk management."
+    },
+    {
+      "duty": "Prepare developmental evidence and documents to support internal and external exams."
+    },
+    {
+      "duty": "Analyze and understand the impact of system releases and code changes."
+    },
+    {
+      "duty": "Drive incremental improvement to our model performance assessment tool set across all business areas."
+    },
+    {
+      "duty": "Update the model monitoring plan, identify and investigate weaknesses with monitoring results or the governance process."
+    },
+    {
+      "duty": "Develop tools in Python or C++ in a structured and versioned library used to support Derivative Pricing, or/and Risk Management model testing, applying quantitative and statistical methods."
+    },
+    {
+      "duty": "Utilize stochastic modeling and quantitative risk management to develop and test models used in Monte Carlo simulations and risk management."
+    },
+    {
+      "duty": "Develop visualization tools and prepare presentations for senior management."
+    },
+    {
+      "duty": "Collaborate with Technology teams to specify technical requirements with regards to QA/UAT cycles."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 3
+    },
+    {
+      "skill": "C++",
+      "experience": 3
+    },
+    {
+      "skill": "Quantitative Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Stochastic Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Monte Carlo Simulation",
+      "experience": 5
+    },
+    {
+      "skill": "Model Validation",
+      "experience": 5
+    },
+    {
+      "skill": "Visualization Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Presentation Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Requirements Specification",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree or equivalent in Finance, Financial Mathematics, Statistics, Mathematics, or related"
+    }
+  ]
+}

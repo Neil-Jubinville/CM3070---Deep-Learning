@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "RN Med Surg",
+      "job_category": "Nursing",
+      "job_class": "RN",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Clinical Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Compassion",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Providing direct patient care"
+    },
+    {
+      "duty": "Utilizing clinical skills to assess, plan, and implement patient care"
+    },
+    {
+      "duty": "Adhering to professional standards, hospital policies, and procedures"
+    },
+    {
+      "duty": "Collaborating with interdisciplinary teams for patient treatment plans"
+    },
+    {
+      "duty": "Ensuring accurate and timely documentation of patient information"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's or Bachelor's Degree in Nursing"
+    }
+  ]
+}

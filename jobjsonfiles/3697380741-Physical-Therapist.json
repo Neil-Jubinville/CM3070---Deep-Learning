@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Physical Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Therapy",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Evaluation",
+      "experience": 1
+    },
+    {
+      "skill": "Rehabilitation Therapy",
+      "experience": 1
+    },
+    {
+      "skill": "Clinical Assessment",
+      "experience": 1
+    },
+    {
+      "skill": "Treatment Planning",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Record Keeping",
+      "experience": 1
+    },
+    {
+      "skill": "Health Education",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform evaluations, determine PT diagnoses and develop a plan of care to restore patient function and improve mobility."
+    },
+    {
+      "duty": "Collaborate with a multi-disciplinary team to support patient care needs and actively participate in team meetings."
+    },
+    {
+      "duty": "Assist in training and supporting team members, volunteers, and students."
+    },
+    {
+      "duty": "Carry out treatment plans, modify for therapeutic benefit, and record patient progress."
+    },
+    {
+      "duty": "Utilize testing results to develop updated plans of care and educate patients and family members about the recovery process."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree, Physical Therapy (Required)"
+    }
+  ]
+}

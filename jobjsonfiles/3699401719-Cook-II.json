@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Cook II",
+      "job_category": "Culinary",
+      "job_class": "Cook",
+      "sector": "Culinary",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cooking",
+      "experience": 5
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 5
+    },
+    {
+      "skill": "Food Handling",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Catering",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    },
+    {
+      "skill": "Self-Motivation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare and cook a diverse range of dishes for the caf\u00e9 and company catering events."
+    },
+    {
+      "duty": "Restock cafeteria and kitchen supplies, including salad bar and soft drink station, on a regular basis."
+    },
+    {
+      "duty": "Adhere to proper food handling procedures and monitor food inventory."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "3-5 years of kitchen and food prep experience, Food Handlers and Safe Serve certifications are required."
+    }
+  ]
+}

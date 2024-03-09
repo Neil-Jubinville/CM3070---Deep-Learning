@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Cashier",
+      "job_category": "Retail",
+      "job_class": "Lead",
+      "sector": "Sales",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Leadership",
+      "experience": 2
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Team Training",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greeting and providing friendly, knowledgeable, and courteous service to each guest entering the store."
+    },
+    {
+      "duty": "Training new cashiers and cross-training other associates while driving loyalty results."
+    },
+    {
+      "duty": "Completing register open and close functions, informing guests of current promotions, and booking appointments for in-store events."
+    },
+    {
+      "duty": "Ensuring store cleanliness, replenishing products, setting up advertising displays, and participating in physical inventory preparation."
+    },
+    {
+      "duty": "Handling sales, refunds, and exchanges, and staying informed regarding new products to better serve guests."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 130,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma (or equivalent) with 2+ years of relevant work experience"
+    }
+  ]
+}

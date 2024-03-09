@@ -1,0 +1,51 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Development Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Lead Generation",
+      "experience": 2
+    },
+    {
+      "skill": "Cold Calling",
+      "experience": 2
+    },
+    {
+      "skill": "Qualification",
+      "experience": 2
+    },
+    {
+      "skill": "Salesforce",
+      "experience": 2
+    },
+    {
+      "skill": "Google Suite",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Generate new leads through cold calling and outbound prospecting."
+    },
+    {
+      "duty": "Qualify leads and determine their buying intent."
+    },
+    {
+      "duty": "Work directly with Account Executives to develop sales pipeline."
+    },
+    {
+      "duty": "Build relationships with prospects to understand their needs and qualify."
+    },
+    {
+      "duty": "Maintain and update our CRM system (Salesforce)."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "meta": [
+    {
+      "job_title": "Architectural Assistant",
+      "job_category": "Architecture",
+      "job_class": "Assistant",
+      "sector": "Architecture",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AutoCAD",
+      "experience": 2
+    },
+    {
+      "skill": "Adobe InDesign",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in the creation of architectural designs and drawings using AutoCAD and Adobe InDesign."
+    },
+    {
+      "duty": "Contribute to the development of preservation and design concepts for architectural projects."
+    },
+    {
+      "duty": "Collaborate with the team to provide support in various architectural tasks and responsibilities."
+    },
+    {
+      "duty": "Assist in project documentation and preparation of presentation materials."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Architecture or related field (Master's preferred)"
+    }
+  ]
+}

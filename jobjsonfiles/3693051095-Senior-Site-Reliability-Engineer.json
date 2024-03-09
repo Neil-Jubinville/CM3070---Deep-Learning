@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Site Reliability Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Elasticsearch",
+      "experience": 5
+    },
+    {
+      "skill": "Cassandra",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "Docker",
+      "experience": 3
+    },
+    {
+      "skill": "Infrastructure Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Data Persistence Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage large critical Cassandra and Elasticsearch clusters supporting millions of transactions per day"
+    },
+    {
+      "duty": "Build systems to automate all build and maintenance tasks using Ansible and python"
+    },
+    {
+      "duty": "Develop self-service tools to allow engineers to manage and provision resources with best practices"
+    },
+    {
+      "duty": "Monitor cluster availability, read/ write latencies, and other important performance metrics to proactively identify SLO misses and help mitigate issues"
+    },
+    {
+      "duty": "Evaluate new technologies and software versions. Test and develop roadmaps"
+    },
+    {
+      "duty": "Tune Cassandra and ES databases for optimizing throughput and read /write latencies"
+    },
+    {
+      "duty": "24X7 on-call rotation support with rest of team for rapid incident response"
+    },
+    {
+      "duty": "Implement DR strategies, including backups and recovery techniques with minimal downtime"
+    },
+    {
+      "duty": "Work with other engineers to manage our data persistence integration and performance with the platform"
+    },
+    {
+      "duty": "Monitor and scale Elasticsearch/Cassandra clusters to handle growth in traffic"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": []
+}

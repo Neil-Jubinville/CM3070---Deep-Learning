@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Administrative Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Administration",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Administrative Support",
+      "experience": 3
+    },
+    {
+      "skill": "Clerical Work",
+      "experience": 3
+    },
+    {
+      "skill": "Organization",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide administrative and clerical support to a department(s) and/or group of team members and managers."
+    },
+    {
+      "duty": "Assist in coordinating administrative activities and operations to secure efficiency and compliance with company policies."
+    },
+    {
+      "duty": "Manage and maintain files, records, and documents, ensuring accuracy and accessibility."
+    },
+    {
+      "duty": "Handle incoming and outgoing communication and correspondence, maintaining professionalism and confidentiality."
+    },
+    {
+      "duty": "Assist in scheduling meetings, appointments, and travel arrangements for team members and managers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree in Business Administration or related field (Bachelor's preferred)"
+    }
+  ]
+}

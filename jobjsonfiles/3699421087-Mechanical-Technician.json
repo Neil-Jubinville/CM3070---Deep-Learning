@@ -1,0 +1,96 @@
+{
+  "meta": [
+    {
+      "job_title": "Mechanical Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "High-Pressure Pipeline Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Reciprocating Engine Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Inspection",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Data Entry and Job Planning in SAP",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Valve Maintenance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Troubleshoot, operate, and maintain gas-fired large-bore reciprocating engines, gas compressors, standby generator engines, centrifugal and diaphragm pumps, low pressure boilers, oil coolers, air compressors, large-bank cooler fans and gear boxes, large diameter valves and operators, and other auxiliary equipment"
+    },
+    {
+      "duty": "Assist in full or partial large-bore reciprocating engine/gas compressor overhauls, to include heads, pistons, rings, liners, pins, bushings, and bearings"
+    },
+    {
+      "duty": "Operate compressor engines and support equipment"
+    },
+    {
+      "duty": "Maintain and repair pipeline; Operate and maintain valves and operators; Inspect, repair, and set regulators and relief valves"
+    },
+    {
+      "duty": "Blow down, purge, and pressurize pipelines and/or stations; Storage field facility operations and maintenance"
+    },
+    {
+      "duty": "Perform line locates on company pipelines and/or utility line patrols and associated right-of-way maintenance"
+    },
+    {
+      "duty": "Plan, coordinate, and perform mechanical maintenance activities, to include routine corrective maintenance, preventive maintenance, equipment and system improvements, and major maintenance projects"
+    },
+    {
+      "duty": "Complete work orders, enter data into job plans, create new work orders, etc. in SAP"
+    },
+    {
+      "duty": "Other tasks as required"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    },
+    {
+      "credential": "Experience in maintaining and troubleshooting large-bore reciprocating engines"
+    },
+    {
+      "credential": "Knowledge of internal combustion engines, reciprocating and centrifugal gas compressors, and standby generators"
+    },
+    {
+      "credential": "Industrial experience in a plant environment"
+    }
+  ]
+}

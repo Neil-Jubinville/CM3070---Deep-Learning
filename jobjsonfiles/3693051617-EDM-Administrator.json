@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "EDM Administrator",
+      "job_category": "Database Management",
+      "job_class": "Administrator",
+      "sector": "Information Technology",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Database Management",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Data Governance",
+      "experience": 5
+    },
+    {
+      "skill": "ETL Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Data Security",
+      "experience": 5
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Install, configure, and maintain database management systems (DBMS) such as SQL Server, Oracle, MySQL, etc."
+    },
+    {
+      "duty": "Develop and enforce data governance policies and standards to ensure data quality, security, and compliance."
+    },
+    {
+      "duty": "Implement and manage data security measures, including access controls, encryption, and authentication."
+    },
+    {
+      "duty": "Design, develop, and maintain data integration workflows and ETL (Extract, Transform, Load) processes."
+    },
+    {
+      "duty": "Participate in designing and implementing data architecture, including data models and schemas."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams, including data analysts, data scientists, developers, and business stakeholders."
+    },
+    {
+      "duty": "Create and maintain documentation for data processes, procedures, and configurations."
+    },
+    {
+      "duty": "Monitor data-related system performance and generate reports to identify trends and areas for improvement."
+    },
+    {
+      "duty": "Manage relationships with data-related vendors, including software providers and service providers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in computer science, Information Technology, or a related field (or equivalent experience)"
+    }
+  ]
+}

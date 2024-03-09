@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Electrical Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Design",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 5
+    },
+    {
+      "skill": "Testing Methods",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Math Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Science Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement electrical components into devices and products"
+    },
+    {
+      "duty": "Design and manufacture electrical products of various sizes and shapes"
+    },
+    {
+      "duty": "Conduct quality assurance checks to maintain product standards"
+    },
+    {
+      "duty": "Evaluate electrical products and systems by designing testing methods"
+    },
+    {
+      "duty": "Test finished products and system capabilities"
+    },
+    {
+      "duty": "Keep necessary equipment operational"
+    },
+    {
+      "duty": "Contribute to team efforts by accomplishing related results"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electrical Engineering or related field"
+    }
+  ]
+}

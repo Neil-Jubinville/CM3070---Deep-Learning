@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Tax Consultant",
+      "job_category": "Accounting",
+      "job_class": "Consultant",
+      "sector": "Finance",
+      "salary": 65000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tax Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "IRS Regulations",
+      "experience": 5
+    },
+    {
+      "skill": "Client Interviews",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 3
+    },
+    {
+      "skill": "Virtual Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Tax Audit Support",
+      "experience": 3
+    },
+    {
+      "skill": "Sales and Marketing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct tax interviews with clients face to face and through virtual tools \u2013 video, phone, chat, email."
+    },
+    {
+      "duty": "Prepare complete and accurate tax returns to inspire confidence in clients and generate business growth."
+    },
+    {
+      "duty": "Provide clients with IRS audit support and mentor and collaborate with teammates."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting or related field (CPA or Enrolled Agent certification preferred)"
+    }
+  ]
+}

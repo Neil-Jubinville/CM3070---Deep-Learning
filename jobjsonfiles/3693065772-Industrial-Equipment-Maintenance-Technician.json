@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Industrial Equipment Maintenance Technician",
+      "job_category": "Maintenance and Facilities",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Control System Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Facility Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing maintenance, troubleshooting, and calibration of industrial equipment, electrical power circuits, control and automation systems."
+    },
+    {
+      "duty": "Conducting preventative maintenance checks on various equipment and systems."
+    },
+    {
+      "duty": "Identifying, reporting, and correcting safety and environmental concerns."
+    },
+    {
+      "duty": "Maintaining electrical switch gear and power distribution systems."
+    },
+    {
+      "duty": "Leading the development and implementation of changes based on advanced analytical testing."
+    },
+    {
+      "duty": "Overseeing the construction and maintenance activities performed by third parties."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Two year Associate Degree in job related technical training or equivalent work experience."
+    }
+  ]
+}

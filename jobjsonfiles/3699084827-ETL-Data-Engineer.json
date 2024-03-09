@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "ETL/Data Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python Development",
+      "experience": 5
+    },
+    {
+      "skill": "UNIX/LINUX",
+      "experience": 5
+    },
+    {
+      "skill": "SQL/Unix/Linux Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Cloud",
+      "experience": 5
+    },
+    {
+      "skill": "ETL Automation with Python",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Glue",
+      "experience": 5
+    },
+    {
+      "skill": "ETL Concepts",
+      "experience": 5
+    },
+    {
+      "skill": "Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Test Strategies",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and automate ETL processes using Python on AWS Cloud infrastructure."
+    },
+    {
+      "duty": "Utilize extensive experience with SQL/Unix/Linux scripting for data manipulation and management."
+    },
+    {
+      "duty": "Implement AWS Glue for ETL processes and maintain data quality and integrity."
+    },
+    {
+      "duty": "Create and execute test strategies to ensure the reliability of ETL processes and data integrity."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": []
+}

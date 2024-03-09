@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Production Specialist",
+      "job_category": "Manufacturing",
+      "job_class": "Specialist",
+      "sector": "Manufacturing",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Process Improvement",
+      "experience": 2
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 2
+    },
+    {
+      "skill": "Production Schedules",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Compliance (ISO)",
+      "experience": 2
+    },
+    {
+      "skill": "Equipment Setup and Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop, maintain, and improve assembly processes and evaluate process specifications."
+    },
+    {
+      "duty": "Collaborate with Quality Engineers on process improvement, monitoring tools, root causes, and corrective actions."
+    },
+    {
+      "duty": "Drive production schedules, support new product introduction and development, and assist in safety compliance (ISO)."
+    },
+    {
+      "duty": "Provide production ready documentation with equipment setup and programs, and make process and efficiency improvements."
+    },
+    {
+      "duty": "Monitor equipment performance, make minor adjustments, clear minor machine difficulties, and perform maintenance and repairs under supervision."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate\u2019s Degree, vocational or technical training, or equivalent."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Systems Administrator",
+      "job_category": "Information Technology",
+      "job_class": "Administrator",
+      "sector": "Software Engineering",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SCCM and Intune Experience",
+      "experience": 5
+    },
+    {
+      "skill": "PowerShell Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Network Protocols",
+      "experience": 5
+    },
+    {
+      "skill": "Software Distribution",
+      "experience": 5
+    },
+    {
+      "skill": "Server Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Windows OS",
+      "experience": 5
+    },
+    {
+      "skill": "Active Directory",
+      "experience": 5
+    },
+    {
+      "skill": "Mobile Device Management",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Plans and executes the implementation of SCCM and Intune for desktop imaging, software distribution, and patch management."
+    },
+    {
+      "duty": "Leads the technical design, engineering, and support activities for desktop and server software distribution, and patch management."
+    },
+    {
+      "duty": "Monitors and maintains SCCM/MECM and Intune system and client functionality, configuration, and health."
+    },
+    {
+      "duty": "Manages AD objects and security groups as it relates to Software Distribution and Patch management."
+    },
+    {
+      "duty": "Develops and maintains documentation related to SCCM and Intune infrastructure, configurations, and procedures."
+    },
+    {
+      "duty": "Provides Tier-3 technical support and troubleshoots all aspects of SCCM/MECM issues related to client devices, supported servers, logs, and databases."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree from an accredited college or university in computer science, management information systems, business administration, or engineering and three years of progressively responsible information systems experience."
+    }
+  ]
+}

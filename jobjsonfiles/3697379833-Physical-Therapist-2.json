@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Physical Therapist 2",
+      "job_category": "Healthcare",
+      "job_class": "Physical Therapist",
+      "sector": "Healthcare",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Therapy",
+      "experience": 3
+    },
+    {
+      "skill": "Medical History Evaluation",
+      "experience": 3
+    },
+    {
+      "skill": "Treatment Plan Development",
+      "experience": 3
+    },
+    {
+      "skill": "Rehabilitation Program Implementation",
+      "experience": 3
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Team Supervision",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct medical history evaluation and physical abilities assessment of patients to develop treatment plans."
+    },
+    {
+      "duty": "Plan and administer prescribed skilled physical therapy treatment and training for patients."
+    },
+    {
+      "duty": "Confer with physician and clinical team members to obtain additional patient information and assist in developing, implementing, and revising the therapy treatment program."
+    },
+    {
+      "duty": "Provide instructions and care plans for Physical Therapy Assistants and Home Health Aide staff and supervise/evaluate their performance."
+    },
+    {
+      "duty": "Accurately and promptly document patients' care observations, interventions, and evaluations."
+    },
+    {
+      "duty": "Report patient's progress to the patient's physician, Clinical Manager, staff, patient, and family."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree from an accredited Physical Therapy Program (approved by the APTA)"
+    },
+    {
+      "credential": "Current and unrestricted Physical Therapy license"
+    },
+    {
+      "credential": "Current CPR certification"
+    },
+    {
+      "credential": "Valid driver\u2019s license, auto insurance, and reliable transportation"
+    }
+  ]
+}

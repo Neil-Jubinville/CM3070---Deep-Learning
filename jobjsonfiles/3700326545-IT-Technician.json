@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Technician",
+      "job_category": "Information Technology",
+      "job_class": "Technician",
+      "sector": "Information Technology",
+      "salary": 39000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Computer Repair",
+      "experience": 3
+    },
+    {
+      "skill": "Networking Equipment",
+      "experience": 3
+    },
+    {
+      "skill": "Hardware Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Software Configuration",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide IT services to both commercial and residential clients."
+    },
+    {
+      "duty": "Maintenance of hardware, such as system installation and component replacement."
+    },
+    {
+      "duty": "Software configuration such as antivirus software, backup systems, and specialty software."
+    },
+    {
+      "duty": "Attention to detail and organization is critical!"
+    },
+    {
+      "duty": "Daily customer interaction."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Information Technology or related field (Preferred)"
+    }
+  ]
+}

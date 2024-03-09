@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. Java Full Stack Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 8
+    },
+    {
+      "skill": "J2EE",
+      "experience": 8
+    },
+    {
+      "skill": "Spring Boot",
+      "experience": 5
+    },
+    {
+      "skill": "React",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 8
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices",
+      "experience": 5
+    },
+    {
+      "skill": "Event-Driven Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 8
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 8
+    },
+    {
+      "skill": "Application Development",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain applications in Java with a deep understanding of the language and core APIs."
+    },
+    {
+      "duty": "Implement Microservices using Spring Boot and Event-Driven architecture."
+    },
+    {
+      "duty": "Utilize SQL and Database management, with a focus on performance tuning and debugging."
+    },
+    {
+      "duty": "Solid understanding of agile methodologies such as CI/CD, Applicant Resiliency, and Security."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": []
+}

@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Oracle DBA",
+      "job_category": "Information Technology",
+      "job_class": "Administrator",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Oracle Database Management",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle Grid Infrastructure",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle Backup and Recovery",
+      "experience": 5
+    },
+    {
+      "skill": "Performance Tuning",
+      "experience": 5
+    },
+    {
+      "skill": "Exadata Management",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle Cloud Infrastructure",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Tuning",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "Migration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain and support Oracle databases, including installation, upgrade, configuration, and troubleshooting."
+    },
+    {
+      "duty": "Expertly manage Backup and Recovery solutions with RMAN and logical backups."
+    },
+    {
+      "duty": "Conduct advanced performance tuning and analysis using Oracle performance tools."
+    },
+    {
+      "duty": "Apply latest DB new features to provide measurable value on client's systems."
+    },
+    {
+      "duty": "Experience with Exadata deployments, managing, and maintaining Exadata/OCI environments."
+    },
+    {
+      "duty": "Knowledge and experience of Oracle Cloud Infrastructure and Exadata Cloud Service."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science, Information Systems or equivalent (Master's preferred)"
+    }
+  ]
+}

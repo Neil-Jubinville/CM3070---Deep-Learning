@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Pediatric Physical Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 46000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Therapy",
+      "experience": 3
+    },
+    {
+      "skill": "Pediatric Therapy",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and implement physical therapy programs that focus on rehabilitation."
+    },
+    {
+      "duty": "Work directly with patients to achieve maximum physical recovery."
+    },
+    {
+      "duty": "Evaluate the effects of therapy treatment and communicate patients' progress."
+    },
+    {
+      "duty": "Record and document patient care services."
+    },
+    {
+      "duty": "Collaborate with other team personnel to achieve well-rounded care."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctorate in Physical Therapy (Preferred)"
+    },
+    {
+      "credential": "NYS License (Required)"
+    }
+  ]
+}

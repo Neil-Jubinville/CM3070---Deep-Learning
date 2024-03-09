@@ -1,0 +1,105 @@
+{
+  "meta": [
+    {
+      "job_title": "Production Worker",
+      "job_category": "Manufacturing",
+      "job_class": "Entry Level",
+      "sector": "Manufacturing",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Equipment Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Quality Checking",
+      "experience": 2
+    },
+    {
+      "skill": "Material Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Machine Set-up",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Power Tools",
+      "experience": 2
+    },
+    {
+      "skill": "Bill of Materials",
+      "experience": 2
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Interpretation of Work Orders",
+      "experience": 2
+    },
+    {
+      "skill": "Measurement Equipment Use",
+      "experience": 2
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 2
+    },
+    {
+      "skill": "Assembly",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate production machines and equipment following accepted practices."
+    },
+    {
+      "duty": "Conduct required quality checks using tape measure and other basic measurement equipment."
+    },
+    {
+      "duty": "Interpret and use production work orders."
+    },
+    {
+      "duty": "Accurately report daily activities on work orders and perform basic data entry."
+    },
+    {
+      "duty": "Use basic power tools such as an impact drill and wrench."
+    },
+    {
+      "duty": "Make machine set-ups as required."
+    },
+    {
+      "duty": "Use a Bill of Materials to build units using proper materials and parts."
+    },
+    {
+      "duty": "Comply with the Quality Management System and conduct 1st piece Inspection."
+    },
+    {
+      "duty": "Perform other duties as assigned."
+    },
+    {
+      "duty": "Maintain regular attendance."
+    },
+    {
+      "duty": "Read and understand blueprints with geometric tolerancing preferred."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140,
+      "student_teacher": 60,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED required."
+    }
+  ]
+}

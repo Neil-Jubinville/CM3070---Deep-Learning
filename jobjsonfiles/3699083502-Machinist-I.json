@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Machinist I",
+      "job_category": "Manufacturing",
+      "job_class": "Machinist",
+      "sector": "Manufacturing",
+      "salary": 28000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Machine Operation",
+      "experience": 5
+    },
+    {
+      "skill": "CNC Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Manual Machine Operation",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Mathematical Concepts",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Shop Math Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 5
+    },
+    {
+      "skill": "Micrometer & Calipers",
+      "experience": 5
+    },
+    {
+      "skill": "Basic Machine Shop Practice",
+      "experience": 5
+    },
+    {
+      "skill": "Measurement Methods",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Set-up, edit programming, and operate lathes, mills, manual, and CNC machines to manufacture products."
+    },
+    {
+      "duty": "Prioritize and coordinate machine shop assignments based on knowledge of products and current specifications."
+    },
+    {
+      "duty": "Maintain CNC machines, clean and organize work area, and follow procedures and specifications."
+    },
+    {
+      "duty": "Participate in R&D and product design projects, as needed."
+    },
+    {
+      "duty": "Train co-workers in job functions, adhere to shop and safety procedures, and perform all other duties as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 160,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED required. Completion of sixty (60) hour CNC Programming Course, AA degree, or AS equivalent in Machine Shop training desired but not required."
+    }
+  ]
+}

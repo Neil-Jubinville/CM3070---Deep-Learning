@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Cashier",
+      "job_category": "Service",
+      "job_class": "Cashier",
+      "sector": "Hospitality",
+      "salary": 24000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Order Processing",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greeting and assisting customers, filling drink orders, and working the drive-thru."
+    },
+    {
+      "duty": "Taking orders from customers and processing payments efficiently."
+    },
+    {
+      "duty": "Cleaning tables, floors, and other areas of the restaurant."
+    },
+    {
+      "duty": "Following proper safety procedures when handling and/or preparing food."
+    },
+    {
+      "duty": "Ability to show up to scheduled shifts on time."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "No formal education required, but a high school diploma or equivalent is preferred."
+    }
+  ]
+}

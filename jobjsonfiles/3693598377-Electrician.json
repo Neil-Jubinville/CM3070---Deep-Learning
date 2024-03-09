@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrician",
+      "job_category": "Skilled Trades",
+      "job_class": "Expert",
+      "sector": "Industrial",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Installation",
+      "experience": 6
+    },
+    {
+      "skill": "NEC Codes",
+      "experience": 6
+    },
+    {
+      "skill": "Conduit Installation",
+      "experience": 6
+    },
+    {
+      "skill": "Wire Splicing",
+      "experience": 6
+    },
+    {
+      "skill": "Cable Tray Installation",
+      "experience": 6
+    },
+    {
+      "skill": "Apprentice Training",
+      "experience": 6
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 6
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Installs, troubleshoots, and repairs electrical systems."
+    },
+    {
+      "duty": "Familiar with NEC codes, follows instructions, and demonstrates a leadership mindset."
+    },
+    {
+      "duty": "Running PVC, EMT, Rigid, and Flexible conduit with 90' bends, offsets, kicks & saddles."
+    },
+    {
+      "duty": "Measuring, cutting, bending, threading, assembling, and installing electrical conduit."
+    },
+    {
+      "duty": "Pulling wiring through conduit assisted by Apprentice."
+    },
+    {
+      "duty": "Splicing wire, stripping insulation, twisting wires together, and applying tape or terminal caps."
+    },
+    {
+      "duty": "Running cable tray and lifting up to 50 lbs."
+    },
+    {
+      "duty": "Training and instructing apprentice level electricians."
+    },
+    {
+      "duty": "Completing tasks efficiently with attention to detail, following written and verbal instructions, and using equipment and tools properly and safely."
+    },
+    {
+      "duty": "Complying with all company policies, procedures, and safety requirements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": []
+}

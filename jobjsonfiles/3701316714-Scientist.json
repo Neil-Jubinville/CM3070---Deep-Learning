@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Scientist",
+      "job_category": "Science",
+      "job_class": "Research",
+      "sector": "Engineering",
+      "salary": 145000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "System Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Artificial Intelligence",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead maintainable and efficient Python code development, coordinate code version deployments through configuration control processes, and support Continuous Integration (CI) and Continuous Deployment (CD) needs."
+    },
+    {
+      "duty": "Lead development of Slurm scripting for job scheduling execution on high-performance computing clusters, and wrap FORTRAN codes with Python interface for scalability and data management efficiency."
+    },
+    {
+      "duty": "Lead small projects and teams, mentor junior developers, evaluate and recommend new tools and technology stacks, develop Machine Learning (ML) techniques, and develop Artificial Intelligence (AI) systems for wargaming applications."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's Degree in Computer Science/Engineering or related technical field from an ABET accredited institution and 6 years of related experience; or an equivalent combination of education and experience directly related to the job duties. At this level a Ph.D. may be preferred."
+    }
+  ]
+}

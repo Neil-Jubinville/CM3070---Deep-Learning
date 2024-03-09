@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Cashier",
+      "job_category": "Retail",
+      "job_class": "Entry Level",
+      "sector": "Retail",
+      "salary": 24000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Stock Management",
+      "experience": 1
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Foodservice Safety",
+      "experience": 1
+    },
+    {
+      "skill": "Training Program Participation",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Handle cash transactions and provide excellent customer service."
+    },
+    {
+      "duty": "Manage stock levels and ensure a clean and safe environment."
+    },
+    {
+      "duty": "Participate in food prep and maintain foodservice safety standards."
+    },
+    {
+      "duty": "Engage in training programs to excel in the role."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED (Preferred)"
+    }
+  ]
+}

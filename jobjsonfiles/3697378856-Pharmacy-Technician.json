@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Pharmacy Technician",
+      "job_category": "Pharmacy",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Prescription Information Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Pharmacy Program Administration",
+      "experience": 2
+    },
+    {
+      "skill": "Health and Wellness Advocacy",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Enter prescription information including patient searches, prescriber searches, drug selection, prescription interpretation, insurance billing, and basic documentation."
+    },
+    {
+      "duty": "Accept customer and prescription information required to process new and refill prescriptions, including refill authorization from doctor offices."
+    },
+    {
+      "duty": "Retrieve medication from inventory."
+    },
+    {
+      "duty": "Create prescription labels and put them on prescription containers."
+    },
+    {
+      "duty": "Place medication into prescription containers."
+    },
+    {
+      "duty": "Complete paperwork related to filling prescriptions and input customer and prescription data into the computer."
+    },
+    {
+      "duty": "Assist with maintaining the Pharmacy department by keeping it clean and in order."
+    },
+    {
+      "duty": "Assist in inventory management processes including order review, inventory returns, restocking shelves, and physical inventory preparation."
+    },
+    {
+      "duty": "Administer pharmacy programs including FlavoRx, Living More, etc."
+    },
+    {
+      "duty": "Assist in maintaining a friendly, team-oriented, and welcoming attitude to serve customers and patients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 90,
+      "introvert_extrovert": 130
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "H.S. Diploma or General Education Degree (GED) required"
+    }
+  ]
+}

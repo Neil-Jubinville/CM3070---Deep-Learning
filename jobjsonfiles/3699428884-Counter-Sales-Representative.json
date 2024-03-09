@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Counter Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Product Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Order Management",
+      "experience": 3
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 3
+    },
+    {
+      "skill": "Merchandising",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Math Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Learning Ability",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide advice to customers regarding the best products to fit their needs."
+    },
+    {
+      "duty": "Process orders via order management system."
+    },
+    {
+      "duty": "Operate cash registers and follow established cash handling procedures."
+    },
+    {
+      "duty": "Prepare and stage orders for customer pick up."
+    },
+    {
+      "duty": "Maintain store appearance and merchandising standards as advised."
+    },
+    {
+      "duty": "Ensure that merchandise is restocked and placed in their respective areas."
+    },
+    {
+      "duty": "Maintain a safe working environment including PPE (Personal Protective Equipment)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": []
+}

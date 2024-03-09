@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Manufacturing Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Manufacturing",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Engineering",
+      "experience": 3
+    },
+    {
+      "skill": "R&D Engineering",
+      "experience": 3
+    },
+    {
+      "skill": "SolidWorks",
+      "experience": 3
+    },
+    {
+      "skill": "Inventor 3D",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop manufacturing processes and systems for on-road load handling equipment."
+    },
+    {
+      "duty": "Conduct research and development to optimize performance and efficiency of manufacturing equipment."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to ensure product quality and compliance with industry standards."
+    },
+    {
+      "duty": "Utilize SolidWorks and Inventor 3D to create 3D models, simulations, and prototypes."
+    },
+    {
+      "duty": "Participate in continuous improvement initiatives to enhance manufacturing processes and reduce costs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Mechanical Engineering or related field (Master's preferred)"
+    }
+  ]
+}

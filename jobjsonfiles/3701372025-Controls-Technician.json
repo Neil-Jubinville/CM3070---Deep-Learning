@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Controls Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Software Engineering",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Systems Design",
+      "experience": 5
+    },
+    {
+      "skill": "Control System Implementation",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Programming Validation",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Panel Assembly",
+      "experience": 5
+    },
+    {
+      "skill": "PLC Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Factory Acceptance Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Site Acceptance Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and implement control systems for packaging and handling machines in Fargo."
+    },
+    {
+      "duty": "Work closely with automation programmers and controls designers to ensure proper execution of machine's electrical design."
+    },
+    {
+      "duty": "Verify electrical schematics and ensure proper assembly and wiring of electrical panels."
+    },
+    {
+      "duty": "Power up and configure control components, assist with electrical troubleshooting, and troubleshoot PLC program using Rockwell Studio 5000 software."
+    },
+    {
+      "duty": "Validate machine electrical system for factory acceptance testing (FAT) and travel to customer's facility for machine integration and site acceptance testing (SAT)."
+    },
+    {
+      "duty": "Complete service on installed equipment at customer's facility and communicate with customers in a positive and professional manner."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate\u2019s degree in Electrical Technology, Industrial Automation, Mechatronics Technology, or related field (or equivalent experience)"
+    },
+    {
+      "credential": "Experience within the automation industry or a manufacturing environment"
+    }
+  ]
+}

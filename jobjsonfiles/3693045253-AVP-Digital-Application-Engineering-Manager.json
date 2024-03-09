@@ -1,0 +1,115 @@
+{
+  "meta": [
+    {
+      "job_title": "AVP Digital Application Engineering Manager",
+      "job_category": "Engineering",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 160000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Digital Development",
+      "experience": 7
+    },
+    {
+      "skill": "Technical Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Full Stack Engineering",
+      "experience": 7
+    },
+    {
+      "skill": ".NET Framework",
+      "experience": 7
+    },
+    {
+      "skill": "C#",
+      "experience": 7
+    },
+    {
+      "skill": "Python",
+      "experience": 7
+    },
+    {
+      "skill": "Angular",
+      "experience": 7
+    },
+    {
+      "skill": "HTML",
+      "experience": 7
+    },
+    {
+      "skill": "CSS",
+      "experience": 7
+    },
+    {
+      "skill": "RESTful API Development",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Azure",
+      "experience": 5
+    },
+    {
+      "skill": "Docker Containers",
+      "experience": 3
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 3
+    },
+    {
+      "skill": "Identity Providers",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft SQL Server",
+      "experience": 5
+    },
+    {
+      "skill": "MongoDB",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage and lead the enterprise-wide digital development teams, production applications, and projects."
+    },
+    {
+      "duty": "Plan, control, and oversee Digital Development staffing needs across project and maintenance portfolios."
+    },
+    {
+      "duty": "Collaborate with Business Analysis and Testing groups in testing Digital applications to business defined quality metrics."
+    },
+    {
+      "duty": "Responsible for ensuring that unit test cases are integrated into solutions and are part of CI/CD pipelines, with 80% and greater code coverage."
+    },
+    {
+      "duty": "Manage production applications to KPIs and troubleshoot any availability and performance issues at multiple layers of deployment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor or master\u2019s degree in Computer Science, Information Systems, or related field."
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Structural Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Engineering",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Structural Engineering",
+      "experience": 4
+    },
+    {
+      "skill": "Steel Structures",
+      "experience": 4
+    },
+    {
+      "skill": "Structural Dynamics",
+      "experience": 4
+    },
+    {
+      "skill": "Numerical Modeling",
+      "experience": 4
+    },
+    {
+      "skill": "Finite Element Analysis",
+      "experience": 4
+    },
+    {
+      "skill": "Load Analyses",
+      "experience": 4
+    },
+    {
+      "skill": "Industry Software",
+      "experience": 4
+    },
+    {
+      "skill": "Program Languages",
+      "experience": 4
+    },
+    {
+      "skill": "Interfacing with other Disciplines",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and analyze primary and secondary steel components for NSWCPD Land Based Test Site facilities, ensuring compliance with industry codes and standards."
+    },
+    {
+      "duty": "Prepare design deliverable documents and validate detailed calculations, design drawings, and specifications for quality control."
+    },
+    {
+      "duty": "Visit site and/or client offices as required by the project to oversee design and analysis activities."
+    },
+    {
+      "duty": "Interface with Project Director, Project Manager, and design team for project collaboration and coordination."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 100,
+      "introvert_extrovert": 130
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS or higher degree in Structural Engineering (P.E. License preferred)"
+    }
+  ]
+}

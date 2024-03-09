@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "job_title": "Client Services Director",
+      "job_category": "Customer Service",
+      "job_class": "Director",
+      "sector": "Financial Services",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Database Management",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Excel",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Database management and account maintenance for 1000+ clients."
+    },
+    {
+      "duty": "Provide customer service to ensure client needs are met."
+    },
+    {
+      "duty": "Maintain and update client accounts."
+    },
+    {
+      "duty": "Utilize Microsoft Excel for data management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration or related field (Master's preferred)"
+    }
+  ]
+}

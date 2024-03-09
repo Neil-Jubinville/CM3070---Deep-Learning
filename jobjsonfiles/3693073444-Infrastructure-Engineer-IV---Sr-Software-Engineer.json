@@ -1,0 +1,114 @@
+{
+  "meta": [
+    {
+      "job_title": "Infrastructure Engineer IV / Sr Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior",
+      "sector": "Entertainment Industry",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Video Broadcasting",
+      "experience": 5
+    },
+    {
+      "skill": "Streaming Media Standards",
+      "experience": 5
+    },
+    {
+      "skill": "PHP Development",
+      "experience": 4
+    },
+    {
+      "skill": "Golang Development",
+      "experience": 4
+    },
+    {
+      "skill": "Cloud Services",
+      "experience": 4
+    },
+    {
+      "skill": "API Management",
+      "experience": 4
+    },
+    {
+      "skill": "Microservices Architecture",
+      "experience": 4
+    },
+    {
+      "skill": "CI/CD Solutions",
+      "experience": 4
+    },
+    {
+      "skill": "Docker",
+      "experience": 4
+    },
+    {
+      "skill": "AVC, HEVC, VP9, AV1, AAC Video Codec Standards",
+      "experience": 5
+    },
+    {
+      "skill": "Media Containers",
+      "experience": 5
+    },
+    {
+      "skill": "Transcoding and Packaging Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 4
+    },
+    {
+      "skill": "EKS/GKE",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain and evolve video delivery and SVOD platform."
+    },
+    {
+      "duty": "Plan, design, and build out cloud-based microservices to support video processing workflows."
+    },
+    {
+      "duty": "Field questions and requests regarding APIs and behavior."
+    },
+    {
+      "duty": "Work closely with the partnership team about media delivery to outside partners."
+    },
+    {
+      "duty": "Work with other developers and operations team on streamlined CI/CD solutions."
+    },
+    {
+      "duty": "Help in building the shared libraries and architecture to be used across all services."
+    },
+    {
+      "duty": "Modernize and optimize cloud Video Partner Delivery platform."
+    },
+    {
+      "duty": "Building new microservices, features, and improving Video Delivery / Content Filtering solutions for the entertainment company."
+    },
+    {
+      "duty": "Maintain cloud services in GCP/AWS that power content sharing with partners like Apple, Amazon, Youtube etc."
+    },
+    {
+      "duty": "Work with development teams on re-architecture/modernizing existing systems into the cloud."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS degree in Computer Science, similar technical field of study or equivalent practical experience"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Virtual Assistant Validator",
+      "job_category": "Virtual Assistance",
+      "job_class": "Validator",
+      "sector": "Software Engineering",
+      "salary": 40000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Language Fluency",
+      "experience": 5
+    },
+    {
+      "skill": "Task Validation",
+      "experience": 3
+    },
+    {
+      "skill": "Query Writing",
+      "experience": 3
+    },
+    {
+      "skill": "Smart Home Technology Familiarity",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Tune virtual assistants by writing and validating queries for various tasks."
+    },
+    {
+      "duty": "Think of different ways to ask questions and validate existing queries."
+    },
+    {
+      "duty": "Put yourself in the shoes of a smart home user and find different ways of writing specific requests in your local language."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Fluent speaker in a specific language"
+    }
+  ]
+}

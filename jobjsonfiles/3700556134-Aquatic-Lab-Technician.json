@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Aquatic Lab Technician",
+      "job_category": "Laboratory",
+      "job_class": "Technician",
+      "sector": "Science",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Laboratory Instrument Usage",
+      "experience": 2
+    },
+    {
+      "skill": "Data Spreadsheets",
+      "experience": 2
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 2
+    },
+    {
+      "skill": "Laboratory Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Daily lab and equipment maintenance and cleaning"
+    },
+    {
+      "duty": "Glassware support and test organism culturing and maintenance"
+    },
+    {
+      "duty": "Conducting technical aspects of laboratory toxicity testing or other similar projects"
+    },
+    {
+      "duty": "Recording test data and filling out logbooks"
+    },
+    {
+      "duty": "Data entry, QA/QC, statistical analysis, and report preparation support"
+    },
+    {
+      "duty": "Support and adherence to Health and Safety requirements"
+    },
+    {
+      "duty": "Participating on occasion with field teams to collect water, sediment, and biological samples"
+    },
+    {
+      "duty": "Participating in regional scientific organizations"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 130,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED"
+    },
+    {
+      "credential": "BS or MS in Aquatic Sciences, Toxicology, Chemistry, Ecology or Marine Biology"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Primary Care Physician",
+      "job_category": "Healthcare",
+      "job_class": "Physician",
+      "sector": "Healthcare",
+      "salary": 210000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Primary Care Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "Telemedicine",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Procedures",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Managing a patient panel with a broad array of patient needs, including acute, chronic, and well visits."
+    },
+    {
+      "duty": "Treating patients in-office, in testing centers, and conducting occasional tele-health visits."
+    },
+    {
+      "duty": "Continuous learning during weekly Clinical Rounds and through other modalities."
+    },
+    {
+      "duty": "Collaborating with in-office teammates via daily huddles, as well as with virtual clinical teams."
+    },
+    {
+      "duty": "Utilizing specific clinical training and opportunities to perform in-office procedures."
+    },
+    {
+      "duty": "Supervising one or more NP or PA colleagues."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 120,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Enrolled in, or have completed, an accredited Family Medicine or Medicine/Pediatrics residency program."
+    },
+    {
+      "credential": "Practiced at least 2 of the last 5 years in an outpatient primary care setting seeing all ages (0+)."
+    },
+    {
+      "credential": "Board certified in Family Medicine or Medicine/Pediatrics, or Board Eligible with plans to obtain board certification within 1 year of start date."
+    },
+    {
+      "credential": "State licensed in California, obtained before start date."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Associate",
+      "job_category": "Logistics",
+      "job_class": "Associate",
+      "sector": "Logistics",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Shipping and Receiving",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Forklift Operation",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform shipping and receiving activities for a Branch location to ensure timely delivery of correct items to customers."
+    },
+    {
+      "duty": "Picking, checking, and shipping items from sales orders, and preparing them for delivery to customers."
+    },
+    {
+      "duty": "Securing packages to prevent damage during shipping and processing customer returns for shipment back to Distribution Center, Fulfillment Center, or supplier."
+    },
+    {
+      "duty": "Sorting, placing, and reporting damaged or substandard inventory items and maintaining a clean and safe working environment."
+    },
+    {
+      "duty": "Possibly delivering items to customers, processing counter sales or invoices, and operating a forklift or similar equipment."
+    },
+    {
+      "duty": "Receiving items in the computer system to maintain availability for customers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED"
+    }
+  ]
+}

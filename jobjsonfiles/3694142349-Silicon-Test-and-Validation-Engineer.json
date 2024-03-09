@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Silicon Test and Validation Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Silicon Test and Validation",
+      "experience": 1
+    },
+    {
+      "skill": "Lab Equipment and Measurement Techniques",
+      "experience": 2
+    },
+    {
+      "skill": "High Speed Scopes and Probes",
+      "experience": 2
+    },
+    {
+      "skill": "Scripting Languages (Python, TCL)",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 4
+    },
+    {
+      "skill": "Communication",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Validate DDR, LPDDR, and GDDR Cadence test chip silicon for leading edge protocols and advanced nodes."
+    },
+    {
+      "duty": "Bring up, characterize, and validate test chips."
+    },
+    {
+      "duty": "Work with design team to debug problems and performance issues."
+    },
+    {
+      "duty": "Report results to design teams."
+    },
+    {
+      "duty": "Generate test reports."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BEng, MEng"
+    },
+    {
+      "credential": "Minimum 1 year of silicon test and validation experience"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Service Manager",
+      "job_category": "Customer Service",
+      "job_class": "Field Service Manager",
+      "sector": "Customer Service",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Equipment Repair and Maintenance",
+      "experience": 7
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Management",
+      "experience": 7
+    },
+    {
+      "skill": "Field Operations",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage the repair and maintenance of equipment, including work schedules, service calls, and parts orders."
+    },
+    {
+      "duty": "Provide training and assistance to field service technicians and handle customer complaints."
+    },
+    {
+      "duty": "Promote safety awareness and perform quality control checks on equipment."
+    },
+    {
+      "duty": "Update and maintain equipment service records, handle warranty claims, and commission new equipment."
+    },
+    {
+      "duty": "Prepare various reports related to equipment, fleet status, work orders, inventory management, and financial trending."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Extensive experience in the repair and maintenance of diesel engines and/or electric motors, work planning and scheduling, strong understanding of equipment capabilities and safety requirements."
+    }
+  ]
+}

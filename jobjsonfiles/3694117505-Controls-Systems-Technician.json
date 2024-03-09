@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Controls Systems Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Conveyor Maintenance",
+      "experience": 4
+    },
+    {
+      "skill": "Automation",
+      "experience": 4
+    },
+    {
+      "skill": "Robotics",
+      "experience": 4
+    },
+    {
+      "skill": "PLC Troubleshooting",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Protocols",
+      "experience": 4
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 4
+    },
+    {
+      "skill": "Root Cause Analysis",
+      "experience": 4
+    },
+    {
+      "skill": "Documentation",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain and repair conveyance, automation, and facilities equipment to support operations uptime and improve reliability of systems."
+    },
+    {
+      "duty": "Perform preventive maintenance and routine inspections on assigned automation, robotics, and control panels."
+    },
+    {
+      "duty": "Troubleshoot assigned out-of-service equipment, correct issues, and mentor lower-level technicians."
+    },
+    {
+      "duty": "Document all work in the computerized maintenance management system (CMMS) and ticketing systems."
+    },
+    {
+      "duty": "Lead root cause analysis of major downtime events and act as a network resource for technical issues."
+    },
+    {
+      "duty": "Develop maintenance personnel knowledge on intermediate to advanced automation, controls, and robotics."
+    },
+    {
+      "duty": "Partner with engineering on commissioning of new controls systems and audit vendor work to provide feedback to leadership on quality of work and SLA performance."
+    },
+    {
+      "duty": "Write and/or modify PMs to standardize across the network and increase effectiveness and perform building project work as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree in electronic technology or equivalent preferred."
+    }
+  ]
+}

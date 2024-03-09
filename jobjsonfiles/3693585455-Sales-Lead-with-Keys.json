@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Lead with Keys",
+      "job_category": "Sales",
+      "job_class": "Lead",
+      "sector": "Sales",
+      "salary": 20000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Cash Register Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Team Management",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Merchandising",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create personalized shopping experiences for customers to drive brand loyalty."
+    },
+    {
+      "duty": "Model and implement our Service Training Program, greeting customers promptly and courteously."
+    },
+    {
+      "duty": "Operate the cash register, handle money accurately, and check inventory daily."
+    },
+    {
+      "duty": "Maintain a clean and well-organized back-stock area and employee break area."
+    },
+    {
+      "duty": "Promote a positive work environment by recognizing outstanding performance from team members."
+    },
+    {
+      "duty": "Empower team members through communication and recognition."
+    },
+    {
+      "duty": "Maintain knowledge of current trends and styles and respond to problem situations with professionalism."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 90,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma"
+    }
+  ]
+}

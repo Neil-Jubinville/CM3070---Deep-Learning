@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Hardware Risk Analyst",
+      "job_category": "Engineering",
+      "job_class": "Risk Analyst",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Operating Systems (Android, Linux, Windows)",
+      "experience": 5
+    },
+    {
+      "skill": "Hardware Security and Embedded Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Threat Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Penetration Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Reverse Engineering (JTAG, UART)",
+      "experience": 5
+    },
+    {
+      "skill": "Evidence Handling and Management",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Report Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Vulnerability Research",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct analysis of hardware including components, servers, and consumer devices."
+    },
+    {
+      "duty": "Penetration testing & vulnerability research across hardware, software, network, and protocol stacks."
+    },
+    {
+      "duty": "Intake, documentation, and secure storage of hardware samples and evidence."
+    },
+    {
+      "duty": "Prepare clear and concise technical reports."
+    },
+    {
+      "duty": "Draft penetration testing methodology."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Revenue Manager",
+      "job_category": "Finance",
+      "job_class": "Manager",
+      "sector": "Consulting",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Revenue Accounting",
+      "experience": 10
+    },
+    {
+      "skill": "Management",
+      "experience": 5
+    },
+    {
+      "skill": "NetSuite",
+      "experience": 5
+    },
+    {
+      "skill": "Salesforce",
+      "experience": 5
+    },
+    {
+      "skill": "Zone Billing",
+      "experience": 5
+    },
+    {
+      "skill": "ASC 606",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and oversee month end close, reconciliations, and journal entries for revenue accounting"
+    },
+    {
+      "duty": "Be the main point of contact for the implementation of ASC 606 in NetSuite"
+    },
+    {
+      "duty": "Assist with annual audit, process improvement, and deferred revenue scheduling"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's in Accounting or Finance; CPA preferred"
+    }
+  ]
+}

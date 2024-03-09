@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Development Engineer in Test",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 115000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "C#",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Selenium",
+      "experience": 5
+    },
+    {
+      "skill": "SOAP and REST",
+      "experience": 5
+    },
+    {
+      "skill": "SQL/PL-SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Git",
+      "experience": 5
+    },
+    {
+      "skill": "LoadRunner/JMeter/Locust",
+      "experience": 5
+    },
+    {
+      "skill": "APM/Log/Data analysis tools",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop automation/performance solutions that meet organization standards and build reliable, reusable, and maintainable automated regression suites & test harnesses."
+    },
+    {
+      "duty": "Work in partnership with the development teams to deliver business functionality on time with required quality that meets the acceptance criteria."
+    },
+    {
+      "duty": "Participate in internal/cross-team meetings, project scoping, functional reviews, and technical reviews for assigned projects in an Agile environment."
+    },
+    {
+      "duty": "Involved in requirements review and participate in architecture/design reviews with an emphasis on test automation/performance strategy and ensuring best practices."
+    },
+    {
+      "duty": "Gather quality assurance data and metrics to provide insights and conclusions."
+    },
+    {
+      "duty": "Estimate and perform risk analysis for quality delivery."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or higher qualification in Computer Science, Information Systems, or equivalent is preferred"
+    }
+  ]
+}

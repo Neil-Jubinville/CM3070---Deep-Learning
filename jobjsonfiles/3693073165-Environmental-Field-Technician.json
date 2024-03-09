@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Environmental Field Technician",
+      "job_category": "Environmental",
+      "job_class": "Technician",
+      "sector": "Environmental Science",
+      "salary": 52000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Evaluation",
+      "experience": 1
+    },
+    {
+      "skill": "Field Activities",
+      "experience": 1
+    },
+    {
+      "skill": "Sampling Techniques",
+      "experience": 1
+    },
+    {
+      "skill": "Calibration",
+      "experience": 1
+    },
+    {
+      "skill": "Soil Sampling",
+      "experience": 1
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Report Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in the calibration of sampling/monitoring equipment, soil sampling, well installation, and groundwater sampling."
+    },
+    {
+      "duty": "Prepare and review data tables, soil boring logs, and technical reports."
+    },
+    {
+      "duty": "Work predominantly in the field, conducting sample collection, recording of operational parameters, and oversight of subcontractors."
+    },
+    {
+      "duty": "Physically move around outdoors in various terrains, in adverse weather conditions, and occasionally for extended hours."
+    },
+    {
+      "duty": "Use of hand-held monitoring instruments and tools, as well as water sampling equipment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 70,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in relevant technical field (Master's preferred)"
+    }
+  ]
+}

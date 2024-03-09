@@ -1,0 +1,47 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr Java Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 135000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 10
+    },
+    {
+      "skill": "Spring",
+      "experience": 10
+    },
+    {
+      "skill": "Angular",
+      "experience": 10
+    },
+    {
+      "skill": "AWS",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and maintain high-quality Java applications and systems."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to define, design, and ship new features."
+    },
+    {
+      "duty": "Ensure the performance, quality, and responsiveness of applications."
+    },
+    {
+      "duty": "Identify and correct bottlenecks and fix bugs."
+    },
+    {
+      "duty": "Help maintain code quality, organization, and automatization."
+    }
+  ]
+}

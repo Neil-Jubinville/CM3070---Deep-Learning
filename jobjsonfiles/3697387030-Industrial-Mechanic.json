@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Industrial Mechanic",
+      "job_category": "Industrial",
+      "job_class": "Mechanic",
+      "sector": "Industrial",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Control Electrico",
+      "experience": 3
+    },
+    {
+      "skill": "Electrical Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Hydraulic and Pneumatic Equipment",
+      "experience": 3
+    },
+    {
+      "skill": "Preventive Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Industrial Safety",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Computer Knowledge",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform preventive and corrective maintenance on industrial equipment."
+    },
+    {
+      "duty": "Carry out electrical and pneumatic installations."
+    },
+    {
+      "duty": "Actively participate in the continuous improvement of facilities and equipment."
+    },
+    {
+      "duty": "Commissioning of new equipment."
+    },
+    {
+      "duty": "Provide guidance to other mechanics to perform their work."
+    },
+    {
+      "duty": "Prevent equipment problems."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Professional Technical Degree with 3 or more years of experience as an industrial mechanic."
+    }
+  ]
+}

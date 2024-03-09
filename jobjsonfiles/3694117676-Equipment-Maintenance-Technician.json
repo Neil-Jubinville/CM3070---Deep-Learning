@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Equipment Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Hydraulic Brake Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Air Brake Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Engine Maintenance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain and repair a diverse range of equipment including delivery vehicles, heavy duty machinery, on road tractors, and trailers from a variety of manufacturers."
+    },
+    {
+      "duty": "Troubleshoot and maintain/repair various systems including hydraulic brakes, air brakes, electronics, and engines."
+    },
+    {
+      "duty": "Perform other maintenance tasks as requested."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Must be a U.S. Citizen or National of the U.S., an alien lawfully admitted for permanent residence, or an alien authorized to work in the U.S. for this employer."
+    }
+  ]
+}

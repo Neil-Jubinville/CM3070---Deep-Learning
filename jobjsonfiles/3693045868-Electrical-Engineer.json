@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Electrical/Computer Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "PCB Design",
+      "experience": 5
+    },
+    {
+      "skill": "System Level Development",
+      "experience": 5
+    },
+    {
+      "skill": "High Speed SerDes Interfaces",
+      "experience": 5
+    },
+    {
+      "skill": "X86 Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Power Delivery Techniques",
+      "experience": 5
+    },
+    {
+      "skill": "CPLDs and FPGAs",
+      "experience": 5
+    },
+    {
+      "skill": "Board Design",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design high speed PCBs following requirement provided by HW engineer"
+    },
+    {
+      "duty": "Perform schematic and board level reviews."
+    },
+    {
+      "duty": "Bring up PCBs and systems using diagnostic software."
+    },
+    {
+      "duty": "Perform unit level validation of boards and systems following published guideline and test plan."
+    },
+    {
+      "duty": "Debug assigned issues and document root cause and corrective action."
+    },
+    {
+      "duty": "Work on at least 2 PCB designs"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electrical or Computer Engineering"
+    }
+  ]
+}

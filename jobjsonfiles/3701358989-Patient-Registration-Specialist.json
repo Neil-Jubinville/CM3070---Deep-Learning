@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Registration Specialist",
+      "job_category": "Healthcare",
+      "job_class": "Specialist",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Registration",
+      "experience": 2
+    },
+    {
+      "skill": "Insurance Verification",
+      "experience": 2
+    },
+    {
+      "skill": "CPT/ICD 9 Codes",
+      "experience": 2
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 2
+    },
+    {
+      "skill": "Electronic Health Records (EHR)",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform patient registration, CPT/ICD 9 coding, and insurance verification procedures."
+    },
+    {
+      "duty": "Maintain encounter integrity by accurately selecting the appropriate billing numbers and verifying patient demographic and insurance information."
+    },
+    {
+      "duty": "Collaborate with clinic staff to collect clinical information needed for authorizations."
+    },
+    {
+      "duty": "Confirm patient eligibility, obtain benefit specifics, document details, and secure referrals for authorizations to optimize reimbursement."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 100,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

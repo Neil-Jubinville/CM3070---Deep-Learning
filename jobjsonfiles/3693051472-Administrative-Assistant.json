@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Administrative Assistant",
+      "job_category": "Administration",
+      "job_class": "Assistant",
+      "sector": "Management",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Office Management",
+      "experience": 5
+    },
+    {
+      "skill": "Organization",
+      "experience": 5
+    },
+    {
+      "skill": "Administrative Support",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "Confidentiality Management",
+      "experience": 5
+    },
+    {
+      "skill": "Software Proficiency",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage and organize general office management and office filing systems, including record retention and mail management."
+    },
+    {
+      "duty": "Coordinate travel plans, including scheduling, itineraries, and travel expense reports."
+    },
+    {
+      "duty": "Provide high-quality administrative support for the preparation of organization charts, reports, communication, correspondence, and presentations."
+    },
+    {
+      "duty": "Maintain and follow-up on assignments and requested information, interacting with executives and staff at all levels."
+    },
+    {
+      "duty": "Interface with union workers to ensure facilities issues are addressed and resolved."
+    },
+    {
+      "duty": "Responsible for maintaining department supplies, electronic timekeeping, and confidential management of sensitive information."
+    },
+    {
+      "duty": "Represent the office in a professional manner and interface effectively with employees at all levels, demonstrating strong communication and interpersonal skills."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree preferred, but not required"
+    }
+  ]
+}

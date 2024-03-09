@@ -1,0 +1,106 @@
+{
+  "meta": [
+    {
+      "job_title": "Welder",
+      "job_category": "Manufacturing",
+      "job_class": "Skilled Labor",
+      "sector": "Manufacturing",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Welding",
+      "experience": 5
+    },
+    {
+      "skill": "Blueprint Reading and Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Operation",
+      "experience": 5
+    },
+    {
+      "skill": "Material Handling",
+      "experience": 5
+    },
+    {
+      "skill": "Dye Penetrant Inspection",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform safety checks on cranes, tools, and equipment, and document as necessary."
+    },
+    {
+      "duty": "Load welder with component parts and adjust machines according to blueprint."
+    },
+    {
+      "duty": "Read and interpret job specific blueprints and job routings."
+    },
+    {
+      "duty": "Assemble heads and shells for machine welding operations and remove finished products."
+    },
+    {
+      "duty": "Hold necessary welding certifications to operate machines and make repairs to manufactured products."
+    },
+    {
+      "duty": "Conduct dye penetrant inspection, and perform repairs to joggled shells."
+    },
+    {
+      "duty": "Operate cranes, hoists, and forklifts as needed, and complete relevant paperwork in the computer database."
+    },
+    {
+      "duty": "Visually inspect welds to assure that blueprints, code, and quality standards are met."
+    },
+    {
+      "duty": "Monitor machines for unusual sound or vibration, and maintain equipment while notifying the foreman of any problems."
+    },
+    {
+      "duty": "Upkeep of fluxes, copper bars, and other various aspects of automatic welding machines."
+    },
+    {
+      "duty": "Adhere to all ITAR-specific job standards and training, and protect and safeguard ITAR-sensitive information and work product."
+    },
+    {
+      "duty": "Immediately notify Supervisor/Manager, Human Resources, Legal, or Ethics Alert Hotline of known or suspected unauthorized disclosure, release, or access to protected ITAR content."
+    },
+    {
+      "duty": "Successfully complete training on the operation of specific machines, including Duema, Pandjiris, Jetline submerged arc stake welds, Spray Girth, Midget Girth, Inseam Weld, Submerged arc girth weld, \u201cOne Arm\u201d girth weld, Stake welder, Stainless steel girth weld, and Stainless steel spray stake weld."
+    },
+    {
+      "duty": "Understand and support company policies and procedures, and abide by all safety rules and regulations."
+    },
+    {
+      "duty": "Read blueprints and complete relevant paperwork in the computer database."
+    },
+    {
+      "duty": "Complete required welding certifications, such as Welding Certificate 3-1 (Submerged Arc) and Welding Certificate 5-1 (GMAW SA or ME - Spray Arc)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma, GED, or at least 1 year working experience in an industrial based environment."
+    },
+    {
+      "credential": "Welding Certificate 3-1 Saw Me (Submerged Arc)"
+    },
+    {
+      "credential": "Welding Certificate 5-1 GMAW SA or ME (Spray Arc)"
+    }
+  ]
+}

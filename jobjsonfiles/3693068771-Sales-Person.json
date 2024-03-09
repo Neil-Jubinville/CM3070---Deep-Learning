@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Person",
+      "job_category": "Sales",
+      "job_class": "Entry Level",
+      "sector": "Sales",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Account Management",
+      "experience": 2
+    },
+    {
+      "skill": "Client Relations",
+      "experience": 3
+    },
+    {
+      "skill": "Boilers",
+      "experience": 3
+    },
+    {
+      "skill": "Burners",
+      "experience": 3
+    },
+    {
+      "skill": "Pumps",
+      "experience": 3
+    },
+    {
+      "skill": "Sales Order Processing",
+      "experience": 2
+    },
+    {
+      "skill": "Travel Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create and maintain relationships with customers (contractors, end users and wholesalers) to gain equipment sales"
+    },
+    {
+      "duty": "Size and select equipment"
+    },
+    {
+      "duty": "Provide quotations and submittals"
+    },
+    {
+      "duty": "Enter sales orders and purchase orders"
+    },
+    {
+      "duty": "Manage projects from sale to installation and through warranty period"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Previous account management experience in HVAC and/or plumbing industry"
+    }
+  ]
+}

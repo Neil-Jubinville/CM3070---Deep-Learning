@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. Process Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Hydraulics",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Pneumatic Systems",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform emergency and routine maintenance on all manufacturing equipment, including equipment changeovers, and assist production personnel to minimize downtime."
+    },
+    {
+      "duty": "Install and repair electrical, mechanical, hydraulic, and pneumatic systems, ensuring equipment is maintained in top working condition."
+    },
+    {
+      "duty": "Diagnose and repair faulty electrical components of machines such as motors, AC/DC drives, and sensors as well as Automation controls, such as PLC IO"
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Technical Diploma in Mechanical or Electrical Engineering (Bachelor's degree preferred)"
+    }
+  ]
+}

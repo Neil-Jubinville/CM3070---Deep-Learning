@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Product Owner",
+      "job_category": "Software Engineering",
+      "job_class": "Owner",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Scrum",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Analytics Tools",
+      "experience": 5
+    },
+    {
+      "skill": "User-Centered Design",
+      "experience": 5
+    },
+    {
+      "skill": "Business Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Prioritization",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with prospective users and clients to understand and anticipate their needs and translate them into product requirements."
+    },
+    {
+      "duty": "Create a product road map based on this vision."
+    },
+    {
+      "duty": "Incorporate feature requests into product roadmap."
+    },
+    {
+      "duty": "Manage the product backlog and prioritize based on changing requirements."
+    },
+    {
+      "duty": "Develop user stories for the development team."
+    },
+    {
+      "duty": "Monitor and evaluate product progress at each stage of the process."
+    },
+    {
+      "duty": "Liaise with the business to provide updates."
+    },
+    {
+      "duty": "Participate in Scrum meetings and product sprints."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree or equivalent experience in business or information systems."
+    }
+  ]
+}

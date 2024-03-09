@@ -1,0 +1,47 @@
+{
+  "meta": [
+    {
+      "job_title": "Store Driver",
+      "job_category": "Logistics",
+      "job_class": "Driver",
+      "sector": "Retail",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Driving",
+      "experience": 2
+    },
+    {
+      "skill": "Parts Delivery",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver parts to commercial customers and assist with task and inventory processes in the store."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid driver's license"
+    }
+  ]
+}

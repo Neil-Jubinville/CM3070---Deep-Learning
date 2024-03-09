@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Aesthetician/Esthetician",
+      "job_category": "Healthcare",
+      "job_class": "Aesthetician",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Skin Care",
+      "experience": 5
+    },
+    {
+      "skill": "Laser Treatment",
+      "experience": 5
+    },
+    {
+      "skill": "Facial and Peel Procedures",
+      "experience": 5
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Cleanliness and Safety Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Assistant Experience",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform skin care and rejuvenation procedures following established protocols."
+    },
+    {
+      "duty": "Communicate effectively with clients about their treatments, and suggest additional products and at-home care."
+    },
+    {
+      "duty": "Maintain cleanliness and safety of rooms, materials, equipment, and spa."
+    },
+    {
+      "duty": "Deliver an exceptional level of professionalism and create a positive atmosphere for clients."
+    },
+    {
+      "duty": "Experience in Aesthetic Practice is a plus."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "NYS Aestheticians License"
+    }
+  ]
+}

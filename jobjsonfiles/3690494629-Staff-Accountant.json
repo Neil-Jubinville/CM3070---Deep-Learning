@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Accountant",
+      "job_category": "Accounting",
+      "job_class": "Accountant",
+      "sector": "Finance",
+      "salary": 52000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "Bookkeeping",
+      "experience": 5
+    },
+    {
+      "skill": "Payroll Management",
+      "experience": 3
+    },
+    {
+      "skill": "Tax Preparation",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 4
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 4
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing bookkeeping, payables, and recording payroll entries"
+    },
+    {
+      "duty": "Preparing tax returns and maintaining the chart of accounts"
+    },
+    {
+      "duty": "Working with the implementation team to ensure client success and timely service delivery"
+    },
+    {
+      "duty": "Assisting the Chief Visionary with tasks and special projects"
+    },
+    {
+      "duty": "Answering calls and assisting clients with a positive experience"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associates degree in Accounting or related field (Bachelor's preferred)"
+    }
+  ]
+}

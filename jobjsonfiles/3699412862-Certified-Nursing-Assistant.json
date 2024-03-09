@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Certified Nursing Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Vital Signs Monitoring",
+      "experience": 2
+    },
+    {
+      "skill": "Personal Hygiene Assistance",
+      "experience": 2
+    },
+    {
+      "skill": "Electronic Charting",
+      "experience": 2
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "High-Pressure Handling",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist residents with daily living activities and provide personal hygiene assistance."
+    },
+    {
+      "duty": "Monitor and record vital signs in the patient\u2019s electronic chart."
+    },
+    {
+      "duty": "Collaborate with the nursing staff and other team members as needed."
+    },
+    {
+      "duty": "Adhere to professional standards, follow policies and procedures, and comply with state and federal requirements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150
+    },
+    {
+      "student_teacher": 100
+    },
+    {
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Completion of a state-approved CNA certification training course and current CNA certificate in the state of Massachusetts"
+    },
+    {
+      "credential": "High School diploma or equivalent"
+    },
+    {
+      "credential": "Basic computer skills"
+    }
+  ]
+}

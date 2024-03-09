@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Analyst, Service Desk",
+      "job_category": "Information Technology",
+      "job_class": "Analyst",
+      "sector": "IT",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Support",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Knowledge of IT Tools",
+      "experience": 3
+    },
+    {
+      "skill": "Incident Ticketing",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide level 1 customer and technical support through inbound phone and email requests."
+    },
+    {
+      "duty": "Identify, troubleshoot, document, and replicate simple to complex customer problems and resolve or escalate complex problems."
+    },
+    {
+      "duty": "Apply existing technical skills and develop advanced skills using appropriate tools and equipment."
+    },
+    {
+      "duty": "Carry out level 1 tasks such as password changes, user account creations, deletions, archiving, assisting with printers, software, and system issues."
+    },
+    {
+      "duty": "Participate in the continuous improvement of Service Desk processes and communication with customers and IT teams."
+    },
+    {
+      "duty": "Enter, track, and maintain incident tickets in the Service Now ticketing system."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Information Technology, Computer Science, or related field (Master's preferred)"
+    }
+  ]
+}

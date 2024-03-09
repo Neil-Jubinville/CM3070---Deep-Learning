@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Restaurant Server",
+      "job_category": "Food Service",
+      "job_class": "Entry-Level",
+      "sector": "Food Service",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greet customers promptly upon taking a seat in the restaurant."
+    },
+    {
+      "duty": "Share any specials or make recommendations from the menu for the customer."
+    },
+    {
+      "duty": "Secure drink orders and take food orders in an efficient manner."
+    },
+    {
+      "duty": "Inspect food for accuracy and presentation prior to delivery."
+    },
+    {
+      "duty": "Maintain a clean table and assist with any refills or requests as needed."
+    },
+    {
+      "duty": "Complete all side station work and maintain a clean safe environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

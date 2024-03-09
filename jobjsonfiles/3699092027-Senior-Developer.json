@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "COBOL Mainframe",
+      "experience": 5
+    },
+    {
+      "skill": "Servers",
+      "experience": 5
+    },
+    {
+      "skill": "WebFocus",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "Scrum Process",
+      "experience": 5
+    },
+    {
+      "skill": "Code Review",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Consultation with Solution Architects, Solution Engineers, Business Analysts, Customers, and Project Managers."
+    },
+    {
+      "duty": "Management of Scrum process, leading using an Agile methodology."
+    },
+    {
+      "duty": "Identifying and recommending changes and improvements."
+    },
+    {
+      "duty": "Problem solve issues and streamline development processes."
+    },
+    {
+      "duty": "Conduct code reviews."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "4+ years of experience as a software developer in progressively more complex assignments with experience managing requirements for software application development, service delivery, and customer satisfaction, or relevant experience in an IT applications/solutions delivery role."
+    }
+  ]
+}

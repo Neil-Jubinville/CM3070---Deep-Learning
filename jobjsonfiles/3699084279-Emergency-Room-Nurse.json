@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Emergency Room Nurse",
+      "job_category": "Nursing",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Emergency room nursing",
+      "experience": 5
+    },
+    {
+      "skill": "Patient care",
+      "experience": 5
+    },
+    {
+      "skill": "Critical care",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency procedures",
+      "experience": 5
+    },
+    {
+      "skill": "Patient assessment",
+      "experience": 5
+    },
+    {
+      "skill": "CPR and life support techniques",
+      "experience": 5
+    },
+    {
+      "skill": "Medical equipment operation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "React quickly to the patient and directions from the doctor in the emergency room setting."
+    },
+    {
+      "duty": "Provide age-appropriate care to patients based on physical, psychosocial, cultural, safety, and learning needs."
+    },
+    {
+      "duty": "Perform delegated duties consistent with scope of practice and functions within the philosophy and overall plan of care delivery."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an Accredited School of Nursing; BSN desirable"
+    },
+    {
+      "credential": "Current Registered Nurse license in the State of Colorado or current RN compact license from another state for the 1st 180 days of employment"
+    },
+    {
+      "credential": "Current BCLS, ACLS, PALS and TNCC required, ENPC & NRP certification preferred."
+    },
+    {
+      "credential": "1 to 2 years acute care/specialty nursing desired"
+    },
+    {
+      "credential": "Fully vaccinated for COVID-19 based on local, state, and/or federal law or regulations"
+    }
+  ]
+}

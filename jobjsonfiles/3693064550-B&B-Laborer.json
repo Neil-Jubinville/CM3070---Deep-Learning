@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "B&B Laborer",
+      "job_category": "Construction",
+      "job_class": "Laborer",
+      "sector": "Railway Construction",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform physical labor using hand tools and equipment for the construction and maintenance of railway tracks and structures."
+    },
+    {
+      "duty": "Maintain bridges and associated structures around the bridges."
+    },
+    {
+      "duty": "Carry and place track materials using hand tools such as tie tongs, rail tongs, etc."
+    },
+    {
+      "duty": "Remove and install railroad crossties and connect/disconnect rail using specialized tools."
+    },
+    {
+      "duty": "Move, clean, and tamp ballast with shovels, picks, and forks."
+    },
+    {
+      "duty": "Assist in safety meetings and wear appropriate personal protective equipment."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Labor",
+      "experience": 2
+    },
+    {
+      "skill": "Use of Hand Tools",
+      "experience": 3
+    },
+    {
+      "skill": "Railway Track Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Material Handling",
+      "experience": 3
+    },
+    {
+      "skill": "Safety Awareness",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School/GED"
+    }
+  ]
+}

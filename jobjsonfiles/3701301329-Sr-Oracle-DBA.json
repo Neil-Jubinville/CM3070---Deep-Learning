@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr Oracle DBA",
+      "job_category": "Technology",
+      "job_class": "Database Administrator",
+      "sector": "Software Engineering",
+      "salary": 125000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Oracle DBA",
+      "experience": 10
+    },
+    {
+      "skill": "Multitenant & Single Instance",
+      "experience": 10
+    },
+    {
+      "skill": "Windows OS Support",
+      "experience": 10
+    },
+    {
+      "skill": "DBCA & New DB Instance Creation",
+      "experience": 7
+    },
+    {
+      "skill": "Windows Batch Jobs",
+      "experience": 7
+    },
+    {
+      "skill": "PowerShell Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "OEM & Tuning/Diagnostics Packs",
+      "experience": 10
+    },
+    {
+      "skill": "Performance Tuning using OEM",
+      "experience": 10
+    },
+    {
+      "skill": "RMAN for Backups & Restores",
+      "experience": 10
+    },
+    {
+      "skill": "Golden Gate Replication",
+      "experience": 10
+    },
+    {
+      "skill": "Index Creation & Materialized Views",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support Oracle DBA on Windows OS, including multitenant and single instance databases."
+    },
+    {
+      "duty": "Create and maintain new DB instances using DBCA."
+    },
+    {
+      "duty": "Perform performance tuning using OEM tools and RMAN for backups & restores."
+    },
+    {
+      "duty": "Handle Windows batch jobs and PowerShell scripting for automation."
+    },
+    {
+      "duty": "Implement Golden Gate replication and optimize indexes based on workloads."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

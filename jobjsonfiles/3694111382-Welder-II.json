@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Welder II",
+      "job_category": "Welding",
+      "job_class": "Welder",
+      "sector": "Manufacturing",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "TIG Welding",
+      "experience": 2
+    },
+    {
+      "skill": "Fabrication",
+      "experience": 2
+    },
+    {
+      "skill": "Verbal Instructions",
+      "experience": 2
+    },
+    {
+      "skill": "Physical Strength",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Weld various components using thin wall stainless steel (.030 - 0.109)"
+    },
+    {
+      "duty": "Fabricate, and fit custom parts"
+    },
+    {
+      "duty": "Train less experienced welders"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50
+    },
+    {
+      "student_teacher": 30
+    },
+    {
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

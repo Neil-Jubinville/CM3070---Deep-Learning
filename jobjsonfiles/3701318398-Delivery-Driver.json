@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "Delivery Driver",
+      "job_category": "Logistics",
+      "job_class": "Entry-Level",
+      "sector": "Logistics",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Driving/Delivery",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Order Fulfillment",
+      "experience": 2
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Paperwork Management",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Receive materials, pull and ship orders for customers, and order replacement stock."
+    },
+    {
+      "duty": "Deliver orders using a company truck, loading materials, ensuring safe transportation, assisting with unloading, and completing relevant paperwork."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

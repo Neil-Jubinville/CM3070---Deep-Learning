@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Accounting Clerk",
+      "job_category": "Accounting",
+      "job_class": "Clerk",
+      "sector": "Accounting",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 2
+    },
+    {
+      "skill": "SAP",
+      "experience": 2
+    },
+    {
+      "skill": "Oracle",
+      "experience": 2
+    },
+    {
+      "skill": "PeopleSoft",
+      "experience": 2
+    },
+    {
+      "skill": "Accounts Payables",
+      "experience": 2
+    },
+    {
+      "skill": "Excel",
+      "experience": 2
+    },
+    {
+      "skill": "Word",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Process hourly and non-exempt salary payroll weekly."
+    },
+    {
+      "duty": "Enter and post time in multiple systems (SAP, UKG, Pacific Time Reporting System)"
+    },
+    {
+      "duty": "Reconciliation"
+    },
+    {
+      "duty": "Various reporting duties (payroll preview, end of month)"
+    },
+    {
+      "duty": "Manually logging invoices."
+    },
+    {
+      "duty": "Preparing invoices for processing by corporate accounting."
+    },
+    {
+      "duty": "Working with corporate accounting function to resolve invoice discrepancies."
+    },
+    {
+      "duty": "Coordination of Accounts Receivable activities."
+    },
+    {
+      "duty": "Collecting manual authorizations from management for invoices."
+    },
+    {
+      "duty": "General Ledger coding."
+    },
+    {
+      "duty": "Reviewing/Verifying Purchase Orders (verifying quantity, vendor, pricing)."
+    },
+    {
+      "duty": "Check requests"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 85
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associates Degree in Business or Accounting plus 2 years of experience OR 5 years of professional experience in accounting."
+    }
+  ]
+}

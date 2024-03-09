@@ -1,0 +1,93 @@
+{
+  "meta": [
+    {
+      "job_title": "Nursing Supervisor",
+      "job_category": "Nursing",
+      "job_class": "Supervisor",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 5
+    },
+    {
+      "skill": "Supervisory Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Assessment and Care Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 5
+    },
+    {
+      "skill": "Administrative Duties",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Safety and Infection Control",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide quality nursing care to residents and supervise the day-to-day activities of nursing assistants in accordance with federal, state, & local laws and organization policies."
+    },
+    {
+      "duty": "Ensure compliance with written policies and procedures, and implement resident care plans."
+    },
+    {
+      "duty": "Communicate effectively with residents, staff, families, and visitors, interpreting facility policies."
+    },
+    {
+      "duty": "Review, investigate, and document all incidents/accidents, and evaluate emergency situations, taking appropriate action."
+    },
+    {
+      "duty": "Perform administrative duties, including completing medical forms, reports, evaluations, charting, etc., as necessary."
+    },
+    {
+      "duty": "Admit, transfer, and discharge residents as required, and ensure adequate medications, supplies, and equipment are available."
+    },
+    {
+      "duty": "Conduct all responsibilities in accordance with safety and infection control policies and procedures, including thorough hand washing, use of disposable gloves, and proper disposal of soiled materials."
+    },
+    {
+      "duty": "Conduct all responsibilities in a manner that exhibits the organization's mission, vision, and core values."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited nursing program"
+    },
+    {
+      "credential": "Current, unencumbered Massachusetts nursing license as an LPN/RN"
+    },
+    {
+      "credential": "Previous nursing experience in a supervisory role preferred"
+    },
+    {
+      "credential": "CPR/BLS/AED and IV certification required"
+    }
+  ]
+}

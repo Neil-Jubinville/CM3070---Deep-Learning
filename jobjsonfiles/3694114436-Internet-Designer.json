@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Internet Designer",
+      "job_category": "Design",
+      "job_class": "Designer",
+      "sector": "Technology",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Web Design",
+      "experience": 5
+    },
+    {
+      "skill": "User Experience (UX) Design",
+      "experience": 5
+    },
+    {
+      "skill": "Graphic Design",
+      "experience": 5
+    },
+    {
+      "skill": "HTML/CSS",
+      "experience": 5
+    },
+    {
+      "skill": "Responsive Design",
+      "experience": 5
+    },
+    {
+      "skill": "Adobe Creative Suite",
+      "experience": 5
+    },
+    {
+      "skill": "Typography",
+      "experience": 5
+    },
+    {
+      "skill": "Wireframing",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create and design user-friendly websites, ensuring a seamless and visually appealing experience for end users."
+    },
+    {
+      "duty": "Conduct user research and incorporate feedback to enhance the user experience and functionality of websites."
+    },
+    {
+      "duty": "Utilize graphic design software and tools to produce high-quality visuals, illustrations, and multimedia content for web applications."
+    },
+    {
+      "duty": "Implement responsive design principles to ensure websites function effectively across various devices and screen sizes."
+    },
+    {
+      "duty": "Collaborate with developers to translate design concepts into fully functional websites and web elements."
+    },
+    {
+      "duty": "Stay updated on industry trends and best practices in web design, incorporating innovative ideas into design projects."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Web Design, Graphic Design, Computer Science, or related field (Certification in UX Design is a plus)"
+    }
+  ]
+}

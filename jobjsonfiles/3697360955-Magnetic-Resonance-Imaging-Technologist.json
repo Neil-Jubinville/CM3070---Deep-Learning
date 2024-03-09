@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Magnetic Resonance Imaging Technologist",
+      "job_category": "Healthcare",
+      "job_class": "Technologist",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "MRI Imaging",
+      "experience": 2
+    },
+    {
+      "skill": "MRI Registration",
+      "experience": 2
+    },
+    {
+      "skill": "Venipuncture",
+      "experience": 2
+    },
+    {
+      "skill": "Point of Care Testing",
+      "experience": 2
+    },
+    {
+      "skill": "CT Cross-Training",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform all technical and mechanical aspects of Magnetic Resonance Imaging, including positioning and technical factors, taking into account patient's age, condition, and ability to communicate."
+    },
+    {
+      "duty": "Assess and recognize normal/abnormal anatomy/pathology, tailoring scope of exam as indicated."
+    },
+    {
+      "duty": "Review exams with Radiologist as necessary, contributing technical and professional knowledge."
+    },
+    {
+      "duty": "Display knowledge of principles of Magnetic Resonance Imaging."
+    },
+    {
+      "duty": "Respond appropriately to medical emergencies and function effectively in stressful situations."
+    },
+    {
+      "duty": "Communicate effectively with patients, patient's families, staff, physicians, and medical office personnel."
+    },
+    {
+      "duty": "Perform Point of Care Testing and responsible for QA and maintenance on Point of Care equipment."
+    },
+    {
+      "duty": "Demonstrate knowledge of appropriate clinical history for each MRI exam and cross-train to CT."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of accredited MRI program and/or current R.T. (MRI) (ARRT) registration."
+    },
+    {
+      "credential": "R.T. (MR) (ARRT) MRI registration required within one year of hire."
+    },
+    {
+      "credential": "American Heart Association BLS"
+    }
+  ]
+}

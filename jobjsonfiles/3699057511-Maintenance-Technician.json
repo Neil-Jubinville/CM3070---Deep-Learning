@@ -1,0 +1,47 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Property Maintenance",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist with troubleshooting and repairs of buildings and installed systems"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HVAC",
+      "experience": 2
+    },
+    {
+      "skill": "Electrical",
+      "experience": 2
+    },
+    {
+      "skill": "Mechanical",
+      "experience": 2
+    },
+    {
+      "skill": "Plumbing",
+      "experience": 2
+    },
+    {
+      "skill": "Carpentry",
+      "experience": 2
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 2
+    }
+  ]
+}

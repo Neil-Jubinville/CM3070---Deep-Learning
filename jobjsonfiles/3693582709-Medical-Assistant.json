@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Clerical Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Insurance Knowledge",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Record Management",
+      "experience": 1
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 1
+    },
+    {
+      "skill": "Multitasking",
+      "experience": 1
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide patient care in a physician's office setting under the direct responsibility of a licensed physician."
+    },
+    {
+      "duty": "Perform clinical skills within the scope of a medical assistant as defined by relevant statutes and policies."
+    },
+    {
+      "duty": "Perform clerical, insurance, and medical record functions as required."
+    },
+    {
+      "duty": "May be required to float to other practices as needed for staffing."
+    },
+    {
+      "duty": "Maintain certification or registration as a medical assistant, and possess Basic Life Support (CPR) certification."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited course of study as a certified or registered medical assistant."
+    },
+    {
+      "credential": "Certification or registration as a medical assistant."
+    },
+    {
+      "credential": "Basic Life Support (CPR) certification."
+    }
+  ]
+}

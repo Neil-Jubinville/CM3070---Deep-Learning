@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Database Reliability Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL Server",
+      "experience": 5
+    },
+    {
+      "skill": "DB2",
+      "experience": 5
+    },
+    {
+      "skill": "Redhat Linux",
+      "experience": 5
+    },
+    {
+      "skill": "Ansible",
+      "experience": 5
+    },
+    {
+      "skill": "Shell Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Python Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Terraform",
+      "experience": 5
+    },
+    {
+      "skill": "Database Performance Tuning",
+      "experience": 5
+    },
+    {
+      "skill": "Data Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Capacity Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Security and Auditing",
+      "experience": 5
+    },
+    {
+      "skill": "Automation Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "APM Monitoring",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintains operational databases ensuring system performance, availability, reliability, security, recoverability, and efficient usage of server infrastructure resources."
+    },
+    {
+      "duty": "Diagnoses, troubleshoots, and resolves database related issues including storage, performance, availability, data integrity, and security."
+    },
+    {
+      "duty": "Automates database management, maintenance, and data processing activities."
+    },
+    {
+      "duty": "Creates, modifies, maintains, and optimizes database objects such as indexes, tables, triggers, constraints, stored procedures, etc."
+    },
+    {
+      "duty": "Collaborates with technical/non-technical resources regarding project work, POCs, and troubleshooting."
+    },
+    {
+      "duty": "Participates in 24/7 on-call rotation and escalates issues as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Computer Science or other technical discipline (Technical Certifications are a plus)"
+    }
+  ]
+}

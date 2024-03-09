@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Automotive Body Technician",
+      "job_category": "Technician",
+      "job_class": "Body Technician",
+      "sector": "Automotive",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Frame Machine Operation",
+      "experience": 5
+    },
+    {
+      "skill": "Body Repair Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Vehicle Repair Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "I-CAR Welding Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Supervisory Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Examine damaged vehicle and efficiently plan repair process."
+    },
+    {
+      "duty": "Work and communicate with others on vehicle repair status."
+    },
+    {
+      "duty": "Perform quality repairs while keeping on-time status in mind."
+    },
+    {
+      "duty": "Make decisions on repair vs. replace considering safety, cost, and cycle time."
+    },
+    {
+      "duty": "Remove upholstery, accessories, electrical and hydraulic window operating equipment, and trim to gain access to vehicle and fenders."
+    },
+    {
+      "duty": "Direct the work of an apprentice in the performance of tasks when needed and explain procedures to assistant."
+    },
+    {
+      "duty": "File, grind, and sand repaired surfaces using power tools and hand tools."
+    },
+    {
+      "duty": "Participate in all required safety meetings."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certification in Body Repair (Bachelor's degree in Automotive Engineering is preferred)"
+    }
+  ]
+}

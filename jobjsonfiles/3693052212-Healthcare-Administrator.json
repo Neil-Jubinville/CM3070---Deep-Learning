@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Healthcare Administrator",
+      "job_category": "Healthcare",
+      "job_class": "Administrator",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Proficiency",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Review patient notes for completeness and accuracy."
+    },
+    {
+      "duty": "Create written orders and prescriptions and forward to doctor\u2019s offices for approval."
+    },
+    {
+      "duty": "Complete records request from outside parties."
+    },
+    {
+      "duty": "Provide patients with an explanation of patient benefits, patient portion and payment plan options."
+    },
+    {
+      "duty": "Verify insurance benefits."
+    },
+    {
+      "duty": "Obtain insurance authorization and document accordingly."
+    },
+    {
+      "duty": "Analyze medical review policies."
+    },
+    {
+      "duty": "Perform other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED equivalent"
+    },
+    {
+      "credential": "One to three years\u2019 experience working in the healthcare field."
+    },
+    {
+      "credential": "Able to work overtime."
+    }
+  ]
+}

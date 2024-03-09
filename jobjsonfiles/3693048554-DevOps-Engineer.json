@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "DevOps Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "DevOps",
+      "experience": 7
+    },
+    {
+      "skill": "Cloud Experience",
+      "experience": 7
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 5
+    },
+    {
+      "skill": "OpenShift",
+      "experience": 3
+    },
+    {
+      "skill": "Software Engineering",
+      "experience": 3
+    },
+    {
+      "skill": "Migration Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Production Support",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement and manage DevOps practices, including CI/CD pipelines, source code management, and observability tools."
+    },
+    {
+      "duty": "Utilize Kubernetes and OpenShift expertise to support application deployment, scaling, and management."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to facilitate the migration/replatforming of applications to cloud platforms."
+    },
+    {
+      "duty": "Provide off-hours production support, especially around the November and December holidays."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Certifications in Kubernetes and OpenShift preferred)"
+    }
+  ]
+}

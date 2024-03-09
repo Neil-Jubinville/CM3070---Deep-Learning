@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Process Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Analytical Processes",
+      "experience": 4
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 4
+    },
+    {
+      "skill": "Process Instrumentation",
+      "experience": 4
+    },
+    {
+      "skill": "Scanning Electron Microscope",
+      "experience": 4
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare wafers for experimentation and perform thin film processes under limited supervision."
+    },
+    {
+      "duty": "Operate scanning electron microscope for analysis and imaging, as well as evaluation of wafers and thin films."
+    },
+    {
+      "duty": "Record process conditions and observations, evaluate experimental results, and prepare graphs and tables summarizing the findings."
+    },
+    {
+      "duty": "Coordinate instrument repair, maintenance, and equipment orders. Set up equipment for experiments."
+    },
+    {
+      "duty": "Interface with requestors, monitor wafer in process, and maintain throughput. Provide solutions to atypical problems based on existing precedents or procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Technical Diploma"
+    }
+  ]
+}

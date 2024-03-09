@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Accountant",
+      "job_category": "Accounting",
+      "job_class": "Senior",
+      "sector": "Finance",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "US GAAP Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Record-Keeping",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Reconciliation",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office, especially Excel",
+      "experience": 5
+    },
+    {
+      "skill": "CPA Qualification",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for record-keeping and ensuring compliance with US GAAP."
+    },
+    {
+      "duty": "Collaborate with Accounting and Operations team members and external advisors."
+    },
+    {
+      "duty": "Manage the workloads of bookkeepers and staff accountants to ensure completion of daily transactions."
+    },
+    {
+      "duty": "Reconcile accounts to monthly close schedules and provide ad-hoc analytics as needed."
+    },
+    {
+      "duty": "Maintain fixed asset registers and repair and maintenance reports for accurate tracking and depreciation reporting."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in accounting"
+    }
+  ]
+}

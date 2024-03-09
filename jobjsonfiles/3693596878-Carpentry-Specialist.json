@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Carpentry Specialist",
+      "job_category": "Construction",
+      "job_class": "Specialist",
+      "sector": "Carpentry",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Carpentry",
+      "experience": 10
+    },
+    {
+      "skill": "Framing",
+      "experience": 10
+    },
+    {
+      "skill": "Finish Carpentry",
+      "experience": 10
+    },
+    {
+      "skill": "Job Site Culture Development",
+      "experience": 5
+    },
+    {
+      "skill": "Innovative Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Training",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Mastery of framing and finish carpentry."
+    },
+    {
+      "duty": "Support for job site culture development."
+    },
+    {
+      "duty": "Eagerness for innovative thinking."
+    },
+    {
+      "duty": "Excitement for training less experienced carpenters."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Construction Accountant",
+      "job_category": "Accounting",
+      "job_class": "Accountant",
+      "sector": "Real Estate",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "RealPage Software",
+      "experience": 3
+    },
+    {
+      "skill": "MS Excel",
+      "experience": 5
+    },
+    {
+      "skill": "Construction Accounting",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Recording and maintaining of daily cash activity and bank reconciliation for multiple accounts"
+    },
+    {
+      "duty": "Recording transactions via journal entries and supporting the month-end close process"
+    },
+    {
+      "duty": "Reconciliation of Sales Tax and verification for approval of payment"
+    },
+    {
+      "duty": "Assisting in the preparation of draw packages"
+    },
+    {
+      "duty": "Verification of construction project invoices"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "4-year accounting degree from an accredited University"
+    }
+  ]
+}

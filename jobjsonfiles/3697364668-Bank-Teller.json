@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Bank Teller",
+      "job_category": "Banking",
+      "job_class": "Teller",
+      "sector": "Finance",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Transactions",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Banking Products Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Confidentiality Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Programs",
+      "experience": 2
+    },
+    {
+      "skill": "Bilingual (English and Spanish)",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Process financial transactions promptly and accurately, strictly adhering to all bank policies and procedures."
+    },
+    {
+      "duty": "Prioritize client demands and provide impeccable customer service."
+    },
+    {
+      "duty": "Participate in job-specific training, various bank training programs, and comply with BSA, AML, and all bank policies and procedures."
+    },
+    {
+      "duty": "Maintain a high level of confidentiality and demonstrate computer proficiency with Microsoft programs."
+    },
+    {
+      "duty": "Stand for most of the workday, handle frequent interruptions, and work flexible/extended hours as business requires."
+    },
+    {
+      "duty": "Manage heavy boxes or bags of currency and coin weighing up to 60 pounds."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140,
+      "student_teacher": 30,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED, Bachelor\u2019s Degree or 6 months previous teller experience within the financial institution industry, or 6 months previous cash handling experience in a retail customer service environment."
+    }
+  ]
+}

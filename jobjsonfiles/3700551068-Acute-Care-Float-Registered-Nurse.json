@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Acute Care Float Registered Nurse",
+      "job_category": "Nursing",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 35,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Care",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnostic Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Compassion and Empathy",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Providing acute care nursing support across various departments and units."
+    },
+    {
+      "duty": "Administering medications and treatments as per patient care plans."
+    },
+    {
+      "duty": "Documenting patient conditions, treatment plans, and progress accurately."
+    },
+    {
+      "duty": "Collaborating with interdisciplinary teams to ensure comprehensive patient care."
+    },
+    {
+      "duty": "Responding to emergency situations and critical care needs promptly and effectively."
+    },
+    {
+      "duty": "Performing diagnostic tests and interpreting results for timely interventions."
+    },
+    {
+      "duty": "Demonstrating compassion, empathy, and support for patients and their families."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Office Manager",
+      "job_category": "Administration",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Engage with clients in a friendly and professional manner, scheduling appointments, answering phone inquiries, and ensuring a positive experience throughout their interactions with our office."
+    },
+    {
+      "duty": "Maintain accurate and confidential client records, ensuring that all required information is up to date and properly documented."
+    },
+    {
+      "duty": "Efficiently manage appointment schedules for multiple counselors, ensuring optimal use of time and resources."
+    },
+    {
+      "duty": "Handle payment collections and processing, providing clients with accurate billing information and maintaining financial records."
+    },
+    {
+      "duty": "Utilize knowledge of mental health billing and coding practices to accurately submit claims to insurance providers and ensure proper reimbursement."
+    },
+    {
+      "duty": "Assist in the smooth operations of the office, including tasks such as maintaining office supplies, managing correspondence, and coordinating with counselors."
+    },
+    {
+      "duty": "Collaborate with counselors and other staff members to provide seamless support to clients and ensure the office functions effectively."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "People Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 5
+    },
+    {
+      "skill": "Mental Health Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Previous Experience",
+      "experience": 4
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's or Bachelor's degree in Business or a related field (Preferred)"
+    }
+  ]
+}

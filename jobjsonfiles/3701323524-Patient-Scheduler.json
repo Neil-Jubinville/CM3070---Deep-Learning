@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Scheduler",
+      "job_category": "Healthcare",
+      "job_class": "Scheduling",
+      "sector": "Management",
+      "salary": 34000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Terminology",
+      "experience": 1
+    },
+    {
+      "skill": "Typing Speed",
+      "experience": 1
+    },
+    {
+      "skill": "Epic Software",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Scheduling and registering patients for outpatient visits and procedures"
+    },
+    {
+      "duty": "Obtaining and verifying patient information for appointments and referrals"
+    },
+    {
+      "duty": "Assuring follow-up appointments and testing are coordinated with the patient"
+    },
+    {
+      "duty": "Collecting time of service payments and copayments"
+    },
+    {
+      "duty": "Reconciling cash drawer and reporting any discrepancies"
+    },
+    {
+      "duty": "Receiving and responding to patient and staff needs and complaints"
+    },
+    {
+      "duty": "Participating in on-going education activities to enhance professional expertise"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent (Medical terminology class preferred)"
+    }
+  ]
+}

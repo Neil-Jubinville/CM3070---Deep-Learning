@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 165000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Development",
+      "experience": 9
+    },
+    {
+      "skill": "Design and Architecture",
+      "experience": 8
+    },
+    {
+      "skill": "Programming",
+      "experience": 9
+    },
+    {
+      "skill": "Full Software Development Life Cycle",
+      "experience": 7
+    },
+    {
+      "skill": "Computer Science",
+      "experience": 8
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 7
+    },
+    {
+      "skill": "Big Data",
+      "experience": 7
+    },
+    {
+      "skill": "Code Reviews",
+      "experience": 7
+    },
+    {
+      "skill": "Source Control Management",
+      "experience": 7
+    },
+    {
+      "skill": "Build Processes",
+      "experience": 7
+    },
+    {
+      "skill": "Testing",
+      "experience": 7
+    },
+    {
+      "skill": "Operations",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop scalable systems and services using cutting edge technology."
+    },
+    {
+      "duty": "Provide technical leadership, drive best practices, mentor other engineers, and drive continuous improvements in engineering excellence."
+    },
+    {
+      "duty": "Create software solutions for large scale distributed systems."
+    },
+    {
+      "duty": "Participate in the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 200,
+      "student_teacher": 180,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in computer science or equivalent (Master's preferred)"
+    }
+  ]
+}

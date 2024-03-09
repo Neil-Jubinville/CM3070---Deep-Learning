@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "HVAC Building Controls Technician",
+      "job_category": "HVAC",
+      "job_class": "Technician",
+      "sector": "Facility Solutions",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HVAC Controls",
+      "experience": 5
+    },
+    {
+      "skill": "Automation",
+      "experience": 5
+    },
+    {
+      "skill": "BAS Systems",
+      "experience": 5
+    },
+    {
+      "skill": "PLC Ladder Logic",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Field Device Integration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Travel to client's facilities to perform calibration, diagnostics, and repairs to HVAC controls through the building automation system."
+    },
+    {
+      "duty": "Work with Brewer-Garrett technical workforce to understand how the HVAC equipment operates and how the control system impacts that operation."
+    },
+    {
+      "duty": "Assist in face-to-face work with customers in a professional, conscientious manner and provide customer training as needed."
+    },
+    {
+      "duty": "Experience configuring, designing, and debugging PLC ladder logic and HMI programs."
+    },
+    {
+      "duty": "Experience integrating field devices (VFD's, Valves, Process Instruments) with PLC's using data sheets only."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum of 3 years of automation experience."
+    },
+    {
+      "credential": "Understanding of BAS Systems and ability to read and write programming."
+    },
+    {
+      "credential": "Understanding the operation of commercial HVAC equipment."
+    },
+    {
+      "credential": "Driver's license and reliable transportation."
+    },
+    {
+      "credential": "Technical degree or equivalent experience."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Certified Registered Nurse Anesthetist",
+      "job_category": "Healthcare",
+      "job_class": "Certified",
+      "sector": "Healthcare",
+      "salary": 175,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Expertise",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 5
+    },
+    {
+      "skill": "Master of Science in Nursing (MSN)",
+      "experience": 5
+    },
+    {
+      "skill": "Doctorate in Nursing Practice (DNP)",
+      "experience": 5
+    },
+    {
+      "skill": "National Board of Certification and Recertification for Nurse Anesthetists (NBCRNA)",
+      "experience": 5
+    },
+    {
+      "skill": "Continued Medical Education (CME)",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare and administer anesthesia."
+    },
+    {
+      "duty": "Provide patient care before, during, and after surgery."
+    },
+    {
+      "duty": "Participate in diagnostic and therapeutic procedures."
+    },
+    {
+      "duty": "Provide trauma stabilization and critical care interventions."
+    },
+    {
+      "duty": "Diagnose and deliver acute and chronic pain management."
+    },
+    {
+      "duty": "Stay current with new techniques, technology, and medications related to anesthesia practice."
+    },
+    {
+      "duty": "Maintain accurate and complete patient records and documentation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science in Nursing (BSN) degree."
+    },
+    {
+      "credential": "Active and unencumbered registered nurse (RN) license in the state of employment."
+    },
+    {
+      "credential": "National Board of Certification and Recertification for Nurse Anesthetists (NBCRNA) certification."
+    },
+    {
+      "credential": "Continued medical education (CME) to maintain NBCRNA certification and medical licenses."
+    }
+  ]
+}

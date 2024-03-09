@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Pipe Fitter",
+      "job_category": "Construction",
+      "job_class": "Skilled Labor",
+      "sector": "Construction",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Pipe Fitting",
+      "experience": 5
+    },
+    {
+      "skill": "Fabrication",
+      "experience": 5
+    },
+    {
+      "skill": "Piping Material Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Welding",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Plan, lay-out, and perform all types of pipe fitting and fabrication work in accordance with applicable plans, specifications, codes, and industry standards."
+    },
+    {
+      "duty": "Perform testing, inspecting, and recording for piping installations."
+    },
+    {
+      "duty": "Install all systems and products per code and specifications."
+    },
+    {
+      "duty": "Lay out, fabricate, assemble, and install carbon and stainless-steel piping and other industrial processing systems."
+    },
+    {
+      "duty": "Cut and bevel pipe utilizing cutting torch, plasma arc, or cutting machines."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma / GED"
+    },
+    {
+      "credential": "NCCER and OSHA 10 preferred"
+    }
+  ]
+}

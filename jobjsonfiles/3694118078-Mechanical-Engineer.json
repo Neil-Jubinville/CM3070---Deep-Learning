@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Mechanical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Energy, Manufacturing, Bioprocessing",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Engineering",
+      "experience": 8
+    },
+    {
+      "skill": "Industrial Utilities",
+      "experience": 8
+    },
+    {
+      "skill": "HVAC Design",
+      "experience": 8
+    },
+    {
+      "skill": "Project Management",
+      "experience": 8
+    },
+    {
+      "skill": "Technical Leadership",
+      "experience": 8
+    },
+    {
+      "skill": "Construction Administration",
+      "experience": 8
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 8
+    },
+    {
+      "skill": "ASHRAE Standards",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Application of knowledge of utility and HVAC systems in industrial markets such as food & beverage, personal care, bioprocessing, advanced technology, specialty chemicals, automotive, ship building, heavy manufacturing, power, and other industrial facilities/systems."
+    },
+    {
+      "duty": "Develop and manage all aspects of the mechanical design including system design, duct sizing, pipe sizing, equipment sizing and selection, and specifications with datasheets."
+    },
+    {
+      "duty": "Contribute to the preparation of construction documents including drawings, specifications, calculations, and equipment datasheets."
+    },
+    {
+      "duty": "Perform heating and cooling load calculations utilizing software such as Trace."
+    },
+    {
+      "duty": "Perform head loss calculations utilizing software such as AFT Fathom/Arrow."
+    },
+    {
+      "duty": "Provide technical support during construction including problem solving for field oversights, review of vendor submittals, perform field inspections, and address RFIs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 130
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in mechanical engineering from an ABET accredited program required."
+    },
+    {
+      "credential": "Registered Professional Engineer or ability to obtain your PE within the first year of employment."
+    },
+    {
+      "credential": "US Citizenship required for client projects"
+    }
+  ]
+}

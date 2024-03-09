@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Privacy Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 195000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Security",
+      "experience": 4
+    },
+    {
+      "skill": "Data Anonymization",
+      "experience": 4
+    },
+    {
+      "skill": "Data Auditing",
+      "experience": 4
+    },
+    {
+      "skill": "Cloud Platforms (AWS, GCP, Azure)",
+      "experience": 4
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Privacy Certifications (CIPP, CIPT, CIPM)",
+      "experience": 4
+    },
+    {
+      "skill": "Regulatory Knowledge (GDPR, CCPA, HIPAA, NYDFS)",
+      "experience": 4
+    },
+    {
+      "skill": "Stakeholder Management",
+      "experience": 4
+    },
+    {
+      "skill": "Healthcare and Life Sciences",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide consultative guidance on privacy controls, mechanisms, and protocols across the organization and product lines."
+    },
+    {
+      "duty": "Oversee the architecture and design of privacy controls and implement privacy capabilities, patterns, and policies into products."
+    },
+    {
+      "duty": "Analyze and audit data to ensure privacy requirements are met and build relationships with technical and compliance teams for privacy-by-design controls."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or a similar technical field (Master's preferred)"
+    },
+    {
+      "credential": "Certifications related to privacy, such as CIPP, CIPT, or CIPM"
+    },
+    {
+      "credential": "Regulatory knowledge of GDPR, CCPA, HIPAA, NYDFS"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Service Technician",
+      "job_category": "Information Technology",
+      "job_class": "Technician",
+      "sector": "Software Engineering",
+      "salary": 50000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electronic Gaming Machines Installation",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Support",
+      "experience": 4
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 4
+    },
+    {
+      "skill": "Field Service Management",
+      "experience": 2
+    },
+    {
+      "skill": "CRM",
+      "experience": 2
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Installation, support, and ongoing technical service for Electronic Gaming Machines (slot machines) and related products."
+    },
+    {
+      "duty": "Troubleshoot, repair, and perform removal of Gaming Machines, Signs, and gaming controllers with little assistance."
+    },
+    {
+      "duty": "Complete all installations and visitation scheduled by the Operations Manager or Supervisor."
+    },
+    {
+      "duty": "Provide customer support for parts purchasing advice through national service."
+    },
+    {
+      "duty": "Aid customers by telephone or in person regarding technical challenges and report on trends, needs, and service challenges through current CRM."
+    },
+    {
+      "duty": "Maintain inventory accuracy and follow parts inventory process for assigned service vehicle."
+    },
+    {
+      "duty": "Maintain confidentiality of information regarding the company, company products, and employee information."
+    },
+    {
+      "duty": "Pre-site surveys, follow schedule, and perform service activities assigned."
+    },
+    {
+      "duty": "Gather and report accurately on service activities by utilizing field service management reporting tools."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or its equivalent required; experience of service/maintenance or equivalent in an industrial environment preferred."
+    }
+  ]
+}

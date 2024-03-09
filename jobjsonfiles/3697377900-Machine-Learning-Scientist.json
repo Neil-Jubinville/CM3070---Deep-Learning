@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Machine Learning Scientist",
+      "job_category": "Data Science",
+      "job_class": "Scientist",
+      "sector": "AI",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Machine Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Deep Learning",
+      "experience": 5
+    },
+    {
+      "skill": "NLP",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Mathematical Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Model Evaluation",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Data Preprocessing",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Knowledge",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prototype, develop, and refine machine learning, deep learning, and NLP models on top of the ML platform."
+    },
+    {
+      "duty": "Conduct experiments and evaluations to assess model performance and effectiveness, and develop metrics for use cases."
+    },
+    {
+      "duty": "Implement and adapt models for real-time, scalable, and efficient performance, collaborating with ML Engineers."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to understand business requirements and develop technical plans."
+    },
+    {
+      "duty": "Implement robust and reusable data preprocessing and feature engineering pipelines to extract meaningful insights from raw data."
+    },
+    {
+      "duty": "Stay updated with the latest advancements in machine learning, deep learning, and NLP, particularly as applied in healthcare."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's or PhD in Data Science, Computer Science, Statistics, or a related quantitative field"
+    }
+  ]
+}

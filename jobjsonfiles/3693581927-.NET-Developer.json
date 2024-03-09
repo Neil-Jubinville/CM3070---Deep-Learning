@@ -1,0 +1,118 @@
+{
+  "meta": [
+    {
+      "job_title": ".NET Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C# Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft SQL Server",
+      "experience": 5
+    },
+    {
+      "skill": "ASP.NET Web API/MVC",
+      "experience": 5
+    },
+    {
+      "skill": "HTML5",
+      "experience": 5
+    },
+    {
+      "skill": "CSS3",
+      "experience": 5
+    },
+    {
+      "skill": "Windows Communication Foundation (WCF)",
+      "experience": 5
+    },
+    {
+      "skill": "Unit Testing Framework",
+      "experience": 5
+    },
+    {
+      "skill": "Object Oriented Design Patterns",
+      "experience": 5
+    },
+    {
+      "skill": "Service Oriented Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Domain Driven Design (DDD)",
+      "experience": 5
+    },
+    {
+      "skill": "Test Driven Development",
+      "experience": 5
+    },
+    {
+      "skill": "Collaborative Teamwork",
+      "experience": 5
+    },
+    {
+      "skill": "Revision Control Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Self-Motivation",
+      "experience": 5
+    },
+    {
+      "skill": "Detail Orientation",
+      "experience": 5
+    },
+    {
+      "skill": "Positive Attitude",
+      "experience": 5
+    },
+    {
+      "skill": "Independent Work",
+      "experience": 5
+    },
+    {
+      "skill": "Team-Oriented Work",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop software solutions using .NET 4.5 and C# programming language, and test the developed code."
+    },
+    {
+      "duty": "Communicate software designs to team members and monitor the progress of development."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or equivalent work experience"
+    }
+  ]
+}

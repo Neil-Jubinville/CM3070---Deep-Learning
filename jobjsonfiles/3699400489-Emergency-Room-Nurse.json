@@ -1,0 +1,118 @@
+{
+  "meta": [
+    {
+      "job_title": "Emergency Room Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Emergency Care",
+      "experience": 5
+    },
+    {
+      "skill": "ACLS Certification",
+      "experience": 5
+    },
+    {
+      "skill": "PALS Certification",
+      "experience": 5
+    },
+    {
+      "skill": "ENPC Certification",
+      "experience": 5
+    },
+    {
+      "skill": "BLS/BCLS Certification",
+      "experience": 5
+    },
+    {
+      "skill": "NRP Certification",
+      "experience": 5
+    },
+    {
+      "skill": "CPI Certification",
+      "experience": 5
+    },
+    {
+      "skill": "RNFA Certification",
+      "experience": 5
+    },
+    {
+      "skill": "TNCC Certification",
+      "experience": 5
+    },
+    {
+      "skill": "AWHONN Certification",
+      "experience": 5
+    },
+    {
+      "skill": "NIHSS Certification",
+      "experience": 5
+    },
+    {
+      "skill": "STABLE Certification",
+      "experience": 5
+    },
+    {
+      "skill": "ASLS Certification",
+      "experience": 5
+    },
+    {
+      "skill": "NBSTSA Certification",
+      "experience": 5
+    },
+    {
+      "skill": "APHON Certification",
+      "experience": 5
+    },
+    {
+      "skill": "CMA Certification",
+      "experience": 5
+    },
+    {
+      "skill": "CCMA Certification",
+      "experience": 5
+    },
+    {
+      "skill": "RMA Certification",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide emergency care and treatment to patients in the ER, managing trauma and critical conditions."
+    },
+    {
+      "duty": "Administer ACLS, PALS, and other necessary medical interventions as per certification and training."
+    },
+    {
+      "duty": "Utilize BLS/BCLS and NRP techniques to stabilize patients and conduct neonatal resuscitation when needed."
+    },
+    {
+      "duty": "Manage patient pain and comfort, and communicate with patients and their families to provide support and information."
+    },
+    {
+      "duty": "Complete documentation, assessment, and reporting according to CPI, ENPC, and other nursing protocols and standards."
+    },
+    {
+      "duty": "Assist in surgical and trauma procedures, and contribute to the care of patients undergoing surgery."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing with active Hawaii License (Specialty Certifications: ACLS, PALS, ENPC, BLS/BCLS, NRP, CPI, RNFA, TNCC, AWHONN, NIHSS, STABLE, ASLS, NBSTSA, APHON, CMA, CCMA, RMA)"
+    }
+  ]
+}

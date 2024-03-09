@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Support Representative",
+      "job_category": "Sales",
+      "job_class": "Support",
+      "sector": "Sales",
+      "salary": 50000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Contract Review",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "RFP Process",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Continuing certifications with current partners."
+    },
+    {
+      "duty": "Reviewing contracts and registering deals with partners."
+    },
+    {
+      "duty": "Confirming participation in state contracts."
+    },
+    {
+      "duty": "Understanding customer needs."
+    }
+  ]
+}

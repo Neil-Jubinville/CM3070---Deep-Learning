@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient care assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    },
+    {
+      "skill": "Physically Fit",
+      "experience": 3
+    },
+    {
+      "skill": "CPR",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Transport patients to various areas of the Medical Center under the direction of a Patient Escort Dispatcher."
+    },
+    {
+      "duty": "Assist patients by moving them from Point A to Point B, considering their medical condition and comfort."
+    },
+    {
+      "duty": "Communicate effectively with cancer patients, their families, doctors, and nurses."
+    },
+    {
+      "duty": "Provide excellent customer service and work as part of a team to ensure patient care and comfort."
+    },
+    {
+      "duty": "On feet bending, walking, standing for long periods of time, and working quickly under pressure."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    },
+    {
+      "credential": "Driver's license"
+    },
+    {
+      "credential": "CPR certification"
+    }
+  ]
+}

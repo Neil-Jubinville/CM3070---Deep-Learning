@@ -1,0 +1,44 @@
+{
+  "meta": [
+    {
+      "job_title": "CICS Systems Programmer",
+      "job_category": "Technology",
+      "job_class": "Systems Programmer",
+      "sector": "Technology",
+      "salary": 65000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CICS Systems programming",
+      "experience": 5
+    },
+    {
+      "skill": "Table Updates",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Diagnostics",
+      "experience": 5
+    },
+    {
+      "skill": "Capacity and Performance Analysis",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement, maintain, and support CICS performance, including table updates and capacity and performance analysis."
+    },
+    {
+      "duty": "Solve complex CICS problems effectively and quickly with minimal assistance and direction."
+    }
+  ],
+  "subjective_elements": [],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

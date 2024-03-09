@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Worker",
+      "job_category": "Warehouse and Transportation",
+      "job_class": "Worker",
+      "sector": "Transportation",
+      "salary": 17,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Fitness",
+      "experience": 2
+    },
+    {
+      "skill": "Loading and Unloading",
+      "experience": 2
+    },
+    {
+      "skill": "Package Sorting",
+      "experience": 2
+    },
+    {
+      "skill": "Time Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform physical warehouse tasks such as loading, unloading, and sorting packages of various sizes."
+    },
+    {
+      "duty": "Adhere to a fast-paced work environment and maintain physical fitness to handle the demands of the job."
+    },
+    {
+      "duty": "Work one shift a day for part-time employees and two shifts for full-time employees. Shift lengths vary based on package volume."
+    },
+    {
+      "duty": "Balance work and personal life through flexible scheduling."
+    },
+    {
+      "duty": "Receive generous paid time off and valuable employee discounts on various products and services."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED equivalent"
+    }
+  ]
+}

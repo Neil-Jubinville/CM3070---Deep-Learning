@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Vehicle Technician",
+      "job_category": "Vehicle Maintenance/Mechanics/Technicians",
+      "job_class": "Technician",
+      "sector": "Truck Maintenance",
+      "salary": 48000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Vehicle Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Automotive Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Vehicle Diagnostics",
+      "experience": 2
+    },
+    {
+      "skill": "Electrical System Repairs",
+      "experience": 2
+    },
+    {
+      "skill": "Cooling System Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform preventative maintenance and minor repairs on a fleet of vehicles."
+    },
+    {
+      "duty": "Use advanced tools and technologies to log, research, and complete repairs."
+    },
+    {
+      "duty": "Partner with supervisors to learn new skills and receive hands-on coaching."
+    },
+    {
+      "duty": "Complete vehicle component lubrication and replacement, some electrical system repairs, and cooling system maintenance on gas and diesel engine vehicles."
+    },
+    {
+      "duty": "Work on other projects and tasks as assigned by supervisor."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent preferred; vocational or technical certification in vehicle repair preferred"
+    }
+  ]
+}

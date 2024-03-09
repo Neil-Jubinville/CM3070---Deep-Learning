@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Event Specialist",
+      "job_category": "Event Planning",
+      "job_class": "Specialist",
+      "sector": "Legal",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Event Planning",
+      "experience": 2
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 2
+    },
+    {
+      "skill": "Vendor Management",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Procurement",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Select and secure appropriate venues and process contracts together with the Procurement team."
+    },
+    {
+      "duty": "Prepare event proposals and manage event budgets ensuring that expenses are within the approved budget; process all related payments and invoices."
+    },
+    {
+      "duty": "Produce event materials (signage, name tags, etc). Arrange for production of event materials, such as name badges, signage, and promotional items."
+    },
+    {
+      "duty": "Manage vendor relationships. Work with vendors and catering contacts (in-house and external)."
+    },
+    {
+      "duty": "Attend events, as appropriate, and manage on-site logistics including all on-site hospitality, audio-visual and other logistics and costs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Marketing, Business, or a related field. Professional Services Industry experience (Law firm, Finance firm, Real Estate, Insurance, Tech, etc)"
+    }
+  ]
+}

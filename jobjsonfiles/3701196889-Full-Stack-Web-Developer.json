@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Full-Stack Web Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HTML",
+      "experience": 5
+    },
+    {
+      "skill": "Javascript",
+      "experience": 5
+    },
+    {
+      "skill": "Typescript",
+      "experience": 5
+    },
+    {
+      "skill": "C#",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Code Review",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and maintain high-quality web-based software applications"
+    },
+    {
+      "duty": "Work closely with cross-functional teams to identify and solve complex software issues"
+    },
+    {
+      "duty": "Collaborate with senior software engineers or mentor junior software developers"
+    },
+    {
+      "duty": "Stay up-to-date with the latest technologies and trends in software development"
+    },
+    {
+      "duty": "Participate in code reviews to ensure the highest quality of deliverables"
+    }
+  ]
+}

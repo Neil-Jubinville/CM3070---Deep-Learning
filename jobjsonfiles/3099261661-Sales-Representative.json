@@ -1,0 +1,50 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 50000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Tech Services",
+      "experience": 3
+    },
+    {
+      "skill": "Hydraulic and Fluid Power",
+      "experience": 2
+    },
+    {
+      "skill": "Sales",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Make contact with clients and provide tech and other customer services."
+    },
+    {
+      "duty": "Maintain good relationships with clients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Basic hydraulic and fluid power acknowledgment and sales background."
+    }
+  ]
+}

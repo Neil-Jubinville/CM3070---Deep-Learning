@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Network Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Network Engineering",
+      "experience": 6
+    },
+    {
+      "skill": "Meraki",
+      "experience": 6
+    },
+    {
+      "skill": "SD-WAN",
+      "experience": 6
+    },
+    {
+      "skill": "Aruba",
+      "experience": 6
+    },
+    {
+      "skill": "Velocloud",
+      "experience": 6
+    },
+    {
+      "skill": "Viptela",
+      "experience": 6
+    },
+    {
+      "skill": "Nexus",
+      "experience": 6
+    },
+    {
+      "skill": "Palo Alto",
+      "experience": 6
+    },
+    {
+      "skill": "Zscaler",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Write/engineer network device configuration scripts with associated change documentation to meet project goals and deadlines."
+    },
+    {
+      "duty": "Implement network changes during appropriate change windows (after hours)"
+    },
+    {
+      "duty": "Review and provide feedback on change documentation/engineering of other engineers."
+    },
+    {
+      "duty": "Establish processes to test applications and devices before planned network deployment to quantify their performance and recommend steps to ensure they are optimized."
+    },
+    {
+      "duty": "Serve as second-tier support for network operations team when needed."
+    },
+    {
+      "duty": "Participate in on-call support escalation rotation"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.S. Computer Science, Telecommunications, Electrical Engineering, or equivalent experience"
+    },
+    {
+      "credential": "Industry Certifications such as CCNP/CCIE is desired"
+    }
+  ]
+}

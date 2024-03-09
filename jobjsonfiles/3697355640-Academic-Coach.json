@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Academic Coach",
+      "job_category": "Education",
+      "job_class": "Coach",
+      "sector": "Education",
+      "salary": 30000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Ukrainian Language",
+      "experience": 5
+    },
+    {
+      "skill": "English Language",
+      "experience": 5
+    },
+    {
+      "skill": "Student Counseling",
+      "experience": 3
+    },
+    {
+      "skill": "Teaching Assistance",
+      "experience": 3
+    },
+    {
+      "skill": "Camp Counseling",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Live coaching sessions for guiding students on using learning apps effectively and providing success strategies"
+    },
+    {
+      "duty": "Offline coaching for troubleshooting ineffective live sessions and refining students' learning strategies"
+    },
+    {
+      "duty": "Providing clear and honest feedback on performance metrics to students, reinforcing their accountability"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in any discipline"
+    }
+  ]
+}

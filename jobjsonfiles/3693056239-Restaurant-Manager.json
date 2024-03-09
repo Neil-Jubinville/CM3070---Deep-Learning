@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Restaurant Manager",
+      "job_category": "Culinary",
+      "job_class": "Manager",
+      "sector": "Food and Beverage",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Restaurant Management",
+      "experience": 2
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 4
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 4
+    },
+    {
+      "skill": "Financial Budgeting",
+      "experience": 3
+    },
+    {
+      "skill": "Promotions",
+      "experience": 3
+    },
+    {
+      "skill": "Multi-tasking",
+      "experience": 4
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Supervise day-to-day activities and assist in the food and beverage outlets"
+    },
+    {
+      "duty": "Create innovative programs and promotions that drive revenue through increased guest patronage"
+    },
+    {
+      "duty": "Aid in all financial budgeting operations to maximize profitability"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "At least 1-2 years' of full-service restaurant management"
+    }
+  ]
+}

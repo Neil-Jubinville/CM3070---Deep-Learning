@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Entry Level Data Analyst",
+      "job_category": "Data Analyst",
+      "job_class": "Entry Level",
+      "sector": "Data Analysis",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analysis",
+      "experience": 1
+    },
+    {
+      "skill": "Analytical Methods",
+      "experience": 1
+    },
+    {
+      "skill": "Problem Analysis",
+      "experience": 1
+    },
+    {
+      "skill": "Computer Applications",
+      "experience": 1
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Oral Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Database Software",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Utilize analytical methods and problem analysis techniques for data extraction and analysis."
+    },
+    {
+      "duty": "Organize data in a meaningful and easily understood format for institutional research and assessment."
+    },
+    {
+      "duty": "Meet project deadlines by adapting to multiple competing demands."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Data Analytics, Computer Science, Statistics, or related field"
+    }
+  ]
+}

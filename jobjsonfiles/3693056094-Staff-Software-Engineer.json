@@ -1,0 +1,116 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C++",
+      "experience": 7
+    },
+    {
+      "skill": "Software Development",
+      "experience": 7
+    },
+    {
+      "skill": "Real-time Software Integration",
+      "experience": 7
+    },
+    {
+      "skill": "Software Testing",
+      "experience": 7
+    },
+    {
+      "skill": "Software Design",
+      "experience": 7
+    },
+    {
+      "skill": "SDLC Best Practices",
+      "experience": 7
+    },
+    {
+      "skill": "System Integration",
+      "experience": 7
+    },
+    {
+      "skill": "Computer Science",
+      "experience": 7
+    },
+    {
+      "skill": "Cmake",
+      "experience": 5
+    },
+    {
+      "skill": "Bazel",
+      "experience": 5
+    },
+    {
+      "skill": "Jira",
+      "experience": 5
+    },
+    {
+      "skill": "Confluence",
+      "experience": 5
+    },
+    {
+      "skill": "Optimization",
+      "experience": 7
+    },
+    {
+      "skill": "Linear Algebra",
+      "experience": 7
+    },
+    {
+      "skill": "Statistics",
+      "experience": 7
+    },
+    {
+      "skill": "Software Infrastructure Design",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, implement, integrate, and support real-time mission-critical software for the autonomy stack"
+    },
+    {
+      "duty": "Work with research engineers to develop maintainable, testable, and robust software designs"
+    },
+    {
+      "duty": "Architect and implement solutions to complex issues in the large software stack"
+    },
+    {
+      "duty": "Guide and ensure best SDLC practices while contributing to improving the safety in the core autonomy stack"
+    },
+    {
+      "duty": "Collaborate with Infrastructure and DevOps teams for efficient, secure, and scalable software delivery to the autonomous fleet"
+    },
+    {
+      "duty": "Mentor autonomy researchers and algorithm developers to ensure efficient running of components with optimal compute and memory usage"
+    },
+    {
+      "duty": "Review and refine technical requirements and translate them into high-level design and plans to support the development of safe AV technology"
+    },
+    {
+      "duty": "Conduct code and design reviews and advise on technical matters"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Computer Science, Robotics, or a related degree (Master's or PhD preferred)"
+    }
+  ]
+}

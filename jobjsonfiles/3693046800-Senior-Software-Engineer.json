@@ -1,0 +1,106 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 170000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Delivering Innovative Solutions",
+      "experience": 5
+    },
+    {
+      "skill": "Scalable Software Solutions",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Data-Driven Decision Making",
+      "experience": 5
+    },
+    {
+      "skill": ".NET",
+      "experience": 5
+    },
+    {
+      "skill": "RDBMS",
+      "experience": 5
+    },
+    {
+      "skill": "SPA Web Frameworks",
+      "experience": 5
+    },
+    {
+      "skill": "React/Remix",
+      "experience": 3
+    },
+    {
+      "skill": "Material UI",
+      "experience": 3
+    },
+    {
+      "skill": "Cloud Infrastructure",
+      "experience": 3
+    },
+    {
+      "skill": "Containerized Microservices",
+      "experience": 3
+    },
+    {
+      "skill": "Fintech",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Services",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, implement, and maintain data-driven web applications and services with .NET, RDBMS, and SPA web frameworks"
+    },
+    {
+      "duty": "Gain an understanding of business requirements and current system operations through collaboration with cross-functional teams including product, design, information security, and other business stakeholders"
+    },
+    {
+      "duty": "Develop defensible positions on technology and implementation decisions, prioritizing the team's ability to collaborate and deliver above any personal preferences"
+    },
+    {
+      "duty": "Design, build and maintain automated unit and integration tests"
+    },
+    {
+      "duty": "Actively mentor members of the development team and promote software development best practices (eg. collective code ownership, continuous integration/deployment, etc)"
+    },
+    {
+      "duty": "Develop concise, articulate, and detailed documentation"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 90,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or closely related field or equivalent practical experience"
+    }
+  ]
+}

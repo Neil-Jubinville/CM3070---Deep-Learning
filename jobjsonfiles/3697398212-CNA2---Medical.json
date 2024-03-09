@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "CNA2 - Medical",
+      "job_category": "Healthcare",
+      "job_class": "Nursing Assistant",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Basic Nursing Assistant Procedures",
+      "experience": 1
+    },
+    {
+      "skill": "CPR",
+      "experience": 1
+    },
+    {
+      "skill": "Vital Signs Recording",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Care Documentation",
+      "experience": 1
+    },
+    {
+      "skill": "Personal Care Assistance",
+      "experience": 1
+    },
+    {
+      "skill": "Unit Supply Management",
+      "experience": 1
+    },
+    {
+      "skill": "Clerical Support",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in providing direct patient care as delegated by the Registered Nurse within the scope of the CNA licensure."
+    },
+    {
+      "duty": "Perform basic technical skills including CPR, vital signs recording, fluid intake/output measurement, applying dressings, recognizing signs and symptoms of common diseases, and administering treatments as directed."
+    },
+    {
+      "duty": "Assist patients with personal care including bathing, mouth and skin care, grooming, dressing, toileting assistance, eating, and hydration."
+    },
+    {
+      "duty": "Provide patients with assistance in walking, exercising, and moving in and out of bed."
+    },
+    {
+      "duty": "Maintain unit supplies by stocking patient rooms and supply areas to meet patient care needs."
+    },
+    {
+      "duty": "Document relevant patient care data and provide clerical support to the unit."
+    },
+    {
+      "duty": "May perform other duties as assigned such as order entry, chart processing, and answering telephones."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 80,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an approved Certified Nursing Assistant program required."
+    }
+  ]
+}

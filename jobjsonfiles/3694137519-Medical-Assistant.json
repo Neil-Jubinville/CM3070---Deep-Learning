@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 20,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Insurance Eligibility Verification",
+      "experience": 3
+    },
+    {
+      "skill": "Rooming Patients",
+      "experience": 3
+    },
+    {
+      "skill": "Assisting with Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Scribing",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Counseling",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Confirming insurance eligibility and authorization for procedures and testing"
+    },
+    {
+      "duty": "Rooming patients"
+    },
+    {
+      "duty": "Assisting with procedures as needed"
+    },
+    {
+      "duty": "Prepares patients for consultation/examination by completing intake, verifying patient information, recording medical history; confirming purpose of visit, measuring vitals"
+    },
+    {
+      "duty": "Medical Scribe"
+    },
+    {
+      "duty": "Preparation for patient appointments, including confirmation calls, chart prep, forms, etc."
+    },
+    {
+      "duty": "Respond to messages/calls in a timely manner"
+    },
+    {
+      "duty": "Counsels patients by reviewing physician's orders and questions about procedures"
+    },
+    {
+      "duty": "Maintains safe, secure, and healthy work environment by adhering to organization's standards and procedures; complying with legal regulations"
+    },
+    {
+      "duty": "Maintains supplies by keeping inventory of stock"
+    },
+    {
+      "duty": "Handling patient inquiries both telephonically and electronically through email or EMR"
+    },
+    {
+      "duty": "Manage, resolve and/or escalate patient complaints"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Medical Assistant Certification preferred but not required"
+    },
+    {
+      "credential": "High School Diploma or GED"
+    }
+  ]
+}

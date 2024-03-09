@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "General Surgeon",
+      "job_category": "Medical",
+      "job_class": "Surgeon",
+      "sector": "Healthcare",
+      "salary": 300000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "General Surgery",
+      "experience": 5
+    },
+    {
+      "skill": "Robotic Surgery",
+      "experience": 3
+    },
+    {
+      "skill": "Board Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Licensure",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform general surgical procedures with proficiency and expertise."
+    },
+    {
+      "duty": "Collaborate with the medical staff and team to ensure comprehensive patient care."
+    },
+    {
+      "duty": "Utilize robotic surgery techniques where suitable and advantageous for patient outcomes."
+    },
+    {
+      "duty": "Maintain board certification and stay updated on advancements in general surgery."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100
+    },
+    {
+      "student_teacher": 50
+    },
+    {
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "MD or DO degree from an accredited medical school. Board certification in general surgery. Eligible for medical licensure in Louisiana."
+    }
+  ]
+}

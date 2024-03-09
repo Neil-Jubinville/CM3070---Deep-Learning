@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Art Instructor",
+      "job_category": "Arts",
+      "job_class": "Instructor",
+      "sector": "Education",
+      "salary": 18,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Artistic Expression",
+      "experience": 5
+    },
+    {
+      "skill": "Teaching",
+      "experience": 5
+    },
+    {
+      "skill": "Marketing",
+      "experience": 3
+    },
+    {
+      "skill": "Grant Writing",
+      "experience": 3
+    },
+    {
+      "skill": "Budgeting",
+      "experience": 3
+    },
+    {
+      "skill": "Social Media Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Teach foundational art courses to students aged 7-12, with a focus on exploring color in drawing and painting."
+    },
+    {
+      "duty": "Guide students in creating practice projects and at least 2 finished artworks."
+    },
+    {
+      "duty": "Understand marketing for social media, grant writing, budgeting, and use of organization to help facilitate registration for programming."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 200,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Fine Arts or related field (Teaching certification is a plus)"
+    }
+  ]
+}

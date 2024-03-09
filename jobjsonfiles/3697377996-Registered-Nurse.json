@@ -1,0 +1,111 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Medical",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Care Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Improvement",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Research",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Oversight",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Pathways",
+      "experience": 5
+    },
+    {
+      "skill": "Professional Presentations",
+      "experience": 5
+    },
+    {
+      "skill": "Publications",
+      "experience": 5
+    },
+    {
+      "skill": "BLS Certification",
+      "experience": 5
+    },
+    {
+      "skill": "ACLS Certification",
+      "experience": 5
+    },
+    {
+      "skill": "IV Start",
+      "experience": 5
+    },
+    {
+      "skill": "PICC Placement",
+      "experience": 5
+    },
+    {
+      "skill": "Midline Placement",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assess each assigned patient, document and evaluate their response to plan of care, and take appropriate corrective action."
+    },
+    {
+      "duty": "Plan and implement the patient\u2019s plan of care/standard of care and provide patient teaching using the plan of care/standard of care."
+    },
+    {
+      "duty": "Oversee all ancillary personnel for technical tasks."
+    },
+    {
+      "duty": "Seek to improve quality of service by continuously developing individual and unit competencies within scope of practice."
+    },
+    {
+      "duty": "Integrate into practice the research of best practice benchmarking and clinical pathways, participate and cooperate with ongoing studies and clinical trials, and promote and disseminate research through professional forums including presentations and publications."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited school of nursing."
+    },
+    {
+      "credential": "Current State of Michigan Registered Nurse license."
+    },
+    {
+      "credential": "BLS certification as Healthcare Provider."
+    },
+    {
+      "credential": "ACLS certification as Healthcare Provider in the Cardiac Cath Lab."
+    },
+    {
+      "credential": "One year of professional nursing experience in area of practice."
+    }
+  ]
+}

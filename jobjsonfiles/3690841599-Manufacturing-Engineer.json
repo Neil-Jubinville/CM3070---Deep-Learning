@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Manufacturing Engineer",
+      "job_category": "Manufacturing",
+      "job_class": "Engineer",
+      "sector": "Manufacturing",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CAD",
+      "experience": 10
+    },
+    {
+      "skill": "Mechanical Design",
+      "experience": 10
+    },
+    {
+      "skill": "Manufacturing Process Optimization",
+      "experience": 10
+    },
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 10
+    },
+    {
+      "skill": "Lean Manufacturing Practices",
+      "experience": 5
+    },
+    {
+      "skill": "Spanish Language",
+      "experience": 2
+    },
+    {
+      "skill": "Fiber Optic Experience",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Creating work instructions relating to the manufacturing operations"
+    },
+    {
+      "duty": "Creating manufacturing travelers"
+    },
+    {
+      "duty": "Troubleshooting manufacturing defects and enacting process improvements"
+    },
+    {
+      "duty": "Maintaining a safe work environment"
+    },
+    {
+      "duty": "Solving technical problems for production personnel"
+    },
+    {
+      "duty": "Developing methods of improving efficiency and reducing manufacturing costs"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.S. in Engineering (preferably Mechanical)"
+    }
+  ]
+}

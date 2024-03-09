@@ -1,0 +1,51 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. SQL Server Developer",
+      "job_category": "Software Development",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Core SQL Server Development",
+      "experience": 10
+    },
+    {
+      "skill": "Stored Procedures",
+      "experience": 10
+    },
+    {
+      "skill": "SQL Server Integration Services (SSIS)",
+      "experience": 10
+    },
+    {
+      "skill": "Performance Tuning and Improvement",
+      "experience": 10
+    },
+    {
+      "skill": "Tables related function experience",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain complex SQL Server databases and applications."
+    },
+    {
+      "duty": "Create and optimize stored procedures and queries for efficient database operations."
+    },
+    {
+      "duty": "Design, develop, and implement SQL Server Integration Services (SSIS) solutions for data integration and transformation."
+    },
+    {
+      "duty": "Identify and address performance issues in SQL Server databases, optimizing for speed and scalability."
+    },
+    {
+      "duty": "Utilize tables-related functions to support database operations and data management."
+    }
+  ]
+}

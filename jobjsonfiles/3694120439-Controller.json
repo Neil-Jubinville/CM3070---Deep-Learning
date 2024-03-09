@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Controller",
+      "job_category": "Accounting",
+      "job_class": "Manager",
+      "sector": "Finance",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "GAAP Knowledge",
+      "experience": 6
+    },
+    {
+      "skill": "CPA Certification",
+      "experience": 6
+    },
+    {
+      "skill": "People Management",
+      "experience": 6
+    },
+    {
+      "skill": "ERP Systems",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Month-end reporting and accruals"
+    },
+    {
+      "duty": "Account reconciliations and variance analysis"
+    },
+    {
+      "duty": "P&L and General Ledger accounting across all entities"
+    },
+    {
+      "duty": "Oversight of AP and AR"
+    },
+    {
+      "duty": "Collaboration with external audit teams"
+    },
+    {
+      "duty": "Optimizing current accounting processes"
+    },
+    {
+      "duty": "Management of external vendors"
+    },
+    {
+      "duty": "Staffing and mentorship of internal employees"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting or Finance (Master's preferred)"
+    },
+    {
+      "credential": "CPA preferred"
+    }
+  ]
+}

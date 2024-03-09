@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Product Owner",
+      "job_category": "Product Management",
+      "job_class": "Senior",
+      "sector": "Digital Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AEM (Adobe Experience Manager)",
+      "experience": 6
+    },
+    {
+      "skill": "Business Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "User Research",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Solution Design",
+      "experience": 5
+    },
+    {
+      "skill": "Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Support",
+      "experience": 5
+    },
+    {
+      "skill": "Technology Trends",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Gather and analyze business requirements, translate them into functional and technical specifications."
+    },
+    {
+      "duty": "Design and implement solutions using AEM and relevant technologies."
+    },
+    {
+      "duty": "Conduct user research to understand user needs, pain points, and behavior."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to ensure project completion within scope and satisfaction of stakeholders."
+    },
+    {
+      "duty": "Test solutions, ensure quality standards, and alignment with business requirements."
+    },
+    {
+      "duty": "Provide end-user support and troubleshoot issues."
+    },
+    {
+      "duty": "Stay up-to-date with technology trends and best practices in AEM."
+    },
+    {
+      "duty": "Assist in Discovery and Requirement gathering, Analysis, and definition of Business and Technical requirements."
+    },
+    {
+      "duty": "Creation of typical User Stories with Acceptance Criteria and Definitions of Done, Assist in the assignment of prioritizations and sizings in the backlog."
+    },
+    {
+      "duty": "Need to have a firm understanding of the core AEM product (Templates/Components, Workflow, Possible integrations, APIs, and GraphQL for Headless implementation)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

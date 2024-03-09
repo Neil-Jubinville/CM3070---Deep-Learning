@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Quality Assurance Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Manual Test Scripts",
+      "experience": 5
+    },
+    {
+      "skill": "Backend Testing (API, Database)",
+      "experience": 5
+    },
+    {
+      "skill": "Test Documentation Creation",
+      "experience": 5
+    },
+    {
+      "skill": "Project and Bug-Tracking Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Automation Testing",
+      "experience": 4
+    },
+    {
+      "skill": "Scrum Processes",
+      "experience": 4
+    },
+    {
+      "skill": "Web and Mobile Apps Testing",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and execute manual test scripts"
+    },
+    {
+      "duty": "Document and proactively manage issues until resolution"
+    },
+    {
+      "duty": "Collaborate with the team to ensure quality across the platform."
+    },
+    {
+      "duty": "Ensure proper execution of regression test procedures and automated test suites."
+    },
+    {
+      "duty": "Assist product support to ensure product meets customer expectations."
+    },
+    {
+      "duty": "Prepare and support internal documentation for the project."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

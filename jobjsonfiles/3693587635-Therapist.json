@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Therapist",
+      "job_category": "Therapy",
+      "job_class": "Clinician",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Expertise",
+      "experience": 5
+    },
+    {
+      "skill": "Autonomy",
+      "experience": 5
+    },
+    {
+      "skill": "Counseling",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Decision Making",
+      "experience": 5
+    },
+    {
+      "skill": "Therapeutic Population Focus",
+      "experience": 5
+    },
+    {
+      "skill": "Privacy and Confidentiality",
+      "experience": 5
+    },
+    {
+      "skill": "Secure Communication Platform",
+      "experience": 5
+    },
+    {
+      "skill": "Professional Liability Management",
+      "experience": 5
+    },
+    {
+      "skill": "Internet Reliability",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide clinical expertise and counseling services to individuals, couples, and teens."
+    },
+    {
+      "duty": "Exercise autonomy over clinical decisions and treatment approaches."
+    },
+    {
+      "duty": "Ensure privacy, confidentiality, and secure communication with clients."
+    },
+    {
+      "duty": "Manage professional liability and maintain a private environment for therapy sessions."
+    },
+    {
+      "duty": "Maintain reliable Internet connection for remote therapy sessions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Fully licensed by a State Board to provide counseling independently and without supervision (e.g., LCSW, LPC, LMFT, PsyD or similar credentials)"
+    }
+  ]
+}

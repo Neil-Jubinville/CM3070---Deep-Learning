@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performs basic analysis of technical requirements."
+    },
+    {
+      "duty": "Completes technical work under the supervision of and as defined by engineers that are more senior."
+    },
+    {
+      "duty": "Participates in design and outcome reviews."
+    },
+    {
+      "duty": "Prepares and executes manual and/or automated test plans and scripts under supervision."
+    },
+    {
+      "duty": "Applies growing technical knowledge to maintain a technology area."
+    },
+    {
+      "duty": "May perform solution design."
+    },
+    {
+      "duty": "Applies appropriate technologies to solutions of moderate complexity."
+    },
+    {
+      "duty": "Complete learning plans as needed and become familiar with all of the resources that are available to them."
+    },
+    {
+      "duty": "Learn to work in Agile and Waterfall delivery methodologies."
+    },
+    {
+      "duty": "Participate in daily project and team meetings including those that take place globally in various time zones."
+    },
+    {
+      "duty": "Participate in technical and leadership development learning groups."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Test Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Solution Design",
+      "experience": 2
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 2
+    },
+    {
+      "skill": "Waterfall Methodology",
+      "experience": 2
+    },
+    {
+      "skill": "Tech Learning and Adaptation",
+      "experience": 3
+    },
+    {
+      "skill": "Global Team Meeting Participation",
+      "experience": 3
+    },
+    {
+      "skill": "Technical and Leadership Development",
+      "experience": 3
+    },
+    {
+      "skill": "Technology Maintenance",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140,
+      "student_teacher": 90,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS in related field or Code Camp certificate or equivalent education/experience."
+    }
+  ]
+}

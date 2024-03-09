@@ -1,0 +1,105 @@
+{
+  "meta": [
+    {
+      "job_title": "HR Coordinator",
+      "job_category": "Human Resources",
+      "job_class": "Coordinator",
+      "sector": "HR",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Workday Solutions",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Design",
+      "experience": 5
+    },
+    {
+      "skill": "Test Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Release Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Integration Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "Workday Studio",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Connect",
+      "experience": 5
+    },
+    {
+      "skill": "EIBs",
+      "experience": 5
+    },
+    {
+      "skill": "BIRT",
+      "experience": 5
+    },
+    {
+      "skill": "Calculated Fields",
+      "experience": 5
+    },
+    {
+      "skill": "Report Writer",
+      "experience": 5
+    },
+    {
+      "skill": "XML",
+      "experience": 5
+    },
+    {
+      "skill": "XSLT",
+      "experience": 5
+    },
+    {
+      "skill": "SOAP APIs",
+      "experience": 5
+    },
+    {
+      "skill": "REST APIs",
+      "experience": 5
+    },
+    {
+      "skill": "Integration Security",
+      "experience": 5
+    },
+    {
+      "skill": "IT Partnership",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Authoring technical design documents, test plans and release plans for Workday integration solutions."
+    },
+    {
+      "duty": "Configuring, building, testing, and deploying Workday integration solutions."
+    },
+    {
+      "duty": "Resolving (diagnosing, tracking, and managing) integration issues requiring in-depth expertise with Workday."
+    },
+    {
+      "duty": "Partnering with IT and business teams on Workday solutions primarily within the integration space."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelors degree in Computer Science or related field of study or equivalent relevant experience in programming"
+    }
+  ]
+}

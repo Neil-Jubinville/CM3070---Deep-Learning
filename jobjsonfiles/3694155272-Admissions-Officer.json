@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Admissions Officer",
+      "job_category": "Education",
+      "job_class": "Admissions",
+      "sector": "Education",
+      "salary": 70000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Share admissions content expertise to direct the strategy of students' profiles."
+    },
+    {
+      "duty": "Provide constructive feedback to students' essays."
+    },
+    {
+      "duty": "Provide comprehensive support to students as they prepare their applications."
+    },
+    {
+      "duty": "Collaborate with our team to support each student's progress."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Admissions Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "International Mindedness",
+      "experience": 5
+    },
+    {
+      "skill": "Student-Centered Educational Philosophy",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 10,
+      "student_teacher": 120,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Admissions experience at a Top 30 ranked university or liberal arts college."
+    },
+    {
+      "credential": "Masters and/or PhD (optional)"
+    }
+  ]
+}

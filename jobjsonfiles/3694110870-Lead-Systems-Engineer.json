@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Systems Engineer",
+      "job_category": "Engineering",
+      "job_class": "Lead",
+      "sector": "Software Engineering",
+      "salary": 170000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Systems Engineering",
+      "experience": 10
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "Cryptography",
+      "experience": 7
+    },
+    {
+      "skill": "Information Assurance",
+      "experience": 7
+    },
+    {
+      "skill": "Security Certification",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead systems engineering for products based on a software definable cryptographic platform."
+    },
+    {
+      "duty": "Define and manage requirements and scope, and map functionality to hardware and software systems."
+    },
+    {
+      "duty": "Plan and execute requirement verification, validation, and test planning, as well as information assurance and security certification."
+    },
+    {
+      "duty": "Stay updated with emerging cryptography threats and adapt to them."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 170,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Systems Engineering, or a related Science, Engineering or Mathematics field. Master's degree preferred."
+    }
+  ]
+}

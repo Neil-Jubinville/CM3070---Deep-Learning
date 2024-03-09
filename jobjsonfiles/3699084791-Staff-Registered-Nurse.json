@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Registered Nurse",
+      "job_category": "Nursing",
+      "job_class": "Staff",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Decision-Making",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Improvement",
+      "experience": 5
+    },
+    {
+      "skill": "Advocacy",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "BLS Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Advanced Life Support",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Organize patient care through prioritizing, delegating, delivering, and evaluating on an ongoing basis."
+    },
+    {
+      "duty": "Utilize nursing education and experience to deliver nursing care using the nursing process according to hospital policies, procedures, and protocols."
+    },
+    {
+      "duty": "Collaborate with the nursing team to facilitate overall improvement in the quality of care, patient experience, and cost reduction."
+    },
+    {
+      "duty": "Foster a learning environment for patients/families, nursing staff, and members of the health care team."
+    },
+    {
+      "duty": "Advocate for ethical and holistic care promoting the autonomy, dignity, and health of patients from diverse ethnic and social backgrounds."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing, or obtained within three (3) years from the initial date of hire; RN with 25+ years of service may be considered in lieu of education agreement. Advanced degree in Nursing (MSN, PhD, DNP, ARNP) preferred. Washington State Registered Nurse license (RN). Current BLS Certification. Advanced Life Support certification may be required after hire, depending on assigned clinic site. Two years of experience as a RN - in a clinic setting preferred."
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "meta": [
+    {
+      "job_title": "Full Stack Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Node.js",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "REST APIs",
+      "experience": 5
+    },
+    {
+      "skill": "Web Sockets",
+      "experience": 5
+    },
+    {
+      "skill": "Database Design",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "NoSQL",
+      "experience": 5
+    },
+    {
+      "skill": "Git",
+      "experience": 5
+    },
+    {
+      "skill": "React JS",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD Pipelines",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Security Best Practices",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Craft scalable backend solutions using Node.js and other relevant technologies."
+    },
+    {
+      "duty": "Collaborate with product teams to understand requirements and develop intricate APIs."
+    },
+    {
+      "duty": "Design and maintain RESTful APIs for seamless integration with third-party applications."
+    },
+    {
+      "duty": "Implement web sockets for real-time customer interactions over the phone."
+    },
+    {
+      "duty": "Conduct database design to ensure smooth data storage and retrieval."
+    },
+    {
+      "duty": "Engage in collaborative problem-solving and contribute to frontend development using React JS."
+    },
+    {
+      "duty": "Implement CI/CD pipelines and automated deployment, incorporating security best practices into backend development."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

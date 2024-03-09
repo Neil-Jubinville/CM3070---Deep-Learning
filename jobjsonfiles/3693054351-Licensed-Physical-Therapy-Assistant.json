@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Physical Therapy Assistant",
+      "job_category": "Medical",
+      "job_class": "Assistant",
+      "sector": "Physical & Rehabilitation Medicine",
+      "salary": 52000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Therapy",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Observation",
+      "experience": 2
+    },
+    {
+      "skill": "Therapeutic Techniques",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 2
+    },
+    {
+      "skill": "Progress Reporting",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Observe patients before, during, and after therapy, noting the patient\u2019s status and reporting it to a physical therapist."
+    },
+    {
+      "duty": "Help patients do specific exercises as part of the plan of care."
+    },
+    {
+      "duty": "Treat patients using a variety of techniques, such as massage and stretching."
+    },
+    {
+      "duty": "Use devices and equipment, such as walkers, to help patients."
+    },
+    {
+      "duty": "Educate patients and family members about what to do after treatment."
+    },
+    {
+      "duty": "Record patients\u2019 progress and report the results of each treatment to the physical therapist."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Licensed Physical Therapy Assistant"
+    },
+    {
+      "credential": "CPR Certification (Preferred)"
+    }
+  ]
+}

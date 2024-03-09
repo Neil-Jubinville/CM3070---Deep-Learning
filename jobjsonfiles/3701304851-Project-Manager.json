@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 15
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 15
+    },
+    {
+      "skill": "Leadership",
+      "experience": 15
+    },
+    {
+      "skill": "Construction Management",
+      "experience": 15
+    },
+    {
+      "skill": "Quality Management",
+      "experience": 15
+    },
+    {
+      "skill": "Primavera (P6) Scheduling",
+      "experience": 15
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 15
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Establish and maintain communications among all project/programs stakeholders."
+    },
+    {
+      "duty": "Plan the project (s) assigned to, including scope, schedule, cost, safety, and quality aspect of the project."
+    },
+    {
+      "duty": "Execute projects according to Plan within designed scope, cost, and schedule limits."
+    },
+    {
+      "duty": "Create, develop, and deliver project/business case presentations to Senior Management/project sponsors."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science degree in Engineering, Construction Management, or equivalent technical field."
+    }
+  ]
+}

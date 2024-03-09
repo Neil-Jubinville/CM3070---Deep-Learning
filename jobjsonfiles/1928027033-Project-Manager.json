@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Construction",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Construction Site Management",
+      "experience": 5
+    },
+    {
+      "skill": "Account Management",
+      "experience": 3
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Architectural Rendering",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Google Hangouts",
+      "experience": 3
+    },
+    {
+      "skill": "Google Docs/Sheets",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Plan, organize, and support staffing of all project team members for concrete construction projects."
+    },
+    {
+      "duty": "Manage materials, equipment, and subcontractors to ensure smooth execution of projects."
+    },
+    {
+      "duty": "Act as the company's key liaison in the field, bridging communication between customers and crew."
+    },
+    {
+      "duty": "Collaborate with management to identify and implement processes minimizing expenses and eliminating waste."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Construction Management, Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

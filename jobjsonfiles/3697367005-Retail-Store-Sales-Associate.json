@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Retail Store Sales Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Retail",
+      "salary": 37500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assess customer needs and provide solutions in a retail store environment."
+    },
+    {
+      "duty": "Mix, tint, and match paint to customer requests."
+    },
+    {
+      "duty": "Upsell additional products and ensure the store is clean and stocked."
+    },
+    {
+      "duty": "Process orders, payments, and use POS systems."
+    },
+    {
+      "duty": "Report to the Store Manager."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 110,
+      "student_teacher": 90,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": []
+}

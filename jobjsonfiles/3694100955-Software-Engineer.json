@@ -1,0 +1,130 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HTML",
+      "experience": 3
+    },
+    {
+      "skill": "PHP",
+      "experience": 3
+    },
+    {
+      "skill": "CSS",
+      "experience": 3
+    },
+    {
+      "skill": "JavaScript/jQuery",
+      "experience": 3
+    },
+    {
+      "skill": "WordPress",
+      "experience": 3
+    },
+    {
+      "skill": "React.js",
+      "experience": 2
+    },
+    {
+      "skill": "GitHub",
+      "experience": 2
+    },
+    {
+      "skill": "Apache servers (cPanel)",
+      "experience": 2
+    },
+    {
+      "skill": "MySQL Databases",
+      "experience": 2
+    },
+    {
+      "skill": "VMWare systems",
+      "experience": 2
+    },
+    {
+      "skill": "Content Delivery Network (CDN) management",
+      "experience": 2
+    },
+    {
+      "skill": "Elementor",
+      "experience": 2
+    },
+    {
+      "skill": "WooCommerce",
+      "experience": 2
+    },
+    {
+      "skill": "Adobe Illustrator",
+      "experience": 2
+    },
+    {
+      "skill": "Adobe Photoshop",
+      "experience": 2
+    },
+    {
+      "skill": "Google Products",
+      "experience": 2
+    },
+    {
+      "skill": "Operating Systems: Windows, Mac, iOS/Android",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Support / Help Desk",
+      "experience": 2
+    },
+    {
+      "skill": "SEO (Search Engine Optimization)",
+      "experience": 3
+    },
+    {
+      "skill": "Form builders like WPForms",
+      "experience": 3
+    },
+    {
+      "skill": "Design tools",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build and maintain user-friendly, attractive professional websites."
+    },
+    {
+      "duty": "Create unique features, plugins, or scripts to achieve client requests or goals."
+    },
+    {
+      "duty": "Provide Technical Support for clients and internal team members."
+    },
+    {
+      "duty": "Write and maintain instructions for client and internal operations."
+    },
+    {
+      "duty": "Assist with server management & Software Updates."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "2 \u2013 4 year degree or equivalent work experience or certifications."
+    },
+    {
+      "credential": "Bachelor's degree in related field (e.g., Computer Science)"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Primary Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Analytical Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Assessment",
+      "experience": 2
+    },
+    {
+      "skill": "Therapeutic Alliance",
+      "experience": 2
+    },
+    {
+      "skill": "Treatment Planning",
+      "experience": 2
+    },
+    {
+      "skill": "Caseload Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assess and observe patients to form comprehensive assessments and document findings"
+    },
+    {
+      "duty": "Establish a therapeutic alliance with each patient, collaborate, and focus on the patient's needs"
+    },
+    {
+      "duty": "Formulate a comprehensive treatment plan integrating the initial assessment, coordinate care with primary medical providers, and evaluate/revising treatment plans based on the most current assessment"
+    },
+    {
+      "duty": "Maintain a dynamic caseload and ensure quality care throughout each case"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Relevant licensure or certification as a Primary Therapist"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Linux Systems Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 138500,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Linux systems administration",
+      "experience": 5
+    },
+    {
+      "skill": "Configuration management (Salt)",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud hosting (AWS)",
+      "experience": 5
+    },
+    {
+      "skill": "Python scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Architecting and implementing projects",
+      "experience": 5
+    },
+    {
+      "skill": "Programming language (C++, C#, Java, Go, etc.)",
+      "experience": 5
+    },
+    {
+      "skill": "Infrastructure as Code (IaC) system (Terraform)",
+      "experience": 4
+    },
+    {
+      "skill": "CI/CD pipelines",
+      "experience": 4
+    },
+    {
+      "skill": "Containers and maintenance (Docker, Kubernetes, etc.)",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Utilize Linux to support hosting game services and game server, including automation for scaling and deploying Docker."
+    },
+    {
+      "duty": "Assist in migrating development infrastructure to Linux on AWS and work on automation for non-game services and company infrastructure improvement."
+    },
+    {
+      "duty": "Participate in on-call rotation and ensuring vigilance during the rotation."
+    },
+    {
+      "duty": "Maintain performance, high coding standards, and efficient code architecture."
+    },
+    {
+      "duty": "Improve workflow and practices, and participate in planning, estimating, and communication."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

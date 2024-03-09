@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "job_title": "System Administrator",
+      "job_category": "IT",
+      "job_class": "Administrator",
+      "sector": "IT",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "System Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Network Management",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Security Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Hardware and Software Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "NIST Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Active Directory",
+      "experience": 5
+    },
+    {
+      "skill": "Group Policy Management",
+      "experience": 5
+    },
+    {
+      "skill": "VMWare",
+      "experience": 5
+    },
+    {
+      "skill": "LAN Routing and Switching",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Troubleshooting hardware, software, and networking issues, as well as ensuring that all computing operations run with optimal performance and security per RMF standards"
+    },
+    {
+      "duty": "Implement system configurations in accordance with NIST 800-53 controls and as directed by the ISSO/ISSM"
+    },
+    {
+      "duty": "Manage and maintain servers, storage and network devices in accordance with local policy and the Systems Security Plan"
+    },
+    {
+      "duty": "Ensuring data is stored securely and backed up regularly"
+    },
+    {
+      "duty": "Diagnosing and resolving hardware, software, networking, and system issues when they arise"
+    },
+    {
+      "duty": "Replacing and upgrading defective or outdated components when necessary"
+    },
+    {
+      "duty": "Monitoring system performance to ensure operations run smoothly and securely according to RMF standards"
+    },
+    {
+      "duty": "Researching and recommending new approaches to improve the networked computer system"
+    },
+    {
+      "duty": "Updating documentation, processes, and procedures to maintain the systems ATO"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

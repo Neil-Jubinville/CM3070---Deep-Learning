@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Healthcare Administrative Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Terminology",
+      "experience": 2
+    },
+    {
+      "skill": "Admin/Clerical",
+      "experience": 2
+    },
+    {
+      "skill": "Computer Proficiency",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Training Aptitude",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Schedule procedures for various healthcare departments."
+    },
+    {
+      "duty": "Collect and validate patient information for pre-registration."
+    },
+    {
+      "duty": "Obtain certification and authorization numbers from physician offices."
+    },
+    {
+      "duty": "Inform patients and physician offices about procedure preparations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Graduate or Associate degree with medical certification preferred."
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Occupational Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Occupational Therapy",
+      "experience": 5
+    },
+    {
+      "skill": "Treatment Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Supervision",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Autism Support",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop treatment plans and IEP goals to improve, develop, restore, or maintain opportunities for active participation for children and young adults."
+    },
+    {
+      "duty": "Provide direct service according to a written treatment plan/IEP for students with autism"
+    },
+    {
+      "duty": "Recommend modification of treatment approaches to reflect the student\u2019s changing needs"
+    },
+    {
+      "duty": "Communicate and interact with other team members, school personnel, and families"
+    },
+    {
+      "duty": "Develop and maintain a daily schedule, including sites, students/classrooms, and other activities/duties"
+    },
+    {
+      "duty": "Maintain and record accurate records and documentation"
+    },
+    {
+      "duty": "Maintain high standards of confidentiality, attendance, and flexibility while working cooperatively with Supervisors and other employees"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited Occupational Therapy program required"
+    },
+    {
+      "credential": "Current New York State OT license to practice required"
+    },
+    {
+      "credential": "Experience working with people with autism highly preferred"
+    },
+    {
+      "credential": "One to three years\u2019 experience working as an Occupational Therapist in a related setting preferred"
+    },
+    {
+      "credential": "Vaccination required"
+    }
+  ]
+}

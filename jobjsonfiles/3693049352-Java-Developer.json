@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Java Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "BDD",
+      "experience": 5
+    },
+    {
+      "skill": "API Automation Framework",
+      "experience": 5
+    },
+    {
+      "skill": "Cucumber",
+      "experience": 5
+    },
+    {
+      "skill": "SOAP and REST webservices",
+      "experience": 5
+    },
+    {
+      "skill": "Selenium WebDriver",
+      "experience": 5
+    },
+    {
+      "skill": "JBehave",
+      "experience": 5
+    },
+    {
+      "skill": "Gherkin",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain Java-based applications with BDD approach and API automation framework."
+    },
+    {
+      "duty": "Create and execute automated tests for SOAP and REST web services using Cucumber and Selenium WebDriver."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

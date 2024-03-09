@@ -1,0 +1,122 @@
+{
+  "meta": [
+    {
+      "job_title": "Network Architect",
+      "job_category": "Network Architecture",
+      "job_class": "Architect",
+      "sector": "Information Technology",
+      "salary": 145000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Network Architecture",
+      "experience": 8
+    },
+    {
+      "skill": "SD-WAN",
+      "experience": 5
+    },
+    {
+      "skill": "Enterprise Network Management",
+      "experience": 8
+    },
+    {
+      "skill": "Cybersecurity",
+      "experience": 8
+    },
+    {
+      "skill": "Information Assurance",
+      "experience": 8
+    },
+    {
+      "skill": "IP Addressing",
+      "experience": 8
+    },
+    {
+      "skill": "Cisco Network Technologies",
+      "experience": 8
+    },
+    {
+      "skill": "Vendor Network Technologies",
+      "experience": 8
+    },
+    {
+      "skill": "IT Asset Management",
+      "experience": 8
+    },
+    {
+      "skill": "Security Clearance Management",
+      "experience": 8
+    },
+    {
+      "skill": "Documentation",
+      "experience": 8
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 8
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Accurately document current and future state network architecture changes in collaboration with the ITD Technicians."
+    },
+    {
+      "duty": "Create and templatize network architecture artifacts based on DoD and Federal Architecture frameworks and standards."
+    },
+    {
+      "duty": "Partner with key stakeholders and technical experts to perform legacy environment discovery and design new SD-WAN architecture patterns."
+    },
+    {
+      "duty": "Document secure wide area connectivity inclusive of underlay, overlay, and COI transport design to support performance, quality of service, security, and mission requirements."
+    },
+    {
+      "duty": "Provide secure access solutions leveraging wired and wireless technologies, integrating standards, use cases/scenarios, and developing associated implementation and transition plans."
+    },
+    {
+      "duty": "Integrate capacity planning and scaling of network and security stack environments into the overall design of solutions."
+    },
+    {
+      "duty": "Collect, investigate, and identify network optimization strategies and techniques to meet capacity and performance standards."
+    },
+    {
+      "duty": "Identify legacy service paths and develop strategies and designs for enterprise service capability to meet requirements while balancing security, sustainability, and maintainability."
+    },
+    {
+      "duty": "Support development of IP addressing schemes across IPv4 and IPv6 networks."
+    },
+    {
+      "duty": "Ensure compliance to DoD standards to assist with providing accreditation artifacts in collaboration with information assurance teams."
+    },
+    {
+      "duty": "Oversee and manage inventory and asset management support for ITD's network areas, ensuring all assets are accurately accounted for."
+    },
+    {
+      "duty": "Create and deliver validated asset inventory reports by site to ITD monthly as part of the Project Status Reviews."
+    },
+    {
+      "duty": "Update and provide network architecture diagrams encompassing WAN Transport, Security, Tactical, Comm System, and Local Area Transport data."
+    },
+    {
+      "duty": "Ensure all reports and diagrams are readily available in Visio and PDF formats for ITD\u2019s review and reference during the monthly Project Status Reviews."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree with 8+ years' experience or Master's degree with 6+ years of experience. Active DoD IAT Level I (i.e. Security+) certification or equivalent. Certified Cisco Network Professional (CCNP) or equivalent. Top Secret security clearance, with the ability to obtain 'Sensitive Compartmented Information' within DARPA."
+    }
+  ]
+}

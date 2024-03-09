@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Systems Development Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Modern Programming Languages (C++, Java, Perl)",
+      "experience": 5
+    },
+    {
+      "skill": "Automation Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Python Scripting Language",
+      "experience": 3
+    },
+    {
+      "skill": "Concurrent Systems and Distributed Systems",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and maintain innovative systems for Amazon Pharmacy."
+    },
+    {
+      "duty": "Build scalable, reliable, and secure solutions to redefine the pharmacy experience for customers."
+    },
+    {
+      "duty": "Contribute to a broad tech stack consisting of both first party and third party applications."
+    },
+    {
+      "duty": "Automate solutions or remediate ticket drivers at their root cause in general maintenance requests."
+    },
+    {
+      "duty": "Participate in an on-call rotation to stay available for urgent or high severity issues."
+    },
+    {
+      "duty": "Collaborate with a team to resolve high severity events and support Amazon Pharmacy operations."
+    },
+    {
+      "duty": "Don multiple hats, including exposure/administration/collaboration with large scale first party services and software development teams."
+    },
+    {
+      "duty": "Work on workforce management, customer communication channels, and operations workflows."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Knowledge of at least one modern programming language such as C, C++, Java, or Perl."
+    },
+    {
+      "credential": "Experience on highly concurrent, high throughput systems and knowledge of complex distributed systems."
+    }
+  ]
+}

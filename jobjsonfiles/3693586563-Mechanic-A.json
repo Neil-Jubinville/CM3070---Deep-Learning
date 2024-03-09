@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Mechanic A",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Automotive",
+      "salary": 58000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnostic and Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Heavy Equipment Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Schematics Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain a consistent schedule of performing preventative maintenance of all Herc owned fleet at your branch"
+    },
+    {
+      "duty": "Operate and test equipment to ensure it passes Herc Rentals quality and efficiency standards"
+    },
+    {
+      "duty": "Perform routine maintenance and repairs on all Herc fleet equipment and trucks independently"
+    },
+    {
+      "duty": "Diagnose internal combustion engines, DC electrical systems, propane systems, hydraulics, and fuel systems"
+    },
+    {
+      "duty": "Perform major repairs to maintain fleet equipment using diagnostic tools, hand tools, and measuring instrumentsindependently"
+    },
+    {
+      "duty": "Conduct oil changes, lubrication of equipment, tire replacements, hose repairs, battery replacements and assorted services"
+    },
+    {
+      "duty": "Assist shop lead with customer damage estimates and repairs"
+    },
+    {
+      "duty": "Enter and review work orders and complete part ordering via fleet management system"
+    },
+    {
+      "duty": "Recondition and replace assorted parts of the heavy equipment"
+    },
+    {
+      "duty": "Diagnoses problem areas for any significant wear or tear on the equipment"
+    },
+    {
+      "duty": "Take service calls when shop lead is absent and dispatch Field Service Mechanic to ensure repairs are completed in a timely and efficient fashion"
+    },
+    {
+      "duty": "Maintain work area in a clean and organized manner"
+    },
+    {
+      "duty": "Produce timely and detailed service reports and repair log"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 150,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "H.S. Diploma or equivalent"
+    }
+  ]
+}

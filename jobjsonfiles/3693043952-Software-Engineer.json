@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Agile Development",
+      "experience": 8
+    },
+    {
+      "skill": "Java",
+      "experience": 8
+    },
+    {
+      "skill": "Spring",
+      "experience": 8
+    },
+    {
+      "skill": "Oracle SQL",
+      "experience": 8
+    },
+    {
+      "skill": "ORM",
+      "experience": 8
+    },
+    {
+      "skill": "JMS",
+      "experience": 8
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 8
+    },
+    {
+      "skill": "UI",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver software using agile development practice."
+    },
+    {
+      "duty": "Hands-on coding experience in Java with expertise in multithreading, collections, design patterns, lambda, stream API, and functional programming."
+    },
+    {
+      "duty": "Knowledge of Spring framework including life cycle, scope, DI, and Restful."
+    },
+    {
+      "duty": "Proficiency in Oracle SQL, including SQL, joins, performance query tuning, explain plan, stored procedures, SQL loader, data modeling, and normalizations."
+    },
+    {
+      "duty": "Experience with ORM tools such as Hibernate, MyBatis, Mapstruck, and Lombok."
+    },
+    {
+      "duty": "Familiarity with JMS, specifically IBM MQ."
+    },
+    {
+      "duty": "Expertise in unit testing with JUnit and Mockito."
+    },
+    {
+      "duty": "Coding experience in UI technologies such as Angular, Javascript, Typescript, HTML5, CSS, and ngRX."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ]
+}

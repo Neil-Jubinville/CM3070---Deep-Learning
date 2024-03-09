@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "React",
+      "experience": 5
+    },
+    {
+      "skill": "Javascript",
+      "experience": 5
+    },
+    {
+      "skill": "Typescript",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Node JS",
+      "experience": 5
+    },
+    {
+      "skill": "Postgres",
+      "experience": 5
+    },
+    {
+      "skill": "Sqlalchemy",
+      "experience": 5
+    },
+    {
+      "skill": "Prisma",
+      "experience": 5
+    },
+    {
+      "skill": "Git",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with internal and external software engineers to deliver value to the business stakeholders."
+    },
+    {
+      "duty": "Collaborate with product teams and end users of the tools to ensure what is built streamlines the business and creates a user experience where the digital workflow aligns with the physical process."
+    },
+    {
+      "duty": "Design and develop new modules within an open source ERP application which is used to plan, build, and deploy flight hardware."
+    },
+    {
+      "duty": "Develop intuitive scalable solutions using tools like React, PostgreSQL, Python and other frameworks."
+    },
+    {
+      "duty": "Increase efficiency, streamline the user experience and eliminate redundancies when possible."
+    },
+    {
+      "duty": "Continually learn and apply relevant software development practices, patterns, tools, and technologies."
+    },
+    {
+      "duty": "Know your application! Seek to know all business and technical details of the application you are building."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": []
+}

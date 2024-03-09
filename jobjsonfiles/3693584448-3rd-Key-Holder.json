@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "3rd Key Holder",
+      "job_category": "Retail",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Retail Experience",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Visual Merchandising",
+      "experience": 1
+    },
+    {
+      "skill": "Stock Management",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Ear Piercing",
+      "experience": 0
+    },
+    {
+      "skill": "POS System Operations",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Supporting Store Manager and Assistant Store Manager in achieving retail store targets by driving sales."
+    },
+    {
+      "duty": "Opening and closing the store in the absence of other management, ensuring safe and legal trading."
+    },
+    {
+      "duty": "Delivering sales through friendly and efficient customer service."
+    },
+    {
+      "duty": "Ensuring a fun and enjoyable shopping experience for customers."
+    },
+    {
+      "duty": "Demonstrating and assisting customers with products and queries."
+    },
+    {
+      "duty": "Assisting with store deliveries, visual merchandising, stock takes, markdowns, and promotions."
+    },
+    {
+      "duty": "Performing ear piercing after receiving full training."
+    },
+    {
+      "duty": "Ensuring the store looks presentable and inviting to customers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Some high school required"
+    }
+  ]
+}

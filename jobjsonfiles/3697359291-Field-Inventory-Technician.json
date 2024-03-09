@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Inventory Technician",
+      "job_category": "Inventory",
+      "job_class": "Technician",
+      "sector": "Logistics",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Sales Support",
+      "experience": 2
+    },
+    {
+      "skill": "Warehouse Operations",
+      "experience": 2
+    },
+    {
+      "skill": "Order Management",
+      "experience": 2
+    },
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Travel through assigned areas to call on accounts and check inventory for delivery needs."
+    },
+    {
+      "duty": "Communicate with customers to evaluate needs and maintain daily product reporting."
+    },
+    {
+      "duty": "Source, upsell, and build relationships with new and existing customers."
+    },
+    {
+      "duty": "Provide daily support for sales efforts and account maintenance functions."
+    },
+    {
+      "duty": "Ensure accurate inventory count and communicate with warehouse personnel for order release."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school degree or equivalent required, 1-2 years of relevant experience preferred."
+    }
+  ]
+}

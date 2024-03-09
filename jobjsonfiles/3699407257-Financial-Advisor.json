@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Financial Advisor",
+      "job_category": "Finance",
+      "job_class": "Advisor",
+      "sector": "Finance",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Detail-oriented",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Finance",
+      "experience": 5
+    },
+    {
+      "skill": "Economics",
+      "experience": 5
+    },
+    {
+      "skill": "Investment Management",
+      "experience": 5
+    },
+    {
+      "skill": "Insurance",
+      "experience": 5
+    },
+    {
+      "skill": "Estate Planning",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct detailed analysis of existing and proposed life insurance and annuity coverage"
+    },
+    {
+      "duty": "Review related documents and correspond/consult with clients\u2019 other advisors to determine feasibility of products to meet client\u2019s needs"
+    },
+    {
+      "duty": "Review industry publications and monitor pending legislation and regulations to determine impact of new developments on client\u2019s insurance products"
+    },
+    {
+      "duty": "Answer requests by mail, telephone, or in person from clients, policyholders, beneficiaries, or others for information concerning insurance"
+    },
+    {
+      "duty": "Prepare presentation material for the team to present new concepts to potential clients"
+    },
+    {
+      "duty": "Begin to develop personal relationships with third parties associated with the client (e.g., banker, attorney, vendor, etc.) to facilitate referrals"
+    },
+    {
+      "duty": "Interact with other practice areas including but not limited to audit, tax, and other management consulting service groups"
+    },
+    {
+      "duty": "Manage multiple projects; deal fluidly and effectively with multiple client relationships"
+    },
+    {
+      "duty": "Ensure that appropriate technical reviews occur on projects in a timely and effective manner"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in finance, economics, accounting or related field. Academic success (a minimum cumulative GPA of 3.0). Internship experience within the insurance, financial, estate planning or investment management industry is preferred."
+    }
+  ]
+}

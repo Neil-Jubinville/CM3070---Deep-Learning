@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Energy Analyst",
+      "job_category": "Energy",
+      "job_class": "Analyst",
+      "sector": "Energy",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Power System Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Mathematics",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office Applications",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Inquisitive and Motivated",
+      "experience": 5
+    },
+    {
+      "skill": "Independent Working Ability",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collect, update, and analyze data related to power system economics, such as generator characteristics, operations, transmission constraints, emission, fuel, and energy demand."
+    },
+    {
+      "duty": "Perform market simulation and forecast electricity prices and generator revenues using the company\u2019s optimal power flow model."
+    },
+    {
+      "duty": "Study federal and regional regulations/proposals on market design, environmental issues, competitive pricing structure, transmission upgrade, etc., and prepare summaries."
+    },
+    {
+      "duty": "Write reports on energy market modeling."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Training in power system engineering, electrical engineering, operation research, mathematics, and related fields."
+    }
+  ]
+}

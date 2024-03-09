@@ -1,0 +1,108 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Oracle DBA",
+      "job_category": "Database Administration",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "PL/SQL Programming",
+      "experience": 10
+    },
+    {
+      "skill": "Database Architecture",
+      "experience": 10
+    },
+    {
+      "skill": "Oracle RMAN",
+      "experience": 10
+    },
+    {
+      "skill": "Golden Gate",
+      "experience": 10
+    },
+    {
+      "skill": "Change Management",
+      "experience": 10
+    },
+    {
+      "skill": "Query Tuning",
+      "experience": 10
+    },
+    {
+      "skill": "SAN Technologies",
+      "experience": 10
+    },
+    {
+      "skill": "Windows/Linux/Solaris",
+      "experience": 10
+    },
+    {
+      "skill": "Shell Scripting",
+      "experience": 10
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform installations and configurations of grid infrastructure, databases, clients, etc."
+    },
+    {
+      "duty": "Design and maintain access and security administration."
+    },
+    {
+      "duty": "Design, implement, and maintain backup and recovery strategies on Database Management Systems."
+    },
+    {
+      "duty": "Support multiple services and multiple databases of medium complexity with multiple concurrent users, ensuring control, integrity, and accessibility of data."
+    },
+    {
+      "duty": "Design, install, configure, and maintain High Availability (RAC, RAC One Node, Data Guard, etc.) Database solutions."
+    },
+    {
+      "duty": "Perform capacity planning of Oracle server environment and provide recommendations to management to sustain business growth."
+    },
+    {
+      "duty": "Design, implement, maintain Disaster Recovery (DR) methodologies and create documentation."
+    },
+    {
+      "duty": "Gather business requirements and design, implement multiple projects along with the production support."
+    },
+    {
+      "duty": "Create standard operational procedures and templates."
+    },
+    {
+      "duty": "Act as mentor for Database Administrators and Associate Database Administrators."
+    },
+    {
+      "duty": "Perform research and provide plans to remediate complex business problems."
+    },
+    {
+      "duty": "Assist the development teams to improve database design and procedures on PL/SQL best practices, etc."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Restaurant Associate",
+      "job_category": "Restaurant",
+      "job_class": "Associate",
+      "sector": "Hospitality",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Cleaning and Sanitation",
+      "experience": 2
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide exceptional customer service and assistance in food and beverage preparation and service."
+    },
+    {
+      "duty": "Maintain cleanliness and organization within the restaurant/store to ensure a positive customer experience."
+    },
+    {
+      "duty": "Assist in inventory management, cash handling, and ordering of merchandise to meet customer needs."
+    },
+    {
+      "duty": "Contribute to a customer-obsessed team culture by consistently delivering high-quality service and support."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 120,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent preferred"
+    }
+  ]
+}

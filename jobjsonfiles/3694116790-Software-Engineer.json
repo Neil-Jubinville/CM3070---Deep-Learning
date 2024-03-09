@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "C#",
+      "experience": 5
+    },
+    {
+      "skill": "Angular",
+      "experience": 5
+    },
+    {
+      "skill": "RESTful APIs",
+      "experience": 5
+    },
+    {
+      "skill": "AWS/Azure",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "SOA and Open API",
+      "experience": 5
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Database Design",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps and Git",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work as a technical expert with clients, analysts, programmers and other team members to develop technical solutions to complex business problems."
+    },
+    {
+      "duty": "Lead and participate in the development, testing, implementation, maintenance, and support of highly complex solutions in adherence to company standards, including robust unit testing and support for subsequent release testing."
+    },
+    {
+      "duty": "Solve complex technical and operational problems. Act as a resource for teammates with less experience."
+    },
+    {
+      "duty": "Provide automated monitoring capabilities, providing warranty support, and providing knowledge transfer to production support."
+    },
+    {
+      "duty": "Develop code in accordance with the acceptance criteria established by the Product Owner."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree and six to ten years of experience in software engineering or equivalent education and software engineering training or experience. Master\u2019s degree and ten+ years of experience preferred."
+    }
+  ]
+}

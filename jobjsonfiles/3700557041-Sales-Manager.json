@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Manager",
+      "job_category": "Sales",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and execute comprehensive marketing strategies to enhance brand visibility and promote J.Galt's SaaS memberships and consulting services."
+    },
+    {
+      "duty": "Lead a team of 5-25 Executive Consultants, fostering collaboration and guiding their efforts towards achieving sales targets."
+    },
+    {
+      "duty": "Analyze market trends, customer behavior, and competitor activity to identify growth opportunities and refine sales and marketing strategies."
+    },
+    {
+      "duty": "Manage the company's online presence, optimizing the website and social media channels for maximum client engagement and conversions."
+    },
+    {
+      "duty": "Plan and oversee participation in industry events, conferences, and trade shows to showcase services and network with potential clients."
+    },
+    {
+      "duty": "Measure and report on the performance of sales and marketing efforts, using data-driven insights to continuously improve strategies."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Marketing Strategy",
+      "experience": 10
+    },
+    {
+      "skill": "Sales Leadership",
+      "experience": 10
+    },
+    {
+      "skill": "Market Analysis",
+      "experience": 10
+    },
+    {
+      "skill": "Online Presence Management",
+      "experience": 10
+    },
+    {
+      "skill": "Event Planning",
+      "experience": 10
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 10
+    },
+    {
+      "skill": "Digital Marketing",
+      "experience": 10
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 10
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 200,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business, Marketing, or a related field (Master's preferred)"
+    }
+  ]
+}

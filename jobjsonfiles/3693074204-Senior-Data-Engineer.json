@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Data Engineer",
+      "job_category": "Data Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 165000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Data Warehousing",
+      "experience": 5
+    },
+    {
+      "skill": "ETL/ELT Processes",
+      "experience": 5
+    },
+    {
+      "skill": "Snowflake",
+      "experience": 2
+    },
+    {
+      "skill": "Looker",
+      "experience": 2
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 2
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Remote Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, build, and maintain data infrastructure to ensure smooth data flow and enable data-driven decision-making."
+    },
+    {
+      "duty": "Develop and maintain ETL/ELT processes to extract, transform, and load data into the data warehouse."
+    },
+    {
+      "duty": "Optimize and enhance existing data pipelines to ensure high data quality, performance, and scalability."
+    },
+    {
+      "duty": "Implement data governance and security measures to protect sensitive information and ensure compliance with data regulations."
+    },
+    {
+      "duty": "Provide clean, structured data for analysis and reporting, and build and maintain dashboards for data visualization."
+    },
+    {
+      "duty": "Respond to ad-hoc requests to pull data from the Data Warehouse and support product in analyzing the validation and adoption of new features."
+    },
+    {
+      "duty": "Partner with business functions to inform cross-functional work streams with key data insights, and ensure data literacy across the organization."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's degree in Computer Science, Engineering, or a related field"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Product Engineering Intern",
+      "job_category": "Engineering",
+      "job_class": "Intern",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Product Engineering",
+      "experience": 2
+    },
+    {
+      "skill": "Systems Engineering",
+      "experience": 2
+    },
+    {
+      "skill": "Python",
+      "experience": 2
+    },
+    {
+      "skill": "React",
+      "experience": 2
+    },
+    {
+      "skill": "Node.js",
+      "experience": 2
+    },
+    {
+      "skill": "MongoDB",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ship products that allow customers to build, evaluate, and deploy generative AI applications."
+    },
+    {
+      "duty": "Use models to estimate the quality of tasks and labelers, and guarantee quality on requests at large scale."
+    },
+    {
+      "duty": "Properly route tasks from customers to labelers for low turnaround and high accuracy."
+    },
+    {
+      "duty": "Build methods to automatically measure, train, and optimally match labelers to tasks based on performance."
+    },
+    {
+      "duty": "Create optimized and efficient UI/UX tooling for Scalers to complete hundreds of complex tasks."
+    },
+    {
+      "duty": "Build robust machine learning models to automate requests and improve our labelers\u2019 efficiency."
+    },
+    {
+      "duty": "Develop new AI infrastructure products to visualize, query, and explore Scale data."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Currently pursuing a degree in a relevant field and are a rising junior (fall 2024, spring 2025)"
+    }
+  ]
+}

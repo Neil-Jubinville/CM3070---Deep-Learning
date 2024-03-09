@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Groundskeeper",
+      "job_category": "Property Management",
+      "job_class": "Maintenance",
+      "sector": "Property Maintenance",
+      "salary": 20000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Landscaping",
+      "experience": 2
+    },
+    {
+      "skill": "Property Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain the overall curb appeal and cleanliness of the property through landscaping and property maintenance activities."
+    },
+    {
+      "duty": "Perform daily property walks and inspections to identify areas for improvement and upkeep."
+    },
+    {
+      "duty": "Assist with light cleaning and repairs, as well as preparing the property for seasonal weather changes."
+    },
+    {
+      "duty": "Ensure adequate inventory of cleaning supplies and equipment, and conduct preventative maintenance on tools and equipment."
+    },
+    {
+      "duty": "Listen and respond to the needs of residents and staff members, escalating communication as necessary to a supervisor."
+    },
+    {
+      "duty": "Perform duties in accordance with all safety and OSHA requirements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

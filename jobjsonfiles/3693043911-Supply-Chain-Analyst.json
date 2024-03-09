@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Supply Chain Analyst",
+      "job_category": "Operations",
+      "job_class": "Analyst",
+      "sector": "Supply Chain",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Supply Chain Management",
+      "experience": 10
+    },
+    {
+      "skill": "ERP Usage",
+      "experience": 10
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Negotiation Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Operational Efficiency",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Establish new processes for operations."
+    },
+    {
+      "duty": "Measure, control, and improve operational efficiency."
+    },
+    {
+      "duty": "Accurately document and record customer/client information."
+    },
+    {
+      "duty": "Provide support and constructive performance feedback."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Supply Chain, Operations, Industrial Engineering, or Business related background (Master's preferred)"
+    }
+  ]
+}

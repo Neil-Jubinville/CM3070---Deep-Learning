@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Plasma Center Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 31000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Phlebotomy",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Record Keeping",
+      "experience": 2
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 2
+    },
+    {
+      "skill": "Operation of Plasmapheresis Machines",
+      "experience": 1
+    },
+    {
+      "skill": "Continuous Improvement",
+      "experience": 2
+    },
+    {
+      "skill": "Dependability",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide exceptional customer service including answering phones, greeting donors, and ensuring the safety of donors and the team."
+    },
+    {
+      "duty": "Screen new and repeat donors, take and record donor vital signs, and maintain accurate records."
+    },
+    {
+      "duty": "Identify operational opportunities for continuous improvement and coordinate donor compensation."
+    },
+    {
+      "duty": "Ensure a clean and professional work environment, attend team meetings, and problem-solve together."
+    },
+    {
+      "duty": "Work a variety of shifts including weekends and holidays, and learn to operate plasmapheresis machines to ensure donor safety."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

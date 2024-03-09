@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Director, Machine Learning Infrastructure",
+      "job_category": "Engineering",
+      "job_class": "Director",
+      "sector": "Software Engineering",
+      "salary": 250000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Machine Learning Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Docker and Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "Apache Airflow",
+      "experience": 5
+    },
+    {
+      "skill": "Spark",
+      "experience": 5
+    },
+    {
+      "skill": "TensorFlow and PyTorch",
+      "experience": 5
+    },
+    {
+      "skill": "Industry Trend Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Stakeholder Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and mentor a team of machine learning engineers, data scientists, and platform developers, whilst still being HANDS ON."
+    },
+    {
+      "duty": "Define and execute the machine learning platform roadmap aligned with business objectives."
+    },
+    {
+      "duty": "Oversee the design, implementation, and maintenance of the machine learning infrastructure using Docker and Kubernetes for containerization and orchestration."
+    },
+    {
+      "duty": "Implement and manage data pipelines and workflows using Airflow for efficient data processing and model deployment."
+    },
+    {
+      "duty": "Drive the utilization of Spark for distributed data processing and analytics."
+    },
+    {
+      "duty": "Collaborate with research teams to integrate and optimize models built with TensorFlow and PyTorch."
+    },
+    {
+      "duty": "Stay current with industry trends and emerging technologies in machine learning and AI."
+    },
+    {
+      "duty": "Collaborate with stakeholders to ensure successful implementation of machine learning projects."
+    },
+    {
+      "duty": "Monitor platform performance, troubleshoot issues, and optimize for scalability and reliability."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 150,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's degree in Computer Science, Engineering, or a related field"
+    }
+  ]
+}

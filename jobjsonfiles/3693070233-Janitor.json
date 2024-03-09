@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "job_title": "Janitor",
+      "job_category": "Operations",
+      "job_class": "Entry Level",
+      "sector": "Operations",
+      "salary": 39000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Housekeeping",
+      "experience": 1
+    },
+    {
+      "skill": "Floor Cleaning",
+      "experience": 1
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 1
+    },
+    {
+      "skill": "Mechanical Inspection",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Drive through the facility, dump trash, compact/bale trash, and move bales to storage."
+    },
+    {
+      "duty": "Clear cardboard jams in the overhead conveyor and clean up spills."
+    },
+    {
+      "duty": "Assist with battery charging, housekeeping, and keeping work areas neat and clean."
+    },
+    {
+      "duty": "Conduct safety and mechanical checks of equipment, add soap to the water tank, and drive scrubber to clean floors."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": []
+}

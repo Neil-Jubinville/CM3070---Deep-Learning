@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Support Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Support",
+      "experience": 3
+    },
+    {
+      "skill": "CRM Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 4
+    },
+    {
+      "skill": "ERP System",
+      "experience": 3
+    },
+    {
+      "skill": "Multitasking",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Process transactions within established guidelines and values"
+    },
+    {
+      "duty": "Utilize ERPs, Salesforce, Chatter, and other applications to research and respond to sales inquiries"
+    },
+    {
+      "duty": "Handle case assigning, creating leads, investigating issues, and handling sales-related inquiries for multiple specialty teams"
+    },
+    {
+      "duty": "Respond to sales inquiries and resolve issues quickly, competently, and professionally"
+    },
+    {
+      "duty": "Demonstrate the ability to learn and master different skill sets"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 90,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent (Associate's degree preferred)"
+    }
+  ]
+}

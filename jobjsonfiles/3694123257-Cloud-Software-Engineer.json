@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Cloud Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cloud-Native Development",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Containerization and Deployment (Docker, Kubernetes, Terraform, Pulumi)",
+      "experience": 5
+    },
+    {
+      "skill": "Web Services and APIs (REST, GraphQL, GRPC, OpenAPI)",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Databases (e.g. MySQL, Postgres, MariaDB)",
+      "experience": 5
+    },
+    {
+      "skill": "Messaging, Queuing, and Workflow Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Web Application Development (Javascript, Typescript, React, CSS)",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop, deploy, and maintain cloud-native applications on services like GCP or AWS."
+    },
+    {
+      "duty": "Build and operate cloud applications and infrastructure for orchestrating the selection, running, and management of tests on Apple products."
+    },
+    {
+      "duty": "Collect, store, analyze, visualize, and report the results of tests, impacting the entire organization."
+    },
+    {
+      "duty": "Transition locally run applications and processes to cloud providers, and invent and build new infrastructure features."
+    },
+    {
+      "duty": "Work collaboratively and independently in a rapidly changing environment with ever-changing priorities."
+    },
+    {
+      "duty": "Play a vital role in the cloud infrastructure used to build the visual experience on billions of devices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS/MS degree in computer science or related field, or equivalent experience"
+    }
+  ]
+}

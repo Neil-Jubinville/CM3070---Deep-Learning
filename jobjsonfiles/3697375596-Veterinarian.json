@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinarian",
+      "job_category": "Healthcare",
+      "job_class": "Veterinary",
+      "sector": "Veterinary",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Veterinary Medicine",
+      "experience": 4
+    },
+    {
+      "skill": "Surgery",
+      "experience": 4
+    },
+    {
+      "skill": "Diagnostics",
+      "experience": 4
+    },
+    {
+      "skill": "Dentistry",
+      "experience": 4
+    },
+    {
+      "skill": "Radiology",
+      "experience": 4
+    },
+    {
+      "skill": "Mentorship",
+      "experience": 4
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 4
+    },
+    {
+      "skill": "Mental Health Support",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide comprehensive veterinary care, including surgery, diagnostics, dentistry, and radiology."
+    },
+    {
+      "duty": "Mentor and collaborate with veterinary teams to ensure high-quality care and continuous learning."
+    },
+    {
+      "duty": "Support mental health and wellbeing of team members while maintaining a high standard of patient care."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Veterinary Medicine (DVM/VMD) or equivalent degree required. State Veterinary Board License and must be in good standing for the state in which they intend to be hired, prior to their start date. Active DEA license or DEA licensure eligible."
+    }
+  ]
+}

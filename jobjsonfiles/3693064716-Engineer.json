@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Manufacturing Engineering",
+      "experience": 3
+    },
+    {
+      "skill": "Engine Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "MS Excel",
+      "experience": 5
+    },
+    {
+      "skill": "MS Powerpoint",
+      "experience": 5
+    },
+    {
+      "skill": "MS Word",
+      "experience": 5
+    },
+    {
+      "skill": "Pro-E or Creo",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Plan, coordinate, and perform product design, testing, and/or analysis work for a complete project or sub-system of a major project."
+    },
+    {
+      "duty": "Provide input to design solutions, participate in design reviews, and assign, coordinate, and review portions of work to support personnel."
+    },
+    {
+      "duty": "Execute high-level applications to more complex problems and analyze assignments to determine engineering specifications."
+    },
+    {
+      "duty": "Produce and evaluate possible design solutions to improve cost, quality, and performance based on specialized knowledge of engineering applications."
+    },
+    {
+      "duty": "Compile and furnish necessary information to document the design solution required for building prototypes and adoption of the design."
+    },
+    {
+      "duty": "Provide technical support to marketing, manufacturing, quality, and supply management organizations and develop and execute test or analysis plans for product verification and validation."
+    },
+    {
+      "duty": "Apply knowledge of company products, policies, and practices to provide economies through standardization of parts and products."
+    },
+    {
+      "duty": "Ensure the development and execution of engine dyno test and post-test PV&V activities, small-scale component level PV&V activities, and vehicle PV&V activities related to the entire aftertreatment system."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.S. in Manufacturing Engineering (Master's preferred)"
+    },
+    {
+      "credential": "Minimum 2-3 years of engineering experience, with experience working with engines, reading engineering part prints, and knowledge of machine shop processes."
+    }
+  ]
+}

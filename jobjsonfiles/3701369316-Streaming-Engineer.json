@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Streaming Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 145000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Go Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Video and Audio Encoding",
+      "experience": 5
+    },
+    {
+      "skill": "Streaming Technologies (HLS, MPEG-DASH)",
+      "experience": 5
+    },
+    {
+      "skill": "Operating Systems / Linux Fundamentals",
+      "experience": 5
+    },
+    {
+      "skill": "Networking Protocols (TCP, TLS, HTTP/2)",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting Complex Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Efficiency and Performance Improvement",
+      "experience": 5
+    },
+    {
+      "skill": "Content Encoding and Transcoding",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Digital Rights Management",
+      "experience": 5
+    },
+    {
+      "skill": "Video Codecs and Compression",
+      "experience": 5
+    },
+    {
+      "skill": "Broadcast/Broadband Television, Video-On-Demand",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain, extend, and improve the video backend based on state-of-the-art technology."
+    },
+    {
+      "duty": "Collaborate with a highly skilled and passionate team of multi-national engineers to build and operate video services."
+    },
+    {
+      "duty": "Experience with programming in Python or Go."
+    },
+    {
+      "duty": "Experience in development and support of production systems used in a 24x7 operations environment."
+    },
+    {
+      "duty": "Analyze and improve efficiency, scalability, stability, and reliability of CDN infrastructure."
+    },
+    {
+      "duty": "Experience with Hollywood-grade DRM systems, i.e. Playready, Widevine, and Fairplay."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Computer Science, Software Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

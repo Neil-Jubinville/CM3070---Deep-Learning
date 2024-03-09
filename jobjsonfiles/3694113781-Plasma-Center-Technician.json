@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Plasma Center Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Phlebotomy",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Record Keeping",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    },
+    {
+      "skill": "Operational Improvement",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide exceptional customer service to donors, ensuring their safety and well-being during the plasma donation process."
+    },
+    {
+      "duty": "Screen new and repeat donors, record vital signs, and maintain accurate medical records."
+    },
+    {
+      "duty": "Identify and initiate operational improvements to enhance the efficiency of plasma center processes."
+    },
+    {
+      "duty": "Work in a fast-paced, team environment, maintaining a clean and professional workspace while problem-solving with the management team."
+    },
+    {
+      "duty": "Learn and perform phlebotomy procedures, including operating and troubleshooting plasmapheresis machines."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

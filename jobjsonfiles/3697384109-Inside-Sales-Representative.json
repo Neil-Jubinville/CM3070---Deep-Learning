@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Inside Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Receive and process requests for price quotes, orders, returns, cancellations, product information and availability, billing inquiries and corrections"
+    },
+    {
+      "duty": "Coordinate delivery and pick up of orders with operations teams"
+    },
+    {
+      "duty": "Provide support to Outside Sales team"
+    },
+    {
+      "duty": "Adhere to pricing guidelines and policies of customer financial services"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Sales Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Industry Knowledge (Construction/Building Materials)",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "Adaptability",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED required, Bachelor's degree preferred"
+    }
+  ]
+}

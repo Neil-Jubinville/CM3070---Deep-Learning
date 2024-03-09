@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Security Engineer",
+      "job_category": "Security",
+      "job_class": "Engineer",
+      "sector": "Security",
+      "salary": 117350,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Intrusion Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "SIEM Technology",
+      "experience": 5
+    },
+    {
+      "skill": "Packet Captures",
+      "experience": 5
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 5
+    },
+    {
+      "skill": "Log Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Network Routing",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Cyber Security Frameworks",
+      "experience": 5
+    },
+    {
+      "skill": "Malware Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Security Orchestration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform intrusion analysis using SIEM technology, packet captures, reports, data visualization, log analysis and pattern analysis."
+    },
+    {
+      "duty": "Act as the first responder to security events and escalations via email, phone, and tickets across corporate user networks, data centers, and cloud environments."
+    },
+    {
+      "duty": "Assist in the remediation of all information security incidents and the identification of threat actor groups."
+    },
+    {
+      "duty": "Hunt for and identify threat actor groups and respective tactics, techniques and procedures. Document and communicate findings, escalate critical incidents, and interact with lines of business."
+    },
+    {
+      "duty": "Improve and challenge existing processes and procedures in a fast-paced cyber security environment, provide mentorship to the core analyst team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent IT/Security industry experience (Master's preferred)"
+    },
+    {
+      "credential": "Industry recognized professional certification such as CISSP, GCIA, OSCP, etc."
+    }
+  ]
+}

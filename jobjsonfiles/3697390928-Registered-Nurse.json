@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Neuroscience",
+      "experience": 2
+    },
+    {
+      "skill": "Nursing Care",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Assessment",
+      "experience": 3
+    },
+    {
+      "skill": "Critical Care",
+      "experience": 3
+    },
+    {
+      "skill": "Compassionate Care",
+      "experience": 3
+    },
+    {
+      "skill": "Multidisciplinary Teamwork",
+      "experience": 4
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide nursing care to neuroscience patients with neurological disorders and post neurosurgical cases."
+    },
+    {
+      "duty": "Work collaboratively as part of a dynamic multidisciplinary team to provide high-quality and evidence-based care."
+    },
+    {
+      "duty": "Perform patient assessments and critical care interventions as needed."
+    },
+    {
+      "duty": "Participate in acuity-based staffing to ensure optimal safety for patients."
+    },
+    {
+      "duty": "Engage in patient education and support for patients and their families."
+    },
+    {
+      "duty": "Adhere to shared governance structure and contribute to a positive work environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor Of Science In Nursing (BSN)"
+    }
+  ]
+}

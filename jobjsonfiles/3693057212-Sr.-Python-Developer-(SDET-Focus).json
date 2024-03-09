@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. Python Developer (SDET Focus)",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "RESTful APIs",
+      "experience": 5
+    },
+    {
+      "skill": "Flask",
+      "experience": 5
+    },
+    {
+      "skill": "FastAPI",
+      "experience": 5
+    },
+    {
+      "skill": "Pandas",
+      "experience": 5
+    },
+    {
+      "skill": "NumPy",
+      "experience": 5
+    },
+    {
+      "skill": "Pytest",
+      "experience": 5
+    },
+    {
+      "skill": "Unitest",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Refactoring",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop components for a software application platform to produce enterprise-level reporting based on financial statements and models."
+    },
+    {
+      "duty": "Develop and support the middle layer of the application to build, test, and deploy RESTful microservices while collaborating with other Dev teams, Dev Ops, and User Interface teams."
+    },
+    {
+      "duty": "Write high-quality software code and automated tests for web interface applications integrating data, analytics, and reporting components."
+    },
+    {
+      "duty": "Ensure production resilience, high availability, and system performance over large datasets."
+    },
+    {
+      "duty": "Pick up new technologies and contribute to story tasks including design, code, test, CI/CD, and deployment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Financial Engineering, Computer Science, or a related discipline (Master\u2019s preferred)"
+    }
+  ]
+}

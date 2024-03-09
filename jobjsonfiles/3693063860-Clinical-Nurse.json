@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Clinical Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Advocacy",
+      "experience": 4
+    },
+    {
+      "skill": "Clinical Care",
+      "experience": 4
+    },
+    {
+      "skill": "Data Collection",
+      "experience": 4
+    },
+    {
+      "skill": "Interdisciplinary Collaboration",
+      "experience": 4
+    },
+    {
+      "skill": "Performance Improvement",
+      "experience": 4
+    },
+    {
+      "skill": "Compassion",
+      "experience": 4
+    },
+    {
+      "skill": "Cultural Awareness",
+      "experience": 4
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 4
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 4
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collect comprehensive data on patients\u2019 health (from patients and/or family members); Analyze data to determine needs & develop individualized care plans; update care plans based on progression and pathway as well as manage care delivery"
+    },
+    {
+      "duty": "Integrate patient care standards in all clinical activities; participate in performance improvement activities to improve patient safety, quality of care and patient outcomes"
+    },
+    {
+      "duty": "Maintain sensitivity and awareness of cultural and religious diversity when addressing patients, visitors, co-workers and other customers"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BSN from an accredited school of nursing required"
+    }
+  ]
+}

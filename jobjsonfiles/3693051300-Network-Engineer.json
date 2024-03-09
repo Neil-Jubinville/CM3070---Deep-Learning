@@ -1,0 +1,158 @@
+{
+  "meta": [
+    {
+      "job_title": "Network Engineer",
+      "job_category": "Information Technology",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cisco Networking",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Networking",
+      "experience": 5
+    },
+    {
+      "skill": "Network Design",
+      "experience": 5
+    },
+    {
+      "skill": "Network Security",
+      "experience": 5
+    },
+    {
+      "skill": "Cisco Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Network Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 3
+    },
+    {
+      "skill": "Azure",
+      "experience": 3
+    },
+    {
+      "skill": "Google Cloud",
+      "experience": 3
+    },
+    {
+      "skill": "TCP/IP",
+      "experience": 5
+    },
+    {
+      "skill": "BGP",
+      "experience": 5
+    },
+    {
+      "skill": "OSPF",
+      "experience": 5
+    },
+    {
+      "skill": "VOIP",
+      "experience": 5
+    },
+    {
+      "skill": "VLANs",
+      "experience": 5
+    },
+    {
+      "skill": "SDA",
+      "experience": 5
+    },
+    {
+      "skill": "Viptela SDWAN",
+      "experience": 5
+    },
+    {
+      "skill": "MPLS",
+      "experience": 5
+    },
+    {
+      "skill": "Load Balancing",
+      "experience": 5
+    },
+    {
+      "skill": "Firewalls",
+      "experience": 5
+    },
+    {
+      "skill": "VPNs",
+      "experience": 5
+    },
+    {
+      "skill": "IDS/IPS",
+      "experience": 5
+    },
+    {
+      "skill": "LogicMonitor",
+      "experience": 3
+    },
+    {
+      "skill": "Citrix Netscalers",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in the design and implementation of complex Cisco networks that are scalable, secure, and highly available, while ensuring compliance with industry best practices and standards."
+    },
+    {
+      "duty": "Ensure proactive monitoring and alerting are in place with sufficient coverage to detect most issues."
+    },
+    {
+      "duty": "Maintain network architecture and design documents, including network diagrams, configuration files, and security policies."
+    },
+    {
+      "duty": "Maintain and patch existing equipment and help plan for the lifecycle/replacement of equipment in a controlled and least-impactful way."
+    },
+    {
+      "duty": "Participate in the troubleshooting and resolution of network issues, including network outages, network congestion, and connectivity problems."
+    },
+    {
+      "duty": "Collaborate with other teams to ensure successful integration of multi-cloud environments, including private, public, and hybrid clouds."
+    },
+    {
+      "duty": "Implement and maintain network services, including firewalls, VPNs, IDS/IPS, SDA, Viptela SDWAN, VLANs and load balancers."
+    },
+    {
+      "duty": "Stay up-to-date with the latest network and cloud technologies and trends, and recommend new solutions and approaches to improve network infrastructure and operations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 0,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree from a four-year college or university"
+    },
+    {
+      "credential": "CCNA/CCNP certification preferred"
+    },
+    {
+      "credential": "AWS, Google and/or Azure cloud certifications preferred"
+    }
+  ]
+}

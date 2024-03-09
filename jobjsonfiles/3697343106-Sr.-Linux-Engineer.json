@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. Linux Engineer",
+      "job_category": "IT",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Linux Support",
+      "experience": 5
+    },
+    {
+      "skill": "Configuration Management",
+      "experience": 5
+    },
+    {
+      "skill": "Bash Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Automation (Ansible, Puppet, CFengine)",
+      "experience": 5
+    },
+    {
+      "skill": "STIG Hardening",
+      "experience": 5
+    },
+    {
+      "skill": "NetApp Management (cDOT, 7mode)",
+      "experience": 5
+    },
+    {
+      "skill": "Backup Management",
+      "experience": 5
+    },
+    {
+      "skill": "eMASS Systems Management",
+      "experience": 5
+    },
+    {
+      "skill": "Antivirus & Encryption (LUK's)",
+      "experience": 5
+    },
+    {
+      "skill": "Patching",
+      "experience": 5
+    },
+    {
+      "skill": "Cadence Software Support",
+      "experience": 5
+    },
+    {
+      "skill": "Cliosoft Support",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide end user and server Linux support for RHEL6-8"
+    },
+    {
+      "duty": "Manage Linux configuration management and automation using tools like Bash, Ansible, puppet, and CFengine"
+    },
+    {
+      "duty": "Experience in hardening systems to STIG's standards"
+    },
+    {
+      "duty": "Manage NetApp systems (cDOT and 7mode), backups, and systems within eMASS"
+    },
+    {
+      "duty": "Expertise in antivirus, encryption (LUK's), patching, Cadence software, and Cliosoft support"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or Information Technology (Master's preferred)"
+    }
+  ]
+}

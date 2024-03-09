@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Support Specialist",
+      "job_category": "Information Technology",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performs problem tracking, diagnosis and root-cause analysis, replication, troubleshooting, and resolution for complex technical issues."
+    },
+    {
+      "duty": "Responds to issues in a timely manner by receiving and investigating incidents or service tickets."
+    },
+    {
+      "duty": "Analyzes and observes trends with technical issues and develops recommendations for long-term improvements."
+    },
+    {
+      "duty": "Documents all relevant end-user interactions and steps taken to resolve incidents."
+    },
+    {
+      "duty": "Communicates status of issue resolution to internal customers."
+    },
+    {
+      "duty": "May engage and manage outside vendors."
+    },
+    {
+      "duty": "Leads moderately complex projects and participates in larger, more complex initiatives."
+    },
+    {
+      "duty": "Acts as a resource for teammates with less experience."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Information Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Debugging",
+      "experience": 5
+    },
+    {
+      "skill": "End-User Support",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Vendor Management",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree and five years of experience in development or application support or an equivalent combination of education and work experience."
+    }
+  ]
+}

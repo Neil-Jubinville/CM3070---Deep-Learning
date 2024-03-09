@@ -1,0 +1,50 @@
+{
+  "meta": [
+    {
+      "job_title": "Central Sterile Tech",
+      "job_category": "Medical",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sterilization Procedures",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Healthcare Regulations Compliance",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Disassemble, clean, assemble, sterilize, and store procedure trays, instruments, equipment, and supplies according to prescribed procedures and aseptic technique under direct supervision."
+    },
+    {
+      "duty": "Complete requests to dispense equipment and supplies and maintain department inventory."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Graduate / GED"
+    }
+  ]
+}

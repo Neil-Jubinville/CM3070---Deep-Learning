@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Lab Tech Jr.",
+      "job_category": "Science",
+      "job_class": "Technician",
+      "sector": "Science",
+      "salary": 20,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Laboratory Instrumentation",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Laboratory Information System",
+      "experience": 3
+    },
+    {
+      "skill": "Analytical Techniques",
+      "experience": 3
+    },
+    {
+      "skill": "Biochemistry",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operation and maintenance of the Screening Instrument and initial review of data"
+    },
+    {
+      "duty": "Knowledge of screening methods and troubleshooting issues with screening instruments"
+    },
+    {
+      "duty": "Effectively complete work prioritized by department supervisor"
+    },
+    {
+      "duty": "Adherence to all security procedures for ensuring the confidentiality of donor information and established guidelines outlined in Employee Handbook"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.S. degree in a biology or chemistry related degree is required"
+    }
+  ]
+}

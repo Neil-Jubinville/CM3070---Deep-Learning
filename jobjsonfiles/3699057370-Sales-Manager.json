@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Manager",
+      "job_category": "Sales",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Management",
+      "experience": 5
+    },
+    {
+      "skill": "Coaching",
+      "experience": 5
+    },
+    {
+      "skill": "KPI Management",
+      "experience": 5
+    },
+    {
+      "skill": "CRM Management",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Strategy",
+      "experience": 5
+    },
+    {
+      "skill": "Market Strategies",
+      "experience": 5
+    },
+    {
+      "skill": "Forecasting",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead a sales team to achieve revenue and growth targets by establishing sales goals and monitoring achievements."
+    },
+    {
+      "duty": "Coach team members on the improvement of specific skills and industry knowledge."
+    },
+    {
+      "duty": "Work with key team members to develop market strategies and presentations."
+    },
+    {
+      "duty": "Provide accurate weekly, monthly, and quarterly forecasts."
+    },
+    {
+      "duty": "Attract and retain account executives through hiring, training, coaching, appraising, and motivating."
+    },
+    {
+      "duty": "Participate in the sales process on key accounts and maintain positive customer relationships."
+    },
+    {
+      "duty": "Contribute to General Markets subcommittees to build value for clients and prospects."
+    },
+    {
+      "duty": "Ensure consistent use of sales tech stack applications."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree and/or equivalent experience"
+    }
+  ]
+}

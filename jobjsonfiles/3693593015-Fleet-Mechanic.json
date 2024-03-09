@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Fleet Mechanic",
+      "job_category": "Mechanical Engineering",
+      "job_class": "Mechanic",
+      "sector": "Engineering",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Vehicle Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnosis and Repair",
+      "experience": 5
+    },
+    {
+      "skill": "CDL License",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Inspection",
+      "experience": 5
+    },
+    {
+      "skill": "Driver's License",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing maintenance and repair of all types of motor vehicles and special equipment in the Verizon fleet."
+    },
+    {
+      "duty": "Diagnosing, maintaining and repairing all company associated equipment, including aerial lifts, diggers, generators, tools, etc."
+    },
+    {
+      "duty": "Using computer test equipment to diagnose vehicle problems."
+    },
+    {
+      "duty": "Interfacing with vehicle users regarding repairs, questions, etc."
+    },
+    {
+      "duty": "Performing OSHA, ANSI, emissions, and state inspections on company vehicles."
+    },
+    {
+      "duty": "Obtaining and maintaining all required certificates or licenses."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "5 or more years' experience as a mechanic or other relevant experience."
+    },
+    {
+      "credential": "CDL License or Commercial Learner's Permit (CDL required within 6 months of hire)."
+    },
+    {
+      "credential": "NY State Safety Inspection License (or obtain within 6 months of hire)."
+    },
+    {
+      "credential": "Valid state driver's license with a satisfactory driving record."
+    }
+  ]
+}

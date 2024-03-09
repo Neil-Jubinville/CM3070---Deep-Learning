@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ICU RN Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Nursing Degree",
+      "experience": 4
+    },
+    {
+      "skill": "BLS Certification",
+      "experience": 5
+    },
+    {
+      "skill": "ACLS Certification",
+      "experience": 5
+    },
+    {
+      "skill": "PALS or ENPC Certification",
+      "experience": 5
+    },
+    {
+      "skill": "NIHSS Certification",
+      "experience": 5
+    },
+    {
+      "skill": "TNCC or TCAR Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Specialty Nursing Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Relationship-based Care",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Facilitate, communicate, and collaborate with the healthcare team and the patient/family to identify and meet the physical, emotional, and spiritual needs of the patient."
+    },
+    {
+      "duty": "Promote the optimal health, well-being, and safety of the patient through use of the nursing process and in accordance with patient care standards, guidelines, and the State Nurse Practice Act."
+    },
+    {
+      "duty": "Demonstrate personal accountability for relationship-based care, organizational mission, and core values."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's Degree in Nursing (Bachelor's preferred)"
+    },
+    {
+      "credential": "RN License to practice in Colorado or Kansas as applicable"
+    },
+    {
+      "credential": "Basic Life Support (BLS) from the American Heart Association certification"
+    },
+    {
+      "credential": "ACLS from the American Heart Association certification (within six months of hire or transfer)"
+    },
+    {
+      "credential": "PALS from the American Heart Association or ENPC (within six months of hire or transfer)"
+    },
+    {
+      "credential": "NIHSS (within six months of hire or transfer)"
+    },
+    {
+      "credential": "TNCC or TCAR (within six months of hire or transfer)"
+    },
+    {
+      "credential": "Specialty Nursing Certification (CCRN or PCCN) preferred"
+    }
+  ]
+}

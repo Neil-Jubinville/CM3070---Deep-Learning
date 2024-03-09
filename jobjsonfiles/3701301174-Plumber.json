@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Plumber",
+      "job_category": "Skilled Trades",
+      "job_class": "Technician",
+      "sector": "Construction",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Plumbing License",
+      "experience": 5
+    },
+    {
+      "skill": "Driver's License",
+      "experience": 5
+    },
+    {
+      "skill": "Apprentice Training",
+      "experience": 5
+    },
+    {
+      "skill": "iPad Use",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Plumbing Repair",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform plumbing repairs including leak location, water heater repair, water filtration, plumbing fixture repair, drain cleaning, and replacement."
+    },
+    {
+      "duty": "Guide and train apprentice in plumbing techniques and best practices."
+    },
+    {
+      "duty": "Utilize iPad and Service Titan software for communication and work management."
+    },
+    {
+      "duty": "Provide exceptional customer service, diagnose plumbing issues, and effectively communicate repair solutions to customers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150
+    },
+    {
+      "student_teacher": 100
+    },
+    {
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Tradesman, Journeyman, or Masters Plumbing License"
+    }
+  ]
+}

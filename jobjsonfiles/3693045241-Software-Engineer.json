@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 6
+    },
+    {
+      "skill": "Scala",
+      "experience": 6
+    },
+    {
+      "skill": "Spring",
+      "experience": 6
+    },
+    {
+      "skill": "Backend Development",
+      "experience": 6
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 6
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 6
+    },
+    {
+      "skill": "Optimization",
+      "experience": 6
+    },
+    {
+      "skill": "Product Architecture",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Apply technical expertise to manage project priorities, deadlines, and deliverables."
+    },
+    {
+      "duty": "Design, develop, test, deploy, maintain, and enhance software solutions."
+    },
+    {
+      "duty": "Architect reusable solutions shared across products."
+    },
+    {
+      "duty": "Lead in solving complex problems and providing oversight to engineers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree (BS or BA) in Computer Science, Engineering, or an advanced degree in a related field."
+    }
+  ]
+}

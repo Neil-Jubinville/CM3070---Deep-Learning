@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Manufacturing Technician",
+      "job_category": "Manufacturing",
+      "job_class": "Technician",
+      "sector": "Manufacturing",
+      "salary": 41750,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Precision Measurement",
+      "experience": 3
+    },
+    {
+      "skill": "Assembly Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Visual Inspection",
+      "experience": 3
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 3
+    },
+    {
+      "skill": "Housekeeping/5S",
+      "experience": 2
+    },
+    {
+      "skill": "Lean Manufacturing",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Set up and operate test stands to functional test components to meet engineering specifications."
+    },
+    {
+      "duty": "Perform a variety of test operations, including but not limited to cleaning, fitting, tightening, and installing, according to operation instructions, routers, blueprints, set up sheets and shop practices to meet close tolerances and inspection standards."
+    },
+    {
+      "duty": "Work from drawings or specifications to assemble units composed of component parts."
+    },
+    {
+      "duty": "Use routing, operating instructions and surface appearance templates to ensure proper assembly of parts."
+    },
+    {
+      "duty": "Perform filing or sanding of parts as needed."
+    },
+    {
+      "duty": "Perform visual inspection of unit during the assembly process and at completion of the assembled unit."
+    },
+    {
+      "duty": "Test assembled component parts for performance on manual or automated test stands per ATS requirements."
+    },
+    {
+      "duty": "Use precision measuring instruments to aid in performing duties."
+    },
+    {
+      "duty": "Perform minor re-work on rejected units."
+    },
+    {
+      "duty": "Work with supervisors and engineers to reduce rejects."
+    },
+    {
+      "duty": "Perform routine cell housekeeping & 5s operations."
+    },
+    {
+      "duty": "Follow all plant, safety, and environmental rules and regulations."
+    },
+    {
+      "duty": "Support plant lean, safety, quality and continuous improvement efforts, including in performing routine, housekeeping/5S+ activities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or G.E.D. Assembly experience is required, preferably in products manufactured with an understanding of how product features affect performance."
+    }
+  ]
+}

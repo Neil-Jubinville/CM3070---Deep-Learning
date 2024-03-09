@@ -1,0 +1,107 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 4
+    },
+    {
+      "skill": "Java",
+      "experience": 3
+    },
+    {
+      "skill": "REST API development",
+      "experience": 3
+    },
+    {
+      "skill": "Linux/Unix fundamentals",
+      "experience": 4
+    },
+    {
+      "skill": "Microservices",
+      "experience": 4
+    },
+    {
+      "skill": "Data Structures & Algorithms",
+      "experience": 4
+    },
+    {
+      "skill": "Relational Databases",
+      "experience": 4
+    },
+    {
+      "skill": "NoSQL systems",
+      "experience": 4
+    },
+    {
+      "skill": "Debugging & Performance Tuning",
+      "experience": 4
+    },
+    {
+      "skill": "Agile/DevOps",
+      "experience": 6
+    },
+    {
+      "skill": "Build Automation",
+      "experience": 4
+    },
+    {
+      "skill": "Continuous Integration",
+      "experience": 4
+    },
+    {
+      "skill": "Data Center Infrastructure",
+      "experience": 3
+    },
+    {
+      "skill": "Docker & Kubernetes",
+      "experience": 3
+    },
+    {
+      "skill": "Observability Tools",
+      "experience": 3
+    },
+    {
+      "skill": "Team Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Contribute to building, testing, deploying, and operating highly scalable solutions for the canonical asset management system for a Cloud Infrastructure."
+    },
+    {
+      "duty": "Work independently and as part of a team in an Agile environment, managing multiple projects and priorities in a fast-paced setting."
+    },
+    {
+      "duty": "Be a great communicator to both technical and non-technical stakeholders in multiple locations around the globe."
+    },
+    {
+      "duty": "Troubleshoot, debug, and performance tune system components and integrations."
+    },
+    {
+      "duty": "Design and develop solutions with containerization technologies such as Docker and Kubernetes, and work with observability tools and practices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 200,
+      "student_teacher": 60,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS or MS degree in Computer Science or equivalent experience (US Citizens able to obtain a security clearance)"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Customer Support Engineer",
+      "job_category": "Customer Support",
+      "job_class": "Engineer",
+      "sector": "Technical Support",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Support",
+      "experience": 5
+    },
+    {
+      "skill": "English Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Debugging",
+      "experience": 5
+    },
+    {
+      "skill": "Web Portals",
+      "experience": 5
+    },
+    {
+      "skill": "JIRA",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Interaction",
+      "experience": 5
+    },
+    {
+      "skill": "Knowledge Base Documentation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide expert-level technical support to customers via multiple channels."
+    },
+    {
+      "duty": "Troubleshoot and diagnose complex technical issues reported by customers, utilizing strong SQL skills and debugging techniques."
+    },
+    {
+      "duty": "Guide users through technical processes and assist them in finding the information they need, ensuring a positive customer experience."
+    },
+    {
+      "duty": "Utilize web portals and tools to access and retrieve necessary information to resolve customer inquiries efficiently."
+    },
+    {
+      "duty": "Address defects reported by end users, channelizing them effectively through JIRA."
+    },
+    {
+      "duty": "Communicate technical concepts and solutions clearly and effectively in English, tailored to the customer's level of understanding."
+    },
+    {
+      "duty": "Document customer interactions, troubleshooting steps, and solutions in our knowledge base for future reference and training."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, Information Technology, or a related field (or equivalent experience)."
+    }
+  ]
+}

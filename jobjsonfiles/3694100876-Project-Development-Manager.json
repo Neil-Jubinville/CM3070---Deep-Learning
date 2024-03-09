@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Development Manager",
+      "job_category": "Project Development",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 7
+    },
+    {
+      "skill": "Software Development",
+      "experience": 7
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 7
+    },
+    {
+      "skill": "Java",
+      "experience": 7
+    },
+    {
+      "skill": "AWS Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Agile",
+      "experience": 5
+    },
+    {
+      "skill": "Scrum",
+      "experience": 5
+    },
+    {
+      "skill": "Business Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Word, Excel, and Project",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Gather requirements and develop a business case for project portfolio management, including high-level cost estimates."
+    },
+    {
+      "duty": "Create project plans, including budget, issues list, action items, and status reports as well as adhere to internal project methodologies; plan releases."
+    },
+    {
+      "duty": "Manage, integrate, and balance resource requirements across multiple projects without adversely impacting deliverables, timelines, or quality."
+    },
+    {
+      "duty": "Lead teams in the design, development, integration and support of software products and systems."
+    },
+    {
+      "duty": "Identify and resolve project issues and risks, including tracking, escalation, and mitigation."
+    },
+    {
+      "duty": "Report project progress to senior management and stakeholders, identifying issues and resolutions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 130,
+      "student_teacher": 100,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in computer science or equivalent field desired, PMP certification preferred, Agile certification (PMI or Scrum Alliance) preferred."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Receptionist",
+      "job_category": "Hospitality",
+      "job_class": "Receptionist",
+      "sector": "Customer Service",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Multi-tasking",
+      "experience": 2
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Organization",
+      "experience": 2
+    },
+    {
+      "skill": "Point of Sale System",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Verifying customers' legal age requirement, registering new customers in the POS system, and scanning in returning customers."
+    },
+    {
+      "duty": "Welcoming guests and customers into the store with a positive, upbeat, and friendly demeanor."
+    },
+    {
+      "duty": "Assisting with curbside and online orders when needed."
+    },
+    {
+      "duty": "Answering calls with professional and proper phone etiquette."
+    },
+    {
+      "duty": "Provide customers with information regarding products, store hours and location, daily specials, website address, and more."
+    },
+    {
+      "duty": "Monitoring customer queues at all times."
+    },
+    {
+      "duty": "Keep all online/paper menus current with daily offerings."
+    },
+    {
+      "duty": "Supporting store management in an administrative capacity, as required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or General Education Diploma (GED) is required."
+    }
+  ]
+}

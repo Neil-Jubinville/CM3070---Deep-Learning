@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Center Facilities Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Software Engineering",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "HVAC Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Data Center Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Inspect, maintain, and repair various data center systems."
+    },
+    {
+      "duty": "Provide daily assistance to technicians for blueprints, schematics or a sequence of operations, conduct tours of systems, and assess their working order."
+    },
+    {
+      "duty": "Manage the uptime and maintenance of uninterruptible power supply, generators, electrical distribution, and control and monitoring systems."
+    },
+    {
+      "duty": "Operate, monitor, maintain, and respond to abnormal conditions in the data center facilities systems and equipment."
+    },
+    {
+      "duty": "Support startup, commissioning, and integration of new electrical equipment and systems into facilities infrastructure."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree, trade school certification, certified training in a related technical field, or equivalent practical experience. (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "AWS Application Architect",
+      "job_category": "Software Engineering",
+      "job_class": "Architect",
+      "sector": "Information Technology",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AWS Console",
+      "experience": 5
+    },
+    {
+      "skill": "Red Hat Enterprise Linux",
+      "experience": 5
+    },
+    {
+      "skill": "CloudFormation Templates",
+      "experience": 5
+    },
+    {
+      "skill": "S3 and storage tiers",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Security",
+      "experience": 5
+    },
+    {
+      "skill": "System Scaling",
+      "experience": 5
+    },
+    {
+      "skill": "Reliability and Monitoring",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform all aspects of technical operations including software installation, upgrades, patching, and system responsiveness."
+    },
+    {
+      "duty": "Resolve complex technical problems using deep knowledge and experience."
+    },
+    {
+      "duty": "Provide support for tier 2 application issues and oversee infrastructure operations and maintenance."
+    },
+    {
+      "duty": "Participate in project plans and schedules, and report and track open issues and action items."
+    },
+    {
+      "duty": "Maintain AWS spreadsheet capturing storage and instance information, and support DevSecOps Transition initiatives."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Information Technology or relevant field (Master's preferred)"
+    }
+  ]
+}

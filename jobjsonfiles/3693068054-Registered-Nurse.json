@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Process",
+      "experience": 5
+    },
+    {
+      "skill": "Direct Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Patient/Family Teaching",
+      "experience": 5
+    },
+    {
+      "skill": "Cardiac Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Symptomatology",
+      "experience": 5
+    },
+    {
+      "skill": "Change Management",
+      "experience": 5
+    },
+    {
+      "skill": "Ventilator Management",
+      "experience": 4
+    },
+    {
+      "skill": "Medical-Surgical Nursing",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver safe patient care using the nursing process of assessment, planning, implementation, and evaluation."
+    },
+    {
+      "duty": "Provide direct patient care and guide patient/family teaching in the Telemetry Unit."
+    },
+    {
+      "duty": "Direct, guide, and maintain standards of care in the Telemetry Unit."
+    },
+    {
+      "duty": "Communicate with physicians about changes in patients' clinical condition, including cardiac monitoring, diagnostic study results, and symptomatology."
+    },
+    {
+      "duty": "Respond quickly and accurately to changes in patients' condition and/or response to treatment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science in Nursing (BSN) preferred. Current and valid state RN License. Current BLS (AHA) certificate upon hire and maintain current. Current ACLS (AHA) certificate 30 days upon hire, and maintain current."
+    }
+  ]
+}

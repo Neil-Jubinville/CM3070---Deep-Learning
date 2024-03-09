@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Animal Care Technician",
+      "job_category": "Science",
+      "job_class": "Technician",
+      "sector": "Laboratory Animal Science",
+      "salary": 36000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Laboratory Animal Care",
+      "experience": 2
+    },
+    {
+      "skill": "Animal Husbandry",
+      "experience": 2
+    },
+    {
+      "skill": "Animal Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Animal Health and Welfare",
+      "experience": 2
+    },
+    {
+      "skill": "Technical Procedures",
+      "experience": 2
+    },
+    {
+      "skill": "Record Keeping",
+      "experience": 2
+    },
+    {
+      "skill": "Surgical Procedures",
+      "experience": 2
+    },
+    {
+      "skill": "Observation Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform animal husbandry tasks including animal room checks, cleaning, and sanitation."
+    },
+    {
+      "duty": "Conduct technical tasks such as tumor measurements, weaning, tail clipping, and euthanizing mice."
+    },
+    {
+      "duty": "Perform technical procedures including injections, oral gavage, and bleeds."
+    },
+    {
+      "duty": "Document results in a lab notebook and maintain animal colony database."
+    },
+    {
+      "duty": "Ensure work is conducted in accordance with animal health and welfare policies and safety programs."
+    },
+    {
+      "duty": "Lead the team when supervisor is absent and work flexible hours including weekends and holidays."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate degree in Life Sciences or Veterinary Technology"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Clinical Pharmacist",
+      "job_category": "Pharmacy",
+      "job_class": "Clinical",
+      "sector": "Healthcare",
+      "salary": 105000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Prior Authorization",
+      "experience": 5
+    },
+    {
+      "skill": "Pharmacy Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct clinical reviews of medical data to perform prior authorization for specialty medications."
+    },
+    {
+      "duty": "Apply clinical knowledge to plan approved criteria for prospective and concurrent reviews of cases."
+    },
+    {
+      "duty": "Work from client supported systems and take inbound calls from physician or members regarding their pending, approved, or denied prior authorizations."
+    },
+    {
+      "duty": "Review and complete criteria based prior authorization as per policy and procedure."
+    },
+    {
+      "duty": "Provide internal pharmacist support to the prior authorization team and member services department."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Pharmacy or Pharm D. Must have an active license in the state of residence that is in good standing."
+    }
+  ]
+}

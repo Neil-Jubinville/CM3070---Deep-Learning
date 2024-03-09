@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "BI Developer",
+      "job_category": "Technology",
+      "job_class": "Developer",
+      "sector": "Technology",
+      "salary": 108000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "MicroStrategy",
+      "experience": 3
+    },
+    {
+      "skill": "DataDog Reporting",
+      "experience": 3
+    },
+    {
+      "skill": "Database Management",
+      "experience": 5
+    },
+    {
+      "skill": "IT Solutions Development",
+      "experience": 5
+    },
+    {
+      "skill": "Coding",
+      "experience": 5
+    },
+    {
+      "skill": "Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Debugging",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and fine-tune IT solutions, including coding, testing, debugging, designing, and implementing newly developed tools."
+    },
+    {
+      "duty": "Work primarily with databases and different types of software, focusing on data expertise and BI development."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

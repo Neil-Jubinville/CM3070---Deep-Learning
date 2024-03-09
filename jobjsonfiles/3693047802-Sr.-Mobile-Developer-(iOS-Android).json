@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. Mobile Developer (iOS/Android)",
+      "job_category": "Software Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Regularly provides technical guidance and direction to support the business and its technical teams, contractors, and vendors."
+    },
+    {
+      "duty": "Develops secure and high-quality production code, and reviews and debugs code written by others."
+    },
+    {
+      "duty": "Drives decisions that influence the product design, application functionality, and technical operations and processes."
+    },
+    {
+      "duty": "Serves as a function-wide subject matter expert in one or more areas of focus."
+    },
+    {
+      "duty": "Actively contributes to the engineering community as an advocate of firm-wide frameworks, tools, and practices of the Software Development Life Cycle."
+    },
+    {
+      "duty": "Influences peers and project decision-makers to consider the use and application of leading-edge technologies."
+    },
+    {
+      "duty": "Adds to the team culture of diversity, equity, inclusion, and respect."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Git/Bitbucket version control",
+      "experience": 5
+    },
+    {
+      "skill": "API integration",
+      "experience": 5
+    },
+    {
+      "skill": "MVP, MVC, and MVVM architectural patterns",
+      "experience": 5
+    },
+    {
+      "skill": "XCode tools (Debug Memory Graph, Debug View Hierarchy, Instruments for Profiling)",
+      "experience": 5
+    },
+    {
+      "skill": "Mobile UI fundamentals and animations",
+      "experience": 5
+    },
+    {
+      "skill": "Build systems such as Gradle",
+      "experience": 5
+    },
+    {
+      "skill": "Continuous Integration, Continuous Delivery, Test Driven Development, Cloud Development, resiliency, and security",
+      "experience": 5
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Locum Tenens Anesthesiologist",
+      "job_category": "Medical",
+      "job_class": "Anesthesiologist",
+      "sector": "Healthcare",
+      "salary": 250000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Anesthesiology",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Settings",
+      "experience": 5
+    },
+    {
+      "skill": "Flexible Assignments",
+      "experience": 5
+    },
+    {
+      "skill": "Collaborative Approach",
+      "experience": 5
+    },
+    {
+      "skill": "CRNAs Management",
+      "experience": 5
+    },
+    {
+      "skill": "Surgery Types",
+      "experience": 5
+    },
+    {
+      "skill": "High-Quality Care",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide high-quality patient care in various healthcare settings."
+    },
+    {
+      "duty": "Choose flexible assignments and work in a collaborative approach with CRNAs."
+    },
+    {
+      "duty": "Handle different surgery types including general, ortho, urology, hearts, trauma, neuro, peds, and OB."
+    },
+    {
+      "duty": "Maintain a balanced work-life schedule while ensuring patient safety and satisfaction."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "MD or DO degree with anesthesiology residency training"
+    }
+  ]
+}

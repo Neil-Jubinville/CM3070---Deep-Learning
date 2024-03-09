@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Clinical Operations Analyst",
+      "job_category": "Clinical Operations",
+      "job_class": "Analyst",
+      "sector": "Healthcare",
+      "salary": 92000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Research",
+      "experience": 3
+    },
+    {
+      "skill": "Clinical Operations",
+      "experience": 3
+    },
+    {
+      "skill": "Business Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Process Flow Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "User Needs Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "System Implementation",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Business Case Development",
+      "experience": 5
+    },
+    {
+      "skill": "Vendor Management",
+      "experience": 3
+    },
+    {
+      "skill": "Project Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office Suite",
+      "experience": 5
+    },
+    {
+      "skill": "IT Experience",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Understand clinical research and clinical operations processes, including study start-up, site feasibility, site payments, monitoring, and study closeout."
+    },
+    {
+      "duty": "Analyze business and user needs, document business requirements and process flows for system implementations and existing system changes."
+    },
+    {
+      "duty": "Develop problem statements, business cases, and lead user group forums. Lead process design, system integration, and configuration workshops with the business team and software vendors."
+    },
+    {
+      "duty": "Translate business requirements to functional requirements and configuration specifications in collaboration with software vendors."
+    },
+    {
+      "duty": "Define system scope and objectives through an understanding of applicable business systems and industry requirements. Responsible for project documentation (URS, configuration specification, FRS, integration data flows, UAT scripts, etc.)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Clinical Research, Healthcare Management, or related field (Master's preferred)"
+    }
+  ]
+}

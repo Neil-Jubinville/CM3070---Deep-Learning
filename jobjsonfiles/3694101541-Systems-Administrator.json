@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Systems Administrator",
+      "job_category": "IT",
+      "job_class": "Administrator",
+      "sector": "IT",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Systems Administration",
+      "experience": 4
+    },
+    {
+      "skill": "SCCM",
+      "experience": 4
+    },
+    {
+      "skill": "Active Directory Management",
+      "experience": 4
+    },
+    {
+      "skill": "PowerShell Scripting",
+      "experience": 4
+    },
+    {
+      "skill": "Intune",
+      "experience": 3
+    },
+    {
+      "skill": "Script Writing",
+      "experience": 4
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Moving OU structure and managing group policies in Active Directory."
+    },
+    {
+      "duty": "Deploying packages using SCCM and PowerShell scripting."
+    },
+    {
+      "duty": "Supporting a complete hardware refresh of 260 different ambulatory clinics across Greater Los Angeles."
+    },
+    {
+      "duty": "Creating SOP documentation for system administration tasks."
+    },
+    {
+      "duty": "Troubleshooting any go-live issues that arise during the refresh."
+    },
+    {
+      "duty": "Remote work with potential on-site travel to Los Angeles on an as-needed basis."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100
+    },
+    {
+      "student_teacher": 60
+    },
+    {
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in IT or related field (Certifications such as MCSE, CompTIA, etc., preferred)"
+    }
+  ]
+}

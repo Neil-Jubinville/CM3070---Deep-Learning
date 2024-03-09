@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Office Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Administration",
+      "salary": 12,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft Office",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Organization",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist with clerical duties such as greeting and assisting visitors, answering phones, making copies, filing, making routine deliveries, and managing office equipment and other office supplies."
+    },
+    {
+      "duty": "Assist with the administrative functions of the office by using Microsoft Office programs, such as Word, Excel, PowerPoint and others."
+    },
+    {
+      "duty": "Prepare items for alumni events per event coordinator."
+    },
+    {
+      "duty": "Establish effective ongoing communication with fellow staff."
+    },
+    {
+      "duty": "Actively participate in staff training and scheduled meetings."
+    },
+    {
+      "duty": "Be able to work effectively in a team environment as well as take individual initiative."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Must be a current USF student with a Federal Work Study (FWS) award for the current academic year."
+    },
+    {
+      "credential": "Previous Office experience preferred."
+    }
+  ]
+}

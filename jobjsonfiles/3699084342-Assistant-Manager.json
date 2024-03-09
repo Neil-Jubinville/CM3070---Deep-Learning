@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Manager",
+      "job_category": "Retail",
+      "job_class": "Manager",
+      "sector": "Retail",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "experience": 2
+    },
+    {
+      "skill": "Employee Development",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Technology Troubleshooting",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for cost controls, inventory control, cash control, and customer relations while working a shift."
+    },
+    {
+      "duty": "Assist with basic operations procedures."
+    },
+    {
+      "duty": "Demonstrate team member and food safety protocols."
+    },
+    {
+      "duty": "Operate and troubleshoot technology."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Must be at least 18 years of age."
+    }
+  ]
+}

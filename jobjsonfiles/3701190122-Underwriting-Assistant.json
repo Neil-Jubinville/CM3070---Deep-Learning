@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Underwriting Assistant",
+      "job_category": "Finance",
+      "job_class": "Assistant",
+      "sector": "Finance",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Entry",
+      "experience": 1
+    },
+    {
+      "skill": "Computer Literacy",
+      "experience": 3
+    },
+    {
+      "skill": "Typing",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 3
+    },
+    {
+      "skill": "Salesforce",
+      "experience": 2
+    },
+    {
+      "skill": "Finance Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Web Application Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Acquire necessary documentation needed for underwriting, including merchant processing statements and financials."
+    },
+    {
+      "duty": "Filter merchant applications for review by a Junior Underwriter."
+    },
+    {
+      "duty": "Run Credit Reports on new applicants."
+    },
+    {
+      "duty": "Perform Data Entry tasks."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's Degree in Finance or a related field"
+    }
+  ]
+}

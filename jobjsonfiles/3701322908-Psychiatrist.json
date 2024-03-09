@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Psychiatrist",
+      "job_category": "Healthcare",
+      "job_class": "Physician",
+      "sector": "Healthcare",
+      "salary": 220000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and implement therapy and treatment and/or refer client(s) to other sources of treatment."
+    },
+    {
+      "duty": "Analyze and evaluate patient data or test findings to diagnose nature or extent of mental disorder."
+    },
+    {
+      "duty": "Document client/patient progress and revise treatment plans as required; complete administrative paperwork."
+    },
+    {
+      "duty": "Coordinate clinical activities and follow-up."
+    },
+    {
+      "duty": "Act as a resource for management and staff; provide technical support within area of responsibility."
+    },
+    {
+      "duty": "Consult with others to discuss treatment plans, new or unusual situations, findings, options, and recommendations on client/patient cases."
+    },
+    {
+      "duty": "Write, implement, and provide documentation of individual client's treatment; maintain records to comply with federal requirements and write reports indicative of progress or regression."
+    },
+    {
+      "duty": "Develop policies, procedures and standards for mental health program services."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certification in psychiatry or neurology by the American Board of Psychiatry and Neurology"
+    },
+    {
+      "credential": "Current unlimited license to practice medicine in the State of Utah (MD)"
+    }
+  ]
+}

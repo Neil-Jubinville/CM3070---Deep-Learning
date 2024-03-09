@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Pharmacy Technician/Techician in Training",
+      "job_category": "Pharmacy",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Prescription Processing",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 2
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Enter prescription information including patient searches, prescriber searches, drug selection, and basic documentation."
+    },
+    {
+      "duty": "Accept customer and prescription information required to process new and refill prescriptions."
+    },
+    {
+      "duty": "Retrieve medication from inventory and put them into prescription containers."
+    },
+    {
+      "duty": "Assist with maintaining the Pharmacy department by keeping it clean and in order."
+    },
+    {
+      "duty": "Assist in inventory management processes including order review, inventory returns, restocking shelves, and physical inventory preparation."
+    },
+    {
+      "duty": "Administer Rite Aid programs including FlavoRx, Living More, etc."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "H.S. Diploma or General Education Degree (GED) required."
+    }
+  ]
+}

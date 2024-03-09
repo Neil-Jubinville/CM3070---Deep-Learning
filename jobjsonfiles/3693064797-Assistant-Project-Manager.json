@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Project Manager",
+      "job_category": "Construction",
+      "job_class": "Project Manager",
+      "sector": "Construction",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Plan and allocate project resources, prepare budgets, monitor progress, and keep stakeholders informed throughout the project lifecycle."
+    },
+    {
+      "duty": "Complete materials take-offs, establish cost estimates, review project proposals, drawings, and plans to determine time frame and funding limitations."
+    },
+    {
+      "duty": "Develop relationships with subcontractors, maintain lists of quality subcontractors, and confer with project staff to outline work plan and assign duties."
+    },
+    {
+      "duty": "Direct and coordinate project personnel activities, prepare schedules, review status reports, and prepare project reports for management and clients."
+    },
+    {
+      "duty": "Provide technical advice, resolve problems, and mentor younger Project Managers while maintaining strong client relationships."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Construction Management",
+      "experience": 3
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 3
+    },
+    {
+      "skill": "Project Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Subcontractor Management",
+      "experience": 3
+    },
+    {
+      "skill": "Stakeholder Management",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Advice",
+      "experience": 3
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 3
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Construction Management, Civil Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

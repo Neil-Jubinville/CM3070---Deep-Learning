@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Support Analyst",
+      "job_category": "Technical Support",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 70000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Support",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Network Infrastructure",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Database",
+      "experience": 3
+    },
+    {
+      "skill": "HL-7 Standards",
+      "experience": 3
+    },
+    {
+      "skill": "SQL Scripting",
+      "experience": 3
+    },
+    {
+      "skill": "Batch Files",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide advanced technical support and act as an escalation resource for internal and external customers in the support of Merge Healthcare products."
+    },
+    {
+      "duty": "Assess complex problems, collect data, establish facts, and document detailed and accurate information about issues, troubleshooting steps, and resolution into CRM."
+    },
+    {
+      "duty": "Own the customer support experience and resolve customer satisfaction issues by designing & implementing solutions to complex technical problems."
+    },
+    {
+      "duty": "Improve customer satisfaction and company profitability by responding quickly to issues, providing frequent and informed updates, and resolving issues in a timely manner."
+    },
+    {
+      "duty": "Perform preventative maintenance activities & remote software upgrades to ensure system stability for customers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree from a Technical College/University or equivalent experience. Bachelor\u2019s Degree preferred in one of the following areas: Biomedical Engineering, Computer Science, Software Engineering, Computer Engineering or Medical Informatics"
+    }
+  ]
+}

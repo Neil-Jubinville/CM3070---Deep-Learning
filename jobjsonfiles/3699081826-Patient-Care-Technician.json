@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Care Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Nursing Assistance",
+      "experience": 2
+    },
+    {
+      "skill": "Vital Signs Monitoring",
+      "experience": 2
+    },
+    {
+      "skill": "Mobility Assistance",
+      "experience": 2
+    },
+    {
+      "skill": "Specimen Collection",
+      "experience": 2
+    },
+    {
+      "skill": "Activities of Daily Living",
+      "experience": 2
+    },
+    {
+      "skill": "Telemetry Monitoring",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Cardiac Life Support",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Participates in the implementation of nursing care plans by performing direct and indirect patient care under the supervision of the licensed nurse."
+    },
+    {
+      "duty": "Obtains and records initial and ongoing patient information throughout the cycle of care, including admissions data, vital signs, height and weight, blood pressure, oxygen saturation, intake and output, calorie counts, and other patient information as outlined by policy."
+    },
+    {
+      "duty": "Assists with mobility by regular turning and positioning, dangling, and ambulating patients. Assists with use of walkers, crutches, canes, and wheelchairs."
+    },
+    {
+      "duty": "Transfers patients to and from other units, departments, or entities. Assists with discharges."
+    },
+    {
+      "duty": "Assists patients with activities of daily living to include eating and drinking, bathing, shaving, oral care, grooming, and elimination."
+    },
+    {
+      "duty": "Serves as Monitor/Telemetry Tech for the unit as needed. Engages in evidence-based best practices that enhance the patient experience."
+    },
+    {
+      "duty": "Assists with the collection of specimens for diagnostic or waived tests. Ensures accuracy of all labels and timely transfer of specimen."
+    },
+    {
+      "duty": "Demonstrates proper body mechanics."
+    },
+    {
+      "duty": "Engages in evidence-based best practices that enhance the patient experience, including SAFETY rounding, communication fundamentals/AIDET, Teach-Back, Narrating Care, etc."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 60,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Basic Cardiac Life Support must be obtained within 30 days of employment start date"
+    }
+  ]
+}

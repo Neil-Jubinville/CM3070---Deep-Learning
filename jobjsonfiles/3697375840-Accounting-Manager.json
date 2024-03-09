@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Accounting Manager",
+      "job_category": "Accounting",
+      "job_class": "Manager",
+      "sector": "Accounting",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "GAAP Standards",
+      "experience": 5
+    },
+    {
+      "skill": "ERP Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Business Central",
+      "experience": 5
+    },
+    {
+      "skill": "Excel",
+      "experience": 5
+    },
+    {
+      "skill": "Data Management",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee daily accounting functions, working closely with the Accounting Manager."
+    },
+    {
+      "duty": "Manage accounts receivable and payable processes, ensuring accuracy in posting and application."
+    },
+    {
+      "duty": "Prepare and post monthly closing entries, maintaining supporting documentation."
+    },
+    {
+      "duty": "Ensure compliance with GAAP standards and internal controls for financial integrity."
+    },
+    {
+      "duty": "Collaborate on special projects, manage project schedules, and assist with audits."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in accounting or related field required."
+    }
+  ]
+}

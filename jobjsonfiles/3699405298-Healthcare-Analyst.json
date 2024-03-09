@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Healthcare Analyst",
+      "job_category": "Healthcare",
+      "job_class": "Analyst",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Healthcare Data Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "SQL",
+      "experience": 4
+    },
+    {
+      "skill": "Azure Databricks",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Visual Studio",
+      "experience": 4
+    },
+    {
+      "skill": "Statistics",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work on data loading for data warehouse projects"
+    },
+    {
+      "duty": "Provide analytic services, primarily but not exclusively associated with the analysis of healthcare claims data"
+    },
+    {
+      "duty": "Help develop and refine analytic algorithms to analyze claims"
+    },
+    {
+      "duty": "Conduct analyses for clients and draft reports explaining the results"
+    },
+    {
+      "duty": "Conduct projects as determined by clients or consultants"
+    },
+    {
+      "duty": "Be able to work independently and but also participate actively as a member of various project teams, fostering the sharing of relevant information and helping to build consensus collaboratively"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Healthcare, Statistics, or a related field (Master's preferred)"
+    }
+  ]
+}

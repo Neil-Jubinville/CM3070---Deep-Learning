@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Production Operator",
+      "job_category": "Manufacturing",
+      "job_class": "Operator",
+      "sector": "Manufacturing",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Equipment Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Continuous Improvement",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 2
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Workplace Organization",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate assigned equipment."
+    },
+    {
+      "duty": "Participate in continuous improvement activities."
+    },
+    {
+      "duty": "Support the Honeywell Operating System."
+    },
+    {
+      "duty": "Maintain work area for operation and cleanliness."
+    },
+    {
+      "duty": "Comply with all safety rules."
+    },
+    {
+      "duty": "Record and report production data."
+    },
+    {
+      "duty": "Analyze data and production reports."
+    },
+    {
+      "duty": "Set up and change over equipment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Analyst",
+      "job_category": "Data Analysis",
+      "job_class": "Analyst",
+      "sector": "Operations",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "MS Excel",
+      "experience": 4
+    },
+    {
+      "skill": "Analytic Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Power BI",
+      "experience": 4
+    },
+    {
+      "skill": "Google Analytics",
+      "experience": 4
+    },
+    {
+      "skill": "Python",
+      "experience": 4
+    },
+    {
+      "skill": "R Language",
+      "experience": 4
+    },
+    {
+      "skill": "SQL",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Gather and evaluate data from multiple sources to identify opportunities for improvement."
+    },
+    {
+      "duty": "Implement audit processes to ensure data issues are identified, tracked, and resolved in a timely manner."
+    },
+    {
+      "duty": "Collaborate with external and internal customers to analyze information needs and functional requirements."
+    },
+    {
+      "duty": "Create and maintain workflows and approval processes based on internal stakeholder requirements."
+    },
+    {
+      "duty": "Develop custom data models and algorithms to apply to data sets."
+    },
+    {
+      "duty": "Assess the effectiveness and accuracy of new data sources and data gathering techniques."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in a related field (Master\u2019s preferred)"
+    }
+  ]
+}

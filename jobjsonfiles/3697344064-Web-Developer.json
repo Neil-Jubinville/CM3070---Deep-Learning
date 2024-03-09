@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Web Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Junior",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Angular",
+      "experience": 3
+    },
+    {
+      "skill": "Node.js",
+      "experience": 3
+    },
+    {
+      "skill": "HTML5",
+      "experience": 3
+    },
+    {
+      "skill": "CSS3",
+      "experience": 3
+    },
+    {
+      "skill": "TypeScript",
+      "experience": 3
+    },
+    {
+      "skill": "JSON-based RESTful APIs",
+      "experience": 3
+    },
+    {
+      "skill": "Debugging",
+      "experience": 3
+    },
+    {
+      "skill": "JIRA",
+      "experience": 3
+    },
+    {
+      "skill": "Git",
+      "experience": 3
+    },
+    {
+      "skill": "Agile",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop web applications using Angular and Node.js to create interactive web interfaces."
+    },
+    {
+      "duty": "Write clean, modular, debuggable TypeScript code for web applications."
+    },
+    {
+      "duty": "Build and consume JSON-based RESTful APIs for web application functionality."
+    },
+    {
+      "duty": "Utilize Chrome Dev Tools for strong debugging skills during application development."
+    },
+    {
+      "duty": "Work with JIRA to manage and track project tasks and issues."
+    },
+    {
+      "duty": "Collaborate with an Agile team to deliver high-quality web applications."
+    }
+  ]
+}

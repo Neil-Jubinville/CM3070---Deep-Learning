@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "General Laborer",
+      "job_category": "Manufacturing",
+      "job_class": "Entry-level",
+      "sector": "Manufacturing",
+      "salary": 32400,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Material Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 1
+    },
+    {
+      "skill": "Equipment Operation",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Math",
+      "experience": 1
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Safely perform a wide range of tasks, including stacking corrugated product, conducting quality checks, material set-ups, and maintaining a clean and organized work area."
+    },
+    {
+      "duty": "Operate various manufacturing equipment, follow specific directions, operate hand tools, and perform other duties as assigned."
+    },
+    {
+      "duty": "Maintain a clean and safe work environment, comply with all safety regulations, read a tape measure, and have basic math and computer skills."
+    },
+    {
+      "duty": "Assist team members in cleaning, starting up, and operating machines, as well as receiving raw material."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Food and Grocery Associate",
+      "job_category": "Retail",
+      "job_class": "Associate",
+      "sector": "Retail",
+      "salary": 24000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Food Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Cleaning",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist customers in finding products and ensuring high-quality products are available in various departments."
+    },
+    {
+      "duty": "Pack and stock ready-to-sell products, and prepare and serve ready-to-eat food."
+    },
+    {
+      "duty": "Keep the area clean, sanitized, and customer-ready."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

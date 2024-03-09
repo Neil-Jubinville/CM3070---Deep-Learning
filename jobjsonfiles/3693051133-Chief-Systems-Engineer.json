@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Chief Systems Engineer",
+      "job_category": "Engineering",
+      "job_class": "Chief",
+      "sector": "Aerospace",
+      "salary": 150000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Satellite Engineering",
+      "experience": 10
+    },
+    {
+      "skill": "Systems Engineering",
+      "experience": 10
+    },
+    {
+      "skill": "Program Management",
+      "experience": 10
+    },
+    {
+      "skill": "Requirements Analysis",
+      "experience": 10
+    },
+    {
+      "skill": "Design Verification",
+      "experience": 10
+    },
+    {
+      "skill": "Data Processing",
+      "experience": 10
+    },
+    {
+      "skill": "Infrared Sensors",
+      "experience": 10
+    },
+    {
+      "skill": "Space Systems Engineering",
+      "experience": 10
+    },
+    {
+      "skill": "Interdisciplinary Planning",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Own and manage the satellite/constellation technical baseline design for the proposal effort."
+    },
+    {
+      "duty": "Provide systems engineering leadership to teams and programs."
+    },
+    {
+      "duty": "Provide mentorship to systems engineering and subsystem staff."
+    },
+    {
+      "duty": "Collaborate with program and financial leadership to ensure successful programmatic execution."
+    },
+    {
+      "duty": "Apply an interdisciplinary, collaborative approach to plan, design, develop and verify a lifecycle-balanced solution for space systems."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in STEM (advanced degree preferred)"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Mechanic",
+      "job_category": "Skilled Labor",
+      "job_class": "Technical",
+      "sector": "Construction",
+      "salary": 30,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Hydraulic Systems",
+      "experience": 3
+    },
+    {
+      "skill": "High-Pressure Air Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Electrical Repair",
+      "experience": 2
+    },
+    {
+      "skill": "CDL License",
+      "experience": 1
+    },
+    {
+      "skill": "MSHA/OSHA Certification",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Service, repair, and maintain cutting-edge fleet of drill rigs and equipment."
+    },
+    {
+      "duty": "Diagnose and fix hydraulic and pneumatic systems."
+    },
+    {
+      "duty": "Hands-on skills with tools required."
+    },
+    {
+      "duty": "Adaptable to limited space and adverse weather conditions."
+    },
+    {
+      "duty": "Travel opportunities - 30% of the time."
+    },
+    {
+      "duty": "Positive attitude and strong communication skills needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 70,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent."
+    },
+    {
+      "credential": "1-3 years of directly related experience desired."
+    },
+    {
+      "credential": "Electrical Certification desired."
+    },
+    {
+      "credential": "Valid driver's license and ability to attain a CDL."
+    },
+    {
+      "credential": "MSHA/OSHA certification required."
+    }
+  ]
+}

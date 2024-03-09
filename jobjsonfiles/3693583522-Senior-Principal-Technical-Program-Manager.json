@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Principal Technical Program Manager",
+      "job_category": "Technology",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 220000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 12
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 10
+    },
+    {
+      "skill": "Cloud Computing",
+      "experience": 8
+    },
+    {
+      "skill": "DevOps",
+      "experience": 8
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Jira",
+      "experience": 8
+    },
+    {
+      "skill": "Confluence",
+      "experience": 8
+    },
+    {
+      "skill": "AWS",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Define and implement the overall company-wide cloud strategy and provide an internal developer platform consisting of foundational account infrastructure, CI/CD pipelines, infrastructure as code, container orchestration, observability, and incident management."
+    },
+    {
+      "duty": "Lead and facilitate org-level processes such as program reviews, retrospectives, and risk analysis for the Platform Engineering team."
+    },
+    {
+      "duty": "Drive capacity planning, project estimation exercises, and continuous improvement of software development processes."
+    },
+    {
+      "duty": "Manage communication and build strong relationships with teams across engineering, product, finance, and more."
+    },
+    {
+      "duty": "Approach software development and project management with a growth mindset, continuously gathering input from teams and iterating on processes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

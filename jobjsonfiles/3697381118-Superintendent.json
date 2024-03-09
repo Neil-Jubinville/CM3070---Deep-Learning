@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Superintendent",
+      "job_category": "Construction",
+      "job_class": "Superintendent",
+      "sector": "Construction",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Construction Management",
+      "experience": 5
+    },
+    {
+      "skill": "Team Management",
+      "experience": 5
+    },
+    {
+      "skill": "OSHA Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Construction Software",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage construction projects in the educational and healthcare sectors, ensuring compliance with regulations and quality standards."
+    },
+    {
+      "duty": "Lead and manage a team of construction specialists, providing guidance and direction to achieve project objectives."
+    },
+    {
+      "duty": "Ensure adherence to OSHA guidelines, building codes, and construction procedures to maintain a safe and efficient work environment."
+    },
+    {
+      "duty": "Facilitate communication and negotiation with stakeholders, subcontractors, and vendors to resolve issues and achieve project success."
+    },
+    {
+      "duty": "Utilize construction management software to effectively plan, organize, and oversee project activities."
+    },
+    {
+      "duty": "Make informed decisions under pressure, solve problems effectively, and drive the successful completion of construction projects."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in construction management, engineering, or related field (Certifications and licenses required)"
+    }
+  ]
+}

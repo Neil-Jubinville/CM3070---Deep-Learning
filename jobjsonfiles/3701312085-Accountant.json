@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Accountant",
+      "job_category": "Accounting",
+      "job_class": "Accountant",
+      "sector": "Finance",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Tax Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Budgeting",
+      "experience": 5
+    },
+    {
+      "skill": "CPA Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Account Reconciliation",
+      "experience": 5
+    },
+    {
+      "skill": "AP/AR Management",
+      "experience": 5
+    },
+    {
+      "skill": "GAAP",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct financial audits and reconcile bank statements to ensure accuracy and compliance."
+    },
+    {
+      "duty": "Prepare and examine financial records, providing solutions for businesses and individuals."
+    },
+    {
+      "duty": "Oversee AP/AR & Cash Flow Management, including monitoring balances, predicting cash flows, and proposing invoices."
+    },
+    {
+      "duty": "Perform month-end reconciliation, bookkeeping, and generation of financial reports."
+    },
+    {
+      "duty": "Develop and update budget forecasts, providing ongoing oversight and ownership of budgeting."
+    },
+    {
+      "duty": "Assist in year-end audit, tax support, and ensuring tax and legal compliance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Accounting or Finance (CPA a plus)"
+    }
+  ]
+}

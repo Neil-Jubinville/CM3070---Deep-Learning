@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "QA Analyst",
+      "job_category": "Quality Assurance",
+      "job_class": "Analyst",
+      "sector": "Product Engineering",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Test different products while adhering to internal standards and processes."
+    },
+    {
+      "duty": "Work with project managers, implementation engineers, and developers to analyze requirements and functional specifications."
+    },
+    {
+      "duty": "Perform test case development and be involved in planning and execution for system, regression, and integration testing."
+    },
+    {
+      "duty": "Analyze and document test results, identify defects, and verify fixes."
+    },
+    {
+      "duty": "Involved in test automation support and execution."
+    },
+    {
+      "duty": "Maintain and track project artifacts necessary for Quality Assurance throughout the development life cycle."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Test Case Development",
+      "experience": 3
+    },
+    {
+      "skill": "Requirement Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Regression Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Integration Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Test Automation (Selenium)",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in business, MIS, Computer Science, or a related field"
+    }
+  ]
+}

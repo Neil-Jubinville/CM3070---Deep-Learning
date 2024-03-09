@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Resident Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Associate",
+      "sector": "Healthcare",
+      "salary": 29000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Caregiving",
+      "experience": 2
+    },
+    {
+      "skill": "Medication Management",
+      "experience": 3
+    },
+    {
+      "skill": "Reporting",
+      "experience": 2
+    },
+    {
+      "skill": "CPR/First Aid Certification",
+      "experience": 2
+    },
+    {
+      "skill": "Emotional Intelligence",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Focus",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist residents with personal hygiene, medication management, and toileting, ensuring their comfort and well-being."
+    },
+    {
+      "duty": "Communicate with medical staff, reporting on residents' health and providing emotional support to residents and their families."
+    },
+    {
+      "duty": "Monitor and record vital signs, observing and reporting any abnormal changes in body functioning to a supervisor."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent, Valid CNA certification or State/Local equivalent required, CPR/First Aid Certification desired"
+    }
+  ]
+}

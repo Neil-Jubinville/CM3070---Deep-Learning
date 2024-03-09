@@ -1,0 +1,41 @@
+{
+  "meta": [
+    {
+      "job_title": "HR Director",
+      "job_category": "Human Resources",
+      "job_class": "Director",
+      "sector": "Management",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Talent Acquisition and Recruitment: Develop and implement effective recruitment strategies to attract top talent. Source, screen, and assess candidates for various positions within client organizations. Conduct interviews, coordinate assessments, and facilitate the selection process. Collaborate with clients to understand their hiring needs and provide suitable candidates."
+    },
+    {
+      "duty": "HR Operations and Compliance: Manage and execute HR processes, including onboarding, employee records management, payroll, benefits administration, and offboarding. Ensure compliance with relevant labor laws, regulations, and industry standards. Maintain accurate and up-to-date HR records and documentation. Develop and implement HR policies, procedures, and guidelines."
+    },
+    {
+      "duty": "Client Relationship Management: Build strong relationships with clients to understand their staffing requirements and provide tailored solutions. Serve as a trusted advisor to clients, offering expert HR insights and guidance. Monitor client satisfaction, address concerns, and proactively identify opportunities for improvement."
+    },
+    {
+      "duty": "Employee Engagement and Development: Foster a positive work environment and promote employee engagement initiatives. Provide coaching and guidance to employees on HR-related matters. Facilitate performance management processes, including goal setting, feedback, and development plans. Support learning and development initiatives to enhance employee skills and knowledge."
+    },
+    {
+      "duty": "Team Management and Collaboration: Lead and manage a team of HR professionals, providing guidance and support. Foster a collaborative and inclusive team culture, promoting knowledge sharing and professional growth. Coordinate with internal departments to ensure effective communication and collaboration."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Human Resources Management, Business Administration, or a related field (Master's degree preferred)."
+    }
+  ]
+}

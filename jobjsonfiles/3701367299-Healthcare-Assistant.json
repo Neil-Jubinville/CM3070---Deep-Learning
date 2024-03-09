@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Healthcare Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "remote": false,
+      "salary": 35000
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 3
+    },
+    {
+      "skill": "Healthcare Regulations",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Clinical Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist patients with daily activities, such as feeding, ambulating, grooming, and toileting."
+    },
+    {
+      "duty": "Educate patients and their families under the delegation of a professional care provider."
+    },
+    {
+      "duty": "Collect and document data related to patient care activities."
+    },
+    {
+      "duty": "Provide a clean and safe patient care environment, companion care, and housekeeping."
+    },
+    {
+      "duty": "Communicate with hospital staff, physicians, patients, and visitors."
+    },
+    {
+      "duty": "Process paper and electronic orders for medical treatments, tests, appointments, and patient records."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED (CNA certification preferred)"
+    }
+  ]
+}

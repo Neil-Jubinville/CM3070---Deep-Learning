@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "CAD Designer",
+      "job_category": "Design",
+      "job_class": "Designer",
+      "sector": "Engineering",
+      "salary": 25,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Solidworks CAD",
+      "experience": 3
+    },
+    {
+      "skill": "Solidworks PDM",
+      "experience": 2
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Manufacturing Processes",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Products",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design 3D models in Solidworks to produce 2D manufacturing drawings as well as 2D assembly drawings."
+    },
+    {
+      "duty": "Process drawing changes through Engineering Change Request process."
+    },
+    {
+      "duty": "Create detailed installation procedure drawings (Mechanical/Electrical) with data management tools such as Solidworks PDM & Solidworks Manage."
+    },
+    {
+      "duty": "Convert Legacy Data from Solid Edge to Solidworks."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in Mechanical Engineering or 5 years in relevant experience."
+    }
+  ]
+}

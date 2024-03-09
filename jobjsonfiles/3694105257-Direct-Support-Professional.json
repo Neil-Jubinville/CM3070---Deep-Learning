@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Direct Support Professional",
+      "job_category": "Human Services",
+      "job_class": "Support",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Human Services",
+      "experience": 3
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Training and Guidance",
+      "experience": 3
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "CPR and First Aid",
+      "experience": 3
+    },
+    {
+      "skill": "Knowledge of Local Resources",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide assistance and support to individuals with intellectual disabilities, including personal care, housekeeping, meal preparation, medication management, transportation, and recreational activities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent required, Bachelor's degree in a related field preferred"
+    }
+  ]
+}

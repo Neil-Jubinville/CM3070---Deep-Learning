@@ -1,0 +1,96 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Infrastructure Engineer",
+      "job_category": "Technology",
+      "job_class": "Engineer",
+      "sector": "Information Technology",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Center Operations Support",
+      "experience": 6
+    },
+    {
+      "skill": "Microsoft AD",
+      "experience": 6
+    },
+    {
+      "skill": "vSphere",
+      "experience": 6
+    },
+    {
+      "skill": "VMware ESX Server",
+      "experience": 6
+    },
+    {
+      "skill": "TCP/IP",
+      "experience": 6
+    },
+    {
+      "skill": "DNS",
+      "experience": 6
+    },
+    {
+      "skill": "DHCP",
+      "experience": 6
+    },
+    {
+      "skill": "Routing",
+      "experience": 6
+    },
+    {
+      "skill": "Network Infrastructures",
+      "experience": 6
+    },
+    {
+      "skill": "WiFi Access Points",
+      "experience": 6
+    },
+    {
+      "skill": "Cisco Meraki",
+      "experience": 6
+    },
+    {
+      "skill": "Dell Switches",
+      "experience": 6
+    },
+    {
+      "skill": "Brocade Switches",
+      "experience": 6
+    },
+    {
+      "skill": "VMWare vSphere 7",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide expertise in Windows on-prem and cloud services including active directory domains, Azure, Office 365, and Exchange."
+    },
+    {
+      "duty": "Install and support WiFi access points, connectivity, and authentication."
+    },
+    {
+      "duty": "Provide expertise with Cisco Meraki, Dell, and Brocade switches. Ability to program switchports, access control lists, VLANs, routing, and security."
+    },
+    {
+      "duty": "Provide expertise in VMWare vSphere 7 including the provisioning and management of virtual machines, networking, fault tolerance, and storage."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum of AD degree with minimum of 6 years experience performing Data Center operations support\nCCNA or MCSE or VCP certification required"
+    }
+  ]
+}

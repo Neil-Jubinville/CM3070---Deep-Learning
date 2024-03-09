@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Process Technician",
+      "job_category": "Science",
+      "job_class": "Technician",
+      "sector": "Science & Engineering",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Wafer Experimentation",
+      "experience": 3
+    },
+    {
+      "skill": "Scanning Electron Microscope (SEM) Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Thin Film Process",
+      "experience": 3
+    },
+    {
+      "skill": "Process System Evaluation",
+      "experience": 3
+    },
+    {
+      "skill": "Supply Coordination",
+      "experience": 3
+    },
+    {
+      "skill": "Instrument Repair and Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Quantitative Wafer Evaluation",
+      "experience": 3
+    },
+    {
+      "skill": "Process Instrumentation Knowledge",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare wafers for experimentation, including cleaning and loading, and clean reactors."
+    },
+    {
+      "duty": "Operate thin film process and scanning electron microscope (SEM) for analysis and imaging."
+    },
+    {
+      "duty": "Record process conditions and experimental observations, as well as prepare graphs and tables summarizing results."
+    },
+    {
+      "duty": "Order equipment and supplies, coordinate with vendors and purchasing, and perform routine shut down procedures."
+    },
+    {
+      "duty": "Coordinate instrument repair and maintenance, as well as set up equipment for experiments."
+    },
+    {
+      "duty": "Interface with requestors, communicate on results, and help monitor wafer in process (WIP) and maintain throughput."
+    },
+    {
+      "duty": "Use quantitative wafer evaluation and process instrumentation knowledge."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Technical Diploma"
+    }
+  ]
+}

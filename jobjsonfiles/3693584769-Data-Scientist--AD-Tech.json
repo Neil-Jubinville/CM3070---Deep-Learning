@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Scientist- AD Tech",
+      "job_category": "Data Science",
+      "job_class": "Data Scientist",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Machine Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "XGBoost",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Environments",
+      "experience": 3
+    },
+    {
+      "skill": "A/B Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Statistical Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "AWS",
+      "experience": 3
+    },
+    {
+      "skill": "GCP",
+      "experience": 3
+    },
+    {
+      "skill": "BigQuery",
+      "experience": 3
+    },
+    {
+      "skill": "Databricks",
+      "experience": 3
+    },
+    {
+      "skill": "Spark",
+      "experience": 3
+    },
+    {
+      "skill": "PyTorch Lightning",
+      "experience": 3
+    },
+    {
+      "skill": "MLFLOW",
+      "experience": 3
+    },
+    {
+      "skill": "Optuna",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Building and deploying Machine Learning (ML) models at a massive scale to serve various use-cases."
+    },
+    {
+      "duty": "Collaborating with cross-functional teams to leverage cutting-edge technologies and build ML models."
+    },
+    {
+      "duty": "Coding in Python and SQL, with a focus on ML models around tabular datasets and XGBoost."
+    },
+    {
+      "duty": "Utilizing cloud environments, A/B testing, and statistical analysis in ML model development."
+    },
+    {
+      "duty": "Working with advanced ML concepts and technologies such as AWS, GCP, BigQuery, Databricks, Spark, PyTorch Lightning, MLFLOW, and Optuna."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BSc in Computer Science/Engineering or related field with a focus on applied statistics, AI, machine learning or related fields (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Account Executive",
+      "job_category": "Sales",
+      "job_class": "Executive",
+      "sector": "Sales",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Presentation",
+      "experience": 5
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Cold Calling",
+      "experience": 5
+    },
+    {
+      "skill": "Client Entertainment",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Self-Motivation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Research and identify prospective clients through internet research, cold calling, and referrals."
+    },
+    {
+      "duty": "Make a high volume of calls per week, and follow up with clients to understand their needs."
+    },
+    {
+      "duty": "Conduct client meetings, deliver sales presentations, and develop an understanding of client needs."
+    },
+    {
+      "duty": "Manage the job order process and partner with internal staffing consultants to fulfill client needs."
+    },
+    {
+      "duty": "Serve as the client's first point-of-contact during the job order process and engage in client entertaining activities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Sales, Business, or a related field (Master's preferred)"
+    }
+  ]
+}

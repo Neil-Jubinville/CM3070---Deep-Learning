@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Fire Engineer",
+      "job_category": "Firefighting",
+      "job_class": "Engineer",
+      "sector": "Firefighting",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Fire Apparatus Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 3
+    },
+    {
+      "skill": "Fire Prevention",
+      "experience": 3
+    },
+    {
+      "skill": "Suppression Training",
+      "experience": 3
+    },
+    {
+      "skill": "Rescue Operations",
+      "experience": 3
+    },
+    {
+      "skill": "Aircraft Rescue Firefighting",
+      "experience": 3
+    },
+    {
+      "skill": "Urban Search and Rescue",
+      "experience": 3
+    },
+    {
+      "skill": "Hazardous Materials Technician",
+      "experience": 3
+    },
+    {
+      "skill": "Paramedic Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Drive, operate, and maintain firefighting apparatus and equipment in compliance with County Fire Operations Directives."
+    },
+    {
+      "duty": "Respond to fire alarms and emergency calls."
+    },
+    {
+      "duty": "Maintain fire station and grounds."
+    },
+    {
+      "duty": "Participate in fire prevention activities and suppression training programs."
+    },
+    {
+      "duty": "Periodically perform the duties of a Captain."
+    },
+    {
+      "duty": "Ensure that assigned apparatus are in safe operating condition."
+    },
+    {
+      "duty": "Obtain and maintain certification in specialties such as Aircraft Rescue Firefighting, Urban Search and Rescue, or Hazardous Materials Technician."
+    },
+    {
+      "duty": "Maintain a valid CA and ICEMA Paramedic license or a CA EMT Certification."
+    },
+    {
+      "duty": "Abide by the non-smoking provision of the San Bernardino County Professional Firefighters Memorandum of Understanding."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current and valid San Bernardino County Fire Department Level II Certification"
+    },
+    {
+      "credential": "CA Paramedic or EMT license"
+    },
+    {
+      "credential": "CA Class C license with a Firefighter Endorsement and current DL546 Health Questionnaire"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "CRNA",
+      "job_category": "Healthcare",
+      "job_class": "CRNA",
+      "sector": "Healthcare",
+      "salary": 150000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Autonomous Work",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Anesthesia Management",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide anesthesia and related care before, during, and after surgical, diagnostic, and therapeutic procedures."
+    },
+    {
+      "duty": "Evaluate patient history and formulate a plan of care based on patient assessment."
+    },
+    {
+      "duty": "Administer anesthesia and monitor patient's vital signs during procedures."
+    },
+    {
+      "duty": "Collaborate with the surgical team to ensure patient safety and comfort during procedures."
+    },
+    {
+      "duty": "Respond to emergency situations and provide critical care as necessary."
+    },
+    {
+      "duty": "Document patient care and maintain accurate anesthesia records."
+    },
+    {
+      "duty": "Participate in team meetings and collaborate with other healthcare professionals for patient care planning."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's or Doctorate degree in Nursing with CRNA Certification"
+    }
+  ]
+}

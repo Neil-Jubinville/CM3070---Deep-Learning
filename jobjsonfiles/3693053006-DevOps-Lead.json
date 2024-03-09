@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "DevOps Lead",
+      "job_category": "Technology",
+      "job_class": "Lead",
+      "sector": "Software Engineering",
+      "salary": 160000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Continuous Delivery",
+      "experience": 5
+    },
+    {
+      "skill": "Containerization",
+      "experience": 5
+    },
+    {
+      "skill": "Infrastructure as Code (IaC)",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Computing Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership/Consultative",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Champion continuous delivery and assist teams through the transition to a rapid deployment model."
+    },
+    {
+      "duty": "Propose, share, and refine best practices on release engineering, containerization, environment management, and scripting."
+    },
+    {
+      "duty": "Design new applications and build transition approaches for existing ones, including architectural reviews and hands-on refactoring of stacks."
+    },
+    {
+      "duty": "Advance and refine the use of Infrastructure-as-Code (IaC) and link it to success in the CI/CD space."
+    },
+    {
+      "duty": "Act as a change agent, proactively seeking out clarifications, problems, and misunderstandings to lead the transition process."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's degree (or equivalent)"
+    }
+  ]
+}

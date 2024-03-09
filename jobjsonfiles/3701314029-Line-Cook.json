@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Line Cook",
+      "job_category": "Culinary",
+      "job_class": "Level 1",
+      "sector": "Hospitality",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Culinary Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Sanitation Compliance",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensuring the highest quality of culinary services for Members and Guests."
+    },
+    {
+      "duty": "Supporting a la carte and private event food production while maintaining consistent food preparation and plate presentation."
+    },
+    {
+      "duty": "Assisting the Executive Chef and Sous Chef with requested tasks and working at an efficient pace to keep up with business needs."
+    },
+    {
+      "duty": "Setting up and stocking food items and other necessary supplies."
+    },
+    {
+      "duty": "Maintaining cleanliness and complying with food sanitation requirements by properly handling food and ensuring correct storage."
+    },
+    {
+      "duty": "Performing inventory checks and completing food storage logs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

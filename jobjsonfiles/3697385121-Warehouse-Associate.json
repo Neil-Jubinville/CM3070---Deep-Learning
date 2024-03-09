@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Associate",
+      "job_category": "Warehouse Operations",
+      "job_class": "Associate",
+      "sector": "Logistics",
+      "salary": 36000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Stock/Inventory maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Basic computer skills",
+      "experience": 1
+    },
+    {
+      "skill": "Forklift operation",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Undertake warehouse activities to ensure efficient storing, receipt, and distribution of goods."
+    },
+    {
+      "duty": "Unload, palletize, and store shipments, replenish stock locations, and pick customer orders."
+    },
+    {
+      "duty": "Conduct inventory counts, ensure good housekeeping practices, and comply with company policies and procedures."
+    },
+    {
+      "duty": "Embrace and support growing business demands in a changing environment and perform other assigned tasks for efficient warehouse operation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    },
+    {
+      "credential": "Forklift certification by Rinnai"
+    }
+  ]
+}

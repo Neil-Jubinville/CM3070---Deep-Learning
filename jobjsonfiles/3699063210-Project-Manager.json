@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "MedTech",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 6
+    },
+    {
+      "skill": "Scrum Methodology",
+      "experience": 3
+    },
+    {
+      "skill": "Work Breakdown Structure",
+      "experience": 6
+    },
+    {
+      "skill": "Microsoft Product Proficiency",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Meet project objectives by successfully tracking and implementing strategies regarding scope, quality, time, and cost."
+    },
+    {
+      "duty": "Lead a work breakdown structure with a project team and translate the output into a comprehensive project plan."
+    },
+    {
+      "duty": "Interact with scrum development teams."
+    },
+    {
+      "duty": "Seek out answers or solutions with minimal guidance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Engineering or a related field (Masters preferred)"
+    }
+  ]
+}

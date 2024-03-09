@@ -1,0 +1,42 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Sales Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 18000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Training",
+      "experience": 5
+    },
+    {
+      "skill": "Coaching",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver the Tillys Experience to Customers and support Store Management in the training and coaching of Sales Associates and execution of operational tasks."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ]
+}

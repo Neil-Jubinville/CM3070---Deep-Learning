@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Associate",
+      "job_category": "Retail",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Retail Operations",
+      "experience": 2
+    },
+    {
+      "skill": "Fashion Trends",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide an amazing shopping experience that will encourage positive customer connections and loyalty."
+    },
+    {
+      "duty": "Perform register functions while using your sales, promotion and product knowledge to drive add-on sales."
+    },
+    {
+      "duty": "Cover the sales floor and helps ensure all visual standards are met."
+    },
+    {
+      "duty": "Assist in the organization of the stockroom and providing a clean, consistent, and inviting store environment that inspires customers to shop."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 70,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": []
+}

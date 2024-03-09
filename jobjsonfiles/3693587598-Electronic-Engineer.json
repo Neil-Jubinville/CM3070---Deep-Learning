@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Electronic Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Developing electronic systems including low level motion controllers, sensor interfaces, and data acquisition for electro-mechanical systems."
+    },
+    {
+      "duty": "Design circuit boards and sub-systems using CAD/CAE tools; planning and conducting tests; interpreting and evaluating experimental data."
+    },
+    {
+      "duty": "Documenting designs, specifications, project status; fabricating breadboards and prototypes; developing test plans and specifications."
+    },
+    {
+      "duty": "Communicating project status and schedule updates; transferring technical documentation into revision control system; identifying critical design factors and risks."
+    },
+    {
+      "duty": "Performing empirical and theoretical analysis; interpreting experimental data; developing test plans and design verification experiments."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electronic Design",
+      "experience": 5
+    },
+    {
+      "skill": "CAD/CAE Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Instrumentation Design",
+      "experience": 5
+    },
+    {
+      "skill": "Analog Circuit Design",
+      "experience": 5
+    },
+    {
+      "skill": "Microcontrollers",
+      "experience": 5
+    },
+    {
+      "skill": "Product Design",
+      "experience": 5
+    },
+    {
+      "skill": "Regulatory Requirements",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Components",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Engineering Specifications",
+      "experience": 5
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Electrical/Electronic Engineering"
+    }
+  ]
+}

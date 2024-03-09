@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Sterile Processing Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sterile Processing",
+      "experience": 3
+    },
+    {
+      "skill": "Healthcare Equipment Tracking Software",
+      "experience": 1
+    },
+    {
+      "skill": "Surgical Instrumentation",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 3
+    },
+    {
+      "skill": "Organization Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Coordinate and assemble case carts of instruments, implants, supplies, and equipment in collaboration with various hospital staff."
+    },
+    {
+      "duty": "Analyze data related to equipment and materials tracking software to ensure efficient instrument management."
+    },
+    {
+      "duty": "Collaborate with OR charge nurse, tissue coordinators, and vendors for required instruments and equipment."
+    },
+    {
+      "duty": "Select preference cards for procedures and ensure the coordination of changes related to instrumentation and surgical supplies."
+    },
+    {
+      "duty": "Maintain the sterile processing department, work hands-on with medical equipment and instrumentation, and handle supply carts and instrument sets."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited Sterile Processing Technician school"
+    },
+    {
+      "credential": "Certified Sterile Processing Technician CBSPD or CRCST"
+    },
+    {
+      "credential": "BLS Certification"
+    }
+  ]
+}

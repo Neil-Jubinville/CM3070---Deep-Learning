@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinary Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 36000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Animal Restraint",
+      "experience": 1
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "Laboratory Procedures",
+      "experience": 1
+    },
+    {
+      "skill": "Surgical Assistance",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist with patient care and treatment"
+    },
+    {
+      "duty": "Monitor hospitalized pets and aid in caring for animals after surgery"
+    },
+    {
+      "duty": "Maintain inventory and stocking"
+    },
+    {
+      "duty": "Restrain animals during blood draws and nail trims"
+    },
+    {
+      "duty": "Assist with routine diagnostic tests (i.e. taking radiographs, running bloodwork, reading fecal results)"
+    },
+    {
+      "duty": "Maintain & sterilize surgical instruments/equipment"
+    },
+    {
+      "duty": "Clean/disinfect cages, kennels, exam and treatment areas of hospital"
+    },
+    {
+      "duty": "Administering medications under Veterinarian/Vet Tech supervision"
+    },
+    {
+      "duty": "Feeding/bathing animals"
+    },
+    {
+      "duty": "Customer service"
+    },
+    {
+      "duty": "Answer phones"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "At least 1 year of experience"
+    }
+  ]
+}

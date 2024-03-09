@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Security Engineer",
+      "job_category": "Information Technology",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Amazon Web Services (AWS)",
+      "experience": 3
+    },
+    {
+      "skill": "Google Cloud (GCP)",
+      "experience": 3
+    },
+    {
+      "skill": "Heroku",
+      "experience": 2
+    },
+    {
+      "skill": "Security Architectures",
+      "experience": 4
+    },
+    {
+      "skill": "Infrastructure-as-code",
+      "experience": 4
+    },
+    {
+      "skill": "Scripting Programming Languages",
+      "experience": 4
+    },
+    {
+      "skill": "AWS APIs",
+      "experience": 3
+    },
+    {
+      "skill": "SQL Queries",
+      "experience": 4
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Virtual Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Review current and upcoming infrastructure stack from a security perspective and provide hardening mechanisms and recommendations."
+    },
+    {
+      "duty": "Deploy, build, and/or operate security infrastructure solutions to help scale the security program."
+    },
+    {
+      "duty": "Automate security controls using scripting."
+    },
+    {
+      "duty": "Define security strategies for new infrastructure initiatives or program."
+    },
+    {
+      "duty": "Perform structured security risk assessment to identify, prioritize, and provide recommendations or solutions for issues found."
+    },
+    {
+      "duty": "Perform security assessments on third-party vendors and integrations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field (Master's preferred)"
+    }
+  ]
+}

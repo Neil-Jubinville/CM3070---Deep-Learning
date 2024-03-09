@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Engineering Manager",
+      "job_category": "Engineering and Technology",
+      "job_class": "Manager",
+      "sector": "Product Dev Management",
+      "salary": 225000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Leadership",
+      "experience": 6
+    },
+    {
+      "skill": "Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Architectural Design",
+      "experience": 4
+    },
+    {
+      "skill": "SaaS Applications",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 5
+    },
+    {
+      "skill": "Data Structures and Algorithms",
+      "experience": 5
+    },
+    {
+      "skill": "Operating Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Continuous Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Continuous Delivery",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and manage engineering team through design, development, testing, and delivery of software applications and services using service-oriented architecture."
+    },
+    {
+      "duty": "Champion a culture of high ownership, provide technical leadership, and partner closely with other engineering teams and product management."
+    },
+    {
+      "duty": "Maintain a healthy sense of urgency, continually improve engineering processes and architecture, and solve complex problems to drive highly impactful outcomes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in computer science or related field (Master's preferred)"
+    }
+  ]
+}

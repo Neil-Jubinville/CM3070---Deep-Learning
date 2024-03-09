@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Junior Accountant",
+      "job_category": "Accounting",
+      "job_class": "Accountant",
+      "sector": "Finance",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Bookkeeping",
+      "experience": 5
+    },
+    {
+      "skill": "QuickBooks",
+      "experience": 5
+    },
+    {
+      "skill": "Accounting Principles",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Record and execute daily reconciliation of cash receipts, including electronic cash receipts, physical checks, credit card, and electronic service payments."
+    },
+    {
+      "duty": "Maintain A/P log and execute vendor and consultant payments."
+    },
+    {
+      "duty": "Complete monthly bank reconciliations."
+    },
+    {
+      "duty": "Complete /satisfy customer ACH information requests."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent required; Associate degree with accounting coursework preferred."
+    }
+  ]
+}

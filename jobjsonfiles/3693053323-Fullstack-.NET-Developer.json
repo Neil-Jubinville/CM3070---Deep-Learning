@@ -1,0 +1,109 @@
+{
+  "meta": [
+    {
+      "job_title": "Fullstack .NET Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft .NET",
+      "experience": 5
+    },
+    {
+      "skill": "ASP.NET",
+      "experience": 5
+    },
+    {
+      "skill": "C#",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "jQuery",
+      "experience": 5
+    },
+    {
+      "skill": "Angular",
+      "experience": 5
+    },
+    {
+      "skill": "REST services",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft ASP.NET Web API",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "MS SQL Server",
+      "experience": 5
+    },
+    {
+      "skill": "MS Visual Studio",
+      "experience": 5
+    },
+    {
+      "skill": "Team Foundation Server",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Devops",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Development (SCRUM)",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Lambda",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work closely with business analysts throughout the analysis and design phase to create design deliverables."
+    },
+    {
+      "duty": "Develop software solutions based on stated system requirements. Unit test your resulting work to ensure smooth transition to QA phase."
+    },
+    {
+      "duty": "Communicate regularly with technical team lead concerning status of existing work and issues encountered."
+    },
+    {
+      "duty": "Assess performance and supportability requirements of new and existing systems and recommend design alternatives."
+    },
+    {
+      "duty": "Create system support documentation for software deployed to production."
+    },
+    {
+      "duty": "Ability to develop enterprise cloud-based solutions using AWS."
+    },
+    {
+      "duty": "Develop high quality software on time while keeping technical debt low."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": []
+}

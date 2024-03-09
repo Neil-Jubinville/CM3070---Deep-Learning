@@ -1,0 +1,109 @@
+{
+  "meta": [
+    {
+      "job_title": "Network Administrator",
+      "job_category": "IT",
+      "job_class": "Administrator",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft Server",
+      "experience": 10
+    },
+    {
+      "skill": "VMWare",
+      "experience": 7
+    },
+    {
+      "skill": "Active Directory",
+      "experience": 5
+    },
+    {
+      "skill": "DFS",
+      "experience": 5
+    },
+    {
+      "skill": "Networking",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Database Management",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Support",
+      "experience": 5
+    },
+    {
+      "skill": "Hardware Experience",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain a high standard of network, server, and work station availability for all offices across the country."
+    },
+    {
+      "duty": "Setup and support servers: Microsoft Server 2008, 2012 & 2016."
+    },
+    {
+      "duty": "Setup and support Backup systems on Veeam & Backup Exec."
+    },
+    {
+      "duty": "Administrate Active Directory, DFS, DHCP, DNS & Print Services."
+    },
+    {
+      "duty": "Manage and support Extreme Networks Switches, Cisco Routers and Dell Sonic wall Firewalls."
+    },
+    {
+      "duty": "Setup and manage VMWare environments for virtual servers and desktops."
+    },
+    {
+      "duty": "Support and manage Microsoft SQL database environment."
+    },
+    {
+      "duty": "Respond to requests for technical assistance in person, phone & electronically."
+    },
+    {
+      "duty": "Troubleshoot all technical related user issues, including hardware, software, account, and printer issues."
+    },
+    {
+      "duty": "Create and implement support documentation and procedures."
+    },
+    {
+      "duty": "Create, implement and customize OS deployments and software."
+    },
+    {
+      "duty": "Setup and support workstations and printers."
+    },
+    {
+      "duty": "Setup new offices and assist in moving existing locations technology infrastructure."
+    },
+    {
+      "duty": "Provide after-hours support for all critical systems as needed."
+    },
+    {
+      "duty": "Create and implement training as needed and directed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 30
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in IT related field required"
+    }
+  ]
+}

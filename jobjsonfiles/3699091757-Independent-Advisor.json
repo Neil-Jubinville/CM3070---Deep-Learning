@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Independent Advisor",
+      "job_category": "Consulting",
+      "job_class": "Advisor",
+      "sector": "Financial Services",
+      "salary": 200000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Advisory",
+      "experience": 5
+    },
+    {
+      "skill": "Wealth Management",
+      "experience": 5
+    },
+    {
+      "skill": "Investment Strategies",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Market Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Planning",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide independent financial advisory services to clients, offering comprehensive wealth management and investment strategies."
+    },
+    {
+      "duty": "Analyze market trends, assess risk, and identify growth opportunities for clients' investment portfolios."
+    },
+    {
+      "duty": "Ensure compliance with regulatory standards and guidelines in all financial advisory practices."
+    },
+    {
+      "duty": "Build and maintain strong client relationships, providing personalized financial planning and guidance."
+    },
+    {
+      "duty": "Conduct thorough market analysis and research to inform data-driven investment decisions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 125,
+      "student_teacher": 100,
+      "introvert_extrovert": 75
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Fully licensed financial advisor"
+    }
+  ]
+}

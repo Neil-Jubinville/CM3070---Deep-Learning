@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Master Data Analyst",
+      "job_category": "Data Analysis",
+      "job_class": "Analyst",
+      "sector": "Data Management",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Data Management",
+      "experience": 5
+    },
+    {
+      "skill": "Data Governance",
+      "experience": 5
+    },
+    {
+      "skill": "Data Integrity",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle ERP",
+      "experience": 5
+    },
+    {
+      "skill": "Business Process Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Analyze, organize, and standardize large amounts of data, implementing data management plans, and crafting a master data governance strategy across multiple companies."
+    },
+    {
+      "duty": "Translate complex problems using non-technical terms and standardize data across current and future migrating companies."
+    },
+    {
+      "duty": "Maintain data management plans and instructions for operating complex business systems."
+    },
+    {
+      "duty": "Craft a master data governance strategy across all companies and act as the gatekeeper to parts, vendor, and customer creation with the Quanex systems."
+    },
+    {
+      "duty": "Define the overall registration process of each data element and manage links between data subsets and data flows between business systems."
+    },
+    {
+      "duty": "Perform ongoing maintenance to ensure no duplicates across the Quanex landscape and work closely with teams within individual companies to capture all required details."
+    },
+    {
+      "duty": "Manage and maintain the legacy data associated with the vendors, customers, and part numbers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s or master\u2019s degree in IT / Business"
+    }
+  ]
+}

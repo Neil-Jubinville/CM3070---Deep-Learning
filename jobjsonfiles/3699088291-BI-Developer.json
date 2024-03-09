@@ -1,0 +1,151 @@
+{
+  "meta": [
+    {
+      "job_title": "BI Developer",
+      "job_category": "Information Technology",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain and update existing Power BI dashboards and reports."
+    },
+    {
+      "duty": "Develop and manage new and existing Power BI data models and data integrations."
+    },
+    {
+      "duty": "Perform analysis of data models, logical specifications, and business requirements to design, develop, test, and publish Microsoft Power BI dashboards and reports."
+    },
+    {
+      "duty": "Works closely with Cyber Security Operations director on identification and priority of development work needed."
+    },
+    {
+      "duty": "Maintain and update existing data load (ETL) tool and process."
+    },
+    {
+      "duty": "Automate data pulls per requirements."
+    },
+    {
+      "duty": "Troubleshoot reporting issues and tune report performance."
+    },
+    {
+      "duty": "Create and manage technical documentation."
+    },
+    {
+      "duty": "Plan and organize tasks, coordinate with additional development teams as needed."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft Power BI",
+      "experience": 5
+    },
+    {
+      "skill": "M Query",
+      "experience": 3
+    },
+    {
+      "skill": "DAX",
+      "experience": 3
+    },
+    {
+      "skill": "Data Modelling",
+      "experience": 3
+    },
+    {
+      "skill": "SQL Query Writing",
+      "experience": 3
+    },
+    {
+      "skill": "Python",
+      "experience": 1
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 3
+    },
+    {
+      "skill": "Jira",
+      "experience": 3
+    },
+    {
+      "skill": "Azure DevOps",
+      "experience": 3
+    },
+    {
+      "skill": "BitBucket",
+      "experience": 3
+    },
+    {
+      "skill": "GitHub",
+      "experience": 3
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Database Fundamentals",
+      "experience": 5
+    },
+    {
+      "skill": "Dimensional Modelling",
+      "experience": 5
+    },
+    {
+      "skill": "Data Mining",
+      "experience": 5
+    },
+    {
+      "skill": "Data Integration",
+      "experience": 5
+    },
+    {
+      "skill": "API",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Computing",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Deadline Management",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 60,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in computer science, information systems, or related discipline"
+    }
+  ]
+}

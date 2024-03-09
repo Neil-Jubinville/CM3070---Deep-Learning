@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Occupational Therapist II",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Occupational Therapy",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Evaluation",
+      "experience": 5
+    },
+    {
+      "skill": "Therapeutic Procedures",
+      "experience": 5
+    },
+    {
+      "skill": "Teaching",
+      "experience": 5
+    },
+    {
+      "skill": "Supervision",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 5
+    },
+    {
+      "skill": "Data Collection",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Evaluate patients and determine diagnosis, prognosis, and plan of care."
+    },
+    {
+      "duty": "Implement therapeutic procedures, equipment devices, and teaching interventions to achieve patient's goals."
+    },
+    {
+      "duty": "Perform teaching responsibilities and serve as a mentor for less experienced therapists and support personnel."
+    },
+    {
+      "duty": "Demonstrate initiative, set professional goals, and support an environment of idea sharing and feedback exchange."
+    },
+    {
+      "duty": "Manage a defined caseload and perform all administrative responsibilities including data collection and record-keeping."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree in Occupational Therapy or a related field"
+    }
+  ]
+}

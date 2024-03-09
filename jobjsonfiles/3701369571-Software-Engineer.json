@@ -1,0 +1,110 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 225000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "TypeScript",
+      "experience": 5
+    },
+    {
+      "skill": "NodeJS",
+      "experience": 5
+    },
+    {
+      "skill": "NestJS",
+      "experience": 5
+    },
+    {
+      "skill": "React/Redux",
+      "experience": 5
+    },
+    {
+      "skill": "PostgreSQL",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Software Development",
+      "experience": 10
+    },
+    {
+      "skill": "Code Review",
+      "experience": 10
+    },
+    {
+      "skill": "Performance Optimization",
+      "experience": 10
+    },
+    {
+      "skill": "Technical Problem Solving",
+      "experience": 10
+    },
+    {
+      "skill": "Project Ownership",
+      "experience": 10
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Leadership",
+      "experience": 10
+    },
+    {
+      "skill": "Mentorship",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Shepherd the definition and improvement of internal standards for style, maintainability, and best practices for a high-scale web environment."
+    },
+    {
+      "duty": "Maintain and advocate for these standards through code review."
+    },
+    {
+      "duty": "Drive innovation on the team and confront problems of immense complexity and scope."
+    },
+    {
+      "duty": "Seek out difficult impediments to efficiency as a team and implement solutions to enable faster iteration."
+    },
+    {
+      "duty": "Advocate for improvements to product quality, security, and performance."
+    },
+    {
+      "duty": "Solve technical problems of the highest scope and complexity for the team."
+    },
+    {
+      "duty": "Exert significant influence on the overall objectives and long-range goals of the team."
+    },
+    {
+      "duty": "Provide mentorship for all Engineers on the team and remove blockers to their autonomy."
+    },
+    {
+      "duty": "Confidently ship large features and improvements with minimal guidance and support from other team members."
+    },
+    {
+      "duty": "Collaborate with the team on larger projects."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 150,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

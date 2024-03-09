@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Accountant",
+      "job_category": "Finance",
+      "job_class": "Accountant",
+      "sector": "Finance",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintaining financial reports, records, and general ledger accounts."
+    },
+    {
+      "duty": "Preparing journal entries, analysis, account reconciliations, and bank account updates."
+    },
+    {
+      "duty": "Contributing to the development and review of annual operating budgets and performance projections."
+    },
+    {
+      "duty": "Maintaining documentation for AP/AR and conducting internal audits."
+    },
+    {
+      "duty": "Performing monthly balance sheet reconciliations."
+    },
+    {
+      "duty": "Meeting processing and reporting deadlines."
+    },
+    {
+      "duty": "Ensuring compliance with GAAP."
+    },
+    {
+      "duty": "Assisting the Plant Controller as needed."
+    },
+    {
+      "duty": "Timely escalation of problematic accounts to appropriate management."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Account Reconciliation",
+      "experience": 3
+    },
+    {
+      "skill": "Budgeting",
+      "experience": 3
+    },
+    {
+      "skill": "Internal Audits",
+      "experience": 3
+    },
+    {
+      "skill": "GAAP Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Journal Entries",
+      "experience": 3
+    },
+    {
+      "skill": "AP/AR Documentation",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 90,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting or Finance required. Master's degree a plus."
+    }
+  ]
+}

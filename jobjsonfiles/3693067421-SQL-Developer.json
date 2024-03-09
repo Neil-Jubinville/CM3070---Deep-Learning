@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "SQL Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "T-SQL",
+      "experience": 5
+    },
+    {
+      "skill": "SSIS",
+      "experience": 3
+    },
+    {
+      "skill": "SSRS",
+      "experience": 3
+    },
+    {
+      "skill": "Power BI",
+      "experience": 2
+    },
+    {
+      "skill": "DataBricks",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Write and optimize T-SQL stored procedures for efficient data processing and manipulation."
+    },
+    {
+      "duty": "Work with business partners to understand their requirements and translate them into effective SQL code and reports."
+    },
+    {
+      "duty": "Develop, maintain, and troubleshoot SSIS packages for data loading and integrity checks."
+    },
+    {
+      "duty": "Create and maintain SSRS reports to present and visualize data for internal stakeholders."
+    },
+    {
+      "duty": "Contribute to the transition from SSRS to Power BI by acquiring and applying skills in the new platform."
+    },
+    {
+      "duty": "Provide production support and BA work, collaborating with internal stakeholders to address SQL-related concerns and requirements."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Cardiothoracic Surgery Physician Assistant",
+      "job_category": "Medical",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 130000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cardiothoracic Surgery",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "Surgical Assisting",
+      "experience": 5
+    },
+    {
+      "skill": "Anesthesia",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Record Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Prescriptive Authority",
+      "experience": 5
+    },
+    {
+      "skill": "Board Certification",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist cardiothoracic surgeons in surgical procedures and provide patient care before, during, and after surgery."
+    },
+    {
+      "duty": "Participate in emergency medicine cases and provide support in critical care situations."
+    },
+    {
+      "duty": "Assist in surgical procedures, ensuring all necessary equipment, instruments, and supplies are available."
+    },
+    {
+      "duty": "Administer anesthesia and monitor patient vital signs during surgery."
+    },
+    {
+      "duty": "Maintain accurate and detailed medical records for each patient encounter."
+    },
+    {
+      "duty": "Exercise prescriptive authority as authorized within the scope of practice."
+    },
+    {
+      "duty": "Ensure board certification requirements are met and maintained."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Physician Assistant Studies or a related field (Master's preferred)"
+    }
+  ]
+}

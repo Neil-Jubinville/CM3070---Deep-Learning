@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Pest Control Technician",
+      "job_category": "Pest Control",
+      "job_class": "Technician",
+      "sector": "Service",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Pest Control",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 4
+    },
+    {
+      "skill": "Time Management",
+      "experience": 4
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Vehicle Operation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform pest control services at customer locations, ensuring the safe and effective application of company products."
+    },
+    {
+      "duty": "Build and maintain customer relationships, schedule appointments, and provide sales support to existing and potential customers."
+    },
+    {
+      "duty": "Operate and maintain company-provided vehicle and equipment to carry out pest control services effectively."
+    },
+    {
+      "duty": "Utilize state-of-the-art tools, technology, and communication skills to perform duties and interact with customers."
+    },
+    {
+      "duty": "Adhere to federal, state, and local regulations for pest control services, including the safe handling of products and maintenance of required licenses and certificates."
+    },
+    {
+      "duty": "Participate in training and onboarding programs to develop expertise in pest control and related services."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED; or one to three months related experience and/or training; or equivalent combination of education and experience."
+    },
+    {
+      "credential": "Valid driver\u2019s license."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. Application Engineer (OneLogin)",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 125000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "OneLogin Expertise",
+      "experience": 7
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "SSO Technology",
+      "experience": 7
+    },
+    {
+      "skill": "API/SAML Integration",
+      "experience": 7
+    },
+    {
+      "skill": "Splunk Administration",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Database Management",
+      "experience": 5
+    },
+    {
+      "skill": "Analytics and Data Security Reporting",
+      "experience": 7
+    },
+    {
+      "skill": "SharePoint Administration",
+      "experience": 5
+    },
+    {
+      "skill": "LDAPCP SharePoint",
+      "experience": 5
+    },
+    {
+      "skill": "Intranet and Extranet Architecting",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Serve as the company's OneLogin Expert, interfacing with internal DevOps and Development teams."
+    },
+    {
+      "duty": "Support and develop client integrations using OneLogin Trusted IDP."
+    },
+    {
+      "duty": "Assist internal development teams with implementing and supporting API/SAML connections to custom developed applications."
+    },
+    {
+      "duty": "Implement and manage application certificates, user security policies, and permissions for site users and ensure compliance with user/site security best practices."
+    },
+    {
+      "duty": "Maintain the firm\u2019s Splunk Cloud and on-premises platform and create connections from internal SQL database to feed data into Splunk."
+    },
+    {
+      "duty": "Design and build analytic and data security reporting/dashboarding using Splunk to provide insight into application usage, system health, and security."
+    },
+    {
+      "duty": "Assist the SharePoint support team with ad-hoc administration tasks when needed and act as LDAPCP SharePoint Subject Matter Expert for client extranets."
+    },
+    {
+      "duty": "Support the architecture for the firm\u2019s SharePoint extranets and intranet in partnership with the SharePoint support team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Certified Occupational Therapy Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Pediatric Experience",
+      "experience": 3
+    },
+    {
+      "skill": "School Certification",
+      "experience": 3
+    },
+    {
+      "skill": "Therapist Assistant Program",
+      "experience": 4
+    },
+    {
+      "skill": "Occupational Therapy",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide occupational therapy assistance to students in school-based settings."
+    },
+    {
+      "duty": "Support and collaborate with licensed Occupational Therapists in developing and implementing therapy plans."
+    },
+    {
+      "duty": "Maintain accurate documentation and reporting of therapy sessions and student progress."
+    },
+    {
+      "duty": "Participate in mentorship and growth opportunities to enhance professional development."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate from a Certified Occupational Therapist Assistant Program"
+    },
+    {
+      "credential": "Current license as a Certified Occupational Therapist Assistant in NJ"
+    },
+    {
+      "credential": "Pediatric Experience Preferred"
+    },
+    {
+      "credential": "School Certification Preferred"
+    }
+  ]
+}

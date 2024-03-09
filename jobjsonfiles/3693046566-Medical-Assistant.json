@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Certified Medical Assistant",
+      "experience": 2
+    },
+    {
+      "skill": "Phlebotomy",
+      "experience": 2
+    },
+    {
+      "skill": "CPR and First Aid",
+      "experience": 2
+    },
+    {
+      "skill": "Vaccine Administration",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 2
+    },
+    {
+      "skill": "Computer Skills (Microsoft Word, Outlook, Excel)",
+      "experience": 2
+    },
+    {
+      "skill": "Occupational Health Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Drug Testing Collection",
+      "experience": 2
+    },
+    {
+      "skill": "Knowledge of OSHA Regulations",
+      "experience": 2
+    },
+    {
+      "skill": "Workers' Compensation Provisions and FMLA",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide clinical occupational health and wellness services as per established guidelines."
+    },
+    {
+      "duty": "Assist with clerical services based on clinic needs."
+    },
+    {
+      "duty": "Conduct medical surveillance, vision testing, throat cultures, EKGs, and routine drug screens."
+    },
+    {
+      "duty": "Perform first aid, wound care, and medical emergency procedures."
+    },
+    {
+      "duty": "Maintain patient confidentiality and HIPAA compliance."
+    },
+    {
+      "duty": "Manage clinic records and provide administrative support."
+    },
+    {
+      "duty": "Conduct audits and compliance assessment related to occupational health."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    },
+    {
+      "credential": "Certified Medical Assistant/Medical Technician program"
+    },
+    {
+      "credential": "CPR and First Aid certification"
+    },
+    {
+      "credential": "Phlebotomy certification"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Waste Material Handler",
+      "job_category": "Labor",
+      "job_class": "Handler",
+      "sector": "Waste Management",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Forklift Operation",
+      "experience": 1
+    },
+    {
+      "skill": "HAZWOPER Certification",
+      "experience": 1
+    },
+    {
+      "skill": "Waste Management Compliance",
+      "experience": 1
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "OSHA Regulations",
+      "experience": 1
+    },
+    {
+      "skill": "Spill Cleanup",
+      "experience": 1
+    },
+    {
+      "skill": "Housekeeping",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Load and unload hazardous and nonhazardous waste materials in compliance with regulatory standards."
+    },
+    {
+      "duty": "Operate forklift and Bobcat with attachments for waste handling activities."
+    },
+    {
+      "duty": "Perform basic spill cleanup and housekeeping duties as directed."
+    },
+    {
+      "duty": "Utilize barcode system equipment to document inventory activities."
+    },
+    {
+      "duty": "Adhere to EPA, DOT, and OSHA regulations for waste management activities."
+    },
+    {
+      "duty": "Maintain a constant state of alertness and work in a safe manner at all times."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 20,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent required. 40-hour HAZWOPER certificate preferred."
+    }
+  ]
+}

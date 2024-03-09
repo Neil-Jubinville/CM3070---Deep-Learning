@@ -1,0 +1,50 @@
+{
+  "meta": [
+    {
+      "job_title": "Door Technician",
+      "job_category": "Skilled Trades",
+      "job_class": "Technician",
+      "sector": "Construction",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Pedestrian Door Installation",
+      "experience": 5
+    },
+    {
+      "skill": "Auto Door Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Overhead Door Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Lock Smithing",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Installation and maintenance of pedestrian doors, auto doors, and overhead doors."
+    },
+    {
+      "duty": "Specialize in lock smithing techniques for a variety of door types."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent (Certification in Door and Locksmithing preferred)"
+    }
+  ]
+}

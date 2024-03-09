@@ -1,0 +1,104 @@
+{
+  "meta": [
+    {
+      "job_title": "Database Administrator 3",
+      "job_category": "Information Technology",
+      "job_class": "Administrator",
+      "sector": "Software Engineering",
+      "salary": 115000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Database Management",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Performance Tuning",
+      "experience": 5
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Database Security",
+      "experience": 5
+    },
+    {
+      "skill": "Database Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle",
+      "experience": 5
+    },
+    {
+      "skill": "MSSQL",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "ITSM",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create and maintain production databases through coding and utility programs to monitor and enhance database performance."
+    },
+    {
+      "duty": "Direct and lead the team in making changes to the database management system."
+    },
+    {
+      "duty": "Evaluate, plan, and maintain integrated database systems, ensuring data integrity and control redundancy."
+    },
+    {
+      "duty": "Perform data modeling, security recovery procedures, and database search strategies."
+    },
+    {
+      "duty": "Implement, administer, and enhance database security, including disaster recovery procedures and systems."
+    },
+    {
+      "duty": "Manage and maintain large size databases, troubleshoot database software, and engage with software vendors for problem analysis and resolution."
+    },
+    {
+      "duty": "Configure and maintain a highly available database architecture, including Real Application Clusters (RAC) and Data Guard."
+    },
+    {
+      "duty": "Support migration of databases to cloud infrastructure, and assist in the selection of database management software."
+    },
+    {
+      "duty": "Provide support for building development and testing databases, and perform Database refreshes/clones."
+    },
+    {
+      "duty": "Set up infrastructure for databases in datacenters at multiple sites, and support migration of databases across different physical sites."
+    },
+    {
+      "duty": "Assist in benchmarking and threshold testing of databases, as well as with the installation, configuration, and patching of database software."
+    },
+    {
+      "duty": "Ensure compliance with accessibility standards for database administration and data input/output interfaces."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

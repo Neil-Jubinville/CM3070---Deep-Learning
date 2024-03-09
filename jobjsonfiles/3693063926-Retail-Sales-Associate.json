@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Retail Sales Associate",
+      "job_category": "Retail",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 28000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Management",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Retail Operations",
+      "experience": 3
+    },
+    {
+      "skill": "Point of Sale Systems",
+      "experience": 2
+    },
+    {
+      "skill": "Merchandising",
+      "experience": 3
+    },
+    {
+      "skill": "Omni Channel Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Selling Techniques",
+      "experience": 3
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Drive sales by providing an inspiring environment that motivates customers to make purchases."
+    },
+    {
+      "duty": "Deliver a consistent and exceptional sales floor experience for customers."
+    },
+    {
+      "duty": "Support sales floor, fitting room, point of sale, and operational processes, ensuring effective execution."
+    },
+    {
+      "duty": "Build rapport with customers, acknowledge their needs, and assist them in finding the right products."
+    },
+    {
+      "duty": "Onboard, train, and develop associates, ensuring a high level of performance and customer service."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent (Associate's degree preferred)"
+    }
+  ]
+}

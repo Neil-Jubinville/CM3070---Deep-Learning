@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Mechanical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Design",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Design",
+      "experience": 5
+    },
+    {
+      "skill": "Stress Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Component Sourcing",
+      "experience": 5
+    },
+    {
+      "skill": "Test Plan Design",
+      "experience": 5
+    },
+    {
+      "skill": "Product Improvement",
+      "experience": 5
+    },
+    {
+      "skill": "Process Adherence",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide engineering support on mechanical equipment."
+    },
+    {
+      "duty": "Conceptualize mechanical design solutions."
+    },
+    {
+      "duty": "Perform stress analysis on mechanical components/systems."
+    },
+    {
+      "duty": "Produce or check design layouts and detail drawings."
+    },
+    {
+      "duty": "Create tolerance studies and check design documentation."
+    },
+    {
+      "duty": "Research and specify purchased component parts."
+    },
+    {
+      "duty": "Design component and system level test plans and test fixtures"
+    },
+    {
+      "duty": "Generate engineering reports documenting design/analysis efforts and results."
+    },
+    {
+      "duty": "Identify product improvements."
+    },
+    {
+      "duty": "Comply with all company policies and procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 30
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science or MS Degree in Mechanical Engineering"
+    }
+  ]
+}

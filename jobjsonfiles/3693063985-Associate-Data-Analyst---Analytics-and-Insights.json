@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Associate Data Analyst - Analytics and Insights",
+      "job_category": "Data Analysis",
+      "job_class": "Associate",
+      "sector": "Analytics",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analysis",
+      "experience": 1
+    },
+    {
+      "skill": "Python",
+      "experience": 1
+    },
+    {
+      "skill": "SQL",
+      "experience": 1
+    },
+    {
+      "skill": "R",
+      "experience": 1
+    },
+    {
+      "skill": "PySpark",
+      "experience": 1
+    },
+    {
+      "skill": "Scala",
+      "experience": 1
+    },
+    {
+      "skill": "ETL Tools",
+      "experience": 1
+    },
+    {
+      "skill": "Tableau",
+      "experience": 1
+    },
+    {
+      "skill": "Hadoop",
+      "experience": 1
+    },
+    {
+      "skill": "Big Data Platforms",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with product and sales teams to bolster member experience, product launches, pilots, and ongoing product success."
+    },
+    {
+      "duty": "Utilize data-driven insights to enhance the usability of pharmacy benefits, ensuring an exceptional user experience."
+    },
+    {
+      "duty": "Partner closely with cross-functional teams to identify business challenges, establish performance benchmarks, and develop effective strategies."
+    },
+    {
+      "duty": "Employ analytics tools to analyze customer/prospect behaviors and key performance indicators, providing actionable recommendations."
+    },
+    {
+      "duty": "Elevate campaign performance through end-to-end A/B testing, encompassing ideation, design, monitoring, and reporting."
+    },
+    {
+      "duty": "Employ ETL tools to seamlessly combine diverse data sets across platforms for insightful analysis."
+    },
+    {
+      "duty": "Uncover valuable insights and potential areas for improvement by analyzing and extracting data."
+    },
+    {
+      "duty": "Leverage your expertise in HDFS data structures to optimize storage, retrieval times, and the application of analytics and data science."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Data Management, Computer Science, or a related field is required"
+    }
+  ]
+}

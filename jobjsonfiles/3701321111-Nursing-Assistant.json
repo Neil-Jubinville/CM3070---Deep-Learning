@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Nursing Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Emergency Care",
+      "experience": 1
+    },
+    {
+      "skill": "Documentation",
+      "experience": 1
+    },
+    {
+      "skill": "Healthcare Delivery",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Life Support (BLS)",
+      "experience": 1
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 1
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide routine direct and indirect patient care in a hospital, clinic, or home health care setting."
+    },
+    {
+      "duty": "Assist physicians and other healthcare providers with routine examinations and procedures."
+    },
+    {
+      "duty": "Procure equipment and supplies during emergency situations."
+    },
+    {
+      "duty": "Aid patients in reality orientation and behavior modification plans."
+    },
+    {
+      "duty": "Collect and document patient information and report significant changes in the patient's condition."
+    },
+    {
+      "duty": "Provide assistance to patients and their families during admission, orientation, and discharge."
+    },
+    {
+      "duty": "Provide care and treatments to patients as outlined in the plan of care."
+    },
+    {
+      "duty": "Provide direct personal care to patients for routine activities of daily living."
+    },
+    {
+      "duty": "Provide indirect care to patients and assigned areas."
+    },
+    {
+      "duty": "Reinforce routine teaching given to patients by the registered nurse or physician."
+    },
+    {
+      "duty": "Distribute patient education materials at the request of patients and/or healthcare providers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or GED"
+    },
+    {
+      "credential": "Listed as Nursing Assistant I with the North Carolina Department of Health and Human Services"
+    },
+    {
+      "credential": "Basic Life Support (BLS) for Healthcare Provider certification"
+    }
+  ]
+}

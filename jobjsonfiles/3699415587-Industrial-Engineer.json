@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Industrial Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Industrial Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Labor Management Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Supply Chain Management",
+      "experience": 4
+    },
+    {
+      "skill": "Process Simulation",
+      "experience": 4
+    },
+    {
+      "skill": "Union Management",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage the implementation of new and modified engineered labor standards in warehouse operations."
+    },
+    {
+      "duty": "Support regional projects in warehouse automation, slotting, facility layout, and transportation, recommending cost-effective solutions."
+    },
+    {
+      "duty": "Train warehouse and delivery staff in efficient work methods and process simulations before deploying new labor standards."
+    },
+    {
+      "duty": "Serve as a mentor and adviser to divisional personnel in work methods, labor standards, and efficiency techniques."
+    },
+    {
+      "duty": "Monitor and analyze warehouse and delivery operations to measure productivity metrics and identify opportunities for efficiencies."
+    },
+    {
+      "duty": "Maintain relations with vendors throughout the implementation process."
+    },
+    {
+      "duty": "Defend labor work methods and time standards in union audits and OSHA complaints."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Engineering, required (Industrial Engineering degree preferred)."
+    }
+  ]
+}

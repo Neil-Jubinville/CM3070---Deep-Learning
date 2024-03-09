@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Milieu Therapist",
+      "job_category": "Mental Health",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Child and Adolescent Therapy",
+      "experience": 3
+    },
+    {
+      "skill": "Therapeutic Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Multi-disciplinary Team Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Treatment Plan Development",
+      "experience": 3
+    },
+    {
+      "skill": "Safe and Therapeutic Environment Oversight",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and implement patient treatment plans in conjunction with the multi-disciplinary team."
+    },
+    {
+      "duty": "Lead therapeutic patient care activities and encourage patient participation in milieu activities and their treatment plan."
+    },
+    {
+      "duty": "Work collaboratively with the multidisciplinary team, providing oversight to ensure a safe and therapeutic environment for all patients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Four-year bachelor's degree in Psychology, Counseling, or related field."
+    }
+  ]
+}

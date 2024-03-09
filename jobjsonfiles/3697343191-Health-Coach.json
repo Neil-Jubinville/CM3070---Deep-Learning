@@ -1,0 +1,43 @@
+{
+  "meta": [
+    {
+      "job_title": "Health Coach",
+      "job_category": "Health and Wellness",
+      "job_class": "Coach",
+      "sector": "Health and Wellness",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Health Coaching",
+      "experience": 3
+    },
+    {
+      "skill": "Motivational Interviewing",
+      "experience": 3
+    },
+    {
+      "skill": "Working with Older Adults",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Offer support services to aging adults and their family caregivers"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certification in Health Coaching"
+    }
+  ]
+}

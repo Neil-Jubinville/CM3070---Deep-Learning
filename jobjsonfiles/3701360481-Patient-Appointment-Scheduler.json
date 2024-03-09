@@ -1,0 +1,43 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Appointment Scheduler",
+      "job_category": "Healthcare",
+      "job_class": "Scheduler",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Scheduling",
+      "experience": 1
+    },
+    {
+      "skill": "Billing Systems",
+      "experience": 1
+    },
+    {
+      "skill": "Insurance Knowledge",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Scheduling patient visits, pre-operative and/or diagnostic tests, and procedures for assigned areas of responsibility."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 0,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

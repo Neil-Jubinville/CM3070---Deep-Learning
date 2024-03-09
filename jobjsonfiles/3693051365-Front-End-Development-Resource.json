@@ -1,0 +1,138 @@
+{
+  "meta": [
+    {
+      "job_title": "Front End Development Resource",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Front End Development",
+      "experience": 5
+    },
+    {
+      "skill": "React.js",
+      "experience": 5
+    },
+    {
+      "skill": "TypeScript",
+      "experience": 5
+    },
+    {
+      "skill": "NextJS",
+      "experience": 5
+    },
+    {
+      "skill": "Redux",
+      "experience": 5
+    },
+    {
+      "skill": "API Routes",
+      "experience": 5
+    },
+    {
+      "skill": "Dynamic Routing",
+      "experience": 5
+    },
+    {
+      "skill": "Data Fetching",
+      "experience": 5
+    },
+    {
+      "skill": "RTK Queries",
+      "experience": 5
+    },
+    {
+      "skill": "Yarn/npm",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "HTML & CSS",
+      "experience": 5
+    },
+    {
+      "skill": "CSS-in-Js",
+      "experience": 5
+    },
+    {
+      "skill": "Tailwind CSS",
+      "experience": 5
+    },
+    {
+      "skill": "Jest",
+      "experience": 5
+    },
+    {
+      "skill": "Git",
+      "experience": 5
+    },
+    {
+      "skill": "Containerization",
+      "experience": 4
+    },
+    {
+      "skill": "Docker",
+      "experience": 4
+    },
+    {
+      "skill": "VS Code",
+      "experience": 5
+    },
+    {
+      "skill": "Visual Studio",
+      "experience": 5
+    },
+    {
+      "skill": "Postman",
+      "experience": 5
+    },
+    {
+      "skill": "Swagger",
+      "experience": 4
+    },
+    {
+      "skill": "ESlint",
+      "experience": 4
+    },
+    {
+      "skill": "Next.js CLI",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Must have strong experience in Front End Development with focus on React.js, TypeScript, NextJS, Redux, API Routes, Dynamic Routing, Data Fetching, and RTK Queries."
+    },
+    {
+      "duty": "Proficient with JavaScript, HTML, & CSS, and knowledgeable in various styling approaches like CSS-in-Js, Tailwind CSS, etc."
+    },
+    {
+      "duty": "Testing using Jest and hands-on experience with Git."
+    },
+    {
+      "duty": "Knowledge of containerization and Docker, along with familiarity with tools such as VS Code, Visual Studio, Postman, Swagger, ESlint, and Next.js CLI."
+    },
+    {
+      "duty": "Strong communication skills and the ability to work effectively in a remote environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ]
+}

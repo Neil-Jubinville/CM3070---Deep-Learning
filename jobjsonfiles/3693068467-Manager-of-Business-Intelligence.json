@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Manager of Business Intelligence",
+      "job_category": "Data Analysis",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 180000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analysis",
+      "experience": 8
+    },
+    {
+      "skill": "Business Intelligence",
+      "experience": 8
+    },
+    {
+      "skill": "SQL",
+      "experience": 8
+    },
+    {
+      "skill": "Tableau",
+      "experience": 8
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "R",
+      "experience": 5
+    },
+    {
+      "skill": "Statistics",
+      "experience": 8
+    },
+    {
+      "skill": "Data Warehousing",
+      "experience": 8
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 8
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build measurement architecture and metrics, developing reporting solutions using statistical analysis and programming languages such as R or Python."
+    },
+    {
+      "duty": "Support the launch of new products and programs for global customers."
+    },
+    {
+      "duty": "Dive deep in data to create insights using Tableau and AWS Quicksight."
+    },
+    {
+      "duty": "Drive business changes and invent new ways to look at data using machine learning models and experimentation."
+    },
+    {
+      "duty": "Partner with Data Engineers and Software Engineers to design products and systems to transform and store billions of data items using SQL, ETL, Data Warehouse solutions, and databases."
+    },
+    {
+      "duty": "Export and analyze data and work with senior leadership to understand customer behaviors, spot system defects, and benchmark our ability to serve our customers."
+    },
+    {
+      "duty": "Develop and maintain standard operating procedures for the business intelligence team and their interactions across the organization."
+    },
+    {
+      "duty": "Lead and manage a team of Business Intelligence engineers and business analysts."
+    },
+    {
+      "duty": "Serve as a senior SME and mentor for SQL and Tableau, including helping teams become more self-sufficient with scripted requests."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in Statistics, Applied Mathematics, Econometrics, Analytics, Computer Science, Operations Research, Engineering, closely related field or equivalent experience"
+    }
+  ]
+}

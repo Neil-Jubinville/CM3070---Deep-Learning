@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Property Management",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical and Mechanical Work",
+      "experience": 2
+    },
+    {
+      "skill": "Resident Service",
+      "experience": 3
+    },
+    {
+      "skill": "Apartment Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Maintenance Request Diagnosis",
+      "experience": 3
+    },
+    {
+      "skill": "Building and Grounds Inspection",
+      "experience": 3
+    },
+    {
+      "skill": "Vendor Scheduling",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform technical and mechanical work to ensure buildings, grounds, and common areas meet cleanliness, appearance, safety, and functionality standards."
+    },
+    {
+      "duty": "Assist and complete work orders from resident requests, diagnose defects or problems, and make repairs according to policy and safety standards."
+    },
+    {
+      "duty": "Oversee and complete the 'make-ready' process for vacant apartment homes, including pre-move-out inspection, scheduling vendors, obtaining supplies, and inspecting completed work."
+    },
+    {
+      "duty": "Develop standards for the cleanliness and appearance of the community, amenities, building exteriors, and common areas to reflect high quality."
+    },
+    {
+      "duty": "Inspect work performed by team members, contractors, and vendors to assess effectiveness and quality, as well as maintain inventory of maintenance materials."
+    },
+    {
+      "duty": "Conduct safety meetings, ensure safety compliance, and demonstrate customer service skills in addressing resident and team questions and complaints."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Vocational training or Associate's degree in a related field (e.g., Maintenance, Construction, Engineering)"
+    }
+  ]
+}

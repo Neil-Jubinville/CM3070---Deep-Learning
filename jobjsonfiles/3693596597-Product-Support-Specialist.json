@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Product Support Specialist",
+      "job_category": "Customer Support",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 52000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Support",
+      "experience": 3
+    },
+    {
+      "skill": "Salesforce",
+      "experience": 3
+    },
+    {
+      "skill": "Intercom",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide first-line support to users, ensuring a positive experience with the Foureyes platform."
+    },
+    {
+      "duty": "Master the Foureyes platform and provide technical support for other key infrastructure technologies such as Salesforce and Intercom."
+    },
+    {
+      "duty": "Analyze user challenges and make recommendations to enhance their experience."
+    },
+    {
+      "duty": "Manage the setup of Foureyes accounts, ensuring correctness and optimization for user needs."
+    },
+    {
+      "duty": "Monitor and report on performance metrics, including ticket response times, loads, and customer satisfaction."
+    },
+    {
+      "duty": "Act as a key resource for customer and internal stakeholder technical support needs."
+    },
+    {
+      "duty": "Maintain and manage reports and systems to ensure smooth operation of products for clients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree or equivalent work experience. 2+ years of experience in product/customer support preferred. Experience working for a SaaS company or within a technical team preferred. Experience working with large data sets preferred."
+    }
+  ]
+}

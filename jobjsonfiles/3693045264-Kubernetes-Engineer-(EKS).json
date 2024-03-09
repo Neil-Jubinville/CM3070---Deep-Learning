@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Kubernetes Engineer (EKS)",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Kubernetes Platform Implementation",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Cloud Deployment",
+      "experience": 5
+    },
+    {
+      "skill": "Container Orchestration",
+      "experience": 5
+    },
+    {
+      "skill": "Docker",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD Pipeline",
+      "experience": 5
+    },
+    {
+      "skill": "Software Engineering (Golang, Python, Java)",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes Network Policies",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes CRDs",
+      "experience": 5
+    },
+    {
+      "skill": "Helm Charts and Kustomize Templates",
+      "experience": 5
+    },
+    {
+      "skill": "Kyverno Policies",
+      "experience": 5
+    },
+    {
+      "skill": "ArgoCD Operations",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Improve and maintain the platform\u2019s core capabilities and service levels"
+    },
+    {
+      "duty": "Improve and maintain the platform\u2019s monitoring and alerting systems"
+    },
+    {
+      "duty": "Improve and maintain the platform\u2019s security posture"
+    },
+    {
+      "duty": "Troubleshoot platform issues and solve problems where needed"
+    },
+    {
+      "duty": "Leverage Agile methodology for the development and release of software"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Engineering, Computer Science, or related technical field (Master's preferred)"
+    }
+  ]
+}

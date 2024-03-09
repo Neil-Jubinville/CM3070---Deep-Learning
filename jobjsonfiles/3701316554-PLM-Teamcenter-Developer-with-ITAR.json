@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "PLM Teamcenter Developer with ITAR",
+      "job_category": "Software Development",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "PLM-Teamcenter Application",
+      "experience": 10
+    },
+    {
+      "skill": "ITAR Compliance",
+      "experience": 10
+    },
+    {
+      "skill": "Data Cleansing",
+      "experience": 8
+    },
+    {
+      "skill": "ETL",
+      "experience": 8
+    },
+    {
+      "skill": "Data Model Assessment",
+      "experience": 8
+    },
+    {
+      "skill": "Environment Rollback",
+      "experience": 8
+    },
+    {
+      "skill": "Data Identification",
+      "experience": 8
+    },
+    {
+      "skill": "Siemens Site Consolidation Toolset",
+      "experience": 8
+    },
+    {
+      "skill": "Technical Resource Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Reorganize data from Teamcenter instances hosted in the US, including non-Production and Production environments."
+    },
+    {
+      "duty": "Ensure ITAR/UKML clearance for technical resources working directly with the data."
+    },
+    {
+      "duty": "Perform data identification, cleansing, and model assessment."
+    },
+    {
+      "duty": "Manage Teamcenter volume, perform ETL cycles, and environment rollback."
+    },
+    {
+      "duty": "Generate reports and queries to validate data reorganization."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Information Technology or related field (Master's preferred)"
+    }
+  ]
+}

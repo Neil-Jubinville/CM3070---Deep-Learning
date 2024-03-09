@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "RN",
+      "sector": "Healthcare",
+      "salary": 47000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Compassionate Care",
+      "experience": 3
+    },
+    {
+      "skill": "Clinical Assessment",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Advocacy",
+      "experience": 3
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 3
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Physical Stamina",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide compassionate care and clinical assessment to patients in the adult acute or critical care float pools."
+    },
+    {
+      "duty": "Collaborate with interdisciplinary teams and advocate for patient needs."
+    },
+    {
+      "duty": "Administer medications and ensure accurate documentation of patient care."
+    },
+    {
+      "duty": "Maintain physical stamina to meet the demands of standing for prolonged periods and lifting heavy weights."
+    },
+    {
+      "duty": "Demonstrate critical thinking and team collaboration in fast-paced, high-pressure situations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited nursing program. Bachelor of Science in Nursing required within 5 years of hire."
+    }
+  ]
+}

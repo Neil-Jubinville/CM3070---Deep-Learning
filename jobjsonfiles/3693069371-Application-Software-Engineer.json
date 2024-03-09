@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Application Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C++",
+      "experience": 5
+    },
+    {
+      "skill": "MS Visual Studio",
+      "experience": 5
+    },
+    {
+      "skill": "Embedded Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Source Control Management",
+      "experience": 5
+    },
+    {
+      "skill": "Validation and Usability Studies",
+      "experience": 5
+    },
+    {
+      "skill": "Software Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Requirements Specification",
+      "experience": 5
+    },
+    {
+      "skill": "Continuous Improvement",
+      "experience": 5
+    },
+    {
+      "skill": "Software Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Software Requirements Specification",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop embedded software using C++ and MS Visual Studio per design of the software for next generation electronic control units."
+    },
+    {
+      "duty": "Manage the source control and controlled release of software models to maintain schedule, budget, and functionality for projects."
+    },
+    {
+      "duty": "Participate in the planning and tracking of validation and usability studies of vehicle software module functionality."
+    },
+    {
+      "duty": "Test and implement software modifications to repair defects discovered during validation and test."
+    },
+    {
+      "duty": "Lead reviews to ensure industry leading embedded software development best practices are met with software models and modules."
+    },
+    {
+      "duty": "Work with vehicle property owners, product developers, system architects, and software architects to develop and maintain software-level technical requirements specifications."
+    },
+    {
+      "duty": "Contribute to development of procedures and practices that ensure continuous improvement of high quality, reliable software systems."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science in Software Engineering, Computer Science, Computer Engineering, or equivalent required"
+    }
+  ]
+}

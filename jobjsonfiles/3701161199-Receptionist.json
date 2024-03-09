@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Receptionist",
+      "job_category": "Administrative",
+      "job_class": "Support",
+      "sector": "Medical",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Appointment Management",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Front Desk Operations",
+      "experience": 2
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Multi-tasking",
+      "experience": 2
+    },
+    {
+      "skill": "Phone Etiquette",
+      "experience": 2
+    },
+    {
+      "skill": "Veterinary Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Organization",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greet clients and their pets and complete the appointment sign-in process."
+    },
+    {
+      "duty": "Assist clients with check-out, ensuring services and product sales are correctly accounted."
+    },
+    {
+      "duty": "Answer phone calls from clients and make outbound phone calls to remind clients of upcoming appointments."
+    },
+    {
+      "duty": "Understand common vaccination protocols, basic lab tests, common diseases, veterinary terminology, and pet behavior."
+    },
+    {
+      "duty": "Assist in cleanliness and maintenance of the hospital to ensure a great client experience."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "1+ years of front desk experience, medical or veterinary field preferred"
+    }
+  ]
+}

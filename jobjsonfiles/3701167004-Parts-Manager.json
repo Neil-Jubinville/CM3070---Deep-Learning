@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Parts Manager",
+      "job_category": "Parts",
+      "job_class": "Manager",
+      "sector": "Automotive",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Order Processing",
+      "experience": 3
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage parts area including answering phone calls and assisting in-store customers."
+    },
+    {
+      "duty": "Order parts for repair and warranty of boats."
+    },
+    {
+      "duty": "Enter and manage warranty claims."
+    },
+    {
+      "duty": "Adapt duties according to seasonal variations in business."
+    },
+    {
+      "duty": "Create a positive work environment for team members."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED (Bachelor's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Associate Telecommunications Engineer",
+      "job_category": "Telecommunications",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Network Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "MPLS Design",
+      "experience": 5
+    },
+    {
+      "skill": "Nokia Router Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "Cisco Router Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "Ethernet Switch Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "Firewall Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "MPLS Technology",
+      "experience": 5
+    },
+    {
+      "skill": "TCP/IP",
+      "experience": 5
+    },
+    {
+      "skill": "Network Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Telecom Circuit Provisioning",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide comprehensive engineering services for the California Public Safety Microwave Network (CAPSNET) system."
+    },
+    {
+      "duty": "Ensure that engineering services for CAPSNET meet critical operational state requirements."
+    },
+    {
+      "duty": "Configure and troubleshoot Nokia and Cisco routers, Ethernet switches, and Firewalls."
+    },
+    {
+      "duty": "Design and implement MPLS network, including L2/L3 VPN and traffic engineering."
+    },
+    {
+      "duty": "Analyze and troubleshoot network issues, including TCP/IP, RIP, EIGRP, BGP, OSPF, and telecom circuit provisioning."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Network Engineering, Telecom Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

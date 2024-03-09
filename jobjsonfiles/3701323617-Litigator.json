@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Litigator",
+      "job_category": "Legal",
+      "job_class": "Litigation",
+      "sector": "Legal",
+      "salary": 150000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Litigation",
+      "experience": 3
+    },
+    {
+      "skill": "Legal Research",
+      "experience": 3
+    },
+    {
+      "skill": "Courtroom Advocacy",
+      "experience": 3
+    },
+    {
+      "skill": "Arbitration",
+      "experience": 3
+    },
+    {
+      "skill": "Legal Writing",
+      "experience": 3
+    },
+    {
+      "skill": "Communications",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Handle complex litigation and arbitration cases in areas such as FINRA, financial services, securities, and labor law."
+    },
+    {
+      "duty": "Conduct legal research, draft legal documents, and advocate in state and federal courts."
+    },
+    {
+      "duty": "Provide strong communication skills for client representation and negotiation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "JD from an ABA accredited law school. Admission to the California bar."
+    }
+  ]
+}

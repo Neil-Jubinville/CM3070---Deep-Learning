@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 70000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Source new sales opportunities through inbound lead follow-up and outbound cold calls and emails"
+    },
+    {
+      "duty": "Prospect call preparation including company background research and other pertinent lead information"
+    },
+    {
+      "duty": "Identify customer's buying trends and provide reports to management"
+    },
+    {
+      "duty": "Enter, update, and maintain CRM information on leads, prospects, and opportunities"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Relationship Management (CRM)",
+      "experience": 2
+    },
+    {
+      "skill": "Lead Generation",
+      "experience": 3
+    },
+    {
+      "skill": "Cold Calling",
+      "experience": 2
+    },
+    {
+      "skill": "Prospecting",
+      "experience": 3
+    },
+    {
+      "skill": "Qualifying Leads",
+      "experience": 3
+    },
+    {
+      "skill": "Closing Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Organization",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent experience in Business"
+    }
+  ]
+}

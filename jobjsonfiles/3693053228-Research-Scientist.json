@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Research Scientist",
+      "job_category": "Research",
+      "job_class": "Scientist",
+      "sector": "Science",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Multi-parameter flow cytometry",
+      "experience": 3
+    },
+    {
+      "skill": "Mammalian cell culture",
+      "experience": 5
+    },
+    {
+      "skill": "Molecular and cellular technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Cell-based assays",
+      "experience": 5
+    },
+    {
+      "skill": "CRISPR/Cas9 knock-in/out",
+      "experience": 5
+    },
+    {
+      "skill": "IncuCyte, JESS, Flow based cell sorter",
+      "experience": 3
+    },
+    {
+      "skill": "ELISA, MSD",
+      "experience": 3
+    },
+    {
+      "skill": "Scientific data analysis programs",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    },
+    {
+      "skill": "Written and verbal communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and conduct essential mechanistic experiments in cell biology, cellular biochemistry, molecular biology, and assay development."
+    },
+    {
+      "duty": "Develop and implement cell-based assays to address tumor intrinsic cellular biology and immune-based mechanisms of action for potential drug candidates."
+    },
+    {
+      "duty": "Accurately maintain written reports and present results in an organized and timely manner."
+    },
+    {
+      "duty": "Utilize and develop multiple disease models to design target validation studies and relevant assays."
+    },
+    {
+      "duty": "Communicate effectively, foster teamwork, and contribute to collaborative efforts."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Ph.D. in cell biology, immunology, molecular biology, or equivalent field with 0-2 years of post-doc or industry experience, or M.S. degree with 3+ years of experience, or Bachelor\u2019s degree with 5+ years of experience in the biopharmaceutical industry developing and optimizing cell-based assays, preferably in Oncology"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Automation Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "TestComplete",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 6
+    },
+    {
+      "skill": "Automation",
+      "experience": 6
+    },
+    {
+      "skill": "Technical Knowledge",
+      "experience": 7
+    },
+    {
+      "skill": "Software Testing",
+      "experience": 7
+    },
+    {
+      "skill": "In-depth Analysis",
+      "experience": 6
+    },
+    {
+      "skill": "Web Technology",
+      "experience": 7
+    },
+    {
+      "skill": "SQL and Databases",
+      "experience": 5
+    },
+    {
+      "skill": "Defect Management",
+      "experience": 6
+    },
+    {
+      "skill": "Source Control",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and implement test strategies for web-based applications."
+    },
+    {
+      "duty": "Analyze and develop complex test scripts and test plans for software testing."
+    },
+    {
+      "duty": "Execute systems, integration, and regression testing of software."
+    },
+    {
+      "duty": "Review software documentation for technical accuracy and compliance."
+    },
+    {
+      "duty": "Develop new UI automation tests using Test Complete."
+    },
+    {
+      "duty": "Identify testability requirements and ensure test results are documented and evaluated."
+    },
+    {
+      "duty": "Collaborate with automation team to improve automation framework and best practices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or relevant field (Master's preferred)"
+    }
+  ]
+}

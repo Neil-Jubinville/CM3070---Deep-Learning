@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Assembler I",
+      "job_category": "Manufacturing",
+      "job_class": "Assembler",
+      "sector": "Manufacturing",
+      "salary": 38500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Assembly",
+      "experience": 2
+    },
+    {
+      "skill": "Hydraulics",
+      "experience": 2
+    },
+    {
+      "skill": "Pneumatics",
+      "experience": 2
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 2
+    },
+    {
+      "skill": "AS9100",
+      "experience": 2
+    },
+    {
+      "skill": "Clean Room Techniques",
+      "experience": 2
+    },
+    {
+      "skill": "Soldering",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform mechanical assembly, fitting, aligning, or adjusting of components to close tolerance"
+    },
+    {
+      "duty": "Troubleshooting, tear down analysis, and rework operations"
+    },
+    {
+      "duty": "Marking operations using machines, hand stamp, and electro etching equipment"
+    },
+    {
+      "duty": "Read and interpret detailed blueprints, procedures, and assembly sketches"
+    },
+    {
+      "duty": "Perform moderate trouble shooting with minimal supervision"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Graduate or GED equivalent"
+    }
+  ]
+}

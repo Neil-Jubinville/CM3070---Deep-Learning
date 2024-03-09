@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Engineering",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Engineering Design",
+      "experience": 5
+    },
+    {
+      "skill": "Construction Management",
+      "experience": 5
+    },
+    {
+      "skill": "Facilities Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Code Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, plan, and oversee the construction and maintenance of buildings and other structures."
+    },
+    {
+      "duty": "Work with other unit members on multi-disciplinary design teams in support of capital improvement projects."
+    },
+    {
+      "duty": "Perform design reviews, code analysis, etc. that construct or upgrade facilities and site infrastructure through the design phase."
+    },
+    {
+      "duty": "Procurement phase, and execution (e.g., construction support/oversight and commissioning of buildings and/or systems)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Architecture degree from an accredited college or university and more than five years of experience."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Pharmacy Technician",
+      "job_category": "Pharmacy",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Prescription Processing",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Pharmacy Operations",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Enter prescription information and process new and refill prescriptions, including insurance billing and documentation."
+    },
+    {
+      "duty": "Retrieve medication and create prescription labels."
+    },
+    {
+      "duty": "Assist in inventory management processes and maintaining the Pharmacy department."
+    },
+    {
+      "duty": "Administer Rite Aid programs and assist with customer and prescription data entry."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "H.S. Diploma or General Education Degree (GED) required"
+    }
+  ]
+}

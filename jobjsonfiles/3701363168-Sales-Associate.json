@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 16000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "Sales Performance",
+      "experience": 3
+    },
+    {
+      "skill": "Tech Savvy",
+      "experience": 3
+    },
+    {
+      "skill": "Physical Fitness",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Drive sales by exceeding selling and service expectations."
+    },
+    {
+      "duty": "Complete training, use product knowledge tools, participate in fit sessions and put those experiences to use."
+    },
+    {
+      "duty": "Assist in store tasks\u2014our customers should always see us at our best."
+    },
+    {
+      "duty": "Share feedback, insights and ideas with the management team."
+    },
+    {
+      "duty": "Act in a manner that aligns with the company's values."
+    },
+    {
+      "duty": "Make the best first impression\u2014smile, welcome and connect with customers authentically."
+    },
+    {
+      "duty": "Love the brand and have a great fashion aesthetic."
+    },
+    {
+      "duty": "Do what it takes to create seamless, amazing experiences customers can\u2019t stop talking about."
+    },
+    {
+      "duty": "Bring your best to everything you do and achieve your goals."
+    },
+    {
+      "duty": "Are flexible, and ready to have fun along the way."
+    },
+    {
+      "duty": "Leverage technology, while also knowing that devices don\u2019t dominate the dialogue."
+    },
+    {
+      "duty": "Build productive relationships with everyone on the team and always respect each other."
+    },
+    {
+      "duty": "Can regularly move around all store areas and be accessible to customers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

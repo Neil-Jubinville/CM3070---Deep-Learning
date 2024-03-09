@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Production Operator",
+      "job_category": "Manufacturing",
+      "job_class": "Operator",
+      "sector": "Manufacturing",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food Manufacturing",
+      "experience": 1
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 1
+    },
+    {
+      "skill": "Sanitation Management",
+      "experience": 1
+    },
+    {
+      "skill": "Math Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Technical Skills",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Safe and efficient operation of production equipment"
+    },
+    {
+      "duty": "Perform routine equipment adjustments"
+    },
+    {
+      "duty": "Ability to work in a wet environment"
+    },
+    {
+      "duty": "Ability to work safe and in a sanitary manner"
+    },
+    {
+      "duty": "Ability to maintain good sanitation and housekeeping practices"
+    },
+    {
+      "duty": "Perform environmental controls"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

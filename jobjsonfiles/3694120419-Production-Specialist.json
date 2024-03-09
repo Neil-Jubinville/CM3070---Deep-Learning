@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Production Specialist",
+      "job_category": "Manufacturing",
+      "job_class": "Specialist",
+      "sector": "Manufacturing",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Production Processes",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 5
+    },
+    {
+      "skill": "Material Handling",
+      "experience": 5
+    },
+    {
+      "skill": "Process Improvement",
+      "experience": 5
+    },
+    {
+      "skill": "Training",
+      "experience": 5
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develops, maintains, and improves production processes within area of responsibility."
+    },
+    {
+      "duty": "Drives production schedules and process related problems to closure."
+    },
+    {
+      "duty": "Assists in the compliance of safety regulations and material handling instructions."
+    },
+    {
+      "duty": "Fills out necessary paperwork and notifies supervisor about material surpluses, shortages, or damages."
+    },
+    {
+      "duty": "Participate in Kaizens and meetings when needed."
+    },
+    {
+      "duty": "Trains Production Specialists 1 and 2 on a variety of manufacturing processes and procedures."
+    },
+    {
+      "duty": "Reviews process steps to reduce inefficiencies."
+    },
+    {
+      "duty": "Collaborates with Quality Engineers on process improvements, monitoring tools, identifying root causes, and corrective actions."
+    },
+    {
+      "duty": "Assists operators by answering questions and demonstrating operations."
+    },
+    {
+      "duty": "Assists in performing preventative maintenance and minor repair work on production machinery."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Manufacturing, Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

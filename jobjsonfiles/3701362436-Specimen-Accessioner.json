@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Specimen Accessioner",
+      "job_category": "Healthcare",
+      "job_class": "Lab Technician",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Sample Sorting",
+      "experience": 2
+    },
+    {
+      "skill": "Biological Specimen Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 2
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 2
+    },
+    {
+      "skill": "MS Office",
+      "experience": 2
+    },
+    {
+      "skill": "Laboratory Specimen Preparation",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform clinical specimen accessioning, sample sorting, and data entry according to established procedures."
+    },
+    {
+      "duty": "Prepare laboratory specimens for analysis and testing, ensuring accurate identification and labeling."
+    },
+    {
+      "duty": "Pack and ship specimens to proper testing facilities and resolve any problem specimens."
+    },
+    {
+      "duty": "Meet department activity and production goals and maintain proper specimen sample storage."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

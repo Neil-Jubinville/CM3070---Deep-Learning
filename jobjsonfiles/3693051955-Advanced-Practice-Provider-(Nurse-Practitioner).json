@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Advanced Practice Provider (Nurse Practitioner)",
+      "job_category": "Healthcare",
+      "job_class": "Mid-Level",
+      "sector": "Healthcare",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Primary Care",
+      "experience": 5
+    },
+    {
+      "skill": "Urgent Care",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Holistic Care",
+      "experience": 5
+    },
+    {
+      "skill": "Patient-specific Medical Care",
+      "experience": 5
+    },
+    {
+      "skill": "Sub-Acute Care",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide primary and urgent care services to nursing center residents."
+    },
+    {
+      "duty": "Collaborate with skilled nursing center leadership to meet specific clinical goals and priorities."
+    },
+    {
+      "duty": "Work with Medical Directors and/or Attending Physicians for patient-specific medical care."
+    },
+    {
+      "duty": "Handle hospitalist acuity in a sub-acute environment and complete the plan of care initiated in the hospital."
+    },
+    {
+      "duty": "Address complex medical comorbidities as part of the care team."
+    },
+    {
+      "duty": "Play an integral role in changing effective healthcare delivery and restorative patient care."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate from an accredited School of Nursing program"
+    }
+  ]
+}

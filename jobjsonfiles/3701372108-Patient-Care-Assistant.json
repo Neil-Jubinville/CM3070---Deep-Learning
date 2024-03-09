@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Care Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "EMT Training",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Assistance",
+      "experience": 1
+    },
+    {
+      "skill": "Clinical Laboratory Testing",
+      "experience": 2
+    },
+    {
+      "skill": "Phlebotomy",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Life Support (BLS)",
+      "experience": 1
+    },
+    {
+      "skill": "Healthcare Administration",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in preparing patients for examinations and diagnostic procedures as per clinic procedures, including recording vital signs and medical history."
+    },
+    {
+      "duty": "Perform clinical laboratory tests as identified by the department and report results to the appropriate personnel."
+    },
+    {
+      "duty": "Assist in routine clerical functions such as filing medical information, scheduling appointments, and obtaining medical records."
+    },
+    {
+      "duty": "Attend and complete mandatory education, including infection prevention and control, safety, CPR, equipment usage, and procedures according to hospital and department policies."
+    },
+    {
+      "duty": "Monitor and clean assigned patient examination rooms, unit areas, and equipment, reporting outdated supplies and necessary equipment repairs."
+    },
+    {
+      "duty": "Assist with patient phlebotomy in accordance with clinic procedures and physician orders after specialized training."
+    },
+    {
+      "duty": "May assist inpatient and family education by providing educational material and general health information to patients and family members."
+    },
+    {
+      "duty": "Perform IV access and other duties based on department assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Verifiable Completion of State-approved EMT course, Medical Assisting education program, or University Hospital Medical Assistant certification program. Current RQI Healthcare Provider eCredential through the University of Utah Health RQI system. Additional license requirements as determined by the hiring department."
+    }
+  ]
+}

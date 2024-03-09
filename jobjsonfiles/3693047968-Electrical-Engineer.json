@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Engineering",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "PLC programming",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Database Systems",
+      "experience": 5
+    },
+    {
+      "skill": "AutoCAD",
+      "experience": 5
+    },
+    {
+      "skill": "Wonderware Application Programming",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Providing electrical engineering and technical assistance to the manufacturing plant in terms of equipment, maintenance, and production processes and systems."
+    },
+    {
+      "duty": "Managing the plant capital budget."
+    },
+    {
+      "duty": "Participating in identifying and resolving common cause and special cause electrical issues that impact plant reliability and performance."
+    },
+    {
+      "duty": "Making preliminary concepts and budgetary capital estimates for new electrical products, projects, and improvements."
+    },
+    {
+      "duty": "Coordinating training and start-up activities of new equipment and processes."
+    },
+    {
+      "duty": "Providing status updates on project progress and issues."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electrical Engineering"
+    }
+  ]
+}

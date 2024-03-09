@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Operating Room Tech",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sterile Supply Preparation",
+      "experience": 5
+    },
+    {
+      "skill": "Instrument Sterilization",
+      "experience": 5
+    },
+    {
+      "skill": "Surgeon Support",
+      "experience": 5
+    },
+    {
+      "skill": "OR Scrubbing",
+      "experience": 5
+    },
+    {
+      "skill": "Surgical Specialty Experience",
+      "experience": 5
+    },
+    {
+      "skill": "BLS Certification",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare sterile supplies and instruments for each assigned procedure."
+    },
+    {
+      "duty": "Maintain sterile field during the surgical procedure."
+    },
+    {
+      "duty": "Provide surgeon with sterile supplies and instruments during assigned procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 140,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or Equivalent, Graduate of an ORT training program, or on-the-job training with a minimum of 3 years experience in a surgical setting."
+    }
+  ]
+}

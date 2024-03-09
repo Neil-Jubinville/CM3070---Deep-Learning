@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Driver / Field Service Representative",
+      "job_category": "Operations",
+      "job_class": "Representative",
+      "sector": "Healthcare",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Delivery Preparation",
+      "experience": 2
+    },
+    {
+      "skill": "Driving",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Documentation Management",
+      "experience": 2
+    },
+    {
+      "skill": "Cleaning and Disinfection",
+      "experience": 2
+    },
+    {
+      "skill": "Log Reporting",
+      "experience": 2
+    },
+    {
+      "skill": "Physical Stamina",
+      "experience": 2
+    },
+    {
+      "skill": "Use of Solvents",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare medical equipment and documentation for delivery"
+    },
+    {
+      "duty": "Load and unload medical equipment"
+    },
+    {
+      "duty": "Drive 24 foot cargo van to make deliveries and pick-ups"
+    },
+    {
+      "duty": "Process delivery and pick-up documentation as required"
+    },
+    {
+      "duty": "Search for equipment that has been misplaced or lost"
+    },
+    {
+      "duty": "Maintain vehicle appearance by ensuring all routine vehicle maintenance is completed and records maintained"
+    },
+    {
+      "duty": "Clean and disinfect medical equipment to Arjo quality standards"
+    },
+    {
+      "duty": "Present highest level of customer etiquette in all patient/customer interactions"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Azure Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C#/.NET Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Functions",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Logic App",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Event Hub/Event Grid",
+      "experience": 5
+    },
+    {
+      "skill": "Stream Analytics",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Data Factory",
+      "experience": 5
+    },
+    {
+      "skill": "ETL Tools",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 5
+    },
+    {
+      "skill": "NoSQL Databases",
+      "experience": 5
+    },
+    {
+      "skill": "Cosmos DB",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Configure Azure Functions using various protocols and triggers"
+    },
+    {
+      "duty": "Configure Azure Event Hub, Event Grid, Stream Analytics, and logic/function apps, and JSON"
+    },
+    {
+      "duty": "Utilize Python, Databricks, and Azure Data Factory for data processing and transformation"
+    },
+    {
+      "duty": "Use ETL tools and techniques with knowledge of CI/CD for development and deployment"
+    },
+    {
+      "duty": "Expertise in cloud NoSQL databases, preferably Cosmos DB or equivalent"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ]
+}

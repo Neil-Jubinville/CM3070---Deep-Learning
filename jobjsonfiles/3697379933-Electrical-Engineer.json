@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Engineering",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Design",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Project Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Equipment Specification",
+      "experience": 5
+    },
+    {
+      "skill": "Lighting and Control Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate and work with engineers and designers to prepare electrical plans and specifications."
+    },
+    {
+      "duty": "Perform detailed design, modeling, and analysis of normal and emergency power distribution systems."
+    },
+    {
+      "duty": "Specify electrical equipment including transformers, switchboards, panelboards, overcurrent protective devices, conductors, raceway, motors, and variable frequency drives."
+    },
+    {
+      "duty": "Model lighting and associated control systems."
+    },
+    {
+      "duty": "Establish schedules and provide regular maintenance of design schedules."
+    },
+    {
+      "duty": "Prepare project documentation including electrical equipment layouts and schedules, site plans, one-line diagrams, grounding diagrams, lighting plans, life safety fire alarm plans, telecom and security plans, installation details, diagrams and schematics, construction specifications and other documentation as required to clearly direct the work of electrical contractors."
+    },
+    {
+      "duty": "Meet with clients."
+    },
+    {
+      "duty": "Mentor junior design staff and provide technical guidance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Electrical Engineering from an accredited college or university."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineer II",
+      "job_category": "Data Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "ETL Tools",
+      "experience": 5
+    },
+    {
+      "skill": "BI Tools",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage the full lifecycle of data warehousing needs using Amazon Web Services."
+    },
+    {
+      "duty": "Contribute to the day-to-day operations of running the Data Warehouse."
+    },
+    {
+      "duty": "Build data pipelines and ETLs for loading source system data into the data warehouse for reporting and analysis."
+    },
+    {
+      "duty": "Assist in building scalable data models to support reporting and tracking of key business and product metrics."
+    },
+    {
+      "duty": "Build, analyze, and manage reports and dashboards for business stakeholders."
+    },
+    {
+      "duty": "Identify better practices, tools, and relevant trends that influence data operations across the business."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": []
+}

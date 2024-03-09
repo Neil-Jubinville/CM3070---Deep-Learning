@@ -1,0 +1,102 @@
+{
+  "meta": [
+    {
+      "job_title": "Security Engineer",
+      "job_category": "Cyber Security",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Penetration Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Security Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Network and Application Security",
+      "experience": 5
+    },
+    {
+      "skill": "OWASP",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Security",
+      "experience": 5
+    },
+    {
+      "skill": "Cybersecurity Certification",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform tests on applications, networks, and cloud infrastructures"
+    },
+    {
+      "duty": "Research and experiment different types of attacks"
+    },
+    {
+      "duty": "Develop methodologies for penetration testing"
+    },
+    {
+      "duty": "Review code for security vulnerabilities"
+    },
+    {
+      "duty": "Document detailed steps of your approach and execution along with all evidence of findings"
+    },
+    {
+      "duty": "Automate common testing techniques to improve efficiency"
+    },
+    {
+      "duty": "Determine solutions which can be implemented within the Blackbaud environment and technologies"
+    },
+    {
+      "duty": "Write technical reports which also include executive level summaries"
+    },
+    {
+      "duty": "Communicate findings to both technical staff and leadership"
+    },
+    {
+      "duty": "Validate security improvements with additional testing"
+    },
+    {
+      "duty": "Stay current with emerging threat trends"
+    },
+    {
+      "duty": "Research, learn, improve skills to emulate attacker tactics, techniques, and procedures"
+    },
+    {
+      "duty": "Mentor and share knowledge with other security practitioners and technology stakeholders"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "College degree in Computer Information Systems, Computer Science, Information Systems Management, or equivalent professional experience"
+    },
+    {
+      "credential": "Industry specific technical certification: CEH, CompTIA PenTest+, GPEN, GWAPT, OSCP, CPT, etc"
+    }
+  ]
+}

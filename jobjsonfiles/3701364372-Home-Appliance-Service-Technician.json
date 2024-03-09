@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Home Appliance Service Technician",
+      "job_category": "Customer Service",
+      "job_class": "Technician",
+      "sector": "Consumer Appliances",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Appliance Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Refrigeration",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    },
+    {
+      "skill": "Driving",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver field-based customer service, product repair, modification, and installation in the specified area."
+    },
+    {
+      "duty": "Provide effective repair and first-time resolution of in-home customer repairs within an agreed area."
+    },
+    {
+      "duty": "Advise customers on the correct operation of their products and resolve customer/product issues."
+    },
+    {
+      "duty": "Diagnose faults with the company's range of products and rectify as required."
+    },
+    {
+      "duty": "Maintain an up-to-date van stock of parts and safeguard parts from damage."
+    },
+    {
+      "duty": "Inform the Technical Manager of any defects found which are out of the ordinary."
+    },
+    {
+      "duty": "Maintain all equipment spares and tools and ensure company property and information is safeguarded at all times."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 20,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "3-5 years of appliance repair experience. Refrigeration experience a plus."
+    }
+  ]
+}

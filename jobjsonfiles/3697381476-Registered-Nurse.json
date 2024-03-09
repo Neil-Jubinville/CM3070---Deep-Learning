@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Flu Vaccination Administration",
+      "experience": 1
+    },
+    {
+      "skill": "Onboarding and Credentialing",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Nursing Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Administer flu vaccinations for corporate employees"
+    },
+    {
+      "duty": "Set up clinic supplies at the site location"
+    },
+    {
+      "duty": "Receive and return clinic supplies"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 70,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelors's degree in Nursing (Master's preferred)"
+    }
+  ]
+}

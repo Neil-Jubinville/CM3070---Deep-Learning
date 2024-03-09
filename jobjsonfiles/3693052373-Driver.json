@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Transportation",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Safe Driving",
+      "experience": 3
+    },
+    {
+      "skill": "Map Reading",
+      "experience": 2
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Safely operate a collection truck to collect waste and/or recycling along a designated route and transfer to a disposal site."
+    },
+    {
+      "duty": "Work closely with Dispatch, your Supervisor, and the rest of the driver team to service our customers on different routes and schedules."
+    },
+    {
+      "duty": "Load/unload waste and/or recycling materials at landfills, recycling centers, or similar facilities."
+    },
+    {
+      "duty": "Perform pre- and post-trip inspection of your vehicle to ensure truck is in proper working order and address maintenance issues quickly."
+    },
+    {
+      "duty": "Follow all required safety policies and report any safety or employee experience issues to leadership."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Class B or higher Commercial Driver\u2019s license with air brakes endorsement (REQUIRED)"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Underwriting Technician",
+      "job_category": "Underwriting",
+      "job_class": "Technician",
+      "sector": "Insurance",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Insurance Evaluation",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Insurance Policy Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Insurance Underwriting",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with agents and insurers to gather and evaluate insurance information to support underwriting services."
+    },
+    {
+      "duty": "Document insurance policy transactions for a variety of internal teams, including underwriting, insurance agents, clients, etc."
+    },
+    {
+      "duty": "Bundle policies in accordance with underwriting protocols and guideline standards."
+    },
+    {
+      "duty": "Compile and analyze underwriting evaluations before sending to the underwriting team for official review."
+    },
+    {
+      "duty": "Enter documented data with accuracy and maintain up-to-date records within the underwriting software."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "1+ year of experience in a professional medical or commercial insurance environment"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Cook",
+      "job_category": "Food Service",
+      "job_class": "Entry Level",
+      "sector": "Food Service",
+      "salary": 25000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cooking",
+      "experience": 1
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Restaurant Operations",
+      "experience": 1
+    },
+    {
+      "skill": "Kitchen Management",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare and cook high-quality chicken finger meals in a fast-paced restaurant environment."
+    },
+    {
+      "duty": "Work various shifts to accommodate opening, closing, and other operational requirements."
+    },
+    {
+      "duty": "Receive paid training and opportunities for career growth within the restaurant."
+    },
+    {
+      "duty": "Ensure cleanliness and adherence to safety procedures in the kitchen and dining areas."
+    },
+    {
+      "duty": "Provide friendly and efficient customer service while taking orders and processing payments."
+    },
+    {
+      "duty": "Lift and carry heavy objects, clean and maintain restaurant areas, and communicate effectively with team members."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": []
+}

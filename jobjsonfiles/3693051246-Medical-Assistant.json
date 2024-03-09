@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 38000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Medical History Recording",
+      "experience": 2
+    },
+    {
+      "skill": "Healthcare Examination Assistance",
+      "experience": 2
+    },
+    {
+      "skill": "Administrative Organization",
+      "experience": 2
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Multitasking",
+      "experience": 2
+    },
+    {
+      "skill": "CPR Certification",
+      "experience": 1
+    },
+    {
+      "skill": "Travel Flexibility",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greet and prepare patients for medical examinations, procedures, and treatments"
+    },
+    {
+      "duty": "Record patients' medical history, vital signs, and other relevant information"
+    },
+    {
+      "duty": "Assist healthcare professionals with patient examinations and treatments"
+    },
+    {
+      "duty": "Ensure cleanliness and organization of examination rooms and equipment"
+    },
+    {
+      "duty": "Handle administrative tasks such as patient documents"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 60,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduated and received certification from an accredited medical assistant program OR eligibility to obtain certification"
+    },
+    {
+      "credential": "CPR certification or willing to attain upon hire"
+    }
+  ]
+}

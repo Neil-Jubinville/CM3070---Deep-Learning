@@ -1,0 +1,161 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Developer",
+      "job_category": "Information Technology",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work in a team environment to develop and enhance code for agency's custom software framework (Concorde) utilized by teams of Concorde developers."
+    },
+    {
+      "duty": "Develop core libraries to be used across multiple platforms, enterprise-wide."
+    },
+    {
+      "duty": "Daily utilization and demonstration of strong experience with Agile development methodologies."
+    },
+    {
+      "duty": "Responsible for code reviews of team members. Ensure application development standards are met, support other development teams to meet the established standards."
+    },
+    {
+      "duty": "Write unit tests to ensure code is accurate and troubleshoot/debug code as needed."
+    },
+    {
+      "duty": "Participates in meetings, discussions, and demonstrations of applications and associated data in the development of applications in the Classified, Unclassified, and Sensitive but Unclassified environments."
+    },
+    {
+      "duty": "Collaborate with UI and UX designers to create the best experience for our end users."
+    },
+    {
+      "duty": "Participate in an active team environment as both a continual learner and a supportive coach."
+    },
+    {
+      "duty": "Strong communication skills required which includes the ability to articulate the why, how, and what of our work."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ASP.Net C# MVC",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 3
+    },
+    {
+      "skill": "Entity Framework",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft SQL Server",
+      "experience": 3
+    },
+    {
+      "skill": "Client-side JavaScript",
+      "experience": 3
+    },
+    {
+      "skill": "jQuery",
+      "experience": 3
+    },
+    {
+      "skill": "HTML",
+      "experience": 3
+    },
+    {
+      "skill": "CSS",
+      "experience": 3
+    },
+    {
+      "skill": "Azure DevOps",
+      "experience": 3
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 3
+    },
+    {
+      "skill": "HTML 5",
+      "experience": 3
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 3
+    },
+    {
+      "skill": "Automated Testing",
+      "experience": 3
+    },
+    {
+      "skill": ".NET Core",
+      "experience": 3
+    },
+    {
+      "skill": "Dependency Injections (IoC)",
+      "experience": 3
+    },
+    {
+      "skill": "Message Queuing (e.g., RabbitMQ)",
+      "experience": 3
+    },
+    {
+      "skill": "SignalR",
+      "experience": 3
+    },
+    {
+      "skill": "React",
+      "experience": 3
+    },
+    {
+      "skill": "Angular",
+      "experience": 3
+    },
+    {
+      "skill": "TypeScript",
+      "experience": 3
+    },
+    {
+      "skill": "Webpack",
+      "experience": 3
+    },
+    {
+      "skill": "RequireJS",
+      "experience": 3
+    },
+    {
+      "skill": "Git",
+      "experience": 3
+    },
+    {
+      "skill": "SQL Profiling",
+      "experience": 3
+    },
+    {
+      "skill": "Linux",
+      "experience": 3
+    },
+    {
+      "skill": "Docker",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 90,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in IT, Computer Engineering, or a related discipline (Master's preferred)"
+    },
+    {
+      "credential": "Active Secret security clearance"
+    }
+  ]
+}

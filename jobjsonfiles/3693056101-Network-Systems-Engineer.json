@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Network Systems Engineer",
+      "job_category": "Information Technology",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cisco Meraki Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Windows System Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Active Directory",
+      "experience": 5
+    },
+    {
+      "skill": "Support Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Backups, Backlog, and Updates",
+      "experience": 5
+    },
+    {
+      "skill": "Wi-Fi Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide Network and Systems Administrative support across internal business units."
+    },
+    {
+      "duty": "Work with Cisco Meraki technologies and Windows System Administration."
+    },
+    {
+      "duty": "Manage Active Directory, support experience, and backups, backlog, and updates."
+    },
+    {
+      "duty": "Handle Wi-Fi management tasks and troubleshooting."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 200,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Pharmacy Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Health and Wellness",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Prescription Filling",
+      "experience": 3
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 3
+    },
+    {
+      "skill": "Pharmacy Operations",
+      "experience": 3
+    },
+    {
+      "skill": "Pharmacy Programs Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Pharmacy Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Pharmacy Equipment Use",
+      "experience": 3
+    },
+    {
+      "skill": "Healthcare Compliance",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Enter prescription information including patient searches, prescriber searches, drug selection, and insurance billing."
+    },
+    {
+      "duty": "Retrieve medication from inventory and create prescription labels."
+    },
+    {
+      "duty": "Assist in maintaining the Pharmacy department by keeping it clean and in order."
+    },
+    {
+      "duty": "Assist in inventory management processes including order review, inventory returns, and restocking shelves."
+    },
+    {
+      "duty": "Administer pharmacy programs including: FlavoRx, Living More, etc."
+    },
+    {
+      "duty": "Work flexible hours including weekdays, weekends, evening shifts, and some holidays."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "H.S. Diploma or General Education Degree (GED) required."
+    },
+    {
+      "credential": "Pharmacy Technician state and/or national certification."
+    }
+  ]
+}

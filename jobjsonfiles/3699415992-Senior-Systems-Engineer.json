@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Systems Engineer",
+      "job_category": "Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Enterprise Storage",
+      "experience": 5
+    },
+    {
+      "skill": "DFS Design and Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "AD Configuration",
+      "experience": 3
+    },
+    {
+      "skill": "GPO Configuration",
+      "experience": 3
+    },
+    {
+      "skill": "Cloud Interfaces",
+      "experience": 3
+    },
+    {
+      "skill": "Nasuni/NetApp ANF/ZFS",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Respond and take actions to incidents and requests regarding storage in DELFI Petrotechnical Suite (PTS)"
+    },
+    {
+      "duty": "Perform routine maintenance tasks on storage in DELFI PTS"
+    },
+    {
+      "duty": "Verify backups are successfully run for storage solutions in DELFI PTS"
+    },
+    {
+      "duty": "Liaise with internal DELFI PTS teams on DELFI PTS Storage related subjects"
+    },
+    {
+      "duty": "Suggest and/or write playbooks as needed for continuous improvement"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field (Master's preferred)"
+    }
+  ]
+}

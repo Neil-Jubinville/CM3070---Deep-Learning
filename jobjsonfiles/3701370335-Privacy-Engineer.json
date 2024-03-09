@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Privacy Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 210000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Security",
+      "experience": 4
+    },
+    {
+      "skill": "Data Anonymization",
+      "experience": 4
+    },
+    {
+      "skill": "Cloud Computing",
+      "experience": 4
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Privacy Regulations",
+      "experience": 4
+    },
+    {
+      "skill": "Stakeholder Management",
+      "experience": 4
+    },
+    {
+      "skill": "Healthcare Regulations",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Guide engineering teams during product development to ensure transparent data collection and usage practices."
+    },
+    {
+      "duty": "Design and implement privacy capabilities, patterns, and policies for integration into products."
+    },
+    {
+      "duty": "Use 3rd party commercial tooling for privacy reviews and issue tracking."
+    },
+    {
+      "duty": "Analyze and audit data lifecycle to ensure privacy requirements are met."
+    },
+    {
+      "duty": "Build relationships with technical and compliance teams to deliver privacy-by-design controls."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or a similar technical field (Master's preferred)"
+    }
+  ]
+}

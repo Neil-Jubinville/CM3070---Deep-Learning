@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Cloud Architect",
+      "job_category": "Information Technology",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AWS",
+      "experience": 10
+    },
+    {
+      "skill": "Data Dog",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "Terraform",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Governance",
+      "experience": 5
+    },
+    {
+      "skill": "Cost Optimization",
+      "experience": 5
+    },
+    {
+      "skill": "Observability",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Translate user requirements into new software designs or significant software revisions."
+    },
+    {
+      "duty": "Create high-level architecture specifications and integrate with existing systems and platforms."
+    },
+    {
+      "duty": "Provide expertise on the implications across different applications."
+    },
+    {
+      "duty": "Approve business requirements, functional specifications, testing strategies, etc., ensuring alignment with architectural standards."
+    },
+    {
+      "duty": "Collaborate with stakeholders to identify and apply architecture standards and guidelines."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum 10+ years of experience within DevOps team with a focus on backend development."
+    },
+    {
+      "credential": "Familiarity with AWS cloud-based environment; proficiency in Kubernetes and Terraform."
+    },
+    {
+      "credential": "Knowledge of Data Dog preferred; familiarity with AWS governance and best practices."
+    },
+    {
+      "credential": "Understanding of AWS cost optimization techniques and DataDog/observability tools."
+    }
+  ]
+}

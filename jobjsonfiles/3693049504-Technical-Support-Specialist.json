@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Support Specialist",
+      "job_category": "Technical Support",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Object-Oriented Programming (Java/JavaScript)",
+      "experience": 5
+    },
+    {
+      "skill": "Dynamic HTML components (AJAX, JavaScript, AngularJS, CSS, XML, HTML, XHTML)",
+      "experience": 5
+    },
+    {
+      "skill": "Web Application Stack",
+      "experience": 5
+    },
+    {
+      "skill": "Relational Databases (MySQL)",
+      "experience": 5
+    },
+    {
+      "skill": "Written and Verbal Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Troubleshoot difficult technical issues with ease"
+    },
+    {
+      "duty": "Utilize strong object-oriented programming skills in Java/JavaScript"
+    },
+    {
+      "duty": "Work with dynamic HTML components: AJAX, JavaScript, AngularJS, CSS, XML, HTML, XHTML"
+    },
+    {
+      "duty": "Apply knowledge of the components in a web applications stack"
+    },
+    {
+      "duty": "Work with relational databases such as MySQL"
+    },
+    {
+      "duty": "Articulate solutions to complex technical problems with excellent written and verbal communication skills"
+    }
+  ]
+}

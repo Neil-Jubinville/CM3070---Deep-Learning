@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Construction",
+      "job_class": "Manager",
+      "sector": "Construction",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 11
+    },
+    {
+      "skill": "Estimating",
+      "experience": 5
+    },
+    {
+      "skill": "Scheduling",
+      "experience": 5
+    },
+    {
+      "skill": "Subcontract Management",
+      "experience": 5
+    },
+    {
+      "skill": "Budgeting",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Project",
+      "experience": 5
+    },
+    {
+      "skill": "Primavera",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Follow and manage projects from award to completion, coordinating with various departments and stakeholders."
+    },
+    {
+      "duty": "Write and award subcontracts, attend meetings, prepare schedules, and track budget and production."
+    },
+    {
+      "duty": "Manage all aspects of billing and running projects, including formulating schedules and preparing monthly invoices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school or equivalent (Preferred)"
+    },
+    {
+      "credential": "Bachelor\u2019s degree in Construction Management or related field (Preferred)"
+    }
+  ]
+}

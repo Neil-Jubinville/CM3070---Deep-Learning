@@ -1,0 +1,138 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Lab Technician",
+      "job_category": "Laboratory",
+      "job_class": "Technician",
+      "sector": "Technology",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Assembly",
+      "experience": 3
+    },
+    {
+      "skill": "Soldering",
+      "experience": 3
+    },
+    {
+      "skill": "Wiring",
+      "experience": 3
+    },
+    {
+      "skill": "Mechanical Assembly",
+      "experience": 3
+    },
+    {
+      "skill": "Product Development",
+      "experience": 3
+    },
+    {
+      "skill": "Test Equipment",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Prototyping",
+      "experience": 3
+    },
+    {
+      "skill": "Hardware Lab",
+      "experience": 5
+    },
+    {
+      "skill": "Firmware Flashing",
+      "experience": 5
+    },
+    {
+      "skill": "File Management",
+      "experience": 3
+    },
+    {
+      "skill": "Spreadsheets",
+      "experience": 3
+    },
+    {
+      "skill": "Command Line Interfaces",
+      "experience": 3
+    },
+    {
+      "skill": "Networking",
+      "experience": 3
+    },
+    {
+      "skill": "Curiosity",
+      "experience": 3
+    },
+    {
+      "skill": "EMC Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Windows-based Networking",
+      "experience": 3
+    },
+    {
+      "skill": "Schematic Reading",
+      "experience": 3
+    },
+    {
+      "skill": "PCB Layout",
+      "experience": 3
+    },
+    {
+      "skill": "Machine Drawing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Contribute to product development through acquiring measurements (display, touch, NFC, BLE, audio, etc) on specialized equipment."
+    },
+    {
+      "duty": "Building and maintaining test fixtures, building and repairing prototypes and development tools."
+    },
+    {
+      "duty": "Troubleshooting failed devices/components, and executing basic design validation tasks."
+    },
+    {
+      "duty": "Electrical assembly, soldering, and wiring for prototypes, development tools, etc."
+    },
+    {
+      "duty": "Facilitating repair and calibration of equipment as-needed."
+    },
+    {
+      "duty": "Building simple test fixtures as needed."
+    },
+    {
+      "duty": "Flashing, testing, and basic validation of prototypes, development tools, etc."
+    },
+    {
+      "duty": "Circuit board troubleshooting and repair."
+    },
+    {
+      "duty": "Assisting with lab space management, organization, maintenance and cleanup."
+    },
+    {
+      "duty": "Tracking your own task list and making sure that diverse customers know how they fit into your priorities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate\u2019s or Bachelor\u2019s degree in a technical field (preferably Electrical Engineering or relevant field)"
+    }
+  ]
+}

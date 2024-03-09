@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Caregiver",
+      "job_category": "Healthcare",
+      "job_class": "Caregiver",
+      "sector": "Healthcare",
+      "salary": 17000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Compassionate Care",
+      "experience": 1
+    },
+    {
+      "skill": "Client Relationship Building",
+      "experience": 1
+    },
+    {
+      "skill": "Non-Medical Assistance",
+      "experience": 1
+    },
+    {
+      "skill": "Housekeeping",
+      "experience": 1
+    },
+    {
+      "skill": "Meal Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Punctuality",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide attention to clients\u2019 non-medical needs, including companionship and social engagement"
+    },
+    {
+      "duty": "Assist client with light housekeeping, meal preparation, and medication reminders"
+    },
+    {
+      "duty": "Establish communication and a professional relationship with clients, family members, and co-workers"
+    },
+    {
+      "duty": "Provide reliable care by being punctual and consistently covering shifts"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED"
+    }
+  ]
+}

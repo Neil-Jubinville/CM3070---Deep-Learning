@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Engineering Manager",
+      "job_category": "Engineering",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Manufacturing Engineering",
+      "experience": 7
+    },
+    {
+      "skill": "Lean Manufacturing",
+      "experience": 7
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 7
+    },
+    {
+      "skill": "Process Improvement",
+      "experience": 7
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 7
+    },
+    {
+      "skill": "Change Management",
+      "experience": 7
+    },
+    {
+      "skill": "DMAIC",
+      "experience": 7
+    },
+    {
+      "skill": "Kaizen",
+      "experience": 7
+    },
+    {
+      "skill": "Project Management",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and coach Manufacturing engineers and equipment maintenance technicians to increase scientific thinking and continuous improvement capability."
+    },
+    {
+      "duty": "Drive yield improvements and continuous process improvements."
+    },
+    {
+      "duty": "Manage technical risks, develop and maintain risk burndown plans, and track metrics related to performance goals."
+    },
+    {
+      "duty": "Provide guidance to engineering regarding design concepts and specification requirements to best utilize equipment and manufacturing techniques."
+    },
+    {
+      "duty": "Employ DMAIC, Kaizen events, Gemba walks, and other methodologies to define problem statements, conduct voice of the customer/business, establish current state, identify waste, propose future state, manage stakeholders, and utilize change management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 80,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Engineering, Management, or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Service Technician",
+      "job_category": "Skilled Trades",
+      "job_class": "Technician",
+      "sector": "Manufacturing",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Troubleshooting",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 2
+    },
+    {
+      "skill": "Repair Work",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform field service activities related to press inspection, repair work, troubleshooting, and maintenance."
+    },
+    {
+      "duty": "Review customer technical concerns to assist in the determination of product changes or modification."
+    },
+    {
+      "duty": "Perform press inspections on a variety of sizes and models."
+    },
+    {
+      "duty": "Provide maintenance and repair training to customer personnel."
+    },
+    {
+      "duty": "Handle other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associates degree in Skilled Trades or equivalent preferred."
+    },
+    {
+      "credential": "Minimum of two years' experience in a manufacturing environment, in a Field Service capacity, is required."
+    }
+  ]
+}

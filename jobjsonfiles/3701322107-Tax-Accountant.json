@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Tax Accountant",
+      "job_category": "Accounting",
+      "job_class": "Accountant",
+      "sector": "Accounting",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tax Preparation",
+      "experience": 3
+    },
+    {
+      "skill": "Accounting",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Tax Law",
+      "experience": 3
+    },
+    {
+      "skill": "Quickbooks",
+      "experience": 2
+    },
+    {
+      "skill": "Excel",
+      "experience": 2
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare tax returns for individuals, corporations, partnerships, estates, trusts, and multiple states, and amended returns."
+    },
+    {
+      "duty": "Work closely with clients to discuss and project tax planning strategies."
+    },
+    {
+      "duty": "Complete accounting and bookkeeping for small businesses."
+    },
+    {
+      "duty": "Meet with clients regularly to address tax related questions and advise on potential tax law changes."
+    },
+    {
+      "duty": "Discuss tax issues and forecasting with clients to minimize liability."
+    },
+    {
+      "duty": "Work independently and meet tight deadlines."
+    },
+    {
+      "duty": "Assist with payroll and payroll tax calculations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting or Finance (CPA preferred)"
+    }
+  ]
+}

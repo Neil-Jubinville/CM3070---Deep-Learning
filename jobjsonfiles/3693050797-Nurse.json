@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Phlebotomy",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 5
+    },
+    {
+      "skill": "CPR Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Coordination",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Record Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide nursing service to patients in a professional and courteous manner, carrying out physician orders and assisting with procedures, administering injections, performing phlebotomy, taking patient calls, cleaning and stocking exam rooms, calling in prescriptions, coordinating supply levels, and pre-certifying patients medical services."
+    },
+    {
+      "duty": "Coordinate, monitor, and role model the delivery of patient care as ordered by the physician/primary care provider for different patient populations, demonstrating competence to provide developmentally appropriate care/treatment and planning and coordinating teaching methods and content."
+    },
+    {
+      "duty": "Deliver nursing services collaboratively with family/patient, physicians, and other health care team members, delegate and/or refer to partners appropriately, and ensure completion of care as ordered by physicians/primary care providers. "
+    },
+    {
+      "duty": "Demonstrate knowledge of disease process, administer medications, and perform treatments and procedures according to nursing policy/procedure. Also, assist with evaluation of patient care, documentation of nursing services provided, and identify educational needs of self while maintaining current knowledge."
+    },
+    {
+      "duty": "Contribute to the plan for resource needs to ensure safe and effective operations, prioritize care, delegate tasks, present a positive image to enhance recruitment and retention of staff, and perform all other duties as assigned."
+    },
+    {
+      "duty": "Manage time in an efficient and/or productive manner, predict patient care hours needed, contribute to the effective use of material resources, communicate effectively throughout the health care system, and participate in Quality Assessment and Improvement activities. "
+    },
+    {
+      "duty": "Participate in monitoring and evaluation of patient care, contribute and participate in the evaluation of new systems/products/processes, and demonstrate safe practice related to the protection of self, patients, and coworkers. "
+    },
+    {
+      "duty": "Attend yearly Safety Training, be consistently punctual, speak positively about the organization, contribute to teamwork, resolve conflicts and problem solve, exhibit telephone courtesy, and maintain confidentiality. "
+    },
+    {
+      "duty": "Coordinate market analysis, customer behavior, and competitor activity to identify growth opportunities and refine strategies, and manage the company's online presence, optimizing the website and social media channels for maximum engagement and conversions. "
+    },
+    {
+      "duty": "Plan and oversee participation in industry events, conferences, and trade shows to showcase services and network with potential clients, measure and report on the performance of marketing campaigns, using data-driven insights to continuously improve strategies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or Equivalent"
+    }
+  ]
+}

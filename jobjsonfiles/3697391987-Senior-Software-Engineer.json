@@ -1,0 +1,128 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior Engineer",
+      "sector": "Software Engineering",
+      "salary": 145000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "NodeJS",
+      "experience": 5
+    },
+    {
+      "skill": "Asynchronous Programming",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "React",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Heroku",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Practices",
+      "experience": 5
+    },
+    {
+      "skill": "System Design",
+      "experience": 5
+    },
+    {
+      "skill": "Data Structures and Algorithms",
+      "experience": 5
+    },
+    {
+      "skill": "Web API Design",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "Salesforce",
+      "experience": 5
+    },
+    {
+      "skill": "Code Reviews",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership and Mentoring",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and deploy frontend and backend services with a focus on high availability, low latency, and scalability."
+    },
+    {
+      "duty": "Direct and assist with designing, developing, documenting, testing, and debugging new and existing software systems and/or applications."
+    },
+    {
+      "duty": "Identify and resolve defects of complex scope using proper engineering tools and techniques."
+    },
+    {
+      "duty": "Lead and exhibit expert technical problem-solving and debugging skills."
+    },
+    {
+      "duty": "Identify, develop, and advocate best practices, design standards, and procedures."
+    },
+    {
+      "duty": "Foster a collaborative and professional team environment to achieve objectives."
+    },
+    {
+      "duty": "Design, develop, and modify software systems using scientific analysis and mathematical models to predict and measure outcome and consequences of design."
+    },
+    {
+      "duty": "Provide support and maintain existing products and add new features as requested by customers."
+    },
+    {
+      "duty": "Anticipate and adapt to a changing business environment and requirements."
+    },
+    {
+      "duty": "Collaborate and communicate with Stakeholders, Product Owners, Quality Assurance, and other teams in an agile work environment."
+    },
+    {
+      "duty": "Participate regularly in Agile/Scrum activities and mentor others to adapt the Agile way."
+    },
+    {
+      "duty": "Mentor junior and mid-level engineers by providing advice, coaching, and educational opportunities to grow their technical skills."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in Computer Science or Computer Engineering from an accredited college or university or equivalent work experience."
+    }
+  ]
+}

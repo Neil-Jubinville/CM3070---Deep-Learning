@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Accounting Manager",
+      "job_category": "Accounting",
+      "job_class": "Manager",
+      "sector": "Financial Services",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "General Ledger Management",
+      "experience": 5
+    },
+    {
+      "skill": "Account Reconciliation",
+      "experience": 5
+    },
+    {
+      "skill": "Auditing",
+      "experience": 5
+    },
+    {
+      "skill": "Investment Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "Fiserv DNA",
+      "experience": 5
+    },
+    {
+      "skill": "Accounting Laws and Regulations",
+      "experience": 5
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee financial and regulatory reporting, ensuring compliance with GAAP and NCUA regulations."
+    },
+    {
+      "duty": "Review and oversee Accounts Payable process, ensuring accurate recording in general ledger accounts."
+    },
+    {
+      "duty": "Assist with quarterly regulatory reporting in compliance with NCUA rules and regulations."
+    },
+    {
+      "duty": "Complete account reconciliations of a more complex nature."
+    },
+    {
+      "duty": "Assist with annual audits and NCUA examination functions."
+    },
+    {
+      "duty": "Review all investment accounting functions in accordance with ASC 320 (FASB 115)."
+    },
+    {
+      "duty": "Perform additional duties as assigned, including providing assistance and acting as backup to other accounting staff."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 70,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent formal certifications in accounting or related field (Fiserv DNA experience preferred)"
+    }
+  ]
+}

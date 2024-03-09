@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 2
+    },
+    {
+      "skill": "EMR Systems",
+      "experience": 2
+    },
+    {
+      "skill": "Phlebotomy",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist physicians and nurses in providing patient care."
+    },
+    {
+      "duty": "Answer telephone, schedule treatments, and clean/sterilize equipment."
+    },
+    {
+      "duty": "Assist with procedures, patient comfort, and patient charges."
+    },
+    {
+      "duty": "Prepare exam rooms, stock supplies, and maintain patient flow."
+    },
+    {
+      "duty": "Obtain vital signs, EKGs, and assist with blood collection/phlebotomy."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent. Completion of a Medical Assistant Program OR hold a current medical assistant Certification from a Nationally Recognized accredited institution."
+    }
+  ]
+}

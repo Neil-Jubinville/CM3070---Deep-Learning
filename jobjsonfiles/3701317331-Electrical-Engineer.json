@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Manufacturing",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Engineering",
+      "experience": 2
+    },
+    {
+      "skill": "Project Management",
+      "experience": 2
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 2
+    },
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Initiate design, develop, optimize, and problem solve manufacturing processes to meet safety, quality, and operational performance expectations."
+    },
+    {
+      "duty": "Lead various engineering projects with a financial scope of up to $1 million."
+    },
+    {
+      "duty": "Develop knowledge and skills to be recognized as an effective implementer of engineering principles, scientific analysis, and project management."
+    },
+    {
+      "duty": "Carry out all job responsibilities in a safe manner, ensuring equipment and processes meet safety codes, policies, and guidelines."
+    },
+    {
+      "duty": "Seek, recognize, define, and solve problems to achieve unit objectives, identifying technical issues to determine root cause."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electrical Engineering or Electrical Engineering Technology degree from an accredited college or university (Associate, Bachelor, or advanced degree in a relevant scientific discipline with applicable experience may also be considered)"
+    }
+  ]
+}

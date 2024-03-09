@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Inpatient Social Worker",
+      "job_category": "Social Work",
+      "job_class": "Clinical",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Psychosocial Assessments",
+      "experience": 5
+    },
+    {
+      "skill": "Case Management",
+      "experience": 5
+    },
+    {
+      "skill": "Therapeutic Interventions",
+      "experience": 5
+    },
+    {
+      "skill": "Substance Use Disorder Treatment",
+      "experience": 5
+    },
+    {
+      "skill": "Family Systems Dynamics",
+      "experience": 5
+    },
+    {
+      "skill": "Trauma-Informed Care",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide direct clinical service to assigned patients, inclusive of individual and family treatment interventions, case management, disposition planning and care consultation."
+    },
+    {
+      "duty": "Responsible for psychosocial assessments for each patient. Attends all treatment teams and consults on an as-needed basis with other team members around issues of his/her expertise, including case management and disposition planning."
+    },
+    {
+      "duty": "Recognize/assess a range of trauma-related behaviors and implement trauma-sensitive interventions with people served."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's Degree in Social Work or equivalent"
+    }
+  ]
+}

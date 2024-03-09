@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Bridal Stylist",
+      "job_category": "Sales",
+      "job_class": "Stylist",
+      "sector": "Retail",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Appointment Setting",
+      "experience": 2
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Dress Fitting",
+      "experience": 2
+    },
+    {
+      "skill": "Retail Operations",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide 5-Star Customer Service and assist customers with finding the perfect gown/dress for their event."
+    },
+    {
+      "duty": "Use all systems to manage customer flow and appointments, communicating with customers in a sincere, thoughtful, and encouraging way."
+    },
+    {
+      "duty": "Proactively address customer concerns and know when to escalate to the leadership team."
+    },
+    {
+      "duty": "Maintain store standards and high dress code standards for self."
+    },
+    {
+      "duty": "Perform sales transactions with accuracy, maintain knowledge of procedures, and support the store team in achieving sales goals."
+    },
+    {
+      "duty": "Actively support the store team to achieve operational goals and follow all security processes and policies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent (1 - 2 years prior retail experience preferred)"
+    }
+  ]
+}

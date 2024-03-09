@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Transporter",
+      "job_category": "Healthcare",
+      "job_class": "Transporter",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Transporting patients to and from locations in the hospital. Organizing and distributing schedules, maintaining transportation supplies, and assisting in the nursing units when available."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Transport",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Life Support (BLS)",
+      "experience": 1
+    },
+    {
+      "skill": "Clinical Care",
+      "experience": 2
+    },
+    {
+      "skill": "Effective Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Prioritization",
+      "experience": 2
+    },
+    {
+      "skill": "Observational Skills",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 60,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or GED required. Active American Heart Association Basic Life Support (BLS) certification required. Experience in clinical care setting preferred."
+    }
+  ]
+}

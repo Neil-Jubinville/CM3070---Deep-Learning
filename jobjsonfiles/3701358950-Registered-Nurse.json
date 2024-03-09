@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Inpatient Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Assessment",
+      "experience": 4
+    },
+    {
+      "skill": "Nursing Care Planning",
+      "experience": 4
+    },
+    {
+      "skill": "Medical Records Maintenance",
+      "experience": 4
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 4
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 4
+    },
+    {
+      "skill": "Symptom Monitoring",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assess patient health problems and needs, develop and implement nursing care plans, and maintain medical records."
+    },
+    {
+      "duty": "Administer nursing care to ill, injured, convalescent, or disabled patients and advise patients on health maintenance and disease prevention."
+    },
+    {
+      "duty": "Maintain accurate, detailed reports and records and administer medications to patients while monitoring for reactions and side effects."
+    },
+    {
+      "duty": "Monitor, record, and report symptoms or changes in patients\u2019 conditions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Currently licensed to practice as a registered nurse in the State of employment"
+    }
+  ]
+}

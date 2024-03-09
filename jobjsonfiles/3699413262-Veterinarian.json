@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinarian",
+      "job_category": "Healthcare",
+      "job_class": "Associate",
+      "sector": "Healthcare",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Veterinary Medicine",
+      "experience": 3
+    },
+    {
+      "skill": "Surgical Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 3
+    },
+    {
+      "skill": "Emotional Intelligence",
+      "experience": 3
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Diagnose and treat animals for medical conditions and diseases."
+    },
+    {
+      "duty": "Perform surgical procedures on animals and provide aftercare instructions."
+    },
+    {
+      "duty": "Build and maintain strong relationships with clients and provide them with medical advice and guidance for their pets."
+    },
+    {
+      "duty": "Utilize emotional intelligence to provide compassionate care for animals and their owners."
+    },
+    {
+      "duty": "Participate in mentoring and training programs for new graduates and veterinary staff."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Veterinary Medicine (DVM/VMD) or equivalent degree"
+    },
+    {
+      "credential": "State Veterinary Board License in good standing"
+    },
+    {
+      "credential": "Active DEA license or DEA licensure eligible"
+    }
+  ]
+}

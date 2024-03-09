@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Modeling & Simulation Engineer",
+      "job_category": "Engineer",
+      "job_class": "Software Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C++ Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Simulation Environment Development",
+      "experience": 4
+    },
+    {
+      "skill": "System Modeling",
+      "experience": 4
+    },
+    {
+      "skill": "Agile Software Development",
+      "experience": 2
+    },
+    {
+      "skill": "Git Version Control",
+      "experience": 2
+    },
+    {
+      "skill": "DoD Modeling and Simulation",
+      "experience": 2
+    },
+    {
+      "skill": "C/C++ Software Development",
+      "experience": 3
+    },
+    {
+      "skill": "Hardware Integration",
+      "experience": 3
+    },
+    {
+      "skill": "Agile/Lean/Continuous Delivery",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop realistic simulation environment emulating real world systems and platforms."
+    },
+    {
+      "duty": "Develop simulation models for sensors, communications, digital entity movement, AI enabled behaviors, electronic effects, and command and control."
+    },
+    {
+      "duty": "Design, build, and push a new product to an emerging marketspace."
+    },
+    {
+      "duty": "Work on a dynamic, adaptable, and high performing team."
+    },
+    {
+      "duty": "Rapidly grow your skills with the latest technology."
+    },
+    {
+      "duty": "Deliver high quality product features exceeding client expectations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140,
+      "student_teacher": 60,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, or similar technical field, or equivalent practical experience. Master's degree preferred."
+    }
+  ]
+}

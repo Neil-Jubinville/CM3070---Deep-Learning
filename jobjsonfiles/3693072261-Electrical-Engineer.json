@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Power Systems Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "AutoCAD",
+      "experience": 5
+    },
+    {
+      "skill": "Revit",
+      "experience": 3
+    },
+    {
+      "skill": "SKM Power System Modeling",
+      "experience": 3
+    },
+    {
+      "skill": "AGi32 or Visual Lighting",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop detailed design documents for power distribution, lighting, and grounding systems for power generation, manufacturing, and industrial facilities."
+    },
+    {
+      "duty": "Serve as a technical resource on complex designs and advanced engineering theories."
+    },
+    {
+      "duty": "Model and conduct power systems analysis, including short circuit, load flow, protective relay coordination, and arc flash analysis."
+    },
+    {
+      "duty": "Interface with key client and project staff in formal, informal and project team meetings."
+    },
+    {
+      "duty": "Plan, organize, and supervise work of designers and administrative staff supporting assignments."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.S. in Electrical Engineering with three or more years of electrical design experience (PE license preferred)"
+    }
+  ]
+}

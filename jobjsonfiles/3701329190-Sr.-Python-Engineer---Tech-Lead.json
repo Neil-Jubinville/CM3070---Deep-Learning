@@ -1,0 +1,102 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. Python Engineer / Tech Lead",
+      "job_category": "Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 200000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 8
+    },
+    {
+      "skill": "Django",
+      "experience": 8
+    },
+    {
+      "skill": "API Development",
+      "experience": 8
+    },
+    {
+      "skill": "SQL Databases (Postgres/MySQL)",
+      "experience": 8
+    },
+    {
+      "skill": "Performance Testing",
+      "experience": 8
+    },
+    {
+      "skill": "Container Orchestration (Kubernetes)",
+      "experience": 8
+    },
+    {
+      "skill": "CI/CD Pipelines",
+      "experience": 8
+    },
+    {
+      "skill": "Troubleshooting Data Pipeline Issues",
+      "experience": 8
+    },
+    {
+      "skill": "Terraform",
+      "experience": 8
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 8
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, build, and implement scalable backend solutions, ensuring speedy and efficient coding in Python."
+    },
+    {
+      "duty": "Lead and coordinate software development across multiple areas, collaborating with front-end, infrastructure, deployment, and development teams."
+    },
+    {
+      "duty": "Ensure the security, identity management, and authentication backends are robust and meet the highest standards."
+    },
+    {
+      "duty": "Work with dynamic models and APIs to create a seamless user experience and improve overall performance."
+    },
+    {
+      "duty": "Be actively involved in performance testing and optimization to deliver a high-performing and reliable platform."
+    },
+    {
+      "duty": "Facilitate deployment using container orchestration systems like Kubernetes and implement effective CI/CD pipelines."
+    },
+    {
+      "duty": "Onboarding and Product Familiarization: Dive deep into understanding the product, technology stack, and customer challenges. Familiarize yourself with the existing backend codebase and development processes."
+    },
+    {
+      "duty": "Taking Ownership of Backend Module: Assume responsibility for the backend module, proactively identify potential issues or areas for improvement, and start implementing necessary enhancements to optimize performance and scalability."
+    },
+    {
+      "duty": "Issue Resolution and Project Adaptation: Address any challenges or delays that arise during project execution, ensuring that work progresses smoothly. Adapt project plans as needed to deliver high-quality solutions on schedule."
+    },
+    {
+      "duty": "Feature Implementation: Demonstrate your ability to turn features into fully functional backend implementations. Collaborate closely with cross-functional teams to seamlessly integrate new features into the platform."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's degree in Computer Science or related field"
+    }
+  ]
+}

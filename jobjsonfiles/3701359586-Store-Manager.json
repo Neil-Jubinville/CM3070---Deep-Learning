@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "Store Manager",
+      "job_category": "Retail",
+      "job_class": "Manager",
+      "sector": "Retail",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Recruitment",
+      "experience": 5
+    },
+    {
+      "skill": "Training and Development",
+      "experience": 5
+    },
+    {
+      "skill": "Motivation",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Focus",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead a team of Associates and Managers to consistently deliver an amazing Tillys Experience to every Customer."
+    },
+    {
+      "duty": "Responsible for all aspects of running a Store, including managing the Store Team and overseeing all Store operations to achieve Company goals and objectives."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Management or Retail Management (Master's preferred)"
+    }
+  ]
+}

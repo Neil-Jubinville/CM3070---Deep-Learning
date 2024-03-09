@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Financial Analyst",
+      "job_category": "Finance",
+      "job_class": "Analyst",
+      "sector": "Finance",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Accounts Payable",
+      "experience": 4
+    },
+    {
+      "skill": "Accounts Receivable",
+      "experience": 4
+    },
+    {
+      "skill": "Payroll Processing",
+      "experience": 4
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    },
+    {
+      "skill": "QuickBooks",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee the accounts payable and receivable, processing payroll, and conducting other tasks related to finance."
+    },
+    {
+      "duty": "Monitor and track expenses, budget, taxes, cash flow, receipts, and other financial dealings of the company."
+    },
+    {
+      "duty": "Provide regular financial reports (weekly, monthly, and yearly) and ensure timely processing of payroll."
+    },
+    {
+      "duty": "Be excellent at recording data and producing clear financial reports."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in accounting or related field (Master's preferred)"
+    }
+  ]
+}

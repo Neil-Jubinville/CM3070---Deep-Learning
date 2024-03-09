@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Writer",
+      "job_category": "Technical Writing",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 115000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Atlassian Confluence",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 7
+    },
+    {
+      "skill": "Information Architecture",
+      "experience": 7
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 7
+    },
+    {
+      "skill": "Communication",
+      "experience": 7
+    },
+    {
+      "skill": "Content Creation",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Gather, analyze, and compose information provided by subject matter experts (SME)."
+    },
+    {
+      "duty": "Translate SME information into clear, readable documents and process maps to be used by users."
+    },
+    {
+      "duty": "Provide an overarching view of the technology for internal audiences."
+    },
+    {
+      "duty": "Contribute to formatting, editing, and quality assurance on own work and the work of others."
+    },
+    {
+      "duty": "Engage with the documentation team to create a collaborative environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Technical Writing, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

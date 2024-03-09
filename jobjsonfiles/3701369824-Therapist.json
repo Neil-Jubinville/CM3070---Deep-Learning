@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Clinician",
+      "sector": "Mental Health",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mind-Body Connection Treatment",
+      "experience": 3
+    },
+    {
+      "skill": "Holistic Therapy Modalities",
+      "experience": 3
+    },
+    {
+      "skill": "Credentialing Services",
+      "experience": 3
+    },
+    {
+      "skill": "Clinical Group Support",
+      "experience": 3
+    },
+    {
+      "skill": "Person-Centered Treatment",
+      "experience": 3
+    },
+    {
+      "skill": "Telehealth",
+      "experience": 3
+    },
+    {
+      "skill": "Chronic Stress Treatment",
+      "experience": 3
+    },
+    {
+      "skill": "Trauma Treatment",
+      "experience": 3
+    },
+    {
+      "skill": "Anxiety Treatment",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide therapy using holistic and traditional modalities for children, adolescents, adults, couples, and families."
+    },
+    {
+      "duty": "Integrate mind-body connection care into mental health treatment for Chronic Stress, PTSD, and Anxiety."
+    },
+    {
+      "duty": "Utilize available team support, training, materials, and resources to enhance treatment delivery."
+    },
+    {
+      "duty": "Participate in optional monthly gatherings and group communication app to connect with the current team members."
+    },
+    {
+      "duty": "Collaborate with other health businesses in the area to offer additional therapy, groups, workshops, and mind-body modalities."
+    },
+    {
+      "duty": "Work with insurance providers and self-pay clients using available credentialing and billing services."
+    },
+    {
+      "duty": "Participate in mind-body connection training paid for by Oak Mountain Therapy upon starting."
+    },
+    {
+      "duty": "Bridge the gap between holistic and medical model modalities for comprehensive treatment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree in Mental Health, Counseling, or related field"
+    }
+  ]
+}

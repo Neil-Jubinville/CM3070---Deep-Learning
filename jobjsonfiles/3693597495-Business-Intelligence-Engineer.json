@@ -1,0 +1,100 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Intelligence Engineer",
+      "job_category": "Technology",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 145000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "ETL",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Business Intelligence",
+      "experience": 5
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Solutions",
+      "experience": 5
+    },
+    {
+      "skill": "Data Mining",
+      "experience": 5
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and maintain scalable solutions for ongoing metrics, reports, analyses, dashboards, etc. to support analytical and business needs."
+    },
+    {
+      "duty": "Translate basic business problem statements into analysis requirements."
+    },
+    {
+      "duty": "Use analytical and statistical rigor to answer business questions and drive business decisions."
+    },
+    {
+      "duty": "Find and create ways to measure the customer experience to drive business outcomes."
+    },
+    {
+      "duty": "Develop queries and visualizations for ad-hoc requests and projects, as well as ongoing reporting."
+    },
+    {
+      "duty": "Write queries and output efficiently, and have in-depth knowledge of the data available in area of expertise."
+    },
+    {
+      "duty": "Pull the data needed with standard query syntax; periodically identify more advanced methods of query optimization."
+    },
+    {
+      "duty": "Convert data to make it analysis-ready."
+    },
+    {
+      "duty": "Recognize and adopt best practices in reporting and analysis: data integrity, design, analysis, validation, and documentation."
+    },
+    {
+      "duty": "Troubleshoot operational data-quality issues."
+    },
+    {
+      "duty": "Review and audit existing ETL jobs and queries."
+    },
+    {
+      "duty": "Recommending improvements to back-end data sources for increased accuracy and simplicity."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Data Science, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

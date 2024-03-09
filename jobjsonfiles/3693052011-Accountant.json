@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Accountant",
+      "job_category": "Finance",
+      "job_class": "Accountant",
+      "sector": "Agribusiness",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Reporting",
+      "experience": 3
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 4
+    },
+    {
+      "skill": "Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "Tax Preparation",
+      "experience": 4
+    },
+    {
+      "skill": "Auditing",
+      "experience": 4
+    },
+    {
+      "skill": "License Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 4
+    },
+    {
+      "skill": "Detail-Oriented",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare and file monthly and quarterly grain taxes with the appropriate state agencies by performing reconciliations between transactional and ERP systems to ensure all assessments are captured and correct amounts are paid by multiple deadlines."
+    },
+    {
+      "duty": "Maintain Federal and State Grain licenses and process annual renewal."
+    },
+    {
+      "duty": "Annual renewal of state lottery and state business licenses."
+    },
+    {
+      "duty": "Bond renewals related to Federal and State Grain licenses and other miscellaneous bonds."
+    },
+    {
+      "duty": "Process requests for employees weighing and grading licenses in e-Grain."
+    },
+    {
+      "duty": "Monthly Wisconsin Indemnity Fund reporting."
+    },
+    {
+      "duty": "Ad hoc projects/requests."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting, Finance, or related field (Master's preferred)"
+    }
+  ]
+}

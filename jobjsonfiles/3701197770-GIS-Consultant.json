@@ -1,0 +1,93 @@
+{
+  "meta": [
+    {
+      "job_title": "GIS Consultant",
+      "job_category": "Engineering",
+      "job_class": "Consultant",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "GIS Data Collection",
+      "experience": 5
+    },
+    {
+      "skill": "Spatial Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Database Management",
+      "experience": 5
+    },
+    {
+      "skill": "Data Standards Development",
+      "experience": 5
+    },
+    {
+      "skill": "Spatial Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Predictive Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "GE Small World",
+      "experience": 5
+    },
+    {
+      "skill": "Suitability Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Network Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Spatial Statistics",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collect, compile, and organize geographic and spatial data from various sources."
+    },
+    {
+      "duty": "Create and maintain databases of spatial data, ensuring data quality and integrity."
+    },
+    {
+      "duty": "Develop data standards and protocols for data collection, storage, and sharing."
+    },
+    {
+      "duty": "Perform spatial analysis using GIS software to extract insights, patterns, and trends from spatial data."
+    },
+    {
+      "duty": "Create and implement models for predictive and spatial analysis to support decision-making."
+    },
+    {
+      "duty": "Conduct suitability analysis, network analysis, spatial statistics, and other specialized analyses."
+    },
+    {
+      "duty": "Plan and manage GIS projects, including defining project scope, timelines, and budgets."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's in GIS or related field of study from an accredited college or university"
+    }
+  ]
+}

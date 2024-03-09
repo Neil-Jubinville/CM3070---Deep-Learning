@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Facilities Management",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Building Systems Operations",
+      "experience": 5
+    },
+    {
+      "skill": "Preventive Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Pool Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Plumbing Repairs",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Repairs",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Repairs",
+      "experience": 5
+    },
+    {
+      "skill": "Facility Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate and monitor facility mechanical plant and report any malfunctions to supervisor."
+    },
+    {
+      "duty": "Provide support to YMCA technicians during preventive maintenance of primary electro/mechanical systems such as air conditioning systems, heating systems, electrical systems, and plumbing systems."
+    },
+    {
+      "duty": "Perform routine maintenance of pool and spas and make chemical adjustments as required."
+    },
+    {
+      "duty": "Oversee work of outside maintenance and cleaning service contractors."
+    },
+    {
+      "duty": "Perform minor plumbing, electrical, and mechanical repairs."
+    },
+    {
+      "duty": "Coordinate with Facilities Technician and outside vendors for major repairs to plumbing, electrical, and mechanical systems."
+    },
+    {
+      "duty": "Perform architectural repairs including wall repair and painting."
+    },
+    {
+      "duty": "Perform general maintenance duties including changing light bulbs and ballasts, housekeeping, and grounds work."
+    },
+    {
+      "duty": "Provide emergency support and response as needed."
+    },
+    {
+      "duty": "Order maintenance supplies as needed."
+    },
+    {
+      "duty": "Report suspicious and inappropriate behaviors and policy violations."
+    },
+    {
+      "duty": "Follow mandated abuse and incident reporting requirements."
+    },
+    {
+      "duty": "Meet timelines and deadlines related to supporting systems and employee compliance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED Equivalent. Minimum of 5 years of commercial experience in operations of building systems, including swimming pools. Basic computer skills. Clear driving record and valid Texas Driver\u2019s License."
+    }
+  ]
+}

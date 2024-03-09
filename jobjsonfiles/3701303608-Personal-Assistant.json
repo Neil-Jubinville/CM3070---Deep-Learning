@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Personal Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Business Support",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Exceptional Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "Resourcefulness",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Coordinate travel, screen incoming phone calls, and manage personal and business-related tasks efficiently"
+    },
+    {
+      "duty": "Screen and direct incoming phone calls"
+    },
+    {
+      "duty": "Manage business and personal meeting and event calendars for a Managing Director"
+    },
+    {
+      "duty": "Coordinate and manage various vendors and suppliers"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration or related field (Preferred)"
+    }
+  ]
+}

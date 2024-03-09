@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Age/Developmentally Appropriate Care",
+      "experience": 2
+    },
+    {
+      "skill": "Healthcare Provider Basic Life Support",
+      "experience": 2
+    },
+    {
+      "skill": "Advanced Cardio Life Support",
+      "experience": 2
+    },
+    {
+      "skill": "Professional Nursing",
+      "experience": 2
+    },
+    {
+      "skill": "Communication",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with multidisciplinary team members to provide age/developmentally appropriate care in accordance with unit standards of care"
+    },
+    {
+      "duty": "Communicate clearly and openly with patients and team members"
+    },
+    {
+      "duty": "Build relationships to promote a collaborative environment"
+    },
+    {
+      "duty": "Be accountable for performance"
+    },
+    {
+      "duty": "Look for ways to improve the patient experience"
+    },
+    {
+      "duty": "Take initiative for professional growth"
+    },
+    {
+      "duty": "Be engaged and eager to build a winning team"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited school of professional nursing BSN strongly preferred"
+    },
+    {
+      "credential": "Current Healthcare Provider Basic Life Support certification"
+    },
+    {
+      "credential": "Current Advanced Cardio Life Support certification"
+    },
+    {
+      "credential": "Current license to practice professional nursing in Texas or eligibility to do so"
+    }
+  ]
+}

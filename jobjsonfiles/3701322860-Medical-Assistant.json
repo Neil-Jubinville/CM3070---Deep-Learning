@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Medical History",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Records",
+      "experience": 2
+    },
+    {
+      "skill": "Sterilization Techniques",
+      "experience": 2
+    },
+    {
+      "skill": "Appointment Scheduling",
+      "experience": 2
+    },
+    {
+      "skill": "Prescription Refills",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Medical Equipment Operation",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assisting with safe and effective patient care in compliance with established standards and protocols of goals and objectives."
+    },
+    {
+      "duty": "Maintenance of patient flow, exam room preparation and turnover, bringing patients back to exam room, taking and recording basic medical history."
+    },
+    {
+      "duty": "Retrieving, routing, and assisting with provider/nurse messages in regard to patient telephone calls, messages, and call backs; appointment scheduling; and prescription refills as directed by the physician and/or provider."
+    },
+    {
+      "duty": "Clinical compliance in sterilization techniques, sample medication oversight and compliance, OSHA requirements (if applicable), and any other compliance standards required within the clinical realm of the practice."
+    },
+    {
+      "duty": "Use of Computers, telephone, fax machine, copier, stethoscope, EKG machine, pulse oximeter, oxygen devices, wheelchairs, stretchers, scales, glucose monitor, and other patient care equipment necessary to perform required duties as appropriate to the scope of the practice."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or General Education (GED) required. Graduation from an accredited Medical Assistant program; or completion of a Nursing Assistant program."
+    }
+  ]
+}

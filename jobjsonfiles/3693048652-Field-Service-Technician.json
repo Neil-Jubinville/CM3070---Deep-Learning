@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Service Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Software Engineering",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electronics",
+      "experience": 1
+    },
+    {
+      "skill": "Calibration",
+      "experience": 1
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 1
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Team Work",
+      "experience": 1
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 1
+    },
+    {
+      "skill": "Technical Skills",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Calibrating, troubleshooting, and repairing electronic equipment"
+    },
+    {
+      "duty": "Supporting customer calibration and maintenance of micro-contamination monitoring equipment"
+    },
+    {
+      "duty": "Researching customer problems and complaints"
+    },
+    {
+      "duty": "Acting as a liaison between customers and various departments"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 20,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associates Degree in Electronics or military equivalent"
+    }
+  ]
+}

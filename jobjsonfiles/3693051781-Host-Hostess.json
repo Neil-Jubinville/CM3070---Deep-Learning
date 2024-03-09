@@ -1,0 +1,51 @@
+{
+  "meta": [
+    {
+      "job_title": "Host/Hostess",
+      "job_category": "Hospitality",
+      "job_class": "Entry Level",
+      "sector": "Customer Service",
+      "salary": 25000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    },
+    {
+      "skill": "Fast-Paced Environment",
+      "experience": 3
+    },
+    {
+      "skill": "Fine Dining Experience",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Welcome and seat guests in a courteous and friendly manner."
+    },
+    {
+      "duty": "Assist in maintaining cleanliness and organization of the dining area."
+    },
+    {
+      "duty": "Provide attentive and exceptional service to guests, ensuring a positive dining experience."
+    },
+    {
+      "duty": "Assist servers in delivering food and beverages to guests."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 180
+    }
+  ]
+}

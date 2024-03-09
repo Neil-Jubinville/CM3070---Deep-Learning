@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Systems Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support adjacent engineering teams by provisioning/managing virtual environments (VMware) and installing and configuring Windows Operating Systems."
+    },
+    {
+      "duty": "Assist program teams with technical analysis, and support the testing and roll-out of new patches."
+    },
+    {
+      "duty": "Participate in programs focused on smoothing the transition from system development to operational readiness within the program\u2019s life-cycle."
+    },
+    {
+      "duty": "Perform software installations and upgrades to Windows operating systems and software packages and maintain them in accordance with established policies, procedures and service level agreements."
+    },
+    {
+      "duty": "Own and maintain a Windows domain, updating/creating group policy objects as necessary."
+    },
+    {
+      "duty": "Troubleshoot hardware, software, and wide area network related problems associated with the assigned Enterprise system(s)."
+    },
+    {
+      "duty": "Install and provide support for internal development software and applications."
+    },
+    {
+      "duty": "Ensure data/media recoverability by implementing a schedule of system backups and database archive operations."
+    },
+    {
+      "duty": "Conduct routine hardware and software audits of servers for compliance with established standards, policies, procedures, and configuration guidelines."
+    },
+    {
+      "duty": "Manage and direct proactive and reactive systems administration activities to ensure the availability, integrity, and reliability of networked and stand-alone systems."
+    },
+    {
+      "duty": "This position is ONSITE in Melbourne, FL."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Update Deployment",
+      "experience": 1
+    },
+    {
+      "skill": "Automation Platforms (WSUS, PowerShell, Ansible)",
+      "experience": 1
+    },
+    {
+      "skill": "Infrastructure Design",
+      "experience": 6
+    },
+    {
+      "skill": "Scripting for Automation",
+      "experience": 6
+    },
+    {
+      "skill": "SMB",
+      "experience": 6
+    },
+    {
+      "skill": "NFSDF",
+      "experience": 6
+    },
+    {
+      "skill": "SKM",
+      "experience": 6
+    },
+    {
+      "skill": "Certificate Authority",
+      "experience": 6
+    },
+    {
+      "skill": "VMWare vSphere",
+      "experience": 6
+    },
+    {
+      "skill": "Networking",
+      "experience": 6
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Engineering, Computer Science, IT Security or related field, and minimum 6 years related experience; or a Master\u2019s degree in Computer Engineering, Computer Science, IT Security or related field, and minimum 4 years related experience."
+    }
+  ]
+}

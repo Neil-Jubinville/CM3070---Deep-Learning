@@ -1,0 +1,107 @@
+{
+  "meta": [
+    {
+      "job_title": "ROS2 Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ROS2",
+      "experience": 3
+    },
+    {
+      "skill": "UAV",
+      "experience": 3
+    },
+    {
+      "skill": "Jetson BSP ASIX driver modification",
+      "experience": 3
+    },
+    {
+      "skill": "ROS2 node development",
+      "experience": 3
+    },
+    {
+      "skill": "PREEMPT-RT",
+      "experience": 3
+    },
+    {
+      "skill": "Sensor driver development",
+      "experience": 3
+    },
+    {
+      "skill": "ROS2 Autopilot architecture",
+      "experience": 3
+    },
+    {
+      "skill": "State estimation",
+      "experience": 3
+    },
+    {
+      "skill": "GNC",
+      "experience": 3
+    },
+    {
+      "skill": "Fast-DDS",
+      "experience": 3
+    },
+    {
+      "skill": "ROS1 node development",
+      "experience": 3
+    },
+    {
+      "skill": "Video chain latency benchmarking",
+      "experience": 3
+    },
+    {
+      "skill": "ROS2 performance optimization",
+      "experience": 3
+    },
+    {
+      "skill": "Jetson Integration",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Modify Jetson BSP ASIX driver for use with mini-DDL if necessary"
+    },
+    {
+      "duty": "Develop ROS2 node for AV's Mini-DDL"
+    },
+    {
+      "duty": "Install and use PREEMPT-RT on the Jetson Platform"
+    },
+    {
+      "duty": "Develop sensor drivers using SPI, I2C, and Serial interfaces"
+    },
+    {
+      "duty": "Develop ROS2 node for sensor drivers"
+    },
+    {
+      "duty": "Develop ROS2 Autopilot architecture"
+    },
+    {
+      "duty": "Implement closed loop control and state estimation for ROS2"
+    },
+    {
+      "duty": "Communicate from ROS to AV's other Fast-DDS and ROS1 modules"
+    },
+    {
+      "duty": "Benchmark video chain latency for various camera modules"
+    },
+    {
+      "duty": "Benchmark ROS2 performance"
+    },
+    {
+      "duty": "Optimize for fast booting on Jetson (optional)"
+    },
+    {
+      "duty": "Integrate with Plank's automated landing code"
+    }
+  ]
+}

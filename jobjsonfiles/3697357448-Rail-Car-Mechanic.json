@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Rail Car Mechanic",
+      "job_category": "Skilled Labor",
+      "job_class": "Mechanic",
+      "sector": "Transportation",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Welding",
+      "experience": 3
+    },
+    {
+      "skill": "Metal Fabrication",
+      "experience": 3
+    },
+    {
+      "skill": "Mechanical Inspection",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build, inspect, and repair rail cars according to safety and regulatory standards."
+    },
+    {
+      "duty": "Weld and paint rail cars and locomotives, and fabricate components as needed."
+    },
+    {
+      "duty": "Inspect and analyze rail car components for compliance with safety standards and identify corrective actions."
+    },
+    {
+      "duty": "Operate heavy equipment such as cranes and forklifts for car movement and repair."
+    },
+    {
+      "duty": "Perform airbrake tests and apply necessary end-of-train devices to ensure safe operation."
+    },
+    {
+      "duty": "Maintain tie-down devices, interior load restraining equipment, and other special equipment on railroad cars."
+    },
+    {
+      "duty": "Rerail cars and locomotives and conduct wreck service work on the railroad as needed."
+    },
+    {
+      "duty": "Utilize computer systems to obtain information on car characteristics, destination, repair records, and more."
+    },
+    {
+      "duty": "Perform miscellaneous activities and responsibilities as assigned by the manager."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 60,
+      "introvert_extrovert": 75
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma/GED with one year of mechanical work experience or training. Carman apprenticeship is preferred."
+    }
+  ]
+}

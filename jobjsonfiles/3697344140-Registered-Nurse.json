@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Acute - Nursing",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "IV Insertion",
+      "experience": 2
+    },
+    {
+      "skill": "Phlebotomy",
+      "experience": 2
+    },
+    {
+      "skill": "Conscious Sedation",
+      "experience": 2
+    },
+    {
+      "skill": "RN License",
+      "experience": 2
+    },
+    {
+      "skill": "ACLS",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform IV Insertion and phlebotomy procedures as required."
+    },
+    {
+      "duty": "Administer conscious sedation to patients as per the physician's orders."
+    },
+    {
+      "duty": "Adhere to patient care standards and protocols to ensure high-quality care delivery."
+    },
+    {
+      "duty": "Provide nursing care to patients with various conditions and ensure their comfort and well-being."
+    },
+    {
+      "duty": "Ensure accurate documentation of patient information and treatment plans."
+    },
+    {
+      "duty": "Work alternating weekends and possible holidays, and float to other departments as necessary."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 60,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's Degree in Nursing (Bachelor's Degree preferred)"
+    },
+    {
+      "credential": "New York State RN License"
+    },
+    {
+      "credential": "AHA BLS Certification"
+    },
+    {
+      "credential": "AHA ACLS Certification"
+    }
+  ]
+}

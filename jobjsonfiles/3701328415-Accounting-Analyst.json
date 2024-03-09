@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Accounting Analyst",
+      "job_category": "Accounting",
+      "job_class": "Analyst",
+      "sector": "Finance",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Numeracy",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "Organization",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform ad-hoc accounting task."
+    },
+    {
+      "duty": "Bookeeping, invoices, AP, AR, month-end support, etc."
+    },
+    {
+      "duty": "Automate processes and improve existing processes to streamline efficiency."
+    },
+    {
+      "duty": "Analyze and manipulate data for custom reporting processes and invoicing."
+    },
+    {
+      "duty": "Post journal entries for accrued expenses and revenue."
+    },
+    {
+      "duty": "Work closely with various expense managers to ensure accurate month-end accruals are submitted timely."
+    },
+    {
+      "duty": "Gathering and production of monthly reconciliation binder."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 40,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting or Finance"
+    }
+  ]
+}

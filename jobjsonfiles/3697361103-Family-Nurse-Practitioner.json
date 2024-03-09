@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Family Nurse Practitioner",
+      "job_category": "Healthcare",
+      "job_class": "Nurse Practitioner",
+      "sector": "Healthcare",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Evidence-based medical care",
+      "experience": 5
+    },
+    {
+      "skill": "Case management",
+      "experience": 5
+    },
+    {
+      "skill": "Health coaching",
+      "experience": 5
+    },
+    {
+      "skill": "Quality improvement",
+      "experience": 5
+    },
+    {
+      "skill": "Electronic Medical Record (EMR)",
+      "experience": 5
+    },
+    {
+      "skill": "Team-based care",
+      "experience": 5
+    },
+    {
+      "skill": "Coding and documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Primary care",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide evidence-based medical care and develop a patient-provider relationship, promoting patient participation in wellness goals."
+    },
+    {
+      "duty": "Work with a team to develop and implement a biopsychosocial plan of care, disease management, case management, and wellness coaching."
+    },
+    {
+      "duty": "Manage 10-15 patients per day, providing primary care medical services including preventive, chronic, and acute care."
+    },
+    {
+      "duty": "Participate in process improvement, quality assurance, and ongoing development of the team-based approach while leading change management."
+    },
+    {
+      "duty": "Promote health and wellness for patients through health coaching, health risk assessment, and other health promotion strategies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master of Science in Nursing (MSN)"
+    },
+    {
+      "credential": "Nurse Practitioner with current Board Certification from AANP or ANCC"
+    }
+  ]
+}

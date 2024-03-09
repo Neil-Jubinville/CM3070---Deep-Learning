@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Loan Officer",
+      "job_category": "Finance",
+      "job_class": "Officer",
+      "sector": "Finance",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Loan Origination",
+      "experience": 4
+    },
+    {
+      "skill": "Mortgage Products",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Regulations",
+      "experience": 4
+    },
+    {
+      "skill": "Sales",
+      "experience": 4
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Market Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "NMLS License",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Originate and prepare new loans in compliance with internal policies and procedures."
+    },
+    {
+      "duty": "Counsel and pre-qualify potential customers, obtain and analyze loan application information, and advise customers regarding the loan process."
+    },
+    {
+      "duty": "Maintain communication between customers and internal teams, ensuring timely information and documentation exchange."
+    },
+    {
+      "duty": "Stay informed of market trends and developments, research products and underwriting guidelines."
+    },
+    {
+      "duty": "Comply with all laws, rules, and regulations pertaining to mortgage loans."
+    },
+    {
+      "duty": "Participate in real estate functions or special events to develop and maintain relationships."
+    },
+    {
+      "duty": "Work with Branch Manager and other Loan Officers on local marketing campaigns."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "NMLS License & specific State license"
+    },
+    {
+      "credential": "Minimum of 2 years\u2019 experience in originating mortgage loans."
+    },
+    {
+      "credential": "Loan Originator License"
+    }
+  ]
+}

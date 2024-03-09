@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Worker",
+      "job_category": "Distribution",
+      "job_class": "Worker",
+      "sector": "Logistics",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Basic computer skills",
+      "experience": 1
+    },
+    {
+      "skill": "Warehouse Operations",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Logistics",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Match numbers quickly and accurately"
+    },
+    {
+      "duty": "Stock products and load totes for delivery"
+    },
+    {
+      "duty": "Take pride in delivering excellent customer service"
+    },
+    {
+      "duty": "Thrive in a busy, fast-paced warehouse environment"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": []
+}

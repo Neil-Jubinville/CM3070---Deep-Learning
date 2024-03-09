@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Process Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for ensuring the injection molding machine, tooling, materials, and equipment are operating at maximum efficiency and with zero defects."
+    },
+    {
+      "duty": "Performing mold changes and set up all auxiliary equipment for new production runs."
+    },
+    {
+      "duty": "Drive the reduction of scrap through elimination of mold conditions using corrective action and mold repair items."
+    },
+    {
+      "duty": "Responsible for the accurate completion of Process Verification and Master Set-up Sheets."
+    },
+    {
+      "duty": "Ensure machines and robots are running at optimum efficiency and troubleshoot machine, mold, and material issues."
+    },
+    {
+      "duty": "Follow all OSHA and safety rules and regulations during work."
+    },
+    {
+      "duty": "Achieve the minimum possible mold change/set-up time and maintain machine cleanliness."
+    },
+    {
+      "duty": "Reading mold schedule and identification and problem solving ability."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Injection Molding",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Mold Changeovers",
+      "experience": 5
+    },
+    {
+      "skill": "Robotics",
+      "experience": 3
+    },
+    {
+      "skill": "Continuous Education",
+      "experience": 3
+    },
+    {
+      "skill": "Plant Machinery Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Hydraulics and Pneumatics",
+      "experience": 3
+    },
+    {
+      "skill": "Mechanical Aptitude",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "3-5 years experience in plastics, mold set-ups, and troubleshooting injection molding. Robotics experience preferred. Working knowledge of plant machinery, electronics, hydraulics, and pneumatic preferred."
+    }
+  ]
+}

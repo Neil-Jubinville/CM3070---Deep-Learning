@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Product Manager",
+      "job_category": "Product Management",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Product Management",
+      "experience": 8
+    },
+    {
+      "skill": "Customer Research",
+      "experience": 8
+    },
+    {
+      "skill": "Roadmap Planning",
+      "experience": 8
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 8
+    },
+    {
+      "skill": "Business Analysis",
+      "experience": 8
+    },
+    {
+      "skill": "Stakeholder Management",
+      "experience": 8
+    },
+    {
+      "skill": "JIRA",
+      "experience": 5
+    },
+    {
+      "skill": "Salesforce Commerce Cloud",
+      "experience": 3
+    },
+    {
+      "skill": "Salesforce Service Cloud",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create and drive product vision and roadmap based on customer research, business capability, and technical feasibility."
+    },
+    {
+      "duty": "Work closely with UX/UI, Product Owners, and Engineering teams to deliver product and customer experience strategies."
+    },
+    {
+      "duty": "Establish relationships with stakeholder groups across marketing, sales, product segments, and customer advocacy to ensure alignment on product vision and strategy."
+    },
+    {
+      "duty": "Prioritize product features and categorize into key delivery milestones and releases."
+    },
+    {
+      "duty": "Gather and analyze qualitative and quantitative data to influence product features and prioritization."
+    },
+    {
+      "duty": "Define targets for success and continually review analytics, the competitive landscape, and evolving customer needs."
+    },
+    {
+      "duty": "Capture and document business and/or product requirements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree or equivalent education and 8+ years related experience as a product manager and/or equivalent role."
+    },
+    {
+      "credential": "Experience with at least one of the major product management software systems (example: JIRA, Asana, Trello, etc.)"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Crew Member",
+      "job_category": "Retail",
+      "job_class": "Entry-Level",
+      "sector": "Retail",
+      "salary": 25000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Retail Operations",
+      "experience": 1
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 0.5
+    },
+    {
+      "skill": "Sales",
+      "experience": 1
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Cash handling, fuel transactions, cleaning, and stocking"
+    },
+    {
+      "duty": "Food preparation and foodservice safety for foodservice positions"
+    },
+    {
+      "duty": "Maintaining a clean and safe environment for customers"
+    },
+    {
+      "duty": "Promoting rewards loyalty program"
+    },
+    {
+      "duty": "Following proper health code guidelines"
+    },
+    {
+      "duty": "Performing repeated bending, standing, and reaching, and occasionally lifting up to 50 pounds"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "meta": [
+    {
+      "job_title": "BI Sql Developer",
+      "job_category": "Analytics",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 3
+    },
+    {
+      "skill": "BI Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Telemetry Tools",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Running queries to extract/transform data from SQL databases"
+    },
+    {
+      "duty": "Designing and developing dashboards using BI tools like Tableau"
+    },
+    {
+      "duty": "Performing basic data analyses to answer business questions"
+    },
+    {
+      "duty": "Implementing governance & management of telemetry tools"
+    },
+    {
+      "duty": "Interpreting client-side telemetry data using tools like Mixpanel"
+    }
+  ]
+}

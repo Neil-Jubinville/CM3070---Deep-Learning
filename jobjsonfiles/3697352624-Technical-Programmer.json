@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Programmer",
+      "job_category": "Programming",
+      "job_class": "Technical",
+      "sector": "Software Engineering",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Program technical web based applications to support engineering teams' programming needs."
+    },
+    {
+      "duty": "Program lab-based tools for control of test equipment and meters to support testing requirements."
+    },
+    {
+      "duty": "Manage programming projects programmed by external consultants."
+    },
+    {
+      "duty": "Design software to support engineering team."
+    },
+    {
+      "duty": "Work on software program issues and provide reports for data analysis."
+    },
+    {
+      "duty": "Provide reports from various databases as required and run special programs upon request."
+    },
+    {
+      "duty": "Act as back-up to database administrator for critical functions when they are out of the office."
+    },
+    {
+      "duty": "Perform other duties as required by the Power Isolated - Product Management team."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Web Application Development",
+      "experience": 3
+    },
+    {
+      "skill": "Data Interfaces",
+      "experience": 3
+    },
+    {
+      "skill": "Lab Program Development",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    },
+    {
+      "skill": "Software Design",
+      "experience": 3
+    },
+    {
+      "skill": "Database Reporting",
+      "experience": 3
+    },
+    {
+      "skill": "Backup and Recovery",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Four-year college degree or equivalent experience in a programming-related field"
+    }
+  ]
+}

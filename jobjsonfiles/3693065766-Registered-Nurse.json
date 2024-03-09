@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 47375,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Process",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Ventilator Management",
+      "experience": 3
+    },
+    {
+      "skill": "Cardiac Monitoring",
+      "experience": 3
+    },
+    {
+      "skill": "BLS Certification",
+      "experience": 3
+    },
+    {
+      "skill": "ACLS Certification",
+      "experience": 3
+    },
+    {
+      "skill": "Acute Care Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver safe patient care using the nursing process of assessment, planning, implementation, and evaluation."
+    },
+    {
+      "duty": "Provide direct patient care within the scope of practice."
+    },
+    {
+      "duty": "Guide patient/family teaching and activities of other nursing personnel while maintaining standards of care in the Med/Surg/Telemetry Unit."
+    },
+    {
+      "duty": "Communicate with physicians about changes in the patient\u2019s clinical condition, including cardiac monitoring, results of diagnostic studies, and symptomatology."
+    },
+    {
+      "duty": "Respond quickly and accurately to changes in condition and/or response to treatment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science in Nursing (BSN) required"
+    }
+  ]
+}

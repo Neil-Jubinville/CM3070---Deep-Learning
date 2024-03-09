@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Kitchen Staff",
+      "job_category": "Hospitality",
+      "job_class": "Staff",
+      "sector": "Culinary",
+      "salary": 26000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Kitchen Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 2
+    },
+    {
+      "skill": "Positive Attitude",
+      "experience": 2
+    },
+    {
+      "skill": "Fast Paced Work",
+      "experience": 2
+    },
+    {
+      "skill": "Prep Management",
+      "experience": 2
+    },
+    {
+      "skill": "Work Culture",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work on the hot side and manage tickets during meal service"
+    },
+    {
+      "duty": "Manage prep for the station and maintain an accurate daily prep list"
+    },
+    {
+      "duty": "Work well with others and maintain a positive attitude"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ]
+}

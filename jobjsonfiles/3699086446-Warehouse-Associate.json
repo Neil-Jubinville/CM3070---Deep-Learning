@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Associate",
+      "job_category": "Logistics",
+      "job_class": "Associate",
+      "sector": "Transportation",
+      "salary": 19000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Loading and unloading freight",
+      "experience": 2
+    },
+    {
+      "skill": "Operating warehouse equipment",
+      "experience": 2
+    },
+    {
+      "skill": "Maintaining a clean and organized warehouse",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Loading and unloading freight"
+    },
+    {
+      "duty": "Moving freight to and from storage areas"
+    },
+    {
+      "duty": "Operating warehouse equipment"
+    },
+    {
+      "duty": "Checking incoming and outgoing shipments"
+    },
+    {
+      "duty": "Maintaining a clean and organized warehouse"
+    },
+    {
+      "duty": "Performing other duties as assigned"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 50,
+      "introvert_extrovert": 90
+    }
+  ]
+}

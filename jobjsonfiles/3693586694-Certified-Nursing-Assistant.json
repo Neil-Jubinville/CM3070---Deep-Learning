@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Certified Nursing Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Activities of Daily Living",
+      "experience": 1
+    },
+    {
+      "skill": "Documentation",
+      "experience": 1
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 1
+    },
+    {
+      "skill": "Diversity and Inclusion",
+      "experience": 1
+    },
+    {
+      "skill": "Safety Protocols",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist patients with activities of daily living under the supervision of a registered nurse."
+    },
+    {
+      "duty": "Maintain a safe and clean environment for patients."
+    },
+    {
+      "duty": "Engage in teamwork and community involvement."
+    },
+    {
+      "duty": "Leverage diversity and inclusion to support quality care."
+    },
+    {
+      "duty": "Foster a safe patient environment driven by safety protocols."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100
+    },
+    {
+      "student_teacher": 80
+    },
+    {
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED (Completion of NAI program required)"
+    }
+  ]
+}

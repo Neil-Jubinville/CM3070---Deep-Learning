@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Center Technician 1",
+      "job_category": "IT",
+      "job_class": "Technician",
+      "sector": "Software Engineering",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Computer Hardware",
+      "experience": 1
+    },
+    {
+      "skill": "IT Equipment Support",
+      "experience": 1
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 1
+    },
+    {
+      "skill": "Datacenter Experience",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Remove network cables as part of a datacenter decommission"
+    },
+    {
+      "duty": "Run/Label/Stage Power & Networking cables"
+    },
+    {
+      "duty": "Follow procedures for preparing, installing, performing diagnostics, troubleshooting, replacing, and/or decommissioning equipment with guidance from Datacenter Technician Leads"
+    },
+    {
+      "duty": "Physical audits of datacenter assets"
+    },
+    {
+      "duty": "Performs post-execution quality checks and verifies that grounding, staging, labeling, and cabling are set up properly according to safety protocols, deployment standards, and planned Network Design Tasks (NDTs)"
+    },
+    {
+      "duty": "Performs diagnostics and troubleshooting following standard procedures, quickly identifies the cause(s) of issues, and replaces faulty components"
+    },
+    {
+      "duty": "Decommissions hardware for simple changes and refreshes (e.g. memory upgrades, OS rebuilds) following standard procedures with minimal guidance"
+    },
+    {
+      "duty": "Follows procedures to communicate, report, and escalate incidents to appropriate Datacenter Technician Leads"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma, GED, or Equivalent"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Salon Technician",
+      "job_category": "Beauty",
+      "job_class": "Technician",
+      "sector": "Beauty and Wellness",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nail Care",
+      "experience": 5
+    },
+    {
+      "skill": "Pedicure",
+      "experience": 5
+    },
+    {
+      "skill": "Manicure",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Cosmetology",
+      "experience": 5
+    },
+    {
+      "skill": "Team Player",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide professional nail and skin care services to salon clientele."
+    },
+    {
+      "duty": "Meet and exceed personal service and retail sales goals."
+    },
+    {
+      "duty": "Recruit new clients and maintain customer client base."
+    },
+    {
+      "duty": "Prescribe appropriate retail products and respond to customer service issues."
+    },
+    {
+      "duty": "Maintain salon housekeeping duties and comply with state board regulations."
+    },
+    {
+      "duty": "Participate in ongoing education and stay updated on industry trends."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid and current board certified license in cosmetology or cosmetic industry"
+    },
+    {
+      "credential": "Two to five years of experience in the cosmetology or cosmetic industry"
+    }
+  ]
+}

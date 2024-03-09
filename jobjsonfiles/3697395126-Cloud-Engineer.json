@@ -1,0 +1,109 @@
+{
+  "meta": [
+    {
+      "job_title": "Cloud Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 128000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 3
+    },
+    {
+      "skill": "SpringBoot",
+      "experience": 3
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 3
+    },
+    {
+      "skill": "Node.js",
+      "experience": 3
+    },
+    {
+      "skill": "AWS",
+      "experience": 3
+    },
+    {
+      "skill": "GCP",
+      "experience": 3
+    },
+    {
+      "skill": "Azure",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 3
+    },
+    {
+      "skill": "JSON",
+      "experience": 3
+    },
+    {
+      "skill": "API Development",
+      "experience": 3
+    },
+    {
+      "skill": "Container Deployment",
+      "experience": 3
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 3
+    },
+    {
+      "skill": "SQL",
+      "experience": 3
+    },
+    {
+      "skill": "NoSQL",
+      "experience": 3
+    },
+    {
+      "skill": "Search Engines",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop cloud-based software solutions for customer systems and internal/external services"
+    },
+    {
+      "duty": "Participate in all aspects of the software development life cycle including planning, development, and unit testing"
+    },
+    {
+      "duty": "Work in an agile development environment and contribute to work definition, scoping, code reviews, and design reviews"
+    },
+    {
+      "duty": "Support Production services in a DevOps environment, including monitoring system health, deploying software, and participating in on-call rotation and incident handling"
+    },
+    {
+      "duty": "Support service initiatives adhering to best practices for security, scalability, cost, and overall performance"
+    },
+    {
+      "duty": "Create automated tests and deployment processes, and work with continuous integration tools"
+    },
+    {
+      "duty": "Collaborate with cross-functional teams in a highly collaborative environment"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

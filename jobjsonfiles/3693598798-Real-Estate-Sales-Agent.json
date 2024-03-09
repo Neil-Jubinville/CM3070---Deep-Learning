@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Real Estate Sales Agent",
+      "job_category": "Sales",
+      "job_class": "Agent",
+      "sector": "Sales",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Experience",
+      "experience": 1
+    },
+    {
+      "skill": "Entrepreneurial Spirit",
+      "experience": 3
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Prospecting",
+      "experience": 3
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Stage and show living spaces"
+    },
+    {
+      "duty": "Advertise and market living spaces"
+    },
+    {
+      "duty": "Finds and reaches out to new prospects"
+    },
+    {
+      "duty": "Discover clients' criteria and find living spaces that fit their criteria"
+    },
+    {
+      "duty": "Negotiate living space contracts and close deal with client"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 110,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "1-2 years' of sales experience"
+    }
+  ]
+}

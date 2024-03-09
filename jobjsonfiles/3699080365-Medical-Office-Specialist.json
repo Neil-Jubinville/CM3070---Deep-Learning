@@ -1,0 +1,45 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Office Specialist",
+      "job_category": "Healthcare",
+      "job_class": "Specialist",
+      "sector": "Healthcare",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clerical Expertise",
+      "experience": 3
+    },
+    {
+      "skill": "EHR System",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage all front office functions including patient relations, check-in/check-out, scheduling, insurance verification, and answering phones"
+    },
+    {
+      "duty": "Manage filing and retrieving medical records and patient information"
+    },
+    {
+      "duty": "Assist with collecting and recording co-pays (cash and/or charge) including balancing the day in the computer"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "One to three years of experience in a medical office setting is preferredExperience using an EHR system is highly preferred"
+    }
+  ]
+}

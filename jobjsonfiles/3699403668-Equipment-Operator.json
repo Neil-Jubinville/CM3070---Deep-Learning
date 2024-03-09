@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Equipment Operator",
+      "job_category": "Manufacturing",
+      "job_class": "Operator",
+      "sector": "Manufacturing",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Equipment Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Math",
+      "experience": 3
+    },
+    {
+      "skill": "Mechanical Aptitude",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 3
+    },
+    {
+      "skill": "Record Keeping",
+      "experience": 3
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for safe and efficient operation of equipment."
+    },
+    {
+      "duty": "Perform cleaning and minor adjustments as needed."
+    },
+    {
+      "duty": "Verify and validate information, take measurements and record data, and identify and effectively communicate any out-of-specification product conditions."
+    },
+    {
+      "duty": "Maintain a safe working environment, ensuring that all safety, security, quality and food safety policies and procedures are followed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient & Guest Services",
+      "job_category": "Customer Service",
+      "job_class": "Service Representative",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Professionalism",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist and provide patients/visitors with information, resources, and directions."
+    },
+    {
+      "duty": "Facilitate communication between patients, visitors, physicians, and other staff."
+    },
+    {
+      "duty": "Contribute to the organization by actively participating in process improvement initiatives and shared decision making."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED"
+    }
+  ]
+}

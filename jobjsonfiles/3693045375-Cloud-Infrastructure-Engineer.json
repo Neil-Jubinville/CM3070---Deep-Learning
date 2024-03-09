@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Cloud Infrastructure Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft Azure",
+      "experience": 5
+    },
+    {
+      "skill": "Terraform",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD pipelines",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting Languages (PowerShell, Python, Bash)",
+      "experience": 5
+    },
+    {
+      "skill": "Containerization and Orchestration (Docker, Kubernetes)",
+      "experience": 4
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with cross-functional teams to design, implement, and manage infrastructure as code (IaC) solutions using Terraform on the Microsoft Azure platform."
+    },
+    {
+      "duty": "Develop and maintain Terraform modules and templates for provisioning, configuring, and scaling Azure resources."
+    },
+    {
+      "duty": "Work closely with DevOps and development teams to ensure smooth deployment pipelines, continuous integration, and continuous delivery (CI/CD) processes."
+    },
+    {
+      "duty": "Optimize and automate cloud infrastructure, ensuring scalability, security, and high availability."
+    },
+    {
+      "duty": "Troubleshoot and resolve infrastructure-related issues, ensuring system reliability and performance."
+    },
+    {
+      "duty": "Stay up-to-date with the latest Azure and Terraform best practices, tools, and technologies to drive continuous improvement."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent work experience)"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Vascular Technologist",
+      "job_category": "Healthcare",
+      "job_class": "Technologist",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Catheterization",
+      "experience": 3
+    },
+    {
+      "skill": "Diagnostic Imaging",
+      "experience": 3
+    },
+    {
+      "skill": "Cardiology",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Sterile Technique",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist with the insertion of catheters into the heart and measure and administer special fluids."
+    },
+    {
+      "duty": "Under the general supervision of the Cath Lab Supervisor, assist with diagnostic and therapeutic invasive cardiology patient procedures in the catheterization labs."
+    },
+    {
+      "duty": "Demonstrate knowledge of the principles of radiographic imaging, patient physiologic monitoring, and cardiac arrhythmias recognition."
+    },
+    {
+      "duty": "Participate in the on-call rotation and respond within 30 minutes to the Cath Lab when on call."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Successful graduation from accredited Ultrasound or Cardiovascular Technology Program. Or grandfathered in with current Certification from ARDMS (RVT), or ARRT (VS-Vascular Sonography), or CCI (RVS) required. BLS from American Heart Association required upon hire. Certification with ARDMS (RVT) or ARRT (VS-Vascular Sonography), or CCI (RVS) recommended upon hire and required within 18 months of hire."
+    }
+  ]
+}

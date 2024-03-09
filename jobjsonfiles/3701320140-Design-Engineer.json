@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Design Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Technology",
+      "salary": 38000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Product Design",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "experience": 2
+    },
+    {
+      "skill": "Solidworks",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "3D Printing",
+      "experience": 3
+    },
+    {
+      "skill": "Hardware Schematics",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for design, development, and test of mounting and enclosure solutions."
+    },
+    {
+      "duty": "Work with product management and marketing to understand business challenges and needs."
+    },
+    {
+      "duty": "Develop designs in Solidworks and model in Solidworks."
+    },
+    {
+      "duty": "Problem solving and testing in short time periods."
+    },
+    {
+      "duty": "Able to read and work with detailed hardware schematics."
+    },
+    {
+      "duty": "Accurately maintain design repository."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's in Mechanical Engineering or relevant field (required)"
+    }
+  ]
+}

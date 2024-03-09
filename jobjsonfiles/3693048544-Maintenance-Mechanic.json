@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Mechanic",
+      "job_category": "Maintenance",
+      "job_class": "Mechanic",
+      "sector": "Manufacturing",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain manufacturing equipment, focusing on mechanical, hydraulic, and pneumatic equipment."
+    },
+    {
+      "duty": "Manage spare parts inventory, evaluate needs, recommend acquisitions, and assist in maintaining the spare parts database."
+    },
+    {
+      "duty": "Study, diagnose, and troubleshoot complex machine and equipment malfunctions or maintenance problems and take corrective and preventive action."
+    },
+    {
+      "duty": "Use acquired knowledge on equipment malfunctions to build and improve the preventive maintenance plan."
+    },
+    {
+      "duty": "Assure execution of preventive and corrective maintenance plans, oversee completion, and take appropriate action to ensure timely and effective execution."
+    },
+    {
+      "duty": "Keep track of and document maintenance work performed and changes made to equipment in the appropriate preventive maintenance database."
+    },
+    {
+      "duty": "Coordinate the usage of third-party maintenance resources, ensure they possess the necessary skills, information, tools, and materials."
+    },
+    {
+      "duty": "Provide orientation and training on maintenance tasks for the production crews."
+    },
+    {
+      "duty": "Maintain a safe working environment by ensuring compliance of safety and environmental rules and regulations and recommend ideas for improvement."
+    },
+    {
+      "duty": "Keep inventory of spare parts and tools organized and correctly documented."
+    },
+    {
+      "duty": "Support the 24-hour operation of the facility and be on-call."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma, Vocational/Technical Certifications desired"
+    }
+  ]
+}

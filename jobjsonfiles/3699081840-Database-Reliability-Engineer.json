@@ -1,0 +1,102 @@
+{
+  "meta": [
+    {
+      "job_title": "Database Reliability Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 135000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL Server",
+      "experience": 5
+    },
+    {
+      "skill": "DB2",
+      "experience": 5
+    },
+    {
+      "skill": "Redhat Linux",
+      "experience": 5
+    },
+    {
+      "skill": "Ansible",
+      "experience": 5
+    },
+    {
+      "skill": "Shell Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Python Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Terraform",
+      "experience": 5
+    },
+    {
+      "skill": "Database Performance Tuning",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain operational databases, ensuring performance, availability, and security."
+    },
+    {
+      "duty": "Provide database solutions for complex business issues and data processing."
+    },
+    {
+      "duty": "Diagnose and resolve database issues, including storage, performance, and security."
+    },
+    {
+      "duty": "Automate database management, maintenance, and data processing activities."
+    },
+    {
+      "duty": "Create, maintain, and optimize database objects such as indexes, tables, triggers, and stored procedures."
+    },
+    {
+      "duty": "Evaluate business needs, perform feasibility analysis, and determine project scope for database development."
+    },
+    {
+      "duty": "Evaluate and deploy database solutions in AWS and Azure environments."
+    },
+    {
+      "duty": "Collaborate with technical and non-technical resources for project work and troubleshooting."
+    },
+    {
+      "duty": "Analyze operating system statistics and troubleshoot performance-related problems."
+    },
+    {
+      "duty": "Adapt new automation technologies and implement them effectively."
+    },
+    {
+      "duty": "Participate in 24/7 on-call rotation and escalate issues as needed."
+    },
+    {
+      "duty": "Document processes related to database design, configuration, and performance."
+    },
+    {
+      "duty": "Monitor and analyze APM Monitoring tools for database performance."
+    },
+    {
+      "duty": "Perform other job-related duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Computer Science or other technical discipline (Technical Certifications are a plus)"
+    }
+  ]
+}

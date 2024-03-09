@@ -1,0 +1,93 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Selling",
+      "experience": 5
+    },
+    {
+      "skill": "Lead Generation",
+      "experience": 5
+    },
+    {
+      "skill": "SAAS Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Complex Sales Cycles",
+      "experience": 5
+    },
+    {
+      "skill": "MEDDIC",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud",
+      "experience": 5
+    },
+    {
+      "skill": "Security",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop a business plan to overachieve sales goals"
+    },
+    {
+      "duty": "Manage and maintain the entire sales ecosystem from generating leads through closing"
+    },
+    {
+      "duty": "Help customers understand the value of Cribl during the sales process"
+    },
+    {
+      "duty": "Articulate our value proposition up and down the organization, from engineer up to CxO"
+    },
+    {
+      "duty": "Forecasting predictably and hitting sales targets"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Background of successfully selling security deals to large enterprises (Fortune 1000)"
+    },
+    {
+      "credential": "Experience developing pipeline and opening new accounts, including lead generation"
+    },
+    {
+      "credential": "A successful track record of overachievement annually"
+    },
+    {
+      "credential": "Experience navigating complex sales cycles"
+    },
+    {
+      "credential": "Experience with SAAS sales - cloud, logs, metrics, IT operations and security"
+    },
+    {
+      "credential": "Background using MEDDIC"
+    },
+    {
+      "credential": "Background in Cloud, Security, or Machine Learning"
+    }
+  ]
+}

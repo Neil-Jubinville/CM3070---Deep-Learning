@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Intensive Care",
+      "experience": 5
+    },
+    {
+      "skill": "Nephrology",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Surgical",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Care",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Room",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Healthcare Quality Improvement",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide nursing care to patients with end-stage renal failure or chronic kidney disease in an outpatient dialysis center."
+    },
+    {
+      "duty": "Conduct patient assessment and observations, measuring stats and machine setup."
+    },
+    {
+      "duty": "Work with a team of Patient Care Technicians (PCTs) to deliver care and support to patients dealing with multiple co-morbidities."
+    },
+    {
+      "duty": "Adhere to healthcare compliance standards and participate in quality improvement initiatives to improve patient health."
+    },
+    {
+      "duty": "Comply with Federal and State requirements related to vaccination against Covid-19."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associates Degree in Nursing (A.D.N) from accredited school of nursing required; Bachelor of Science in Nursing (B.S.N); three-year diploma from accredited diploma program may be substituted for nursing degree"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Emergency Physician",
+      "job_category": "Healthcare",
+      "job_class": "Physician",
+      "sector": "Healthcare",
+      "salary": 350000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Emergency Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Care",
+      "experience": 5
+    },
+    {
+      "skill": "Anesthesia",
+      "experience": 5
+    },
+    {
+      "skill": "Labor and Delivery",
+      "experience": 5
+    },
+    {
+      "skill": "Speciality Backup",
+      "experience": 5
+    },
+    {
+      "skill": "Tele Neuro",
+      "experience": 5
+    },
+    {
+      "skill": "Nephrology and Dialysis",
+      "experience": 5
+    },
+    {
+      "skill": "Intubation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide emergency medical care in a clinical setting, addressing acute and life-threatening conditions."
+    },
+    {
+      "duty": "Coordinate and perform intubations, anesthesia, and labor and delivery procedures as necessary."
+    },
+    {
+      "duty": "Oversee and provide critical care to patients in need of immediate life-saving treatment."
+    },
+    {
+      "duty": "Work with specialty backup teams including General Surgery, Ortho, OB/GYN, Urology, GI, Pulmonary/ICU, Tele Neuro, Nephrology, and Dialysis."
+    },
+    {
+      "duty": "Collaborate with Advanced Practice Providers to ensure comprehensive care and coverage."
+    },
+    {
+      "duty": "Develop treatment plans, respond to codes, and organize patient care in a fast-paced environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Must be EM residency trained or ABEM/AOBEM certified/eligible"
+    }
+  ]
+}

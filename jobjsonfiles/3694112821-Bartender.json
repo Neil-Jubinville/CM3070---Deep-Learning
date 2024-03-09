@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Bartender",
+      "job_category": "Hospitality",
+      "job_class": "Bartender",
+      "sector": "Food and Beverage",
+      "salary": 26000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mixology",
+      "experience": 2
+    },
+    {
+      "skill": "Alcohol Service",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 2
+    },
+    {
+      "skill": "POS Systems",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Receive and fulfill drink orders by mixing and serving alcoholic and non-alcoholic beverages following standard recipes and company proportions."
+    },
+    {
+      "duty": "Serve alcohol beverages responsibly, request identification, and adhere to all unit and company alcohol service policies and procedures."
+    },
+    {
+      "duty": "Enter drink orders into the cash register, collect payment, and make correct change."
+    },
+    {
+      "duty": "Maintain bar stock by ordering or requisitioning liquors, beverages, condiments, and supplies."
+    },
+    {
+      "duty": "Clean and store bar equipment and bar stock."
+    },
+    {
+      "duty": "Perform opening, closing, and side work duties as assigned."
+    },
+    {
+      "duty": "Provide customer service and create an excellent guest experience at all times."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 40,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": []
+}

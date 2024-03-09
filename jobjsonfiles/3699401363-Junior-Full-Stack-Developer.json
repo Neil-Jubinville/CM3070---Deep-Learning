@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Junior Full Stack Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "React Native",
+      "experience": 2
+    },
+    {
+      "skill": "Typescript",
+      "experience": 2
+    },
+    {
+      "skill": "Cloud Development",
+      "experience": 2
+    },
+    {
+      "skill": "DevOps",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop, maintain, and upgrade existing software applications and systems."
+    },
+    {
+      "duty": "Collaborate with other engineers, designers, and product owners to develop user-friendly applications."
+    },
+    {
+      "duty": "Diagnose and troubleshoot existing application issues to ensure optimal performance."
+    },
+    {
+      "duty": "Research and evaluate new technologies to determine if they can be incorporated into existing applications and systems."
+    },
+    {
+      "duty": "Design and write code to create new applications from scratch."
+    },
+    {
+      "duty": "Test applications for performance, accuracy, and usability."
+    },
+    {
+      "duty": "Implement new features and upgrades to existing applications."
+    },
+    {
+      "duty": "Maintain up-to-date documentation for all applications, including user guides, technical specifications, and training materials."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science, Software Engineering, or a related field."
+    },
+    {
+      "credential": "Initial experience with DevOps processes and tools."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Care Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care Services",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 1
+    },
+    {
+      "skill": "Assisting Registered Nurses",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Quality Improvement",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Life Support (BLS)",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver specific patient care services under the supervision of a Registered Nurse."
+    },
+    {
+      "duty": "Demonstrate competence appropriate to the role by delivering patient care in a knowledgeable, consistent, and skillful manner."
+    },
+    {
+      "duty": "Maintain awareness of organizational and regulatory standards, policies, and procedures."
+    },
+    {
+      "duty": "Participate in a collaborative, empowered work environment through teamwork and effective communication."
+    },
+    {
+      "duty": "Attend and participate in organizational and departmental meetings, as well as continuing education activities."
+    },
+    {
+      "duty": "Demonstrate fiscal responsibility through appropriate and timely use of organizational resources."
+    },
+    {
+      "duty": "Participate in performance improvement activities to continuously enhance service delivery."
+    },
+    {
+      "duty": "Reflect City of Hope values in individual work performance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Graduate or equivalent, plus one of the following: Non-licensed graduate of a Registered Nurse or Licenses Vocational (LVN) program; or Enrollment in an approved RN program and completion of at least one medical surgical clinical rotation; or Certification as a Nursing Assistant; or successful completion of a Nursing Assistant Program before May 1, 2018."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "job_title": "Certified Nursing Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "C.N.A License",
+      "experience": 1
+    },
+    {
+      "skill": "BLS De-Escalation Certification",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Attend to the needs of the Patient area under the direct supervision of the unit charge person."
+    },
+    {
+      "duty": "Deliver age-appropriate care by hospital policy."
+    },
+    {
+      "duty": "Perform assigned tasks in accordance with the hospital\u2019s philosophy, values, standards, policies, and procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current Louisiana C.N.A License"
+    },
+    {
+      "credential": "Current BLS De-Escalation Certification"
+    }
+  ]
+}

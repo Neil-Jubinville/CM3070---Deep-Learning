@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical/Pharmaceutical Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Skincare/Cosmeceuticals/Aesthetics/Dermatology",
+      "experience": 5
+    },
+    {
+      "skill": "Outside Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Business-to-Business sales",
+      "experience": 5
+    },
+    {
+      "skill": "Marketing Programs",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prospect and open new accounts"
+    },
+    {
+      "duty": "Grow business with existing accounts"
+    },
+    {
+      "duty": "Drive and increase sell-through of Cosmeceutical products within physician practice"
+    },
+    {
+      "duty": "Develop and execute marketing programs that create patient demand and awareness"
+    },
+    {
+      "duty": "Gain market share for RX products"
+    },
+    {
+      "duty": "Achieve targeted sales goals and objectives within the territory"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 40,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Sales, Marketing, Business, or a related field (Master's preferred)"
+    }
+  ]
+}

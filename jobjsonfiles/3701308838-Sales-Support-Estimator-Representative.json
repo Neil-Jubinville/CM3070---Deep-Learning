@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Support/Estimator Representative",
+      "job_category": "Sales Support",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "MS Office Proficiency",
+      "experience": 3
+    },
+    {
+      "skill": "Quoting Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Sales Processes",
+      "experience": 3
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Preparing orders, quoting, and replying to email requests for orders."
+    },
+    {
+      "duty": "Maintaining, updating, and organizing accounts."
+    },
+    {
+      "duty": "Learning and mastering the company\u2019s products and operational procedures."
+    },
+    {
+      "duty": "Working with operations as needed to ensure quality customer service and customer satisfaction."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Proficiency in MS Office programs and knowledge of quotes and sales processes."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Sous Chef",
+      "job_category": "Culinary",
+      "job_class": "Sous Chef",
+      "sector": "Hospitality",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Management",
+      "experience": 5
+    },
+    {
+      "skill": "Creativity",
+      "experience": 5
+    },
+    {
+      "skill": "Business Acumen",
+      "experience": 5
+    },
+    {
+      "skill": "Flexibility",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide leadership and management for the culinary department by establishing efficient systems and processes to ensure standards as set forth by Four Seasons and culinary partners are adhered to."
+    },
+    {
+      "duty": "Assist in the planning and development of recipes and ensure the correct preparation and presentation of a consistent level for all food items through production and demonstration."
+    },
+    {
+      "duty": "Maintain control systems to assure quality and portion consistency, monitor food shipments to meet purchasing specifications, and foster awareness of the importance of food preparation and quality."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Culinary Arts or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Privacy Engineer",
+      "job_category": "Technology",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 187500,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Security",
+      "experience": 4
+    },
+    {
+      "skill": "Data Anonymization",
+      "experience": 4
+    },
+    {
+      "skill": "Cloud Computing (AWS, GCP, Azure)",
+      "experience": 4
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Auditing and Compliance",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide consultative guidance on the architecture and design of privacy controls, mechanisms, and protocols across the organization and product lines."
+    },
+    {
+      "duty": "Guide engineering teams to ensure transparent data collection and usage practices that protect user privacy and mitigate risk."
+    },
+    {
+      "duty": "Design and implement privacy capabilities, patterns, and policies to be integrated into products and provide technical consulting on privacy for product teams."
+    },
+    {
+      "duty": "Use 3rd party commercial tooling for privacy reviews and tracking issues, and analyze and audit data through its lifecycle to ensure privacy requirements are met."
+    },
+    {
+      "duty": "Build relationships with technical and compliance teams to deliver privacy-by-design controls incorporated into engineering deployments."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or a similar technical field (Master's degree preferred)"
+    },
+    {
+      "credential": "Certifications related to privacy, such as CIPP, CIPT, or CIPM"
+    }
+  ]
+}

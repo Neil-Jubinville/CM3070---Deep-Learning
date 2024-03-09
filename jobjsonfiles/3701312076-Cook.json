@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Cook",
+      "job_category": "Food Services",
+      "job_class": "Cook",
+      "sector": "Hospitality",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee the work of kitchen staff to ensure that all protocols and procedures are being followed including temperature logs, food storage organization, and inventory control."
+    },
+    {
+      "duty": "Ensures food quality meets guidelines and expectations by monitoring recipe preparation and plating prior to orders being expedited and providing instruction as necessary."
+    },
+    {
+      "duty": "Responsible for catering order production and execution."
+    },
+    {
+      "duty": "Assists with performance management by providing feedback to and regarding kitchen staff and addressing issues that arise during assigned shift."
+    },
+    {
+      "duty": "Set up station and collect all necessary supplies to prepare menu for service including arranging sauces and supplementary garnishes for allocated station."
+    },
+    {
+      "duty": "Prepare a variety of foods; meat, seafood, poultry, vegetable and cold food items following recipes and food preparation standards."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Culinary Arts",
+      "experience": 3
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 3
+    },
+    {
+      "skill": "Menu Preparation",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 3
+    },
+    {
+      "skill": "Supervisory Skills",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associates degree in culinary arts and 3 years of experience in a professional kitchen, preferably in the hospitality industry or an equivalent amount of education and experience. Previous supervisory experience helpful."
+    }
+  ]
+}

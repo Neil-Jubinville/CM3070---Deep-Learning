@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Database Reliability Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL Server",
+      "experience": 5
+    },
+    {
+      "skill": "DB2",
+      "experience": 5
+    },
+    {
+      "skill": "Redhat Linux",
+      "experience": 5
+    },
+    {
+      "skill": "Ansible",
+      "experience": 5
+    },
+    {
+      "skill": "Shell Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Python Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Terraform",
+      "experience": 3
+    },
+    {
+      "skill": "Database Performance Tuning",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "APM Monitoring",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain the ongoing operational databases (SQL Server, DB2) to ensure system performance, availability, reliability, security, recoverability, change management, and regulatory compliance."
+    },
+    {
+      "duty": "Provide database solutions to solve complex business issues, including data processing, loading, performance improvements, data storage, and data replication."
+    },
+    {
+      "duty": "Diagnose, troubleshoot, and resolve database-related issues, including storage, performance, availability, data integrity, and database security."
+    },
+    {
+      "duty": "Automate database management, maintenance, and data processing activities."
+    },
+    {
+      "duty": "Create, modify, maintain, and optimize database objects such as indexes, tables, partitions, triggers, constraints, stored procedures, and views."
+    },
+    {
+      "duty": "Evaluate releases of DB2, MS SQL Server, and third-party products to ensure that the organization is running the most appropriate products."
+    },
+    {
+      "duty": "Collaborate with technical/non-technical resources for project work, POCs (Proofs of Concept), and troubleshooting exercises."
+    },
+    {
+      "duty": "Analyze Operating System statistics and troubleshoot performance-related problems on storage, I/O throughput, and OS kernel parameters."
+    },
+    {
+      "duty": "Adapt new automation technologies and implement the same."
+    },
+    {
+      "duty": "Participate in 24/7 on-call rotation and escalate issues as needed."
+    },
+    {
+      "duty": "Perform other job-related duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Computer Science or other technical discipline. Technical Certifications are a plus."
+    }
+  ]
+}

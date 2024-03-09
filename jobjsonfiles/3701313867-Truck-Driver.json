@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Truck Driver",
+      "job_category": "Logistics",
+      "job_class": "Driver",
+      "sector": "Transportation",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Safe Driving",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 5
+    },
+    {
+      "skill": "Organization",
+      "experience": 5
+    },
+    {
+      "skill": "Organization",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Aptitude",
+      "experience": 5
+    },
+    {
+      "skill": "Map Reading",
+      "experience": 5
+    },
+    {
+      "skill": "Basic Math",
+      "experience": 5
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Physically transport products throughout the country while complying with state and federal laws and regulations."
+    },
+    {
+      "duty": "Provide exceptional customer service and represent the company in a professional manner."
+    },
+    {
+      "duty": "Maintain thorough vehicle safety inspections and operate in compliance with FMCSA regulations."
+    },
+    {
+      "duty": "Complete E-DVIR for mechanical conditions in need of repair and communicate any delays to dispatch."
+    },
+    {
+      "duty": "Maintain pre-scheduled appointments and obtain necessary signatures on bills of lading."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Class A Commercial Driver\u2019s License"
+    }
+  ]
+}

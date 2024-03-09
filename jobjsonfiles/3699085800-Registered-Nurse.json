@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Nursing",
+      "job_class": "RN",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 4
+    },
+    {
+      "skill": "Patient Advocacy",
+      "experience": 4
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 4
+    },
+    {
+      "skill": "Clinical Decision-Making",
+      "experience": 4
+    },
+    {
+      "skill": "Healthcare Regulations",
+      "experience": 4
+    },
+    {
+      "skill": "Emergency Nursing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Organize patient care by prioritizing, delegating, delivering, and evaluating on an ongoing basis."
+    },
+    {
+      "duty": "Utilize the knowledge base of nursing education and experience to deliver nursing care using the nursing process according to hospital policies, procedures, and protocols."
+    },
+    {
+      "duty": "Collaborate with the nursing team to facilitate overall improvement in quality of care, patient experience, and cost reduction."
+    },
+    {
+      "duty": "Foster a learning environment for patients/families, nursing staff, and members of the health care team."
+    },
+    {
+      "duty": "Advocate for ethical and holistic care promoting the autonomy, dignity, and health of patients from diverse ethnic and social backgrounds."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing, or obtained within three (3) years from the initial date of hire; RN with 25+ years of service may be considered in lieu of education agreement. Advanced degree in Nursing (MSN, PhD, DNP, ARNP) preferred. Washington State Registered Nurse license (RN). Current Health Care Provider level CPR certification required. ACLS or NALS or PALS or TNCC or NRP certification, as required by facility or department. Certification in specialty area preferred. Minimum one (1) year of experience in acute care setting preferred."
+    }
+  ]
+}

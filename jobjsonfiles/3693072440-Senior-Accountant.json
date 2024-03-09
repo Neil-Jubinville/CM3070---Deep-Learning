@@ -1,0 +1,43 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Accountant",
+      "job_category": "Accounting",
+      "job_class": "Consultant",
+      "sector": "Finance",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Public Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Data Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist with a large-scale, ERP implementation project."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting, Finance, or a related field (Master's preferred)"
+    }
+  ]
+}

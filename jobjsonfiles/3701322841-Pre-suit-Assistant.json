@@ -1,0 +1,50 @@
+{
+  "meta": [
+    {
+      "job_title": "Pre-suit Assistant",
+      "job_category": "Legal",
+      "job_class": "Assistant",
+      "sector": "Law",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Records Management",
+      "experience": 3
+    },
+    {
+      "skill": "Case Information Gathering",
+      "experience": 3
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Detail Orientation",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Order medical records and bills for personal injury cases."
+    },
+    {
+      "duty": "Assist case managers in gathering information for cases."
+    },
+    {
+      "duty": "Route phone calls from clients and adjusters."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree in Legal Studies or related field (Bachelor's preferred)"
+    }
+  ]
+}

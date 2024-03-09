@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Aviation Accessory Technician",
+      "job_category": "Mechanical",
+      "job_class": "Technician",
+      "sector": "Civil Aviation",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Aptitude",
+      "experience": 5
+    },
+    {
+      "skill": "Aviation Accessory Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Technical Drawing Interpretation",
+      "experience": 3
+    },
+    {
+      "skill": "Hand Tool Usage",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 4
+    },
+    {
+      "skill": "Precision Measurement",
+      "experience": 4
+    },
+    {
+      "skill": "Test Equipment Operation",
+      "experience": 4
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform maintenance and alteration tasks on civil aviation articles in accordance with the current technical data."
+    },
+    {
+      "duty": "Test, troubleshoot, and verify the functionality of limited fuel, oil, or air accessories using hand tools and specialty tools."
+    },
+    {
+      "duty": "Read and interpret technical data and drawings for components testing."
+    },
+    {
+      "duty": "Document maintenance records of all repair work orders performed."
+    },
+    {
+      "duty": "Maintain an orderly and productive work environment in compliance with industry standard practices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High mechanical aptitude. 1-3 years of aviation accessory experience. Basic computer operating skills."
+    }
+  ]
+}

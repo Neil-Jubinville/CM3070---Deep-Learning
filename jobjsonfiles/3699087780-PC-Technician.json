@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "PC Technician",
+      "job_category": "Information Technology",
+      "job_class": "Technician",
+      "sector": "IT",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Ticketing System Support",
+      "experience": 2
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Testing",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Warehouse Experience",
+      "experience": 1
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide basic IT support for internal staff and customers through support queues (Service Market Place), addressing problems quickly and thoroughly."
+    },
+    {
+      "duty": "Communicate and collaborate with IT staff to troubleshoot and resolve problems in a timely manner."
+    },
+    {
+      "duty": "Shipping and receiving of equipment from Warehouse and update Ticketing System."
+    },
+    {
+      "duty": "Maintain Inventory."
+    },
+    {
+      "duty": "Assist with basic testing and reporting of issues within conference room."
+    },
+    {
+      "duty": "Accurately prepare written business correspondence that is coherent, grammatically correct, effective, and professional."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma"
+    }
+  ]
+}

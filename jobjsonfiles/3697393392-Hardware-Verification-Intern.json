@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Hardware Verification Intern",
+      "job_category": "Hardware",
+      "job_class": "Intern",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Timing Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Analog/Digital Simulation",
+      "experience": 3
+    },
+    {
+      "skill": "CMOS Circuit Design",
+      "experience": 2
+    },
+    {
+      "skill": "SystemVerilog Assertion (SVA)",
+      "experience": 2
+    },
+    {
+      "skill": "UVM Test Bench",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Fully understand the design datasheet."
+    },
+    {
+      "duty": "Understand the functionality and timing requirements of the circuitry."
+    },
+    {
+      "duty": "Develop patterns and regressions to increase the functional coverage for bug-free silicon."
+    },
+    {
+      "duty": "Support and maintain verification coverage report and feedback for coverage improvement."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS or MS in Electrical Engineering, or equivalent, is required."
+    }
+  ]
+}

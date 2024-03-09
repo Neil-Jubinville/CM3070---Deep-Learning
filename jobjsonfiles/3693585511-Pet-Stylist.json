@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Pet Stylist",
+      "job_category": "Pet Grooming",
+      "job_class": "Stylist",
+      "sector": "Grooming",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Pet Grooming",
+      "experience": 3
+    },
+    {
+      "skill": "Breed-Specific Grooming",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Animal Handling",
+      "experience": 3
+    },
+    {
+      "skill": "Grooming Tools and Equipment",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Adaptability",
+      "experience": 3
+    },
+    {
+      "skill": "Flexibility",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform grooming services including nail trims, ear cleaning, bathing, brushing, haircuts, and styling, adhering to breed standards and pet owners' preferences."
+    },
+    {
+      "duty": "Safely and efficiently maintain & operate grooming tools and equipment such as clippers, shears, brushes, and dryers."
+    },
+    {
+      "duty": "Learn and follow Petco's grooming policies, standards and guidelines to ensure quality and consistency in all areas of the grooming business."
+    },
+    {
+      "duty": "Monitor pets for any signs of discomfort, illness, or injury, and promptly report any concerns to pet owners and store management."
+    },
+    {
+      "duty": "Assess and address each pet's individual needs, taking into consideration their coat type, skin condition, and temperament."
+    },
+    {
+      "duty": "Provide exceptional customer service by actively listening to pet owners' requests, offering grooming recommendations, and addressing any questions or concerns."
+    },
+    {
+      "duty": "Educate pet owners on grooming maintenance and at-home care practices to promote the overall well-being of their pets."
+    },
+    {
+      "duty": "Collaborate with fellow groomers and store team members to create a positive and supportive work environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certification in Pet Grooming or relevant field (preferred)"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Accounting Support",
+      "job_category": "Accounting",
+      "job_class": "Support",
+      "sector": "Accounting",
+      "salary": 50000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 4
+    },
+    {
+      "skill": "MS Office Suite",
+      "experience": 4
+    },
+    {
+      "skill": "Excel",
+      "experience": 4
+    },
+    {
+      "skill": "QuickBooks",
+      "experience": 4
+    },
+    {
+      "skill": "Bookkeeping",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Research, track, and resolve accounting problems"
+    },
+    {
+      "duty": "Handle accounts payable and receivable duties"
+    },
+    {
+      "duty": "Assist accounting personnel"
+    },
+    {
+      "duty": "Maintaining Rent Rolls, Leases, Billbacks"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Accounting or related field"
+    }
+  ]
+}

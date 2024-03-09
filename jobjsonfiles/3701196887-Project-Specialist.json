@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Specialist",
+      "job_category": "Project Management",
+      "job_class": "Specialist",
+      "sector": "Management",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Mitigation",
+      "experience": 5
+    },
+    {
+      "skill": "Program Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Change Management",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Applications",
+      "experience": 5
+    },
+    {
+      "skill": "Process Workflow Development",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Compile project workbooks, implementation plans, and mitigation plans for risks, issues, assumptions, and dependencies."
+    },
+    {
+      "duty": "Coordinate work effort across third-party vendors or internal staff to execute program/projects requirements."
+    },
+    {
+      "duty": "Develop and monitor project/program metrics and ongoing process improvements, including preparation of periodic project scheduling and budgeting reports."
+    },
+    {
+      "duty": "Contribute to the development of project training materials, communication plans, and operational guides for production support."
+    },
+    {
+      "duty": "Support in coordination and communication with other business areas regarding periodic review of project workbooks and assist in coordinating Change Control process."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree"
+    }
+  ]
+}

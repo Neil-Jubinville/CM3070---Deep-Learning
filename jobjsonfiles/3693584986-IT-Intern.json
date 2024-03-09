@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Intern",
+      "job_category": "Information Technology",
+      "job_class": "Internship",
+      "sector": "Information Technology",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "PLSQL",
+      "experience": 1
+    },
+    {
+      "skill": "VB",
+      "experience": 1
+    },
+    {
+      "skill": ".NET",
+      "experience": 1
+    },
+    {
+      "skill": "ASP",
+      "experience": 1
+    },
+    {
+      "skill": "LINUX",
+      "experience": 1
+    },
+    {
+      "skill": "C#",
+      "experience": 1
+    },
+    {
+      "skill": "ETL Solutions",
+      "experience": 1
+    },
+    {
+      "skill": "Git/GitHub",
+      "experience": 1
+    },
+    {
+      "skill": "Data Interpretation",
+      "experience": 1
+    },
+    {
+      "skill": "Quality Assurance Testing",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create/Modify: PLSQL, VB, .NET, ASP, LINUX, C#"
+    },
+    {
+      "duty": "Develop ETL solutions using Talend"
+    },
+    {
+      "duty": "Utilize Git/GitHub"
+    },
+    {
+      "duty": "Interpret data and analyze results"
+    },
+    {
+      "duty": "Perform quality assurance testing for new and modified applications"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Currently enrolled in a Bachelor\u2019s Degree program in Information Technology, Computer Science, Mathematics, or Engineering, and completed at least 30 credit hours"
+    }
+  ]
+}

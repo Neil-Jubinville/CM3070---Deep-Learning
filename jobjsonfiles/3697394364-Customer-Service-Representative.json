@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Representative",
+      "job_category": "Customer Service",
+      "job_class": "Representative",
+      "sector": "Customer Service",
+      "salary": 36000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Time Management",
+      "experience": 2
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Adaptability",
+      "experience": 3
+    },
+    {
+      "skill": "Tech Savvy",
+      "experience": 2
+    },
+    {
+      "skill": "Conflict Resolution",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide consultative support to customers on insurance policies, billing questions, policy changes, rate changes, and discounts."
+    },
+    {
+      "duty": "Act as an extension of agents to provide additional support to customers beyond regular business hours."
+    },
+    {
+      "duty": "Utilize communication skills to proactively share knowledge and provide a positive customer experience."
+    },
+    {
+      "duty": "Analyze, clarify, and resolve intermediate policy and account related questions from customers."
+    },
+    {
+      "duty": "Stay current with relevant products and participate in industry-related courses to expand product and system knowledge."
+    },
+    {
+      "duty": "Meet or exceed performance measurement goals and suggest innovative process changes to support business practices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent (Four-year college degree preferred)"
+    }
+  ]
+}

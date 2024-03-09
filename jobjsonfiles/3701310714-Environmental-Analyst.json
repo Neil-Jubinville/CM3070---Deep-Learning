@@ -1,0 +1,50 @@
+{
+  "meta": [
+    {
+      "job_title": "Environmental Analyst",
+      "job_category": "Environmental",
+      "job_class": "Analyst",
+      "sector": "Environmental",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Environmental Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "US EPA and US Geological Survey Reports",
+      "experience": 5
+    },
+    {
+      "skill": "State-level Environmental Reports",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Identify, evaluate, and investigate environmental contamination and sources of pollution for attorney team and clients."
+    },
+    {
+      "duty": "Analyze technical literature and data in connection with potential and ongoing litigation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in relevant subject area and at least a master's degree in an environmental field."
+    }
+  ]
+}

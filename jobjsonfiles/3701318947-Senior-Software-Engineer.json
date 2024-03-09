@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 170000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 8
+    },
+    {
+      "skill": "C#",
+      "experience": 8
+    },
+    {
+      "skill": "C++",
+      "experience": 8
+    },
+    {
+      "skill": "Cassandra",
+      "experience": 3
+    },
+    {
+      "skill": "Elasticsearch",
+      "experience": 3
+    },
+    {
+      "skill": "Presto",
+      "experience": 3
+    },
+    {
+      "skill": "Apache Spark",
+      "experience": 2
+    },
+    {
+      "skill": "Azure",
+      "experience": 2
+    },
+    {
+      "skill": "AWS",
+      "experience": 2
+    },
+    {
+      "skill": "Microservice Architecture",
+      "experience": 8
+    },
+    {
+      "skill": "Test-driven Development",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop testable, high-quality, and ship-ready code with ample test coverage."
+    },
+    {
+      "duty": "Work with Product Management and other developers to understand and translate engineering requirements into design requirements and provide estimates."
+    },
+    {
+      "duty": "Think about how to solve problems at scale and build fault-tolerant systems using microservice architecture."
+    },
+    {
+      "duty": "Work as part of a cross-site development team to drive design implementation, testing and release of products."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS degree in Computer Science or relevant field of study (MS preferred)"
+    }
+  ]
+}

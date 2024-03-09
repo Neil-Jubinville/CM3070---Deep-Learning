@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "UI/UX Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "User Research",
+      "experience": 5
+    },
+    {
+      "skill": "Prototyping",
+      "experience": 5
+    },
+    {
+      "skill": "Front-end Development",
+      "experience": 5
+    },
+    {
+      "skill": "Windows Application Development",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Version Control",
+      "experience": 1
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct user research and collaborate with subject matter experts to understand customer and product needs."
+    },
+    {
+      "duty": "Present and pitch ideas to gather key insights on new features/products."
+    },
+    {
+      "duty": "Generate concepts, wireframes, and mockups based on stakeholder feedback."
+    },
+    {
+      "duty": "Engineer performant and scalable front-end interfaces for new ideas/products/features."
+    },
+    {
+      "duty": "Propose and collect key user statistics and indicators to feedback into the design process."
+    },
+    {
+      "duty": "Participate in daily weekday standups to synchronize with other team members."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Software Engineering, Computer Science, or related field"
+    }
+  ]
+}

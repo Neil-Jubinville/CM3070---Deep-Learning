@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Anesthesia Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Anesthesia Equipment Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 1
+    },
+    {
+      "skill": "CPR Certification",
+      "experience": 1
+    },
+    {
+      "skill": "EMT Training",
+      "experience": 1
+    },
+    {
+      "skill": "Sterile Processing",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Safety",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintaining anesthesia service areas for use by Anesthesiologists and Anesthetists."
+    },
+    {
+      "duty": "Accountability for anesthesia equipment and supplies."
+    },
+    {
+      "duty": "Assisting Anesthesiologists with patient positioning and transport."
+    },
+    {
+      "duty": "Preparation of sterile fields and placement of monitoring lines."
+    },
+    {
+      "duty": "Application of anesthesia techniques and procedure setups."
+    },
+    {
+      "duty": "Knowledge of infection control, health and safety policies and procedures."
+    },
+    {
+      "duty": "Adherence to departmental policies and procedures, including telephone and house standards."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "HS/GED or equivalent combination of education or experience and 6 months to 1 year previous experience as an Anesthesia Technician"
+    }
+  ]
+}

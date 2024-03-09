@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 105000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "C++",
+      "experience": 5
+    },
+    {
+      "skill": "Software Development Principles",
+      "experience": 5
+    },
+    {
+      "skill": "Algorithms and Data Structures",
+      "experience": 5
+    },
+    {
+      "skill": "Software Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Debugging Methodologies",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Development Methodologies",
+      "experience": 5
+    },
+    {
+      "skill": "Web Development Frameworks",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with diverse teams to provide cutting-edge technology solutions within a project-based framework."
+    },
+    {
+      "duty": "Develop and test software applications using Java, Python, C++, and other relevant programming languages."
+    },
+    {
+      "duty": "Implement software development principles, algorithms, and data structures to deliver high-quality software."
+    },
+    {
+      "duty": "Contribute to software testing, debugging, and maintenance processes."
+    },
+    {
+      "duty": "Participate in agile development methodologies and collaborate with cross-functional teams."
+    },
+    {
+      "duty": "Stay updated on web development frameworks and technologies to optimize software solutions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

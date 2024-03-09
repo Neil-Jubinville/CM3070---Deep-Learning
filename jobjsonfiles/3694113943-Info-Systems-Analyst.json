@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Info Systems Analyst",
+      "job_category": "Information Technology",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 112000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Enterprise Content Management (ECM) Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Windows and Linux Operating Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle Databases",
+      "experience": 5
+    },
+    {
+      "skill": "Functional Needs Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting and Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting and RCA",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Formulate system scope through research and fact-finding to develop or modify moderately complex information systems."
+    },
+    {
+      "duty": "Evaluate and implement changes to existing system logic difficulties and documentation as necessary."
+    },
+    {
+      "duty": "Review flow charts, models, and procedures to design possible system solutions."
+    },
+    {
+      "duty": "Collaborate with system analysts, engineers, and programmers to design systems and to determine project limitations and capabilities."
+    },
+    {
+      "duty": "Identify and document all system constraints, implications, and consequences of various proposed system changes."
+    },
+    {
+      "duty": "Educate end users on system designs and functionalities through creation of training materials and conducting demos."
+    },
+    {
+      "duty": "Evaluate the efficiency and effectiveness of application operations and troubleshooting problems."
+    },
+    {
+      "duty": "Analyze functional needs and drive the design for positive business outcomes; recommend solutions aligned with business/IT strategies and compliance with corporate architectural standards."
+    },
+    {
+      "duty": "Proficiency with scripting and automation - i.e. Batch, Postman, or PowerShell."
+    },
+    {
+      "duty": "Proficiency in troubleshooting and root cause analysis (RCA) of complex technical issues."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Information Systems, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

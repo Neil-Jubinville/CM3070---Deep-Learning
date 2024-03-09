@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Manager",
+      "job_category": "Sales",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Performance Management",
+      "experience": 10
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "experience": 5
+    },
+    {
+      "skill": "Staff Training and Development",
+      "experience": 5
+    },
+    {
+      "skill": "Client Loyalty",
+      "experience": 5
+    },
+    {
+      "skill": "Brand Expansion",
+      "experience": 5
+    },
+    {
+      "skill": "Customer-Centric Attitude",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Set and execute sales performance goals to increase profitability"
+    },
+    {
+      "duty": "Hire, train, and assess store employee's productivity and performance"
+    },
+    {
+      "duty": "Maintain orderly, presentable appearance of the store"
+    },
+    {
+      "duty": "Oversee stock and store operations"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school education or equivalent experience"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Economist",
+      "job_category": "Economics",
+      "job_class": "Analyst",
+      "sector": "Logistics",
+      "salary": 175000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Economic Research",
+      "experience": 5
+    },
+    {
+      "skill": "Statistical Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Quantitative Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "R",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct rigorous economic research and analysis to evaluate market trends, competitive dynamics, and pricing strategies within the logistics industry."
+    },
+    {
+      "duty": "Collaborate with data scientists, analysts, and business stakeholders to gather, organize, and analyze large datasets to extract meaningful insights."
+    },
+    {
+      "duty": "Develop and maintain economic models that project the impact of various market scenarios on company operations, pricing, and profitability."
+    },
+    {
+      "duty": "Generate reports and presentations that communicate economic findings and recommendations to both technical and non-technical audiences."
+    },
+    {
+      "duty": "Stay up-to-date with the latest economic developments, industry trends, and regulatory changes that may impact Cargomatic's operations."
+    },
+    {
+      "duty": "Provide thought leadership by contributing to the development of new business strategies and initiatives based on economic insights."
+    },
+    {
+      "duty": "Collaborate with the product team to design features and enhancements that align with market demands and economic realities."
+    },
+    {
+      "duty": "Assist in designing and implementing A/B tests and experiments to measure the effectiveness of pricing strategies and other business interventions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 90,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree in Economics, PhD in Economics or related field preferred"
+    }
+  ]
+}

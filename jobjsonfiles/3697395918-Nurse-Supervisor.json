@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Nurse Supervisor",
+      "job_category": "Healthcare",
+      "job_class": "Supervisor",
+      "sector": "Healthcare",
+      "salary": 74658,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Procedures",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Staff Supervision",
+      "experience": 5
+    },
+    {
+      "skill": "Stocking and Supplies Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Supervise nursing staff assigned to a particular shift, assigning patients and educating nursing staff on patient care."
+    },
+    {
+      "duty": "Assess, monitor, and educate the nursing staff on patient care, and institute emergency procedures as necessary."
+    },
+    {
+      "duty": "Anticipate staffing needs and oversee stocking of supplies and updating patient records."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 150,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associates Degree in Nursing and California RN license, minimum of two (2) years clinical experience as a registered nurse in an acute care psych unit, and BLS from an AHA accredited training center"
+    }
+  ]
+}

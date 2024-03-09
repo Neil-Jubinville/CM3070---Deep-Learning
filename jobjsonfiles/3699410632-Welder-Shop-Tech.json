@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "Welder/Shop Tech",
+      "job_category": "Manufacturing",
+      "job_class": "Technician",
+      "sector": "Manufacturing",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Welding",
+      "experience": 3
+    },
+    {
+      "skill": "Technical School Graduate",
+      "experience": 1
+    },
+    {
+      "skill": "Manufacturing Experience",
+      "experience": 2
+    },
+    {
+      "skill": "English Language",
+      "experience": 5
+    },
+    {
+      "skill": "Workshop Safety",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assemble and repair products such as pumps and motors, following defined work instructions, and using hand and power tools in a manufacturing environment."
+    },
+    {
+      "duty": "MIG and TIG welding - New graduates from technical schools are highly encouraged to apply."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School education or equivalent"
+    }
+  ]
+}

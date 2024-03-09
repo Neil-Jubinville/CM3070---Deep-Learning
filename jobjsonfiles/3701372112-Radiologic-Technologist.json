@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Radiologic Technologist",
+      "job_category": "Healthcare",
+      "job_class": "Technologist",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Radiographic Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Ionizing Radiation Application",
+      "experience": 3
+    },
+    {
+      "skill": "Radiation Safety",
+      "experience": 3
+    },
+    {
+      "skill": "Imaging Support Coordination",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Vital Signs Assessment",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Supply Management",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Imaging Acquisition",
+      "experience": 3
+    },
+    {
+      "skill": "Physical Requirements",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform radiographic procedures and critique radiographs to ensure high-quality images."
+    },
+    {
+      "duty": "Apply the principles of radiation safety during the process of acquiring radiographic images."
+    },
+    {
+      "duty": "Facilitate and coordinate imaging support in the operating room, patient care units, and clinics."
+    },
+    {
+      "duty": "Assess patient vital signs and conditions when indicated during procedures."
+    },
+    {
+      "duty": "Report equipment malfunctions to appropriate personnel and service entity."
+    },
+    {
+      "duty": "Assist in orienting, training, and mentoring new employees or students on department workflow, practices, policies, and procedures."
+    },
+    {
+      "duty": "Prepare, clean, and stock rooms with supplies and linens."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current RQI Healthcare Provider eCredential through the University of Utah Health RQI system."
+    },
+    {
+      "credential": "Current licensure to practice as a Radiologic Technologist in the State of Utah."
+    },
+    {
+      "credential": "ARRT Registration as a Radiologic Technician R.T. ( R) (ARRT).* Additional license requirements as determined by the hiring department."
+    }
+  ]
+}

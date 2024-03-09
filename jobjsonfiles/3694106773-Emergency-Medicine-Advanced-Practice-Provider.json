@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Emergency Medicine Advanced Practice Provider",
+      "job_category": "Healthcare",
+      "job_class": "Advanced Practice Provider",
+      "sector": "Healthcare",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ACLS/BLS/PALS Certification",
+      "experience": 1
+    },
+    {
+      "skill": "Emergency Medicine Background",
+      "experience": 1
+    },
+    {
+      "skill": "License",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide compassionate and high-quality acute care services to patients in the emergency department."
+    },
+    {
+      "duty": "Collaborate with the medical team to drive improvements in quality, patient satisfaction, and overall healthcare outcomes."
+    },
+    {
+      "duty": "Adhere to ACLS/BLS/PALS guidelines and maintain current certifications for emergency care provision."
+    },
+    {
+      "duty": "Assist in achieving the goals set for the emergency medicine team, aligning with hospital leadership."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current, unrestricted license and 1 year of EM background/experience preferred"
+    },
+    {
+      "credential": "ACLS/BLS/PALS Certification"
+    }
+  ]
+}

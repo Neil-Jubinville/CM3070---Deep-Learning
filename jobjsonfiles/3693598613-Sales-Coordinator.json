@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Coordinator",
+      "job_category": "Sales",
+      "job_class": "Coordinator",
+      "sector": "Nonprofit",
+      "salary": 56250,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Outreach Campaigns",
+      "experience": 3
+    },
+    {
+      "skill": "Client Database Management",
+      "experience": 3
+    },
+    {
+      "skill": "Cantonese Speaking",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist with sales and new member enrollment by managing database, processing inquiries, and providing exceptional customer service."
+    },
+    {
+      "duty": "Conduct outreach efforts to potential patrons via phone, email, and other channels."
+    },
+    {
+      "duty": "Coordinate with internal teams to ensure accurate and timely communication of enrollment information and status."
+    },
+    {
+      "duty": "Track and report on enrollment metrics, including enrollment retention rates and conversion rates."
+    },
+    {
+      "duty": "Assist with the planning and execution of enrollment events and other initiatives."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree"
+    }
+  ]
+}

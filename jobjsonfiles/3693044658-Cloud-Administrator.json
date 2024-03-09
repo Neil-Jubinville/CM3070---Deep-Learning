@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Cloud Administrator",
+      "job_category": "Information Technology",
+      "job_class": "Administrator",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Azure Cloud Administration",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Active Directory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Windows and Mac Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage and supervise Azure cloud environments on a daily basis."
+    },
+    {
+      "duty": "Monitor and troubleshoot issues related to Azure App Services and Kubernetes-enabled services."
+    },
+    {
+      "duty": "Manage Azure Active Directory, including security, role assignment, managing user credentials, and user access control."
+    },
+    {
+      "duty": "Ensure compliance with security policies, regulations, and standards."
+    },
+    {
+      "duty": "Support Windows and Macintosh laptops, including installation and troubleshooting of software, and monitoring for security vulnerabilities."
+    },
+    {
+      "duty": "Collaborate with DevOps teams and developers to improve cloud infrastructure and ensure efficient and reliable operations."
+    },
+    {
+      "duty": "Stay up-to-date with industry trends and best practices in cloud administration."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field (Master's preferred)"
+    },
+    {
+      "credential": "Microsoft Azure certification"
+    }
+  ]
+}

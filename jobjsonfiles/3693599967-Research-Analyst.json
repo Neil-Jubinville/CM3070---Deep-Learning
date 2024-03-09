@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Research Analyst",
+      "job_category": "Research",
+      "job_class": "Analyst",
+      "sector": "Healthcare",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Analyze high-throughput data sets related to asthma and other immunologic diseases using transcriptional profiling and multi-omics approaches."
+    },
+    {
+      "duty": "Collaborate with large NIH funded consortiums including the Inner City Asthma Consortium (ICAC), Immuno Phenotyping Assessment in a COVID-19 Cohort (IMPACC), Human Immunology Project Consortium (HIPC), and others."
+    },
+    {
+      "duty": "Understand the molecular mechanisms of disease risk, progression, and response to treatment."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "High-throughput Data Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Transcriptional Profiling",
+      "experience": 3
+    },
+    {
+      "skill": "Multi-omics Approaches",
+      "experience": 3
+    },
+    {
+      "skill": "NIH Collaboration",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 100,
+      "introvert_extrovert": 130
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's or PhD Level"
+    }
+  ]
+}

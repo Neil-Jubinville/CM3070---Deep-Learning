@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Food Production Worker",
+      "job_category": "Manufacturing",
+      "job_class": "Entry-level",
+      "sector": "Manufacturing",
+      "salary": 32500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Stamina",
+      "experience": 2
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 2
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Mathematics",
+      "experience": 2
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing different assembly and packaging jobs in the processing of foods"
+    },
+    {
+      "duty": "Unpacking raw materials, mixing ingredients, assembling product, and packaging finished goods"
+    },
+    {
+      "duty": "Counting, packing, and inspecting finished product for correct label, cleanliness, and quality"
+    },
+    {
+      "duty": "Ensuring that all products meet company and government quality standards"
+    },
+    {
+      "duty": "Inspecting products, throwing out or fixing products as necessary, and notifying supervisor of quality issues, ingredient/material problems, and equipment breakdowns"
+    },
+    {
+      "duty": "Performing all duties in compliance with existing USDA, OSHA, State, Federal, and company regulations, policies, and procedures"
+    }
+  ]
+}

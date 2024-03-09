@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Account Executive",
+      "job_category": "Sales",
+      "job_class": "Executive",
+      "sector": "Sales",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "B2B Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Bilingual (Spanish/English)",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Networking",
+      "experience": 4
+    },
+    {
+      "skill": "MS Office Suite",
+      "experience": 4
+    },
+    {
+      "skill": "Sales Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 4
+    },
+    {
+      "skill": "Relationship Building",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Seek out new clients and build and maintain strong, successful relationships."
+    },
+    {
+      "duty": "Lead opportunities through the sales cycle including prospecting, opening new accounts, and account management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140,
+      "student_teacher": 90,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration or related field (preferred)"
+    }
+  ]
+}

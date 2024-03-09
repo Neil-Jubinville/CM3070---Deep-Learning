@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Big Data Architect",
+      "job_category": "Information Technology",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Big Data Solutions Design",
+      "experience": 3
+    },
+    {
+      "skill": "Web Service Development",
+      "experience": 3
+    },
+    {
+      "skill": "Spring Framework",
+      "experience": 3
+    },
+    {
+      "skill": "Data Ingestion & Processing",
+      "experience": 5
+    },
+    {
+      "skill": "Hadoop Platform Strategy",
+      "experience": 3
+    },
+    {
+      "skill": "Cloud Environment Solutions",
+      "experience": 2
+    },
+    {
+      "skill": "Real-time Ingestion Patterns",
+      "experience": 2
+    },
+    {
+      "skill": "Open Source Technologies Evaluation",
+      "experience": 3
+    },
+    {
+      "skill": "Architecting Scalable Systems",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and build high-volume real-time data ingestion and processing frameworks and advanced analytics on big data platforms."
+    },
+    {
+      "duty": "Lead the implementation of Hadoop platform strategy development and provide architecture recommendations."
+    },
+    {
+      "duty": "Present technology solutions to senior leadership and influence architecture decisions that drive the transformation of Connected Car analytics platform."
+    },
+    {
+      "duty": "Research the tool market, follow new research streams, and build partnerships with start-ups, universities, and local communities."
+    },
+    {
+      "duty": "Communicate complex architectures and insights in a clear, precise, and actionable manner."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science Engineering or related field"
+    }
+  ]
+}

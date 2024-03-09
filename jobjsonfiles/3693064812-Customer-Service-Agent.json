@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Agent",
+      "job_category": "Customer Service",
+      "job_class": "Agent",
+      "sector": "Customer Service",
+      "salary": 32000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide exceptional customer service to customers from around the world, offering accurate information and maintaining detailed records of damages and gas volume."
+    },
+    {
+      "duty": "Welcome customers, record feedback, ensure personal belongings are collected, discreetly check for vehicle damage, and manage rental charges and receipts."
+    },
+    {
+      "duty": "Advise on transportation options, complete service alerts for vehicle damage, and organize the lot for efficient access and traffic flow."
+    },
+    {
+      "duty": "Work in outdoor weather conditions, perform other job duties as assigned, and communicate effectively with customers."
+    },
+    {
+      "duty": "Manage stressful or unusual situations to maintain good customer service."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Interpersonal and Relationship Building",
+      "experience": 3
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Multi-tasking",
+      "experience": 3
+    },
+    {
+      "skill": "Stress Management",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Computer Navigation",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Office Applications",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED, basic computer navigation skills, and knowledge of Microsoft Office applications."
+    }
+  ]
+}

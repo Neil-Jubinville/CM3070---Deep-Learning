@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Heavy Machinery Repair Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Construction and Mining",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Heavy Machinery Diagnostics",
+      "experience": 5
+    },
+    {
+      "skill": "Preventive Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Hydraulics Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Pneumatics Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform diagnostic tests, repairs, and preventative maintenance on drill rig hydraulic, electrical, and mechanical systems."
+    },
+    {
+      "duty": "Provide on-site and in-house heavy equipment repair services using fully-equipped service trucks."
+    },
+    {
+      "duty": "Communicate with customers to understand their needs and explain repair procedures."
+    },
+    {
+      "duty": "Maintain detailed work orders and inventory controls, and operate forklifts, cranes, and other machinery to load/unload equipment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "2+ years experience repairing heavy construction/drilling equipment."
+    }
+  ]
+}

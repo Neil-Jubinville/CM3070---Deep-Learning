@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Massage Therapist",
+      "job_category": "Health & Wellness",
+      "job_class": "Therapist",
+      "sector": "Health & Wellness",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Massage Therapy",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Housekeeping",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform exceptional spa therapies in accordance with the protocols set forth by The Retreat Spa."
+    },
+    {
+      "duty": "Talk with clients about symptoms, medical history and desired results from treatment."
+    },
+    {
+      "duty": "Develop and propose client treatment plan."
+    },
+    {
+      "duty": "Maintain a clean workspace and perform light housekeeping duties between clients and at end of shift."
+    },
+    {
+      "duty": "Promote the Retreat Spa\u2019s other services and products to every member."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 30,
+      "student_teacher": 120,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of accredited program."
+    },
+    {
+      "credential": "Valid license in the State of Georgia"
+    }
+  ]
+}

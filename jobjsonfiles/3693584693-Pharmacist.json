@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Pharmacist",
+      "job_category": "Healthcare",
+      "job_class": "Pharmacist",
+      "sector": "Healthcare",
+      "salary": 125000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Pharmacy Management",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Control",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Counseling",
+      "experience": 5
+    },
+    {
+      "skill": "Staff Scheduling",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Adherence",
+      "experience": 5
+    },
+    {
+      "skill": "Licensing Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Support",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Fill prescriptions, monitor inventory levels and ensure proper storage and security of drugs, including controlled substances/narcotics"
+    },
+    {
+      "duty": "Provide patient counseling and discuss challenges to medication adherence"
+    },
+    {
+      "duty": "Complete scheduling of technicians and support sales and goals of pharmacy department"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 90,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Pharmacy"
+    }
+  ]
+}

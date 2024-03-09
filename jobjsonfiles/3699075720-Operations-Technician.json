@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Operations Technician",
+      "job_category": "Information Technology",
+      "job_class": "Technician",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Center Management",
+      "experience": 3
+    },
+    {
+      "skill": "Server System Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Networking Protocols",
+      "experience": 3
+    },
+    {
+      "skill": "Advanced Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Linux Tools",
+      "experience": 4
+    },
+    {
+      "skill": "Scripting",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Install, configure, test, troubleshoot, and maintain hardware and server software."
+    },
+    {
+      "duty": "Participate in or lead small project teams on larger installations and develop project contingency plans."
+    },
+    {
+      "duty": "Contribute to efforts in the deployment, maintenance, and support of current and new data center infrastructure."
+    },
+    {
+      "duty": "Assist in deploying, repairing, and troubleshooting next generation ML platforms providing feedback to local deployment/project teams."
+    },
+    {
+      "duty": "Participate in complex troubleshooting and resolve critical technical issues."
+    },
+    {
+      "duty": "Install and maintain switches, routers, and other large-scale networking gear."
+    },
+    {
+      "duty": "Configure and troubleshoot Linux OS-related issues."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent practical experience"
+    }
+  ]
+}

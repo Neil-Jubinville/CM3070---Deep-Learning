@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Nursing Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Data Recording",
+      "experience": 1
+    },
+    {
+      "skill": "Wound Care",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Support",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Medical Procedures",
+      "experience": 1
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 1
+    },
+    {
+      "skill": "Cleaning and Sanitization",
+      "experience": 1
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 1
+    },
+    {
+      "skill": "BLS Certification",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide routine patient care services such as call light response, ambulating, transferring, positioning, personal hygiene assistance, etc."
+    },
+    {
+      "duty": "Collect, record, and report various patient data. Report changes in patient condition."
+    },
+    {
+      "duty": "Perform surgical skin preps, basic skin care procedures, bedside finger stick blood sugars, and quality control checks of blood glucose instruments."
+    },
+    {
+      "duty": "Perform general unit support activities such as postmortem care, cleaning of rooms and areas, running errands, making deliveries, responding to Code Blue pages, and Code Red, etc."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school graduate or equivalent required. Specialized education requirements, for those not meeting minimum six-month nursing assistance experience requirement, include: acute care nursing assistant course preferred for acute care positions or long term care nursing assistant course or completion of an emergency medical technician program or completion of medical assistant program or completion of a clinical rotation while participating an accredited nursing program. Direct patient care experience preferred. Prior nursing assistant experience of at least six months is required when the specialized education requirements identified above has not been met. BLS certification as Healthcare Provider or equivalent through the Military Training Network (MTN)."
+    }
+  ]
+}

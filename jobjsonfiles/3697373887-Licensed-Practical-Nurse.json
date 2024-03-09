@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Practical Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Expertise",
+      "experience": 2
+    },
+    {
+      "skill": "Medication Management",
+      "experience": 2
+    },
+    {
+      "skill": "Observation and Reporting",
+      "experience": 2
+    },
+    {
+      "skill": "Vital Signs Monitoring",
+      "experience": 2
+    },
+    {
+      "skill": "Emotional Support",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Providing high-quality, efficient care to residents, including personal hygiene, medication support, repositioning, toileting, and vital signs monitoring."
+    },
+    {
+      "duty": "Observing and reporting on residents' health, escalating any problems efficiently and effectively."
+    },
+    {
+      "duty": "Providing emotional support and comfort for residents and their loved ones."
+    },
+    {
+      "duty": "Recognizing abnormal changes in body functioning and reporting to a supervisor."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent, 2 years of experience in a hospital or clinical setting, and valid, unrestricted LPN certification or State/Local equivalent required."
+    }
+  ]
+}

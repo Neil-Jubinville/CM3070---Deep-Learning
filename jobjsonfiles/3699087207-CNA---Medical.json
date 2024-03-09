@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "CNA - Medical",
+      "job_category": "Healthcare",
+      "job_class": "Certified Nursing Assistant",
+      "sector": "Healthcare",
+      "salary": 29070,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Certified Nursing Assistant",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Life Support",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "CPR",
+      "experience": 2
+    },
+    {
+      "skill": "Vital Signs Monitoring",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Hygiene",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Documentation",
+      "experience": 2
+    },
+    {
+      "skill": "Clerical Support",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in providing direct patient care as delegated by the Registered Nurse within the scope of the CNA licensure."
+    },
+    {
+      "duty": "Perform basic technical skills including CPR, vital signs monitoring, fluid intake/output measurements, applying dressings, recognizing common diseases or conditions, and administering treatments as directed."
+    },
+    {
+      "duty": "Assist patients with personal care, mobility, and providing walking support."
+    },
+    {
+      "duty": "Maintain unit supplies and stock patient rooms to meet patient care needs."
+    },
+    {
+      "duty": "Document relevant patient care data and may provide clerical support to the unit."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an approved Certified Nursing Assistant program required. Current Certified Nursing Assistant certification level as required by state or facility. Current BLS (Basic Life Support) certification required at date of hire."
+    }
+  ]
+}

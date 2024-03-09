@@ -1,0 +1,107 @@
+{
+  "meta": [
+    {
+      "job_title": "Salesforce Business Analyst",
+      "job_category": "Information Technology",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Salesforce Processes",
+      "experience": 3
+    },
+    {
+      "skill": "Business Requirements Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Solution Translation",
+      "experience": 3
+    },
+    {
+      "skill": "Salesforce Configuration",
+      "experience": 3
+    },
+    {
+      "skill": "Sales Cloud",
+      "experience": 3
+    },
+    {
+      "skill": "Service Cloud",
+      "experience": 3
+    },
+    {
+      "skill": "Project Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Testing Strategies",
+      "experience": 3
+    },
+    {
+      "skill": "Process Improvement",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with clients to gather, analyze, and document business requirements related to Salesforce implementations, enhancements, and integrations."
+    },
+    {
+      "duty": "Translate complex business needs into clear and actionable technical requirements for developers, administrators, and other stakeholders."
+    },
+    {
+      "duty": "Design and configure Salesforce solutions, including custom objects, workflows, validation rules, process builder, and other declarative tools."
+    },
+    {
+      "duty": "Leverage your understanding of Sales Cloud and Service Cloud features to develop and execute comprehensive testing strategies, ensuring solutions meet client requirements and expectations."
+    },
+    {
+      "duty": "Conduct thorough testing of Salesforce solutions to ensure accuracy, performance, and adherence to business requirements."
+    },
+    {
+      "duty": "Create detailed project documentation, including functional specifications, data mapping, and process flow diagrams."
+    },
+    {
+      "duty": "Assist in the development and execution of training programs to ensure end-users are proficient in utilizing Salesforce effectively."
+    },
+    {
+      "duty": "Identify opportunities for process improvement and recommend solutions to enhance system performance and user experience."
+    },
+    {
+      "duty": "Collaborate closely with developers, administrators, project managers, and other team members to ensure successful project delivery."
+    },
+    {
+      "duty": "Stay current with Salesforce updates, best practices, and industry trends to provide informed recommendations to clients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 130,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    },
+    {
+      "credential": "Salesforce Certified Administrator"
+    },
+    {
+      "credential": "Salesforce Certified Sales Cloud Consultant"
+    },
+    {
+      "credential": "Salesforce Certified Service Cloud Consultant"
+    }
+  ]
+}

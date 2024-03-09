@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Production Worker",
+      "job_category": "Manufacturing",
+      "job_class": "Entry-level",
+      "sector": "Manufacturing",
+      "salary": 19,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Manual Labor",
+      "experience": 1
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 1
+    },
+    {
+      "skill": "Positive Attitude",
+      "experience": 1
+    },
+    {
+      "skill": "Lumber Manufacturing",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform manual labor and train in various areas of the mill"
+    },
+    {
+      "duty": "Analyze and troubleshoot production issues"
+    },
+    {
+      "duty": "Maintain a positive and enthusiastic attitude in a production environment"
+    },
+    {
+      "duty": "Possibly exposed to dust and other environmental factors"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Completion of grade 12, a GED, or 1 year of relevant experience"
+    }
+  ]
+}

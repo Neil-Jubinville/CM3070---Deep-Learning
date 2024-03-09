@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Engineering Lab Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Manufacturing",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in preparing pipe for assembly and operate various equipment such as cut-off saw, drill press, and belt sander."
+    },
+    {
+      "duty": "Learn to set up and operate all Victaulic grooving tools, clean, and maintain as needed."
+    },
+    {
+      "duty": "Assist in testing such as hydrostatic, flex, bending moment, air, low temperature, and heat aging to comply with engineering specifications."
+    },
+    {
+      "duty": "Maintain various lab equipment as assigned and records/logs; prepare charts and graphs."
+    },
+    {
+      "duty": "Support continuous improvement developments in the lab in accordance with Lean and Safety Initiatives."
+    },
+    {
+      "duty": "Perform inventory control of lab raw materials and maintain a clean work area in the lab environment."
+    },
+    {
+      "duty": "Follow all company safety requirements, procedures and participate in testing safety reviews."
+    },
+    {
+      "duty": "Log and estimate all hours using Liquid Planner (LP) and use LP as a primary communication tool."
+    },
+    {
+      "duty": "Understand and follow departmental policies and procedures for document management and electronic data security."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Aptitude",
+      "experience": 4
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 4
+    },
+    {
+      "skill": "Shop Math",
+      "experience": 4
+    },
+    {
+      "skill": "Precision Instrument Reading",
+      "experience": 4
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 90,
+      "introvert_extrovert": 65
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate and technical degree preferred"
+    }
+  ]
+}

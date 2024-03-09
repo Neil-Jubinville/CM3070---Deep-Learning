@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Nursing",
+      "job_class": "RN",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Dialysis Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Relationship Building",
+      "experience": 5
+    },
+    {
+      "skill": "Care Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Empathy",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Nursing License",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide high quality patient care to patients suffering from ESRD"
+    },
+    {
+      "duty": "Build relationships and bonds with patients and their families"
+    },
+    {
+      "duty": "Utilize dialysis experience to optimize patient care"
+    },
+    {
+      "duty": "Create care plans and treatment strategies for individual patients"
+    },
+    {
+      "duty": "Demonstrate empathy and sensitivity in patient interactions"
+    },
+    {
+      "duty": "Think critically and make informed decisions in patient care"
+    },
+    {
+      "duty": "Communicate effectively with patients, families, and healthcare team"
+    },
+    {
+      "duty": "Maintain a current state nursing license"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduated from an accredited school of nursing"
+    },
+    {
+      "credential": "Current state nursing license"
+    }
+  ]
+}

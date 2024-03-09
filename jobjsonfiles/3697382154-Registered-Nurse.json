@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Competency",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Protocols",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Improvement",
+      "experience": 5
+    },
+    {
+      "skill": "Nursing Process",
+      "experience": 5
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Care",
+      "experience": 5
+    },
+    {
+      "skill": "Patient/Family Education",
+      "experience": 5
+    },
+    {
+      "skill": "Professional Accountability",
+      "experience": 5
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Mathematical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Work Shift Flexibility",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provides clinical direction for all aspects of patient care in an acute inpatient setting, fostering patient/family centered care."
+    },
+    {
+      "duty": "Demonstrates clinical competency utilizing evidence-based practices/research in all areas of the nursing process."
+    },
+    {
+      "duty": "Incorporates knowledge of safety protocols, cost containment, and quality improvement throughout the nursing process."
+    },
+    {
+      "duty": "Identifies patient, unit, and organizational priorities and incorporates into the nursing process."
+    },
+    {
+      "duty": "Adheres to all compliance and policy/procedures of the organization including licensure renewal, assigned training, and patient confidentiality."
+    },
+    {
+      "duty": "Assessment, Planning & Outcomes, Implementation, Evaluation, and Patient/Family Education/Teaching."
+    },
+    {
+      "duty": "Professional Accountability and Supervisory/Management Responsibility."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's Degree - Nursing"
+    }
+  ]
+}

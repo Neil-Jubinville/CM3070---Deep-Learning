@@ -1,0 +1,51 @@
+{
+  "meta": [
+    {
+      "job_title": "Mechanic",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Mechanical",
+      "salary": 20,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 2
+    },
+    {
+      "skill": "Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Mechanical Aptitude",
+      "experience": 2
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Inspect completed products and perform routine equipment maintenance."
+    },
+    {
+      "duty": "Disassemble, troubleshoot, repair, reassemble, and test various types of equipment."
+    },
+    {
+      "duty": "Prepare jobs according to instructions and perform inspection of completed products in adherence to quality standards."
+    },
+    {
+      "duty": "Load and unload delivery vehicles, arrange products according to assigned deliveries, and transport rental/sales orders in designated vehicles."
+    },
+    {
+      "duty": "Ensure proper maintenance of delivery vehicle and report all accidents/damage/malfunctions."
+    }
+  ]
+}

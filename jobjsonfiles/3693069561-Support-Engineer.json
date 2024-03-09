@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Support Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 123500,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Service Now Ticketing System",
+      "experience": 3
+    },
+    {
+      "skill": "Datadog (Observability Tool)",
+      "experience": 3
+    },
+    {
+      "skill": "SQL",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 4
+    },
+    {
+      "skill": "API Code Experience",
+      "experience": 4
+    },
+    {
+      "skill": "ReactJS",
+      "experience": 3
+    },
+    {
+      "skill": "NodeJS",
+      "experience": 3
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide technical support (SRE/mid-level developer) for tickets tier 1 and tier 2 support."
+    },
+    {
+      "duty": "Handle tickets related to permission issues, data issues, and front end bug issues."
+    },
+    {
+      "duty": "Support a custom product of the company with 60+ tickets to handle."
+    },
+    {
+      "duty": "Utilize Service Now and similar ticketing systems, Datadog, and SQL for observability and troubleshooting."
+    },
+    {
+      "duty": "Demonstrate strong customer service skills and build robust documentation for reference."
+    },
+    {
+      "duty": "Engage in API code development and SQL query to resolve issues."
+    },
+    {
+      "duty": "Desire to work remotely in the PST timezone."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or relevant field"
+    }
+  ]
+}

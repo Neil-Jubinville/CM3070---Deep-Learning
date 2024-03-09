@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Dietitian",
+      "job_category": "Healthcare",
+      "job_class": "Dietitian",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nutritional Assessment",
+      "experience": 3
+    },
+    {
+      "skill": "Interdisciplinary Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "Nutrition Education",
+      "experience": 3
+    },
+    {
+      "skill": "Professional Development",
+      "experience": 3
+    },
+    {
+      "skill": "Empathy",
+      "experience": 3
+    },
+    {
+      "skill": "Adaptability",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct thorough nutritional assessments and create personalized nutrition plans for residents based on their unique needs."
+    },
+    {
+      "duty": "Collaborate with interdisciplinary teams to integrate nutrition care seamlessly into residents' overall treatment plans."
+    },
+    {
+      "duty": "Provide education and support to residents and their families, empowering them to make informed dietary choices."
+    },
+    {
+      "duty": "Stay up-to-date with the latest nutritional research and practices to continuously enhance your expertise."
+    },
+    {
+      "duty": "Contribute to a positive and supportive work environment that values teamwork and resident-centered care."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Registered Dietitian credentials and a current state license."
+    }
+  ]
+}

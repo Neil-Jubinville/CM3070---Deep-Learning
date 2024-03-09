@@ -1,0 +1,41 @@
+{
+  "meta": [
+    {
+      "job_title": "Paralegal",
+      "job_category": "Legal",
+      "job_class": "Paralegal",
+      "sector": "Legal",
+      "salary": 63000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "E-filing Management",
+      "experience": 3
+    },
+    {
+      "skill": "Invoicing and Billing",
+      "experience": 3
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Collections",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage e-filing for real estate transactions and legal documents."
+    },
+    {
+      "duty": "Handle invoicing and billing for clients, including collections when necessary."
+    },
+    {
+      "duty": "Maintain a professional level of communication with clients and other law firms."
+    }
+  ]
+}

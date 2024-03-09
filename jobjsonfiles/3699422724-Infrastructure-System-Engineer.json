@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Infrastructure System Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 230000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Business Understanding",
+      "experience": 5
+    },
+    {
+      "skill": "Software Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Infrastructure Design",
+      "experience": 5
+    },
+    {
+      "skill": "Computer Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Database Management",
+      "experience": 5
+    },
+    {
+      "skill": "Embedded System Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Programming Languages",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the design and architecture of software systems to promote best practices across the company."
+    },
+    {
+      "duty": "Define infrastructure evolution strategy based on business needs, industry trends, and technology stack."
+    },
+    {
+      "duty": "Design and implement critical infrastructure systems including DPU, compute, storage, database, and networking."
+    },
+    {
+      "duty": "Write papers and patent applications for cutting-edge software/hardware co-design solutions."
+    },
+    {
+      "duty": "Research, analyze, and promote the next generation of technology stack for the company."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor/Master degree in computer-related fields. Ph.D. degree preferred."
+    }
+  ]
+}

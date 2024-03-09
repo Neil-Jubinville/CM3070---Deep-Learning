@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Presentations",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 3
+    },
+    {
+      "skill": "Prospecting",
+      "experience": 3
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 3
+    },
+    {
+      "skill": "Market Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Retention",
+      "experience": 3
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Goal-Oriented",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create and deliver face-to-face sales presentations of Comcast products and services to potential customers."
+    },
+    {
+      "duty": "Generate new leads and build customer relationships through prospecting activities and customer referrals."
+    },
+    {
+      "duty": "Stay informed about competitive landscape and emerging technologies to position Comcast Business Services effectively in the marketplace."
+    },
+    {
+      "duty": "Prepare sales and activity reports, and participate in out-of-the-office meetings with customers regularly."
+    },
+    {
+      "duty": "Retain customer base by delivering superior customer experience and ensuring operational efficiencies meet and exceed customer expectations."
+    },
+    {
+      "duty": "Consistently exercise independent judgment and discretion in matters of significance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree"
+    }
+  ]
+}

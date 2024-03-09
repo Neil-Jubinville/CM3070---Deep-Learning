@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "AWS Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AWS Services",
+      "experience": 12
+    },
+    {
+      "skill": "AWS Architecture",
+      "experience": 12
+    },
+    {
+      "skill": "Terraform",
+      "experience": 12
+    },
+    {
+      "skill": "AngularJS",
+      "experience": 12
+    },
+    {
+      "skill": "Visual Studio",
+      "experience": 12
+    },
+    {
+      "skill": "Bitbucket",
+      "experience": 12
+    },
+    {
+      "skill": ".NET",
+      "experience": 12
+    },
+    {
+      "skill": "SQL",
+      "experience": 12
+    },
+    {
+      "skill": "DevOps CI/CD",
+      "experience": 12
+    },
+    {
+      "skill": "Security Best Practices",
+      "experience": 12
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Delivery ownership of assigned module and creation of reusable, effective, and scalable code."
+    },
+    {
+      "duty": "Identifying bottlenecks and bugs in the system, and developing solutions."
+    },
+    {
+      "duty": "Conducting software analysis, testing, updating, and debugging."
+    },
+    {
+      "duty": "Developing MVP User Stories, supporting backlog creation, prioritization, and Story mapping."
+    },
+    {
+      "duty": "Ability to work across tiers \u2013 UI development, APIs, databases, and utilize DevOps CI/CD pipeline."
+    },
+    {
+      "duty": "Responsible for assigned task delivery, quality, and knowledge transfer through daily pairing with team members."
+    },
+    {
+      "duty": "Strong understanding of core AWS services, uses, and AWS architecture best practices. Proficient understanding of AWS services such as S3, EC2 and more."
+    },
+    {
+      "duty": "Able to use a CI/CD pipeline to deploy applications on AWS. Strong understanding of security best practices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "AWS Certified Developer \u2013 Associate"
+    }
+  ]
+}

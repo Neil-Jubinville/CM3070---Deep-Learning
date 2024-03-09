@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Heavy Equipment Mechanic",
+      "job_category": "Skilled Labor",
+      "job_class": "Mechanic",
+      "sector": "Construction",
+      "salary": 24500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Inspection",
+      "experience": 5
+    },
+    {
+      "skill": "Welding",
+      "experience": 5
+    },
+    {
+      "skill": "Hydraulics",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "MSHA Guidelines",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform maintenance on all types of mining equipment including mechanical, electrical, and hydraulic components."
+    },
+    {
+      "duty": "Manage and control downtime by implementing preventive maintenance techniques and monitoring compliance with safety standards."
+    },
+    {
+      "duty": "Keep accurate records of equipment failures and repairs, and perform minor welding and body work as required."
+    },
+    {
+      "duty": "Report potentially unsafe conditions and ensure compliance with safety, health, and environmental standards."
+    },
+    {
+      "duty": "Purchase and pick up parts, attend safety meetings, and actively promote and observe safety and security procedures."
+    },
+    {
+      "duty": "Work independently, demonstrate initiative, and help train others while following all MSHA guidelines."
+    },
+    {
+      "duty": "Stand, stoop, bend, lift, walk, climb, and work in varied outdoor environmental conditions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "5+ years diesel mechanic experience, preferably in a construction or mining environment. MSHA certification required."
+    }
+  ]
+}

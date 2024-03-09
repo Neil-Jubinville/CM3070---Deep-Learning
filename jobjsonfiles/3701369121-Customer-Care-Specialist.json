@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Care Specialist",
+      "job_category": "Customer Service",
+      "job_class": "Specialist",
+      "sector": "Customer Service",
+      "salary": 35000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Empathy",
+      "experience": 1
+    },
+    {
+      "skill": "Analytical Thinking",
+      "experience": 1
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 1
+    },
+    {
+      "skill": "High-Speed Internet Usage",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Interpret and analyze consumer grievances or disputes, and provide solutions."
+    },
+    {
+      "duty": "Assist with credit-related memberships, services, and product offerings to help consumers improve creditworthiness."
+    },
+    {
+      "duty": "Educate consumers on credit bureau processes and appropriate steps to request corrections."
+    },
+    {
+      "duty": "Receive and process customer requests for assistance, forwarding them to the appropriate area as needed."
+    },
+    {
+      "duty": "Handle escalated customer issues in a professional and timely manner."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED"
+    }
+  ]
+}

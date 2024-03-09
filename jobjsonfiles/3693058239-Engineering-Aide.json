@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Engineering Aide",
+      "job_category": "Engineering",
+      "job_class": "Aide",
+      "sector": "Software Engineering",
+      "salary": 28000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electronics Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Team Player",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Drawings/Schematics",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support engineering ECM technical leads with field returns, New Product Introduction testing, and other activities as needed."
+    },
+    {
+      "duty": "Perform quality data analysis."
+    },
+    {
+      "duty": "Intake field returns and enter/update return data."
+    },
+    {
+      "duty": "Ship returns to suppliers and follow up for root cause analysis."
+    },
+    {
+      "duty": "Assist with functional emissions and/or environmental testing."
+    },
+    {
+      "duty": "Interact with the testing team to fulfill technical requirements provided by the tech lead."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate\u2019s degree in engineering technology or related field required. Two-year technical certification within electronics focus is also acceptable."
+    }
+  ]
+}

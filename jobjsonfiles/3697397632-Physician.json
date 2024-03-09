@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Physician",
+      "job_category": "Healthcare",
+      "job_class": "Physician",
+      "sector": "Healthcare",
+      "salary": 200000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide primary care to adult patients in an outpatient setting."
+    },
+    {
+      "duty": "Conduct infrequent phone calls to maintain work-life balance."
+    },
+    {
+      "duty": "Collaborate with Behavioral Health, High Risk Nurse Care Managers, and Social Workers to provide comprehensive care for patients."
+    },
+    {
+      "duty": "Utilize EPIC with Dragon, HIPAA-compliant texting, patient self-scheduling, and patient portal for efficient operations."
+    },
+    {
+      "duty": "Participate in mentorship and orientation programs for newly hired providers and those new to practice."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Primary Care Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "Behavioral Health Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "EPIC and Dragon Software",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Self-Scheduling",
+      "experience": 5
+    },
+    {
+      "skill": "Mentorship and Orientation",
+      "experience": 5
+    },
+    {
+      "skill": "Phone Consultations",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Unrestricted State of Connecticut medical license (or eligible) and BC/BE Internal or Family Medicine certification"
+    }
+  ]
+}

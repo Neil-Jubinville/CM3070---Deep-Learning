@@ -1,0 +1,96 @@
+{
+  "meta": [
+    {
+      "job_title": "Java Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 10
+    },
+    {
+      "skill": "Spring Framework",
+      "experience": 10
+    },
+    {
+      "skill": "DB Schema Design",
+      "experience": 10
+    },
+    {
+      "skill": "SQL Development",
+      "experience": 10
+    },
+    {
+      "skill": "Java Testing",
+      "experience": 10
+    },
+    {
+      "skill": "Continuous Integration",
+      "experience": 10
+    },
+    {
+      "skill": "Version Control Systems",
+      "experience": 10
+    },
+    {
+      "skill": "Amazon Web Services (AWS)",
+      "experience": 5
+    },
+    {
+      "skill": "Software Design",
+      "experience": 10
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 10
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Take ownership of the Java environment and contribute in all phases of the development lifecycle."
+    },
+    {
+      "duty": "Design and develop high-volume, low-latency applications for mission-critical systems and deliver high-availability and performance."
+    },
+    {
+      "duty": "Act as a subject matter expert in the code, mentor team members, set standards and best practices, focusing on quality and continuous delivery."
+    },
+    {
+      "duty": "Implement efficient software to handle large quantities of data (billions of rows) and real-time streaming data (millions of messages per day)."
+    },
+    {
+      "duty": "Design DB Schema and develop SQL."
+    },
+    {
+      "duty": "Utilize Java testing tools (Spock, Junit, Mockito) and continuous integration (Jenkins)."
+    },
+    {
+      "duty": "Use version control systems (Git, SVN) and show strong business acumen, analytical skills, attention to detail, and the ability to work as part of a team in a fast-paced environment."
+    },
+    {
+      "duty": "Working knowledge of Amazon Web Services (AWS) is a plus."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 0,
+      "student_teacher": 180,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "A graduate-level education with a focus on computer science, mathematics, or engineering."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "meta": [
+    {
+      "job_title": "CT Technologist",
+      "job_category": "Healthcare",
+      "job_class": "Technologist",
+      "sector": "Healthcare",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Radiological Technology",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Life Support (BLS) certification",
+      "experience": 1
+    },
+    {
+      "skill": "CT Certification",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform a variety of imaging procedures ordered by the physician"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited 24-month Radiological Technology Program. Basic Life Support (BLS) certification, current. ARRT registered; CT Certification or acquired within 6 months"
+    }
+  ]
+}

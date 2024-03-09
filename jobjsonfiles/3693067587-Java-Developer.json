@@ -1,0 +1,123 @@
+{
+  "meta": [
+    {
+      "job_title": "Java Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 8
+    },
+    {
+      "skill": "Spring Boot",
+      "experience": 3
+    },
+    {
+      "skill": "Microservices",
+      "experience": 3
+    },
+    {
+      "skill": "Rest API",
+      "experience": 3
+    },
+    {
+      "skill": "Rabbit MQ",
+      "experience": 3
+    },
+    {
+      "skill": "NOSQL Databases",
+      "experience": 3
+    },
+    {
+      "skill": "SQL Databases",
+      "experience": 3
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 3
+    },
+    {
+      "skill": "RESTAssure",
+      "experience": 3
+    },
+    {
+      "skill": "Docker",
+      "experience": 3
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 3
+    },
+    {
+      "skill": "GCP",
+      "experience": 3
+    },
+    {
+      "skill": "Azure",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 3
+    },
+    {
+      "skill": "Git",
+      "experience": 3
+    },
+    {
+      "skill": "GitHub",
+      "experience": 3
+    },
+    {
+      "skill": "Software Development",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain backend cloud services and databases using Java and Spring Boot stack."
+    },
+    {
+      "duty": "Create and maintain microservices and APIs using best practices and Rest API standards."
+    },
+    {
+      "duty": "Debug and maintain messaging frameworks such as Rabbit MQ in a production environment."
+    },
+    {
+      "duty": "Work with NOSQL (SOLR, Cassandra, MongoDB) and SQL databases (SOL Server, Oracle) for data storage and retrieval."
+    },
+    {
+      "duty": "Utilize Docker, Kubernetes, and GCP or Azure for containerization and cloud services."
+    },
+    {
+      "duty": "Design, architect, and develop RESTful Microservices in an enterprise production environment."
+    },
+    {
+      "duty": "Participate in 24/7 production support on a rotating basis and contribute to continuous integration and deployment."
+    },
+    {
+      "duty": "Utilize code versioning tools like Git and GitHub and adhere to Lean/Agile development methodologies."
+    },
+    {
+      "duty": "Demonstrate strong analytical and problem-solving skills in software development."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or a related field (Master's preferred)"
+    }
+  ]
+}

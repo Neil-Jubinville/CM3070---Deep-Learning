@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Assisting",
+      "experience": 2
+    },
+    {
+      "skill": "Dermatology Care",
+      "experience": 2
+    },
+    {
+      "skill": "Training and Certification",
+      "experience": 1
+    },
+    {
+      "skill": "High Energy Level",
+      "experience": 2
+    },
+    {
+      "skill": "Detail-Oriented",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in dermatological procedures and patient care."
+    },
+    {
+      "duty": "Provide support to dermatologists in various clinical and administrative tasks."
+    },
+    {
+      "duty": "Perform medical assisting duties such as taking patient vitals, preparing treatment rooms, and documenting patient information."
+    },
+    {
+      "duty": "Participate in training and certification programs for dermatological technician."
+    },
+    {
+      "duty": "Maintain a high energy level and enthusiasm for dermatological care."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Graduation required, College Degree preferred"
+    }
+  ]
+}

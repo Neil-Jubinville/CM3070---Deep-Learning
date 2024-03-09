@@ -1,0 +1,108 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Consultant",
+      "job_category": "Consulting",
+      "job_class": "Senior Consultant",
+      "sector": "IT",
+      "salary": 125000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Oracle Cloud Applications Security & Controls",
+      "experience": 7
+    },
+    {
+      "skill": "Risk Management Cloud (RMC) modules",
+      "experience": 7
+    },
+    {
+      "skill": "Business process controls",
+      "experience": 7
+    },
+    {
+      "skill": "Automated controls",
+      "experience": 7
+    },
+    {
+      "skill": "IT controls",
+      "experience": 7
+    },
+    {
+      "skill": "HDl tool",
+      "experience": 7
+    },
+    {
+      "skill": "Application package migration tools",
+      "experience": 7
+    },
+    {
+      "skill": "Segregation of duty frameworks",
+      "experience": 7
+    },
+    {
+      "skill": "SOD tools",
+      "experience": 7
+    },
+    {
+      "skill": "Advanced Access Controls (AAC)",
+      "experience": 7
+    },
+    {
+      "skill": "Advanced Financials Controls (AFC)",
+      "experience": 7
+    },
+    {
+      "skill": "Financial Reporting Controls (FRC)",
+      "experience": 7
+    },
+    {
+      "skill": "Integrations with Identity products for enabling SSO",
+      "experience": 7
+    },
+    {
+      "skill": "Project Management",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver Oracle Cloud Applications Security & Controls implementations and Risk Management Cloud (RMC) modules"
+    },
+    {
+      "duty": "Assess, design and implement Security and Controls"
+    },
+    {
+      "duty": "Design implementation, testing and deploying of Business process controls, automated controls, and IT controls"
+    },
+    {
+      "duty": "Implementing out of the box HDL tool, application package migration tools"
+    },
+    {
+      "duty": "Implement segregation of duty frameworks and associated mitigating controls and SOD tools"
+    },
+    {
+      "duty": "Implement RMC modules including Advanced Access Controls (AAC), Advanced Financials Controls (AFC) and Financial Reporting Controls (FRC)"
+    },
+    {
+      "duty": "Integrate with Identity products for enabling SSO"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Computer Science, Information Technology, Computer Engineering, or related discipline (Master's preferred)"
+    },
+    {
+      "credential": "CISSP, CISM, or CISA certification"
+    }
+  ]
+}

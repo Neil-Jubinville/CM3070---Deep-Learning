@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Speech Language Pathologist",
+      "job_category": "Healthcare",
+      "job_class": "Specialist",
+      "sector": "Education",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Speech Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Disorders Management",
+      "experience": 5
+    },
+    {
+      "skill": "Behavior Management",
+      "experience": 5
+    },
+    {
+      "skill": "Presentation Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assess communication disorders using accepted tests and measurements."
+    },
+    {
+      "duty": "Manage student behaviors and provide recommendations to educators and parents."
+    },
+    {
+      "duty": "Plan and deliver purposeful therapy to close gaps in communication and academic skills."
+    },
+    {
+      "duty": "Analyze data to intervene and adjust therapy, seeking excellence as an educator."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master\u2019s degree in Communication Disorders from an accredited college or university"
+    },
+    {
+      "credential": "Valid Texas license as a Speech Language Pathologist granted by the Texas Department of Licensing and Regulation"
+    },
+    {
+      "credential": "National Certification of Clinical Competence granted by the American Speech Language Hearing Association (ASHA)"
+    },
+    {
+      "credential": "CFY Interns accepted"
+    }
+  ]
+}

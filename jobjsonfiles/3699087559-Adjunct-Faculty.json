@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Adjunct Faculty",
+      "job_category": "Academic",
+      "job_class": "Faculty",
+      "sector": "Education",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Teaching",
+      "experience": 3
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 3
+    },
+    {
+      "skill": "Clinical Instruction",
+      "experience": 3
+    },
+    {
+      "skill": "Committee Participation",
+      "experience": 3
+    },
+    {
+      "skill": "Community Service",
+      "experience": 3
+    },
+    {
+      "skill": "Clinical Practice",
+      "experience": 3
+    },
+    {
+      "skill": "Online Instruction",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Teach graduate and/or undergraduate nursing students through didactic instruction either online or in a blended format."
+    },
+    {
+      "duty": "Mentor nursing students and engage in college, university, community, and professional service activities."
+    },
+    {
+      "duty": "Conduct clinical site visits and instruct students in hospital and clinical settings."
+    },
+    {
+      "duty": "Perform simulation and lab activities aligned with professional nursing expertise and skills."
+    },
+    {
+      "duty": "Serve on college committees and perform community and professional service activities where appropriate."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree in an appropriate field of specialization, or equivalent qualifications based on professional experience."
+    },
+    {
+      "credential": "Eligibility to practice and maintain licensure as an RN and/or APRN in the state of Florida."
+    },
+    {
+      "credential": "1 year of experience in nursing."
+    }
+  ]
+}

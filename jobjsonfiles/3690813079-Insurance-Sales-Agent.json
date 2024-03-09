@@ -1,0 +1,47 @@
+{
+  "meta": [
+    {
+      "job_title": "Insurance Sales Agent",
+      "job_category": "Insurance",
+      "job_class": "Agent",
+      "sector": "Sales",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 4
+    },
+    {
+      "skill": "Insurance Sales",
+      "experience": 4
+    },
+    {
+      "skill": "Claims Administration",
+      "experience": 4
+    },
+    {
+      "skill": "Marketing",
+      "experience": 4
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Processing endorsements and claims administration."
+    },
+    {
+      "duty": "Compiling insurance quotes and preparing client proposals."
+    },
+    {
+      "duty": "Marketing new business and renewals."
+    },
+    {
+      "duty": "Assisting with information gathering to prepare submissions."
+    }
+  ]
+}

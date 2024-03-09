@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Water Resources Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and run watershed-specific hydrologic models using programming, scripting, and modeling skills."
+    },
+    {
+      "duty": "Apply hydrologic models to machine learning, neural network applications, and physically based and climate-informed snow and runoff hydrology models."
+    },
+    {
+      "duty": "Coordinate and analyze snow surveying and remotely sensed snowpack data."
+    },
+    {
+      "duty": "Participate in field data collection including conducting snow surveys."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Hydrology",
+      "experience": 5
+    },
+    {
+      "skill": "Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Climate Science",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Engineering, Hydrology, or a related field (Master's preferred)"
+    }
+  ],
+  "salary": 95000
+}

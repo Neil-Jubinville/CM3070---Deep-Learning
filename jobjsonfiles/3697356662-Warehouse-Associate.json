@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Associate",
+      "job_category": "Logistics",
+      "job_class": "Associate",
+      "sector": "Logistics",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Warehouse Operations",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 1
+    },
+    {
+      "skill": "Operate Warehouse Equipment",
+      "experience": 1
+    },
+    {
+      "skill": "Physical Strength",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing warehouse tasks including receiving, picking, packing, shipping, wire cutting, light assembly, and general maintenance of assigned areas."
+    },
+    {
+      "duty": "Completing log sheets and handling inbound shipments."
+    },
+    {
+      "duty": "Verifying supplier returns and entering order receipts."
+    },
+    {
+      "duty": "Relocating and consolidating material."
+    },
+    {
+      "duty": "Preparing and assembling packing lists."
+    },
+    {
+      "duty": "Packing, labeling, wrapping, and loading outbound trucks."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school degree or equivalent preferred"
+    }
+  ]
+}

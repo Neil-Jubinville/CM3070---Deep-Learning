@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Physical Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Professional",
+      "sector": "Healthcare",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Therapy Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Treatment Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Summaries",
+      "experience": 5
+    },
+    {
+      "skill": "Progress Summaries",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Information Management",
+      "experience": 5
+    },
+    {
+      "skill": "Physical Therapy Certification",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assess each patient and develop an appropriate treatment plan with measurable goals and time frames."
+    },
+    {
+      "duty": "Prepare and submit clinical and progress summaries based on identified and attained goals."
+    },
+    {
+      "duty": "Ensure that other treating medical professionals have the necessary information to appropriately evaluate the patient."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's, Master's or Doctor's degree of an accredited physical therapy curriculum Certification in Physical Therapy and valid state license to practice"
+    }
+  ]
+}

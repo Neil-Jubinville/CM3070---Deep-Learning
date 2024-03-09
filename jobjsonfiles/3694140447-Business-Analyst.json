@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Analyst",
+      "job_category": "Business Analysis",
+      "job_class": "Analyst",
+      "sector": "Financial Services",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mortgage Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Product Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Issue Resolution",
+      "experience": 5
+    },
+    {
+      "skill": "System Functionality Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Software Deployment Management",
+      "experience": 5
+    },
+    {
+      "skill": "User Story Development",
+      "experience": 5
+    },
+    {
+      "skill": "Training Material Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Document current state business processes and system functionality; work with the Product Owner to document proposed to-be processes."
+    },
+    {
+      "duty": "Analyze escalated production issues to determine if they are system defects or training issues."
+    },
+    {
+      "duty": "Develop and clarify user stories to deliver new product features and resolve production issues."
+    },
+    {
+      "duty": "Resolve assigned feature questions through data analysis and software tools (SQL, XML, etc.)."
+    },
+    {
+      "duty": "Support the roll-out of new features by creating and managing deployment activity checklists."
+    },
+    {
+      "duty": "Provide input on training materials and operating procedures for assigned features."
+    },
+    {
+      "duty": "Present product features at sprint demonstrations to end users, managers, and executives."
+    },
+    {
+      "duty": "Develop detailed understanding of supported products within a complex service-oriented architecture."
+    },
+    {
+      "duty": "Apply analytical skills to critically evaluate information gathered from multiple sources, reconcile conflicts, decompose high-level information into details, and communicate information clearly and effectively to stakeholders, managers, and delivery teams."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100
+    },
+    {
+      "student_teacher": 70
+    },
+    {
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Finance, or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Painter",
+      "job_category": "Crafts and Trades",
+      "job_class": "Specialized",
+      "sector": "Maintenance",
+      "salary": 45000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Painting",
+      "experience": 5
+    },
+    {
+      "skill": "Mud Work",
+      "experience": 3
+    },
+    {
+      "skill": "Staining",
+      "experience": 3
+    },
+    {
+      "skill": "Finish Work",
+      "experience": 2
+    },
+    {
+      "skill": "Tool Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Maintenance Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Safety Awareness",
+      "experience": 3
+    },
+    {
+      "skill": "Working at Heights",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Interaction",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform routine and specialized painting and related tasks to maintain the condition and appearance of medical center facilities."
+    },
+    {
+      "duty": "Utilize mud work, taping and bedding, staining of raw wood, and finish work skills for painting tasks."
+    },
+    {
+      "duty": "Operate hand and power tools for painting and maintenance activities."
+    },
+    {
+      "duty": "Follow safety protocols when working in precarious or high locations such as ladders and scaffolding."
+    },
+    {
+      "duty": "Occasionally work with neonates, infants, adolescents, adults, and geriatric patients, ensuring minimal disruption to their environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or Equivalent"
+    }
+  ]
+}

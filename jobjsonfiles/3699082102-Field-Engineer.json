@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Installations",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Electronic Equipment Servicing",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform preventative maintenance, installations, troubleshooting, and repairs on medical equipment within a hospital or healthcare system."
+    },
+    {
+      "duty": "Maintain relationships with customers and ensure timely communication, resolution, and proper follow-up."
+    },
+    {
+      "duty": "Adhere to company policies, procedures, and hospital protocols to ensure regulatory and compliance requirements are met; ensure documentation of all work performed is captured, including the ordering of parts."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate degree, Bachelor's degree, military education, participant in the formal GE HealthCare Biomedical or Field Engineer Services Internship or Military Externship program; or High School Diploma / GED with 4+ years\u2019 experience servicing electronic equipment."
+    }
+  ]
+}

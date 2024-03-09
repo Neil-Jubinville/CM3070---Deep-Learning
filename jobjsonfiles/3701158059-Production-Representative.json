@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Production Representative",
+      "job_category": "Food Service",
+      "job_class": "Representative",
+      "sector": "Food Service",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food Preparation",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 4
+    },
+    {
+      "skill": "Sanitation Standards",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide Customers with fresh, made in store product, maintain department, and food safety/sanitation standards."
+    },
+    {
+      "duty": "Cut, slice, dice, chop food for recipe preparation; package, label, stock, rotate made in store products."
+    },
+    {
+      "duty": "Comply with food safety and sanitation standards; properly handle/maintain temperature integrity of all ingredients, product, and equipment."
+    },
+    {
+      "duty": "Provide internal customer service and assist Customers as needed."
+    },
+    {
+      "duty": "Complete tasks at assigned workstation, assist in multiple food preparation areas, handle catering orders, and perform other duties as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma, or equivalent, and experience in food preparation and equipment (preferred)"
+    }
+  ]
+}

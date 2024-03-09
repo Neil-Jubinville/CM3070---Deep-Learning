@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Store Manager",
+      "job_category": "Retail",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Employee Management",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Management",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Policy Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and develop a highly effective staff through coaching, direction, and setting positive examples."
+    },
+    {
+      "duty": "Identify, plan, and implement appropriate store processes to ensure smooth operations."
+    },
+    {
+      "duty": "Responsible for inventory management and maintaining adequate product stock."
+    },
+    {
+      "duty": "Take ownership of the selling experience by training staff on upselling and connecting with customers."
+    },
+    {
+      "duty": "Provide exceptional customer service and create a warm and friendly environment for customers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Retail Management, or related field (Master's preferred)"
+    }
+  ]
+}

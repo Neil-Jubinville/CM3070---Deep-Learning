@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Accountant",
+      "job_category": "Finance",
+      "job_class": "Accounting",
+      "sector": "Finance",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Generally Accepted Accounting Principles",
+      "experience": 1
+    },
+    {
+      "skill": "Microsoft Excel",
+      "experience": 2
+    },
+    {
+      "skill": "Oracle",
+      "experience": 1
+    },
+    {
+      "skill": "Blackline",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support daily accounting activities and monthly close activities."
+    },
+    {
+      "duty": "Prepare journal entries and support documents for A/P and project accruals."
+    },
+    {
+      "duty": "Reconciliation of legal claims and monthly accruals of legal settlements and insurance reimbursements."
+    },
+    {
+      "duty": "Reconciliation of clearing broker\u2019s cash activity and associated journal entries."
+    },
+    {
+      "duty": "Prepare Blackline account reconciliations and ensure complete/accurate support documentation."
+    },
+    {
+      "duty": "Assist with external compliance and audit requests."
+    },
+    {
+      "duty": "Prepare various reports needed internally."
+    },
+    {
+      "duty": "Perform other accounting tasks as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Accounting or equivalent"
+    }
+  ]
+}

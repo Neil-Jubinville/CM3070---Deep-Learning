@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Executive Chef",
+      "job_category": "Culinary",
+      "job_class": "Chef",
+      "sector": "Hospitality",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food Preparation",
+      "experience": 5
+    },
+    {
+      "skill": "Kitchen Management",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Menu Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Supply Chain Management",
+      "experience": 5
+    },
+    {
+      "skill": "Sanitation and Hygiene Standards",
+      "experience": 5
+    },
+    {
+      "skill": "Food Production Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Facility Management",
+      "experience": 5
+    },
+    {
+      "skill": "Cooking Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Direct and prepare the preparation of food to be served to residents, guests, and staff."
+    },
+    {
+      "duty": "Maintain quality service and provide professional and technical knowledge in food production."
+    },
+    {
+      "duty": "Plan menus, order food, and ensure appropriate use of facility supplies and equipment."
+    },
+    {
+      "duty": "Hire, orient, train, and schedule kitchen staff according to budget and event needs."
+    },
+    {
+      "duty": "Establish strategic goals, accomplish financial objectives, and maintain a safe, secure, and compliant work environment."
+    },
+    {
+      "duty": "Ensure efficient operation of the kitchen following established food production programs and procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Culinary Arts, Hospitality Management, or related field (Master's preferred)"
+    }
+  ]
+}

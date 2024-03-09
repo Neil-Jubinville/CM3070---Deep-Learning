@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Services Representative",
+      "job_category": "Healthcare",
+      "job_class": "Representative",
+      "sector": "Healthcare",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Insurance/Benefits Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Billing",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain patient accounts and update personal financial and insurance information."
+    },
+    {
+      "duty": "Optimize patient satisfaction, provider time, and treatment room utilization by assessing patient needs."
+    },
+    {
+      "duty": "Schedule appointments and address customer/patient issues for effective resolution."
+    },
+    {
+      "duty": "Provide timely feedback to the practice regarding service failures or patient concerns."
+    },
+    {
+      "duty": "Consult with patients regarding their benefits, coverage, and financial options."
+    },
+    {
+      "duty": "Greet patients and visitors to the office and provide a high level of customer service."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma required"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Worker",
+      "job_category": "Logistics",
+      "job_class": "Worker",
+      "sector": "Warehousing",
+      "salary": 32760,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Warehouse Duties",
+      "experience": 3
+    },
+    {
+      "skill": "Package Sorting",
+      "experience": 3
+    },
+    {
+      "skill": "Physical Endurance",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform fast-paced and physical warehouse duties including loading, unloading, and sorting of packages of various sizes."
+    },
+    {
+      "duty": "Work one shift a day for part-time employees and two shifts for full-time employees, with variable shift lengths based on package volume."
+    },
+    {
+      "duty": "Adhere to safety protocols and procedures to ensure workplace safety and prevent accidents."
+    },
+    {
+      "duty": "Collaborate with team members to efficiently and effectively complete tasks and meet productivity targets."
+    },
+    {
+      "duty": "Report and address any issues or discrepancies with packages and shipments."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 60,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": []
+}

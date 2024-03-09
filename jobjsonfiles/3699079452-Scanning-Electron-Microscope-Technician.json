@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Scanning Electron Microscope Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Scanning Electron Microscope Operation",
+      "experience": 3
+    },
+    {
+      "skill": "SEM Imaging and Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "SEM System Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Wafer Evaluation",
+      "experience": 3
+    },
+    {
+      "skill": "Process Instrumentation",
+      "experience": 3
+    },
+    {
+      "skill": "Wafer Preparation",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare wafers for experimentation, including cleaning, loading, and reactor preparation."
+    },
+    {
+      "duty": "Operate scanning electron microscope (SEM) for cross-section, top-view analysis, and imaging."
+    },
+    {
+      "duty": "Record process conditions, experimental observations, and thin-film evaluations."
+    },
+    {
+      "duty": "Order equipment and supplies, coordinate with vendors and purchasing, and perform routine maintenance procedures."
+    },
+    {
+      "duty": "Coordinate instrument repair and maintenance, set up equipment for experiments, and use quantitative wafer evaluation and process instrumentation knowledge."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Technical Diploma"
+    }
+  ]
+}

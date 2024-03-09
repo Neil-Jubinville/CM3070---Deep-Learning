@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Datacenter Operations Agent",
+      "job_category": "Technology",
+      "job_class": "Operations",
+      "sector": "Technology",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Networking",
+      "experience": 5
+    },
+    {
+      "skill": "Linux OS",
+      "experience": 5
+    },
+    {
+      "skill": "Disaster Recovery",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Deployment",
+      "experience": 5
+    },
+    {
+      "skill": "Physical Work",
+      "experience": 5
+    },
+    {
+      "skill": "Field-based Work",
+      "experience": 5
+    },
+    {
+      "skill": "Operating System Troubleshooting",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage troubleshooting and resolve critical technical issues within the datacenter"
+    },
+    {
+      "duty": "Install and maintain switches, routers, and other large scale networking gear"
+    },
+    {
+      "duty": "Configure and troubleshoot Linux OS-related issues"
+    },
+    {
+      "duty": "Participate in on-call rotation to get to the datacenter during off hours"
+    },
+    {
+      "duty": "Participate in disaster recovery mock drills and procedures"
+    },
+    {
+      "duty": "Manage private cloud deployments"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "3 years of experience in working with computer systems and computer networks, specifically with the Linux operating system"
+    },
+    {
+      "credential": "Any security clearances required by the country or countries you are supporting."
+    },
+    {
+      "credential": "Ability to do physical work (lift compute servers, network switches, etc.)"
+    },
+    {
+      "credential": "Experience with field-based work in POPs and datacenters"
+    },
+    {
+      "credential": "Experience in troubleshooting OS, network equipment, and software"
+    }
+  ]
+}

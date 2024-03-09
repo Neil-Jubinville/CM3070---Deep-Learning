@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Water Truck Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Transportation",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Truck Driving",
+      "experience": 3
+    },
+    {
+      "skill": "Labor Work",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Awareness",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Outdoor Work",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Drive water trucks and perform various labor work duties."
+    },
+    {
+      "duty": "Maintain safety awareness and compliance with industry rules and regulations."
+    },
+    {
+      "duty": "Communicate effectively with other plant employees and operators."
+    },
+    {
+      "duty": "Work in varied outdoor environments and adverse weather conditions."
+    },
+    {
+      "duty": "Complete work tasks under MSHA safety requirements and company safety policies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid driver's license and MSHA training certification"
+    }
+  ]
+}

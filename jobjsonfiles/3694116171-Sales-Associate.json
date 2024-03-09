@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Retail",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Fashion Styling",
+      "experience": 3
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide exceptional and meaningful customer service to promote products and build brand relationships."
+    },
+    {
+      "duty": "Assist the management team in building store business."
+    },
+    {
+      "duty": "Support service enhancements to build strong relationships, including active use of Concierge."
+    },
+    {
+      "duty": "Handle multiple customers at a time, multi-task, and take on projects simultaneously."
+    },
+    {
+      "duty": "Stay informed about fashion trends, new arrivals, and product knowledge such as fit, color, and fashion."
+    },
+    {
+      "duty": "Use fashion expertise to create outfits for customers and suggest items to meet their needs."
+    },
+    {
+      "duty": "Maximize individual performance by participating in learning opportunities and accepting direction, coaching, and feedback."
+    },
+    {
+      "duty": "Achieve sales and service metrics in key measurable areas, including clientelling/outreach, appointment setting, and Talbots Classic Awards."
+    },
+    {
+      "duty": "Complete assigned projects, including operational tasks such as filling orders, replenishment, and recovery."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 90,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent"
+    }
+  ]
+}

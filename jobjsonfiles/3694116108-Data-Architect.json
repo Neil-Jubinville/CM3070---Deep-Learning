@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Architect",
+      "job_category": "Technology",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Data Tools Evaluation",
+      "experience": 5
+    },
+    {
+      "skill": "Data Technology Implementation",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Data Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Define comprehensive information architecture for critical domains including HR, Legal, Risk and Compliance, Finance, Cybersecurity, Infrastructure, and Technology Management."
+    },
+    {
+      "duty": "Assess and recommend the most suitable data tools and technologies, ensuring the implementation adheres to standard methodologies to keep our data ecosystem modern and efficient."
+    },
+    {
+      "duty": "Collaborate closely with Enterprise Data Architects to establish and maintain enterprise standards. Conduct Proof of Concepts (POCs) to validate and refresh these standards as needed."
+    },
+    {
+      "duty": "Act as a technical authority and mentor, offering guidance and expertise to Data Engineers and Data Analysts within the Data Architecture and Engineering Chapter Area."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Relevant certification in public cloud services, such as AWS Certified Solution Architect and AWS Certified Advanced Network - Specialty, is highly desirable."
+    }
+  ]
+}

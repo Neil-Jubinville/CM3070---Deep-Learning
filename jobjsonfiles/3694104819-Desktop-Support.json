@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Desktop Support",
+      "job_category": "IT",
+      "job_class": "Support",
+      "sector": "IT",
+      "salary": 65000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide IT support to all users in the Americas"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Windows desktop technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Desktop and laptop hardware",
+      "experience": 5
+    },
+    {
+      "skill": "TCP/IP, DNS and Internetworking Technology",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office (Word, Excel, PowerPoint, Outlook)",
+      "experience": 5
+    },
+    {
+      "skill": "Server, Voice & Communications Infrastructure",
+      "experience": 4
+    },
+    {
+      "skill": "Operating systems (e.g. Windows, Linux, Apple)",
+      "experience": 5
+    },
+    {
+      "skill": "Audio and Video Conferencing technologies",
+      "experience": 4
+    },
+    {
+      "skill": "Apple products (Mac, Ipad,Iphone)",
+      "experience": 4
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 70,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associates Degree in Computer Science, related field or equivalent experience"
+    }
+  ]
+}

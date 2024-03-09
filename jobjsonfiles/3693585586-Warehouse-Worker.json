@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Worker",
+      "job_category": "Logistics",
+      "job_class": "Entry-Level",
+      "sector": "Warehouse",
+      "salary": 39000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Loading and unloading",
+      "experience": 1
+    },
+    {
+      "skill": "Sorting",
+      "experience": 1
+    },
+    {
+      "skill": "Physically Fit",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Loading and unloading packages of various sizes in a fast-paced environment."
+    },
+    {
+      "duty": "Sorting packages based on size and destination."
+    },
+    {
+      "duty": "Working part-time with one shift a day or full-time with two shifts."
+    },
+    {
+      "duty": "Adhering to safety guidelines and procedures while handling packages."
+    },
+    {
+      "duty": "Receiving overtime pay after 40 hours a week."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100
+    },
+    {
+      "student_teacher": 60
+    },
+    {
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED equivalent"
+    }
+  ]
+}

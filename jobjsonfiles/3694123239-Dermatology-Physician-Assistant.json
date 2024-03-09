@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Dermatology Physician Assistant",
+      "job_category": "Medical",
+      "job_class": "Physician Assistant",
+      "sector": "Healthcare",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Dermatology Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Diagnostic Skills",
+      "experience": 3
+    },
+    {
+      "skill": "EMR/EHR Management",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct patient consultations and provide dermatological care including biopsies, cryotherapy, and excisions."
+    },
+    {
+      "duty": "Document patient progress and treatment plans in the electronic medical record system."
+    },
+    {
+      "duty": "Collaborate with dermatologists and medical staff to provide comprehensive patient care."
+    },
+    {
+      "duty": "Assist in surgical procedures and minor surgeries as required."
+    },
+    {
+      "duty": "Educate patients about treatment options, skin care, and disease prevention."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Physician Assistant Studies or related field (Master's preferred)"
+    },
+    {
+      "credential": "Certification as a Physician Assistant (PA-C)"
+    }
+  ]
+}

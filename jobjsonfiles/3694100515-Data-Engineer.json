@@ -1,0 +1,110 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "GCP/Google Cloud Platform",
+      "experience": 5
+    },
+    {
+      "skill": "Spark",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 3
+    },
+    {
+      "skill": "Hadoop",
+      "experience": 3
+    },
+    {
+      "skill": "Vertica",
+      "experience": 3
+    },
+    {
+      "skill": "Talend",
+      "experience": 3
+    },
+    {
+      "skill": "Tableau",
+      "experience": 3
+    },
+    {
+      "skill": "Cloud to Cloud Migration",
+      "experience": 3
+    },
+    {
+      "skill": "Data Management",
+      "experience": 3
+    },
+    {
+      "skill": "Data Storage",
+      "experience": 3
+    },
+    {
+      "skill": "ETL",
+      "experience": 3
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Quantitative Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Organization",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop analytical models and be the face to the data consumers."
+    },
+    {
+      "duty": "Perform data curation to meet the business requirements."
+    },
+    {
+      "duty": "Build batch and streaming data pipelines."
+    },
+    {
+      "duty": "Develop processes for automating, testing, and deploying work."
+    },
+    {
+      "duty": "Identify risks and opportunities of potential logic and data issues within the data environment."
+    },
+    {
+      "duty": "Collaborate effectively with the global team and ensure day-to-day deliverables are met."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 75,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree and 5+ years of industry experience in software development, data engineering, business intelligence, data science, or related field with a track record of manipulating, processing, and extracting value from large datasets."
+    }
+  ]
+}

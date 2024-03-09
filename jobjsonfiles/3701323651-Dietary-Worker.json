@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Dietary Worker",
+      "job_category": "Dietary",
+      "job_class": "Worker",
+      "sector": "Healthcare",
+      "salary": 24000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food Preparation",
+      "experience": 5
+    },
+    {
+      "skill": "Cleaning and Sanitization",
+      "experience": 5
+    },
+    {
+      "skill": "Record Keeping",
+      "experience": 5
+    },
+    {
+      "skill": "High School Diploma or GED Equivalent",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Preparing food per recipes/production sheets and setting up in a designated area per department standards."
+    },
+    {
+      "duty": "Taking food temperatures recording on appropriate logs and noting any actions taken to correct."
+    },
+    {
+      "duty": "Cleaning and sanitizing per department standards."
+    },
+    {
+      "duty": "Participating in the department and hospital performance improvement activities."
+    },
+    {
+      "duty": "Participating in the team and/or department meetings."
+    },
+    {
+      "duty": "Attending required/mandatory in-services."
+    },
+    {
+      "duty": "Complying with hospital/department policies and procedures including all food safety regulatory standards."
+    },
+    {
+      "duty": "Plating and serving prepared food for patient tray delivery."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 57,
+      "student_teacher": 120,
+      "introvert_extrovert": 79
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School graduate or GED equivalent"
+    }
+  ]
+}

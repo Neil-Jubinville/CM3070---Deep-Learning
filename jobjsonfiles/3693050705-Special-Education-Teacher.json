@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Special Education Teacher",
+      "job_category": "Education",
+      "job_class": "Teacher",
+      "sector": "Education",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Curriculum Development",
+      "experience": 5
+    },
+    {
+      "skill": "Differentiation Instruction",
+      "experience": 5
+    },
+    {
+      "skill": "Special Education",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Organization",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Plan, prepare and implement the instructional process for students with Individualized Education Plans (IEPs) within the learning center and/or classroom."
+    },
+    {
+      "duty": "Establish a climate that promotes a firm, fair and respectful classroom environment and focus on social development and group responsibility."
+    },
+    {
+      "duty": "Establish Providing direct subject based instruction and/or working in a team environment to collaboratively and/or co-teach curricular subjects as required in IEP."
+    },
+    {
+      "duty": "Modify curriculum and assist with differentiated instruction for students as well as staff."
+    },
+    {
+      "duty": "Maintain the physical center, furniture, and supplies in a neat and orderly condition according to procedure."
+    },
+    {
+      "duty": "Keep up to date with research-based practices and developments in the subject area."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelors degree or higher in education or related field."
+    },
+    {
+      "credential": "Meet state teaching certification and/or licensing requirements."
+    },
+    {
+      "credential": "Special education certification."
+    }
+  ]
+}

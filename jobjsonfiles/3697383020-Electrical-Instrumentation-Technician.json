@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical/Instrumentation Technician",
+      "job_category": "Skilled Trades",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Process Control Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Pneumatic Systems Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 5
+    },
+    {
+      "skill": "AC/DC Circuit Theory",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Safety Practices",
+      "experience": 5
+    },
+    {
+      "skill": "Maintenance Management Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Written and Verbal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement predictive, preventative, or planned maintenance programs for power, motor control, process control systems, and pneumatic systems."
+    },
+    {
+      "duty": "Troubleshoot, diagnose, propose, and implement equipment repair activities."
+    },
+    {
+      "duty": "Adhere to electrical work practices and guidelines outlined by relevant organizations."
+    },
+    {
+      "duty": "Utilize maintenance management system to facilitate job plans and record maintenance activities."
+    },
+    {
+      "duty": "Communicate job status and support requirements with co-workers and management."
+    },
+    {
+      "duty": "Ensure adherence to food safety and quality systems."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "(2) year EET degree, technical/military training, or equivalent experience in electrical or electronics field"
+    }
+  ]
+}

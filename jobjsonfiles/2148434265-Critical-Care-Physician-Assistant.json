@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Critical Care Physician Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Physician Assistant",
+      "sector": "Healthcare",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Decision-Making",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Adaptability",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Electronic Medical Records",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Take medical histories and conduct physical exams"
+    },
+    {
+      "duty": "Prescribe medications and manage medication regimens"
+    },
+    {
+      "duty": "Perform and interpret diagnostic tests and procedures"
+    },
+    {
+      "duty": "Assist in surgeries and other medical procedures"
+    },
+    {
+      "duty": "Collaborate with physicians and other healthcare providers to develop treatment plans"
+    },
+    {
+      "duty": "Document patient care in EMRs"
+    },
+    {
+      "duty": "Communicate with patients, families and other healthcare providers"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science (BS) degree in a relevant field"
+    },
+    {
+      "credential": "Master of Medical Science (MMSc) degree or a Master of Science in Physician Assistant Studies (MSPAS) degree"
+    },
+    {
+      "credential": "National certification from the National Commission on Certification of Physician Assistants (NCCPA)"
+    },
+    {
+      "credential": "Continued medical education (CME) to maintain NCCPA certification and medical licenses"
+    }
+  ]
+}

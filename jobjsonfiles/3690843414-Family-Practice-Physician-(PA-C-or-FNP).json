@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Family Practice Physician (PA-C or FNP)",
+      "job_category": "Healthcare",
+      "job_class": "Physician",
+      "sector": "Healthcare",
+      "salary": 185000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Outpatient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Records Management",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnosis and Treatment",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Management",
+      "experience": 5
+    },
+    {
+      "skill": "Primary Care",
+      "experience": 5
+    },
+    {
+      "skill": "Family Practice",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide outpatient care for patients of all ages, managing their medical needs and promoting wellness."
+    },
+    {
+      "duty": "Maintain and update comprehensive medical records for all patients under care."
+    },
+    {
+      "duty": "Diagnose and treat common medical issues, providing primary care services to patients."
+    },
+    {
+      "duty": "Manage a panel of patients, providing ongoing medical attention and support."
+    },
+    {
+      "duty": "Adhere to regular clinic hours for face-to-face patient appointments, without weekend clinic hours."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Board Certification in Family Practice (PA-C or FNP) with eligibility or licensed in the state of MA."
+    },
+    {
+      "credential": "Completion of a full educational program in the US."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Electro-mechanical Engineering Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Technology",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electro-mechanical Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Test Setup Development",
+      "experience": 5
+    },
+    {
+      "skill": "Prototype Fabrication",
+      "experience": 5
+    },
+    {
+      "skill": "Precision Mechanical System",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Testing Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnostic Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Vacuum and Test Equipment",
+      "experience": 5
+    },
+    {
+      "skill": "CAD Solid Models",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build, test, and integrate assemblies and systems used to produce advanced large scale display manufacturing equipment."
+    },
+    {
+      "duty": "Support hardware R&D initiatives from component to system integration."
+    },
+    {
+      "duty": "Develop and fabricate mechanical and electrical components."
+    },
+    {
+      "duty": "Work with engineers to develop test setup and fixtures, collect data, and generate reports."
+    },
+    {
+      "duty": "Maintain, stock, and organize tools, measurement equipment and hardware lab."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electro-mechanical Engineering or related field"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Part-time Accountant",
+      "job_category": "Accounting",
+      "job_class": "Accountant",
+      "sector": "Accounting",
+      "salary": 28000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 2
+    },
+    {
+      "skill": "QuickBooks Online",
+      "experience": 2
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 2
+    },
+    {
+      "skill": "Client Service",
+      "experience": 2
+    },
+    {
+      "skill": "Bookkeeping",
+      "experience": 2
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Invoicing",
+      "experience": 2
+    },
+    {
+      "skill": "Billing",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Excel",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Delivering superior quality books and financial statements for businesses of various sizes, structures, and industries."
+    },
+    {
+      "duty": "Building and maintaining meaningful relationships with entrepreneurs via email, video, and phone."
+    },
+    {
+      "duty": "Providing delightful client service and support by responding to client inquiries and giving accounting advice."
+    },
+    {
+      "duty": "Recording financial transactions and financial information in online accounting software (QuickBooks Online)."
+    },
+    {
+      "duty": "Preparing financial statements (income statements, balance sheets, and cash flow statements) and providing other ad-hoc reports to clients."
+    },
+    {
+      "duty": "Invoicing customers and issuing payments for clients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting or Finance"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Trial Attorney",
+      "job_category": "Law",
+      "job_class": "Attorney",
+      "sector": "Legal",
+      "salary": 150000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Trial Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Legal Research",
+      "experience": 5
+    },
+    {
+      "skill": "Business Development",
+      "experience": 5
+    },
+    {
+      "skill": "Client Interaction",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Empathy",
+      "experience": 5
+    },
+    {
+      "skill": "Trauma-Informed Practice",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Represent clients in personal injury cases and lead trial proceedings with proven success."
+    },
+    {
+      "duty": "Work collaboratively with legal assistants, paralegals, and other attorneys to handle a volume of quality cases."
+    },
+    {
+      "duty": "Utilize in-house marketing and business development resources to generate business and enhance brand visibility."
+    },
+    {
+      "duty": "Foster an inclusive and empathetic environment with sensitivity in interactions with clients and colleagues."
+    },
+    {
+      "duty": "Advocate for change in the law for the benefit of clients and the community."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Law or related field (Juris Doctor degree required)"
+    }
+  ]
+}

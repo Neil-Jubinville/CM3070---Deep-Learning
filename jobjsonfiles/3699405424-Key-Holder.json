@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Key Holder",
+      "job_category": "Retail",
+      "job_class": "Supervisor",
+      "sector": "Retail",
+      "salary": 20000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Retail Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 3
+    },
+    {
+      "skill": "Retail Operations",
+      "experience": 2
+    },
+    {
+      "skill": "Coaching",
+      "experience": 2
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide inspirational, authentic, and personalized customer service to achieve sales and customer service targets."
+    },
+    {
+      "duty": "Carry out start and end of day cash reconciliation and have responsibility for opening and closing the store on a rotational basis."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Proven retail experience preferably within cosmetics."
+    },
+    {
+      "credential": "Previous supervisory experience including coaching/mentoring others to achieve sales and customer service targets is desirable."
+    }
+  ]
+}

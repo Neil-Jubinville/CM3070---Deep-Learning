@@ -1,0 +1,96 @@
+{
+  "meta": [
+    {
+      "job_title": "Global Information Security Analyst",
+      "job_category": "Information Security",
+      "job_class": "Analyst",
+      "sector": "Technology",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Information Security",
+      "experience": 3
+    },
+    {
+      "skill": "IT Security Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Network Security Monitoring",
+      "experience": 3
+    },
+    {
+      "skill": "Security Incident Response",
+      "experience": 3
+    },
+    {
+      "skill": "Vulnerability Management",
+      "experience": 3
+    },
+    {
+      "skill": "Security Awareness Training",
+      "experience": 3
+    },
+    {
+      "skill": "Threat Intelligence Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Azure and O365 Security",
+      "experience": 3
+    },
+    {
+      "skill": "Security Tools Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Intrusion Detection Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Monitor networks for malicious activity, IDS/IPS alerts, suspicious emails, network logs and other types of security alerts that provide insight into our network activity."
+    },
+    {
+      "duty": "Work closely with vendors, service providers, and associates within our organization to improve and maintain cyber security efforts across the company's infrastructure, systems, and applications."
+    },
+    {
+      "duty": "Develop company-wide best practices for IT Security and advise project and operation teams in the area of security, compliance, and risk management."
+    },
+    {
+      "duty": "Support incident response activities for the organization and recognize intrusion attempts, perform thorough reviews, and analyses of relevant event detail and summary information."
+    },
+    {
+      "duty": "Create and perform procedures necessary to ensure the safety of information systems assets and protect systems from intentional or inadvertent access or destruction."
+    },
+    {
+      "duty": "Monitors, analyzes, and investigates security alerts (SIEM) and escalates incidents if necessary. Provide support for Internal & External audits."
+    },
+    {
+      "duty": "Prioritize vulnerabilities based on risk level, coordinate with relevant teams to ensure timely remediation, and develop and implement risk mitigation strategies and compensating controls for vulnerabilities that cannot be immediately remedied."
+    },
+    {
+      "duty": "Track and report on vulnerability remediation progress and effectiveness, and promote awareness of vulnerability management best practices within the organization through training, workshops, and ongoing communication."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, or equivalent work experience"
+    }
+  ]
+}

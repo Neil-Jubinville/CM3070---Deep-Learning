@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Service Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 24000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Carpentry",
+      "experience": 2
+    },
+    {
+      "skill": "Plumbing",
+      "experience": 2
+    },
+    {
+      "skill": "Painting",
+      "experience": 2
+    },
+    {
+      "skill": "Electrical Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Appliance Repair",
+      "experience": 2
+    },
+    {
+      "skill": "HVAC Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Masonry",
+      "experience": 2
+    },
+    {
+      "skill": "Hand Tool Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing general and preventative maintenance repairs including carpentry, plumbing, painting, electrical repair, appliance repair, HVAC, masonry, and other general maintenance duties in accordance with company standards and local building codes."
+    },
+    {
+      "duty": "Completing maintenance service requests (work orders) for the apartment community in a competent, professional, and courteous manner."
+    },
+    {
+      "duty": "Assisting in maintaining inventory by properly monitoring and recording inventory items."
+    },
+    {
+      "duty": "Providing information to the Property Management Staff regarding safety concerns and the general appearance of the community."
+    },
+    {
+      "duty": "Assisting in on-call maintenance and performing other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED required (trade certification preferred)"
+    }
+  ]
+}

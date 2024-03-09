@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Service Desk Analyst",
+      "job_category": "Information Technology",
+      "job_class": "Analyst",
+      "sector": "Information Technology",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Active Directory Management",
+      "experience": 3
+    },
+    {
+      "skill": "MS Office Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Remote Desktop Management",
+      "experience": 3
+    },
+    {
+      "skill": "Wireless Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Operating System Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Network Drives Management",
+      "experience": 3
+    },
+    {
+      "skill": "VPN Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Mobile Device Support",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform password reset and account unlock for AD and other applications"
+    },
+    {
+      "duty": "Manage Active Directory accounts"
+    },
+    {
+      "duty": "Troubleshoot MS Office application issues"
+    },
+    {
+      "duty": "Manage Remote Desktop"
+    },
+    {
+      "duty": "Resolve MS Outlook issues and manage permissions"
+    },
+    {
+      "duty": "Create and manage network drives and shared folders"
+    },
+    {
+      "duty": "Troubleshoot browser and wireless connectivity issues"
+    },
+    {
+      "duty": "Troubleshoot operating system and approved software installation"
+    },
+    {
+      "duty": "Troubleshoot printers and provide printer access"
+    },
+    {
+      "duty": "Provide basic troubleshooting for laptops, desktops, VPN, BYOD, and mobile devices"
+    }
+  ]
+}

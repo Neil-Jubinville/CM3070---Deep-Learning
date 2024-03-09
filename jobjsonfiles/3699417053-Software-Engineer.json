@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 115000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Web Development",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Software",
+      "experience": 5
+    },
+    {
+      "skill": "Web Frameworks",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "AI/ML Technologies",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build software solutions for private equity investment"
+    },
+    {
+      "duty": "Collaborate with experienced team of engineers and product managers"
+    },
+    {
+      "duty": "Directly interact with customers to understand challenges and gather feedback"
+    },
+    {
+      "duty": "Operate in an autonomous team that owns the full lifecycle of solutions"
+    },
+    {
+      "duty": "Write code that embodies product and technical values"
+    },
+    {
+      "duty": "Interact with colleagues in a way that supports team values"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

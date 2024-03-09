@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Construction Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Construction",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Construction Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Stakeholder Management",
+      "experience": 5
+    },
+    {
+      "skill": "Project Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 5
+    },
+    {
+      "skill": "Site Selection and Acquisition",
+      "experience": 5
+    },
+    {
+      "skill": "Decision-making",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Serve as an advocate for managing a safe worksite and identifying stakeholder dependencies and construction deliverables."
+    },
+    {
+      "duty": "Manage lease providers, support-associated teams, and deliver RFS \u201cReady for Service\u201d for each lease site location."
+    },
+    {
+      "duty": "Travel up to 100% of the time to data center sites and maintain lease agreement requirements using best practices."
+    },
+    {
+      "duty": "Drive deployment of solutions socialized globally across DCD projects and facilitate decision-making to drive solutions and schedules."
+    },
+    {
+      "duty": "Provide project single point of contact for project development and delivery, and attend scheduled owner/architect/contractor and other project meetings."
+    },
+    {
+      "duty": "Report project progress, manage the construction process of achieving RFS, track lessons learned, and ensure lease provider\u2019s compliance to lease agreement contract."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Construction Project Management, Architecture, Engineering, or related field AND 5+ years experience in construction project management of Data Centers or Mission Critical Facilities or equivalent experience."
+    },
+    {
+      "credential": "PMP certification"
+    },
+    {
+      "credential": "LEED certification"
+    },
+    {
+      "credential": "Degrees and/or professional licenses in Construction Management or Electrical/Mechanical Engineering or similar experience"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Web Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Web Development",
+      "experience": 3
+    },
+    {
+      "skill": "WordPress",
+      "experience": 3
+    },
+    {
+      "skill": "Gatsby",
+      "experience": 3
+    },
+    {
+      "skill": "Contentful",
+      "experience": 3
+    },
+    {
+      "skill": "React",
+      "experience": 3
+    },
+    {
+      "skill": "HTML",
+      "experience": 3
+    },
+    {
+      "skill": "CSS",
+      "experience": 3
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 3
+    },
+    {
+      "skill": "Node.js",
+      "experience": 3
+    },
+    {
+      "skill": "Automated Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Developer Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Web Optimization",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain and improve the www.splashtop.com website, migrating from WordPress to Gatsby and Contentful"
+    },
+    {
+      "duty": "Optimize user experience to drive trial conversions and revenue"
+    },
+    {
+      "duty": "Manage trial forms with JavaScript and PHP, migrating to React and Gatsby serverless functions"
+    },
+    {
+      "duty": "Identify and implement process improvements, new technologies, and integrations"
+    },
+    {
+      "duty": "Develop project plans, monitor progress, and address problems or bugs"
+    },
+    {
+      "duty": "Collaborate with colleagues, managers, and stakeholders, and validate automated test scripts"
+    },
+    {
+      "duty": "Ensure industry-standard and device-compatible code, achieving company goals through active participation in projects"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or relevant field"
+    }
+  ]
+}

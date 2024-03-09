@@ -1,0 +1,43 @@
+{
+  "meta": [
+    {
+      "job_title": "Production Baker",
+      "job_category": "Culinary",
+      "job_class": "Employee",
+      "sector": "Culinary",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Commercial Baking",
+      "experience": 3
+    },
+    {
+      "skill": "Culinary Education",
+      "experience": 3
+    },
+    {
+      "skill": "Organization",
+      "experience": 4
+    },
+    {
+      "skill": "Detail-oriented",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create delicious products from scratch daily to fill the pastry case and complete special orders."
+    },
+    {
+      "duty": "Work Saturdays and around holidays to meet business needs."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Commercial Baking Experience or Culinary Education with focus on pastry"
+    }
+  ]
+}

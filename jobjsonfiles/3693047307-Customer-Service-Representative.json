@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Representative",
+      "job_category": "Customer Service",
+      "job_class": "Representative",
+      "sector": "Customer Service",
+      "salary": 35000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 3
+    },
+    {
+      "skill": "Multitasking",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Adaptability",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provides courteous, timely, and accurate frontline customer service to callers."
+    },
+    {
+      "duty": "Greets callers and provides guidance, information, and direction to caller inquiries in a polite and courteous manner."
+    },
+    {
+      "duty": "Answers incoming calls, screens callers regarding the purpose of the call and either answers the caller's questions or transfers to the appropriate staff member or department."
+    },
+    {
+      "duty": "Ability to effectively communicate, both orally and in writing."
+    },
+    {
+      "duty": "Knowledge of and ability to use Microsoft Office to include Word, Excel, PowerPoint, and Outlook."
+    },
+    {
+      "duty": "Must be able to remain flexible with daily schedules."
+    },
+    {
+      "duty": "Computer knowledge & proficiency with ability to learn new software."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 50,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

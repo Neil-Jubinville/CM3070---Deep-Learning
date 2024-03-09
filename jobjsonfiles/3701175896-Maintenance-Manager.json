@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Manager",
+      "job_category": "Maintenance",
+      "job_class": "Manager",
+      "sector": "Manufacturing",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Maintenance Management",
+      "experience": 10
+    },
+    {
+      "skill": "Electrical Mechanical Troubleshooting",
+      "experience": 10
+    },
+    {
+      "skill": "Employee Relations",
+      "experience": 10
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 10
+    },
+    {
+      "skill": "Safety Guidelines",
+      "experience": 10
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Training Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Bilingual (English/Spanish)",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage maintenance employees and oversee automated technology."
+    },
+    {
+      "duty": "Troubleshoot problems with Human-Machine Interface and Programmable Logic Controllers."
+    },
+    {
+      "duty": "Maintain employee relations and evaluate job performance."
+    },
+    {
+      "duty": "Conduct preventative maintenance and follow-through."
+    },
+    {
+      "duty": "Make repairs using a Business Planning and Control System."
+    },
+    {
+      "duty": "Follow company safety guidelines and Good Manufacturing Practices."
+    },
+    {
+      "duty": "Ensure regular attendance and punctuality due to working with people, items, and equipment that are at the facility."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Maintenance Engineering or relevant field (Master's preferred)"
+    }
+  ]
+}

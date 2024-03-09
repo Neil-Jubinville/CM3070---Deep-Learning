@@ -1,0 +1,124 @@
+{
+  "meta": [
+    {
+      "job_title": "z/OS Systems Programmer",
+      "job_category": "Information Technology",
+      "job_class": "Systems Programmer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "z/OS Systems Programming",
+      "experience": 8
+    },
+    {
+      "skill": "Troubleshooting (IPCS)",
+      "experience": 8
+    },
+    {
+      "skill": "Storage management (DFSMS)",
+      "experience": 8
+    },
+    {
+      "skill": "Parallel Sysplex",
+      "experience": 8
+    },
+    {
+      "skill": "VTAM/TCPIP",
+      "experience": 8
+    },
+    {
+      "skill": "SMP/E knowledge",
+      "experience": 8
+    },
+    {
+      "skill": "TSO/ISPF, JCL",
+      "experience": 8
+    },
+    {
+      "skill": "RACF JES System Programming",
+      "experience": 8
+    },
+    {
+      "skill": "Assembler Programming",
+      "experience": 8
+    },
+    {
+      "skill": "z/VM Installation and support",
+      "experience": 5
+    },
+    {
+      "skill": "High-performance computers",
+      "experience": 5
+    },
+    {
+      "skill": "Performance analysis",
+      "experience": 5
+    },
+    {
+      "skill": "TWS, TSM Storage, Networking",
+      "experience": 3
+    },
+    {
+      "skill": "High-performance networks",
+      "experience": 2
+    },
+    {
+      "skill": "Security+ or Network+",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Analyze, create, and implement cutting-edge technologies for the support of U.S. Government customer base"
+    },
+    {
+      "duty": "Perform z/OS systems programming support and maintenance"
+    },
+    {
+      "duty": "Install, troubleshoot, and manage z/OS systems"
+    },
+    {
+      "duty": "Handle storage management (DFSMS) and virtual tape operations"
+    },
+    {
+      "duty": "Work with Parallel Sysplex, VTAM/TCPIP, SMP/E, TSO/ISPF, HOD, JCL, and RACF JES System Programming"
+    },
+    {
+      "duty": "Utilize programming skills to include Assembler Programming"
+    },
+    {
+      "duty": "Install and support z/VM systems"
+    },
+    {
+      "duty": "Perform high-performance computers installation and support"
+    },
+    {
+      "duty": "Conduct performance analysis and troubleshooting"
+    },
+    {
+      "duty": "Handle TWS, TSM Storage, Networking, and high-performance networks"
+    },
+    {
+      "duty": "Possess Security+ or Network+ certification"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field (Master's preferred)"
+    },
+    {
+      "credential": "Security+ or Network+ Certification"
+    }
+  ]
+}

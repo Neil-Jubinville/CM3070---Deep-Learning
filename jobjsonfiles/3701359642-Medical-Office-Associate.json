@@ -1,0 +1,50 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Office Associate",
+      "job_category": "Healthcare",
+      "job_class": "Associate",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Effective Problem Solving",
+      "experience": 1
+    },
+    {
+      "skill": "Office Equipment Operation",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide front office support to the clinical operations team, and work with a diverse patient population to ensure accuracy of patient intake, registration, payments, and scheduling."
+    },
+    {
+      "duty": "Answer and screen telephone calls, schedule appointments, enter patient charges, payments along with third party billing information and other pertinent information."
+    },
+    {
+      "duty": "Prioritize patient registration, customer service, and ensure patient flow is optimal."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent required"
+    }
+  ]
+}

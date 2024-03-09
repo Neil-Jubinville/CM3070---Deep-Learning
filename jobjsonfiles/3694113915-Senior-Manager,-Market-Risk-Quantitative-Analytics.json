@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Manager, Market Risk Quantitative Analytics",
+      "job_category": "Risk Management",
+      "job_class": "Manager",
+      "sector": "Finance",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analysis",
+      "experience": 10
+    },
+    {
+      "skill": "Quantitative Techniques",
+      "experience": 10
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 10
+    },
+    {
+      "skill": "Python",
+      "experience": 10
+    },
+    {
+      "skill": "C++",
+      "experience": 10
+    },
+    {
+      "skill": "SQL",
+      "experience": 10
+    },
+    {
+      "skill": "Financial Risk Management",
+      "experience": 10
+    },
+    {
+      "skill": "Data Warehouse",
+      "experience": 10
+    },
+    {
+      "skill": "ETL",
+      "experience": 10
+    },
+    {
+      "skill": "Data Quality Review",
+      "experience": 10
+    },
+    {
+      "skill": "Business Metadata Collection",
+      "experience": 10
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Analyzing data and creating quantitative techniques to automate and enhance new Market Risk systems and models."
+    },
+    {
+      "duty": "Analyzing data from legacy systems to feed into the new PolyPaths risk systems; formulate data requirements for data warehouse; participate in business metadata collection, data quality review."
+    },
+    {
+      "duty": "Building machine-learning analysis techniques to augment risk hedging decisions and improve risk models."
+    },
+    {
+      "duty": "Collaborating with business and technical partners to understand and evaluate their requirements regarding data and determine the optimal way to gather and present data."
+    },
+    {
+      "duty": "Documenting data requirements, data glossaries, data mappings, and data flows and data lineage as set forth in standards."
+    },
+    {
+      "duty": "Profiling source data with a focus on data quality issues and coordinating data quality remediation with business teams."
+    },
+    {
+      "duty": "Producing documentation, procedures, and applicable training materials for new departmental processes."
+    },
+    {
+      "duty": "Writing scripts to extract data from various systems including Data Lake and SnowFlake and compare against data warehouse for ETL feed into the PolyPaths risk system."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master\u2019s degree in Science or Computer Science, Information Systems is required \u2013 PhD preferred (equivalent combination of education and experience is considered)"
+    },
+    {
+      "credential": "CFA/FRM finance certifications are preferred"
+    }
+  ]
+}

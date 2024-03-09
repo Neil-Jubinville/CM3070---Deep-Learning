@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Project manager",
+      "job_category": "IT",
+      "job_class": "Manager",
+      "sector": "IT",
+      "salary": 130000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Salesforce Implementation",
+      "experience": 6
+    },
+    {
+      "skill": "Public Sector Experience",
+      "experience": 6
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Resource Management",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 5
+    },
+    {
+      "skill": "Solution Designing",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 5
+    },
+    {
+      "skill": "Stakeholder Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create & manage project plans as per client s project expectations and align project objectives with company goals."
+    },
+    {
+      "duty": "Developing and monitoring goals, tasks, and plans of development for application development projects."
+    },
+    {
+      "duty": "Interact with the client and lead the client calls, act as a SPOC for the project, and analyze briefs and project requests from clients."
+    },
+    {
+      "duty": "Work closely with Solution Architects/Technical Lead to do effort estimations and converting them into a project plan/release plan."
+    },
+    {
+      "duty": "Participate in discovery workshops, requirement analysis, solution designing, and review of the project artifacts like design document, test plan, test cases."
+    },
+    {
+      "duty": "Lead the development of demos / POCs for the client, participate in client workshops, and ensure that the coding & best Practices are followed when developing & testing the solutions."
+    },
+    {
+      "duty": "Ensure process adherence, manage resource allocation, and keep management and stakeholders up to date with regular status reporting."
+    },
+    {
+      "duty": "Manage and mentor a team of developers and consultants, developing metrics for each project, and fostering partnership with customers/stakeholders/sponsors."
+    },
+    {
+      "duty": "Work with US Public Sector, managing fixed bid projects with revenue of more than 10 M."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in IT, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

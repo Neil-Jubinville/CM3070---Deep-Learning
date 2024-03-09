@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Operator I",
+      "job_category": "Shipping",
+      "job_class": "Operator",
+      "sector": "Logistics",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Shipping Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Resolution",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 3
+    },
+    {
+      "skill": "5S Principles",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for the configuration of finish goods to be supplied to shipping based on customer demand."
+    },
+    {
+      "duty": "Perform assembly process for configured devices based on guidance from standard work instructions."
+    },
+    {
+      "duty": "Perform transactions at the time of inventory movement to ensure accurate inventory management."
+    },
+    {
+      "duty": "Effectively communicate within own team and to other teams within the site."
+    },
+    {
+      "duty": "Safely operate production tools and material handling equipment as needed."
+    },
+    {
+      "duty": "Strive to reach production goals each day."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or (GED) General Education Degree"
+    }
+  ]
+}

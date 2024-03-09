@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Information Security Analyst",
+      "job_category": "Information Technology",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 143800,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "IT Security",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Security Policy Management",
+      "experience": 5
+    },
+    {
+      "skill": "Vulnerability Management",
+      "experience": 5
+    },
+    {
+      "skill": "SIEM",
+      "experience": 5
+    },
+    {
+      "skill": "Python Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "AWS/GCP",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct risk assessments and develop security policies and processes."
+    },
+    {
+      "duty": "Monitor security tools, manage system configurations, and perform incident detection and response."
+    },
+    {
+      "duty": "Collaborate with other teams to develop, train, and monitor best security practices."
+    },
+    {
+      "duty": "Implement vulnerability management and forensic processes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree, preferably in a technology-related field, or equivalent work experience. Security certification (CISSP, CISM, or similar)"
+    }
+  ]
+}

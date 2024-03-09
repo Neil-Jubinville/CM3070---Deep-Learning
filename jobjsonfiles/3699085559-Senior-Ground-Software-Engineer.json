@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Ground Software Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Flight Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Python Development",
+      "experience": 5
+    },
+    {
+      "skill": "Web Development",
+      "experience": 5
+    },
+    {
+      "skill": "System Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Ground Data System",
+      "experience": 5
+    },
+    {
+      "skill": "System Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Full-stack Development",
+      "experience": 5
+    },
+    {
+      "skill": "Database Design",
+      "experience": 5
+    },
+    {
+      "skill": "Git",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "Oauth",
+      "experience": 5
+    },
+    {
+      "skill": "Aerospace Industry",
+      "experience": 5
+    },
+    {
+      "skill": "CCSDS Standards",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and evolve web-based software architecture for spacecraft operations"
+    },
+    {
+      "duty": "Work closely with flight software developers, operations personnel, and systems engineers to understand requirements and functional needs"
+    },
+    {
+      "duty": "Deploy and configure the Rocket Lab Ground Data System"
+    },
+    {
+      "duty": "Establish monitoring and alerting to detect system degradation and outages"
+    },
+    {
+      "duty": "Identify ground systems issues and provide technical insight for resolution"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in engineering or other technical discipline (Master\u2019s preferred)"
+    }
+  ]
+}

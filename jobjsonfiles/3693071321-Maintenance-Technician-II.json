@@ -1,0 +1,107 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician II",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Operations",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Electrical Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Mechanical Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Equipment Repair",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Computerized Maintenance Management System (CMMS)",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    },
+    {
+      "skill": "Robotics Maintenance",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Repair and maintain material handling equipment and pneumatic systems throughout the building."
+    },
+    {
+      "duty": "Install, maintain and repair automated packaging and distribution equipment."
+    },
+    {
+      "duty": "Mentor junior technicians to grow in their roles."
+    },
+    {
+      "duty": "Complete preventative maintenance routines with proper documentation."
+    },
+    {
+      "duty": "Troubleshoot electrical and mechanical problems related to all Material Handling Equipment (MHE)."
+    },
+    {
+      "duty": "Maintain a positive working relationship across all of the Amazon Operations facility."
+    },
+    {
+      "duty": "Track and store department inventory."
+    },
+    {
+      "duty": "Move up to 49lbs as well as stand and walk during shifts."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school or equivalent diploma."
+    },
+    {
+      "credential": "Associates or higher degree from a vocational school or college with a focus in the Mechanical or Electrical field."
+    },
+    {
+      "credential": "2+ years apprenticeship or equivalent experience in the Mechanical or Electrical field."
+    },
+    {
+      "credential": "Experience with Material Handling Equipment (MHE) safety standards accordance with Original Equipment Manufacturer (OEM) and Safety standards."
+    },
+    {
+      "credential": "Experience with robotic operation and maintenance."
+    },
+    {
+      "credential": "Able to troubleshoot basic input and output functions."
+    }
+  ]
+}

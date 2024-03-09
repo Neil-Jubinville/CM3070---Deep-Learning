@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "job_title": "Plate Welder",
+      "job_category": "Manufacturing",
+      "job_class": "Welder",
+      "sector": "Manufacturing",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Welding",
+      "experience": 3
+    },
+    {
+      "skill": "Fabrication",
+      "experience": 3
+    },
+    {
+      "skill": "Steel Structure Welding",
+      "experience": 3
+    },
+    {
+      "skill": "Flux Cored Arc Welding",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Welding and fabricating massive steel structures like large steel girders, beams, and nodes for skyscrapers and large power generation equipment."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma / GEDNCCER and OSHA 10 preferred"
+    }
+  ]
+}

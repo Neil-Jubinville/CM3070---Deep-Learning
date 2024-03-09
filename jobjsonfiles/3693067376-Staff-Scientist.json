@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Scientist",
+      "job_category": "Science",
+      "job_class": "Scientist",
+      "sector": "Research",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Immunology",
+      "experience": 5
+    },
+    {
+      "skill": "T Cell Research",
+      "experience": 5
+    },
+    {
+      "skill": "Gene Therapy",
+      "experience": 5
+    },
+    {
+      "skill": "GMP Manufacturing",
+      "experience": 5
+    },
+    {
+      "skill": "Cell Biology",
+      "experience": 5
+    },
+    {
+      "skill": "Biomedical Sciences",
+      "experience": 5
+    },
+    {
+      "skill": "Method Optimization",
+      "experience": 5
+    },
+    {
+      "skill": "Process Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Development and execution of major process development work, qualification of manufacturing workflows and campaigns for manufacturing of GMP cell products for clinical trials."
+    },
+    {
+      "duty": "Planning and directing the work of research associates, laboratory assistants, technicians, and aides."
+    },
+    {
+      "duty": "Training laboratory staff in specialized procedures, methodologies, and equipment use and maintenance."
+    },
+    {
+      "duty": "Contribution of original ideas of methodological significance to the group."
+    },
+    {
+      "duty": "Performing specialized procedures and preparing written reports of laboratory methods, and associated SOPs."
+    },
+    {
+      "duty": "Ensuring that all laboratory activities are carried out in compliance with safety procedures and guidelines in handling, storage, and disposal of bio-hazardous, infectious, and toxic material."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Ph.D. in Immunology, Biomedical Sciences, or related field (Master's preferred)"
+    }
+  ]
+}

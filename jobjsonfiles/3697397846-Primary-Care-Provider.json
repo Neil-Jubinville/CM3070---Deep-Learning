@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Primary Care Provider",
+      "job_category": "Healthcare",
+      "job_class": "Healthcare Provider",
+      "sector": "Healthcare",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Care",
+      "experience": 5
+    },
+    {
+      "skill": "Telehealth",
+      "experience": 3
+    },
+    {
+      "skill": "Primary Care",
+      "experience": 5
+    },
+    {
+      "skill": "In-Office Procedures",
+      "experience": 5
+    },
+    {
+      "skill": "National Certification",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Managing a patient panel with a broad array of patient needs, conducting a mix of acute, chronic, and well visits."
+    },
+    {
+      "duty": "Treating patients in-office or in testing centers, as well as conducting occasional tele-health visits."
+    },
+    {
+      "duty": "Continuous learning during weekly Clinical Rounds and through other modalities."
+    },
+    {
+      "duty": "Ongoing collaboration with in-office teammates via daily huddles, as well as with virtual clinical teams."
+    },
+    {
+      "duty": "Utilization of specific clinical training and opportunities to perform in-office procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Completed an accredited FNP or PA program with a national certification."
+    },
+    {
+      "credential": "State licensed in California, obtained by the start date."
+    },
+    {
+      "credential": "Practiced as an Advanced Practitioner for at least 2 years in an outpatient primary care setting, OR 1 year in an outpatient primary care setting coupled with either a 1 year primary care fellowship or 1+ year in an urgent care setting."
+    }
+  ]
+}

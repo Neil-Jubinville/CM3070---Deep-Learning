@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Java Full Stack Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 8
+    },
+    {
+      "skill": "React",
+      "experience": 8
+    },
+    {
+      "skill": "Angular",
+      "experience": 8
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 8
+    },
+    {
+      "skill": "Spring Frameworks",
+      "experience": 8
+    },
+    {
+      "skill": "Spring Boot",
+      "experience": 8
+    },
+    {
+      "skill": "Restful API",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain full stack applications using Java, React, and Angular."
+    },
+    {
+      "duty": "Utilize JavaScript frameworks such as Angular and React to build user interfaces and interactive web components."
+    },
+    {
+      "duty": "Implement and maintain Restful API services using Java, Spring Frameworks, and Spring Boot."
+    }
+  ]
+}

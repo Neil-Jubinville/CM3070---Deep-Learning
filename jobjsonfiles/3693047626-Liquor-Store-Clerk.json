@@ -1,0 +1,37 @@
+{
+  "meta": [
+    {
+      "job_title": "Liquor Store Clerk",
+      "job_category": "Retail",
+      "job_class": "Clerk",
+      "sector": "Retail",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide customer service in a retail liquor store environment."
+    },
+    {
+      "duty": "Handle off sales liquor transactions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ]
+}

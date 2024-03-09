@@ -1,0 +1,35 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Lawyer",
+      "job_category": "Legal",
+      "job_class": "Legal Counsel",
+      "sector": "Law",
+      "salary": 150000,
+      "remote": false
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "LLM (PhD equivalent in law)"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Legal Practice",
+      "experience": 20
+    },
+    {
+      "skill": "Prosecution Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Fluent in English",
+      "experience": 5
+    },
+    {
+      "skill": "Multilingual",
+      "experience": 5
+    }
+  ]
+}

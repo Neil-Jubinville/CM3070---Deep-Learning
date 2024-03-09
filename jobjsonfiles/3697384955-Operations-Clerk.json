@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "Operations Clerk",
+      "job_category": "Administrative",
+      "job_class": "Clerk",
+      "sector": "Operations",
+      "salary": 42000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Help support the company's Transformation S&O team drive initiative"
+    },
+    {
+      "duty": "Update the company program's recruiting tracker with new candidate information"
+    },
+    {
+      "duty": "Calculate the weekly payout for the company's program"
+    },
+    {
+      "duty": "Upload fleet schedules to the system for the company's program"
+    },
+    {
+      "duty": "Create profiles for the company's new hires"
+    },
+    {
+      "duty": "Review and investigate potential delivery issues to help us better understand the cause"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Administrative Support",
+      "experience": 3
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree preferred"
+    }
+  ]
+}

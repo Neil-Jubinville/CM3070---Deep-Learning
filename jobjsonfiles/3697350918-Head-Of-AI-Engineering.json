@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Head Of AI Engineering",
+      "job_category": "Software Engineering",
+      "job_class": "Engineering Manager",
+      "sector": "Software Engineering",
+      "salary": 500000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Generative AI",
+      "experience": 3
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 3
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Solution Design",
+      "experience": 3
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and evaluate experiments with generative AI to enhance engineering processes, including problem decomposition, solution design, code generation, and advanced troubleshooting."
+    },
+    {
+      "duty": "Document best practices and techniques in playbooks and guides for harnessing the power of generative AI effectively."
+    },
+    {
+      "duty": "Develop and ship actual features and products using AI tools and techniques."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum 5 years of experience in software development."
+    },
+    {
+      "credential": "Minimum 3 years as a primary technical contributor for a development team or software product."
+    },
+    {
+      "credential": "Extensive hands-on experience using generative AI for software engineering tasks or in a product built."
+    }
+  ]
+}

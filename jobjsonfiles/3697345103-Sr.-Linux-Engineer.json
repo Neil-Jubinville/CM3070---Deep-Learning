@@ -1,0 +1,96 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. Linux Engineer",
+      "job_category": "Information Technology",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Linux Support",
+      "experience": 5
+    },
+    {
+      "skill": "Configuration Management",
+      "experience": 5
+    },
+    {
+      "skill": "Automation (Bash, Ansible, Puppet, CFEngine)",
+      "experience": 5
+    },
+    {
+      "skill": "System Hardening (STIG)",
+      "experience": 5
+    },
+    {
+      "skill": "NetApp Management (cDOT and 7mode)",
+      "experience": 5
+    },
+    {
+      "skill": "Backup Management",
+      "experience": 5
+    },
+    {
+      "skill": "eMASS Systems Management",
+      "experience": 5
+    },
+    {
+      "skill": "Antivirus & Encryption Management (LUK's)",
+      "experience": 5
+    },
+    {
+      "skill": "Patching Management",
+      "experience": 5
+    },
+    {
+      "skill": "Cadence Software Support",
+      "experience": 5
+    },
+    {
+      "skill": "Cliosoft Software Support",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide end user and server Linux support for RHEL6-8"
+    },
+    {
+      "duty": "Manage Linux configuration and automation support using Bash, Ansible, Puppet, and CFEngine"
+    },
+    {
+      "duty": "Experience in hardening systems to STIG's standards"
+    },
+    {
+      "duty": "Manage and maintain NetApp systems including cDOT and 7mode"
+    },
+    {
+      "duty": "Experience in managing backups and systems within eMASS"
+    },
+    {
+      "duty": "Manage antivirus, encryption (LUK's), and patching"
+    },
+    {
+      "duty": "Support and manage Cadence software and licensing"
+    },
+    {
+      "duty": "Provide Cliosoft software and administrative support"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field (Master's preferred)"
+    }
+  ]
+}

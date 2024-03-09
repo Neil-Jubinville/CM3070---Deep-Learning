@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Laundry Assistant",
+      "job_category": "Laundry Services",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Laundry Operations",
+      "experience": 2
+    },
+    {
+      "skill": "Production-oriented Environment",
+      "experience": 2
+    },
+    {
+      "skill": "Sorting",
+      "experience": 2
+    },
+    {
+      "skill": "Washing and Cleaning",
+      "experience": 2
+    },
+    {
+      "skill": "High School Education",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Sort soiled, washing, and cleaning linen according to departmental standards."
+    },
+    {
+      "duty": "Operate industrial equipment to produce clean linen for patients and employees."
+    },
+    {
+      "duty": "Repetitively bend, pull, lift, and push products."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or Equivalent"
+    }
+  ]
+}

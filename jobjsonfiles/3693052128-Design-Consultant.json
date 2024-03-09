@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Design Consultant",
+      "job_category": "Design",
+      "job_class": "Consultant",
+      "sector": "Construction",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Interior Design",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Word",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Excel",
+      "experience": 3
+    },
+    {
+      "skill": "Product Staging",
+      "experience": 3
+    },
+    {
+      "skill": "Ordering Selections",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Represent the home design process with enthusiasm and energy, supporting homebuyers as they select options and upgrades for their new home."
+    },
+    {
+      "duty": "Provide outstanding service ensuring customers are fully aware of options and satisfied with final selections."
+    },
+    {
+      "duty": "Responsible for ordering selections, staging models, and maintaining product information."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in Interior Design or related field."
+    }
+  ]
+}

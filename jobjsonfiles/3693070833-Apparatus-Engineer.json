@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Apparatus Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Apparatus Design",
+      "experience": 5
+    },
+    {
+      "skill": "Mixed Analog-Digital Signals Circuit Design",
+      "experience": 5
+    },
+    {
+      "skill": "PCB Design",
+      "experience": 5
+    },
+    {
+      "skill": "Field-Programmable Gate Arrays",
+      "experience": 5
+    },
+    {
+      "skill": "Digital Signal Processing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design printed circuit boards and breadboards, program field-programmable gate arrays, and assemble prototypes of miniaturized solid-state quantum magnetometers."
+    },
+    {
+      "duty": "Experience in mixed analog-digital signals circuit design, PCB design, and interfacing field-programmable gate arrays with A/D converters."
+    },
+    {
+      "duty": "Familiarity with digital signal processing is desirable."
+    },
+    {
+      "duty": "Work collaboratively with colleagues to integrate apparatus design and construction."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electrical Engineering or relevant field (Master's preferred)"
+    }
+  ]
+}

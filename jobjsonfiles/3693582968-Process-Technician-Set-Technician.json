@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Process Technician/Set Technician",
+      "job_category": "Manufacturing",
+      "job_class": "Technician",
+      "sector": "Manufacturing",
+      "salary": 20470,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Industrial Equipment Design",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Operating",
+      "experience": 1
+    },
+    {
+      "skill": "Mathematics",
+      "experience": 1
+    },
+    {
+      "skill": "Language proficiency (English)",
+      "experience": 1
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 1
+    },
+    {
+      "skill": "Production Reporting",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Overseeing manufacturing processes and testing batch quality."
+    },
+    {
+      "duty": "Maintaining equipment logbooks and ensuring clean work area."
+    },
+    {
+      "duty": "Identifying faults, suggesting manufacturing improvements, and conducting quality checks."
+    },
+    {
+      "duty": "Setting up and adjusting various machines, troubleshooting production issues, and repairing machinery."
+    },
+    {
+      "duty": "Assisting with material handling, managing high-priority packaging materials, and performing routine maintenance on machines."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma preferred, along with 1 year of machine operating experience."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Consultant",
+      "job_category": "Customer Service",
+      "job_class": "Consultant",
+      "sector": "Software Engineering",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "Government Contracting",
+      "experience": 5
+    },
+    {
+      "skill": "CRM Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Excel",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead new implementations and develop implementation plans and schedules."
+    },
+    {
+      "duty": "Ensure timelines and intended results are met for new implementations."
+    },
+    {
+      "duty": "Conduct discovery call to ensure implementation meets customer financial forecasting and scenario planning needs."
+    },
+    {
+      "duty": "Provide training support for customers and internal Nue team members."
+    },
+    {
+      "duty": "Work with the development team to continuously automate and streamline the implementation process."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting, Business, or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "meta": [
+    {
+      "job_title": "Fifth Avenue Club Assistant",
+      "job_category": "Sales",
+      "job_class": "Assistant",
+      "sector": "Sales",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Client Relationship Management",
+      "experience": 2
+    },
+    {
+      "skill": "Time Management",
+      "experience": 2
+    },
+    {
+      "skill": "Computer Literacy",
+      "experience": 2
+    },
+    {
+      "skill": "Retail Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Professional Communication",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Continue client relationships and address all client needs when consultant is not available, act as a liaison between client and consultant."
+    },
+    {
+      "duty": "Utilize good time management and prioritize daily tasks."
+    },
+    {
+      "duty": "Be computer literate and systems savvy."
+    }
+  ]
+}

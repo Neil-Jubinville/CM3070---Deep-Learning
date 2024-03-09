@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Mechanical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Mechanical",
+      "salary": 145000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HVAC Design",
+      "experience": 8
+    },
+    {
+      "skill": "Plumbing Design",
+      "experience": 8
+    },
+    {
+      "skill": "Leadership",
+      "experience": 7
+    },
+    {
+      "skill": "Structural Design",
+      "experience": 6
+    },
+    {
+      "skill": "Technical Drawing",
+      "experience": 7
+    },
+    {
+      "skill": "Project Management",
+      "experience": 6
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 8
+    },
+    {
+      "skill": "Code Compliance",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop mechanical designs for new and existing facilities including drawings, specifications, and submittal reviews."
+    },
+    {
+      "duty": "Lead the production of construction documents for major infrastructure facility projects and ensure compliance with QC program."
+    },
+    {
+      "duty": "Prepare and document required code compliance and material and product research."
+    },
+    {
+      "duty": "Develop cost-effective designs and create construction documents, drawings, and specifications for building related mechanical systems."
+    },
+    {
+      "duty": "Perform quality checks on deliverables and support the construction process by responding to RFI\u2019s, reviewing/approving shop drawings, and mentoring less experienced engineers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Mechanical Engineering (Master\u2019s preferred)"
+    },
+    {
+      "credential": "Licensed engineer with a minimum of 7 years\u2019 experience in HVAC, plumbing systems, and fire protection systems"
+    },
+    {
+      "credential": "Proficient in creating detailed calculations for HVAC load modeling, psychometric analysis, hydronic systems, ductwork, and pipe sizing"
+    },
+    {
+      "credential": "Experience with building modeling software such as Trane Trace 700 or Carrier HAP"
+    },
+    {
+      "credential": "Experience with all North American building design codes (International Mechanical code, International Fuel Gas code, International Plumbing code, International Building Code, International Energy Conservation code, and NFPA codes)"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Interior Design Assistant",
+      "job_category": "Design",
+      "job_class": "Assistant",
+      "sector": "Design",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Interior Design",
+      "experience": 1
+    },
+    {
+      "skill": "AutoCAD",
+      "experience": 1
+    },
+    {
+      "skill": "Adobe Photoshop",
+      "experience": 1
+    },
+    {
+      "skill": "Adobe Illustrator",
+      "experience": 1
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 2
+    },
+    {
+      "skill": "Project Management",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist Project Managers with due diligence for project kick-off."
+    },
+    {
+      "duty": "Update weekly Project Status Reports and meeting minutes."
+    },
+    {
+      "duty": "Prepare Project Presentations for Monthly Executive meetings."
+    },
+    {
+      "duty": "Manage departmental Project Schedules and issue monthly Global updates."
+    },
+    {
+      "duty": "Manage and maintain inventory of materials sample library."
+    },
+    {
+      "duty": "Manage small scope projects such as design adjustments and store-level initiated projects."
+    },
+    {
+      "duty": "Manage inventory of stored furniture and fixtures and allocation to miscellaneous projects."
+    },
+    {
+      "duty": "Basic administrative duties include: Team calendar management, office organization, supply ordering, sample library management, SharePoint folder management, managing store floor plans updates."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Interior Design or Architecture degree required"
+    }
+  ]
+}

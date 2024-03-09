@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Architect",
+      "job_category": "Engineering",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "DevOps Architecture",
+      "experience": 10
+    },
+    {
+      "skill": "Solution Design",
+      "experience": 15
+    },
+    {
+      "skill": "Development",
+      "experience": 15
+    },
+    {
+      "skill": "Deployment",
+      "experience": 15
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 15
+    },
+    {
+      "skill": "Program Management",
+      "experience": 15
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and manage architecture and technical design across projects/clients."
+    },
+    {
+      "duty": "Provide consulting and advisory services for architecture and technology solutions."
+    },
+    {
+      "duty": "Build and mentor teams, manage client relationships, and oversee program management."
+    },
+    {
+      "duty": "Proficient in the end-to-end technology lifecycle including solution design, development, deployment, and support."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

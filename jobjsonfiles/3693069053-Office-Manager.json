@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Office Manager",
+      "job_category": "Administration",
+      "job_class": "Manager",
+      "sector": "Administrative Services",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft Office Suite",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Multi-tasking",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage the reception area and staff to ensure effective communication both internally and externally"
+    },
+    {
+      "duty": "Provide office guests with a hospitable experience"
+    },
+    {
+      "duty": "Plan and organize company events and meetings"
+    },
+    {
+      "duty": "Supervise the maintenance of office areas, equipment, and facilities"
+    },
+    {
+      "duty": "Interact with IT, phone and building personnel as needed"
+    },
+    {
+      "duty": "Complete a broad variety of administrative/HR tasks, including retrieving/distributing mail, onboarding and offboarding new team members, processing wage/position changes of personnel, maintaining personnel files, managing supply inventory, and performing data analysis on new, more cost-effective suppliers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 0,
+      "introvert_extrovert": 20
+    }
+  ],
+  "education_certification": []
+}

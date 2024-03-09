@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Nursing Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Nursing",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Safety",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Records Management",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Activity Reporting",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with a registered nurse on developing a patient's care plan."
+    },
+    {
+      "duty": "Develop and maintain competencies as delegated by a registered nurse."
+    },
+    {
+      "duty": "Maintain the safety of patients at risk for preventable injury by implementing nursing safety interventions."
+    },
+    {
+      "duty": "Report all patient activity to the registered nurse in a timely manner."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or GED required."
+    }
+  ]
+}

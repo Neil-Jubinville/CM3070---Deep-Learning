@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Vocational Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Communication",
+      "experience": 1
+    },
+    {
+      "skill": "BCLS Certification",
+      "experience": 1
+    },
+    {
+      "skill": "ACLS Certification",
+      "experience": 1
+    },
+    {
+      "skill": "IV Certification",
+      "experience": 1
+    },
+    {
+      "skill": "Medical-Surgical Experience",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide direct and indirect patient care services meeting the psychosocial, physical, and general aspects of care under the supervision of a Registered Nurse."
+    },
+    {
+      "duty": "Meet the communication needs of the patient and family."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current and valid license as a Licensed Vocational Nurse issued by the State of California."
+    },
+    {
+      "credential": "BCLS upon hire and maintain current."
+    },
+    {
+      "credential": "ACLS upon hire and maintain current."
+    },
+    {
+      "credential": "IV certification upon hire."
+    },
+    {
+      "credential": "Minimum one-year experience in an Acute Care Medical-Surgical setting preferred."
+    }
+  ]
+}

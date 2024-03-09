@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Site Reliability Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineering",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Google Cloud Platform (GCP)",
+      "experience": 7
+    },
+    {
+      "skill": "Site Reliability Engineering",
+      "experience": 8
+    },
+    {
+      "skill": "Terraform",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Storage",
+      "experience": 5
+    },
+    {
+      "skill": "Networking",
+      "experience": 5
+    },
+    {
+      "skill": "Automation",
+      "experience": 7
+    },
+    {
+      "skill": "Monitoring Tools",
+      "experience": 7
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 8
+    },
+    {
+      "skill": "Communication",
+      "experience": 7
+    },
+    {
+      "skill": "Leadership",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, deploy, and maintain production-grade applications on Google Cloud Platform (GCP)"
+    },
+    {
+      "duty": "Implement and adhere to SRE principles, methodologies, and best practices"
+    },
+    {
+      "duty": "Utilize automation and scripting tools like Terraform, Ansible, or equivalent for infrastructure management"
+    },
+    {
+      "duty": "Implement and maintain monitoring and observability tools like Prometheus, Grafana, and Stackdriver"
+    },
+    {
+      "duty": "Contribute to incident response and post-incident reviews"
+    },
+    {
+      "duty": "Provide technical guidance and mentorship to the team"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or a related field (Master's degree preferred)"
+    }
+  ]
+}

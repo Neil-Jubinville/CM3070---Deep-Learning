@@ -1,0 +1,97 @@
+{
+  "meta": [
+    {
+      "job_title": "Mechanical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "SolidWorks CAD",
+      "experience": 5
+    },
+    {
+      "skill": "Sheet Metal Design",
+      "experience": 5
+    },
+    {
+      "skill": "Weldment Design",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Shop Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "3D Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Thermal Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Automotive Industry Design",
+      "experience": 3
+    },
+    {
+      "skill": "Fabrication Process Selection",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design enclosures for electronic devices and mechanical assemblies to rigidly attach electronic equipment in high vibration environment."
+    },
+    {
+      "duty": "Create cable routing paths and mounting solutions for cables on a vehicle."
+    },
+    {
+      "duty": "Select off the shelf hardware components to use in assemblies and create 2D drawings based on 3D models."
+    },
+    {
+      "duty": "Prototype and assemble hardware to support project development and support environmental testing."
+    },
+    {
+      "duty": "Collaborate with dispersed team, design novel mechanical assemblies, and work in a matrix environment."
+    },
+    {
+      "duty": "Collaboration with dispersed team, suggesting and implementing technical solutions, giving timelines for project deliverables, and selecting components and materials."
+    },
+    {
+      "duty": "Work with internal and external contacts, such as Test Engineer, Solution Architect, Operations Engineer, Embedded System Engineer, Manufacturers, machine shops, and test labs."
+    },
+    {
+      "duty": "Provide root cause analysis of mechanical failures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Mechanical Engineering or equivalent. Ability to come to the office in Santa Clara for 1-2 days in a week. Ability to create complex and detailed mechanical models in mechanical CAD. Experience with different fabrication processes and ability to decide which process to use for designs."
+    },
+    {
+      "credential": "Experience with Thermal Analysis, Machining and welding experience, Experience creating cable drawings, and Experience with designing for automotive industry."
+    },
+    {
+      "credential": "Experience with SolidWorks CAD, Experience working as a Mechanical Engineer for 3-5 years, Sheet metal design, Weldment design, Design for scaling / manufacturability, Working with machine shops / 3D Printing / 3D Scanning."
+    },
+    {
+      "credential": "3D modelling, Assembly of complex mechanical systems, Basic electrical knowledge."
+    }
+  ]
+}

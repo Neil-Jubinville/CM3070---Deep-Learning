@@ -1,0 +1,131 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager 2",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 2
+    },
+    {
+      "skill": "Waterfall Methodology",
+      "experience": 1
+    },
+    {
+      "skill": "Cross-Functional Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office Suite",
+      "experience": 5
+    },
+    {
+      "skill": "Jira",
+      "experience": 3
+    },
+    {
+      "skill": "Confluence",
+      "experience": 3
+    },
+    {
+      "skill": "Planview",
+      "experience": 3
+    },
+    {
+      "skill": "SDLC",
+      "experience": 3
+    },
+    {
+      "skill": "PMP Certification",
+      "experience": 1
+    },
+    {
+      "skill": "Procurement Process",
+      "experience": 3
+    },
+    {
+      "skill": "Project Charter",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Plan",
+      "experience": 3
+    },
+    {
+      "skill": "Team Management",
+      "experience": 3
+    },
+    {
+      "skill": "Issue Resolution",
+      "experience": 3
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 3
+    },
+    {
+      "skill": "Stakeholder Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Scope Management",
+      "experience": 3
+    },
+    {
+      "skill": "Resource Negotiation",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create project charter and work plan, track budget and schedule progress via appropriate metrics."
+    },
+    {
+      "duty": "Establish project organization and methodologies, and define roles and responsibilities."
+    },
+    {
+      "duty": "Design, plan, and coordinate work teams from different divisions within the department."
+    },
+    {
+      "duty": "Create and implement a communication plan."
+    },
+    {
+      "duty": "Build an effective team, assign tasks to team members, and evaluate outcomes."
+    },
+    {
+      "duty": "Identify, track, and ensure resolution of issues and removal of barriers."
+    },
+    {
+      "duty": "Follow standard project management industry practices and understand business and technical objectives of a project."
+    },
+    {
+      "duty": "Document risks and develop mitigation plans."
+    },
+    {
+      "duty": "Communicate to stakeholders and project sponsor, manage scope, and negotiate resources."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 75,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor Degree in Information Systems or equivalent combination of education and 4 years of experience; Project Management Professional (PMP) Certification or successful completion of the VITA Project Manager Development Program within 1 year of the start."
+    }
+  ]
+}

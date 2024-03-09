@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Skilled Laborer/Groundman",
+      "job_category": "Construction",
+      "job_class": "Laborer",
+      "sector": "Construction",
+      "salary": 47000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Construction Site Preparation",
+      "experience": 3
+    },
+    {
+      "skill": "Equipment Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Material Handling",
+      "experience": 3
+    },
+    {
+      "skill": "Flagging",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Utility Identification",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Clean and prepare the construction site for work, remove debris and possible hazards."
+    },
+    {
+      "duty": "Assist the tradesman to be able to complete their skilled task more effectively."
+    },
+    {
+      "duty": "Identify utilities and monitor digging by dig crew to prevent utility hits."
+    },
+    {
+      "duty": "Clean and maintain equipment."
+    },
+    {
+      "duty": "Restock trucks with supplies and ensure crew have the proper tools and supplies to complete the job."
+    },
+    {
+      "duty": "Perform other duties as required or assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

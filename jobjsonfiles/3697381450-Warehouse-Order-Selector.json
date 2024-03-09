@@ -1,0 +1,47 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Order Selector",
+      "job_category": "Warehouse",
+      "job_class": "Order Selector",
+      "sector": "Logistics",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Warehouse Management",
+      "experience": 3
+    },
+    {
+      "skill": "Order Picking",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Packaging and Shipping",
+      "experience": 3
+    },
+    {
+      "skill": "Stock Organization",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Receive and process incoming stock, pick and fill orders from stock, pack and ship orders, and manage, organize, and retrieve stock in the warehouse."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 90,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": []
+}

@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Advanced Cardiac Life Support",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Cardiac Life Support",
+      "experience": 1
+    },
+    {
+      "skill": "Registered Nurse",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide patient care and administer medications and treatments."
+    },
+    {
+      "duty": "Maintain accurate patient records and monitor patient condition."
+    },
+    {
+      "duty": "Assist in medical procedures and surgeries."
+    },
+    {
+      "duty": "Educate patients and families about treatment plans and aftercare."
+    },
+    {
+      "duty": "Collaborate with other healthcare professionals to ensure holistic patient care."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate Degree in Nursing. Advanced Cardiac Life Support (ACLS) and Basic Cardiac Life Support (BCLS) certifications"
+    }
+  ]
+}

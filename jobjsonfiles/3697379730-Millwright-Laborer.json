@@ -1,0 +1,50 @@
+{
+  "meta": [
+    {
+      "job_title": "Millwright Laborer",
+      "job_category": "Skilled Labor",
+      "job_class": "Laborer",
+      "sector": "Skilled Labor",
+      "salary": 48000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Inclination",
+      "experience": 3
+    },
+    {
+      "skill": "Confined Space Work",
+      "experience": 3
+    },
+    {
+      "skill": "OSHA 10 Certification",
+      "experience": 1
+    },
+    {
+      "skill": "Travel Readiness",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Cleaning of tubes in shutdown plants"
+    },
+    {
+      "duty": "Other assigned tasks"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 40,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "OSHA 10 Certification"
+    }
+  ]
+}

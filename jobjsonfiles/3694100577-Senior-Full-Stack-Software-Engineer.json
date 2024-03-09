@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Full Stack Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Spring Boot",
+      "experience": 5
+    },
+    {
+      "skill": "React",
+      "experience": 3
+    },
+    {
+      "skill": "AWS",
+      "experience": 3
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 3
+    },
+    {
+      "skill": "Docker",
+      "experience": 3
+    },
+    {
+      "skill": "Argo CD",
+      "experience": 3
+    },
+    {
+      "skill": "Atlas",
+      "experience": 3
+    },
+    {
+      "skill": "GitHub Actions",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, build, scale, and enhance Software Products, Apps, and Platforms based on Client Needs and Business Requirements"
+    },
+    {
+      "duty": "Communicate Technical Topics clearly, in language that can be easily understood by Clients"
+    },
+    {
+      "duty": "Collaborate with Designers, and Product Teams to propose solutions to meet the goals of Clients and their Products"
+    },
+    {
+      "duty": "Define, refine, and document Best Practices that enable excellent team performance"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

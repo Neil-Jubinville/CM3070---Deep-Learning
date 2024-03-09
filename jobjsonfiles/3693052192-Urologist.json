@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Urologist",
+      "job_category": "Medical",
+      "job_class": "General Urology",
+      "sector": "Healthcare",
+      "salary": 400000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Urology",
+      "experience": 5
+    },
+    {
+      "skill": "Surgery",
+      "experience": 5
+    },
+    {
+      "skill": "Clinic Management",
+      "experience": 5
+    },
+    {
+      "skill": "Mentorship",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Support",
+      "experience": 5
+    },
+    {
+      "skill": "Call Schedule Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform surgical procedures related to urological conditions."
+    },
+    {
+      "duty": "Manage a clinic and oversee patient care."
+    },
+    {
+      "duty": "Provide mentorship and guidance to recently-trained Urologists."
+    },
+    {
+      "duty": "Manage call schedules for NP and PA staff."
+    },
+    {
+      "duty": "Handle clinical support staff and ensure smooth operation of the practice."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Board Eligible/Board Certified in Urology"
+    }
+  ]
+}

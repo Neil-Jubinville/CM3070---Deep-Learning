@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Analytics Engineer",
+      "job_category": "Data Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "ETL/ELT Pipelines",
+      "experience": 5
+    },
+    {
+      "skill": "Looker",
+      "experience": 5
+    },
+    {
+      "skill": "BI/Visualization Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Data Literacy",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Own reporting tools, pipelines, and dashboards to ensure consistent availability and accuracy of mission-critical data."
+    },
+    {
+      "duty": "Partner with key stakeholders on KPI development and tracking across the revenue organization."
+    },
+    {
+      "duty": "Build datasets and reports that represent the source of truth for our key metrics."
+    },
+    {
+      "duty": "Keep data sources fresh even while requirements and definitions change. Address data quality issues and build in alerting."
+    },
+    {
+      "duty": "Participate in in-person Nextdoor events, trainings, off-sites, volunteer days, and other team building exercises."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Data Engineering, Data Science, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

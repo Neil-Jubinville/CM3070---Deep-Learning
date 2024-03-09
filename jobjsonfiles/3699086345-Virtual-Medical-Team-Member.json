@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Virtual Medical Team Member",
+      "job_category": "Healthcare",
+      "job_class": "Advanced Practitioner",
+      "sector": "Healthcare",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Telemedicine",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Triage",
+      "experience": 5
+    },
+    {
+      "skill": "Virtual Care",
+      "experience": 5
+    },
+    {
+      "skill": "Primary Care",
+      "experience": 5
+    },
+    {
+      "skill": "Patient-Centered Care",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Communication",
+      "experience": 5
+    },
+    {
+      "skill": "State Licensing",
+      "experience": 5
+    },
+    {
+      "skill": "Palliative Care",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Treating patients via tele-health visits, including telephonic triage calls, video visit appointments, and email follow-ups."
+    },
+    {
+      "duty": "Continuous learning during weekly Clinical Rounds and through other modalities."
+    },
+    {
+      "duty": "Ongoing collaboration with virtual teammates via daily huddles."
+    },
+    {
+      "duty": "Utilization of specific clinical training and opportunities to give exceptional care to patients virtually."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Completed an accredited FNP or PA program with a national certification."
+    },
+    {
+      "credential": "Currently licensed in Washington DC with ability to obtain additional state licenses as needed."
+    },
+    {
+      "credential": "In the past 5 years, practiced as an Advanced Practitioner for at least 2 years in an outpatient primary care setting seeing patients of all ages (0+), OR 2 years in an urgent care or emergency medicine setting seeing patients of all ages (0+)."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "meta": [
+    {
+      "job_title": "Student Worker",
+      "job_category": "Pharmacy",
+      "job_class": "Field Worker",
+      "sector": "Natural Sciences",
+      "salary": 15,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintenance of the Medicinal Plant and Pharmacy garden (weeding, watering, pruning, mulching etc.) 40%"
+    },
+    {
+      "duty": "Data entry 40%"
+    },
+    {
+      "duty": "Library/internet research 10%"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Gardening",
+      "experience": 1
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Research",
+      "experience": 1
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Analyst",
+      "job_category": "Information Technology",
+      "job_class": "Analyst",
+      "sector": "IT",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Requirements Gathering",
+      "experience": 5
+    },
+    {
+      "skill": "System Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Pega",
+      "experience": 5
+    },
+    {
+      "skill": "Rule Engine Tool",
+      "experience": 5
+    },
+    {
+      "skill": "Business Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Review, analyze, and evaluate information technology systems operations."
+    },
+    {
+      "duty": "Act as the primary point of contact between users and engineering/development staff."
+    },
+    {
+      "duty": "Identify, document, report, and track system issues."
+    },
+    {
+      "duty": "Support the process of translating business needs into formal technical requirement deliverables."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Information Technology, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

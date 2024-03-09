@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Systems Administrator",
+      "job_category": "Information Technology",
+      "job_class": "Administration",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft Windows Server",
+      "experience": 7
+    },
+    {
+      "skill": "VMware vSphere",
+      "experience": 7
+    },
+    {
+      "skill": "Azure",
+      "experience": 5
+    },
+    {
+      "skill": "Active Directory Administration",
+      "experience": 7
+    },
+    {
+      "skill": "PowerShell Scripting",
+      "experience": 7
+    },
+    {
+      "skill": "Azure AD Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "Intune Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Server",
+      "experience": 7
+    },
+    {
+      "skill": "Data Backup and Recovery",
+      "experience": 7
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide support for Microsoft Windows Servers in a VMware vSphere environment and services hosted in Microsoft Azure."
+    },
+    {
+      "duty": "Assist with upgrades, maintenance, migrations, and new implementations."
+    },
+    {
+      "duty": "Write scripts, templates, and customize applications to improve functionality."
+    },
+    {
+      "duty": "Act as escalation resource for IT support teams for issues encountered on servers, desktops, VMware, Azure, and Office 365."
+    },
+    {
+      "duty": "Deploy applications and updates to desktops using software deployment tools."
+    },
+    {
+      "duty": "Develop and maintain standard operating procedures and system documentation."
+    },
+    {
+      "duty": "Perform IT training for new IT staff as required."
+    },
+    {
+      "duty": "Active Directory administration, Azure AD Configuration, and Intune configuration and troubleshooting."
+    },
+    {
+      "duty": "Knowledge of systems backups and recovery procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in information technology or a related field from an accredited college or university"
+    }
+  ]
+}

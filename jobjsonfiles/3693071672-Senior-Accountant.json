@@ -1,0 +1,49 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Accountant",
+      "job_category": "Accounting",
+      "job_class": "Senior",
+      "sector": "Accounting",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Public Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Data Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage and analyze large data sets for financial reporting and planning."
+    },
+    {
+      "duty": "Implement and maintain SQL databases for accounting and financial analysis."
+    },
+    {
+      "duty": "Prepare financial statements and reports based on public accounting standards and regulations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting or Finance (CPA preferred)"
+    }
+  ]
+}

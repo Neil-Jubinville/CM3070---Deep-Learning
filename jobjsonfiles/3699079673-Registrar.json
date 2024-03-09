@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Registrar",
+      "job_category": "Healthcare",
+      "job_class": "Registrar",
+      "sector": "Healthcare",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Insurance Verification",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Billing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Interview patients at workstation or at bedside to obtain all necessary account information."
+    },
+    {
+      "duty": "Provide exemplary Customer Service."
+    },
+    {
+      "duty": "Understand/explain policies regarding services, pricing, insurance billing, and payment of account."
+    },
+    {
+      "duty": "Verify all insurance and obtain pre-certification/authorization."
+    },
+    {
+      "duty": "Process patient charts according to paperwork flow needs and established productivity standards."
+    },
+    {
+      "duty": "Meet/exceed performance expectations and complete work within the required timeframe."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "1 year of related experience preferred."
+    },
+    {
+      "credential": "Proficiency in Microsoft Office applications and others as required."
+    }
+  ]
+}

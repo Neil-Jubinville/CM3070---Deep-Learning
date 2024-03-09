@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Service Technician",
+      "job_category": "Technical",
+      "job_class": "Technician",
+      "sector": "Service",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Improvement",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform Service tasks, identify technical problems, and make analysis through remote or on-site activity in any Service categories."
+    },
+    {
+      "duty": "Contribute to customer satisfaction by executing Service work according to customer order and expectation. Create and maintain a good relationship with customers and understand their needs."
+    },
+    {
+      "duty": "Coordinate, prepare, and ensure that all materials, parts, and equipment are available and at the appropriate quality for Service activities."
+    },
+    {
+      "duty": "Prepare all documents and reports to be signed by the customer representative. Report work done in a timely manner and follow up when needed."
+    },
+    {
+      "duty": "Proactively identify potential equipment failures and request proactive corrective actions. Troubleshoot equipment failure and make recommendations to avoid repeating the problem in the future."
+    },
+    {
+      "duty": "Proactively identify suggestions for product and quality improvement and communicate them further in the client organization. Provide recommendations to management to improve operations and customer service."
+    },
+    {
+      "duty": "Apply safety rules and safe practices as well as environmental responsibilities. Report unsafe practices and incidents."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Electrical Engineering, Electrical Engineering Technology, or equivalent military experience. Associates Degree with 2 or more years\u2019 experience in servicing critical power equipment is also considered. High School Diploma/GED and 10 or more years\u2019 experience may be considered."
+    }
+  ]
+}

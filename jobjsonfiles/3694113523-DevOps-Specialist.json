@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "DevOps Specialist",
+      "job_category": "Information Technology",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cloud Platforms",
+      "experience": 8
+    },
+    {
+      "skill": "CI/CD Pipelines",
+      "experience": 8
+    },
+    {
+      "skill": "Configuration Management Tools",
+      "experience": 8
+    },
+    {
+      "skill": "Infrastructure Management",
+      "experience": 8
+    },
+    {
+      "skill": "Monitoring and Troubleshooting",
+      "experience": 8
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 8
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Streamline and automate the software development and deployment processes, ensuring efficient collaboration and continuous integration and delivery."
+    },
+    {
+      "duty": "Design, implement, and manage scalable, highly available infrastructure on cloud platforms (such as AWS, Azure, or Google Cloud)."
+    },
+    {
+      "duty": "Implement and maintain CI/CD pipelines to automate the software build, testing, and deployment processes."
+    },
+    {
+      "duty": "Utilize configuration management tools (such as Ansible, Puppet, or Chef) to automate infrastructure provisioning and configuration."
+    },
+    {
+      "duty": "Implement monitoring and logging solutions to proactively identify issues and ensure system performance and reliability."
+    },
+    {
+      "duty": "Work closely with development, testing, and operations teams to foster effective communication and collaboration. Document infrastructure design, processes, and configurations to facilitate knowledge sharing and ensure consistent practices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field (or equivalent work experience)"
+    }
+  ]
+}

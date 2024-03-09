@@ -1,0 +1,38 @@
+{
+  "meta": [
+    {
+      "job_title": "Office Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Administration",
+      "salary": 19000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Administrative Experience",
+      "experience": 1
+    },
+    {
+      "skill": "Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Microsoft Office (Word, Excel, Powerpoint)",
+      "experience": 1
+    },
+    {
+      "skill": "Organization",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform clerical tasks including data entry, filing, and mail room assistance."
+    },
+    {
+      "duty": "Coordinate office events and run routing errands as required."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Office Administrator",
+      "job_category": "Administration",
+      "job_class": "Administrator",
+      "sector": "Administration",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 3
+    },
+    {
+      "skill": "HR Functions",
+      "experience": 3
+    },
+    {
+      "skill": "Invoicing",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Retail Operations",
+      "experience": 3
+    },
+    {
+      "skill": "Point of Sale System",
+      "experience": 3
+    },
+    {
+      "skill": "Training Facilitation",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist the General Manager with administrative tasks such as filing, data entry, and scheduling meetings."
+    },
+    {
+      "duty": "Support the HR Manager with new hire paperwork, training sessions, and associate activities."
+    },
+    {
+      "duty": "Gather data and prepare reports as needed by the General Manager."
+    },
+    {
+      "duty": "Maintain strict confidentiality and handle customer and associate inquiries."
+    },
+    {
+      "duty": "Process invoices, maintain expense tracking, and order store supplies."
+    },
+    {
+      "duty": "Assist in providing a pleasant and productive shopping experience for customers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School education or equivalent experience"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Academic Glaucoma Specialist",
+      "job_category": "Medical",
+      "job_class": "Specialist",
+      "sector": "Medical",
+      "salary": 250000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Doctorate",
+      "experience": 10
+    },
+    {
+      "skill": "Ophthalmology Residency",
+      "experience": 5
+    },
+    {
+      "skill": "Glaucoma Fellowship",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide patient care in medical and surgical glaucoma."
+    },
+    {
+      "duty": "Teach and supervise residents, trainees, and students."
+    },
+    {
+      "duty": "Engage in scholarly activity and contribute to medical and surgical glaucoma patient care."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Medical Doctorate or equivalent"
+    },
+    {
+      "credential": "Medical licensure in the State of Illinois"
+    },
+    {
+      "credential": "Board certification or board eligibility in ophthalmology"
+    },
+    {
+      "credential": "Completion of an ACGME-approved ophthalmology residency or its equivalent"
+    },
+    {
+      "credential": "Completion of a glaucoma fellowship"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Chief Software Architect",
+      "job_category": "Software Engineering",
+      "job_class": "Chief",
+      "sector": "Software Engineering",
+      "salary": 800000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Strategy",
+      "experience": 10
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 10
+    },
+    {
+      "skill": "Communication",
+      "experience": 10
+    },
+    {
+      "skill": "Process Improvement",
+      "experience": 10
+    },
+    {
+      "skill": "Coaching",
+      "experience": 10
+    },
+    {
+      "skill": "Architecture Design",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Define and scope out product specifications for the next 10 years, focusing on emerging cloud technologies and generative AI."
+    },
+    {
+      "duty": "Lead the definition of product architecture and features for the next 5 to 10 years, emphasizing simplicity, coherence, and longevity."
+    },
+    {
+      "duty": "Design process improvements for technical product and engineering teams, ensuring effective and efficient operations."
+    },
+    {
+      "duty": "Review work and provide coaching to maintain a high-quality standard within the team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 200,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "University degree in an Engineering field, with 10+ years of experience in software product development and 5+ years in senior architecture and design roles."
+    }
+  ]
+}

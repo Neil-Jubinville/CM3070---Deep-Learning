@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical PM",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 5
+    },
+    {
+      "skill": "Dashboard Creation",
+      "experience": 5
+    },
+    {
+      "skill": "Data Projection",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Cross-functional Team Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage project schedules and identify possible issues, communicating them to project stakeholders and management."
+    },
+    {
+      "duty": "Collaborate with Partner teams and manage personnel."
+    },
+    {
+      "duty": "Provide leadership in project management and personnel management."
+    },
+    {
+      "duty": "Manage risk and demonstrate flexibility in project execution."
+    },
+    {
+      "duty": "Work closely with cross-functional teams to ensure timely project delivery."
+    },
+    {
+      "duty": "Create dashboards and project data to top-level management to report overall progress of engagements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 130,
+      "student_teacher": 90,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Project Management, Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

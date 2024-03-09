@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "S/4 Consultant",
+      "job_category": "Software Engineering",
+      "job_class": "Consultant",
+      "sector": "Management",
+      "salary": 135000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SAP Functional Defense & Security (DS)",
+      "experience": 5
+    },
+    {
+      "skill": "Military Supply ChainDefense Equipment ManagementDefense Inventory and Movement ManagementDefense Replenishment and PlanningDefense Relocation Planning and Execution",
+      "experience": 5
+    },
+    {
+      "skill": "SAP Defense and Security (D&S)",
+      "experience": 5
+    },
+    {
+      "skill": "SAP S/4 Implementations",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead blueprint workshops, design, and build final solution for S/4 implementation in public sector"
+    },
+    {
+      "duty": "Configuration and new implementation work for Defense and Security/Military Supply Chain"
+    },
+    {
+      "duty": "Develop functional design and UAT test scripts for SAP Functional Defense & Security (DS)"
+    },
+    {
+      "duty": "Lead requirements validation workshops for SAP Functional Defense & Security (DS)"
+    },
+    {
+      "duty": "Lead design and development of functional design for Defense Equipment Management, Inventory and Movement Management, Replenishment and Planning, and Relocation Planning and Execution"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Information Technology, Computer Science, or related field (Master's preferred)"
+    }
+  ]
+}

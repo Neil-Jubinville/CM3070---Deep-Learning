@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "StreamSets Engineer",
+      "job_category": "Data Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Informatica BDM",
+      "experience": 8
+    },
+    {
+      "skill": "StreamSets",
+      "experience": 8
+    },
+    {
+      "skill": "Big Data Implementation",
+      "experience": 8
+    },
+    {
+      "skill": "Hadoop Ecosystem Development",
+      "experience": 10
+    },
+    {
+      "skill": "Python",
+      "experience": 10
+    },
+    {
+      "skill": "PySpark",
+      "experience": 10
+    },
+    {
+      "skill": "Java",
+      "experience": 10
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Architect and build large-scale, distributed big data solutions using Informatica BDM and StreamSets."
+    },
+    {
+      "duty": "Ingest data into Hadoop and ecosystems using Web-based big data ETL Tool StreamSets."
+    },
+    {
+      "duty": "Lead and manage the development of Hadoop Ecosystem, including HDFS, Hive, Spark, Sqoop, Kafka, NiFi, and real-time streaming technologies."
+    },
+    {
+      "duty": "Work with the Cloudera distribution and have experience in at least 2-3 Big Data implementation projects."
+    },
+    {
+      "duty": "Possess strong analytical, technical, and troubleshooting skills, and must have excellent communication skills."
+    },
+    {
+      "duty": "Lead teams and manage workloads for team members."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Data Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

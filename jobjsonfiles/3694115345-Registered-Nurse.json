@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Supervision",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Care Plan Development",
+      "experience": 5
+    },
+    {
+      "skill": "Interdisciplinary Teamwork",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "CPR Certification",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver quality nursing care to patients through interpersonal contact and provide services to allow patients to attain or maintain physical, mental, and psychosocial well-being."
+    },
+    {
+      "duty": "Evaluate patient needs through ongoing assessment and revise care plans based on changes in the patient\u2019s condition."
+    },
+    {
+      "duty": "Provide clinical supervision to C N As and LPNs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Nursing diploma (associate\u2019s or bachelor\u2019s degree in nursing)Currently licensed/registered in applicable State. Must maintain an active Registered Nurse (RN) license in good standing throughout employment.One (1) year skilled nursing experience preferredCPR certification upon hire or obtain during orientation. CPR certification must remain current during employment."
+    }
+  ]
+}

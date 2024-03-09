@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Perfusionist",
+      "job_category": "Healthcare",
+      "job_class": "Specialist",
+      "sector": "Medical",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Perfusion Management",
+      "experience": 5
+    },
+    {
+      "skill": "Cardiopulmonary Bypass",
+      "experience": 5
+    },
+    {
+      "skill": "Respiratory Physiology",
+      "experience": 5
+    },
+    {
+      "skill": "Anesthesiology",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform procedures relative to the physiological management of patients' circulatory and respiratory functions during and following cardiac surgery, under the direct supervision of the anesthesiologist and operating surgeon."
+    },
+    {
+      "duty": "Demonstrate well-developed interpersonal skills and communication skills necessary to interact in a professional manner with nursing staff, health care team members, patient and families."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Perfusion Technology or related field (Master's preferred)"
+    }
+  ]
+}

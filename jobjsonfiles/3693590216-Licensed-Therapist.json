@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Therapist",
+      "job_category": "Therapist",
+      "job_class": "Licensed",
+      "sector": "Healthcare",
+      "salary": 70000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Counseling",
+      "experience": 5
+    },
+    {
+      "skill": "Client Management",
+      "experience": 5
+    },
+    {
+      "skill": "Teletherapy",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Judgement",
+      "experience": 5
+    },
+    {
+      "skill": "Digital Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Privacy Protection",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide counseling and therapy services to adults, couples, and/or teens through teletherapy platforms."
+    },
+    {
+      "duty": "Manage and support clients, ensuring their mental health needs are met through effective communication and clinical judgment."
+    },
+    {
+      "duty": "Utilize secure and encrypted digital communication channels for confidential therapy sessions."
+    },
+    {
+      "duty": "Maintain professional liability insurance and adhere to ethical and legal standards of practice."
+    },
+    {
+      "duty": "Complete onboarding and client acquisition within the specified timeframe for new providers in select states."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Fully licensed by State Board to provide counseling independently and without supervision (e.g., LCSW, LPC, LMFT, PsyD or similar credentials)"
+    },
+    {
+      "credential": "Bachelor's degree in Psychology, Counseling, or related field (Master's preferred)"
+    },
+    {
+      "credential": "Professional liability insurance"
+    }
+  ]
+}

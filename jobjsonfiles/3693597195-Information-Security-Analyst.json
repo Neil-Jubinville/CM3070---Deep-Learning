@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Information Security Analyst",
+      "job_category": "Information Technology",
+      "job_class": "Analyst",
+      "sector": "IT",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Computer Security",
+      "experience": 5
+    },
+    {
+      "skill": "Network Security",
+      "experience": 5
+    },
+    {
+      "skill": "Security Protocol",
+      "experience": 5
+    },
+    {
+      "skill": "System Design",
+      "experience": 5
+    },
+    {
+      "skill": "Security Audit",
+      "experience": 5
+    },
+    {
+      "skill": "CISSP Certification",
+      "experience": 5
+    },
+    {
+      "skill": "IAM Level 2 Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    },
+    {
+      "skill": "Splunk Enterprise SIEM",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Strategize, execute, enhance, and oversee security protocols for safeguarding computer networks, systems, and valuable information."
+    },
+    {
+      "duty": "Evaluate system vulnerabilities to identify potential security risks, proposing and implementing effective risk mitigation strategies."
+    },
+    {
+      "duty": "Ensure the presence of appropriate security controls to protect digital assets and essential electronic infrastructure."
+    },
+    {
+      "duty": "Address and resolve computer security breaches and combat virus threats."
+    },
+    {
+      "duty": "Thoroughly review and analyze Audit log event data using the Splunk SIEM tool."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Bachelor of Arts degree in Computer Science, Information Science, or a related technical discipline is the desired educational background. An equivalent of an additional 6 years of relevant work experience or 4 additional years with an Associate's Degree may be substituted for a Bachelor\u2019s Degree."
+    }
+  ]
+}

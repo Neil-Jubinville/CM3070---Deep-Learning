@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Outside Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 2
+    },
+    {
+      "skill": "Prospecting",
+      "experience": 2
+    },
+    {
+      "skill": "Account Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct sales out in the field via face-to-face interactions with both potential and existing clients"
+    },
+    {
+      "duty": "Responsible for offering the best possible customer experience"
+    },
+    {
+      "duty": "Provide hands-on explanations of any new or updated methods when necessary"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": []
+}

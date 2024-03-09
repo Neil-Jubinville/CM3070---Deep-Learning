@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Service Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Real Estate",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Property Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Emergency Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "OSHA Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Apartment Make-Ready",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "Hazard Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Swimming Pool Maintenance",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform property maintenance including corrective, preventative, routine, emergency, and cosmetic maintenance as per property operational objectives."
+    },
+    {
+      "duty": "Respond to resident/management requests for community common areas, buildings, and units in a timely manner."
+    },
+    {
+      "duty": "Maintain accurate records regarding service requests, EPA/OSHA standards, preventative maintenance, apartment make-ready status, work in progress, etc."
+    },
+    {
+      "duty": "Participate in on-call emergency at the community and utilize property resources, equipment, and supplies economically."
+    },
+    {
+      "duty": "Report observed violations of community rules and regulations to the Maintenance Supervisor and/or Community Manager."
+    },
+    {
+      "duty": "Assist in the general upkeep, maintenance, and cleaning of office, common areas, and model unit."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

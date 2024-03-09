@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "QC Technician III",
+      "job_category": "Lab Technician",
+      "job_class": "Entry Level",
+      "sector": "Biotech",
+      "salary": 50000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Bio-analytical Methods",
+      "experience": 2
+    },
+    {
+      "skill": "Conductivity Testing",
+      "experience": 2
+    },
+    {
+      "skill": "Wet Chemistry Testing",
+      "experience": 2
+    },
+    {
+      "skill": "Loss on Drying Testing",
+      "experience": 2
+    },
+    {
+      "skill": "Particle Size Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Specific Optical Rotation Testing",
+      "experience": 2
+    },
+    {
+      "skill": "Viscometry",
+      "experience": 2
+    },
+    {
+      "skill": "GMP Environment",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform bio-analytical methods for various Bio QC tests on raw materials, in-process, release, or stability samples in compliance with regulatory guidelines."
+    },
+    {
+      "duty": "Communicate with supervisors to inform them of testing, compliance, and scheduling issues."
+    },
+    {
+      "duty": "Maintain a safe work environment through site safety KPIs and follow appropriate GMP documentation."
+    }
+  ]
+}

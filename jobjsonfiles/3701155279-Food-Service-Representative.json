@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Food Service Representative",
+      "job_category": "Service",
+      "job_class": "Representative",
+      "sector": "Food Service",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 3
+    },
+    {
+      "skill": "Sales Techniques",
+      "experience": 3
+    },
+    {
+      "skill": "Food Safety Standards",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Planning and Organizing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provides superior customer service and takes orders from customers by telephone or in person, answering customer questions regarding products and assisting them with selections."
+    },
+    {
+      "duty": "Prepares, packages, and merchandises fresh product effectively, ensuring food safety and sanitation standards are maintained."
+    },
+    {
+      "duty": "Uses suggestive selling techniques and basic product knowledge to meet customer needs and build department sales."
+    },
+    {
+      "duty": "Cleans and sanitizes display cases, operates/maintains equipment properly, and complies with H-E-B food safety and sanitation standards and department/store operating procedures."
+    },
+    {
+      "duty": "Records production and shrink to aid in production planning, assists in technical areas as needed, and culls bakery products for poor quality and expiration dates."
+    },
+    {
+      "duty": "Takes care of service counter customers, uses ordering system applications, performs inventory management processes, ensures catering orders are prepared, and performs all sanitation and maintenance tasks for Deli slicers."
+    },
+    {
+      "duty": "Serves/packages products at customer's request, educates customers on preparation/reheating instructions of prepared foods, prepackages condiments for prepared food items, and cuts, slices, dices, chops food in preparation for chef."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent, completion of Company Orientation, and food safety and sanitation training upon hire"
+    }
+  ]
+}

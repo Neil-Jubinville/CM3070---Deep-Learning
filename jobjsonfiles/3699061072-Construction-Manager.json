@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Construction Manager",
+      "job_category": "Construction",
+      "job_class": "Manager",
+      "sector": "Construction",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Construction Management",
+      "experience": 5
+    },
+    {
+      "skill": "Project Coordination",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Schedule Coordination",
+      "experience": 5
+    },
+    {
+      "skill": "Vendor Management",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage multiple construction projects and coordinate design professionals, contractors, and contracts."
+    },
+    {
+      "duty": "Review project documents and ensure completeness for the respective phase of design and construction."
+    },
+    {
+      "duty": "Manage the quality of the project and ensure successful completion as it relates to schedule and budget."
+    },
+    {
+      "duty": "Familiarize and develop a strategy to coordinate the requirements/needs of all interested parties."
+    },
+    {
+      "duty": "Analyze requested changes and manage the change process."
+    },
+    {
+      "duty": "Coordinate communications between contractor, client, site personnel, and design professionals."
+    },
+    {
+      "duty": "Prepare punch list(s) and monitor completion by the contractor(s)."
+    },
+    {
+      "duty": "Conduct on-site project meetings and improve project communications and reduce interferences."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Four year college degree in engineering, architecture or related field is preferred."
+    },
+    {
+      "credential": "Minimum of 2+ years of performing construction management role."
+    }
+  ]
+}

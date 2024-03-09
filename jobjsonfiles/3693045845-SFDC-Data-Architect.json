@@ -1,0 +1,33 @@
+{
+  "meta": [
+    {
+      "job_title": "SFDC Data Architect",
+      "job_category": "Software Engineering",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Salesforce",
+      "experience": 5
+    },
+    {
+      "skill": "Core Data",
+      "experience": 5
+    },
+    {
+      "skill": "MDM",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and implement core data architecture for Salesforce systems."
+    },
+    {
+      "duty": "Lead the data management and master data management efforts for Salesforce solutions."
+    }
+  ]
+}

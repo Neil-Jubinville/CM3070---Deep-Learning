@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Managing Director",
+      "job_category": "Consulting",
+      "job_class": "Director",
+      "sector": "Healthcare",
+      "salary": 175000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Strategic Planning",
+      "experience": 15
+    },
+    {
+      "skill": "Business Development",
+      "experience": 15
+    },
+    {
+      "skill": "Project Management",
+      "experience": 15
+    },
+    {
+      "skill": "Leadership",
+      "experience": 15
+    },
+    {
+      "skill": "Health Policy",
+      "experience": 15
+    },
+    {
+      "skill": "Finance",
+      "experience": 15
+    },
+    {
+      "skill": "Analysis",
+      "experience": 15
+    },
+    {
+      "skill": "Communication",
+      "experience": 15
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Developing a strategic growth plan for the practice"
+    },
+    {
+      "duty": "Cultivating prospective clients through thought leadership and one-on-one meetings"
+    },
+    {
+      "duty": "Conceptualizing projects and moving them from sales to implementation"
+    },
+    {
+      "duty": "Consulting directly with clients to provide senior expertise and support"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "At least 15 years of experience in a federal health policy role (such as within the federal bureaucracy or a congressional office or serving provider or payer organizations in a policy, advocacy, or government affairs role)"
+    },
+    {
+      "credential": "Expertise in US healthcare financing"
+    },
+    {
+      "credential": "Exceptional quantitative and analytical expertise"
+    }
+  ]
+}

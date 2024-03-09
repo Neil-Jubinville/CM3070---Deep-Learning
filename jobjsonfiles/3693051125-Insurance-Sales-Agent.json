@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Insurance Sales Agent",
+      "job_category": "Sales",
+      "job_class": "Agent",
+      "sector": "Insurance",
+      "salary": 62000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Appointment Setting",
+      "experience": 1
+    },
+    {
+      "skill": "Market Analysis",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Time Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Set appointments to identify prospective clients\u2019 financial resources and needs"
+    },
+    {
+      "duty": "Offer expert life and health insurance policy recommendations to generate sales"
+    },
+    {
+      "duty": "Provide continuous, excellent customer service to client base"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 85
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent (Bachelor's degree preferred)"
+    }
+  ]
+}

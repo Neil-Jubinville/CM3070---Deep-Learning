@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 22,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "General Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Plumbing",
+      "experience": 2
+    },
+    {
+      "skill": "Electrical",
+      "experience": 2
+    },
+    {
+      "skill": "HVAC Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Painting",
+      "experience": 2
+    },
+    {
+      "skill": "Drywall Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Pressure Washing",
+      "experience": 2
+    },
+    {
+      "skill": "Pool Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Groundskeeping",
+      "experience": 2
+    },
+    {
+      "skill": "Documentation",
+      "experience": 2
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 2
+    },
+    {
+      "skill": "Handyman Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform general maintenance tasks including plumbing, electrical, HVAC repair, painting, drywall repair, and pressure washing."
+    },
+    {
+      "duty": "Maintain recreational amenities and conduct routine inspections."
+    },
+    {
+      "duty": "Complete preventative maintenance tasks and maintain pool features and Ph levels."
+    },
+    {
+      "duty": "Complete grounds work to keep the community safe, clean, and free of debris."
+    },
+    {
+      "duty": "Maintain tools and equipment, complete maintenance reports, documentation, and respond to emergencies as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 40,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "2 years HOA residential maintenance or equivalent, property or high-rise management or equivalent, and excellent handyman skills"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "School Counselor",
+      "job_category": "Education",
+      "job_class": "Counselor",
+      "sector": "Education",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Counseling",
+      "experience": 5
+    },
+    {
+      "skill": "Student Appraisal",
+      "experience": 5
+    },
+    {
+      "skill": "Career Development",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Crisis Management",
+      "experience": 5
+    },
+    {
+      "skill": "Instructional Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Behavior Management",
+      "experience": 5
+    },
+    {
+      "skill": "Group Counseling",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Plan, implement, and evaluate a comprehensive school counseling program at assigned campus."
+    },
+    {
+      "duty": "Counsel students to fully develop each student\u2019s academic, career, personal, and social abilities and address the needs of special population students."
+    },
+    {
+      "duty": "Deliver guidance curriculum in various group sizes."
+    },
+    {
+      "duty": "Educate students of skills necessary to address troublesome circumstances, support students in challenging situations, and assist students with needed resources to navigate crisis situations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master\u2019s degree in counseling from an accredited college or university. Valid Texas school counselor certificate."
+    },
+    {
+      "credential": "Two years creditable experience as a teacher"
+    }
+  ]
+}

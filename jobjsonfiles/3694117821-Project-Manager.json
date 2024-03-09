@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Consulting",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Support",
+      "experience": 3
+    },
+    {
+      "skill": "Industry Expertise",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage delivery of projects of significant size and complexity involving software package implementation and custom development for clients."
+    },
+    {
+      "duty": "Leverage expert knowledge across Project Management methodologies to coach and mentor the project team and produce high-quality, on-time, on-budget project deliverables."
+    },
+    {
+      "duty": "Manage administration of assigned projects including project definition, project status reporting, project quality, and project staffing."
+    },
+    {
+      "duty": "Use consulting skills, business knowledge, and package solution expertise to manage and deliver projects in a client environment."
+    },
+    {
+      "duty": "Build and manage client relationships, establish policies, procedures, and plans."
+    },
+    {
+      "duty": "Drive task level project plans that include requirements, communications, contracts, issue resolution, risk and resource management."
+    },
+    {
+      "duty": "Lead review meetings, reporting, manage project budget and expenses."
+    },
+    {
+      "duty": "Support the sales efforts of Asset Management related services."
+    },
+    {
+      "duty": "Provide subject matter expertise regarding key decisions related to industry and/or functional area."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certified Project Management Professional (PMP)"
+    },
+    {
+      "credential": "Bachelor's degree in Business Administration, Management, or a related field (Master's preferred)"
+    }
+  ]
+}

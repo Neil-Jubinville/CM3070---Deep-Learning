@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Aircraft Mechanic",
+      "job_category": "Engineering",
+      "job_class": "Mechanic",
+      "sector": "Aerospace",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Aircraft Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Mechanical Systems Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Pneudraulic System Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Team Coordination",
+      "experience": 3
+    },
+    {
+      "skill": "Instruction and Training",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform troubleshooting, preventive maintenance, repair, and ground testing of aircraft assemblies, systems, and surfaces."
+    },
+    {
+      "duty": "Install, adjust, align, troubleshoot, and functionally test major and minor mechanical and pneudraulic systems on aircraft."
+    },
+    {
+      "duty": "Coordinate the work of other mechanics and schedule maintenance activities to ensure completion of critical actions and workflow optimization."
+    },
+    {
+      "duty": "Instruct lower graded mechanics and personnel in the disassembly and re-assembly of aircraft components."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Experience or training in aircraft maintenance and mechanical systems troubleshooting."
+    }
+  ]
+}

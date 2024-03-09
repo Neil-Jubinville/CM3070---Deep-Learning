@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer (Electrical Power Systems)",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 135000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Power System Development",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "Docker Container",
+      "experience": 3
+    },
+    {
+      "skill": "Microservices",
+      "experience": 3
+    },
+    {
+      "skill": "Software Lifecycle Management",
+      "experience": 5
+    },
+    {
+      "skill": "Power System Application Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Web Services Development",
+      "experience": 5
+    },
+    {
+      "skill": "SDLC Principles",
+      "experience": 5
+    },
+    {
+      "skill": "System Integration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and test advanced Power Systems Application software, delivering and maintaining assigned functions."
+    },
+    {
+      "duty": "Work on machine, cloud, platform, and/or application areas related to Power Systems Applications."
+    },
+    {
+      "duty": "Program features, contribute to the team, work independently, and act as a member of the Software Center of Excellence."
+    },
+    {
+      "duty": "Implement new functionalities in power system application software and apply SDLC and methodologies like Lean/Agile/XP, CI, Software and Product Security, Scalability, Documentation Practices, Refactoring and Testing Techniques."
+    },
+    {
+      "duty": "Maintain power systems application functionality including code fixes, documentation, and user interfaces."
+    },
+    {
+      "duty": "Collaborate with system engineers, frontend developers, and software developers to implement solutions aligned with shared platforms."
+    },
+    {
+      "duty": "Limited direct customer interaction."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 40,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master\u2019s degree in Electrical Engineering, Computer Science, or related field with thesis work in Electrical Engineering or power systems. Some experience in power systems and/or synchrophasor applications, software development, and Agile environment."
+    }
+  ]
+}

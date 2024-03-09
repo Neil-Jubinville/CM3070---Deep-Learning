@@ -1,0 +1,30 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Service Technician / Banking Service Technician",
+      "job_category": "Banking",
+      "job_class": "Field Technician",
+      "sector": "Field Service",
+      "salary": 58000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Aptitude",
+      "experience": 3
+    },
+    {
+      "skill": "Field Technician Experience",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Diagnose issues with equipment such as safety deposit boxes, vault doors, ATMs, etc."
+    },
+    {
+      "duty": "Complete service requests for client's sites"
+    }
+  ]
+}

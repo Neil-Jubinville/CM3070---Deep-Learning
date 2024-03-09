@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Acute Care Float Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 35,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Acute Care",
+      "experience": 3
+    },
+    {
+      "skill": "Critical Care",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Medical-Surgical",
+      "experience": 3
+    },
+    {
+      "skill": "Emergency Room",
+      "experience": 3
+    },
+    {
+      "skill": "Healthcare Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Health Assessment",
+      "experience": 3
+    },
+    {
+      "skill": "Nursing Ethics",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide direct patient care, post-operative care, and critical care in various healthcare facilities."
+    },
+    {
+      "duty": "Adapt to different healthcare settings and manage patient care across different units."
+    },
+    {
+      "duty": "Administer medications, perform diagnostic tests, and assist in medical procedures as required."
+    },
+    {
+      "duty": "Document patient care and maintain accurate medical records."
+    },
+    {
+      "duty": "Collaborate with interdisciplinary teams to ensure coordinated patient care and treatment plans."
+    },
+    {
+      "duty": "Assess patient health, provide patient education, and ensure patient safety and comfort."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science in Nursing (BSN) or Associate Degree in Nursing (ADN) with relevant licensure"
+    }
+  ]
+}

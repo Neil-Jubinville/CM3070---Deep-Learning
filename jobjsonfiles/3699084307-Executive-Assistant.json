@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Executive Assistant",
+      "job_category": "Office Management",
+      "job_class": "Assistant",
+      "sector": "Administration",
+      "salary": 50000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft Office Applications",
+      "experience": 2
+    },
+    {
+      "skill": "Clerical Work",
+      "experience": 2
+    },
+    {
+      "skill": "Administrative Services",
+      "experience": 2
+    },
+    {
+      "skill": "Telecommunications",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Coordinate facilities and administrative services, including clerical and support services, printing, mail distribution, messenger services, and telecommunications."
+    },
+    {
+      "duty": "Acquire knowledge of program requirements, policies, and procedures."
+    },
+    {
+      "duty": "Work on semi-routine tasks and assignments, requiring limited judgment."
+    },
+    {
+      "duty": "Operate under limited supervision."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "HS diploma or GED"
+    }
+  ]
+}

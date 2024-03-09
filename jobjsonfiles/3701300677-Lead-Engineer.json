@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Lead",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Web App Development",
+      "experience": 5
+    },
+    {
+      "skill": "B2B SaaS App Development",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "React",
+      "experience": 3
+    },
+    {
+      "skill": "Node.js",
+      "experience": 3
+    },
+    {
+      "skill": "Nest.js",
+      "experience": 3
+    },
+    {
+      "skill": "Object-oriented Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Database Management",
+      "experience": 5
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design highly-scalable solutions for an enterprise application."
+    },
+    {
+      "duty": "Lead a team of engineers to deliver quality software, on time and on budget."
+    },
+    {
+      "duty": "Empower your teammates to tackle projects by assisting with technical planning, reviewing code, and promoting strong engineering practices."
+    },
+    {
+      "duty": "Participate in interviewing and hiring engineers."
+    },
+    {
+      "duty": "Troubleshoot and fix technical issues quickly."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

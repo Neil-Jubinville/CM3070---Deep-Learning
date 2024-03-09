@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Research Technician",
+      "job_category": "Research and Development",
+      "job_class": "Technician",
+      "sector": "Life Sciences",
+      "salary": 44400,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Laboratory Experiments",
+      "experience": 0
+    },
+    {
+      "skill": "Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 1
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 1
+    },
+    {
+      "skill": "Procedure Development",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform basic laboratory experiments under general supervision as well as more advanced duties under direct supervision."
+    },
+    {
+      "duty": "Assist in developing procedures and protocols to support experiments."
+    },
+    {
+      "duty": "Cooperate, communicate, and relate well to all levels of the Medical Center. Listen carefully to others and communicate effectively."
+    },
+    {
+      "duty": "Analyze problems as they occur and determine the appropriate solutions. Seek guidance as necessary and advise appropriate personnel of situations requiring intervention or follow-up attention."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's of Science Degree in Life Sciences or a related field is preferred."
+    }
+  ]
+}

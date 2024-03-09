@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Product Experience Manager",
+      "job_category": "Software Development",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Product Management",
+      "experience": 5
+    },
+    {
+      "skill": "UI/UX Design",
+      "experience": 5
+    },
+    {
+      "skill": "Payment Technology",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Data Platform Management",
+      "experience": 5
+    },
+    {
+      "skill": "API Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Platform Automation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for overall product experience at customer locations with Payments systems, POS and Pump hardware, Networking, Backoffice, and other systems related to the Fuel and Convenience Industry."
+    },
+    {
+      "duty": "Collaborates with design and peers in the product team to establish UI/UX of new features and functionality."
+    },
+    {
+      "duty": "Maintain professional expertise on payment technology, Conexxus/MPPA flows, settlement, and business concerns around payments related to the ongoing evolution of our Transact and Activate products."
+    },
+    {
+      "duty": "Performs final review and relevant acceptance testing of completed engineering work."
+    },
+    {
+      "duty": "Serve as an advisor to platform engineering to ensure the needs of external integrators are understood and accounted for in contemplated changes to our platform APIs."
+    },
+    {
+      "duty": "Write and maintain guides and technical documentation around the use of our platform API, and work directly with stakeholders where necessary to guide and support our partners in their technical integration work against it."
+    },
+    {
+      "duty": "Maintain an understanding of, and provide support for, our data platform and data connectors and integrations that involve bulk data reporting, non-Conexxus transaction flows for loyalty and payments completed via our APIs by 3rd parties, the use of our OC APIs for building custom client applications, our platform automation capabilities, and the means and best practices around utilizing our outbound webhook and CRM connectors, platform connectors to customer back office systems."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "2+ years as a software/digital product owner or manager, preferably at a SaaS or enterprise software company Bachelor's degree in a related field (Master's preferred)"
+    }
+  ]
+}

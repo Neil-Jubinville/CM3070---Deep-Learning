@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Laboratory Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Technology",
+      "experience": 3
+    },
+    {
+      "skill": "Microbiology",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 3
+    },
+    {
+      "skill": "Laboratory Instrument Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Blood Typing",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performs routine and specialized testing and procedures with appropriate supervision."
+    },
+    {
+      "duty": "Operates a variety of laboratory instruments and performs quality control procedures."
+    },
+    {
+      "duty": "Oversees the work of other personnel and trains employees in day-to-day procedures."
+    },
+    {
+      "duty": "Inoculates, cultivates, classifies, and identifies microorganisms found in bodily fluids, exudates, and surgical specimens."
+    },
+    {
+      "duty": "Performs chemical and immunological tests to identify substances found in blood and other body fluids."
+    },
+    {
+      "duty": "Consults with medical staff and other health care providers on laboratory services."
+    },
+    {
+      "duty": "Enters and retrieves data from established computer files."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Medical Technology or a related science"
+    }
+  ]
+}

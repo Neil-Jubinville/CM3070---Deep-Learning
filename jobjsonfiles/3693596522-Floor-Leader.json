@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Floor Leader",
+      "job_category": "Retail",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Retail Operations",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Stock Management",
+      "experience": 4
+    },
+    {
+      "skill": "Merchandising",
+      "experience": 4
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Mentorship",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct opening and closing operational routines, ensuring the successful start or completion of the store's daily business."
+    },
+    {
+      "duty": "Execute detailed, comprehensive stock and product management routines, including processing shipment and completing markdowns, merchandising, replenishment and fulfilling online orders."
+    },
+    {
+      "duty": "Welcome guests and assist with finding their perfect pair, accessories, or apparel."
+    },
+    {
+      "duty": "Keep an overview of daily operations and troubleshoot any concerns with transactions and store routines."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": []
+}

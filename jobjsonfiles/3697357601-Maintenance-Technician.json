@@ -1,0 +1,30 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide routine and spontaneous building maintenance services for residents and other departments to ensure smooth operations."
+    },
+    {
+      "duty": "Perform general inspections, help turn over residences, and monitor building systems."
+    },
+    {
+      "duty": "Handle resident requests and ongoing projects, even outside normal business hours."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 180
+    }
+  ]
+}

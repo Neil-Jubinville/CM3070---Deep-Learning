@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Systems Analyst",
+      "job_category": "IT",
+      "job_class": "Analyst",
+      "sector": "Information Technology",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Laboratory Information Systems",
+      "experience": 5
+    },
+    {
+      "skill": "System Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Software Testing",
+      "experience": 5
+    },
+    {
+      "skill": "HL-7 Interfaces",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Lab Technology",
+      "experience": 5
+    },
+    {
+      "skill": "IT Best Practices",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensure the Clinical Laboratory Information System operates properly, including interfaces, robotic processing, and peripheral equipment."
+    },
+    {
+      "duty": "Recognize, analyze, and resolve system and application problems in the lab system."
+    },
+    {
+      "duty": "Maintain system tables/dictionaries, test software and hardware upgrades, and provide training for laboratory staff."
+    },
+    {
+      "duty": "Oversee the complete project management cycle for software or hardware projects assigned by the manager."
+    },
+    {
+      "duty": "Ensure that the lab system operates in accordance with IT best practices, system security, and business continuity and disaster recovery."
+    },
+    {
+      "duty": "Recognize and resolve system error conditions or failures in hardware and software components."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Science, Health Science, Computer Science, programming, or Application Development. Certification as a Medical Technologist or Medical Laboratory Scientist preferred."
+    }
+  ]
+}

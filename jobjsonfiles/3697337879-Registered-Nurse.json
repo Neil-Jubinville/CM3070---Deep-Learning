@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing License",
+      "experience": 2
+    },
+    {
+      "skill": "Behavioral Intervention",
+      "experience": 2
+    },
+    {
+      "skill": "Computer Proficiency",
+      "experience": 2
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 2
+    },
+    {
+      "skill": "MS Office",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Advocacy",
+      "experience": 2
+    },
+    {
+      "skill": "Facility Terminology",
+      "experience": 2
+    },
+    {
+      "skill": "Electronic Medical Records",
+      "experience": 2
+    },
+    {
+      "skill": "Supervisory Responsibilities",
+      "experience": 2
+    },
+    {
+      "skill": "CPR Certification",
+      "experience": 1
+    },
+    {
+      "skill": "Cerner EMR",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide patient care services in accordance with nursing standards and facility policies."
+    },
+    {
+      "duty": "Stay current with behavioural intervention training and apply it when necessary."
+    },
+    {
+      "duty": "Maintain electronic medical records and use computer programs for documentation."
+    },
+    {
+      "duty": "Serve as a patient advocate and ensure their care needs are met."
+    },
+    {
+      "duty": "Interpret nursing and facility policies and procedures accurately."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate degree in Nursing from an accredited college, with a license to practice nursing in the State of Indiana as a Registered Nurse, and a current CPR certification. Additional knowledge and/or ability may be required based on the population the facility serves."
+    }
+  ]
+}

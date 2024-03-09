@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinary Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Veterinary",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Venipuncture",
+      "experience": 1
+    },
+    {
+      "skill": "Catheter Placement",
+      "experience": 1
+    },
+    {
+      "skill": "Radiology",
+      "experience": 1
+    },
+    {
+      "skill": "Anesthesia Monitoring",
+      "experience": 1
+    },
+    {
+      "skill": "Laboratory Work",
+      "experience": 1
+    },
+    {
+      "skill": "Compassionate Care",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform venipuncture and catheter placement procedures"
+    },
+    {
+      "duty": "Assist in radiology and anesthesia monitoring"
+    },
+    {
+      "duty": "Conduct laboratory work and assist in patient recovery"
+    },
+    {
+      "duty": "Provide compassionate care for clients and patients"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 120,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree in Veterinary Technology or related field (Bachelor's preferred)"
+    }
+  ]
+}

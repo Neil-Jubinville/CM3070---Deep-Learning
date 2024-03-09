@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Material Handler",
+      "job_category": "Inventory Management",
+      "job_class": "Associate",
+      "sector": "Logistics",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Material Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 1
+    },
+    {
+      "skill": "Housekeeping",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Math",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform material handling duties such as operating equipment for product receiving, disbursement, and inventory checks."
+    },
+    {
+      "duty": "Input daily item orders, perform daily stock checks, and ensure inventory items are counted, rotated, and replenished daily."
+    },
+    {
+      "duty": "Receive inbound materials, mark materials with identifying information, and record the amount of material received."
+    },
+    {
+      "duty": "Arrange materials for order assembly, perform quality control, and move carts to and from loading docks."
+    },
+    {
+      "duty": "Assist with customer requests while maintaining a high level of customer service and perform housekeeping duties including onsite cleanup."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma"
+    }
+  ]
+}

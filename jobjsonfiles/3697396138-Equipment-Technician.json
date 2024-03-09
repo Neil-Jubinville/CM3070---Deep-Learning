@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Equipment Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Software Engineering",
+      "remote": false,
+      "salary": 70000
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electro-Mechanical Equipment Repair",
+      "experience": 4
+    },
+    {
+      "skill": "PC/Software Troubleshooting",
+      "experience": 4
+    },
+    {
+      "skill": "AC/DC Circuit Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Electronics",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Mechanical Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Test and Diagnostic Equipment Use",
+      "experience": 4
+    },
+    {
+      "skill": "Mathematical Concepts",
+      "experience": 3
+    },
+    {
+      "skill": "SPC Principles",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform electrical or mechanical solving to resolve problems in non-functioning electro-mechanical equipment used in the manufacturing process."
+    },
+    {
+      "duty": "Dismantle, adjust, repair, and assemble equipment according to layout plans, blueprints, operating or repair manuals, rough sketches or drawings."
+    },
+    {
+      "duty": "Use test and diagnostic equipment to perform checkouts."
+    },
+    {
+      "duty": "Rebuild manufacturing equipment as required."
+    },
+    {
+      "duty": "Perform equipment modifications as advised by engineers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associates of Applied Science in Electronics Engineering Technology, Mechatronics, related field of study, or equivalent military experience."
+    },
+    {
+      "credential": "Basic PC skills including MS Office."
+    },
+    {
+      "credential": "Understanding of SPC principles and proper application."
+    },
+    {
+      "credential": "AAS in Electronics, BS in EET (Preferred)"
+    },
+    {
+      "credential": "Prior experience as an equipment technician in the semiconductor industry (Preferred)"
+    },
+    {
+      "credential": "Prior knowledge of maintaining and solving semiconductor tools (Preferred)"
+    }
+  ]
+}

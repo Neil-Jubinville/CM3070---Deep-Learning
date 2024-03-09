@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. IT BA (Agile)",
+      "job_category": "Information Technology",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Agile",
+      "experience": 7
+    },
+    {
+      "skill": "Software Development",
+      "experience": 7
+    },
+    {
+      "skill": "Backend API Integration",
+      "experience": 7
+    },
+    {
+      "skill": "User Story Writing",
+      "experience": 7
+    },
+    {
+      "skill": "Technical Story Acceptance Criteria",
+      "experience": 7
+    },
+    {
+      "skill": "Backlog Refinement",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work as a member of a highly technical, custom / proprietary software application engineering team."
+    },
+    {
+      "duty": "Collaborate closely with in-house actuaries, data scientists, and data engineers."
+    },
+    {
+      "duty": "Support software engineers by writing clearly defined user stories, acceptance criteria for technical stories, and assisting with backlog refinement."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

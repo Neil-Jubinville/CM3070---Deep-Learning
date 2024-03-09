@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Construction",
+      "job_class": "Project Manager",
+      "sector": "Construction",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Civil Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Building Construction",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead projects with quality, safety, and exceeding customer expectations."
+    },
+    {
+      "duty": "Drive success in underground utilities, lift stations, storm drainage, and mechanical piping."
+    },
+    {
+      "duty": "Collaborate for seamless project execution."
+    },
+    {
+      "duty": "Uphold Values, Mission, and Vision for excellence and integrity."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.A. in Civil Engineering or Building Construction from a four-year college/university OR 3-5 years as a Project Manager."
+    }
+  ]
+}

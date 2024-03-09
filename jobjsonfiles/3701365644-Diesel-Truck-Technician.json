@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Diesel Truck Technician",
+      "job_category": "Technician",
+      "job_class": "Technician",
+      "sector": "Automotive",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Diesel Engine Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Truck-tractor Diagnostics",
+      "experience": 4
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 4
+    },
+    {
+      "skill": "Repair and Maintenance",
+      "experience": 4
+    },
+    {
+      "skill": "CDL (Class A)",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform diagnostic inspections on general truck-tractor systems utilizing both mechanical diagnostics and system software diagnostics."
+    },
+    {
+      "duty": "Perform preventative maintenance inspection of truck-tractor components following a checklist."
+    },
+    {
+      "duty": "Complete repairs to truck-tractor components including oil changes, light bulb replacement, brakes, electrical handling, and wheels and tires."
+    },
+    {
+      "duty": "Provide superior customer service to all clients."
+    },
+    {
+      "duty": "Make road calls when component failure is in a remote location."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or GED required."
+    }
+  ]
+}

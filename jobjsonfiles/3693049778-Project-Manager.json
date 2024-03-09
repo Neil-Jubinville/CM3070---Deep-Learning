@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "sector": "Management",
+      "salary": 125000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manages IT projects from start to finish, including implementation and customizations of software applications, system integrations, software upgrades, and infrastructure projects."
+    },
+    {
+      "duty": "Manages strategic and tactical projects simultaneously, often handling higher-priority projects with complex challenges."
+    },
+    {
+      "duty": "Manages a project team of matrixed resources and reconciles project team time cards and financial forecast."
+    },
+    {
+      "duty": "Prepares project charters, deployment plans, and ensures a smooth transition from development to operations teams."
+    },
+    {
+      "duty": "Monitors and controls project execution phases, prepares project status reports, and meets regularly with stakeholders."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 10
+    },
+    {
+      "skill": "IT Project Delivery",
+      "experience": 10
+    },
+    {
+      "skill": "MS Project",
+      "experience": 10
+    },
+    {
+      "skill": "Vendor Management",
+      "experience": 10
+    },
+    {
+      "skill": "Financial Forecasting",
+      "experience": 10
+    },
+    {
+      "skill": "Leadership",
+      "experience": 10
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 10
+    },
+    {
+      "skill": "Communication",
+      "experience": 10
+    },
+    {
+      "skill": "PMP Certification",
+      "experience": 10
+    },
+    {
+      "skill": "Decision-Making",
+      "experience": 10
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 160,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "PMP Certification in good standing required. Bachelor's degree in related field."
+    }
+  ]
+}

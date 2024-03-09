@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Teller/FSR",
+      "job_category": "Banking",
+      "job_class": "Teller/FSR",
+      "sector": "Financial Services",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cash Handling",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Banking Regulations",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Services",
+      "experience": 3
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 3
+    },
+    {
+      "skill": "English Language Proficiency",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Serving customers quickly, accurately, efficiently, and confidentially according to the bank's service standards."
+    },
+    {
+      "duty": "Identifying customer needs and expectations by listening for clues and making referrals to expand customer relationships."
+    },
+    {
+      "duty": "Processing transactions for savings, checking, and loan accounts, as well as maintaining a neat and orderly work area."
+    },
+    {
+      "duty": "Resolving customer problems and complaints with courtesy and discretion, considering them as opportunities to satisfy the customer and promote additional services."
+    },
+    {
+      "duty": "Balancing transactions daily and maintaining compliance with banking regulations and security procedures."
+    },
+    {
+      "duty": "Guiding and training new tellers and assisting with customer-facing technology such as self-service options."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent"
+    }
+  ]
+}

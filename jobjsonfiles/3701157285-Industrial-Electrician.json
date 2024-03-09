@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Industrial Electrician",
+      "job_category": "Skilled Labor",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Industrial Electrician",
+      "experience": 5
+    },
+    {
+      "skill": "PLC Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Calibrations",
+      "experience": 3
+    },
+    {
+      "skill": "Low Voltage Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Motor Control Devices",
+      "experience": 3
+    },
+    {
+      "skill": "Panel Assembly",
+      "experience": 3
+    },
+    {
+      "skill": "Heavy Industry Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Construction Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Lumber Manufacturing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for the safe maintenance, repair, installation, and modification of all sawmill-related equipment to maximize uptime, quality, and production."
+    },
+    {
+      "duty": "Troubleshoot, repair, and install electrical equipment to meet production goals."
+    },
+    {
+      "duty": "Diagnose cause of electrical or mechanical malfunction or failure of operational equipment and perform preventive and corrective maintenance."
+    },
+    {
+      "duty": "Set up and perform calibrations on equipment."
+    },
+    {
+      "duty": "Assemble and test experimental motor control devices, switch panels, transformers, generator windings, solenoids, and other electrical equipment and components."
+    },
+    {
+      "duty": "Plan, direct, and record periodic electrical testing and recommend or initiate modification or replacement of equipment which fails to meet acceptable operating standards."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 80,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Industrial Electrician Certification"
+    }
+  ]
+}

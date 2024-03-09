@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Automation Maintenance Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Automotive Manufacturing",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Automation/PLC Controls",
+      "experience": 2
+    },
+    {
+      "skill": "Industrial Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Mechanical Systems",
+      "experience": 2
+    },
+    {
+      "skill": "Electronic Systems",
+      "experience": 2
+    },
+    {
+      "skill": "PC Controls",
+      "experience": 2
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Process Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Safe Work Practices",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Troubleshoot, maintain, repair, and modify automotive manufacturing and test equipment to improve systems uptime and reliability."
+    },
+    {
+      "duty": "Oversee equipment modifications for process changes, new models, and expansions."
+    },
+    {
+      "duty": "Maintain and update all process documentation."
+    },
+    {
+      "duty": "Employ safe work practices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate Degree in a technical manufacturing discipline and 2 years of automation/PLC controls with industrial maintenance, mechanical, electronic systems & PC controls."
+    },
+    {
+      "credential": "High school diploma/GED and 2 years technical maintenance experience PLUS 2 years automation/PLC controls with industrial maintenance, mechanical, electronic systems & PC controls (4 years total experience)."
+    }
+  ]
+}

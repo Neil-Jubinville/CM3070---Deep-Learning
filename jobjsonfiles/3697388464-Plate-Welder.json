@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Plate Welder",
+      "job_category": "Welding",
+      "job_class": "Welder",
+      "sector": "Manufacturing",
+      "salary": 58000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Welding",
+      "experience": 5
+    },
+    {
+      "skill": "Fabrication",
+      "experience": 5
+    },
+    {
+      "skill": "Structural Welding",
+      "experience": 5
+    },
+    {
+      "skill": "Steel Welding",
+      "experience": 5
+    },
+    {
+      "skill": "Weld Test",
+      "experience": 5
+    },
+    {
+      "skill": "Flux Cored Wire Welding",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Weld and fabricate massive steel structures like large steel girders, beams, and nodes for skyscrapers and large power generation equipment."
+    },
+    {
+      "duty": "Perform 3 position welding test/plate welding as per industry standards."
+    },
+    {
+      "duty": "Use .045\" 70 Series flux cored wire for welding."
+    },
+    {
+      "duty": "Ensure compliance with safety standards and regulations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 30,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma / GEDNCCER and OSHA 10 preferred"
+    }
+  ]
+}

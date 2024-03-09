@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Nursing",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 69000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing",
+      "experience": 12
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 12
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 12
+    },
+    {
+      "skill": "Education & Research",
+      "experience": 12
+    },
+    {
+      "skill": "Healthcare Environment",
+      "experience": 12
+    },
+    {
+      "skill": "American Heart Association Basic Life Support",
+      "experience": 12
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide high-quality patient care in a healthcare environment, collaborating with physicians to ensure the best outcomes."
+    },
+    {
+      "duty": "Maintain high safety standards and adhere to professional development & nursing education."
+    },
+    {
+      "duty": "Obtain and maintain valid Texas RN license, as well as other required credentials and certifications as defined by unit/service line."
+    },
+    {
+      "duty": "Contribute to ongoing education and research efforts in collaboration with the Weill Medical College of Cornell University and New York-Presbyterian Hospital."
+    },
+    {
+      "duty": "Direct millions of research dollars into patient care and contribute to the latest innovations in medical, surgical, and diagnostic techniques."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science degree or higher from an accredited School of Nursing"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinary Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 38000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Surgical Technician",
+      "experience": 5
+    },
+    {
+      "skill": "Phlebotomy",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support the veterinary team in providing excellent care to patients"
+    },
+    {
+      "duty": "Demonstrate strong communication and organizational skills, multitasking, and handling stressful situations"
+    },
+    {
+      "duty": "Physical requirements include lifting and carrying up to 40 lbs, kneeling, bending, and using a step ladder to stock inventory"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Credentialed or Non-Credentialed Veterinary Technician with 2+ years of clinical experience"
+    }
+  ]
+}

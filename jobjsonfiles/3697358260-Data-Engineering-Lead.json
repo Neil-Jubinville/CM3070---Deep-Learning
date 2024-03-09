@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineering Lead",
+      "job_category": "Information Technology",
+      "job_class": "Lead",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Engineering",
+      "experience": 7
+    },
+    {
+      "skill": "Software Engineering",
+      "experience": 7
+    },
+    {
+      "skill": "Cloud Computing",
+      "experience": 7
+    },
+    {
+      "skill": "Automated Testing",
+      "experience": 7
+    },
+    {
+      "skill": "Python",
+      "experience": 7
+    },
+    {
+      "skill": "Big Data Tools",
+      "experience": 7
+    },
+    {
+      "skill": "DevOps",
+      "experience": 7
+    },
+    {
+      "skill": "CI/CD Implementation",
+      "experience": 7
+    },
+    {
+      "skill": "Agile Software Development",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead a team of data engineers in delivering data and knowledge products that advance the organization's data capabilities."
+    },
+    {
+      "duty": "Architect the data delivery and operational strategy for the team, deconstruct complex data requests, and drive engineering efficiencies."
+    },
+    {
+      "duty": "Partner with other data engineering leads to conceptualize the design of new data flows and ways of working."
+    },
+    {
+      "duty": "Design innovative strategies to create a better environment for end users and construct coordinated plans for change."
+    },
+    {
+      "duty": "Champion proper ways of working and engineering discipline, including QMS framework and CI/CD best practices."
+    },
+    {
+      "duty": "Keen on bettering technical knowledge and acting as the knowledge holder for the organization."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Data Engineering, Computer Science, or Software Engineering (Master's or PhD preferred)"
+    }
+  ]
+}

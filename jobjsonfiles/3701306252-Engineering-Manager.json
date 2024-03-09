@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Engineering Manager",
+      "job_category": "Engineering",
+      "job_class": "Manager",
+      "sector": "Engineering",
+      "salary": 130000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Engineering",
+      "experience": 10
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "experience": 10
+    },
+    {
+      "skill": "Project Management",
+      "experience": 10
+    },
+    {
+      "skill": "Regulatory Approval",
+      "experience": 10
+    },
+    {
+      "skill": "PLM/ERP",
+      "experience": 10
+    },
+    {
+      "skill": "Solidworks",
+      "experience": 10
+    },
+    {
+      "skill": "Material Specification",
+      "experience": 10
+    },
+    {
+      "skill": "Manufacturing Processes",
+      "experience": 10
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support engineering aspects of production for lighting, furniture, packaging, and regulatory."
+    },
+    {
+      "duty": "Manage NPI projects and collaborate with internal teams, suppliers, and regulatory testing agencies."
+    },
+    {
+      "duty": "Create Solidworks assemblies and 2D/3D spec packages."
+    },
+    {
+      "duty": "Prepare, submit, and track regulatory approval of new product lines."
+    },
+    {
+      "duty": "Provide production support and guidance, and utilize PLM/ERP for REV control."
+    },
+    {
+      "duty": "Develop detailed Solidworks assemblies with 2D/3D spec packages."
+    },
+    {
+      "duty": "Support sales, customer service, purchasing, and production in all aspects of product knowledge."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Electrical Engineering (BSEE) or Mechanical Engineering (BSME) degree preferred"
+    }
+  ]
+}

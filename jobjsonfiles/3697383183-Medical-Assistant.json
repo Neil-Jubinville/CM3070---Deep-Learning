@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Medical History Recording",
+      "experience": 2
+    },
+    {
+      "skill": "Vital Signs Monitoring",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Procedure Assistance",
+      "experience": 2
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 2
+    },
+    {
+      "skill": "Electronic Health Record (EHR) Management",
+      "experience": 2
+    },
+    {
+      "skill": "Specimen Collection",
+      "experience": 2
+    },
+    {
+      "skill": "Phlebotomy",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Clinical Task Management",
+      "experience": 2
+    },
+    {
+      "skill": "HEDIS and ICD/CPT Coding",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform pre-visit planning based on patient visit type"
+    },
+    {
+      "duty": "Manage the provider\u2019s schedule to ensure efficient workflow"
+    },
+    {
+      "duty": "Obtain and record medical history and vital signs"
+    },
+    {
+      "duty": "Room patients and assist healthcare providers with medical procedures and treatments"
+    },
+    {
+      "duty": "Perform specimen collection and point of care testing"
+    },
+    {
+      "duty": "Prepare and administer medications under direction of healthcare providers"
+    },
+    {
+      "duty": "Ensure accurate documentation in the electronic health record (EHR) and electronic medical record (EMR) systems, including documentation of HEDIS and Stars quality measures"
+    },
+    {
+      "duty": "Maintain established quality control standards"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Medical Assistant diploma or certificate of completion from a Medical Assisting program"
+    },
+    {
+      "credential": "Current CPR certification"
+    }
+  ]
+}

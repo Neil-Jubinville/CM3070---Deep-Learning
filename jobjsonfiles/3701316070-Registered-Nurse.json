@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electronic Medical Record (EMR) Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Assessment and Monitoring",
+      "experience": 2
+    },
+    {
+      "skill": "Effective Problem-Solving",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 2
+    },
+    {
+      "skill": "Recovery Nurse Experience",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist physicians and other medical providers during SGB procedures and ketamine infusions."
+    },
+    {
+      "duty": "Assess and monitor patients' status pre and post-procedure."
+    },
+    {
+      "duty": "Provide a seamless and supportive experience to patients and their loved ones."
+    },
+    {
+      "duty": "Learn about innovative therapies such as IV ketamine."
+    },
+    {
+      "duty": "Contribute to continuous improvement and growth."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 30
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Active Registered Nurse (RN) license in good standing in New York State"
+    },
+    {
+      "credential": "Bachelor's degree in Nursing (Master's preferred)"
+    }
+  ]
+}

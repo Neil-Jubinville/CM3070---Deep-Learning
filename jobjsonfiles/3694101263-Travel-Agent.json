@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Travel Agent",
+      "job_category": "Travel",
+      "job_class": "Agent",
+      "sector": "Travel",
+      "salary": 45500,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Travel Booking",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Excel",
+      "experience": 3
+    },
+    {
+      "skill": "Fast-paced Environment",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Booking and managing travel arrangements for clients, including hotel, rental car, and excursions"
+    },
+    {
+      "duty": "Creating and coordinating all aspects of travel arrangements including, but not limited to, travel bookings, itineraries, and itinerary changes"
+    },
+    {
+      "duty": "Assisting with client travel packages"
+    },
+    {
+      "duty": "Managing client accounts in our Travel Booking System"
+    },
+    {
+      "duty": "Preparing weekly reports on travel activity by using Microsoft Excel or other Microsoft Word documents"
+    },
+    {
+      "duty": "Preparing airline tickets and boarding passes by using online booking sites"
+    },
+    {
+      "duty": "Other duties as assigned"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum of 3 years of professional experience working in a travel agency environment"
+    }
+  ]
+}

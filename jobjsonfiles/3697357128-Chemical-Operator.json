@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Chemical Operator",
+      "job_category": "Chemical Manufacturing",
+      "job_class": "Operator",
+      "sector": "Industrial",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Chemical Manufacturing",
+      "experience": 3
+    },
+    {
+      "skill": "Manufacturing Processes",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Package",
+      "experience": 2
+    },
+    {
+      "skill": "SAP",
+      "experience": 2
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate a station in a catalyst process unit and certify on multiple stations."
+    },
+    {
+      "duty": "Write end-of-shift report and participate in shift exchange and production meetings."
+    },
+    {
+      "duty": "Participate in safety processes, rapid problem solving, and continuous improvement activities."
+    },
+    {
+      "duty": "Ensure safety and follow all safety procedures in the immediate area."
+    },
+    {
+      "duty": "Follow work instructions and attend all necessary meetings."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 75,
+      "student_teacher": 20,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED. 1 year experience in a manufacturing/industrial or service industry environment. Bachelor's degree preferred."
+    }
+  ]
+}

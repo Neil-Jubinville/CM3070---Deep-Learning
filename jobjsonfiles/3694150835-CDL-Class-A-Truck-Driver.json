@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "CDL Class A Truck Driver",
+      "job_category": "Driver",
+      "job_class": "Truck Driver",
+      "sector": "Logistics",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CDL Class A",
+      "experience": 5
+    },
+    {
+      "skill": "Tractor-trailer Experience",
+      "experience": 5
+    },
+    {
+      "skill": "DOT Medical Card",
+      "experience": 5
+    },
+    {
+      "skill": "Driving Record",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Regulations",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Delivering products to customers"
+    },
+    {
+      "duty": "Operating and maintaining a late model, Penske Truck Leasing truck"
+    },
+    {
+      "duty": "Following federal and/or state laws, regulations, and/or agency rules, standards, and guidelines"
+    },
+    {
+      "duty": "Ensuring regular and predictable attendance and work schedule adherence"
+    },
+    {
+      "duty": "Completing Penske employment application, and undergoing background investigation and drug screening"
+    },
+    {
+      "duty": "Working in a constant state of alertness and in a safe manner"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "CDL Class A certification"
+    },
+    {
+      "credential": "Non-excepted interstate DOT medical card"
+    }
+  ]
+}

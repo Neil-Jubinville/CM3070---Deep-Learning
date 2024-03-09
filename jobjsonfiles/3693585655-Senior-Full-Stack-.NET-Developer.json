@@ -1,0 +1,106 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Full Stack .NET Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 125000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C#",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Full Stack Development",
+      "experience": 5
+    },
+    {
+      "skill": "Entity Framework",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "Angular",
+      "experience": 5
+    },
+    {
+      "skill": "React",
+      "experience": 5
+    },
+    {
+      "skill": "Message Queues (RabbitMQ)",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Server",
+      "experience": 5
+    },
+    {
+      "skill": "Elasticsearch",
+      "experience": 5
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 5
+    },
+    {
+      "skill": "REST API Development",
+      "experience": 5
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Integration Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop a security framework using REST API's and integrate it with existing applications."
+    },
+    {
+      "duty": "Adopt and promote the use of new API's and security framework within the development team."
+    },
+    {
+      "duty": "Work on product lines such as nominations, scheduling, measurement, distribution, accounting, and balances."
+    },
+    {
+      "duty": "Provide technical designs, development, testing, and implementation support for new solutions, features, and enhancements."
+    },
+    {
+      "duty": "Collaborate with the QA team to support test plans and execution."
+    },
+    {
+      "duty": "Troubleshoot, analyze, and resolve issues with existing business applications."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science degree from a 4-year accredited university, or 5 years of related industry experience or equivalent technical experience. Computer Science, Computer Information Systems (CIS), or Management Information Systems (MIS) degree is preferred."
+    }
+  ]
+}

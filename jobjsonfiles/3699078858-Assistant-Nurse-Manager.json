@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Nurse Manager",
+      "job_category": "Nursing",
+      "job_class": "Manager",
+      "sector": "Healthcare",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Standards",
+      "experience": 2
+    },
+    {
+      "skill": "Clinical Proficiency",
+      "experience": 2
+    },
+    {
+      "skill": "Rapid Decision Making",
+      "experience": 2
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 2
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide direct nursing care as well as unit leadership"
+    },
+    {
+      "duty": "Operational responsibility for the unit/department and for the quality of care delivered 24/7"
+    },
+    {
+      "duty": "Demonstrate respect, dignity, kindness, and empathy with all patients, families, visitors, and employees"
+    },
+    {
+      "duty": "Ability to direct self & others, aware of nursing standards, evidence-based practice, policies and procedures"
+    },
+    {
+      "duty": "Demonstrate clinical proficiency relevant to the area of responsibility, rapid decision making and critical thinking skills"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BSN (Bachelor of Science in Nursing)"
+    },
+    {
+      "credential": "Licensed to practice nursing in the State where work is performed"
+    }
+  ]
+}

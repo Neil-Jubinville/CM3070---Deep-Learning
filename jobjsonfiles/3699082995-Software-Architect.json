@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Architect",
+      "job_category": "Software Engineering",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Online Banking",
+      "experience": 5
+    },
+    {
+      "skill": "Retail Java",
+      "experience": 5
+    },
+    {
+      "skill": "Mulesoft API Gateway",
+      "experience": 5
+    },
+    {
+      "skill": "Fraud Protection",
+      "experience": 5
+    },
+    {
+      "skill": "System Design",
+      "experience": 5
+    },
+    {
+      "skill": "Product Requirement Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Component Design",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 5
+    },
+    {
+      "skill": "Optimization",
+      "experience": 5
+    },
+    {
+      "skill": "Proactive",
+      "experience": 5
+    },
+    {
+      "skill": "Sense of Urgency",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create system designs for online banking and retail Java applications, utilizing Mulesoft API Gateway for integration."
+    },
+    {
+      "duty": "Collaborate with Product Owners to understand future needs and requirements for fraud protection and system security."
+    },
+    {
+      "duty": "Document system designs, components, and libraries for reference and future development."
+    },
+    {
+      "duty": "Assist the QA team in restoring and optimizing system performance and functionality."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

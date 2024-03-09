@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Database Analyst",
+      "job_category": "IT",
+      "job_class": "Analyst",
+      "sector": "IT",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "SSMS",
+      "experience": 3
+    },
+    {
+      "skill": "Azure DevOps",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    },
+    {
+      "skill": "Relational Databases",
+      "experience": 5
+    },
+    {
+      "skill": "Data Verification",
+      "experience": 5
+    },
+    {
+      "skill": "Data Validation",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Requirements Gathering",
+      "experience": 5
+    },
+    {
+      "skill": "HIPAA Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Medicaid and Medicare Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Utilize SQL for data verification and validation to identify and resolve issues prior to User Acceptance Testing."
+    },
+    {
+      "duty": "Interact with business to gather detailed technical requirements and translate them for developers."
+    },
+    {
+      "duty": "Act as a liaison between the customer and developer."
+    },
+    {
+      "duty": "Manage project using Azure DevOps."
+    },
+    {
+      "duty": "Ensure HIPAA compliance as it relates to PHI and PII data."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "IT degree or equivalent experience in data analysis and/or system analysis."
+    }
+  ]
+}

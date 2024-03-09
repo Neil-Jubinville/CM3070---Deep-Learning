@@ -1,0 +1,102 @@
+{
+  "meta": [
+    {
+      "job_title": "Oracle Database Administrator",
+      "job_category": "IT",
+      "job_class": "Database Administrator",
+      "sector": "Information Technology",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Oracle Database Administration",
+      "experience": 10
+    },
+    {
+      "skill": "Linux Environment Support",
+      "experience": 10
+    },
+    {
+      "skill": "Apex/ORDS Administration",
+      "experience": 10
+    },
+    {
+      "skill": "PL/SQL",
+      "experience": 10
+    },
+    {
+      "skill": "Database Upgrade",
+      "experience": 10
+    },
+    {
+      "skill": "Performance Tuning",
+      "experience": 10
+    },
+    {
+      "skill": "Data Guard",
+      "experience": 10
+    },
+    {
+      "skill": "Scripting",
+      "experience": 10
+    },
+    {
+      "skill": "RMAN",
+      "experience": 10
+    },
+    {
+      "skill": "Oracle Enterprise Manager",
+      "experience": 10
+    },
+    {
+      "skill": "SQL Loader/Data Pump",
+      "experience": 10
+    },
+    {
+      "skill": "Oracle Fusion Middleware",
+      "experience": 10
+    },
+    {
+      "skill": "WebLogic",
+      "experience": 10
+    },
+    {
+      "skill": "AWS RDS",
+      "experience": 10
+    },
+    {
+      "skill": "Database Reorganization",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage Oracle 19c environments including PL/SQL, OEM, RMAN, and Data Guard"
+    },
+    {
+      "duty": "Administer and support Apex/ORDS 19 or higher and Linux system administration for Oracle databases and application servers"
+    },
+    {
+      "duty": "Scripting, job scheduling, and database upgrade and patching using OEM Provisioning Tool"
+    },
+    {
+      "duty": "Expertise with database performance tuning, character set migration, and managing databases with multi-tenant architecture"
+    },
+    {
+      "duty": "Proficiency in managing large databases in Cloud environments, specifically RDS, EC2, ELB, S3 in AWS"
+    },
+    {
+      "duty": "Configuration and management of Oracle Fusion Middleware, WebLogic, and Apache, as well as setting up WebLogic on Linux, configuring mod pl/SQL, ORDS, and Apex Administration 5.0 or higher"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 255,
+      "student_teacher": 0,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Executive Assistant",
+      "job_category": "Administration",
+      "job_class": "Assistant",
+      "sector": "Administration",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Document Drafting",
+      "experience": 5
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide administrative support to the Chief's front office, including managing schedules, arranging meetings, and handling correspondence."
+    },
+    {
+      "duty": "Work extensively on the computer for email communication, accessing software platforms, drafting documents, and data entry."
+    },
+    {
+      "duty": "Attend to visitors and deal with inquiries, handle incoming mail, and other administrative tasks."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 90,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Office Management, or related field"
+    }
+  ]
+}

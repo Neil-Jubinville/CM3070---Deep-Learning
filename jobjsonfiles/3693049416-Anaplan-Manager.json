@@ -1,0 +1,100 @@
+{
+  "meta": [
+    {
+      "job_title": "Anaplan Manager",
+      "job_category": "IT",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 125000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Anaplan Support",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "IT Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead, manage, and mentor a team of Anaplan support professionals, ensuring that team members have the skills, knowledge, and resources they need to effectively support our Anaplan applications."
+    },
+    {
+      "duty": "Work closely with business stakeholders, system owners, and IT teams to ensure that our Anaplan applications meet the needs of the business and are aligned with our overall technology strategy."
+    },
+    {
+      "duty": "Manage the day-to-day operations of the Anaplan support team, ensuring that incidents and requests are addressed promptly and that service level agreements are met or exceeded."
+    },
+    {
+      "duty": "Analyze support tickets and incidents to identify trends and underlying issues, and work with the Anaplan development team to resolve root causes."
+    },
+    {
+      "duty": "Monitor and report on Anaplan application performance and availability, identifying and addressing issues before they impact users."
+    },
+    {
+      "duty": "Manage the release process for Anaplan applications, ensuring that changes are tested, approved, and deployed in a timely and coordinated manner."
+    },
+    {
+      "duty": "Stay up-to-date with the latest Anaplan features and best practices, and incorporate them into our support processes as appropriate."
+    },
+    {
+      "duty": "Participate in the planning and execution of Anaplan projects, providing guidance on supportability, scalability, and other operational considerations."
+    },
+    {
+      "duty": "Lead and own release of applications to production ensuring post-production release performance as per specifications and SLAs. Maintain continuous stability and availability of applications with monitoring and performance tracking of key KPIs as defined by the application / business stakeholders."
+    },
+    {
+      "duty": "Develop solid architectural understanding of Planning systems from source to end-user GUIs. Ability to effectively engage with various teams within IT, Finance, Manufacturing, Planning, and IBP organization to drive purposeful discussions related to performance of key IBP enabling systems like Anaplan and associated end-to-end performance and reconciliation between Blue Yonder, Snowflake, and various PowerBI reporting systems."
+    },
+    {
+      "duty": "Coordinate the release schedule and resources required depending upon the third-party applications, defect backlogs, planned releases, and infrastructure updates. Track and own development of release components including the placement of purchase orders for components sourced from vendors; plan that all release components are ready for validation and testing."
+    },
+    {
+      "duty": "Identify the risks to release schedule and manage scope and quality of the release is not affected."
+    },
+    {
+      "duty": "Schedule the release readiness reviews before deployment and milestone reviews after each release. Communicate with release managers from different IT departments."
+    },
+    {
+      "duty": "Ensure Release Engineers are assigned to every release. Own the scope definition and content of releases according to release management policies, assign authorized changes into release packages and drive a schedule for building, testing, and deploying the release."
+    },
+    {
+      "duty": "Work with relevant development teams responsible for building the automation tools used to develop and deploy the software."
+    },
+    {
+      "duty": "Communicate plan to formally close release activities, verifying all documents and records are properly updated and reporting release outcomes and feedback to project teams."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Systems, or related field. (Master's preferred)"
+    }
+  ]
+}

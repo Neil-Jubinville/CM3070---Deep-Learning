@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Sanitation Worker",
+      "job_category": "Sanitation",
+      "job_class": "Worker",
+      "sector": "Sanitation",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sanitation",
+      "experience": 2
+    },
+    {
+      "skill": "Trash Management",
+      "experience": 3
+    },
+    {
+      "skill": "Cleaning",
+      "experience": 3
+    },
+    {
+      "skill": "Health and Safety Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Forklift Operation",
+      "experience": 3
+    },
+    {
+      "skill": "High Dust Environment Work",
+      "experience": 2
+    },
+    {
+      "skill": "Ladder and Platform Climbing",
+      "experience": 2
+    },
+    {
+      "skill": "Physical Strength",
+      "experience": 3
+    },
+    {
+      "skill": "Hearing and Response",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Empty dumpsters, trash cans, and pick up cardboard in all areas."
+    },
+    {
+      "duty": "Check and restock soap, paper towels, and toilet paper in restrooms and wash areas."
+    },
+    {
+      "duty": "Clean up water leaks and assist with oil leak clean up."
+    },
+    {
+      "duty": "Work in excess of 8 hours per day and/or up to 7 days per week if required."
+    },
+    {
+      "duty": "Enforce company safety, environment and Department of Health requirements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 40,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma / GED equivalent."
+    }
+  ]
+}

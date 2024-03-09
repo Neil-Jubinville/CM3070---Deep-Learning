@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "MedSurg RN",
+      "job_category": "Healthcare",
+      "job_class": "RN",
+      "sector": "Medical",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Equipment Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Healthcare Regulations",
+      "experience": 3
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 3
+    },
+    {
+      "skill": "Compassion",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide direct patient care in a medical-surgical environment, ensuring the delivery of high-quality and compassionate care."
+    },
+    {
+      "duty": "Utilize critical thinking and problem-solving skills to assess and intervene in emergency medical situations."
+    },
+    {
+      "duty": "Operate medical equipment and monitor patient conditions, ensuring accurate and timely responses to changes in health status."
+    },
+    {
+      "duty": "Adhere to healthcare regulations and best practices, maintaining compliance with patient safety and quality standards."
+    },
+    {
+      "duty": "Demonstrate compassion and empathy in patient interactions, offering emotional support and comfort during difficult times."
+    },
+    {
+      "duty": "Manage time effectively, prioritizing patient care tasks and maintaining efficient workflow in a fast-paced healthcare setting."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (Master's preferred)"
+    }
+  ]
+}

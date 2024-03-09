@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Distinguished Engineer",
+      "job_category": "Engineering",
+      "job_class": "Technical",
+      "sector": "Software Engineering",
+      "salary": 800000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Strategy",
+      "experience": 10
+    },
+    {
+      "skill": "Architecture Design",
+      "experience": 10
+    },
+    {
+      "skill": "Cloud Technologies",
+      "experience": 10
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Product Roadmapping",
+      "experience": 10
+    },
+    {
+      "skill": "Process Improvement",
+      "experience": 10
+    },
+    {
+      "skill": "Coaching",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Define and scope out product specs for technology evaluation and product roadmaps."
+    },
+    {
+      "duty": "Design simplified product architecture through the most important technical decisions that define a product and its features for the next 5 to 10 years."
+    },
+    {
+      "duty": "Dive deep on emerging cloud technologies and their applicability to the product portfolio."
+    },
+    {
+      "duty": "Work on the most difficult product architecture issues and work reviews."
+    },
+    {
+      "duty": "Design process improvements for how technical product and engineering teams operate."
+    },
+    {
+      "duty": "Lead and coach the team, setting the quality bar for the work performed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "University degree in an Engineering field"
+    }
+  ]
+}

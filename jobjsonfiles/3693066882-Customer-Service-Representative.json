@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Representative",
+      "job_category": "Customer Service",
+      "job_class": "Representative",
+      "sector": "Banking",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Team Player",
+      "experience": 3
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Products Knowledge",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide exceptional customer service and build professional relationships with customers."
+    },
+    {
+      "duty": "Identify referral opportunities and engage customers in meaningful conversations to understand their financial needs."
+    },
+    {
+      "duty": "Resolve customer concerns in a timely and professional manner, escalating issues when necessary."
+    },
+    {
+      "duty": "Facilitate account transactions accurately and efficiently, while adhering to bank policy and procedures."
+    },
+    {
+      "duty": "Maintain good punctuality, attendance, and participate in continuous learning and training."
+    },
+    {
+      "duty": "Open new accounts as needed and recommend suitable products and services to meet customer needs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent required; bachelor degree preferred. Knowledge of and experience with bank products, online banking, mobile banking applications, banking cards, etc. preferred."
+    }
+  ]
+}

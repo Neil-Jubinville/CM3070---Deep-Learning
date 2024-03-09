@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "IAM Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CA Siteminder",
+      "experience": 5
+    },
+    {
+      "skill": "CA Federation",
+      "experience": 5
+    },
+    {
+      "skill": "Directory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Linux",
+      "experience": 7
+    },
+    {
+      "skill": "Multi-factor Authentication",
+      "experience": 7
+    },
+    {
+      "skill": "OAuth",
+      "experience": 7
+    },
+    {
+      "skill": "OpenID Connect",
+      "experience": 7
+    },
+    {
+      "skill": "SAML",
+      "experience": 7
+    },
+    {
+      "skill": "SSO",
+      "experience": 7
+    },
+    {
+      "skill": "Federated Authentication",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement and maintain CA Siteminder, CA Federation, and directory services for secure access management."
+    },
+    {
+      "duty": "Utilize expertise in Linux to manage and maintain secure authentication systems."
+    },
+    {
+      "duty": "Develop, implement, and maintain multi-factor authentication, OAuth, OpenID Connect, SAML, SSO, and federated authentication solutions."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to ensure seamless integration and security compliance."
+    },
+    {
+      "duty": "Provide technical support and troubleshooting for authentication-related issues."
+    },
+    {
+      "duty": "Document and communicate authentication systems, processes, and best practices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

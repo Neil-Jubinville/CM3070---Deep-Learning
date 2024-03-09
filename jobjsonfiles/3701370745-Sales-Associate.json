@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 16,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Brand Representation",
+      "experience": 2
+    },
+    {
+      "skill": "Styling and Fit Advice",
+      "experience": 2
+    },
+    {
+      "skill": "Cashiering",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide exceptional customer service, including welcoming customers, representing the CT brand, offering styling and fit advice, providing tailoring and custom support, processing sales, and handling shipment and restocking."
+    },
+    {
+      "duty": "Connect with customers, deliver excellent customer experience, and offer advice on current trends."
+    },
+    {
+      "duty": "Attend training to understand the brand and its products."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

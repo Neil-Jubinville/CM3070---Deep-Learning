@@ -1,0 +1,149 @@
+{
+  "meta": [
+    {
+      "job_title": "Network Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Network Infrastructure",
+      "experience": 5
+    },
+    {
+      "skill": "System Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Azure",
+      "experience": 3
+    },
+    {
+      "skill": "VMWare",
+      "experience": 3
+    },
+    {
+      "skill": "Disaster Recovery",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft 365",
+      "experience": 5
+    },
+    {
+      "skill": "CCNA Certification",
+      "experience": 5
+    },
+    {
+      "skill": "CCNP Certification",
+      "experience": 5
+    },
+    {
+      "skill": "VMware Infrastructure Management",
+      "experience": 3
+    },
+    {
+      "skill": "Fortinet Firewalls",
+      "experience": 3
+    },
+    {
+      "skill": "Aruba Wireless Access",
+      "experience": 3
+    },
+    {
+      "skill": "DHCP",
+      "experience": 3
+    },
+    {
+      "skill": "DNS",
+      "experience": 3
+    },
+    {
+      "skill": "Active Directory",
+      "experience": 3
+    },
+    {
+      "skill": "Cisco Routers and Switches",
+      "experience": 5
+    },
+    {
+      "skill": "Data Center Server Hardware Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Storage Equipment Provisioning",
+      "experience": 3
+    },
+    {
+      "skill": "Windows Networking Environment",
+      "experience": 5
+    },
+    {
+      "skill": "Group Policy Objects Design",
+      "experience": 5
+    },
+    {
+      "skill": "VMware Environment Management",
+      "experience": 3
+    },
+    {
+      "skill": "Tier 3 Service Desk Support",
+      "experience": 5
+    },
+    {
+      "skill": "System Backups",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Install, configure, and maintain organizational network including Cisco switches and routers."
+    },
+    {
+      "duty": "Familiar with Fortinet firewalls, routing, tunnels, etc."
+    },
+    {
+      "duty": "Familiar with Aruba Wireless Access \u2013 Aruba Central."
+    },
+    {
+      "duty": "Manages Windows networking environment, DHCP, DNS, and Active Directory domain controllers."
+    },
+    {
+      "duty": "Creates and designs group policy objects that adhere to company standards and ensures group memberships are mapped to authorized personnel."
+    },
+    {
+      "duty": "Provides systems administration for data center server hardware and storage equipment provisioning."
+    },
+    {
+      "duty": "Configures and manages the VMware infrastructure server assets, virtual machine performance, host resource management, and the overall environment."
+    },
+    {
+      "duty": "Assists with Tier 3 service desk support cases for all company resources, including break/fix support and application upgrades."
+    },
+    {
+      "duty": "Perform system backups."
+    },
+    {
+      "duty": "Other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS in Information Systems or High School Diploma with current certifications in Microsoft Engineering disciplines."
+    },
+    {
+      "credential": "Preferred Certifications: CCNA or CCNP, Microsoft MCSE"
+    }
+  ]
+}

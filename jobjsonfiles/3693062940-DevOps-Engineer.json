@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "DevOps Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, manage and maintain tools to automate engineering operations"
+    },
+    {
+      "duty": "Design, build, implement and support CI/CD framework"
+    },
+    {
+      "duty": "Build highly scalable and available distributed systems on cloud based platform"
+    },
+    {
+      "duty": "Own and drive initiatives spanning multiple teams to automate engineering operations"
+    },
+    {
+      "duty": "Develop tools and automation to make platform operations more efficient, reliable and reproducible"
+    },
+    {
+      "duty": "Build monitoring, supervision and resiliency mechanisms to observe, react to, and maintain platform health and performance"
+    },
+    {
+      "duty": "Manage, review and strengthen physical and logical security of the platforms systems, data and access points"
+    },
+    {
+      "duty": "Perform deployments, upgrades, configurations in a controlled, pre-production and production environment with tight operating perimeters"
+    },
+    {
+      "duty": "Develop and support processes to maintain uptime, SLAs and availability of critical platform components and Web/eCommerce properties"
+    },
+    {
+      "duty": "Member of the 24x7x365 on-call support team"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Linux/Unix Administration",
+      "experience": 4
+    },
+    {
+      "skill": "Operations and DevOps on the AWS technology stack",
+      "experience": 4
+    },
+    {
+      "skill": "Automation/Configuration Management (Chef, Puppet)",
+      "experience": 4
+    },
+    {
+      "skill": "CI/CD Tools (Jenkins, Artifactory, GIT)",
+      "experience": 4
+    },
+    {
+      "skill": "APM Tools (Dynatrace, NewRelic, AppDynamics)",
+      "experience": 4
+    },
+    {
+      "skill": "Log Analysis and Monitoring Tools (CloudWatch, Splunk, Nagios)",
+      "experience": 4
+    },
+    {
+      "skill": "Coding and Scripting (PHP, Python, Perl, Ruby)",
+      "experience": 4
+    },
+    {
+      "skill": "MySQL",
+      "experience": 4
+    },
+    {
+      "skill": "Open Source Technologies and Cloud Services",
+      "experience": 4
+    },
+    {
+      "skill": "Always-up, always-available service operations",
+      "experience": 4
+    },
+    {
+      "skill": "Excellent communication and collaboration skills",
+      "experience": 4
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related fields"
+    }
+  ]
+}

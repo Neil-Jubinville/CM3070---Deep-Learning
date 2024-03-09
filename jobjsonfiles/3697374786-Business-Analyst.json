@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Analyst",
+      "job_category": "Business Analysis",
+      "job_class": "Analyst",
+      "sector": "Business",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Business Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Excel",
+      "experience": 5
+    },
+    {
+      "skill": "Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Capture business requirements and support business end-users in explaining system functionality."
+    },
+    {
+      "duty": "Work collaboratively with geographically distributed teams."
+    },
+    {
+      "duty": "Have prior experience working as part of the custom software development cycle."
+    },
+    {
+      "duty": "Strong experience with Excel functionality (Functions, formulas, lookups, Index etc) required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

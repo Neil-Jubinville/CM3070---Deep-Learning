@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Vehicle Painter",
+      "job_category": "Skilled Labor",
+      "job_class": "Technician",
+      "sector": "Automotive",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Vehicle Paint Process",
+      "experience": 3
+    },
+    {
+      "skill": "I-CAR Certifications",
+      "experience": 3
+    },
+    {
+      "skill": "Body Filling",
+      "experience": 3
+    },
+    {
+      "skill": "Vehicle Disassembly",
+      "experience": 3
+    },
+    {
+      "skill": "Buffing and Waxing",
+      "experience": 3
+    },
+    {
+      "skill": "Cleaning and Maintenance",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Remove grease, dirt, paint, or rust from vehicle surfaces using abrasives, solvents, brushes, blowtorches, washing tanks, or sandblasters."
+    },
+    {
+      "duty": "Assist painter in pre-paint blending needs."
+    },
+    {
+      "duty": "Work with paint team to keep vehicle on track for scheduled delivery time."
+    },
+    {
+      "duty": "Fill small dents or scratches with body fillers and smooth surfaces to prepare vehicles for painting."
+    },
+    {
+      "duty": "Buff and wax the finished paintwork."
+    },
+    {
+      "duty": "Disassemble, clean, and reassemble sprayers and power equipment using solvents, wire brushes, and cloths for cleaning duties."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Prior experience in vehicle paint process."
+    },
+    {
+      "credential": "I-CAR Certifications preferred."
+    }
+  ]
+}

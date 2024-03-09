@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Legal Assistant",
+      "job_category": "Legal",
+      "job_class": "Assistant",
+      "sector": "Legal",
+      "salary": 65000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Legal Administrative Support",
+      "experience": 5
+    },
+    {
+      "skill": "MS Office",
+      "experience": 5
+    },
+    {
+      "skill": "Legal Research",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Oral Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Client Service",
+      "experience": 5
+    },
+    {
+      "skill": "Expense Management",
+      "experience": 5
+    },
+    {
+      "skill": "Travel Coordination",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide and coordinate legal administrative support for attorneys and clients."
+    },
+    {
+      "duty": "Prepare and edit documents, spreadsheets, and legal research."
+    },
+    {
+      "duty": "Generate and update Tables of Authorities and Tables of Contents."
+    },
+    {
+      "duty": "Prepare vendor invoices, expense reimbursements, and conduct legal research."
+    },
+    {
+      "duty": "Coordinate travel arrangements, prepare itineraries, and prepare travel expense reports."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100
+    },
+    {
+      "student_teacher": 80
+    },
+    {
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Legal Studies, Paralegal Certification, or related field"
+    }
+  ]
+}

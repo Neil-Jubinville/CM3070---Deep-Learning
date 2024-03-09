@@ -1,0 +1,130 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 10
+    },
+    {
+      "skill": "Data Integration",
+      "experience": 8
+    },
+    {
+      "skill": "ETL Processes",
+      "experience": 8
+    },
+    {
+      "skill": "Data Mapping",
+      "experience": 8
+    },
+    {
+      "skill": "Data Transformation",
+      "experience": 8
+    },
+    {
+      "skill": "Technical Expertise",
+      "experience": 8
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 10
+    },
+    {
+      "skill": "Scrum",
+      "experience": 10
+    },
+    {
+      "skill": "JIRA",
+      "experience": 10
+    },
+    {
+      "skill": "Microsoft Project",
+      "experience": 10
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Leadership",
+      "experience": 10
+    },
+    {
+      "skill": "Database Technologies",
+      "experience": 8
+    },
+    {
+      "skill": "Data Warehouses",
+      "experience": 8
+    },
+    {
+      "skill": "Cloud Platforms",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead end-to-end project management for data integration initiatives, from project initiation to successful completion, ensuring that project objectives are met within scope, budget, and schedule constraints."
+    },
+    {
+      "duty": "Work closely with stakeholders, including business units, data engineers, data scientists, and IT teams, to gather requirements, define project scope, and translate business needs into technical solutions."
+    },
+    {
+      "duty": "Develop comprehensive project plans, timelines, and resource allocation strategies, tracking progress and adjusting plans as needed to ensure project success."
+    },
+    {
+      "duty": "Define clear project objectives, requirements, and success criteria, aligning them with business goals and technical capabilities."
+    },
+    {
+      "duty": "Coordinate cross-functional teams to design, develop, test, and deploy data integration solutions, overseeing the execution of tasks and resolving any roadblocks or issues that arise during the project lifecycle."
+    },
+    {
+      "duty": "Manage project risks and issues, proactively identifying potential challenges and proposing mitigation strategies to ensure project delivery remains on track."
+    },
+    {
+      "duty": "Foster effective communication and collaboration among team members and stakeholders through regular project status updates, meetings, and documentation."
+    },
+    {
+      "duty": "Ensure data quality and accuracy by implementing best practices in data governance, data mapping, transformation, and validation processes."
+    },
+    {
+      "duty": "Continuously assess and improve data integration processes and methodologies, identifying opportunities for optimization and automation."
+    },
+    {
+      "duty": "Monitor project budget and expenses, making sure that resources are allocated efficiently and project costs are within budgetary limits."
+    },
+    {
+      "duty": "Provide leadership and mentorship to team members, fostering a culture of learning, innovation, and accountability."
+    },
+    {
+      "duty": "Stay up-to-date with industry trends, emerging technologies, and best practices in data integration and project management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field; Master's degree is a plus."
+    },
+    {
+      "credential": "Project management certification (PMP, PMI-ACP) and relevant technical certifications are desirable."
+    },
+    {
+      "credential": "Experience in industries such as finance, healthcare, e-commerce, or technology is advantageous."
+    }
+  ]
+}

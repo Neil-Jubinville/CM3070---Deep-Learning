@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 50000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Client Acquisition",
+      "experience": 3
+    },
+    {
+      "skill": "Sales Presentation",
+      "experience": 3
+    },
+    {
+      "skill": "Client Management",
+      "experience": 3
+    },
+    {
+      "skill": "Market Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Sales Reporting",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "CRM Software",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Identify, approach, and secure new business opportunities across various sectors."
+    },
+    {
+      "duty": "Deliver compelling presentations to prospective clients, showcasing the unique value propositions of our product range."
+    },
+    {
+      "duty": "Nurture relationships with existing clients ensuring consistent service and identifying upselling opportunities."
+    },
+    {
+      "duty": "Stay informed of industry trends, competitor products, and market conditions.Provide feedback to the product and marketing teams."
+    },
+    {
+      "duty": "Maintain accurate records of sales, leads, and client feedback.Regularly update the sales CRM and provide periodic sales reports to the management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Proven sales experience, preferably in the health or wellness industry."
+    }
+  ]
+}

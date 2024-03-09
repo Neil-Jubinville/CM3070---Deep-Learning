@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Veterinary Technician",
+      "job_category": "Veterinary",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Anesthesia Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Client Education",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Record Keeping",
+      "experience": 5
+    },
+    {
+      "skill": "Animal Care",
+      "experience": 5
+    },
+    {
+      "skill": "Veterinary Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assisting veterinarians with examinations, administering medications, and treatments as directed by veterinarians"
+    },
+    {
+      "duty": "Educating clients on proper animal care and post-procedure instructions"
+    },
+    {
+      "duty": "Monitoring anesthesia and patient recovery"
+    },
+    {
+      "duty": "Maintaining accurate medical records and documentation"
+    },
+    {
+      "duty": "Providing exceptional patient care and comfort"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Licensed Veterinary Technician in the state of Virginia with a minimum of two years experience"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Restaurant Manager",
+      "job_category": "Hospitality",
+      "job_class": "Manager",
+      "sector": "Hospitality",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service Management",
+      "experience": 5
+    },
+    {
+      "skill": "Staff Training",
+      "experience": 5
+    },
+    {
+      "skill": "P&L Management",
+      "experience": 5
+    },
+    {
+      "skill": "Restaurant Operations",
+      "experience": 5
+    },
+    {
+      "skill": "Sales & Marketing",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Business Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build, train, and lead a strong team"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Hospitality Management, Business, or a related field (Master's preferred)"
+    }
+  ]
+}

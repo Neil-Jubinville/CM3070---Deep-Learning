@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Employee",
+      "job_category": "General Labor",
+      "job_class": "Entry Level",
+      "sector": "Warehouse",
+      "salary": 34560,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Stamina",
+      "experience": 1
+    },
+    {
+      "skill": "Package Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Time Management",
+      "experience": 1
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 1
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 1
+    },
+    {
+      "skill": "Flexibility",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Loading, unloading, and sorting packages of various sizes in a fast-paced warehouse environment."
+    },
+    {
+      "duty": "Working one shift a day for part-time employees and two shifts for full-time employees."
+    },
+    {
+      "duty": "Maintaining flexibility in shift lengths based on package volume and potential overtime."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

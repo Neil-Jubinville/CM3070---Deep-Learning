@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Receptionist",
+      "job_category": "Healthcare",
+      "job_class": "Receptionist",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Receptionist Experience",
+      "experience": 1
+    },
+    {
+      "skill": "Bilingual (English/Spanish)",
+      "experience": 1
+    },
+    {
+      "skill": "MS Outlook",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Computer Knowledge",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Team player",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate a switchboard or multi-line phone and maintain long-distance call logs"
+    },
+    {
+      "duty": "Take and distribute accurate messages and greet visitors"
+    },
+    {
+      "duty": "Respond to routine inquiries from internal or external sources"
+    },
+    {
+      "duty": "Perform miscellaneous administrative activities such as booking meeting rooms, typing, organizing and distributing mail, and receiving and sending courier packages"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bilingual (English/Spanish) proficiency"
+    }
+  ]
+}

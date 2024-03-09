@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Backend Engineer",
+      "job_category": "Software Development",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 135000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Go",
+      "experience": 4
+    },
+    {
+      "skill": "Backend Development",
+      "experience": 5
+    },
+    {
+      "skill": "API Design",
+      "experience": 5
+    },
+    {
+      "skill": "System Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Database Management",
+      "experience": 5
+    },
+    {
+      "skill": "Mentorship",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Project Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with internal and external partners to develop the core systems and create APIs that power our best-in-class user experiences."
+    },
+    {
+      "duty": "Build out internal tooling and APIs to make business and engineering processes easier, faster, and safer."
+    },
+    {
+      "duty": "Implement systemic changes to align existing systems with current architectural goals."
+    },
+    {
+      "duty": "Integrate with external services to manage payments, documents, and claims."
+    },
+    {
+      "duty": "Integrate with data providers to source real-time information on hundreds of data points, including property characteristics and risk profiles."
+    },
+    {
+      "duty": "Provide subject matter expertise, mentorship, and support to individuals on your team."
+    },
+    {
+      "duty": "Collaborate on architectural discussions with your team."
+    },
+    {
+      "duty": "Contribute to important architectural and operational decisions like microservices vs. monoliths, deployment techniques, technologies, policies, etc."
+    },
+    {
+      "duty": "Participate in daily stand-ups, weekly 1:1's, and biweekly retros."
+    },
+    {
+      "duty": "If you don't think you meet all of the criteria below but still are interested in the job, please apply. Nobody checks every box, and we're looking for someone excited to join the team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

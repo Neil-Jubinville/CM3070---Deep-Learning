@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Head of Manufacturing",
+      "job_category": "Pharmaceuticals",
+      "job_class": "Head",
+      "sector": "Manufacturing",
+      "salary": 180000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Product Development",
+      "experience": 5
+    },
+    {
+      "skill": "Manufacturing Management",
+      "experience": 5
+    },
+    {
+      "skill": "Process Development",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 5
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage development and manufacturing of sterile and non-sterile pharmaceutical products for small molecules and biological therapy entities."
+    },
+    {
+      "duty": "Oversee activities at manufacturing facilities from pre-IND to late-stage manufacturing and product validation."
+    },
+    {
+      "duty": "Plan and execute development/manufacturing strategies to support human clinical supply."
+    },
+    {
+      "duty": "Provide leadership for process development/scale-up/validation/transfer activities at internal and external sites."
+    },
+    {
+      "duty": "Coordinate new drug product in-process and release testing, and develop appropriate process flow and control strategy for manufacturing."
+    },
+    {
+      "duty": "Present results and progress of development and manufacturing programs to internal and external clients."
+    },
+    {
+      "duty": "Prepare and review documents related to development and GMP operations to support regulatory filings."
+    },
+    {
+      "duty": "Work collaboratively with Quality Assurance to ensure cGMP compliant."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS/MS/PhD in Pharmaceutical Sciences, Chemistry, Microbiology, Chemical/Biomedical Engineering, Materials Science or other related discipline required."
+    },
+    {
+      "credential": "5-year plus working knowledge of FDA/ICH/EMA guidelines and cGMPs, familiar with requirements for IND, NDA, and BLA submissions and experience with IND/BLA/MAA documentation."
+    },
+    {
+      "credential": "Understanding principles of Quality by Design (QbD) and Design of Experiment (DoE) for optimization of drug product formulation and/or manufacturing process."
+    }
+  ]
+}

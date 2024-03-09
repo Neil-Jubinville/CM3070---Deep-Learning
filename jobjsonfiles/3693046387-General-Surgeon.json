@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "General Surgeon",
+      "job_category": "Healthcare",
+      "job_class": "Surgeon",
+      "sector": "Medicine",
+      "salary": 350000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "General Surgery",
+      "experience": 5
+    },
+    {
+      "skill": "Cesarean Sections",
+      "experience": 5
+    },
+    {
+      "skill": "Trauma Surgery",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Care",
+      "experience": 5
+    },
+    {
+      "skill": "Pediatric Surgery",
+      "experience": 5
+    },
+    {
+      "skill": "Endoscopy",
+      "experience": 5
+    },
+    {
+      "skill": "Laparoscopic Techniques",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Consultation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform general surgical procedures and consultations in a clinic-based setting"
+    },
+    {
+      "duty": "Specialize in cesarean sections and trauma surgery, with advanced laparoscopic techniques if trained"
+    },
+    {
+      "duty": "Provide endoscopy services as part of the surgical practice"
+    },
+    {
+      "duty": "Manage patient consultations and surgical procedures for pediatric and adult patients"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150
+    },
+    {
+      "student_teacher": 80
+    },
+    {
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Board-certified/board-eligible in General Surgery"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Aviation Accessory Technician",
+      "job_category": "Aviation",
+      "job_class": "Technician",
+      "sector": "Aviation",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Aviation Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Mechanical Aptitude",
+      "experience": 4
+    },
+    {
+      "skill": "Technical Data Interpretation",
+      "experience": 3
+    },
+    {
+      "skill": "Hand and Specialty Tool Utilization",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform maintenance and alteration tasks on civil aviation articles in accordance with technical data provided."
+    },
+    {
+      "duty": "Assemble and test fuel controls, governors, and fuel, oil, and air accessories."
+    },
+    {
+      "duty": "Utilize hand and specialty tools for precision measurements."
+    },
+    {
+      "duty": "Read and interpret technical data and drawings."
+    },
+    {
+      "duty": "Operate test equipment to ensure component function test passes."
+    },
+    {
+      "duty": "Verify components are tested to appropriate specifications for airworthiness."
+    },
+    {
+      "duty": "Troubleshoot and determine root cause of component failures."
+    },
+    {
+      "duty": "Generate data plates for components using a laser system."
+    },
+    {
+      "duty": "Document maintenance records of repair work orders performed."
+    },
+    {
+      "duty": "Maintain an orderly and productive work environment."
+    },
+    {
+      "duty": "Ability to function in a fast-paced environment while maintaining high quality."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High mechanical aptitude required. 1-4 years of aviation accessory experience required."
+    }
+  ]
+}

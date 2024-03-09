@@ -1,0 +1,93 @@
+{
+  "meta": [
+    {
+      "job_title": "Android Developer",
+      "job_category": "Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Kotlin",
+      "experience": 3
+    },
+    {
+      "skill": "Android Framework",
+      "experience": 3
+    },
+    {
+      "skill": "Android Studio IDE",
+      "experience": 3
+    },
+    {
+      "skill": "MVVM Architecture",
+      "experience": 3
+    },
+    {
+      "skill": "Network Calls",
+      "experience": 3
+    },
+    {
+      "skill": "Rest calls",
+      "experience": 3
+    },
+    {
+      "skill": "Retrofit",
+      "experience": 3
+    },
+    {
+      "skill": "Live Data",
+      "experience": 3
+    },
+    {
+      "skill": "Flow",
+      "experience": 3
+    },
+    {
+      "skill": "Coroutines",
+      "experience": 3
+    },
+    {
+      "skill": "Unit test case using JUnit",
+      "experience": 3
+    },
+    {
+      "skill": "Mockito",
+      "experience": 3
+    },
+    {
+      "skill": "Rx Java",
+      "experience": 3
+    },
+    {
+      "skill": "Rx Android",
+      "experience": 3
+    },
+    {
+      "skill": "Jetpack libraries",
+      "experience": 3
+    },
+    {
+      "skill": "VCS- GIT",
+      "experience": 3
+    },
+    {
+      "skill": "GitLab",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Hands-on coding for Android applications, with a focus on debugging and troubleshooting production issues."
+    },
+    {
+      "duty": "Refactor existing code base and lead onshore development activities."
+    },
+    {
+      "duty": "Collaborate with third-party applications/teams for seamless integration and functionality."
+    }
+  ]
+}

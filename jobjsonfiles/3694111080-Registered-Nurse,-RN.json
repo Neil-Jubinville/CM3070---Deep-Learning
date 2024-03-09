@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse, RN",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Dialysis Care",
+      "experience": 3
+    },
+    {
+      "skill": "Relationship Building",
+      "experience": 5
+    },
+    {
+      "skill": "Chronic Kidney Disease Management",
+      "experience": 3
+    },
+    {
+      "skill": "Nursing License",
+      "experience": 5
+    },
+    {
+      "skill": "Compassion",
+      "experience": 5
+    },
+    {
+      "skill": "Empathy",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide high quality patient care to patients with End Stage Renal Disease (ESRD)"
+    },
+    {
+      "duty": "Build relationships and bonds with patients and their families"
+    },
+    {
+      "duty": "Preferably have experience in dialysis care"
+    },
+    {
+      "duty": "Graduated from an accredited school of nursing"
+    },
+    {
+      "duty": "Required to have a current state nursing license"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduation from an accredited school of nursing with current state nursing license"
+    }
+  ]
+}

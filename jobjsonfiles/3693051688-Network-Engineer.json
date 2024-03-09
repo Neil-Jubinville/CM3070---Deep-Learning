@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Network Engineer",
+      "job_category": "IT",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Vendor Management",
+      "experience": 5
+    },
+    {
+      "skill": "Network Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Palo Alto",
+      "experience": 5
+    },
+    {
+      "skill": "Cisco",
+      "experience": 5
+    },
+    {
+      "skill": "Fortinet",
+      "experience": 5
+    },
+    {
+      "skill": "Meraki",
+      "experience": 5
+    },
+    {
+      "skill": "MS Support",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, implement, and maintain network infrastructure while collaborating with networking vendors."
+    },
+    {
+      "duty": "Manage vendor relationships and contribute to the stability, scalability, and security of the organization's network."
+    },
+    {
+      "duty": "Handle MS support team escalations and participate in project work."
+    },
+    {
+      "duty": "Collaborate on customer outages and report to IT Director."
+    },
+    {
+      "duty": "Need to have own vehicle for travel."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

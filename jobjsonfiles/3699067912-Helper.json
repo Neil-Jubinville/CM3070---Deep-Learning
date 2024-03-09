@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Helper",
+      "job_category": "Labor",
+      "job_class": "Entry-Level",
+      "sector": "Waste Management",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Endurance",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Compliance and Safety",
+      "experience": 1
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist drivers and other employees in the collection of solid waste materials from residential areas."
+    },
+    {
+      "duty": "Load solid waste into the waste collection vehicle and sort recyclables if applicable."
+    },
+    {
+      "duty": "Assist in the safe operation of the vehicle by directing the driver and operating equipment on the truck."
+    },
+    {
+      "duty": "Ensure compliance with safety regulations and perform safety and equipment checks."
+    },
+    {
+      "duty": "Maintain route quality standards and wear required personal protective equipment at all times."
+    },
+    {
+      "duty": "Assist in cleaning the vehicle, sorting materials, and attending safety meetings."
+    },
+    {
+      "duty": "Perform other duties as required by management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or general education degree (GED) desired, but not required"
+    }
+  ]
+}

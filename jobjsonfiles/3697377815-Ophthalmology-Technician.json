@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Ophthalmology Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Medical",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Eye Anatomy Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Ocular Medicines",
+      "experience": 5
+    },
+    {
+      "skill": "Sterile Technique",
+      "experience": 3
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care Assistance",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Administer examinations and tests to patients using proper precaution procedures and sterile techniques."
+    },
+    {
+      "duty": "Keep detailed documentation of patient histories and examinations."
+    },
+    {
+      "duty": "Assist doctor with patient care and in minor surgeries."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree in Ophthalmology or a related field (Certification preferred)"
+    }
+  ]
+}

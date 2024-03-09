@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Equipment Operator",
+      "job_category": "Operations",
+      "job_class": "Operator",
+      "sector": "Operations",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Equipment Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Warehouse Management",
+      "experience": 2
+    },
+    {
+      "skill": "Forklift Operation",
+      "experience": 2
+    },
+    {
+      "skill": "RF Scanning",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operating powered industrial trucks (PIT) and performing daily checks on equipment prior to operating."
+    },
+    {
+      "duty": "Following all safety guidelines and reporting faulty equipment, damage to company property, and safety hazards."
+    },
+    {
+      "duty": "Accurately picking/packing orders, restocking picking bins, and sorting, counting, and receiving merchandise."
+    },
+    {
+      "duty": "Moving product to and from pallet racks, working with conveyors, and loading/unloading trucks."
+    },
+    {
+      "duty": "Organizing warehouse storage space effectively and adhering to all safety, quality, and production standards."
+    },
+    {
+      "duty": "Using a scanner to direct work and handling repetitive tasks such as lifting, bending, and standing."
+    },
+    {
+      "duty": "Working effectively in a team environment and demonstrating flexibility in daily task assignments."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 40,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED; 1-2 years of experience as a certified equipment operator is ideal; knowledge of RF scanners and basic computer skills are preferred."
+    }
+  ]
+}

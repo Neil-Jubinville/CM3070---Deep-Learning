@@ -1,0 +1,49 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Specialist",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Flu Vaccination Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Clinical Supply Management",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Administer flu vaccinations to corporate employees"
+    },
+    {
+      "duty": "Set up clinic supplies at the site location"
+    },
+    {
+      "duty": "Receive and return clinic supplies"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Registered Nurse qualification"
+    }
+  ]
+}

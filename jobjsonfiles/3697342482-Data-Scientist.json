@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Scientist",
+      "job_category": "Data Science",
+      "job_class": "Scientist",
+      "sector": "Environmental Engineering",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 3
+    },
+    {
+      "skill": "GIS Data Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Environmental Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "LLM Modeling",
+      "experience": 3
+    },
+    {
+      "skill": "AI",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Analyze client data and build machine learning models."
+    },
+    {
+      "duty": "Improve client-facing data product offerings."
+    },
+    {
+      "duty": "Work with a variety of practice leaders in the water industry."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Environmental Engineering (Master's preferred)"
+    }
+  ]
+}

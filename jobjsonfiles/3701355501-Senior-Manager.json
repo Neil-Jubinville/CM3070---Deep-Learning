@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Manager",
+      "job_category": "Management",
+      "job_class": "Senior",
+      "sector": "Construction",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Construction Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Building Design Parameters",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 5
+    },
+    {
+      "skill": "Schedule Management",
+      "experience": 5
+    },
+    {
+      "skill": "Contract Negotiation",
+      "experience": 5
+    },
+    {
+      "skill": "Project QA/QC Processes",
+      "experience": 5
+    },
+    {
+      "skill": "Mediation/Litigation Support",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide overall support for project execution including root cause analysis, project set up, contract review, schedule evaluation, cost reports, technical evaluations, contractor work scope development, on-site construction progress audit, project status presentations, OAC meetings, change order administration, project schedule management, damages quantification, project QA/QC processes, and project close out."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 160,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.S. in Engineering or Construction Management or equivalent work experience"
+    }
+  ]
+}

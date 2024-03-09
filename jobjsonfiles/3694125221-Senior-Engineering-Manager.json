@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Engineering Manager",
+      "job_category": "Software Engineering",
+      "job_class": "Management",
+      "sector": "Software Engineering",
+      "salary": 280000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Machine Learning",
+      "experience": 10
+    },
+    {
+      "skill": "Big Data",
+      "experience": 10
+    },
+    {
+      "skill": "Web Services",
+      "experience": 10
+    },
+    {
+      "skill": "Multi Cloud Architectures",
+      "experience": 10
+    },
+    {
+      "skill": "Leadership",
+      "experience": 15
+    },
+    {
+      "skill": "Communication",
+      "experience": 15
+    },
+    {
+      "skill": "Software Architecture",
+      "experience": 15
+    },
+    {
+      "skill": "Team Management",
+      "experience": 15
+    },
+    {
+      "skill": "Innovation",
+      "experience": 15
+    },
+    {
+      "skill": "Data Translation",
+      "experience": 15
+    },
+    {
+      "skill": "Data Verification",
+      "experience": 15
+    },
+    {
+      "skill": "Data Curation",
+      "experience": 15
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage a team of senior systems, software, and ML engineers to develop software for discovering and translating changes in the world to concrete map data."
+    },
+    {
+      "duty": "Create and maintain basemap, including streets, addresses, buildings, traffic lights, lanes, and other physical elements of the world."
+    },
+    {
+      "duty": "Innovate new ways to capture real-world data and ensure its accuracy for user experiences."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS/MS in Computer Science or related field"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Big Data Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Big Data",
+      "experience": 4
+    },
+    {
+      "skill": "Cloud",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain applications with a focus on Java 8, Spring, Spring Cloud, Hibernate, and Spring Boot."
+    },
+    {
+      "duty": "Implement and integrate Big Data solutions, including microservices, REST services, and SOAP development."
+    },
+    {
+      "duty": "Design and develop web and backend applications utilizing Domain Driven Design concepts and microservices architecture."
+    },
+    {
+      "duty": "Incorporate secure development best practices and principles, including encryption, authentication, and authorization."
+    },
+    {
+      "duty": "Work with Java build tools and dependency management, along with database experience in various systems."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams and adhere to Agile methodologies, with a focus on continuous integration build tools and cloud platforms."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

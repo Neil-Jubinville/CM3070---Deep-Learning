@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Azure Cloud Engineer (O365)",
+      "job_category": "Information Technology",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Azure Design and Deployment",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft 365 Implementations and Assessments",
+      "experience": 2
+    },
+    {
+      "skill": "Infrastructure as Code (IaC)",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Security Best Practices",
+      "experience": 3
+    },
+    {
+      "skill": "VMWare SDDC Tool Sets",
+      "experience": 2
+    },
+    {
+      "skill": "Containerization (Docker, Kubernetes, Quay)",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, deploy, and troubleshoot Microsoft 365 and Azure cloud solutions"
+    },
+    {
+      "duty": "Generate Infrastructure as code (IaC) using tools like Terraform, Bicep, or ARM templates"
+    },
+    {
+      "duty": "Implement security measures and compliance standards for Microsoft cloud solutions"
+    },
+    {
+      "duty": "Create and maintain technical documentation for Microsoft 365 and Azure deployments"
+    },
+    {
+      "duty": "Lead and Mentor customer\u2019s Cloud Engineers"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field"
+    }
+  ]
+}

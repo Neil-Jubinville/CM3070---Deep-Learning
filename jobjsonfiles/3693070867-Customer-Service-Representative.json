@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Representative",
+      "job_category": "Customer Service",
+      "job_class": "Representative",
+      "sector": "Gaming",
+      "salary": 37000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Support",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Online Support",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide online connection support for gaming systems."
+    },
+    {
+      "duty": "Troubleshoot hardware issues and set up product repairs as needed."
+    },
+    {
+      "duty": "Troubleshoot connection problems including walking consumers through network security settings and router settings."
+    },
+    {
+      "duty": "Answer consumer questions regarding the online features of their game systems."
+    },
+    {
+      "duty": "Document and forward consumer comments."
+    },
+    {
+      "duty": "Resolve account issues (login issues, fraudulent charges, account bans, etc.)"
+    },
+    {
+      "duty": "Collect consumer information for incident tracking."
+    },
+    {
+      "duty": "Inform consumers about products and services."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent (Associate's degree preferred)"
+    }
+  ]
+}

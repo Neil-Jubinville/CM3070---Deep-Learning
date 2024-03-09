@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Product Engineer",
+      "job_category": "Engineering",
+      "job_class": "Product Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "RF Circuits",
+      "experience": 5
+    },
+    {
+      "skill": "Digital Signal Processing",
+      "experience": 5
+    },
+    {
+      "skill": "Wireless Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Analog Circuits",
+      "experience": 5
+    },
+    {
+      "skill": "ADCs & DACs",
+      "experience": 5
+    },
+    {
+      "skill": "Circuit Evaluation",
+      "experience": 5
+    },
+    {
+      "skill": "C/C++/C# Programming",
+      "experience": 5
+    },
+    {
+      "skill": "LabVIEW & TestStand",
+      "experience": 5
+    },
+    {
+      "skill": "MATLAB",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for product definition through production and release, including pre-silicon system development emulations, and verification of pre and post tape out."
+    },
+    {
+      "duty": "Interface with design, test, application, software, and marketing teams as the product(s) move from design to completion and distribution."
+    },
+    {
+      "duty": "Evaluation of new silicon and software, identification, simulation, and leading system solutions for wireless platform products."
+    },
+    {
+      "duty": "Verification & release of embedded software for wireless platform products; verification of Digital, DSP & Analog features; and performing RF measurements."
+    },
+    {
+      "duty": "Developing and operating automated software verification test bench using LabVIEW & TestStand."
+    },
+    {
+      "duty": "Direct interaction with applications/marketing as well as customers to resolve product issues; may participate in customer visits."
+    },
+    {
+      "duty": "May participate in customer visits, responsible for taking silicon and ARM software from early development stage to full production release."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 150,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS or MS degree in EE or ECE or equivalent relevant experience"
+    }
+  ]
+}

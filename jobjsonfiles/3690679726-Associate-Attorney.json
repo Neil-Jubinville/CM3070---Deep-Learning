@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Associate Attorney",
+      "job_category": "Legal",
+      "job_class": "Associate",
+      "sector": "Law",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Insurance Defense",
+      "experience": 3
+    },
+    {
+      "skill": "Drafting",
+      "experience": 3
+    },
+    {
+      "skill": "Florida Bar Membership",
+      "experience": 1
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide 1st Party Insurance Defense legal representation."
+    },
+    {
+      "duty": "Demonstrate strong drafting skills and attention to detail in legal documents."
+    },
+    {
+      "duty": "Maintain Florida Bar membership in good standing."
+    },
+    {
+      "duty": "Participate in professional development through CLE and professional liability insurance covered by the firm."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Florida Bar Membership in good standing"
+    }
+  ]
+}

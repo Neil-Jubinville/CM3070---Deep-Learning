@@ -1,0 +1,153 @@
+{
+  "meta": [
+    {
+      "job_title": "Java Tech Lead",
+      "job_category": "Software Engineering",
+      "job_class": "Technical Lead",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 12
+    },
+    {
+      "skill": "Azure",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "Deployment Pipeline",
+      "experience": 5
+    },
+    {
+      "skill": "Object Oriented Programming",
+      "experience": 12
+    },
+    {
+      "skill": "Functional Programming",
+      "experience": 12
+    },
+    {
+      "skill": "Design Patterns",
+      "experience": 12
+    },
+    {
+      "skill": "Kafka",
+      "experience": 5
+    },
+    {
+      "skill": "Apache Camel",
+      "experience": 5
+    },
+    {
+      "skill": "Camunda",
+      "experience": 5
+    },
+    {
+      "skill": "Spring Boot",
+      "experience": 5
+    },
+    {
+      "skill": "Drools",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices",
+      "experience": 5
+    },
+    {
+      "skill": "Docker",
+      "experience": 5
+    },
+    {
+      "skill": "Azure AKS",
+      "experience": 5
+    },
+    {
+      "skill": "SpringBoot",
+      "experience": 5
+    },
+    {
+      "skill": "Apache Camel applications",
+      "experience": 5
+    },
+    {
+      "skill": "Volante Mapping",
+      "experience": 5
+    },
+    {
+      "skill": "Kafka Messaging Queues",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "MongoDB",
+      "experience": 5
+    },
+    {
+      "skill": "Test-Driven Development",
+      "experience": 5
+    },
+    {
+      "skill": "Behavior-Driven Development",
+      "experience": 5
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 5
+    },
+    {
+      "skill": "SONARQube",
+      "experience": 5
+    },
+    {
+      "skill": "Continuous Integration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and guide a technical team in the development and implementation of Java-based solutions."
+    },
+    {
+      "duty": "Design and develop system architecture, incorporating Java, microservices, and containerization with Docker and Kubernetes."
+    },
+    {
+      "duty": "Manage deployment pipelines and ensure seamless delivery of microservice components to Kubernetes within the Azure AKS environment."
+    },
+    {
+      "duty": "Utilize Kafka, Apache Camel, and other relevant technologies to build resilient and scalable applications."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to integrate Java-based applications with cloud environments, particularly Azure."
+    },
+    {
+      "duty": "Implement best practices in test-driven development, unit testing, and continuous integration for high-quality code and system integrity."
+    },
+    {
+      "duty": "Utilize data-driven insights and SONARQube for code quality and performance analysis."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Laboratory Technician",
+      "job_category": "Science",
+      "job_class": "Technician",
+      "sector": "Science",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Laboratory Tests",
+      "experience": 3
+    },
+    {
+      "skill": "Experimental Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 3
+    },
+    {
+      "skill": "Standard Operating Procedures (SOPs)",
+      "experience": 3
+    },
+    {
+      "skill": "Good Laboratory Practices (GLPs)",
+      "experience": 3
+    },
+    {
+      "skill": "Equipment Calibration",
+      "experience": 3
+    },
+    {
+      "skill": "Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform laboratory tests, experiments, and analyses under moderate supervision."
+    },
+    {
+      "duty": "Prepare and weigh samples for testing and analysis."
+    },
+    {
+      "duty": "Conduct tests, assays, and other protocols under the direction of a scientist."
+    },
+    {
+      "duty": "Follow Standard Operating Procedures (SOPs) and Good Laboratory Practices (GLPs)."
+    },
+    {
+      "duty": "Ensure all laboratory equipment and work areas are clean, sterile, and in proper working order."
+    },
+    {
+      "duty": "Responsible for calibration of instruments."
+    },
+    {
+      "duty": "Provide guidance, coaching, and training to others."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Science, Chemistry, or a related field (Master's preferred)"
+    }
+  ]
+}

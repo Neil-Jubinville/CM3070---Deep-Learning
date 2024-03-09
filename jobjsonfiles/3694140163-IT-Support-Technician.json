@@ -1,0 +1,114 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Support Technician",
+      "job_category": "Information Technology",
+      "job_class": "Technician",
+      "sector": "Software Engineering",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "System Hardware/Software Installation and Configuration",
+      "experience": 3
+    },
+    {
+      "skill": "Operating System Patching and Upgrades",
+      "experience": 3
+    },
+    {
+      "skill": "Desktop Operating Systems Support",
+      "experience": 4
+    },
+    {
+      "skill": "Endpoint Management",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 4
+    },
+    {
+      "skill": "Administrative Support",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 4
+    },
+    {
+      "skill": "Detail-Oriented Organizational Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Respond to and diagnose problems through discussion with users."
+    },
+    {
+      "duty": "Ensure timely problem resolution, including problem recognition, research, isolation, resolution, and follow-up."
+    },
+    {
+      "duty": "Act as lead technician by handling escalations from peers and serving as focal point for customer concerns."
+    },
+    {
+      "duty": "Provide support to end users on a variety of technical issues."
+    },
+    {
+      "duty": "Identify, research, and resolve technical problems."
+    },
+    {
+      "duty": "Respond to telephone calls, emails, and personnel requests for technical support."
+    },
+    {
+      "duty": "Document, track, and monitor requests and incidents using ITSM methods and procedures to ensure a timely resolution."
+    },
+    {
+      "duty": "Provide on-site second-tier support to end users for PC, server, or mainframe applications or hardware."
+    },
+    {
+      "duty": "Interact with network services, software systems engineering, and/or applications development to restore service and/or identify and correct core problems."
+    },
+    {
+      "duty": "Simulate or recreate user problems to resolve operating difficulties."
+    },
+    {
+      "duty": "Recommend systems modifications to reduce user problems."
+    },
+    {
+      "duty": "Install and configure system hardware/software in an enterprise environment."
+    },
+    {
+      "duty": "Install operating system patches and upgrades."
+    },
+    {
+      "duty": "Support desktop operating systems such as Windows 7, 8.X, 10, and Mac OSX 10.10.X."
+    },
+    {
+      "duty": "Provide remote support using an endpoint management tool."
+    },
+    {
+      "duty": "Provide administrative support in an IT environment."
+    },
+    {
+      "duty": "Demonstrate proficient time management and detail-oriented organizational skills."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 50,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in IT or related field or equivalent experience."
+    },
+    {
+      "credential": "Preferred industry certifications: CompTIA or equivalent, Apple Certified Support Professional, Microsoft 365 Certified: Desktop Administrator, VMware AirWatch Associate Accreditation or equivalent, Enterprise Mobility (MDM)"
+    }
+  ]
+}

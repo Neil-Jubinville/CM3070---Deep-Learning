@@ -1,0 +1,100 @@
+{
+  "meta": [
+    {
+      "job_title": "Machine Learning Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Machine Learning",
+      "experience": 6
+    },
+    {
+      "skill": "Parallel Computing",
+      "experience": 3
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "C/C++",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Data Regression",
+      "experience": 4
+    },
+    {
+      "skill": "Model Development",
+      "experience": 6
+    },
+    {
+      "skill": "Technical Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Debugging",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Play a critical role in setting the direction and goals for a sizable team, in terms of project impact, ML system design, and ML excellence"
+    },
+    {
+      "duty": "Adapt standard machine learning methods to best exploit modern parallel environments (e.g., distributed clusters, multicore SMP, and GPU)"
+    },
+    {
+      "duty": "Re-evaluate the trade-offs of already shipped features/ML systems, and you are able to drive large efforts across multiple teams to reduce technical debt, designing from first principles when appropriate"
+    },
+    {
+      "duty": "Leading a team from a technical perspective to develop ML best practices and influence engineering culture"
+    },
+    {
+      "duty": "Be a go-to person to escalate the most complex online/production performance and evaluation issues, that require an in-depth knowledge of how the machine learning system interacts with systems around it"
+    },
+    {
+      "duty": "Develop highly scalable classifiers and tools leveraging machine learning, data regression, and rules based models"
+    },
+    {
+      "duty": "Suggest, collect and synthesize requirements and create an effective feature roadmap"
+    },
+    {
+      "duty": "Code deliverables in tandem with the engineering team"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 150,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience (Master's degree or PhD preferred)"
+    }
+  ]
+}

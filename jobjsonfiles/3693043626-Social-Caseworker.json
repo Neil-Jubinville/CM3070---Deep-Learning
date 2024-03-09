@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Social Caseworker",
+      "job_category": "Social Services",
+      "job_class": "Caseworker",
+      "sector": "Permanency",
+      "salary": 52000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Case Management",
+      "experience": 3
+    },
+    {
+      "skill": "Family Assessment",
+      "experience": 3
+    },
+    {
+      "skill": "Social Work",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Child Welfare Services",
+      "experience": 2
+    },
+    {
+      "skill": "Community Engagement",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide comprehensive ongoing assessment of safety and risk to families involved in ongoing child welfare cases."
+    },
+    {
+      "duty": "Implement and monitor appropriate services to focus on family preservation and family reunification if a child has been removed from the home."
+    },
+    {
+      "duty": "Conduct face-to-face visits with the family on at least a monthly basis."
+    },
+    {
+      "duty": "Coordinate information-sharing and communication with stakeholders and collaterals throughout the duration of the case."
+    },
+    {
+      "duty": "Engage families in creating effective treatment plans that address safety and risk factors, focusing on permanency and permanent connections for families and children involved in ongoing child welfare cases."
+    },
+    {
+      "duty": "Utilize data to inform family outcomes and evaluate practice with families."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree from an accredited college or university required in social work or human behavioral sciences. A Master's degree in one of the human behavioral science fields preferred."
+    }
+  ]
+}

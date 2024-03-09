@@ -1,0 +1,93 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Nursing",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 72000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Line Management",
+      "experience": 3
+    },
+    {
+      "skill": "PICC/Central Line Management",
+      "experience": 3
+    },
+    {
+      "skill": "Vascular Device Access/Care",
+      "experience": 3
+    },
+    {
+      "skill": "Dialysis Fistula Care/Management",
+      "experience": 3
+    },
+    {
+      "skill": "IV Insertion",
+      "experience": 3
+    },
+    {
+      "skill": "Airway Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Ortho/MS/Onc Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Feeding Tubes",
+      "experience": 3
+    },
+    {
+      "skill": "Wound Vac",
+      "experience": 3
+    },
+    {
+      "skill": "CPAP/BiPAP",
+      "experience": 3
+    },
+    {
+      "skill": "Epidural/PCA pumps",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide patient care, ensuring safety and wellbeing in a fast-paced medical unit environment."
+    },
+    {
+      "duty": "Manage and oversee the insertion, care, and maintenance of various lines and devices for patient treatment."
+    },
+    {
+      "duty": "Demonstrate proficiency in airway management and related medical-surgical/oncology skills, ensuring optimal patient care."
+    },
+    {
+      "duty": "Utilize critical thinking to administer medications, perform treatments, and address patient needs in adherence to care protocols."
+    },
+    {
+      "duty": "Collaborate with interdisciplinary teams to deliver comprehensive care for patients with acute medical/surgical needs."
+    },
+    {
+      "duty": "Maintain accurate documentation of patient records, medication administration, and treatment plans."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 130,
+      "student_teacher": 80,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or higher in Nursing"
+    },
+    {
+      "credential": "BLS/BCLS certification"
+    }
+  ]
+}

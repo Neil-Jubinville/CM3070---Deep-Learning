@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Research and Development",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work on mature company technologies as well as low technology readiness level products."
+    },
+    {
+      "duty": "Identify technical issues, propose solutions, and ensure appropriate action is taken to resolve the technical issues."
+    },
+    {
+      "duty": "Ensure the project's compliance with the applicable ADSANTEC practices and performance standards."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Hardware Design",
+      "experience": 5
+    },
+    {
+      "skill": "E-CAD (PADS)",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Innovative Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.S. or M.S. in Electrical Engineering or related field"
+    }
+  ]
+}

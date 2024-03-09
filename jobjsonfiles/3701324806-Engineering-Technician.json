@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Engineering Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Oil and Gas Services",
+      "salary": 70000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Documentation",
+      "experience": 4
+    },
+    {
+      "skill": "AutoCAD",
+      "experience": 4
+    },
+    {
+      "skill": "Solidworks",
+      "experience": 4
+    },
+    {
+      "skill": "Inventor",
+      "experience": 4
+    },
+    {
+      "skill": "Engineering Drawing",
+      "experience": 4
+    },
+    {
+      "skill": "BOMs",
+      "experience": 4
+    },
+    {
+      "skill": "Layouts",
+      "experience": 4
+    },
+    {
+      "skill": "Schematics",
+      "experience": 4
+    },
+    {
+      "skill": "PDM System Management",
+      "experience": 4
+    },
+    {
+      "skill": "Database Management",
+      "experience": 4
+    },
+    {
+      "skill": "Technical Software Packages",
+      "experience": 4
+    },
+    {
+      "skill": "Liaison and Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Ethical Standards Adherence",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Produce Engineering documentation including drawings, BOMs, layouts, schematics as directed"
+    },
+    {
+      "duty": "Perform drawing and or model checking to ensure conformance to design intent / requirements"
+    },
+    {
+      "duty": "Enter Engineering documents into PDM system and configure as required"
+    },
+    {
+      "duty": "Upload information to Engineering databases and technical software packages"
+    },
+    {
+      "duty": "Actively be involved and have input in Engineering meetings and design reviews as required"
+    },
+    {
+      "duty": "Liaise with internal and external departments to ensure all questions and queries are resolved and liaise with Manager on any issues or concerns"
+    },
+    {
+      "duty": "Actively adhere to the Code of Conduct and Anti-Bribery policies, procedures and processes to ensure the highest ethical standards are maintained"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Hold a technical qualification"
+    }
+  ]
+}

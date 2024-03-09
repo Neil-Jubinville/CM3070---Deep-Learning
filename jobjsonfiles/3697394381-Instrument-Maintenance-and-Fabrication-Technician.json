@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Instrument Maintenance and Fabrication Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Energy",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Machining",
+      "experience": 3
+    },
+    {
+      "skill": "Welding",
+      "experience": 3
+    },
+    {
+      "skill": "Electronic Equipment Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Fabrication",
+      "experience": 3
+    },
+    {
+      "skill": "Metalworking",
+      "experience": 3
+    },
+    {
+      "skill": "Mathematics",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide technical support for the Temporal Analysis of Products (TAP) Reactor System."
+    },
+    {
+      "duty": "Support the servicing of laboratory instrumentation, diagnostics, repair, replacement, and fabrication of components."
+    },
+    {
+      "duty": "Troubleshoot lab-scale electronics and make measurements like conductivity, current, voltage, and resistance."
+    },
+    {
+      "duty": "Fabricate, test, and repair parts and equipment under the direction of the master technician and/or principal investigator."
+    },
+    {
+      "duty": "Assist in the setup, maintenance, and repair TAP instrumentation and related systems."
+    },
+    {
+      "duty": "Contribute to metalworking projects from planning and fabrication through assembly, inspection, and testing."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School degree plus 1-4+ years work experience in machining (lathe and mill), welding, and/or operation and maintenance of electronic equipment."
+    }
+  ]
+}

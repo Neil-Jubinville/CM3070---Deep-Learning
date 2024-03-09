@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Software Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 102000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cybersecurity",
+      "experience": 6
+    },
+    {
+      "skill": "Firmware Development",
+      "experience": 6
+    },
+    {
+      "skill": "White Box Testing",
+      "experience": 6
+    },
+    {
+      "skill": "Black Box Testing",
+      "experience": 6
+    },
+    {
+      "skill": "Object Oriented Programming",
+      "experience": 6
+    },
+    {
+      "skill": "Network Communications",
+      "experience": 6
+    },
+    {
+      "skill": "Digital Forensics",
+      "experience": 6
+    },
+    {
+      "skill": "Reverse Engineering",
+      "experience": 6
+    },
+    {
+      "skill": "Industrial Control Systems",
+      "experience": 6
+    },
+    {
+      "skill": "Information Security",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead a team, conducting white and black box testing of devices and software for security flaws and vulnerabilities."
+    },
+    {
+      "duty": "Identify areas of concern and recommendations for an improved cybersecurity stance."
+    },
+    {
+      "duty": "Lead the specification, design, implementation, and test of firmware/software systems."
+    },
+    {
+      "duty": "Understand hardware and software interactions, and collaborate with Hardware Engineers."
+    },
+    {
+      "duty": "Lead the development of designs and test documentation."
+    },
+    {
+      "duty": "Mentor Engineers, Associate Engineers, and Technicians."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 200,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.S. in Electrical Engineering, Computer Science, Cybersecurity, Information Technology, Software Engineering, Information Systems, Computer Engineering, or equivalent."
+    }
+  ]
+}

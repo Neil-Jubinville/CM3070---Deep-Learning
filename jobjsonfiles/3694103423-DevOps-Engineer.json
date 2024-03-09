@@ -1,0 +1,186 @@
+{
+  "meta": [
+    {
+      "job_title": "DevOps Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "DevOps",
+      "experience": 10
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 5
+    },
+    {
+      "skill": "Software Development",
+      "experience": 7
+    },
+    {
+      "skill": "Systems Management",
+      "experience": 7
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Golang",
+      "experience": 3
+    },
+    {
+      "skill": "Angular",
+      "experience": 3
+    },
+    {
+      "skill": "Swift",
+      "experience": 3
+    },
+    {
+      "skill": "React",
+      "experience": 3
+    },
+    {
+      "skill": "ELK Stack",
+      "experience": 3
+    },
+    {
+      "skill": "Grafana",
+      "experience": 3
+    },
+    {
+      "skill": "C",
+      "experience": 5
+    },
+    {
+      "skill": "C++",
+      "experience": 3
+    },
+    {
+      "skill": "Java",
+      "experience": 3
+    },
+    {
+      "skill": "Perl",
+      "experience": 3
+    },
+    {
+      "skill": "Shell Scripting",
+      "experience": 3
+    },
+    {
+      "skill": "HAProxy",
+      "experience": 3
+    },
+    {
+      "skill": "InfluxDB",
+      "experience": 3
+    },
+    {
+      "skill": "Jenkins",
+      "experience": 5
+    },
+    {
+      "skill": "Bitbucket",
+      "experience": 5
+    },
+    {
+      "skill": "Ansible",
+      "experience": 3
+    },
+    {
+      "skill": "Chef",
+      "experience": 3
+    },
+    {
+      "skill": "Puppet",
+      "experience": 3
+    },
+    {
+      "skill": "Docker",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "Jamf",
+      "experience": 5
+    },
+    {
+      "skill": "MacOS",
+      "experience": 3
+    },
+    {
+      "skill": "Mobile Iron",
+      "experience": 3
+    },
+    {
+      "skill": "Azure",
+      "experience": 3
+    },
+    {
+      "skill": "Jira",
+      "experience": 3
+    },
+    {
+      "skill": "APM Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Splunk",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deploy product updates, identify production issues, and implement integrations to meet client needs."
+    },
+    {
+      "duty": "Research and conduct Proof-of-Concept testing for new technologies."
+    },
+    {
+      "duty": "Automate solutions for internal and external teams, and serve as technical engineer in the analysis, design, and implementation of various projects and initiatives."
+    },
+    {
+      "duty": "Implement new systems, upgrades, and modifications, including planning, testing, coordinating, and scheduling."
+    },
+    {
+      "duty": "Ensure change management and defined security procedures for all assigned systems are executed in accordance with client policies and procedures."
+    },
+    {
+      "duty": "Minimize client service interruptions through early identification and resolution of problems."
+    },
+    {
+      "duty": "Create, manage, and use dashboards for continuous monitoring and health check of applications and infrastructure."
+    },
+    {
+      "duty": "Contribute to the improvement of software delivery processes and operations, and monitor comprehensive data warehouse systems to balance optimization of data access with batch loading and resource utilization factors."
+    },
+    {
+      "duty": "Co-ordinate with Auditors and stakeholders on Sox and CPNI compliance requests, and provide guidance to DevOps teams on compliance and security."
+    },
+    {
+      "duty": "Provide guidance on associated process and roles/responsibility for solution and remediation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.S. in Computer Science, Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

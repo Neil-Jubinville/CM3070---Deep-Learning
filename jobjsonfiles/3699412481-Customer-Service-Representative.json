@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Representative",
+      "job_category": "Customer Service",
+      "job_class": "Representative",
+      "sector": "Customer Service",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Technical Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Bilingual (Spanish)",
+      "experience": 2
+    },
+    {
+      "skill": "Insurance Procedures",
+      "experience": 2
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Review and explain repair process, insurance claims, and payment procedures to customers"
+    },
+    {
+      "duty": "Provide regular repair status updates to customers through calls or text messages"
+    },
+    {
+      "duty": "Communicate with Service Advisor to get updates on vehicle repair status"
+    },
+    {
+      "duty": "Perform final quality control check before customer pickup to ensure repair quality meets standards"
+    },
+    {
+      "duty": "Conduct administrative tasks including payment collection, rental matching, and AR follow-up calls"
+    },
+    {
+      "duty": "Provide additional support to Service Advisor as needed"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 60,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Legally authorized to work in the United States"
+    },
+    {
+      "credential": "6 months or more of prior experience in a fast-paced, customer service environment"
+    },
+    {
+      "credential": "Proficiency with Computers and other software"
+    }
+  ]
+}

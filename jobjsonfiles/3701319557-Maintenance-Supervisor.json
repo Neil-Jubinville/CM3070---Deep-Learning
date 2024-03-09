@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Supervisor",
+      "job_category": "Maintenance",
+      "job_class": "Supervisor",
+      "sector": "Industrial",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electronics/Electrical Technology",
+      "experience": 2
+    },
+    {
+      "skill": "Mechanical Equipment Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Industrial Operations",
+      "experience": 2
+    },
+    {
+      "skill": "Leadership",
+      "experience": 2
+    },
+    {
+      "skill": "Maintenance Management",
+      "experience": 2
+    },
+    {
+      "skill": "Training",
+      "experience": 2
+    },
+    {
+      "skill": "Plant Operations",
+      "experience": 2
+    },
+    {
+      "skill": "Employee Relations",
+      "experience": 2
+    },
+    {
+      "skill": "Compliance",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensure plant facility and equipment are maintained according to standards."
+    },
+    {
+      "duty": "Plan, assign, and supervise work of Engineering Personnel on assigned shift."
+    },
+    {
+      "duty": "Train new employees in accordance with established training programs and plant procedures."
+    },
+    {
+      "duty": "Demonstrate procedures unique to plant operations."
+    },
+    {
+      "duty": "Supervise and/or participate in the repair and maintenance of all plant machine and equipment."
+    },
+    {
+      "duty": "Maintain good employee relations."
+    },
+    {
+      "duty": "Ensure compliance with all Company policies and procedures (EEO, Sexual Harassment, Safety, Sarbanes Oxley, etc.)"
+    },
+    {
+      "duty": "Perform other duties which are deemed by management to be an integral part of the job, including but not limited to fulfillment of work schedules, adherence to attendance policies, and other applicable operating rules, policies, and procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED; Required Associate degree in Electronics/Electrical Technology and/or equivalent formal training and work experience. Completion of formal management skills training program, preferred."
+    }
+  ]
+}

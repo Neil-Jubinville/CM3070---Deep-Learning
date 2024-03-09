@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Automotive Service Technician",
+      "job_category": "Retail",
+      "job_class": "Technician",
+      "sector": "Automotive",
+      "salary": 27000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tire Service",
+      "experience": 1
+    },
+    {
+      "skill": "Car Service",
+      "experience": 1
+    },
+    {
+      "skill": "Automotive Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Oil Change",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Mechanical Tasks",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform tire repairs, wheel balancing, and tire changes in compliance with company standards."
+    },
+    {
+      "duty": "Conduct basic vehicle inspections, oil changes, lubrications, and elemental mechanical tasks following standard procedures."
+    },
+    {
+      "duty": "Unload and load items from trucks, maintain cleanliness and orderliness of the service center, and comply with safety policies and federal/state OSHA requirements."
+    },
+    {
+      "duty": "Drive vehicles, interact with team members and managers, and perform other duties as assigned."
+    },
+    {
+      "duty": "Work in a physically demanding environment, lifting and maneuvering items up to 100 pounds. Exposed to various chemicals, hot/cold work environment, and slippery substances."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Reading and writing proficiency. Valid automobile driver\u2019s license required at all times."
+    }
+  ]
+}

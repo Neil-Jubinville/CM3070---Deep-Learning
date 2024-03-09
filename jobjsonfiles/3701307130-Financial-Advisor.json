@@ -1,0 +1,105 @@
+{
+  "meta": [
+    {
+      "job_title": "Financial Advisor",
+      "job_category": "Finance",
+      "job_class": "Advisor",
+      "sector": "Finance",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Investment Management",
+      "experience": 5
+    },
+    {
+      "skill": "Client Servicing",
+      "experience": 5
+    },
+    {
+      "skill": "Marketing",
+      "experience": 5
+    },
+    {
+      "skill": "Team Building",
+      "experience": 5
+    },
+    {
+      "skill": "CRM Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Sales",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and execute comprehensive financial planning strategies to help clients pursue their financial objectives."
+    },
+    {
+      "duty": "Manage investment portfolios and provide investment management services to clients."
+    },
+    {
+      "duty": "Provide client servicing and support in account management and financial advisory services."
+    },
+    {
+      "duty": "Utilize marketing strategies to prospect for new clients and build a client base through networking and referrals."
+    },
+    {
+      "duty": "Lead and develop a team of financial professionals, fostering collaboration and guiding their efforts towards achieving set goals."
+    },
+    {
+      "duty": "Manage client data and interactions through CRM systems, ensuring effective client relationship management."
+    },
+    {
+      "duty": "Communicate complex financial information in a simple and concise manner, building rapport and trust with clients."
+    },
+    {
+      "duty": "Drive sales through effective financial planning and investment management, meeting and exceeding client acquisition targets."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Finance, Business, or a related field (Master's preferred)"
+    },
+    {
+      "credential": "Washington State Life and Health Insurance License (preferred)"
+    },
+    {
+      "credential": "Security licenses 6 and 63 (minimum requirement)"
+    },
+    {
+      "credential": "Security series 7 (preferred)"
+    },
+    {
+      "credential": "Security series 65 or 66 (preferred)"
+    },
+    {
+      "credential": "Proficient in Office 365 programs"
+    },
+    {
+      "credential": "Experience in Redtail CRM (preferred)"
+    },
+    {
+      "credential": "Experience in eMoney (preferred)"
+    }
+  ]
+}

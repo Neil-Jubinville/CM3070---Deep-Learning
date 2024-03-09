@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Penetration Tester",
+      "job_category": "Information Technology",
+      "job_class": "Cybersecurity",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Penetration Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Network Mapping",
+      "experience": 5
+    },
+    {
+      "skill": "Rules of Engagement",
+      "experience": 5
+    },
+    {
+      "skill": "Security Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Red Team Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Cybersecurity Certification",
+      "experience": 8
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide comprehensive penetration testing services to identify network and system vulnerabilities and assess compliance with security policies."
+    },
+    {
+      "duty": "Conduct network mapping, establish Rules of Engagement, develop test plans, and obtain management approval."
+    },
+    {
+      "duty": "Collaborate with IT personnel to define the scope, simulate external attacks to access systems and assess data exposure."
+    },
+    {
+      "duty": "Simulate insider threats to evaluate risks posed by employees with different access levels."
+    },
+    {
+      "duty": "Focus on specific target datasets using crafted emails, custom websites, exploit code, and social engineering."
+    },
+    {
+      "duty": "Effectively communicate and lead clients and team members."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Active TS clearance or Secret clearance with ability to obtain TS clearance"
+    },
+    {
+      "credential": "Minimum of three years in cybersecurity penetration testing"
+    },
+    {
+      "credential": "One of the following certifications: OSCP, GPEN, or CEH"
+    },
+    {
+      "credential": "Completion of CISA AES HVA Assessment or capability to pass the associated course"
+    }
+  ]
+}

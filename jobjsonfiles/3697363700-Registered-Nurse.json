@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Nursing",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 1
+    },
+    {
+      "skill": "Health Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Teaching",
+      "experience": 1
+    },
+    {
+      "skill": "Rehabilitation",
+      "experience": 1
+    },
+    {
+      "skill": "Computer Systems",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide direct and indirect nursing care, health maintenance, teaching, counseling, collaborative planning, and rehabilitation."
+    },
+    {
+      "duty": "Collaborate with physicians and other disciplines to ensure quality, cost-effective patient care."
+    },
+    {
+      "duty": "Effectively delegate appropriate patient care activities to co-workers with the required knowledge and skill level."
+    },
+    {
+      "duty": "Perform patient teaching and provide care to patients in accordance with the plan of care and practice standards."
+    },
+    {
+      "duty": "Provide care in a non-judgmental manner that respects patients' rights, autonomy, dignity, and confidentiality."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree in Nursing (License required), 0-1 years related work experience, experience with computer systems (web-based applications and Microsoft Office applications)."
+    }
+  ]
+}

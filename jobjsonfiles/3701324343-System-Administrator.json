@@ -1,0 +1,100 @@
+{
+  "meta": [
+    {
+      "job_title": "System Administrator",
+      "job_category": "Information Technology",
+      "job_class": "Administrator",
+      "sector": "IT",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "System Engineering Fundamentals",
+      "experience": 5
+    },
+    {
+      "skill": "Network Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Hardware and Software Integration",
+      "experience": 5
+    },
+    {
+      "skill": "System Lifecycle Management",
+      "experience": 5
+    },
+    {
+      "skill": "Systems Integration Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Configuration Management",
+      "experience": 5
+    },
+    {
+      "skill": "Reliability Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "System Security",
+      "experience": 5
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Mastery of core principles, concepts, and best practices in system engineering to ensure the robustness of complex systems."
+    },
+    {
+      "duty": "Proficiency in designing and configuring network architectures for optimal performance and security."
+    },
+    {
+      "duty": "Knowledge of integrating hardware and software components seamlessly to achieve cohesive system functionality."
+    },
+    {
+      "duty": "Expertise in overseeing the entire system lifecycle, from requirements analysis to system retirement."
+    },
+    {
+      "duty": "Experience in executing rigorous testing procedures to validate system components and interfaces."
+    },
+    {
+      "duty": "Proficiency in maintaining accurate documentation and control of system configurations."
+    },
+    {
+      "duty": "Understanding of reliability principles to ensure systems meet operational demands without compromise."
+    },
+    {
+      "duty": "Knowledge of security measures and practices for safeguarding systems against threats and vulnerabilities."
+    },
+    {
+      "duty": "Familiarity with industry standards and regulations, ensuring systems adhere to compliance requirements."
+    },
+    {
+      "duty": "Provide support to end users and clients, troubleshooting system issues and ensuring smooth system operation."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to provide technical expertise and support for system integration projects."
+    },
+    {
+      "duty": "Stay abreast of technological advancements and industry trends to recommend system improvements and enhancements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 150,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field (Master's preferred)"
+    }
+  ]
+}

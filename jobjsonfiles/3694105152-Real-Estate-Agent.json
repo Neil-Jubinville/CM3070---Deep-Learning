@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Real Estate Agent",
+      "job_category": "Real Estate",
+      "job_class": "Agent",
+      "sector": "Sales",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 4
+    },
+    {
+      "skill": "Networking",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Market Research",
+      "experience": 4
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 4
+    },
+    {
+      "skill": "Lead Generation",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist clients in pricing their properties competitively and making them marketable."
+    },
+    {
+      "duty": "Collaborate and network with fellow real estate professionals to increase visibility and successfully close transactions."
+    },
+    {
+      "duty": "Stay informed about the latest trends and home values in your real estate market through diligent research."
+    },
+    {
+      "duty": "Provide exceptional consultation and support to address client questions and concerns throughout the entire real estate transaction process."
+    },
+    {
+      "duty": "Act as a mediator to facilitate communication and negotiations between home sellers and buyers."
+    },
+    {
+      "duty": "Develop and execute effective marketing strategies to expedite property sales."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Real Estate License, obtained after completing real estate classes from an accredited learning institution and passing a state licensing exam."
+    }
+  ]
+}

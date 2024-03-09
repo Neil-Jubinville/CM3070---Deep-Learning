@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "NodeJS",
+      "experience": 8
+    },
+    {
+      "skill": "Linux/Unix Systems",
+      "experience": 8
+    },
+    {
+      "skill": "JavaScript Frameworks",
+      "experience": 8
+    },
+    {
+      "skill": "SQL",
+      "experience": 8
+    },
+    {
+      "skill": "Heroku",
+      "experience": 8
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 8
+    },
+    {
+      "skill": "Agile Practices",
+      "experience": 8
+    },
+    {
+      "skill": "System Design",
+      "experience": 8
+    },
+    {
+      "skill": "Web API Design",
+      "experience": 8
+    },
+    {
+      "skill": "Salesforce",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 8
+    },
+    {
+      "skill": "Leadership and Mentoring",
+      "experience": 8
+    },
+    {
+      "skill": "Programming Languages",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and deploy frontend and backend services with a focus on high availability, low latency, and scalability."
+    },
+    {
+      "duty": "Lead and exhibit expert technical problem-solving and debugging skills."
+    },
+    {
+      "duty": "Identify, develop, and advocate best practices, design standards, and procedures."
+    },
+    {
+      "duty": "Foster a collaborative and professional team environment to achieve objectives."
+    },
+    {
+      "duty": "Provide support, maintain existing products, and add new features as requested by customers."
+    },
+    {
+      "duty": "Collaborate and communicate with Stakeholders, Product Owners, Quality Assurance, and other teams in an agile work environment."
+    },
+    {
+      "duty": "Mentor junior and mid-level engineers by providing advice, coaching, and educational opportunities to grow their technical skills."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 120,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in Computer Science or Computer Engineering from an accredited college or university or equivalent work experience."
+    }
+  ]
+}

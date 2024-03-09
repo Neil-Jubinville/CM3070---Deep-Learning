@@ -1,0 +1,51 @@
+{
+  "meta": [
+    {
+      "job_title": "Housekeeper",
+      "job_category": "Cleaning",
+      "job_class": "Housekeeper",
+      "sector": "Environmental Services",
+      "salary": 28000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performs all cleaning duties with attention to quality and detail"
+    },
+    {
+      "duty": "Assists with light maintenance tasks and cleaning emergency spills as needed"
+    },
+    {
+      "duty": "Maintains cleaning equipment and supplies"
+    },
+    {
+      "duty": "Performs job duties safely, using accurate body mechanics and protective equipment"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cleaning",
+      "experience": 2
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 2
+    },
+    {
+      "skill": "Maintenance Tasks",
+      "experience": 2
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ]
+}

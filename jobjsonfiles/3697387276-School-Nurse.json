@@ -1,0 +1,44 @@
+{
+  "meta": [
+    {
+      "job_title": "School Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Administer nursing care to ill, injured, or disabled students"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Assessment and Diagnosis",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 5
+    },
+    {
+      "skill": "Health Record Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Emotional Support",
+      "experience": 5
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Nursing NJS Registered Nurse (RN) license"
+    }
+  ]
+}

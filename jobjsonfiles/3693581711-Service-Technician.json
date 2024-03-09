@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Service Technician",
+      "job_category": "Technician",
+      "job_class": "Technician",
+      "sector": "Services",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Aerial Cranes Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Truck Equipment Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Hydraulics",
+      "experience": 3
+    },
+    {
+      "skill": "Electrical Knowledge",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assess, diagnose, repair, and/or replace damaged or worn parts on a variety of vocational/utility trucks & equipment."
+    },
+    {
+      "duty": "Provide repair and maintenance to medium/heavy-duty trucks, with a background in hydraulics and electrical as a plus."
+    },
+    {
+      "duty": "Prepare and maintain accurate records of parts, services, and labor to track costs and ensure quality standards are achieved."
+    },
+    {
+      "duty": "Submit all work/repair orders to a supervisor for approval to ensure budgets are maintained."
+    },
+    {
+      "duty": "Perform all duties in accordance with best practices for a safe work environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent Vocational Technical School or Military Wheeled Mechanic or related training a plus Must hold a valid driver\u2019s license Must have your own tools"
+    }
+  ]
+}

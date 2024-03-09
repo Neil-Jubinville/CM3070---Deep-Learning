@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Leasing Consultant",
+      "job_category": "Real Estate",
+      "job_class": "Consultant",
+      "sector": "Property Management",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Marketing",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Administrative Tasks",
+      "experience": 2
+    },
+    {
+      "skill": "Resident Relations",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Effectively show, lease, and move in prospective residents; greet, qualify, tour community, and sign lease"
+    },
+    {
+      "duty": "Assist in implementing annual marketing plan outreach"
+    },
+    {
+      "duty": "Manage excellent customer service and monitor service request turnaround and responsiveness"
+    },
+    {
+      "duty": "Projects a favorable image of the community to achieve property objectives and public recognition"
+    },
+    {
+      "duty": "Assist in developing and implementing resident retention programs"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent (Bachelor's degree preferred)"
+    }
+  ]
+}

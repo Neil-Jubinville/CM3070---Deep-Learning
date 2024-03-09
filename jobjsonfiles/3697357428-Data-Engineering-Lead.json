@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineering Lead",
+      "job_category": "Engineering",
+      "job_class": "Lead",
+      "sector": "Software Engineering",
+      "salary": 160000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Engineering",
+      "experience": 7
+    },
+    {
+      "skill": "Cloud Computing",
+      "experience": 7
+    },
+    {
+      "skill": "Automated Testing",
+      "experience": 7
+    },
+    {
+      "skill": "DevOps",
+      "experience": 7
+    },
+    {
+      "skill": "Programming (e.g., Python, Scala, Java)",
+      "experience": 7
+    },
+    {
+      "skill": "Big Data Tools (e.g., Spark, Kafka, Storm)",
+      "experience": 7
+    },
+    {
+      "skill": "CI/CD Implementations (e.g., Jenkins, CircleCI, GitLab, Azure DevOps)",
+      "experience": 7
+    },
+    {
+      "skill": "Agile Software Development (e.g., Jira, Confluence)",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead a team of data engineers in delivering data and knowledge products that advance GSK R&D"
+    },
+    {
+      "duty": "Architect of the data delivery and operational strategy for their team, who can deconstruct a complex and ambiguous data or knowledge request into a detailed strategy to make decision, anticipates future issues, and drive engineering efficiencies"
+    },
+    {
+      "duty": "Partners closely with other data engineering leads to conceptualize the design of new data flows aimed at maximizing reuse and aligning with an event riven microservice enable architecture"
+    },
+    {
+      "duty": "Partner with other Data Engineering leads to architect an engagement model and optimal ways of working with the product management teams"
+    },
+    {
+      "duty": "Able to design innovative strategy beyond the current enterprise way of working to create a better environment for the end users, and able to construct a coordinated, stepwise plan to bring others along with the change curve"
+    },
+    {
+      "duty": "Standard bearer for proper ways of working and engineering discipline, including the QMS framework and CI/CD best practices and proactively spearhead improvement within their engineering area"
+    },
+    {
+      "duty": "Exemplar leaders in their field of technical knowledge, keen on bettering their understanding and acting as the knowledge holder for the organization"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelors degree in Data Engineering, Computer Science, or Software Engineering (Masters or PhD preferred)"
+    }
+  ]
+}

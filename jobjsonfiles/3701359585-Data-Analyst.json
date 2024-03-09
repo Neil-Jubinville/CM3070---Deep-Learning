@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Analyst",
+      "job_category": "Data Analysis",
+      "job_class": "Specialist",
+      "sector": "Healthcare",
+      "salary": 70000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft SQL Server",
+      "experience": 5
+    },
+    {
+      "skill": "SAS",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Tableau",
+      "experience": 5
+    },
+    {
+      "skill": "Visual Basic for Applications",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Locate, validate, and analyze data from disparate sources using tools such as Alteryx, SAS, SQL, Access, VBA, and Tableau to support RCM goals and leadership requests."
+    },
+    {
+      "duty": "Combine specimen data from all systems in the RCM life cycle, claim transactions, and data elements provided in policies from payers and government entities to influence claim outcomes and system processing."
+    },
+    {
+      "duty": "Develop research level analysis containing elements of claim level data from billing or lab system, following the claim life cycle from order to post-adjudication activity."
+    },
+    {
+      "duty": "Utilize statistical sampling and modeling to drive guidance and present analysis findings."
+    },
+    {
+      "duty": "Maintain documentation and results of standard RCM Policy Team responsibilities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree or 2 or more years programming experience in healthcare environment"
+    }
+  ]
+}

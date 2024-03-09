@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Surgical Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Surgical Technology",
+      "experience": 2
+    },
+    {
+      "skill": "Aseptic Technique",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Surgical Instrumentation",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 2
+    },
+    {
+      "skill": "BLS Certification",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist with surgical procedures by providing necessary surgical instruments, supplies, and equipment with maximum efficiency and aseptic technique."
+    },
+    {
+      "duty": "Prepare the operating room for surgery by checking the case cart and preference sheet, and aseptically opening instruments, supplies, and/or equipment."
+    },
+    {
+      "duty": "Set up and maintain sterile field and assist during the case by providing the surgical team with necessary surgical instruments, sponges, sutures, and medications."
+    },
+    {
+      "duty": "Maintain and assist efficiently within the sterile field, participating with the sponge, needle, and instrument counts."
+    },
+    {
+      "duty": "Communicate pertinent information to the circulating nurse for continuity of patient care and assist in room clean-up at the completion of the surgical case."
+    },
+    {
+      "duty": "Transport laboratory, surgical instruments, and/or supplies as needed/requested and notify appropriate healthcare team members of any observed condition or change in patient's condition."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate degree in Surgical Technology or specialized training in the Armed Forces, Surgical Technician Certification preferred, and BLS Certification"
+    }
+  ]
+}

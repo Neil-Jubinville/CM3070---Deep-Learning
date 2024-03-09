@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "job_title": "System/Network Administrator",
+      "job_category": "Information Technology",
+      "job_class": "Administrator",
+      "sector": "Software Engineering",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft Windows Server configuration and management",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Active Directory and Exchange management",
+      "experience": 5
+    },
+    {
+      "skill": "Networking hardware installation, configuration, and troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Server virtualization and VMware experience",
+      "experience": 5
+    },
+    {
+      "skill": "Network architecture and Active Directory and Group Policy",
+      "experience": 5
+    },
+    {
+      "skill": "Server hardware and storage area network installation, debugging, and replacement",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for vulnerability management, patching, handling group policy, and logging reviews."
+    },
+    {
+      "duty": "Support on-premises infrastructure utilizing Microsoft Exchange for the operating system."
+    },
+    {
+      "duty": "Provide hybrid flexibility for on-site and remote work down the line."
+    },
+    {
+      "duty": "Maintain flexible shift times during the week and be available once a month on a weekend for patching."
+    }
+  ]
+}

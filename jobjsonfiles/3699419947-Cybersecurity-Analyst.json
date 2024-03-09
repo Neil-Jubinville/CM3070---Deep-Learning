@@ -1,0 +1,96 @@
+{
+  "meta": [
+    {
+      "job_title": "Cybersecurity Analyst",
+      "job_category": "Information Technology",
+      "job_class": "Analyst",
+      "sector": "Information Technology",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cryptography",
+      "experience": 4
+    },
+    {
+      "skill": "Cybersecurity Compliance",
+      "experience": 4
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 4
+    },
+    {
+      "skill": "Risk Assessment",
+      "experience": 4
+    },
+    {
+      "skill": "Security Control Testing",
+      "experience": 4
+    },
+    {
+      "skill": "IT Governance",
+      "experience": 4
+    },
+    {
+      "skill": "NIST Frameworks",
+      "experience": 4
+    },
+    {
+      "skill": "Information Security",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensure compliance with regulatory, contractual requirements, and security policies such as CMMC, NIST 800-171, and government contractual obligations."
+    },
+    {
+      "duty": "Translate regulatory and contractual requirements into process and system impacts and functional requirements."
+    },
+    {
+      "duty": "Develop controls, conduct effectiveness testing, and support audit activities."
+    },
+    {
+      "duty": "Identify and manage remediation activities, prepare reports, provide input to compliance strategies, propose security tools, and process changes."
+    },
+    {
+      "duty": "Build strong working relationships and partnerships within own organization and across technology and business teams."
+    },
+    {
+      "duty": "Work with multi-functional groups to create and test procedures, standard or regulatory controls to ensure the security and privacy of information."
+    },
+    {
+      "duty": "Participate in information security review of new technologies, designs, and remediation planning efforts."
+    },
+    {
+      "duty": "Investigate potential compliance failures, identify security needs, and recommend plans/resolutions."
+    },
+    {
+      "duty": "Support the collection and documentation of an accurate inventory of technology, processes, and people required to align with regulations, industry standards, and company policies."
+    },
+    {
+      "duty": "Contribute to security projects driven by groups both internal and external to info security."
+    },
+    {
+      "duty": "Other Duties/Projects as assigned by business management as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Computer Science or Information Technology, or equivalent experience (Master's preferred)"
+    },
+    {
+      "credential": "CISM, CISSP, and CISA certifications are preferred"
+    }
+  ]
+}

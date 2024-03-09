@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Tech Lead Manager",
+      "job_category": "Software Engineering",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead, mentor, and manage a team of talented engineers, providing guidance, support, and regular feedback."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams, including Product Management and Design, to define project scopes, technical requirements, and deliverables."
+    },
+    {
+      "duty": "Drive the technical strategy and architecture for our products, ensuring scalability, reliability, and innovation."
+    },
+    {
+      "duty": "Balance hands-on technical contributions with managerial responsibilities, taking the lead on complex technical challenges when necessary."
+    },
+    {
+      "duty": "Strong judgment and ability to make and implement sound foundational decisions while weighing tradeoffs."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Full Stack Development",
+      "experience": 7
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 8
+    },
+    {
+      "skill": "Project Management",
+      "experience": 8
+    },
+    {
+      "skill": "Technical Architecture",
+      "experience": 7
+    },
+    {
+      "skill": "Strategic Decision Making",
+      "experience": 8
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 8
+    },
+    {
+      "skill": "Relational Databases (PostgreSQL)",
+      "experience": 7
+    },
+    {
+      "skill": "Restful APIs",
+      "experience": 7
+    },
+    {
+      "skill": "Front-end Development",
+      "experience": 6
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

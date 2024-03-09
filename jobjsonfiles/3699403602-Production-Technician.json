@@ -1,0 +1,105 @@
+{
+  "meta": [
+    {
+      "job_title": "Production Technician",
+      "job_category": "Production",
+      "job_class": "Technician",
+      "sector": "Manufacturing",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electronic Troubleshooting",
+      "experience": 1
+    },
+    {
+      "skill": "Soldering",
+      "experience": 1
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 1
+    },
+    {
+      "skill": "Equipment Operation",
+      "experience": 1
+    },
+    {
+      "skill": "Equipment Set-up",
+      "experience": 1
+    },
+    {
+      "skill": "Continuous Improvement",
+      "experience": 1
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 1
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 1
+    },
+    {
+      "skill": "Independent Work",
+      "experience": 1
+    },
+    {
+      "skill": "Creative Thinking",
+      "experience": 1
+    },
+    {
+      "skill": "Clear Communication",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Produce high-quality products and services for customers."
+    },
+    {
+      "duty": "Assemble, test, and inspect products and systems to ensure highest quality."
+    },
+    {
+      "duty": "Responsible for work area to ensure safe and efficient operation."
+    },
+    {
+      "duty": "Set up and monitor the production of products and participate in continuous improvement process."
+    },
+    {
+      "duty": "Lead and train other technicians."
+    },
+    {
+      "duty": "Operate assigned equipment and participate in continuous improvement activities."
+    },
+    {
+      "duty": "Support the Honeywell Operating System and maintain work area for operation and cleanliness."
+    },
+    {
+      "duty": "Comply with all safety rules and analyze data and reports."
+    },
+    {
+      "duty": "Set up and change over equipment and use measuring and diagnostic tools."
+    },
+    {
+      "duty": "Work first or second shift schedules."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma"
+    },
+    {
+      "credential": "Associate's or certification in electronics"
+    }
+  ]
+}

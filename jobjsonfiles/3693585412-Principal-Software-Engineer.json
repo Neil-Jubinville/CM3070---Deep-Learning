@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Principal Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Principal",
+      "sector": "Software Engineering",
+      "salary": 220000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 12
+    },
+    {
+      "skill": "Kotlin",
+      "experience": 12
+    },
+    {
+      "skill": "Database Performance Tuning",
+      "experience": 12
+    },
+    {
+      "skill": "Database Schema Design",
+      "experience": 12
+    },
+    {
+      "skill": "Microservice Architecture",
+      "experience": 12
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 12
+    },
+    {
+      "skill": "Cross-Platform Development",
+      "experience": 8
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 12
+    },
+    {
+      "skill": "Leadership",
+      "experience": 12
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and maintain cloud-based, state-of-the-art search solutions on top of customers\u2019 infrastructure in a scalable way."
+    },
+    {
+      "duty": "Implement and maintain a highly scalable, highly reliable cloud-native user interface and underlying microservices."
+    },
+    {
+      "duty": "Drive ongoing innovation of global cloud architecture and distributed systems."
+    },
+    {
+      "duty": "Develop and maintain core libraries, infrastructure, and search engines."
+    },
+    {
+      "duty": "Coaching and leading mid-level and junior staff in the design, implementation, and execution of highly technical development projects."
+    },
+    {
+      "duty": "Work collaboratively with Product Managers, engineers, designers, and stakeholders to continuously iterate on products and drive consensus."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.S. degree in Computer Science or a directly related field, or equivalent work experience"
+    }
+  ]
+}

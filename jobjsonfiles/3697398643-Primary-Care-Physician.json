@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Primary Care Physician",
+      "job_category": "Healthcare",
+      "job_class": "Physician",
+      "sector": "Healthcare",
+      "salary": 208000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Care",
+      "experience": 5
+    },
+    {
+      "skill": "Telehealth",
+      "experience": 5
+    },
+    {
+      "skill": "Primary Care Management",
+      "experience": 5
+    },
+    {
+      "skill": "Supervision",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Engagement",
+      "experience": 5
+    },
+    {
+      "skill": "Board Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Technology Proficiency",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Managing a patient panel with a broad array of patient needs; conducting a mix of acute, chronic, and well visits."
+    },
+    {
+      "duty": "Treating patients in-office, in testing centers, and conducting occasional tele-health visits."
+    },
+    {
+      "duty": "Continuous learning during weekly Clinical Rounds and through other modalities."
+    },
+    {
+      "duty": "Ongoing collaboration with in-office teammates via daily huddles and with virtual clinical teams."
+    },
+    {
+      "duty": "Utilization of specific clinical training and opportunities to perform in-office procedures."
+    },
+    {
+      "duty": "Supervising one or more NP or PA colleagues."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Enrollment or completion of an accredited Internal or Family Medicine residency program."
+    },
+    {
+      "credential": "Practiced at least 2 of the last 5 years in an outpatient primary care setting."
+    },
+    {
+      "credential": "Board Certified in Internal or Family Medicine, or Board Eligible with plans to obtain board certification within 1 year of start date."
+    },
+    {
+      "credential": "State licensed in California."
+    }
+  ]
+}

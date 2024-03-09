@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Bartender",
+      "job_category": "Restaurant",
+      "job_class": "Entry-level",
+      "sector": "Hospitality",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Bartending",
+      "experience": 1
+    },
+    {
+      "skill": "Mixology",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Multi-tasking",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide exceptional service to guests by preparing and serving drinks according to standard recipes."
+    },
+    {
+      "duty": "Maintain cleanliness and organization of the bar area, and ensure compliance with health and safety regulations."
+    },
+    {
+      "duty": "Interact with guests, take orders, and provide recommendations for drinks and food items."
+    },
+    {
+      "duty": "Handle cash and credit card transactions accurately and process payments."
+    },
+    {
+      "duty": "Monitor inventory levels and replenish stock as needed, keeping track of supplies and ordering when necessary."
+    }
+  ],
+  "subjective_elements": [],
+  "education_certification": []
+}

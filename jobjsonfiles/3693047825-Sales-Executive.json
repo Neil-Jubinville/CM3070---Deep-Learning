@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Executive",
+      "job_category": "Sales",
+      "job_class": "Executive",
+      "sector": "Sales",
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Talking to prospective users of software products, conducting qualitative research, and engaging with a wide range of audience including senior execs and project managers."
+    },
+    {
+      "duty": "Providing accurate and timely forecasts to sales management, maintaining knowledge of products, technologies, and industry trends, generating external sources of lead, and following up on leads."
+    },
+    {
+      "duty": "Preparing and hosting product demonstrations, identifying decision makers within targeted leads, and supporting marketing efforts such as trade shows and exhibits."
+    },
+    {
+      "duty": "Overcoming concerns or objections from prospective customers."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Qualitative Research",
+      "experience": 3
+    },
+    {
+      "skill": "Lead Generation",
+      "experience": 3
+    },
+    {
+      "skill": "CRM Management",
+      "experience": 3
+    },
+    {
+      "skill": "Sales Forecasting",
+      "experience": 3
+    },
+    {
+      "skill": "Product Demonstration",
+      "experience": 3
+    },
+    {
+      "skill": "Marketing Support",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BA/BS degree or equivalent preferred with 1-3 years of sales experience in the SAAS industry. Consistent track record of meeting/exceeding sales quota."
+    }
+  ]
+}

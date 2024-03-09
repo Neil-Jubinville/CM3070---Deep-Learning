@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Application Architect",
+      "job_category": "Software Engineering",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 135000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Application Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Java Development",
+      "experience": 5
+    },
+    {
+      "skill": "Java Frameworks",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Services",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Migration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Creating Minimum Viable Architecture (MVA) documents for single-family-based internal architecture."
+    },
+    {
+      "duty": "Leading the strategy and roadmap of capabilities from an architecture perspective."
+    },
+    {
+      "duty": "Building, designing, and providing support on current application architecture \u2013 POCs, Architecture Design, Blueprinting, etc."
+    },
+    {
+      "duty": "Leading AWS Cloud transformation and migration for 80% of applications."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": []
+}

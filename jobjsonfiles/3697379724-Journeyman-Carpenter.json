@@ -1,0 +1,50 @@
+{
+  "meta": [
+    {
+      "job_title": "Journeyman Carpenter",
+      "job_category": "Carpenter",
+      "job_class": "Journeyman",
+      "sector": "Construction",
+      "salary": 52000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Framing",
+      "experience": 4
+    },
+    {
+      "skill": "Shimming",
+      "experience": 4
+    },
+    {
+      "skill": "Hardware Installation",
+      "experience": 4
+    },
+    {
+      "skill": "Hand Tools",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Pick up framing, shims, and hardware installation"
+    },
+    {
+      "duty": "Perform other tasks as assigned"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 65
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "4+ years of experience and proper PPE"
+    }
+  ]
+}

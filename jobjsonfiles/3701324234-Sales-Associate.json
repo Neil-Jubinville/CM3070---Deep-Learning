@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Retail",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Selling Techniques",
+      "experience": 3
+    },
+    {
+      "skill": "Clienteling",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Retail Technology",
+      "experience": 3
+    },
+    {
+      "skill": "Digital Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Professional Communication",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Providing outstanding customer service and engaging customers warmly and professionally."
+    },
+    {
+      "duty": "Using suggestive selling techniques and meeting solicitation goals for loyalty programs."
+    },
+    {
+      "duty": "Utilizing technology to enhance the customer shopping experience and complete sales."
+    },
+    {
+      "duty": "Meeting personal sales goals and reducing shrinkage in the area."
+    },
+    {
+      "duty": "Maintaining store standards, appearance, and assisting with operational tasks."
+    },
+    {
+      "duty": "Assisting with non-sell duties as assigned by the Sales Team Manager."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "No education requirement. Experience in retail preferred"
+    }
+  ]
+}

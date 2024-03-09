@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Account Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Sales Presentations",
+      "experience": 3
+    },
+    {
+      "skill": "Cold Calling",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Education",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Satisfaction",
+      "experience": 3
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 3
+    },
+    {
+      "skill": "Industrial Products Knowledge",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Generate new leads through networking, cold calling, and researching various directories and internet sites."
+    },
+    {
+      "duty": "Interact face-to-face with customers to foster relationships, maintain satisfaction, and deliver effective sales presentations."
+    },
+    {
+      "duty": "Understand complex customer requirements for preparation of customized quoting and assist with on-site troubleshooting of customers' concerns."
+    },
+    {
+      "duty": "Work with and coordinate vendor resources to build relationships and support sales, increasing revenue and profitability through generation of new business."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelors Degree, industry, and sales experience required."
+    }
+  ]
+}

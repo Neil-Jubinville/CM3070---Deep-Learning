@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Mechatronics Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Manufacturing",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Design",
+      "experience": 4
+    },
+    {
+      "skill": "Embedded Software Development",
+      "experience": 4
+    },
+    {
+      "skill": "Electronics Design",
+      "experience": 4
+    },
+    {
+      "skill": "Version Control (Git)",
+      "experience": 4
+    },
+    {
+      "skill": "PCB Design",
+      "experience": 4
+    },
+    {
+      "skill": "Fluid Systems Design",
+      "experience": 2
+    },
+    {
+      "skill": "Aerospace Manufacturing",
+      "experience": 2
+    },
+    {
+      "skill": "Lab/Chemical Process Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Investment Casting",
+      "experience": 2
+    },
+    {
+      "skill": "3D Printing",
+      "experience": 2
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Mechanical design, sourcing, and manufacturing of hardware for production equipment"
+    },
+    {
+      "duty": "Embedded software for printing hardware"
+    },
+    {
+      "duty": "Electronics design, sourcing, and assembly"
+    },
+    {
+      "duty": "Ensure production hardware is always running, fix issues in real-time"
+    },
+    {
+      "duty": "When necessary, operate production equipment on the shop floor"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Mechatronics Engineering or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Sales",
+      "salary": 40000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clerical Support",
+      "experience": 1
+    },
+    {
+      "skill": "Administrative Assistance",
+      "experience": 1
+    },
+    {
+      "skill": "English Fluency",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Computer Proficiency",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform all clerical functions for the Sales Department."
+    },
+    {
+      "duty": "Maintain awareness of the most current traffic policies, practices, and procedures."
+    },
+    {
+      "duty": "Enter order, traffic, and accounting data using computers, ledgers, orders, and other resources."
+    },
+    {
+      "duty": "Correspond with customers and confer with coworkers to answer inquiries and resolve account problems."
+    },
+    {
+      "duty": "Prepare forms and reports."
+    },
+    {
+      "duty": "Monitor inventory."
+    },
+    {
+      "duty": "Maintain files and other business records."
+    },
+    {
+      "duty": "Perform other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma"
+    }
+  ]
+}

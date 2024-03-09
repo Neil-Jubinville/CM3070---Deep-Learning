@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Security Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 135000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Penetration Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Network Security",
+      "experience": 5
+    },
+    {
+      "skill": "Code Review",
+      "experience": 5
+    },
+    {
+      "skill": "Security Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Security",
+      "experience": 5
+    },
+    {
+      "skill": "Exploit Development",
+      "experience": 5
+    },
+    {
+      "skill": "Vulnerability Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    },
+    {
+      "skill": "Threat Research",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing tests on applications, networks, and cloud infrastructures."
+    },
+    {
+      "duty": "Developing methodologies for penetration testing, experimenting with different types of attacks, and reviewing code for security vulnerabilities."
+    },
+    {
+      "duty": "Documenting detailed steps of the approach and execution, along with all evidence of findings."
+    },
+    {
+      "duty": "Automating common testing techniques to improve efficiency and determine solutions for implementation within the organization's environment."
+    },
+    {
+      "duty": "Writing technical reports, including executive level summaries, and communicating findings to technical staff and leadership."
+    },
+    {
+      "duty": "Staying current with emerging threat trends, researching, learning, and improving skills to emulate attacker tactics, techniques, and procedures."
+    },
+    {
+      "duty": "Mentoring and sharing knowledge with other security practitioners and technology stakeholders."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "College degree in Computer Information Systems, Computer Science, Information Systems Management, or equivalent professional experience."
+    },
+    {
+      "credential": "Industry specific technical certification: CEH, CompTIA PenTest+, GPEN, GWAPT, OSCP, CPT, etc."
+    }
+  ]
+}

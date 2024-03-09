@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Server",
+      "job_category": "Hospitality",
+      "job_class": "Customer Service",
+      "sector": "Food and Beverage",
+      "salary": 28000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Fine Dining Experience",
+      "experience": 1
+    },
+    {
+      "skill": "Friendly Attitude",
+      "experience": 1
+    },
+    {
+      "skill": "Fast-paced Environment",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide exceptional customer service to guests in a fine dining setting."
+    },
+    {
+      "duty": "Create a welcoming and accommodating atmosphere for guests."
+    },
+    {
+      "duty": "Work effectively in a fast-paced environment with attention to detail."
+    },
+    {
+      "duty": "Collaborate with team members to ensure a positive guest experience."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

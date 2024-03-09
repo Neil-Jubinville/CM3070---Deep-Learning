@@ -1,0 +1,113 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Backend Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior Engineer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Spring Boot",
+      "experience": 10
+    },
+    {
+      "skill": "Java",
+      "experience": 10
+    },
+    {
+      "skill": "Python",
+      "experience": 10
+    },
+    {
+      "skill": "Golang",
+      "experience": 10
+    },
+    {
+      "skill": "Database Design",
+      "experience": 10
+    },
+    {
+      "skill": "API Security",
+      "experience": 10
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 10
+    },
+    {
+      "skill": "Integration and Deployment",
+      "experience": 10
+    },
+    {
+      "skill": "Git",
+      "experience": 10
+    },
+    {
+      "skill": "Microservices Architecture",
+      "experience": 10
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 10
+    },
+    {
+      "skill": "Cybersecurity Practices",
+      "experience": 10
+    },
+    {
+      "skill": "Leadership",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the design, development, and implementation of scalable backend systems and APIs using Spring Boot, Java, and Python."
+    },
+    {
+      "duty": "Design, implement, and optimize databases to support applications. Familiarity with relational and NoSQL databases is essential."
+    },
+    {
+      "duty": "Utilize data analysis techniques to gain insights into system performance, user behavior, and application usage."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to design and build RESTful APIs that meet project requirements."
+    },
+    {
+      "duty": "Demonstrate expertise in API security and address security violations, vulnerabilities, and incidents."
+    },
+    {
+      "duty": "Conduct thorough code reviews, identify performance bottlenecks, and optimize application performance."
+    },
+    {
+      "duty": "Troubleshoot and debug complex issues within the backend system, both independently and as part of a team."
+    },
+    {
+      "duty": "Integrate backend systems with monitoring and analysis tools for comprehensive monitoring and logging."
+    },
+    {
+      "duty": "Collaborate with DevOps teams to integrate backend applications with deployment pipelines."
+    },
+    {
+      "duty": "Work closely with cross-functional teams, including frontend developers, DevOps engineers, and product managers, to ensure seamless integration and delivery of features."
+    },
+    {
+      "duty": "Mentor junior developers and guide technical decisions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's degree in Computer Science, Software Engineering, or a related field."
+    }
+  ]
+}

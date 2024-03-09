@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Shellfish Processing Technician",
+      "job_category": "Agriculture",
+      "job_class": "Technician",
+      "sector": "Agriculture",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Grading and Packaging",
+      "experience": 2
+    },
+    {
+      "skill": "Facility and Vehicle Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Harvest Boat Assistance",
+      "experience": 2
+    },
+    {
+      "skill": "Physical Labor",
+      "experience": 3
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Grading and packaging shellfish"
+    },
+    {
+      "duty": "Facility care and maintenance"
+    },
+    {
+      "duty": "Vehicle care and maintenance"
+    },
+    {
+      "duty": "Assisting harvest boat crews"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

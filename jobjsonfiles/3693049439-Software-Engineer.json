@@ -1,0 +1,116 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Frontend development",
+      "experience": 5
+    },
+    {
+      "skill": "React",
+      "experience": 5
+    },
+    {
+      "skill": "Node.js",
+      "experience": 3
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "Serverless technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Scrum",
+      "experience": 5
+    },
+    {
+      "skill": "Agile development",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "Relational databases",
+      "experience": 5
+    },
+    {
+      "skill": "Software architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Unit testing",
+      "experience": 5
+    },
+    {
+      "skill": "Integration testing",
+      "experience": 5
+    },
+    {
+      "skill": "Technical leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Decision-making",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design & build solutions, frameworks, automation, and orchestration for a broad range of applications."
+    },
+    {
+      "duty": "Architect and develop new features."
+    },
+    {
+      "duty": "Write unit/integration tests and refactor when appropriate."
+    },
+    {
+      "duty": "Break apart complex initiatives into manageable chunks."
+    },
+    {
+      "duty": "Provide experience and support for the planning and execution of complex technical projects."
+    },
+    {
+      "duty": "Collaborate with a distributed team and stakeholders."
+    },
+    {
+      "duty": "Advocate architecture, design, and software engineering principles."
+    },
+    {
+      "duty": "Lead and mentor the team to follow software engineering standards."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

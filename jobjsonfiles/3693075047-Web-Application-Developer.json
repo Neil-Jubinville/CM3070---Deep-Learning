@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Web Application Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 115000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Typescript",
+      "experience": 5
+    },
+    {
+      "skill": "Angular",
+      "experience": 5
+    },
+    {
+      "skill": ".NET",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Django",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Server",
+      "experience": 5
+    },
+    {
+      "skill": "C#",
+      "experience": 3
+    },
+    {
+      "skill": "ASP.NET",
+      "experience": 3
+    },
+    {
+      "skill": "Javascript",
+      "experience": 5
+    },
+    {
+      "skill": "React",
+      "experience": 3
+    },
+    {
+      "skill": "RESTful APIs",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain web applications using current web technologies like Typescript, Angular, and .NET."
+    },
+    {
+      "duty": "Create backend logic and code using Python and Django, and integrate with SQL Server database."
+    },
+    {
+      "duty": "Utilize C#, ASP.NET, Javascript, and React for application development and integration with RESTful APIs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in Computer Science, Computer Engineering, or related field of study"
+    }
+  ]
+}

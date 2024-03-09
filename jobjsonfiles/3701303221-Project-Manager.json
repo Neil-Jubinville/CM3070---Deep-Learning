@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Construction",
+      "job_class": "Manager",
+      "sector": "Construction",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Construction Management",
+      "experience": 4
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 4
+    },
+    {
+      "skill": "Business Development",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Managing commercial interior projects with budgets of $5M - $10M in the Healthcare, Corporate Office, Retail, Restaurant/Hospitality, and Education sectors."
+    },
+    {
+      "duty": "Overseeing a small team of Assistant Project Managers (APMs) and providing guidance and leadership."
+    },
+    {
+      "duty": "Pursuing new business opportunities and managing/growing existing client relationships to contribute to the company's growth."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Construction Management, Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

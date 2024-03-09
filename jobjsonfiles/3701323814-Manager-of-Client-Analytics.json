@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Manager of Client Analytics",
+      "job_category": "Analytics",
+      "job_class": "Manager",
+      "sector": "Analytics",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Healthcare Analytics",
+      "experience": 3
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Data Mining",
+      "experience": 3
+    },
+    {
+      "skill": "Statistical Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Presentation Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Medicare/Medicaid Claims Reimbursement",
+      "experience": 3
+    },
+    {
+      "skill": "Database Design",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, document, develop, and rollout financial, clinical, and utilization-based analyses."
+    },
+    {
+      "duty": "Query design and data preparation."
+    },
+    {
+      "duty": "Data analysis and visualization design."
+    },
+    {
+      "duty": "Database design and creation."
+    },
+    {
+      "duty": "Speak to experience in SQL (creating simple & complex queries) and polished presentation skills during interviews."
+    },
+    {
+      "duty": "Analyze opportunities and solve complex issues for clients related to Medicaid/Medicare Claims Reimbursement."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Healthcare Analytics, Finance/Economics, Math/Statistics, or related field"
+    }
+  ]
+}

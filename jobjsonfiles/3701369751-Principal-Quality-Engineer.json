@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Principal Quality Engineer",
+      "job_category": "Engineering",
+      "job_class": "Principal",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Performance Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Performance Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Scalability Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Go",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the performance and scalability testing program, utilizing a shift-left mindset."
+    },
+    {
+      "duty": "Design and implement a scalable framework to validate that new and existing features and platform components perform well at scale."
+    },
+    {
+      "duty": "Enable engineering teams to translate performance requirements into testing strategies to ensure that their work scales prior to release."
+    },
+    {
+      "duty": "Establish monitoring, observability and performance measurement standards together with feature delivery teams to improve customer delight."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to understand and translate business requirements into technical requirements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's degree in Computer Science or a related field."
+    }
+  ],
+  "salary": 150000
+}

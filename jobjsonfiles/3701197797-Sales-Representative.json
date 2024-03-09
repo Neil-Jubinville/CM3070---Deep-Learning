@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Performance",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Construction Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Bilingual (Spanish and English)",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Handle all inbound leads and distribute leads throughout the sales team."
+    },
+    {
+      "duty": "Meet with customers on their remodeling, addition, or commercial construction requests."
+    },
+    {
+      "duty": "Fulfill sales process from lead to fruition."
+    },
+    {
+      "duty": "50% in-office work and 50% visiting customer sites."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid driver's license"
+    }
+  ]
+}

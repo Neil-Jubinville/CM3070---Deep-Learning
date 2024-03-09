@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Facilities Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Facilities Management",
+      "experience": 3
+    },
+    {
+      "skill": "Housekeeping",
+      "experience": 3
+    },
+    {
+      "skill": "Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Safety Precautions",
+      "experience": 3
+    },
+    {
+      "skill": "Logistics",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain overall cleanliness and order of all building spaces."
+    },
+    {
+      "duty": "Coordinate office equipment and furniture moves."
+    },
+    {
+      "duty": "Set up community rooms for meetings and special events."
+    },
+    {
+      "duty": "Inspect sites property to correct unsafe conditions."
+    },
+    {
+      "duty": "Handle snow removal and salting in inclement weather."
+    },
+    {
+      "duty": "Coordinate shipping and receiving of medical waste disposal."
+    },
+    {
+      "duty": "Process outgoing mail from various departments within the sites."
+    },
+    {
+      "duty": "Handle after hour emergencies when directed by the Facilities Manager."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school graduate or equivalent required. Valid, Active driver\u2019s license."
+    }
+  ]
+}

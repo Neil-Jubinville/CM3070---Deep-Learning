@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 185000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 2
+    },
+    {
+      "skill": "C++",
+      "experience": 2
+    },
+    {
+      "skill": "Linux",
+      "experience": 2
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "CS Fundamentals",
+      "experience": 5
+    },
+    {
+      "skill": "Systems Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Debugging",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Database Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Query Optimization",
+      "experience": 5
+    },
+    {
+      "skill": "Distributed Systems",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and support a petabyte-scale cloud database that is highly parallel and fault-tolerant."
+    },
+    {
+      "duty": "Build high-quality and highly reliable software to meet the needs of some of the largest companies on the planet."
+    },
+    {
+      "duty": "Analyze and understand performance and scalability bottlenecks in the system and solve them."
+    },
+    {
+      "duty": "Pinpoint problems, instrument relevant components as needed, and ultimately implement solutions."
+    },
+    {
+      "duty": "Design and implement novel query optimization or distributed data processing algorithms which allow Snowflake to provide industry leading data warehousing capabilities."
+    },
+    {
+      "duty": "Design and implement the new service architecture required to enable the Snowflake Data Cloud."
+    },
+    {
+      "duty": "Develop tools for improving our customers' insights into their workloads."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree or foreign equivalent in Computer Science, Software Engineering or related field; Masters or PhD preferred"
+    }
+  ]
+}

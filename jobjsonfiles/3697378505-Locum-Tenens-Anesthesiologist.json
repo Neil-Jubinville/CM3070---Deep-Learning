@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Locum Tenens Anesthesiologist",
+      "job_category": "Healthcare",
+      "job_class": "Anesthesiologist",
+      "sector": "Healthcare",
+      "salary": 250000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Anesthesiology",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Procedures",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Settings",
+      "experience": 5
+    },
+    {
+      "skill": "Flexibility",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide high-quality patient care in a challenging yet rewarding environment."
+    },
+    {
+      "duty": "Work in various healthcare settings and interact with a diverse patient population."
+    },
+    {
+      "duty": "Choose assignments and enjoy a balanced work-life schedule."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Medical degree with specialization in Anesthesiology"
+    }
+  ]
+}

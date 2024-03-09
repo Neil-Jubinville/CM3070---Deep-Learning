@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Tax Associate",
+      "job_category": "Accounting",
+      "job_class": "Associate",
+      "sector": "Accounting",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tax Preparation",
+      "experience": 5
+    },
+    {
+      "skill": "Tax Law",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    },
+    {
+      "skill": "CPA Certification",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare individual, business, and fiduciary tax returns and projections in accordance with firm and professional standards."
+    },
+    {
+      "duty": "Communicate directly with existing clients, colleagues, management, and IRS representatives regarding various tax matters, including IRS and state agency audits, inquiries, and tax notices."
+    },
+    {
+      "duty": "Review tax work of less experienced staff."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 60,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Accounting or related field. CPA certification (active) preferred."
+    }
+  ]
+}

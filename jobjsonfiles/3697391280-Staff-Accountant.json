@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Accountant",
+      "job_category": "Accounting",
+      "job_class": "Accountant",
+      "sector": "Accounting",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "General Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "Accounts Receivable",
+      "experience": 5
+    },
+    {
+      "skill": "Accounts Payable",
+      "experience": 5
+    },
+    {
+      "skill": "Banking and Cash Management",
+      "experience": 5
+    },
+    {
+      "skill": "Tax Audits",
+      "experience": 5
+    },
+    {
+      "skill": "ERP Software",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage accounts receivable and payable"
+    },
+    {
+      "duty": "Assist in managing invoicing & RMA credit process"
+    },
+    {
+      "duty": "Banking and cash management activities"
+    },
+    {
+      "duty": "Monitor in-house equipment leasing program"
+    },
+    {
+      "duty": "Assist with internal, state, sales/use tax audits"
+    },
+    {
+      "duty": "401k plan reporting"
+    },
+    {
+      "duty": "Manage communications with field personnel related to employee benefits"
+    },
+    {
+      "duty": "Support month-end and year-end close process"
+    },
+    {
+      "duty": "Department P&L reporting"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in Accounting or related field (Master's preferred)"
+    }
+  ]
+}

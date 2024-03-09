@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer Manager",
+      "job_category": "Software Engineering",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 230000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    },
+    {
+      "skill": "Team Management",
+      "experience": 2
+    },
+    {
+      "skill": "Complex Organization",
+      "experience": 3
+    },
+    {
+      "skill": "Systems Design",
+      "experience": 5
+    },
+    {
+      "skill": "Coding",
+      "experience": 5
+    },
+    {
+      "skill": "Code Review",
+      "experience": 5
+    },
+    {
+      "skill": "Feedback and Coaching",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Set and communicate team priorities that support the broader organization's goals."
+    },
+    {
+      "duty": "Align strategy, processes, and decision-making across teams."
+    },
+    {
+      "duty": "Set clear expectations with individuals based on their level and role and aligned to the broader organization's goals."
+    },
+    {
+      "duty": "Develop the mid-term technical vision and roadmap within the scope of your (often multiple) team(s)."
+    },
+    {
+      "duty": "Design, guide, and vet systems designs within the scope of the broader area, and write product or system development code to solve ambiguous problems."
+    },
+    {
+      "duty": "Review code developed by other engineers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree, or equivalent practical experience. 5 years of experience with software development in one or more programming languages (e.g., Python, C, C++, Java, JavaScript).3 years of experience in a technical leadership role; overseeing strategic projects, with 2 years of experience in a people management, supervision/team leadership role."
+    },
+    {
+      "credential": "Master's degree or PhD in Computer Science or related technical field. 3 years of experience working in a complex, matrixed organization."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Privacy and Security Development",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Coding in Python, Java, Golang, C#, or C++",
+      "experience": 5
+    },
+    {
+      "skill": "Software Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Curiosity towards new technologies and entrepreneurship",
+      "experience": 5
+    },
+    {
+      "skill": "Quick Problem-Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build new Privacy and Security features that touch hundreds of millions of people around the world"
+    },
+    {
+      "duty": "Solve unique, large-scale, highly complex technical problems"
+    },
+    {
+      "duty": "Participate in technical discussions related to team's product and engineering work"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's degree in Computer Science or related fields or equivalent practical experience"
+    }
+  ]
+}

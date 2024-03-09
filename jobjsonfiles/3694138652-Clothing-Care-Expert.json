@@ -1,0 +1,49 @@
+{
+  "meta": [
+    {
+      "job_title": "Clothing Care Expert",
+      "job_category": "Clothing Care",
+      "job_class": "Expert",
+      "sector": "Consulting",
+      "salary": 100,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clothing Care Products",
+      "experience": 5
+    },
+    {
+      "skill": "Trend Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide in-depth insights on clothing care products and trends in the US."
+    },
+    {
+      "duty": "Guide research, content creation, and product recommendations based on expertise."
+    },
+    {
+      "duty": "Answer detailed questions on usage and trends of clothing care products."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 255,
+      "student_teacher": 0,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Proven portfolio and extensive experience in lieu of a degree"
+    }
+  ]
+}

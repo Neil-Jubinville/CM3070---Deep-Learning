@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Scheduler",
+      "job_category": "Healthcare",
+      "job_class": "Coordinator",
+      "sector": "Healthcare",
+      "salary": 23,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 1
+    },
+    {
+      "skill": "Scheduling",
+      "experience": 1
+    },
+    {
+      "skill": "Call Center Operations",
+      "experience": 1
+    },
+    {
+      "skill": "Clinical Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Coordinate appointments and perform heavy data entry for a specialty clinic."
+    },
+    {
+      "duty": "Obtain patient medical history and enter it into the database."
+    },
+    {
+      "duty": "Screen patients for medically implanted devices, pain pumps, pacemakers, prosthetics, metal in the body, etc."
+    },
+    {
+      "duty": "Inform patients of medication limitations when needed."
+    },
+    {
+      "duty": "Advise patients when labs are needed."
+    },
+    {
+      "duty": "Inform patients of exam preparations, food, water, contrast, etc."
+    },
+    {
+      "duty": "Obtain and input demographics, insurance, authorization, and run eligibility checks."
+    },
+    {
+      "duty": "Obtain prior imaging information and place requests for images to ensure they are available in the system prior to patient appointment for comparison."
+    },
+    {
+      "duty": "Collaborate with Radiology technologists and/or Radiologists to protocol exams to ensure patient safety."
+    },
+    {
+      "duty": "Communicate with the referring provider for additional patient medical information, prior imaging locations, medically implanted device manufacturing number if patients are unable to provide."
+    },
+    {
+      "duty": "Perform other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 64,
+      "student_teacher": 64,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma required. Certified Medical Assistant preferred. Familiarity with an electronic practice management system is preferred. Experience with multi-line phones/ACD phones preferred. Medical terminology preferred."
+    }
+  ]
+}

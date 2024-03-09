@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Linux",
+      "experience": 8
+    },
+    {
+      "skill": "Yocto/OpenEmbedded",
+      "experience": 8
+    },
+    {
+      "skill": "DevOps",
+      "experience": 8
+    },
+    {
+      "skill": "C++",
+      "experience": 8
+    },
+    {
+      "skill": "QT",
+      "experience": 8
+    },
+    {
+      "skill": "Scrum",
+      "experience": 8
+    },
+    {
+      "skill": "Azure",
+      "experience": 8
+    },
+    {
+      "skill": "Leadership",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Generate custom Linux distributions and cross-toolchains and u-Boot bootloader."
+    },
+    {
+      "duty": "Debug issues that span across multiple layers from kernel to application."
+    },
+    {
+      "duty": "Promote the DevOps culture and actively contribute to change management."
+    },
+    {
+      "duty": "Design, develop and maintain CI/CD pipelines for build servers for device, desktop software, mobile applications, and Azure."
+    },
+    {
+      "duty": "Automate multi-stage pipelines for development, unit testing, integration testing, static/dynamic code analysis and deployment."
+    },
+    {
+      "duty": "Ensure the administration and maintenance of software and hardware infrastructure specific to engineering, in collaboration with IT."
+    },
+    {
+      "duty": "Assume a leadership role by proposing and deploying solutions to improve work methods."
+    },
+    {
+      "duty": "Integrate and sustain new hardware/peripherals selected by Electrical Engineering Team."
+    },
+    {
+      "duty": "Be the interface between the Electrical Engineering Team and the Software Engineering Team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or master's degree in a relevant field."
+    }
+  ]
+}

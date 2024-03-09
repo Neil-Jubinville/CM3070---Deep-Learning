@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Part Time Retail Store Sales Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Retail",
+      "salary": 16,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Upselling",
+      "experience": 2
+    },
+    {
+      "skill": "POS System",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greet and assess customer needs as they come into the store and offer solutions"
+    },
+    {
+      "duty": "Mix, tint and match paint to customer request"
+    },
+    {
+      "duty": "Suggest and upsell additional products, such as brushes, rollers, and tape"
+    },
+    {
+      "duty": "Ensure store is always clean and stocked with paint and other store products"
+    },
+    {
+      "duty": "Process orders and payments request in person, over phone, online, and email"
+    },
+    {
+      "duty": "Use POS system to receive payments and cash out customers"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

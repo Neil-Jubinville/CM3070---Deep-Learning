@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Biobank Technician I",
+      "job_category": "Life Sciences",
+      "job_class": "Technician",
+      "sector": "Life Sciences",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Biobank Management",
+      "experience": 2
+    },
+    {
+      "skill": "SOP Adherence",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Laboratory Safety",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Excel",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Physical Requirements Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Register, label, retrieve, and discard biological and production materials in accordance with SOPs and regulatory requirements."
+    },
+    {
+      "duty": "Maintain appropriate temperatures for materials and handle materials with the required safety measures."
+    },
+    {
+      "duty": "Utilize the Company Inventory Management System for sample handling tasks and maintain chain of custody and audit trails."
+    },
+    {
+      "duty": "Perform quality control checks and investigate/document issues encountered in material handling."
+    },
+    {
+      "duty": "Assist with facility upkeep and freezer maintenance as assigned."
+    },
+    {
+      "duty": "Work in an area with potentially infectious materials and maintain a clean work environment while following Universal Precautions for bloodborne pathogens."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate Degree OR HS Diploma + 2 years relevant experience OR six months' demonstrated proficiency as a Biobank Assistant."
+    }
+  ]
+}

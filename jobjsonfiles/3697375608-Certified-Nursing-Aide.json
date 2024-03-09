@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Certified Nursing Aide",
+      "job_category": "Healthcare",
+      "job_class": "Aide",
+      "sector": "Healthcare",
+      "salary": 28000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform routine care rounds on each assigned resident, at minimum, every two hours (or more frequently as indicated)."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Vital Signs Monitoring",
+      "experience": 1
+    },
+    {
+      "skill": "Calculating and Recording",
+      "experience": 1
+    },
+    {
+      "skill": "Cleanliness Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Abnormal Changes Recognition",
+      "experience": 1
+    },
+    {
+      "skill": "Palliative Care",
+      "experience": 1
+    },
+    {
+      "skill": "Post-mortem Care",
+      "experience": 1
+    },
+    {
+      "skill": "Resident Care",
+      "experience": 1
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or general education degree (GED), or three-six months related experience and/or training or equivalent combination of education and experience preferred. Graduate of a state approved nursing assistant training program and passed a state approved competency examination (written and skills) within 120 days of employment; name entered into state nurse aide registry."
+    }
+  ]
+}

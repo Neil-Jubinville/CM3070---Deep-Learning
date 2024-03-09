@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Personal Trainer",
+      "job_category": "Personal Training",
+      "job_class": "Trainer",
+      "sector": "Fitness",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Fitness Programming",
+      "experience": 3
+    },
+    {
+      "skill": "Client Engagement",
+      "experience": 3
+    },
+    {
+      "skill": "Personal Training",
+      "experience": 5
+    },
+    {
+      "skill": "Fitness Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "CPR/AED Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Physical Fitness",
+      "experience": 5
+    },
+    {
+      "skill": "Professional Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and execute personalized fitness programs to help members achieve their specific fitness goals."
+    },
+    {
+      "duty": "Engage with members through one-on-one personal training, small group training, and member engagement activities."
+    },
+    {
+      "duty": "Maintain client programs and fitness assessment forms, ensuring accurate records and documentation."
+    },
+    {
+      "duty": "Adhere to club policies and procedures, ensuring the safety and satisfaction of club members."
+    },
+    {
+      "duty": "Participate in fitness education and outreach activities to promote fitness and health within the community."
+    },
+    {
+      "duty": "Handle administrative tasks, including scheduling, session authorization, and maintaining client records."
+    },
+    {
+      "duty": "Collaborate with the Fitness Leaders and Operations/Sales team to evaluate member needs and provide fitness services."
+    },
+    {
+      "duty": "Meet and exceed session, revenue, and sales targets to drive business growth and member retention."
+    },
+    {
+      "duty": "Maintain active CPR/AED certification and continuously seek professional development opportunities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree helpful, but not required in Exercise Physiology, Kinesiology, Recreation or P.E. related field."
+    },
+    {
+      "credential": "Active Child & Adult AED/CPR certification required."
+    },
+    {
+      "credential": "Certified Personal Trainer (CPT) from approved list of personal training certifications at NYSC."
+    }
+  ]
+}

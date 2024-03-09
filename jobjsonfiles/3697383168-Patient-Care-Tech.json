@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Care Tech",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Assistance",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide direct or indirect patient care in accordance with treatment plans as determined/delegated by a licensed nurse."
+    },
+    {
+      "duty": "Assist with tasks necessary for the general management and organization of the patient care unit."
+    },
+    {
+      "duty": "Assist with admission, discharge, and transfer of patients."
+    },
+    {
+      "duty": "Ensure equipment and facilities are clean and stocked with appropriate supplies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Nursing Fundamentals, Certified Nursing Assistant (CNA) certification -OR- one (1) year experience as a medical assistant/technician in a health-related facility"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Sales",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Power Transmission Application Expertise",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Design Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Design Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Compliance Review",
+      "experience": 5
+    },
+    {
+      "skill": "Field Service Calls",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Pricing Assistance",
+      "experience": 5
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide power transmission application expertise to personnel and customers to maintain sales activity and increase new sales within Corporate guidelines."
+    },
+    {
+      "duty": "Assist corporate DSM's and customers with application expertise in mechanical and electrical design engineering."
+    },
+    {
+      "duty": "Review drive specifications and job requirements to assure technical compliance."
+    },
+    {
+      "duty": "Make field service calls to review applications, failures, and effect repairs."
+    },
+    {
+      "duty": "Provide selection and pricing assistance to corporate personnel and customers."
+    },
+    {
+      "duty": "Occasionally travel domestically and overseas for company business, and stay overnight for extended periods when necessary."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor degree or higher degree in electronics, electrical, mechatronics, and computing"
+    }
+  ]
+}

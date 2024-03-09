@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Hardware Engineer",
+      "job_category": "Engineering",
+      "job_class": "Hardware Engineer",
+      "sector": "Software Engineering",
+      "salary": 200000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Product Engineering",
+      "experience": 6
+    },
+    {
+      "skill": "Test Engineering",
+      "experience": 6
+    },
+    {
+      "skill": "IC flows",
+      "experience": 6
+    },
+    {
+      "skill": "Wafer Processing",
+      "experience": 6
+    },
+    {
+      "skill": "Diagnostics",
+      "experience": 6
+    },
+    {
+      "skill": "Statistical Analysis",
+      "experience": 6
+    },
+    {
+      "skill": "Python",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and execute strategies for SoC Product New Product Introduction, bring-up, verification, characterization, and qualification support."
+    },
+    {
+      "duty": "Drive interactions with wafer fabrication and OSATs, own and drive checkpoints for key quality metrics."
+    },
+    {
+      "duty": "Setup and maintain test, diagnosis, and yield analysis infrastructure, including RMA support."
+    },
+    {
+      "duty": "Support volume ramp and production through test program upgrades and releases, volume data analytics, lot disposition, extended test time reduction and yield improvement, RMA analysis, etc."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams across the globe including ATE Test Engineering, Packaging, Supply chain, and Operations to build and deploy a high volume manufacturing screening solution."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electrical Engineering, Computer Science, a related technical field, or equivalent practical experience. Master's degree in Computer Science, Electrical Engineering, or a related technical field preferred."
+    }
+  ]
+}

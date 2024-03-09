@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Dynamics 365 CRM Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Dynamics 365 CRM Experience",
+      "experience": 5
+    },
+    {
+      "skill": "C#",
+      "experience": 5
+    },
+    {
+      "skill": "Javascript/React",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Partner with clients internal and external business teams, and engineering to analyze, design, create, execute, and release CRM implementations."
+    },
+    {
+      "duty": "Translate business requirements specs into the technical design to accommodate updates to the existing CRM implementation."
+    },
+    {
+      "duty": "Own and create technical designs, and review them with Dynamics 365 architect and coordinate parallel development efforts."
+    },
+    {
+      "duty": "Document and train end users in CRM system."
+    }
+  ]
+}

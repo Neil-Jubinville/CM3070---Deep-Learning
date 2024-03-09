@@ -1,0 +1,120 @@
+{
+  "meta": [
+    {
+      "job_title": "GCP Data lead/Architect",
+      "job_category": "Information Technology",
+      "job_class": "Lead/Architect",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Architecture",
+      "experience": 8
+    },
+    {
+      "skill": "GCP Cloud Native ETL/ELT Services",
+      "experience": 8
+    },
+    {
+      "skill": "BigQuery",
+      "experience": 8
+    },
+    {
+      "skill": "Dataform",
+      "experience": 8
+    },
+    {
+      "skill": "API Integration",
+      "experience": 8
+    },
+    {
+      "skill": "Mulesoft",
+      "experience": 8
+    },
+    {
+      "skill": "Boomi",
+      "experience": 8
+    },
+    {
+      "skill": "Storage Infrastructure",
+      "experience": 8
+    },
+    {
+      "skill": "Event-Based Architecture",
+      "experience": 8
+    },
+    {
+      "skill": "Cloud Functions",
+      "experience": 8
+    },
+    {
+      "skill": "Monitoring",
+      "experience": 8
+    },
+    {
+      "skill": "Logging",
+      "experience": 8
+    },
+    {
+      "skill": "Auditing",
+      "experience": 8
+    },
+    {
+      "skill": "Cortex Framework",
+      "experience": 8
+    },
+    {
+      "skill": "SAP Integration",
+      "experience": 8
+    },
+    {
+      "skill": "Networking on GCP",
+      "experience": 8
+    },
+    {
+      "skill": "Cloud Orchestration Tools",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement medium/large scale Data Warehouse solution as a data architect"
+    },
+    {
+      "duty": "Hands-on development of GCP Cloud Native ETL/ELT services with deep understanding of BigQuery and Dataform"
+    },
+    {
+      "duty": "Operationalize large scale ingestion, processing, and consumption using dataflow or cloud fusion"
+    },
+    {
+      "duty": "Ingest data through API's or integration tools such as Mulesoft or Boomi"
+    },
+    {
+      "duty": "Utilize event-based architecture using Cloud Functions, Monitoring, Logging, and Auditing services of GCP"
+    },
+    {
+      "duty": "Integrate with SAP using Cortex framework on GCP"
+    },
+    {
+      "duty": "Manage Networking on GCP and Gateway connectivity"
+    },
+    {
+      "duty": "Utilize Cloud Orchestration tools such as Cloud Functions, Cloud Composer, and Apache Airflow or related"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

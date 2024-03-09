@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Underwriter",
+      "job_category": "Healthcare",
+      "job_class": "Underwriter",
+      "sector": "Insurance",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Underwriting",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analytics",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Modelling",
+      "experience": 5
+    },
+    {
+      "skill": "Statistical Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Logical Reasoning",
+      "experience": 5
+    },
+    {
+      "skill": "Domain Expertise in Medical Terminology",
+      "experience": 5
+    },
+    {
+      "skill": "Stakeholder Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Review and approve risk profiles, defining cash exposure and minimizing loss."
+    },
+    {
+      "duty": "Analyze large datasets, create simulations, and validate risk profiles using data analytics and financial modeling."
+    },
+    {
+      "duty": "Utilize statistical tools for regression, time-series, permutations, combinations, standard deviation, short term and long term forecasting."
+    },
+    {
+      "duty": "Understand and apply CMS/DOI policies & procedures to effectively evaluate risk profiles."
+    },
+    {
+      "duty": "Work with multiple stakeholders to assimilate data, prepare cases, and issue policies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140
+    },
+    {
+      "student_teacher": 80
+    },
+    {
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Healthcare, Insurance, or related field (Master's preferred)"
+    }
+  ]
+}

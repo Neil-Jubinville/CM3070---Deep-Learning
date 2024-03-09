@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft Power Apps",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Dynamics 365",
+      "experience": 5
+    },
+    {
+      "skill": "Power Platform Design",
+      "experience": 5
+    },
+    {
+      "skill": "C#",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": ".Net",
+      "experience": 5
+    },
+    {
+      "skill": "Power BI",
+      "experience": 5
+    },
+    {
+      "skill": "Power Automate",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "ERP Implementation",
+      "experience": 5
+    },
+    {
+      "skill": "Full MS BI Stack",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, configure, and develop custom solutions in Microsoft Power platform, specifically Power Apps and Microsoft Dynamics 365."
+    },
+    {
+      "duty": "Support and build on the MPP application, including providing batch job monitoring and integration monitoring."
+    },
+    {
+      "duty": "Effectively present information to C-level management, public groups, and/or the board of directors."
+    },
+    {
+      "duty": "Provide full life-cycle implementation of Dynamics 365 and demonstrate knowledge and experience in ERP implementation principles and practices."
+    },
+    {
+      "duty": "Utilize Agile methodology and demonstrate experience across the full MS BI Stack."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (Master's preferred)"
+    },
+    {
+      "credential": "Certification in Microsoft Dynamics 365"
+    }
+  ]
+}

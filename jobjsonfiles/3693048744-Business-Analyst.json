@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Analyst",
+      "job_category": "Business",
+      "job_class": "Analyst",
+      "sector": "Business",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Business Process Reengineering",
+      "experience": 8
+    },
+    {
+      "skill": "SQL",
+      "experience": 8
+    },
+    {
+      "skill": "System Reporting (Oracle, SQL)",
+      "experience": 8
+    },
+    {
+      "skill": "Systems Testing (Unit, Integration, UAT)",
+      "experience": 8
+    },
+    {
+      "skill": "Excellent communication skills (verbal and in writing)",
+      "experience": 4
+    },
+    {
+      "skill": "Agile Software Development Methodologies Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Project and/or Product Management experience",
+      "experience": 1
+    },
+    {
+      "skill": "Experience with Jira",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Reviews, analyzes, and evaluates business systems and user needs."
+    },
+    {
+      "duty": "Formulates systems to parallel overall business strategies."
+    },
+    {
+      "duty": "Prepares solution options, risk identification, and financial analyses such as cost/benefit, ROI, buy/build, etc."
+    },
+    {
+      "duty": "Writes detailed description of user needs, program functions, and steps required to develop or modify computer programs."
+    },
+    {
+      "duty": "Performs requirement gathering, analysis of requirements, development of requirements and design for required system modifications."
+    },
+    {
+      "duty": "Completes business requirement documents, user stories, and business area collaboration and/or coordination."
+    },
+    {
+      "duty": "Coordinates demos, UAT, code releases, and user communication with technical teams."
+    },
+    {
+      "duty": "Works in an Agile environment and provides on-call support as necessary."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Computer Science, or related field (Master's preferred)"
+    }
+  ]
+}

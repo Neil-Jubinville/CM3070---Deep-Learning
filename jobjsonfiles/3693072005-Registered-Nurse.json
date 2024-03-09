@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Professional Nursing Care",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Assessment",
+      "experience": 2
+    },
+    {
+      "skill": "Directing and Supervising",
+      "experience": 2
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Life Support",
+      "experience": 2
+    },
+    {
+      "skill": "Nursing License",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Render professional nursing care and direct/indirect patient care using the nursing process."
+    },
+    {
+      "duty": "Direct and supervise other team members and collaborate with multidisciplinary team members."
+    },
+    {
+      "duty": "Communicate clearly and openly, building relationships to promote a collaborative environment."
+    },
+    {
+      "duty": "Be accountable for performance, always looking for ways to improve the patient experience."
+    },
+    {
+      "duty": "Take initiative for professional growth and be engaged and eager to build a winning team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited school of professional nursing with a current license to practice professional nursing in Texas or eligibility to do so. BSN Preferred."
+    }
+  ]
+}

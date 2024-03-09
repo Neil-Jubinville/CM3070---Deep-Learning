@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Assembly Technician",
+      "job_class": "Technician",
+      "sector": "Manufacturing",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Assembling",
+      "experience": 1
+    },
+    {
+      "skill": "Wiring",
+      "experience": 1
+    },
+    {
+      "skill": "Hydraulics",
+      "experience": 1
+    },
+    {
+      "skill": "Mechanical Assembly",
+      "experience": 2
+    },
+    {
+      "skill": "Power Tools",
+      "experience": 1
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 2
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assemble parts and subassemblies for manufacturing processes."
+    },
+    {
+      "duty": "Drill holes for wires, hoses, and small parts."
+    },
+    {
+      "duty": "Operate power tools and equipment for assembly work."
+    },
+    {
+      "duty": "Follow verbal and written work instructions for assembly tasks."
+    },
+    {
+      "duty": "Maintain a safe and clean work environment by complying with procedures and regulations."
+    },
+    {
+      "duty": "Train and work in various areas of assembly in response to production demands."
+    },
+    {
+      "duty": "Stack and lift completed subassemblies and parts."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Office Manager",
+      "job_category": "Administration",
+      "job_class": "Manager",
+      "sector": "Business",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "QuickBooks",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 5
+    },
+    {
+      "skill": "AP/AR/Bookkeeping",
+      "experience": 4
+    },
+    {
+      "skill": "Payroll",
+      "experience": 4
+    },
+    {
+      "skill": "Vendor Management",
+      "experience": 4
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage and oversee all administrative functions and office operations, ensuring efficiency and productivity."
+    },
+    {
+      "duty": "Handle accounts payable and receivable, bookkeeping, payroll, and bank statement verification."
+    },
+    {
+      "duty": "Enter purchase orders into the system and manage vendor and supplier relationships."
+    },
+    {
+      "duty": "Provide excellent customer service and address vendor inquiries and concerns."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration or related field (preferred)"
+    }
+  ]
+}

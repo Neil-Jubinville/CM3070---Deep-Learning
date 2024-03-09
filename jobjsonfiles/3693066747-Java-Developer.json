@@ -1,0 +1,110 @@
+{
+  "meta": [
+    {
+      "job_title": "Java Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java/J2EE",
+      "experience": 8
+    },
+    {
+      "skill": "Microservices",
+      "experience": 3
+    },
+    {
+      "skill": "Spring Boot",
+      "experience": 3
+    },
+    {
+      "skill": "Rabbit MQ",
+      "experience": 2
+    },
+    {
+      "skill": "NOSQL Databases",
+      "experience": 3
+    },
+    {
+      "skill": "SQL Databases",
+      "experience": 3
+    },
+    {
+      "skill": "Redis Cache",
+      "experience": 2
+    },
+    {
+      "skill": "Docker",
+      "experience": 2
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 2
+    },
+    {
+      "skill": "GCP",
+      "experience": 1
+    },
+    {
+      "skill": "Azure",
+      "experience": 1
+    },
+    {
+      "skill": "RESTful Services",
+      "experience": 4
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Performance Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Git",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain Java-based microservices using Spring Boot and REST API standards"
+    },
+    {
+      "duty": "Debug and troubleshoot production issues related to messaging frameworks such as Rabbit MQ"
+    },
+    {
+      "duty": "Utilize NOSQL and SQL databases for data storage and retrieval in microservices architecture"
+    },
+    {
+      "duty": "Implement caching solutions using Redis Cache and conduct unit and performance testing of microservices"
+    },
+    {
+      "duty": "Utilize Docker, Kubernetes, GCP, and Azure for containerization and deployment of enterprise software"
+    },
+    {
+      "duty": "Collaborate with the production support team on a rotating basis and adhere to Agile development methodologies"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 40,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

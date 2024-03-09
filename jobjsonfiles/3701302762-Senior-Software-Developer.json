@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Developer",
+      "job_category": "Software Development",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C#",
+      "experience": 6
+    },
+    {
+      "skill": "SQL Server",
+      "experience": 6
+    },
+    {
+      "skill": "Redis",
+      "experience": 6
+    },
+    {
+      "skill": "MongoDB",
+      "experience": 6
+    },
+    {
+      "skill": "Rabbit MQ",
+      "experience": 6
+    },
+    {
+      "skill": "Micro Service Architectures",
+      "experience": 6
+    },
+    {
+      "skill": "RESTful APIs",
+      "experience": 6
+    },
+    {
+      "skill": "Leadership",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work on highly distributed, scalable, high transaction systems with micro service architectures."
+    },
+    {
+      "duty": "Work on high-volume, low-latency RESTful APIs."
+    },
+    {
+      "duty": "Design, build and maintain new and existing features in our products and platform."
+    },
+    {
+      "duty": "Mentor and coach team members."
+    },
+    {
+      "duty": "Work as a member of an Agile/SCRUM development team, assisting in planning, designing, developing and implementing new functionality based on business requirements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Cook - Kitchen",
+      "job_category": "Culinary",
+      "job_class": "Cook",
+      "sector": "Culinary",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food Preparation",
+      "experience": 2
+    },
+    {
+      "skill": "Food Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Sanitation",
+      "experience": 2
+    },
+    {
+      "skill": "Culinary Training",
+      "experience": 2
+    },
+    {
+      "skill": "MS Office",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Plan, prepare, and cook food according to recipe and production standards."
+    },
+    {
+      "duty": "Follow and prepare recipes accurately."
+    },
+    {
+      "duty": "Maintain proper food handling and sanitation techniques."
+    },
+    {
+      "duty": "Organize, calculate, and produce food production."
+    },
+    {
+      "duty": "Maintain appropriate records according to regulatory and departmental standards."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent preferred. Culinary certificate preferred."
+    }
+  ]
+}

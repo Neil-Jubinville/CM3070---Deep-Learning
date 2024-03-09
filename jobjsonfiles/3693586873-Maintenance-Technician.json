@@ -1,0 +1,110 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Repairs",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Repairs",
+      "experience": 5
+    },
+    {
+      "skill": "Refrigeration and Air-conditioning Repairs",
+      "experience": 5
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 5
+    },
+    {
+      "skill": "HVAC Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Welding",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Plumbing",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Installation",
+      "experience": 5
+    },
+    {
+      "skill": "Pneumatic and Hydraulic Equipment Repair",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform difficult mechanical, electrical, and refrigeration and air-conditioning repairs on plant machinery and equipment."
+    },
+    {
+      "duty": "Read and understand detailed machine drawings and electrical blueprints."
+    },
+    {
+      "duty": "Maintain job documentation with accuracy and timeliness."
+    },
+    {
+      "duty": "Keep a clean and orderly working environment after maintenance work."
+    },
+    {
+      "duty": "Repair and install castable in hearths, furnace doors, fluid beds, and arches."
+    },
+    {
+      "duty": "Assist in moving furniture, equipment, or other machinery using special rigging or heavy-duty moving equipment."
+    },
+    {
+      "duty": "Repair equipment with electric or gas welding, cutting metal with torches as necessary."
+    },
+    {
+      "duty": "Repair pneumatic and hydraulic equipment, including regulators, controls, and cylinders."
+    },
+    {
+      "duty": "Certify all temperature measuring units in use."
+    },
+    {
+      "duty": "Handle hazardous waste, including neutralization and discharge of waste water, muriatic acid, hydrofluoric acid, and other wastes."
+    },
+    {
+      "duty": "Perform other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum of two (2) years on the job training as a Maintenance Person, Labor Grade 3, or equivalent experience."
+    },
+    {
+      "credential": "HVAC certification."
+    },
+    {
+      "credential": "Current Missouri driver's license."
+    },
+    {
+      "credential": "Working mechanics hand tools ownership."
+    }
+  ]
+}

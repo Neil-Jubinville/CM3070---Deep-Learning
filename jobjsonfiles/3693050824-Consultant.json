@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "job_title": "Consultant",
+      "job_category": "Engineering",
+      "job_class": "Consultant",
+      "sector": "Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Examine power system performance and play an essential role in guaranteeing the secure, efficient delivery of electric service."
+    },
+    {
+      "duty": "Perform short circuit and power flow studies, system impact studies, generation interconnection, and reliability planning studies."
+    },
+    {
+      "duty": "Formulate methods of study and plans to ease in the integration of renewables."
+    },
+    {
+      "duty": "Consistently staying in contact with clients and peers."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Power System Analysis",
+      "experience": 4
+    },
+    {
+      "skill": "Modeling Tools (PSS/E, PSLF, TARA)",
+      "experience": 4
+    },
+    {
+      "skill": "Economic Modeling Tools (PROMOD, PLEXOS)",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Electrical Engineering"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Analytics Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cloud Computing",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "ETL Development",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Spark",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 5
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 5
+    },
+    {
+      "skill": "Shell Scripting",
+      "experience": 3
+    },
+    {
+      "skill": "Networking",
+      "experience": 3
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Database Development",
+      "experience": 5
+    },
+    {
+      "skill": "Code Review",
+      "experience": 5
+    },
+    {
+      "skill": "Data Ingestion",
+      "experience": 5
+    },
+    {
+      "skill": "Linux",
+      "experience": 3
+    },
+    {
+      "skill": "Data Warehousing",
+      "experience": 5
+    },
+    {
+      "skill": "Data Marts",
+      "experience": 5
+    },
+    {
+      "skill": "JSON Feeds",
+      "experience": 5
+    },
+    {
+      "skill": "GCP",
+      "experience": 3
+    },
+    {
+      "skill": "Data Ingestion",
+      "experience": 5
+    },
+    {
+      "skill": "Insurance Industry",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and optimize ETL pipelines using AWS services such as DynamoDB, Lambdas, Step Functions, Glue, S3, Redshift."
+    },
+    {
+      "duty": "Hands-on programming in Python and Java to build ETL workflows and data-driven solutions."
+    },
+    {
+      "duty": "Develop and debug big data batch computing tools, such as Spark, and create distributed data processing solutions."
+    },
+    {
+      "duty": "Utilize strong expertise in SQL scripting, stored procedures, functions, triggers, and software engineering workflows (CI/CD, git)."
+    },
+    {
+      "duty": "Apply in-depth knowledge of warehousing concepts, star schema, and experience using a variety of data stores (RDBMS, analytic database, scalable document stores)."
+    },
+    {
+      "duty": "Possess business acumen in the financial industry, particularly insurance, and be proficient in data visualization tools such as Tableau, Power BI, etc."
+    },
+    {
+      "duty": "Work with shell scripting, TCP/IP networking concepts, Jenkins, and perform ETL using DataStage & Autosys tools."
+    },
+    {
+      "duty": "Contribute to data modeling with Oracle and SQL databases, and demonstrate expertise in cloud environments like AWS and GCP."
+    },
+    {
+      "duty": "Handle data ingestion via multiple sources like SQL server, mainframe files, APIs, JSON feeds using Python, DataStage, and Linux."
+    },
+    {
+      "duty": "Partner with cross-functional teams, support nightly production batch cycles, and help expand sales channel capabilities leveraging data."
+    },
+    {
+      "duty": "Participate in scrum calls, task discussions, and adapt to changing team dynamics, ensuring effective communication and collaboration."
+    }
+  ]
+}

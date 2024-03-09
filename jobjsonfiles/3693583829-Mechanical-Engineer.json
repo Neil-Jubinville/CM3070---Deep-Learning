@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Mechanical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Engineering",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Engineering",
+      "experience": 10
+    },
+    {
+      "skill": "HVAC",
+      "experience": 10
+    },
+    {
+      "skill": "Project Management",
+      "experience": 10
+    },
+    {
+      "skill": "Product Specification",
+      "experience": 7
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 10
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 10
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Communicate project objectives, challenges, and scope with internal and external stakeholders."
+    },
+    {
+      "duty": "Manage multiple projects, working closely with stakeholders to ensure deadlines are met and quality is delivered."
+    },
+    {
+      "duty": "Research and specify products, equipment, and systems to meet client expectations."
+    },
+    {
+      "duty": "Conduct calculations of heating/cooling load, ventilation quantities, and equipment selection for building mechanical systems."
+    },
+    {
+      "duty": "Assess existing systems and provide recommendations for refurbishment or replacement."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 90,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Mechanical Engineering, PE license in IL required, WI preferred, prior healthcare experience preferred."
+    }
+  ]
+}

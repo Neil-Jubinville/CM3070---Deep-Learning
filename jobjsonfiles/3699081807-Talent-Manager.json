@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Talent Manager",
+      "job_category": "Management",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Business Development",
+      "experience": 2
+    },
+    {
+      "skill": "Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 2
+    },
+    {
+      "skill": "Marketing",
+      "experience": 2
+    },
+    {
+      "skill": "Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Negotiate and develop business with new and current clients through telephone, video, and in-person meetings."
+    },
+    {
+      "duty": "Recruit, interview, and match highly skilled administrative and customer support professionals with clients\u2019 projects and opportunities."
+    },
+    {
+      "duty": "Manage ongoing engagements to deliver outstanding customer service to clients and candidates."
+    },
+    {
+      "duty": "Provide ongoing communication and career guidance to candidates."
+    },
+    {
+      "duty": "Participate in local trade association and networking events to increase company\u2019s presence in the local business community."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 60,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BA/BS degree preferred."
+    }
+  ]
+}

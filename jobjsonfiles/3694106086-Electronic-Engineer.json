@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Electronic Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Electronics",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Define and evaluate board and cable designs for system modules and components of multi-functional systems."
+    },
+    {
+      "duty": "Develop electronic systems including low level motion controllers, sensor interfaces, data acquisition, and system test bed utilities for electro-mechanical systems."
+    },
+    {
+      "duty": "Design circuit boards and sub-systems using CAD/CAE tools; plan and conduct tests to verify theoretical analysis; perform empirical analysis and interpret experimental data."
+    },
+    {
+      "duty": "Document and communicate designs, specifications and project status; fabricate breadboards and prototypes; develop test plans, test specifications and design verification experiments; and participate on multi-functional development teams."
+    },
+    {
+      "duty": "Communicate and provide input for project status and project schedule updates; document efforts via established procedures using CAD systems; transfer technical documentation into revision control system including creating and assembling Document Change Orders (DCOs)."
+    },
+    {
+      "duty": "Establish electrical engineering specifications; troubleshoot/analyze problems; make recommendations; work well with others and coordinate efforts with own and other departments."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electronics Design",
+      "experience": 2
+    },
+    {
+      "skill": "CAD/CAE Tools",
+      "experience": 2
+    },
+    {
+      "skill": "Sensor Interfaces",
+      "experience": 2
+    },
+    {
+      "skill": "Data Acquisition",
+      "experience": 2
+    },
+    {
+      "skill": "Electronic Systems Development",
+      "experience": 2
+    },
+    {
+      "skill": "Circuit Design",
+      "experience": 2
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 2
+    },
+    {
+      "skill": "Project Management",
+      "experience": 2
+    },
+    {
+      "skill": "Communication",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u00b4s degree in Electrical Engineering (Master's preferred)"
+    }
+  ]
+}

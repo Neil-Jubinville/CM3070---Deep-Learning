@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Controls Designer",
+      "job_category": "Engineering",
+      "job_class": "Designer",
+      "sector": "Engineering",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Design",
+      "experience": 2
+    },
+    {
+      "skill": "AutoCAD",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office Suite",
+      "experience": 3
+    },
+    {
+      "skill": "Piping & Instrumentation Diagrams (P&IDs)",
+      "experience": 2
+    },
+    {
+      "skill": "Revit or BIM modeling",
+      "experience": 1
+    },
+    {
+      "skill": "Equipment and Construction Specification",
+      "experience": 2
+    },
+    {
+      "skill": "Control Panel Planning",
+      "experience": 2
+    },
+    {
+      "skill": "Client Badging and Screening",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Apply engineering fundamentals to prepare design documents under the supervision of engineers and senior design staff."
+    },
+    {
+      "duty": "Perform calculations as well as operate various software related to the design, as directed by the engineers."
+    },
+    {
+      "duty": "Setup CAD drawing files and backgrounds to company standards."
+    },
+    {
+      "duty": "Use MS Excel to generate Instrumentation Lists, Instrument Data Sheets, and Bills of Material."
+    },
+    {
+      "duty": "Work cooperatively with others to produce a coordinated set of design documents (drawings, lists, spreadsheets, etc.) conforming to project standards."
+    },
+    {
+      "duty": "Review work of others for design integrity, completeness, accuracy, clarity and quality."
+    },
+    {
+      "duty": "Develop equipment and construction specification documents."
+    },
+    {
+      "duty": "Develop plans for control panels, communications systems, and instrumentation."
+    },
+    {
+      "duty": "Develop schematics and wiring diagrams for final controls devices, variable frequency drives, control power distribution, process controls and building systems controls."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate degree or technology certificate, and 0-3 years of electrical, controls, or mechanical design or detailing experience."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Financial Advisor",
+      "job_category": "Finance",
+      "job_class": "Advisor",
+      "sector": "Investments",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Services",
+      "experience": 5
+    },
+    {
+      "skill": "Long-term Relationship Building",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Business Growth",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Market Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Self-Motivation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and grow a practice as a financial advisor, providing tailored solutions to meet the complex financial needs of clients."
+    },
+    {
+      "duty": "Deliver personalized investment and financial solutions to clients, ensuring long-term client relationships."
+    },
+    {
+      "duty": "Take ownership of business growth and success, meeting professional and personal objectives in building the practice."
+    },
+    {
+      "duty": "Analyze market trends, customer behavior, and competitor activity to identify growth opportunities and refine strategies."
+    },
+    {
+      "duty": "Measure and report on the performance of financial advisory strategies, using data-driven insights to continuously improve client solutions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Finance, Business, or a related field (Master's preferred)"
+    }
+  ]
+}

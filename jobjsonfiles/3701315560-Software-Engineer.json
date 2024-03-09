@@ -1,0 +1,100 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 200000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 2
+    },
+    {
+      "skill": "C++",
+      "experience": 2
+    },
+    {
+      "skill": "Linux",
+      "experience": 2
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 2
+    },
+    {
+      "skill": "Data Structures",
+      "experience": 2
+    },
+    {
+      "skill": "Algorithms",
+      "experience": 2
+    },
+    {
+      "skill": "Distributed Systems",
+      "experience": 2
+    },
+    {
+      "skill": "SQL",
+      "experience": 2
+    },
+    {
+      "skill": "Query Optimization",
+      "experience": 2
+    },
+    {
+      "skill": "RocksDB",
+      "experience": 2
+    },
+    {
+      "skill": "MySQL",
+      "experience": 2
+    },
+    {
+      "skill": "Hadoop",
+      "experience": 2
+    },
+    {
+      "skill": "Spark",
+      "experience": 2
+    },
+    {
+      "skill": "Database Replication",
+      "experience": 2
+    },
+    {
+      "skill": "Big Data Technologies",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and support a petabyte-scale cloud database that is highly parallel and fault-tolerant."
+    },
+    {
+      "duty": "Analyze and understand performance and scalability bottlenecks in the system and solve them."
+    },
+    {
+      "duty": "Design and implement novel query optimization or distributed data processing algorithms."
+    },
+    {
+      "duty": "Develop tools for improving our customers' insights into their workloads."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science, Software Engineering or related field; Masters or PhD preferred."
+    }
+  ]
+}

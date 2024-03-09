@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Engineering Manager",
+      "job_category": "Software Engineering",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 180000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Machine Learning",
+      "experience": 7
+    },
+    {
+      "skill": "ML Algorithm Development",
+      "experience": 7
+    },
+    {
+      "skill": "Product Management",
+      "experience": 7
+    },
+    {
+      "skill": "Generative AI",
+      "experience": 7
+    },
+    {
+      "skill": "Leadership",
+      "experience": 7
+    },
+    {
+      "skill": "Team Building",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage a horizontal team of talented and dedicated ML and backend engineers to build the foundational user understanding features to be used across all Pinterest ecosystems."
+    },
+    {
+      "duty": "Utilize state of the art algorithms/industry best practice to build and improve user understanding signals."
+    },
+    {
+      "duty": "Partner with other engineering teams and sales & marketing team to discover future opportunities to improve content recommendation on Pinterest."
+    },
+    {
+      "duty": "Hire new engineers to expand the team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

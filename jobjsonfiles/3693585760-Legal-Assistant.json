@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Legal Assistant",
+      "job_category": "Legal",
+      "job_class": "Assistant",
+      "sector": "Legal",
+      "salary": 38000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Office Management",
+      "experience": 2
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Case Management",
+      "experience": 2
+    },
+    {
+      "skill": "Document Management",
+      "experience": 2
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Request and acquire medical records"
+    },
+    {
+      "duty": "Complete accurate data entry and draft correspondence"
+    },
+    {
+      "duty": "Manage case documents"
+    },
+    {
+      "duty": "Provide excellent customer service"
+    },
+    {
+      "duty": "Work independently with attention to detail"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 50,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED (Associate degree preferred)"
+    }
+  ]
+}

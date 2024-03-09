@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Representative",
+      "job_category": "Customer Service",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 13,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Verbal Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Navigation",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    },
+    {
+      "skill": "Multitasking",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Patience",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Handle customer inquiries and resolve issues in a professional and timely manner."
+    },
+    {
+      "duty": "Effectively communicate with customers via phone and other channels, providing accurate information and assistance."
+    },
+    {
+      "duty": "Navigate computer systems and platforms to assist customers while engaging in phone conversations."
+    },
+    {
+      "duty": "Manage time effectively to handle multiple customer interactions simultaneously."
+    },
+    {
+      "duty": "Demonstrate patience and a positive attitude when addressing customer concerns and inquiries."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent (Associate's degree preferred)"
+    }
+  ]
+}

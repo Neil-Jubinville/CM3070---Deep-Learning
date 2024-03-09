@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Corrosion Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cathodic Protection",
+      "experience": 5
+    },
+    {
+      "skill": "Pipeline Inspection",
+      "experience": 5
+    },
+    {
+      "skill": "Corrosion Control Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Compliance Management",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Report Writing",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Inspect and maintain natural gas pipeline facilities including cathodic protection equipment, corrosion control systems, and pipeline integrity procedures."
+    },
+    {
+      "duty": "Troubleshoot and perform repairs on rectifiers, ground-beds, and other corrosion control systems."
+    },
+    {
+      "duty": "Ensure the safe, reliable, and efficient operation of natural gas pipeline facilities."
+    },
+    {
+      "duty": "Work closely with pipeline/plant personnel, technicians, and contract personnel."
+    },
+    {
+      "duty": "Ensure compliance with Company policies/procedures as well as external regulatory bodies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate\u2019s degree in a relevant technical field or related degree or equivalent education/experience."
+    },
+    {
+      "credential": "Valid driver\u2019s license."
+    },
+    {
+      "credential": "Residence within 30 miles of the assigned reporting location."
+    },
+    {
+      "credential": "Physical ability to perform demanding activities in all types of weather conditions."
+    },
+    {
+      "credential": "Willingness to work overtime, weekends, be on call and standby, and travel overnight as required."
+    },
+    {
+      "credential": "NACE certification is a plus."
+    }
+  ]
+}

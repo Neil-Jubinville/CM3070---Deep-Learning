@@ -1,0 +1,109 @@
+{
+  "meta": [
+    {
+      "job_title": "Silicon Validation Engineer",
+      "job_category": "Engineering",
+      "job_class": "Validation Engineer",
+      "sector": "Software Engineering",
+      "salary": 210000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Silicon Validation",
+      "experience": 7
+    },
+    {
+      "skill": "SERDES",
+      "experience": 7
+    },
+    {
+      "skill": "Lab Equipment",
+      "experience": 7
+    },
+    {
+      "skill": "High Speed Interfaces",
+      "experience": 7
+    },
+    {
+      "skill": "Test Scripting",
+      "experience": 7
+    },
+    {
+      "skill": "Python",
+      "experience": 7
+    },
+    {
+      "skill": "C/C++/C#",
+      "experience": 5
+    },
+    {
+      "skill": "Verilog",
+      "experience": 7
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 7
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 7
+    },
+    {
+      "skill": "Test Bench Operation",
+      "experience": 7
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Validate DDR, LPDDR and GDDR Cadence test chip silicon for leading edge protocols and advanced nodes."
+    },
+    {
+      "duty": "Bringup, characterization and validation of test chips."
+    },
+    {
+      "duty": "Work with design team to debug problems and performance issues."
+    },
+    {
+      "duty": "Report results to design teams."
+    },
+    {
+      "duty": "Generate test reports suitable for distribution to customers."
+    },
+    {
+      "duty": "Support customer silicon bringups and post silicon queries of our IP and help to debug customer issues with same."
+    },
+    {
+      "duty": "Debug issues with customer chips and boards as needed when they are unable to reproduce Cadence test chip results."
+    },
+    {
+      "duty": "Execute special test requests from design team or customers to measure specific parameters or root cause issues."
+    },
+    {
+      "duty": "Recommend and pursue improvements to our test plan and environment to ensure the highest quality IP is produced by Cadence and minimize any silicon issues experienced by our customers."
+    },
+    {
+      "duty": "Work with design team to understand requirements, fashion tests and review results."
+    },
+    {
+      "duty": "Mentor Junior Engineers when the project need arises."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BEng, MEng"
+    }
+  ]
+}

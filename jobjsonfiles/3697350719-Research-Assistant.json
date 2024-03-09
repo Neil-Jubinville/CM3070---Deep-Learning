@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Research Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Research Assistant",
+      "sector": "Healthcare",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Laboratory Research",
+      "experience": 1
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 1
+    },
+    {
+      "skill": "Experimental Procedure",
+      "experience": 1
+    },
+    {
+      "skill": "Laboratory Equipment Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "Safety Protocol Adherence",
+      "experience": 1
+    },
+    {
+      "skill": "Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 1
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Run experiments, assays, and record results under supervision."
+    },
+    {
+      "duty": "Follow experimental protocols, including animal handling and tissue culture."
+    },
+    {
+      "duty": "Compile and communicate results to supervisor."
+    },
+    {
+      "duty": "Follow safety protocols and perform calculations involving molarity and % solutions."
+    },
+    {
+      "duty": "Prepare and operate equipment in experimental procedures, maintain, and repair equipment."
+    },
+    {
+      "duty": "Maintain inventories, sterile conditions, and prepare reagents."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in a relevant field (Master's preferred)"
+    }
+  ]
+}

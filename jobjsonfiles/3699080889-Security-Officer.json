@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Security Officer",
+      "job_category": "Security",
+      "job_class": "Officer",
+      "sector": "Security",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Security Policies and Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Effective Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Group Cohesiveness",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Responsibility",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensure that security policies and procedures are carried out in a timely fashion."
+    },
+    {
+      "duty": "Ensure a safe environment for patients, staff, visitors, physicians, and volunteers."
+    },
+    {
+      "duty": "Communicate effectively with security, staff, and the public to ensure quality outcomes for the security department."
+    },
+    {
+      "duty": "Use time and resources in a financially responsible manner."
+    },
+    {
+      "duty": "Foster group cohesiveness within the security department."
+    },
+    {
+      "duty": "Portray a positive image of the organization."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

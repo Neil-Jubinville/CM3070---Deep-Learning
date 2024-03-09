@@ -1,0 +1,97 @@
+{
+  "meta": [
+    {
+      "job_title": "EDI Manager",
+      "job_category": "Information Technology",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for managing and facilitating the work flow of sales orders coming into the EDI system for all accounts."
+    },
+    {
+      "duty": "Serves as the prime contact for order-related activities and is responsible for effectively managing the sales order EDI process."
+    },
+    {
+      "duty": "Work with new vendors to implement Retail EDI integration and 3PL for setting up and testing all transactions."
+    },
+    {
+      "duty": "Testing of all EDI transactions and setup of all EDI in Blue Cherry and EDI system for new vendors."
+    },
+    {
+      "duty": "Manage EDI server and work closely with CGS on EDI-related issues, getting bug fixes tested, and automating EDI functions."
+    },
+    {
+      "duty": "Manage GXS Catalog and UPC blocks, and implement new vendor guidelines."
+    },
+    {
+      "duty": "Create/Modify UCC128 labels as per vendor specification and create Standard Operating Procedures (SOPs) for onboarding vendors and 3PLs."
+    },
+    {
+      "duty": "Daily validation of EDI transactions, comparison of Warehouse shipments emails against Blue Cherry, and investigation of missing receipts."
+    },
+    {
+      "duty": "Creation of EDI8323 and 943 for 3PL based on email notification and management of EDI832 GXS catalog uploads."
+    },
+    {
+      "duty": "Daily processing of invoices and collaboration with the Accounting team to resolve issues with Factor and Customer invoice transmissions."
+    },
+    {
+      "duty": "Management and monitoring of daily ASN EDI856 processes, EDI850 processes, EDI940 pick ticket generation and sending to warehouses, and support Milberg issues and data transmissions."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "EDI Systems Management",
+      "experience": 5
+    },
+    {
+      "skill": "Vendor Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Testing EDI Transactions",
+      "experience": 5
+    },
+    {
+      "skill": "Blue Cherry and GXS Catalog Management",
+      "experience": 5
+    },
+    {
+      "skill": "UPC block Management",
+      "experience": 5
+    },
+    {
+      "skill": "SOP Creation",
+      "experience": 5
+    },
+    {
+      "skill": "Invoicing and Billing Management",
+      "experience": 5
+    },
+    {
+      "skill": "ASN and Pick Ticket Management",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree (B.A.) from a four-year college or university with a minimum of 5 years of working experience in EDI sales order management or equivalent combination of education and experience"
+    }
+  ]
+}

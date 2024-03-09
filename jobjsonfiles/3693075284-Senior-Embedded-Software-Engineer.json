@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Embedded Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior Engineer",
+      "sector": "Software Engineering",
+      "salary": 162500,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Embedded Software Design",
+      "experience": 7
+    },
+    {
+      "skill": "C programming",
+      "experience": 7
+    },
+    {
+      "skill": "Real-Time Operating Systems (RTOS)",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Protocol Drivers",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Schematics",
+      "experience": 5
+    },
+    {
+      "skill": "Unix Internals",
+      "experience": 5
+    },
+    {
+      "skill": "Low-Level Driver Software",
+      "experience": 5
+    },
+    {
+      "skill": "U.S. Secret Clearance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, code, debug, and integrate new capabilities for turreted weapons systems (RIwP)."
+    },
+    {
+      "duty": "Debug issues with existing systems."
+    },
+    {
+      "duty": "Integration of new capabilities both in the Systems Integration Lab and in the field."
+    },
+    {
+      "duty": "Deliver executable software that meets performance requirements."
+    },
+    {
+      "duty": "Deliver other software work products (documentation) that meet contractual requirements."
+    },
+    {
+      "duty": "Provide status reporting to management during project execution."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science degree in Electrical, Computer, or Software Engineering desired. Bachelor of Science degree in other engineering fields may be considered with appropriate additional experience in the design/development/test of real-time control software."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "Scala",
+      "experience": 2
+    },
+    {
+      "skill": "Big Data",
+      "experience": 5
+    },
+    {
+      "skill": "Spark",
+      "experience": 5
+    },
+    {
+      "skill": "Backend Programming",
+      "experience": 3
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices",
+      "experience": 3
+    },
+    {
+      "skill": "REST APIs",
+      "experience": 3
+    },
+    {
+      "skill": "Database Management",
+      "experience": 5
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Source Code Versioning",
+      "experience": 3
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 3
+    },
+    {
+      "skill": "User Authentication",
+      "experience": 3
+    },
+    {
+      "skill": "API Integration",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Application development using Scala + Spark, Java, Microservices or REST APIs"
+    },
+    {
+      "duty": "Bulk operations (Data load and unload) on databases and warehouses, expertise on big data projects"
+    },
+    {
+      "duty": "AWS Services like S3, Glue, Athena, EMR, Lambda, RDS, AppFlow, Kendra, QuickSight"
+    },
+    {
+      "duty": "Unit testing using JUnit/TestNG"
+    },
+    {
+      "duty": "Source code versioning using GIT/SVN"
+    },
+    {
+      "duty": "CI/CD using Jenkins/Gitlab/AWS services"
+    },
+    {
+      "duty": "Knowledge of user authentication and authorization between multiple systems e.g. OAuth, NTLM, SAML etc."
+    },
+    {
+      "duty": "Knowledge in building API based integration solutions with third party cloud/on-prem applications"
+    }
+  ]
+}

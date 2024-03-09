@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 210000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "System Design",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Full Stack Development",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 5
+    },
+    {
+      "skill": "Business Development",
+      "experience": 5
+    },
+    {
+      "skill": "Cross-functional Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the design and architecture of new and existing systems with a focus on reliability and scaling."
+    },
+    {
+      "duty": "Mentor and lead an engineering team to ensure quality in the development team."
+    },
+    {
+      "duty": "Participate in the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations."
+    },
+    {
+      "duty": "Deliver quickly to customers while keeping the greater architectural goals in mind and moving the team further towards them."
+    },
+    {
+      "duty": "Foster inclusion and actively participate in improving the team culture every day."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or equivalent (Master's preferred)"
+    }
+  ]
+}

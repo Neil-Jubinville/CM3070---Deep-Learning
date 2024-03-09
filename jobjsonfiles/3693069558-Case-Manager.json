@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Case Manager",
+      "job_category": "Legal",
+      "job_class": "Manager",
+      "sector": "Legal",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Case Management",
+      "experience": 3
+    },
+    {
+      "skill": "Personal Injury",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office Suite",
+      "experience": 3
+    },
+    {
+      "skill": "Organization Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    },
+    {
+      "skill": "Resourcefulness",
+      "experience": 3
+    },
+    {
+      "skill": "Bilingual",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide excellent customer service and personalized attention to clients throughout the case process."
+    },
+    {
+      "duty": "Manage personal injury caseload from onset to pre-suit negotiation, including property damage assistance and guiding clients through the medical treatment and claims process."
+    },
+    {
+      "duty": "Communicate with insurance companies and review and organize medical records."
+    },
+    {
+      "duty": "Prepare and manage demands, continuous demand preparation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Legal Studies, Business Administration, or a related field"
+    }
+  ]
+}

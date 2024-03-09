@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Accountant",
+      "job_category": "Finance",
+      "job_class": "Senior",
+      "sector": "Accounting",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Bookkeeping",
+      "experience": 7
+    },
+    {
+      "skill": "Accounts Receivable",
+      "experience": 7
+    },
+    {
+      "skill": "Accounts Payable",
+      "experience": 7
+    },
+    {
+      "skill": "Payroll",
+      "experience": 7
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 7
+    },
+    {
+      "skill": "GAAP Knowledge",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain company financial records, monthly billing, accounts receivable, and accounts payable."
+    },
+    {
+      "duty": "Handle payroll, payroll taxes, and quarterly payroll tax reports."
+    },
+    {
+      "duty": "Invoicing, personnel payroll records, and business reports."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Accounting or Finance or related field required. Minimum five (5) to Seven (7) years of experience working in a combination of bookkeeping, payroll, AP/AR, senior-level position required.Advanced knowledge of Generally Accepted Accounting Principles (GAAP) and accounting software required."
+    }
+  ]
+}

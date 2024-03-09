@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Care Coordinator",
+      "job_category": "Healthcare",
+      "job_class": "Coordinator",
+      "sector": "Healthcare",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Scheduling",
+      "experience": 3
+    },
+    {
+      "skill": "Insurance Verification",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Guide patients to prioritize their treatment and provide scheduling options with a sense of urgency"
+    },
+    {
+      "duty": "Interact with patients professionally and personably to create a great first impression of the practice"
+    },
+    {
+      "duty": "Form connections during consultations and discover optimal payment plans for each patient with accurate and positive communication skills"
+    },
+    {
+      "duty": "Maintain office flow in an energetic and exciting work environment by promoting flexibility, understanding, scheduling, rescheduling, and using the proper callback system"
+    },
+    {
+      "duty": "Prepare patient charts, collect co-payments, and verify insurance with strong organizational skills"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    },
+    {
+      "credential": "Minimum of 2 years in healthcare field or fast-paced service environment"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer - P&C Design",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Electrical Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Power Engineering",
+      "experience": 3
+    },
+    {
+      "skill": "DC Schematic Drawings",
+      "experience": 3
+    },
+    {
+      "skill": "AC Elementary Drawings",
+      "experience": 3
+    },
+    {
+      "skill": "Physical Drawings",
+      "experience": 3
+    },
+    {
+      "skill": "Power Generation and Transmission Equipment",
+      "experience": 5
+    },
+    {
+      "skill": "Instrument Transformer Circuits",
+      "experience": 5
+    },
+    {
+      "skill": "Relays and Relay Settings/Logic",
+      "experience": 5
+    },
+    {
+      "skill": "AutoCAD",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform field data collection for protection system design work"
+    },
+    {
+      "duty": "Develop and review wiring diagrams, cable/conduit schedules, and front panel layouts for protection system design work"
+    },
+    {
+      "duty": "Develop control system architecture, points list, PLC ladder logic, and HMI screen configurations for control system programming and design work"
+    },
+    {
+      "duty": "Assist with the development of LOTO requirements for field install work"
+    },
+    {
+      "duty": "Support electricians during installs for field install work"
+    },
+    {
+      "duty": "Attend design review meetings for other responsibilities"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 50,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Electrical Engineering (BSEE)"
+    }
+  ]
+}

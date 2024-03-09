@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "HVAC Technician",
+      "job_category": "Skilled Labor",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HVAC Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Preventive Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Appliance Repair",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform installation, maintenance, and repair of HVAC systems, including air conditioning."
+    },
+    {
+      "duty": "Diagnose and troubleshoot issues with HVAC systems to identify the root cause of problems."
+    },
+    {
+      "duty": "Conduct regular inspections and preventive maintenance to ensure optimal performance of HVAC systems."
+    },
+    {
+      "duty": "Repair or replace defective components in HVAC systems, such as compressors, motors, and thermostats."
+    },
+    {
+      "duty": "Test HVAC systems to ensure they are functioning correctly and make necessary adjustments."
+    },
+    {
+      "duty": "Collaborate with other team members to coordinate work schedules and ensure timely completion of projects."
+    },
+    {
+      "duty": "Maintain accurate records of all repairs, maintenance activities, and parts used."
+    },
+    {
+      "duty": "Experience in appliance repair or property maintenance is beneficial."
+    }
+  ]
+}

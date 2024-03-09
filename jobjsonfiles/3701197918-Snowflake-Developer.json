@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Snowflake Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Snowflake",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Datawarehouse concepts",
+      "experience": 5
+    },
+    {
+      "skill": "Databricks",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Pyspark",
+      "experience": 3
+    },
+    {
+      "skill": "Azure dev ops",
+      "experience": 3
+    },
+    {
+      "skill": "Agile",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create plan, architecture, scheduling, deployment of tasks in Snowflake."
+    },
+    {
+      "duty": "Creating Stages, Views, Stored procedures."
+    },
+    {
+      "duty": "Cloning, time travel for data retention and snow pipe for data ingestion."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": []
+}

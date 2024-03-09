@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 48000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C++",
+      "experience": 4
+    },
+    {
+      "skill": "Embedded Software",
+      "experience": 4
+    },
+    {
+      "skill": "Object Oriented Design",
+      "experience": 4
+    },
+    {
+      "skill": "Linux",
+      "experience": 3
+    },
+    {
+      "skill": "Embedded Controls Development",
+      "experience": 3
+    },
+    {
+      "skill": "CAN Protocol",
+      "experience": 3
+    },
+    {
+      "skill": "TCP/IP",
+      "experience": 3
+    },
+    {
+      "skill": "GIT",
+      "experience": 3
+    },
+    {
+      "skill": "Design Patterns",
+      "experience": 3
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 3
+    },
+    {
+      "skill": "UML",
+      "experience": 3
+    },
+    {
+      "skill": "Ubuntu",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop Telematics on-board monitoring software for machine & engine applications."
+    },
+    {
+      "duty": "Configure and test Telematics on-board software, troubleshoot and correct software issues, and report development status."
+    },
+    {
+      "duty": "Work closely with Telematics systems engineers and other software development teams."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BSEE, BSCE, or BSCS"
+    }
+  ]
+}

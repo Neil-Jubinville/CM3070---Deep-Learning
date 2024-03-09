@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Equipment Maintenance Technician",
+      "job_category": "Mechanical",
+      "job_class": "Maintenance",
+      "sector": "Engineering",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 2
+    },
+    {
+      "skill": "Electrical Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Mechanical Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Pneumatic Equipment Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Equipment Inspection",
+      "experience": 2
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Delivery Operations",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Inspect completed products and perform routine equipment maintenance"
+    },
+    {
+      "duty": "Disassemble, troubleshoot, repair, reassemble, and test various types of electrical, hand operated, and pneumatic rental equipment"
+    },
+    {
+      "duty": "Prepare each job in accordance with a job order or verbal/written instruction and perform inspection of completed product in accordance with company quality standards"
+    },
+    {
+      "duty": "Load and unload delivery vehicles, lifting and arranging products according to assigned deliveries"
+    },
+    {
+      "duty": "Transport rental/sales orders in designated vehicles in a timely manner"
+    },
+    {
+      "duty": "Ensure proper maintenance of delivery vehicle, including checking oil and fuel, keeping vehicle neat and clean, and reporting all accidents/damage/malfunctions to the Warehouse Foreman"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 40,
+      "introvert_extrovert": 90
+    }
+  ]
+}

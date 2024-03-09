@@ -1,0 +1,43 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Analyst IV",
+      "job_category": "IT",
+      "job_class": "Analyst",
+      "sector": "Information Technology",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analysis",
+      "experience": 10
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 10
+    },
+    {
+      "skill": "User Requirement Analysis",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Review, analyze, and evaluate information technology systems operations."
+    },
+    {
+      "duty": "Determine user needs and requirements and recommend ways to improve systems."
+    },
+    {
+      "duty": "Serve as the primary point of contact between users and engineering/development staff."
+    },
+    {
+      "duty": "Identify, document, report, and track system issues."
+    },
+    {
+      "duty": "Support the process of translating business needs into formal technical requirement deliverables."
+    }
+  ]
+}

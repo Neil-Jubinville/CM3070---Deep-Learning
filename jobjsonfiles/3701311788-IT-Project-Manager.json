@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Project Manager",
+      "job_category": "Information Technology",
+      "job_class": "Manager",
+      "sector": "Information Technology",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 3
+    },
+    {
+      "skill": "ITIL",
+      "experience": 3
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 5
+    },
+    {
+      "skill": "Proposal Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide oversight for performance, cost, scope, schedule, and quality to technical leadership."
+    },
+    {
+      "duty": "Develop project proposals, estimates, and quality reviews."
+    },
+    {
+      "duty": "Plan, estimate, and track project delivery and budget."
+    },
+    {
+      "duty": "Identify processes, problems, and action plans as well as other illustrative material to present assessments."
+    },
+    {
+      "duty": "Provide status reports to Service Provider/Customer leadership teams on potential impacts to scope, budget, risk, and resources."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Project Management Professional (PMP) Certification"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Bartender",
+      "job_category": "Hospitality",
+      "job_class": "Bartender",
+      "sector": "Hospitality",
+      "salary": 1630,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Bartending",
+      "experience": 1
+    },
+    {
+      "skill": "Cocktail Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Physical Stamina",
+      "experience": 1
+    },
+    {
+      "skill": "Flexibility",
+      "experience": 1
+    },
+    {
+      "skill": "TIPS Certification",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare beverages in accordance with menu standards and provide a welcoming and clean environment for guests."
+    },
+    {
+      "duty": "Fulfill guest orders in a fast-paced environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 80,
+      "introvert_extrovert": 40
+    }
+  ]
+}

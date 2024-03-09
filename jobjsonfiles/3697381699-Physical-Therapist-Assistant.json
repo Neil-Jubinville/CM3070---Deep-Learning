@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Physical Therapist Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Therapy",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Documentation",
+      "experience": 1
+    },
+    {
+      "skill": "Healthcare Regulations",
+      "experience": 1
+    },
+    {
+      "skill": "Growth and Development",
+      "experience": 1
+    },
+    {
+      "skill": "Assessment",
+      "experience": 1
+    },
+    {
+      "skill": "In-Service Training",
+      "experience": 1
+    },
+    {
+      "skill": "CPR/BLS Certification",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Follows Plan of care and performs PTA procedures to aid restoring function, improving mobility, relieving pain, and preventing or limiting permanent physical disabilities."
+    },
+    {
+      "duty": "Participates in facility meetings, departmental meetings, in-services, educational programs, and other meetings to include solutions and engagement with resolution processes."
+    },
+    {
+      "duty": "Completes documentation that supports skilled intervention and adherence to plan of care."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 90,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associates Degree, Physical Therapy Assistant (Required)"
+    }
+  ]
+}

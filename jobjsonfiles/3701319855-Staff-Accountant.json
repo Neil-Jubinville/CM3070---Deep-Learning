@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Accountant",
+      "job_category": "Accounting",
+      "job_class": "Accountant",
+      "sector": "Accounting",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tax Preparation",
+      "experience": 3
+    },
+    {
+      "skill": "Consultation",
+      "experience": 3
+    },
+    {
+      "skill": "Bookkeeping",
+      "experience": 3
+    },
+    {
+      "skill": "Tax Strategy",
+      "experience": 3
+    },
+    {
+      "skill": "Notice Resolution",
+      "experience": 3
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Tech Savvy",
+      "experience": 3
+    },
+    {
+      "skill": "Team Work",
+      "experience": 3
+    },
+    {
+      "skill": "Accounting Laws",
+      "experience": 3
+    },
+    {
+      "skill": "QuickBooks Online",
+      "experience": 3
+    },
+    {
+      "skill": "EA or CPA Pursuit",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Consult with clients & help them make business decisions based on customized KPIs."
+    },
+    {
+      "duty": "Advise on tax strategy to help clients steward their resources well."
+    },
+    {
+      "duty": "Handle tax preparation (1040, 1065 & 1120S) and notice resolution."
+    },
+    {
+      "duty": "Take care of bookkeeping for some clients or review clients' bookkeeping."
+    },
+    {
+      "duty": "Communicate with clients and provide excellent service."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting, Finance, or related field (CPA or EA preferred)"
+    }
+  ]
+}

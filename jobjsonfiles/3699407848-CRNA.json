@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "CRNA",
+      "job_category": "Healthcare",
+      "job_class": "Nurse Anesthetist",
+      "sector": "Healthcare",
+      "salary": 180000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide quality and versatile anesthesia care under the direct supervision of a physician."
+    },
+    {
+      "duty": "Perform all aspects of airway management."
+    },
+    {
+      "duty": "Facilitate emergence and recovery from anesthesia by evaluating patient response, and selecting, ordering, and administering medications, fluids to maintain patient stability during transfer."
+    },
+    {
+      "duty": "Initiate and administer post-anesthesia pharmacological or fluid support of the cardiovascular system."
+    },
+    {
+      "duty": "Initiate and administer respiratory support to ensure adequate ventilation and oxygenation during the post-anesthesia period."
+    },
+    {
+      "duty": "Provide post-anesthesia follow-up evaluation and care."
+    },
+    {
+      "duty": "Discharge patient from post-anesthesia care unit."
+    },
+    {
+      "duty": "Closely support and monitor life functions. In the case of an adverse response to any drug, take corrective action."
+    },
+    {
+      "duty": "Terminate anesthesia in a timely fashion, ensuring patient safety to the post-anesthetic recovery room."
+    },
+    {
+      "duty": "Other duties as assigned."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing",
+      "experience": 2
+    },
+    {
+      "skill": "Anesthesia Care",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Evaluation",
+      "experience": 2
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 2
+    },
+    {
+      "skill": "Cardiovascular Support",
+      "experience": 2
+    },
+    {
+      "skill": "Respiratory Support",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Masters of Science in Nursing (MSN) required. Valid CRNA certification required."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "GI Tech",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Demonstrates effective clinical skills utilizing time, equipment and supplies efficiently and properly, pre, intra and post procedure."
+    },
+    {
+      "duty": "Maintains accountability for instruments, supplies and sharps, throughout the procedure."
+    },
+    {
+      "duty": "Handles specimens ensuring proper placement and labeling in conjunction with the RN caring for the patient."
+    },
+    {
+      "duty": "Performs clinical actions as defined in annual competency and skills checklists."
+    },
+    {
+      "duty": "Demonstrates competence in all areas of gastroenterology: procedure preparation, technical factors and equipment maintenance and safety."
+    },
+    {
+      "duty": "Understands and utilizes infection control standards related to disposable and non-disposable equipment."
+    },
+    {
+      "duty": "Incorporates patient safety in all areas of their technical practice including transporting patients to and from the department."
+    },
+    {
+      "duty": "Provides specialized care to patients, as delegated by a licensed practitioner and communicates changes in patient condition to the physician or licensed practitioner."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Infection Control",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Safety",
+      "experience": 3
+    },
+    {
+      "skill": "Specialized Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Basic Cardiac Life Support certification"
+    }
+  ]
+}

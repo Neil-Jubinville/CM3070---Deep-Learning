@@ -1,0 +1,38 @@
+{
+  "meta": [
+    {
+      "job_title": "Professional Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Transportation",
+      "salary": 53000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Class A CDL",
+      "experience": 1
+    },
+    {
+      "skill": "Flat Bed Experience",
+      "experience": 1
+    },
+    {
+      "skill": "Vehicle Operation",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate a 2016 Freightliner 10 speed vehicle for transportation purposes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Recreation Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Therapy",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Therapeutic Recreation",
+      "experience": 2
+    },
+    {
+      "skill": "Creativity",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Certification",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work 1:1 with students with intellectual disabilities in a classroom with students that are neurotypical."
+    },
+    {
+      "duty": "Provide therapeutic recreation to work on social skills and peer interaction."
+    },
+    {
+      "duty": "Reimburse travel time at the same hourly rate."
+    },
+    {
+      "duty": "Be creative and demonstrate therapeutic recreation skills in a stimulating environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certification in Therapeutic Recreation"
+    }
+  ]
+}

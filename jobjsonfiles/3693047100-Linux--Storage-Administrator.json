@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Linux/ Storage Administrator",
+      "job_category": "Information Technology",
+      "job_class": "Administrator",
+      "sector": "Information Technology",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Linux Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Storage Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "IBM Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "On-call Support",
+      "experience": 5
+    },
+    {
+      "skill": "Resourcefulness",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage and maintain Linux systems, including CentOS, Ubuntu, and RedHat."
+    },
+    {
+      "duty": "Administer storage systems, such as SAN, NAS, and RAID, ensuring optimal performance and reliability."
+    },
+    {
+      "duty": "Utilize expertise in IBM technologies, including AIX and PowerVM, to support system infrastructure."
+    },
+    {
+      "duty": "Provide on-call support and serve as the Subject Matter Expert for Linux and Storage Administration issues."
+    },
+    {
+      "duty": "Independently troubleshoot technical issues and demonstrate resourcefulness in managing priorities and work projects."
+    }
+  ]
+}

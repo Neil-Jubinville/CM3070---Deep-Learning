@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Desktop Services Technician",
+      "job_category": "Information Technology",
+      "job_class": "Entry-level",
+      "sector": "Technical Support",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Desktop Support",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft 365",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft SCCM",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide entry-level desktop support for corporate campus and remote users in support of PC Deployment, Incident Response, and Executive Support, and Hardware Disposal."
+    },
+    {
+      "duty": "Perform deployment of Windows and iOS Laptops from the corporate campus."
+    },
+    {
+      "duty": "Provide technical support to Executive staff members and Administrators."
+    },
+    {
+      "duty": "Support campus A/V equipment in conference rooms and individual workspaces."
+    },
+    {
+      "duty": "Collaborate with onshore and offshore teams in support of deployment operations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree in Information Technology or related field (Bachelor's preferred)"
+    }
+  ]
+}

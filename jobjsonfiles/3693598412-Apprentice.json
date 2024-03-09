@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Apprentice",
+      "job_category": "Skilled Labor",
+      "job_class": "Apprentice",
+      "sector": "Construction",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Installation",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Guidelines",
+      "experience": 2
+    },
+    {
+      "skill": "Material Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Warehouse Operations",
+      "experience": 2
+    },
+    {
+      "skill": "Vehicle Safety Inspection",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Install company products according to work order, manufacturer, quality, and safety guidelines."
+    },
+    {
+      "duty": "Review daily work schedule, ensure the truck is loaded with necessary products, tools, and equipment."
+    },
+    {
+      "duty": "Complete vehicle safety and job site inspections."
+    },
+    {
+      "duty": "Safely unload and stage materials at the job site."
+    },
+    {
+      "duty": "Report safety, customer, or quality concerns."
+    },
+    {
+      "duty": "Perform warehouse-related duties as required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": []
+}

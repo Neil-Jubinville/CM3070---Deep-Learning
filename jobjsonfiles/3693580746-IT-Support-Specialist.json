@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Support Specialist",
+      "job_category": "Information Technology",
+      "job_class": "Support Specialist",
+      "sector": "Information Technology",
+      "salary": 63500,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Desktop Support",
+      "experience": 3
+    },
+    {
+      "skill": "Printer Support",
+      "experience": 2
+    },
+    {
+      "skill": "Application Distribution",
+      "experience": 3
+    },
+    {
+      "skill": "Hardware Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Software Installation",
+      "experience": 3
+    },
+    {
+      "skill": "Network Connectivity",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Installs, maintains, configures, upgrades, and administers hardware and software independently in workstation support, server support, business continuity, information security support, telecommunications, and network connectivity support."
+    },
+    {
+      "duty": "Conducts troubleshooting, learns new technologies, and provides outstanding customer service. Additionally needs knowledge of wide area network (WAN), local area network (LAN), and wireless connectivity."
+    },
+    {
+      "duty": "Diagnoses, analyzes, and resolves issues for customers in assigned single technology domain. Provides Tier II-III level customer support."
+    },
+    {
+      "duty": "Promotes system security and awareness by adhering to the Agency\u2019s IT security policy(s) and standards. Stays current regarding new technologies, standards, and techniques."
+    },
+    {
+      "duty": "Develops and maintains ad-hoc utilities or reports to automate processes. Supports users in the use of applications and software."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 40,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Completion of undergraduate core program in computer science or information systems; 12 months combined work experience in any combination of the following: installing, monitoring/maintaining, configuring, upgrading, &/or administering/operating a single technology domain including 12 months work experience in the primary technology specified by the agency in the position description & job posting."
+    },
+    {
+      "credential": "Completion of associate core program in computer science or information systems; 18 months combined work experience in any combination of the following: installing, monitoring/maintaining, configuring, upgrading, &/or administering/operating a single technology domain including 12 months work experience in the primary technology specified by the agency in the position description & job posting."
+    },
+    {
+      "credential": "36 months combined work experience in any combination of the following: installing, monitoring/maintaining, configuring, upgrading, &/or administering/operating a single technology domain including 12 months work experience in the primary technology specified by the agency in the position description & job posting."
+    }
+  ]
+}

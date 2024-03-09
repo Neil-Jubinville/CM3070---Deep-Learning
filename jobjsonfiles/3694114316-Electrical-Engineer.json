@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Aerospace and Technology",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Testing of System components",
+      "experience": 5
+    },
+    {
+      "skill": "Software design experience with National Instrument Test Stand, LabVIEW RT and Veristand and Python",
+      "experience": 5
+    },
+    {
+      "skill": "Hardware experience with interface circuits and Test Adapters",
+      "experience": 5
+    },
+    {
+      "skill": "Test engineering experience with Mechanical Testing on mechanical components and systems (start systems, pneumatic systems or actuation systems) and/or other mechanical components and systems",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Support",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Setup test benches and equipment Integration of Hardware and Software Test/Product Debug Verification and Validation Test Station, Set up and Cables Documentation Customer Support"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Electrical Engineering or Computer Science Engineering (Master's preferred)"
+    }
+  ]
+}

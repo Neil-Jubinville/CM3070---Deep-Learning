@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse MICU",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 115000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Critical Care Nursing",
+      "experience": 2
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Patient/Family Education",
+      "experience": 3
+    },
+    {
+      "skill": "Discharge Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Assessment",
+      "experience": 3
+    },
+    {
+      "skill": "Nursing Process",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Basic Life Support (BLS)",
+      "experience": 5
+    },
+    {
+      "skill": "ACLS Certification",
+      "experience": 2
+    },
+    {
+      "skill": "NIHSS Certification",
+      "experience": 2
+    },
+    {
+      "skill": "Stroke Education",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provides high-quality nursing care to assigned patients using the nursing process."
+    },
+    {
+      "duty": "Documents patient assessment, progress, and necessary care accurately and timely."
+    },
+    {
+      "duty": "Promotes patient safety and quality care, adhering to all necessary standards and requirements."
+    },
+    {
+      "duty": "Communicates and collaborates with the healthcare team effectively, escalating situations as needed."
+    },
+    {
+      "duty": "Administers medication and therapy according to policy and procedure, including blood administration."
+    },
+    {
+      "duty": "Establishes priorities for patient care delivery, utilizes critical thinking skills, and coordinates patient care responsibilities independently or by delegating appropriately."
+    },
+    {
+      "duty": "Provides patient/family education and assists in discharge planning, considering patient/family readiness, barriers, and alternatives."
+    },
+    {
+      "duty": "Demonstrates knowledge and skills necessary to provide nursing care based on physical, psychosocial, educational, safety, and age-related criteria."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Must be a graduate of an Accredited Nursing Program, Registered Nurse License-NYS, BLS Certification."
+    },
+    {
+      "credential": "ACLS, NIHSS and 8 hours of Stroke education required within 3 months"
+    }
+  ]
+}

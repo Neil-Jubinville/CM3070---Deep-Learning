@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Relationship Banker",
+      "job_category": "Banking",
+      "job_class": "Banking",
+      "sector": "Sales",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Sales",
+      "experience": 1
+    },
+    {
+      "skill": "Banking",
+      "experience": 1
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Account Management",
+      "experience": 1
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide high-quality customer service and sales"
+    },
+    {
+      "duty": "Handle banking transactions and cash handling duties"
+    },
+    {
+      "duty": "Collaborate with the banking team to find the right solutions for customer\u2019s needs"
+    },
+    {
+      "duty": "Open various types of accounts and start consumer loans"
+    },
+    {
+      "duty": "Advocate for customers and refer them to internal partners if necessary"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

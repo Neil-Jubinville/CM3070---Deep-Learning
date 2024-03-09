@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Production Graphic Designer",
+      "job_category": "Design",
+      "job_class": "Designer",
+      "sector": "Graphic Design",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Graphic Design",
+      "experience": 5
+    },
+    {
+      "skill": "Adobe Creative Suite",
+      "experience": 5
+    },
+    {
+      "skill": "File Editing",
+      "experience": 5
+    },
+    {
+      "skill": "Photo Retouching",
+      "experience": 5
+    },
+    {
+      "skill": "Interactive PDFs",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Communicate with creative, account, and project managers to evaluate requests and negotiate deadlines"
+    },
+    {
+      "duty": "Edit existing creative materials and clean up files for consistency across multiple pieces and projects"
+    },
+    {
+      "duty": "Provide technical support by editing and preparing files to meet graphic standards and prepare artwork for production"
+    },
+    {
+      "duty": "Retouch images in Photoshop and apply special effects to a wide range of photography"
+    },
+    {
+      "duty": "Add interactive functionality to PDFs"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Design (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Automation Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Chemistry Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Programming (Python)",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Vendor Management",
+      "experience": 5
+    },
+    {
+      "skill": "Lab Automation Software",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Automating lab processes for small molecule synthesis, purification, quality control, and testing."
+    },
+    {
+      "duty": "Programming chemical experimental methods/workflows into the technology stack."
+    },
+    {
+      "duty": "Integrating instrumental data from hardware with LIMS."
+    },
+    {
+      "duty": "Automating the tracking of samples using BarTender Cloud and LIMS."
+    },
+    {
+      "duty": "Contributing to the vision for Vial's automation architecture and stack."
+    },
+    {
+      "duty": "Leading large projects from idea to launch."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100
+    },
+    {
+      "student_teacher": 100
+    },
+    {
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Engineering, Chemistry, Computer Science, or related field (Master's preferred)"
+    }
+  ]
+}

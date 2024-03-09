@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Practice Manager",
+      "job_category": "Healthcare",
+      "job_class": "Manager",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Management Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Knowledge of EMR/HIMS",
+      "experience": 5
+    },
+    {
+      "skill": "Value Based Care Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 5
+    },
+    {
+      "skill": "Bilingual in English and Spanish",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and lead implementation for staffing plans, policies, and procedures for the facility."
+    },
+    {
+      "duty": "Work closely with clinicians to ensure optimal patient outcomes."
+    },
+    {
+      "duty": "Conduct briefings and area meetings; maintain frequent contact with other managers across the department."
+    },
+    {
+      "duty": "Analyze market trends, customer behavior, and competitor activity to identify growth opportunities and refine strategies."
+    },
+    {
+      "duty": "Measure and report on the performance of marketing campaigns, using data-driven insights to continuously improve strategies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree"
+    }
+  ]
+}

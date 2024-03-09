@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. Salesforce Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Salesforce Development",
+      "experience": 10
+    },
+    {
+      "skill": "Salesforce Lightning",
+      "experience": 5
+    },
+    {
+      "skill": "Apex Classes",
+      "experience": 5
+    },
+    {
+      "skill": "Triggers",
+      "experience": 5
+    },
+    {
+      "skill": "Rest API Integrations",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Leadership",
+      "experience": 10
+    },
+    {
+      "skill": "Business Analysis",
+      "experience": 10
+    },
+    {
+      "skill": "Stakeholder Communication",
+      "experience": 10
+    },
+    {
+      "skill": "Salesforce Training",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform end-to-end Salesforce software development including designing, coding, and debugging applications."
+    },
+    {
+      "duty": "Understand business processes, analyze systems, and provide end-to-end solutions across the organization."
+    },
+    {
+      "duty": "Optimize information management strategies for flexibility, scalability, and cost reduction."
+    },
+    {
+      "duty": "Lead the migration and development of Salesforce applications for business stakeholders."
+    },
+    {
+      "duty": "Define strategic architecture and communicate decision-making process and direction to executive management."
+    },
+    {
+      "duty": "Design and implement complex solutions using Apex, Visualforce, Lightning, and other Salesforce technologies."
+    },
+    {
+      "duty": "Provide Salesforce training and end-user support."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "10+ years of experience in custom Salesforce Development with min. 5+ years utilizing Lightning, LWC, Apex Classes, Triggers"
+    },
+    {
+      "credential": "Salesforce Certified Platform Developer desired"
+    },
+    {
+      "credential": "Salesforce Application Architect certification a plus"
+    },
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

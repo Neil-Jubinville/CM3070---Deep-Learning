@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "GIS Administrator",
+      "job_category": "Information Technology",
+      "job_class": "Administrator",
+      "sector": "Software Engineering",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "GIS Administration",
+      "experience": 5
+    },
+    {
+      "skill": "GIS Support",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Data Model",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform complex cadastral and GIS data maintenance, manipulation, analysis, extraction and generation assignments"
+    },
+    {
+      "duty": "Perform data research, investigation and verification"
+    },
+    {
+      "duty": "Code and digitize maps and geographic feature data into various layers and databases"
+    },
+    {
+      "duty": "Respond to emergency mapping and information requests"
+    },
+    {
+      "duty": "Maintain, develop and troubleshoot ArcGIS services"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science degree in Information Technology Management, Computer Science, Computer Engineering or a related discipline from an accredited college or university"
+    }
+  ]
+}

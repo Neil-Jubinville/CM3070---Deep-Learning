@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Physician - Psychiatric-Mental Health",
+      "job_category": "Healthcare",
+      "job_class": "Physician",
+      "sector": "Healthcare",
+      "salary": 220,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Psychiatric Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Mental Health Intervention",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnostic Evaluation",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Record-Keeping",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct psychiatric assessments and evaluations of patient mental health."
+    },
+    {
+      "duty": "Provide interventions and treatments for individuals with mental health disorders."
+    },
+    {
+      "duty": "Deliver patient care, including medication management and therapy sessions."
+    },
+    {
+      "duty": "Conduct diagnostic evaluations and analysis of patient mental health conditions."
+    },
+    {
+      "duty": "Maintain accurate and detailed medical records of patient interactions and treatment plans."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Medicine (MD) or Doctor of Osteopathic Medicine (DO)"
+    }
+  ]
+}

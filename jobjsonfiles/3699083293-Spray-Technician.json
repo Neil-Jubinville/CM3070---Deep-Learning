@@ -1,0 +1,48 @@
+{
+  "meta": [
+    {
+      "job_title": "Spray Technician",
+      "job_category": "Manufacturing",
+      "job_class": "Technician",
+      "sector": "Manufacturing",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Spraying Technique",
+      "experience": 2
+    },
+    {
+      "skill": "Label Reading",
+      "experience": 2
+    },
+    {
+      "skill": "HVLP Spray Gun Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Frame Rotating",
+      "experience": 2
+    },
+    {
+      "skill": "Special Duty Handling",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate a motorized conveyor to bring frames to the sprayer and timely apply finish using an HVLP spray gun."
+    },
+    {
+      "duty": "Read labels to identify finish numbers and ensure corresponding spray gun is used."
+    },
+    {
+      "duty": "Rotate the frame or frame pallet to apply spray to all sides of the frame."
+    },
+    {
+      "duty": "Perform other duties and non-routine assignments as instructed."
+    }
+  ]
+}

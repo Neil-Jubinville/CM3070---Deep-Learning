@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Investment Analyst",
+      "job_category": "Finance",
+      "job_class": "Analyst",
+      "sector": "Venture Capital",
+      "salary": 180000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sourcing Leads",
+      "experience": 3
+    },
+    {
+      "skill": "Market Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Business Evaluation",
+      "experience": 5
+    },
+    {
+      "skill": "Portfolio Management",
+      "experience": 5
+    },
+    {
+      "skill": "Networking",
+      "experience": 5
+    },
+    {
+      "skill": "Research and Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Identifying and building lasting relationships with founders in the startup/VC ecosystem."
+    },
+    {
+      "duty": "Staying on top of market trends and foreseeing future market trends."
+    },
+    {
+      "duty": "Evaluating business ideas, leads, and teams with the investing partner."
+    },
+    {
+      "duty": "Providing portfolio support by engaging with founders to help them achieve traction, retain users, and find talent."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Finance, Economics, or Business Administration (Master's preferred)"
+    }
+  ]
+}

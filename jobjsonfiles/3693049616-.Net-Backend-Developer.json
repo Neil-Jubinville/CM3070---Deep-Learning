@@ -1,0 +1,122 @@
+{
+  "meta": [
+    {
+      "job_title": ".Net Backend Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": ".Net Development",
+      "experience": 10
+    },
+    {
+      "skill": "Microsoft SQL Server",
+      "experience": 10
+    },
+    {
+      "skill": "C#.Net",
+      "experience": 10
+    },
+    {
+      "skill": "ASP.Net",
+      "experience": 10
+    },
+    {
+      "skill": "MVC",
+      "experience": 10
+    },
+    {
+      "skill": ".Net Core",
+      "experience": 10
+    },
+    {
+      "skill": "ASP.Net Core MVC",
+      "experience": 10
+    },
+    {
+      "skill": "WCF",
+      "experience": 10
+    },
+    {
+      "skill": "REST Web API",
+      "experience": 10
+    },
+    {
+      "skill": "MS CRM Dynamics",
+      "experience": 5
+    },
+    {
+      "skill": "ALM Tools",
+      "experience": 10
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 10
+    },
+    {
+      "skill": "Automated Test Scripts",
+      "experience": 10
+    },
+    {
+      "skill": "Performance Testing",
+      "experience": 10
+    },
+    {
+      "skill": "Selenium",
+      "experience": 10
+    },
+    {
+      "skill": "JMeter",
+      "experience": 10
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Planning",
+      "experience": 10
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Relationship Building",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build and enhance applications and services using .Net, Microsoft SQL Server, C#.Net, ASP.Net, MVC, .Net Core, ASP.Net Core MVC, WCF, REST Web API, and MS CRM Dynamics."
+    },
+    {
+      "duty": "Write unit tests with 100% coverage, build automated test scripts (ATDD), and conduct performance testing for deployment in production."
+    },
+    {
+      "duty": "Familiarity with Application Lifecycle Management (ALM) tools like TFS or Azure DevOps."
+    },
+    {
+      "duty": "Possess excellent communication skills, planning and organizational abilities."
+    },
+    {
+      "duty": "Ability to establish and meet target dates, handle multiple development projects, and build strong relationships with internal and external sources."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science or equivalent years of software development and testing experience required (Master's preferred)"
+    }
+  ]
+}

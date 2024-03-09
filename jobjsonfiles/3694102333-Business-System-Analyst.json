@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Business System Analyst",
+      "job_category": "Business System Analyst",
+      "job_class": "Analyst",
+      "sector": "Data Analysis",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 6
+    },
+    {
+      "skill": "Github",
+      "experience": 6
+    },
+    {
+      "skill": "Jira",
+      "experience": 6
+    },
+    {
+      "skill": "Excel",
+      "experience": 6
+    },
+    {
+      "skill": "Statistical Analysis",
+      "experience": 6
+    },
+    {
+      "skill": "A/B Testing",
+      "experience": 6
+    },
+    {
+      "skill": "Programming (Java)",
+      "experience": 6
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 6
+    },
+    {
+      "skill": "Use Case Development",
+      "experience": 6
+    },
+    {
+      "skill": "Test Case Creation",
+      "experience": 6
+    },
+    {
+      "skill": "End 2 End Quality Certification",
+      "experience": 6
+    },
+    {
+      "skill": "UATs",
+      "experience": 6
+    },
+    {
+      "skill": "Karate/Rest Assured & Postman",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Analyze data to derive insights and tell stories for product, marketing, and web analytics."
+    },
+    {
+      "duty": "Educate, instill confidence, and motivate others to act on data-driven recommendations."
+    },
+    {
+      "duty": "Guide and support A/B testing or other experimentation frameworks, and interpret results to draw practical conclusions."
+    },
+    {
+      "duty": "Conversion of requirements into use cases and test cases."
+    },
+    {
+      "duty": "Certify quality changes and drive User Acceptance Tests (UATs)."
+    },
+    {
+      "duty": "Expertise in Karate/Rest Assured & Postman functional automation frameworks is desirable."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 75,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Analytics, Computer Science, Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Bio-Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Biochemistry",
+      "experience": 3
+    },
+    {
+      "skill": "Immunology",
+      "experience": 3
+    },
+    {
+      "skill": "Manufacturing",
+      "experience": 3
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Record Keeping",
+      "experience": 3
+    },
+    {
+      "skill": "Laboratory Safety",
+      "experience": 3
+    },
+    {
+      "skill": "Continuous Improvement",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Works in the manufacturing team focusing on clinical diagnostic reagent manufacturing, in process testing, product assembly, and packaging."
+    },
+    {
+      "duty": "Assists Diazyme Operating departments in achieving assigned product preparation & inventory goals."
+    },
+    {
+      "duty": "Expected to work in a safe manner in accordance with established SOPs."
+    },
+    {
+      "duty": "May participate in continuous improvement projects and prepares reports as requested."
+    },
+    {
+      "duty": "Maintains and updates a variety of confidential and sensitive electronic and/or hard copy records and/or files."
+    },
+    {
+      "duty": "Performs other duties as assigned or required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Biochemistry, Immunology, or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Splunk Admin",
+      "job_category": "IT",
+      "job_class": "Administrator",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Splunk",
+      "experience": 3
+    },
+    {
+      "skill": "ELK",
+      "experience": 2
+    },
+    {
+      "skill": "Migration",
+      "experience": 2
+    },
+    {
+      "skill": "Dashboard Creation",
+      "experience": 2
+    },
+    {
+      "skill": "Alert Creation",
+      "experience": 2
+    },
+    {
+      "skill": "Data Ingestion",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "2-4 years of experience in Splunk and ELK"
+    },
+    {
+      "duty": "Experience in Splunk to ELK migration"
+    },
+    {
+      "duty": "Knowledge in Splunk and ELK dashboard/alert creation"
+    },
+    {
+      "duty": "Knowledge in Splunk queries"
+    },
+    {
+      "duty": "Experience in ELK data ingestion"
+    }
+  ]
+}

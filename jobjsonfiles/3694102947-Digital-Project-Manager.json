@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Digital Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 105000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Web Design",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "CMS",
+      "experience": 5
+    },
+    {
+      "skill": "SEO",
+      "experience": 5
+    },
+    {
+      "skill": "Stakeholder Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 5
+    },
+    {
+      "skill": "Scrum",
+      "experience": 5
+    },
+    {
+      "skill": "Google Analytics",
+      "experience": 5
+    },
+    {
+      "skill": "Accessibility Best Practices",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage web design, development, and maintenance projects"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BSc in Computer Science, Digital Marketing, or relevant field, or 5+ years of directly relevant experience"
+    }
+  ]
+}

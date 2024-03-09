@@ -1,0 +1,131 @@
+{
+  "meta": [
+    {
+      "job_title": "iOS Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Swift",
+      "experience": 6
+    },
+    {
+      "skill": "Objective-C",
+      "experience": 6
+    },
+    {
+      "skill": "Cocoa Touch",
+      "experience": 6
+    },
+    {
+      "skill": "XCode",
+      "experience": 6
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 6
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 6
+    },
+    {
+      "skill": "Functional Programming",
+      "experience": 6
+    },
+    {
+      "skill": "Swift Package Manager",
+      "experience": 6
+    },
+    {
+      "skill": "Cocoapods",
+      "experience": 6
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 6
+    },
+    {
+      "skill": "RESTful Web Services",
+      "experience": 6
+    },
+    {
+      "skill": "Testing Frameworks",
+      "experience": 6
+    },
+    {
+      "skill": "Combine",
+      "experience": 6
+    },
+    {
+      "skill": "RxSwift",
+      "experience": 6
+    },
+    {
+      "skill": "Mobile Architecture Patterns",
+      "experience": 6
+    },
+    {
+      "skill": "Firebase Crashlytics",
+      "experience": 3
+    },
+    {
+      "skill": "SwiftUI",
+      "experience": 3
+    },
+    {
+      "skill": "Jenkins",
+      "experience": 6
+    },
+    {
+      "skill": "Azure DevOps",
+      "experience": 6
+    },
+    {
+      "skill": "Artifactory",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain iOS applications using Swift, Objective-C, Cocoa Touch, UIKit, and XCode in an agile environment."
+    },
+    {
+      "duty": "Participate in the entire app development lifecycle, from concept to delivery, and ensure high-quality, performance, and responsiveness of the applications."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to define, design, and ship new features."
+    },
+    {
+      "duty": "Mentor and coach other iOS developers, participate in code reviews, and pair programming."
+    },
+    {
+      "duty": "Utilize modern development principles and CI/CD tools to continuously deliver high-quality apps that guarantee stable and performant experiences."
+    },
+    {
+      "duty": "Consume RESTful web services and manage dependencies using Swift Package Manager and/or Cocoapods."
+    },
+    {
+      "duty": "Implement testing concepts and frameworks using XCTest and XCUITest, with a focus on DevSecOps."
+    },
+    {
+      "duty": "Stay updated with mobile landscape, architectures, trends, and emerging technologies to create performant, resilient, and robust iOS apps."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

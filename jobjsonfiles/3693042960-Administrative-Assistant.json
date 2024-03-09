@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Administrative Assistant",
+      "job_category": "Administration",
+      "job_class": "Associate",
+      "sector": "Investment",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Administrative Support",
+      "experience": 3
+    },
+    {
+      "skill": "Calendar Management",
+      "experience": 3
+    },
+    {
+      "skill": "Travel Coordination",
+      "experience": 3
+    },
+    {
+      "skill": "Expense Reporting",
+      "experience": 3
+    },
+    {
+      "skill": "Office Management",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide administrative support to multiple executives, including managing calendars, scheduling, and meeting coordination."
+    },
+    {
+      "duty": "Coordinate international and domestic travel for the executives."
+    },
+    {
+      "duty": "Prepare expense reports and handle gifting and other special projects."
+    },
+    {
+      "duty": "Manage office kitchen and provide general office management support."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration or related field"
+    }
+  ]
+}

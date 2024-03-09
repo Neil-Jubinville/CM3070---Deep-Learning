@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Receiving Inspector",
+      "job_category": "Aviation",
+      "job_class": "Inspector",
+      "sector": "Aviation",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Inspection",
+      "experience": 1
+    },
+    {
+      "skill": "Document Verification",
+      "experience": 1
+    },
+    {
+      "skill": "Component Distribution",
+      "experience": 1
+    },
+    {
+      "skill": "Box Opening",
+      "experience": 1
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Receive and sign for the freight from delivery services."
+    },
+    {
+      "duty": "Sort freight to the appropriate area."
+    },
+    {
+      "duty": "Open boxes of freight and confirm contents match the paperwork received."
+    },
+    {
+      "duty": "Fill out appropriate documentation for components received without sufficient information."
+    },
+    {
+      "duty": "Complete the 360\u00b0 receiving photographs in a photo booth."
+    },
+    {
+      "duty": "Distribute the components to the appropriate locations after induction."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School/GED equivalent"
+    }
+  ]
+}

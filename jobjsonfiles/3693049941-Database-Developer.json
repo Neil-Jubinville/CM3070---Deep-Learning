@@ -1,0 +1,181 @@
+{
+  "meta": [
+    {
+      "job_title": "Database Developer",
+      "job_category": "Technology",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Postgres SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Postgis",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "PL/SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Performance tuning",
+      "experience": 5
+    },
+    {
+      "skill": "Shell scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Python scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Reporting tools",
+      "experience": 3
+    },
+    {
+      "skill": "Database modelling",
+      "experience": 5
+    },
+    {
+      "skill": "Data extraction",
+      "experience": 5
+    },
+    {
+      "skill": "Stored Procedures",
+      "experience": 5
+    },
+    {
+      "skill": "Functions",
+      "experience": 5
+    },
+    {
+      "skill": "Packages",
+      "experience": 5
+    },
+    {
+      "skill": "Triggers",
+      "experience": 5
+    },
+    {
+      "skill": "GIS processes",
+      "experience": 5
+    },
+    {
+      "skill": "Geospatial queries",
+      "experience": 5
+    },
+    {
+      "skill": "Database code optimization",
+      "experience": 5
+    },
+    {
+      "skill": "Data privacy and security",
+      "experience": 5
+    },
+    {
+      "skill": "Database performance tuning",
+      "experience": 5
+    },
+    {
+      "skill": "Database schema design",
+      "experience": 5
+    },
+    {
+      "skill": "Bulk techniques",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Functions",
+      "experience": 5
+    },
+    {
+      "skill": "Hierarchical Queries",
+      "experience": 5
+    },
+    {
+      "skill": "Partition utilization",
+      "experience": 5
+    },
+    {
+      "skill": "Data loading automation",
+      "experience": 5
+    },
+    {
+      "skill": "Data extraction automation",
+      "experience": 5
+    },
+    {
+      "skill": "Unix Shell scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle SQL",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Server",
+      "experience": 5
+    },
+    {
+      "skill": "SQL query optimization",
+      "experience": 5
+    },
+    {
+      "skill": "Debugging",
+      "experience": 5
+    },
+    {
+      "skill": "Testing SQL queries",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work closely with GIS analysts to implement geospatial processes, queries, and reports."
+    },
+    {
+      "duty": "Write efficient database code without compromising data quality, privacy, or security."
+    },
+    {
+      "duty": "Resolve database performance and scalability issues."
+    },
+    {
+      "duty": "Implement database performance tuning and optimization."
+    },
+    {
+      "duty": "Design and implement scalable database schemas and configurations."
+    },
+    {
+      "duty": "Automate data loading, extraction, and report generation using Unix Shell scripting or Python scripting."
+    },
+    {
+      "duty": "Optimize, debug, and test SQL queries, views, and stored procedures written in Oracle and SQL Server."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ],
+  "salary": 110000
+}

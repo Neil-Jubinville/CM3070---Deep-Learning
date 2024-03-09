@@ -1,0 +1,47 @@
+{
+  "meta": [
+    {
+      "job_title": "ICU RN",
+      "job_category": "Nursing",
+      "job_class": "RN",
+      "sector": "Healthcare",
+      "salary": 2487.88,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Critical Care",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide direct and individualized nursing care to patients based on the application of scientific nursing principles."
+    },
+    {
+      "duty": "Assess, plan, deliver, and evaluate nursing care to meet patient needs."
+    },
+    {
+      "duty": "Report and document all observed symptoms, reactions, treatments, and changes in the patient's condition."
+    },
+    {
+      "duty": "Collaborate with interdisciplinary medical team to create and adjust patient care plans."
+    },
+    {
+      "duty": "Educate patients and their families on proper treatment, care, and medication usage."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 120,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science in Nursing (BSN) degree"
+    }
+  ]
+}

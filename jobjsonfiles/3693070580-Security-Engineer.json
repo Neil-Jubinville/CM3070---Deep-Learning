@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Security Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Security Strategy",
+      "experience": 5
+    },
+    {
+      "skill": "Threat Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Code Reviews",
+      "experience": 5
+    },
+    {
+      "skill": "Vulnerability/Penetration Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Network Security",
+      "experience": 5
+    },
+    {
+      "skill": "SOC2/High Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Ecosystem",
+      "experience": 5
+    },
+    {
+      "skill": "Terraform/IAC/Helm/GitOps",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes/EKS",
+      "experience": 5
+    },
+    {
+      "skill": "GuardDuty/WAF",
+      "experience": 5
+    },
+    {
+      "skill": "Interviewing and Mentoring",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop a long-term and short-term security strategy to ensure that the product is designed, built, and operated securely."
+    },
+    {
+      "duty": "Partner with the engineering teams to perform design and architecture reviews, including threat modeling, code reviews, security/vulnerability/penetration testing."
+    },
+    {
+      "duty": "Design and build new systems, tools, or processes to enforce security requirements, detect badness, or otherwise defend the company."
+    },
+    {
+      "duty": "Refine and help improve the security and compliance strategy for the company."
+    },
+    {
+      "duty": "Work with a variety of stakeholders, both technical and non-technical."
+    },
+    {
+      "duty": "Conduct interviews and mentor engineers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS in Computer Science, Security, or equivalent professional experience (Master's preferred)"
+    }
+  ]
+}

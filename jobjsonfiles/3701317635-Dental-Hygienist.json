@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Dental Hygienist",
+      "job_category": "Healthcare",
+      "job_class": "Hygienist",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Screening",
+      "experience": 5
+    },
+    {
+      "skill": "Periodontal Therapies",
+      "experience": 5
+    },
+    {
+      "skill": "Fluoride Application",
+      "experience": 5
+    },
+    {
+      "skill": "Calculus Removal",
+      "experience": 5
+    },
+    {
+      "skill": "Dental Charting",
+      "experience": 5
+    },
+    {
+      "skill": "Nutritional Counseling",
+      "experience": 5
+    },
+    {
+      "skill": "Strong Verbal Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide periodontal therapies and other hygiene-related services to improve oral health of patients."
+    },
+    {
+      "duty": "Perform oral hygiene dental treatment and care in accordance with state guidelines."
+    },
+    {
+      "duty": "Conduct patient screening, medical history, and dental charting."
+    },
+    {
+      "duty": "Apply fluoride and protective sealants, remove calculus, stain, and plaque."
+    },
+    {
+      "duty": "Provide nutritional counseling and self-care programs to prevent disease."
+    },
+    {
+      "duty": "Other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Active Hygiene license for the state of New Jersey"
+    }
+  ]
+}

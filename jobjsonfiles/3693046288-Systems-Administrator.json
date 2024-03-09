@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Systems Administrator",
+      "job_category": "Information Technology",
+      "job_class": "Administrator",
+      "sector": "Information Technology",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "VMware Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Network Infrastructure Management",
+      "experience": 5
+    },
+    {
+      "skill": "Backup and Recovery",
+      "experience": 5
+    },
+    {
+      "skill": "SAN Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation Management",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "Business Relationship Building",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Administer and maintain VMware infrastructure, including vSphere, vCenter, and other virtualization tools, to ensure high availability, performance, and security of virtual machines."
+    },
+    {
+      "duty": "Manage on-prem infrastructure, including virtual machines, storage, and network, to ensure optimal performance and availability of applications and services."
+    },
+    {
+      "duty": "Configure, monitor, and maintain Dell and Ubiquiti network equipment, including switches, routers, and security appliances, to ensure network connectivity and performance across the global wide area network."
+    },
+    {
+      "duty": "Perform, maintain, and report on the effectiveness of backups with Veeam and offsite backup solutions."
+    },
+    {
+      "duty": "Manage Storage Area Network (SAN) infrastructure, including storage arrays, to ensure optimal performance, capacity, and availability of storage resources."
+    },
+    {
+      "duty": "Maintain our existing monitoring system, proactively identifying and resolving issues to minimize downtime and ensure maximum uptime for critical systems."
+    },
+    {
+      "duty": "Create and maintain documentation of infrastructure and procedures to ensure continuity of operations and to enable efficient troubleshooting and issue resolution."
+    },
+    {
+      "duty": "Collaborate with other IT members and departments to ensure seamless integration of infrastructure and services, and to provide technical support and guidance."
+    },
+    {
+      "duty": "Participate in IT projects, including system upgrades, migrations, and new implementations, to ensure successful project completion and minimal disruption to business operations."
+    },
+    {
+      "duty": "Stay up to date with emerging technologies and trends in infrastructure and systems administration, and provide recommendations and guidance to improve the performance, efficiency, and security of the company's IT infrastructure."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent experience is preferred. 2 years of experience maintaining IT infrastructure technology is required."
+    }
+  ]
+}

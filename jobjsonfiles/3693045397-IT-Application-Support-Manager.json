@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Application Support Manager",
+      "job_category": "IT",
+      "job_class": "Manager",
+      "sector": "IT",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "experience": 6
+    },
+    {
+      "skill": "Management",
+      "experience": 6
+    },
+    {
+      "skill": "ServiceNow Ticketing System",
+      "experience": 6
+    },
+    {
+      "skill": "Application Support",
+      "experience": 6
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 6
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide leadership and management for the Application Support team, overseeing onshore and offshore IT Support Analysts."
+    },
+    {
+      "duty": "Handle incoming queries and help with requests from end users, creating technical documentation for issue resolution."
+    },
+    {
+      "duty": "Provide hands-on support, monitor, test, and troubleshoot user and system-related application and software production problems."
+    },
+    {
+      "duty": "Utilize extensive experience with ServiceNow ticketing system for efficient management of support activities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Production Employee",
+      "job_category": "Production",
+      "job_class": "Employee",
+      "sector": "Manufacturing",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Manual Material Handling",
+      "experience": 5
+    },
+    {
+      "skill": "Hand Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Physical Stamina",
+      "experience": 5
+    },
+    {
+      "skill": "Good Hand-Eye Coordination",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform manual material handling, use of hand tools, knives, machinery, and equipment in a physically demanding environment."
+    },
+    {
+      "duty": "Engage in continuous standing, walking long distances on wet/slippery surfaces, and lifting/pushing heavy objects."
+    },
+    {
+      "duty": "Work in cold and hot environments, maintain personal protective equipment, and follow safety procedures."
+    },
+    {
+      "duty": "Comply with federal inspection programs and company safety and health policies, maintain regular attendance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

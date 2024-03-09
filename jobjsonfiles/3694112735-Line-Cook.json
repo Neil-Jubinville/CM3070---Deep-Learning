@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Line Cook",
+      "job_category": "Culinary",
+      "job_class": "Cook",
+      "sector": "Hospitality",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Kitchen Equipment Operation",
+      "experience": 1
+    },
+    {
+      "skill": "Menu Item Packaging",
+      "experience": 1
+    },
+    {
+      "skill": "Food Safety & Sanitation",
+      "experience": 1
+    },
+    {
+      "skill": "Recipe Understanding",
+      "experience": 1
+    },
+    {
+      "skill": "Physical Endurance",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepares food to specifications before and during unit operations."
+    },
+    {
+      "duty": "Properly measures and portions all food items."
+    },
+    {
+      "duty": "Complies with all portion sizes, quality standards, department rules, policies and procedures."
+    },
+    {
+      "duty": "Ensures proper food temperatures are maintained and food is stored correctly."
+    },
+    {
+      "duty": "Ensures freshness and quality of all menu items."
+    },
+    {
+      "duty": "Packages all products to proper specifications."
+    },
+    {
+      "duty": "Performs opening, closing and side work duties as instructed and according proper guidelines."
+    },
+    {
+      "duty": "Keeps workstation, coolers and equipment clean, organized, sanitized, and sufficiently stocked."
+    },
+    {
+      "duty": "Follows and upholds all health codes and sanitation regulations."
+    },
+    {
+      "duty": "Sets up and operates kitchen equipment."
+    },
+    {
+      "duty": "Uses waste control guidelines and records all waste on spoilage sheet."
+    },
+    {
+      "duty": "Performs other duties assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 30,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": []
+}

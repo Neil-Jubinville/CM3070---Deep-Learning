@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Electronic Health Record (EHR) Management",
+      "experience": 5
+    },
+    {
+      "skill": "Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Nursing Process",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Promote and restore patients' health by completing the nursing process; collaborating with physicians and multidisciplinary team members; providing physical, educational and emotional support to patients, friends and families."
+    },
+    {
+      "duty": "Develop and document individualized care plans customized for each patient\u2019s unique needs, with support from the interdisciplinary health team as needed; maintain effective communication to convey patient health status, treatment plans and progress."
+    },
+    {
+      "duty": "Demonstrate proficient use of an EHR \u2013 including accurate patient and provider documentation and communication."
+    },
+    {
+      "duty": "Adhere to required department and system protocols, regulations (local, state, federal) and education requirements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "AS: Nursing (Required)"
+    },
+    {
+      "credential": "BLS - Basic Life Support - American Heart Association (AHA), RN - Registered Nurse - New York State Education Department (NYSED)"
+    }
+  ]
+}

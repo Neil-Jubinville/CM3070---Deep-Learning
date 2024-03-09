@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Service Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Software Engineering",
+      "salary": 52000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Service",
+      "experience": 3
+    },
+    {
+      "skill": "Electronics",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Field Service Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform installation, support, and ongoing technical service in the field for various types of Electronic Gaming Machines (slot machines) and related products."
+    },
+    {
+      "duty": "Complete installations and visitation schedules as assigned by the Operations Manager or Supervisor."
+    },
+    {
+      "duty": "Provide customer support for parts purchasing advice and technical challenges through CRM and mobile apps."
+    },
+    {
+      "duty": "Review pre-install documents to determine parts needed for installation."
+    },
+    {
+      "duty": "Maintain confidentiality of company and product information."
+    },
+    {
+      "duty": "Maintain proper grooming and uniform/dress code."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100
+    },
+    {
+      "student_teacher": 70
+    },
+    {
+      "introvert_extrovert": 130
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent required; experience in an industrial environment preferred."
+    }
+  ]
+}

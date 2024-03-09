@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Healthcare Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 46000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "TMS Administration",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Empathy",
+      "experience": 4
+    },
+    {
+      "skill": "Medical Record Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Trauma Support",
+      "experience": 4
+    },
+    {
+      "skill": "High Stress Environment Management",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide excellent patient care and support while developing trust and rapport."
+    },
+    {
+      "duty": "Administer TMS (Transcranial Magnetic Stimulation) treatments."
+    },
+    {
+      "duty": "Communicate and educate patients about maintaining healthy lifestyles."
+    },
+    {
+      "duty": "Maintain communication with providers regarding patient\u2019s treatment."
+    },
+    {
+      "duty": "Demonstrate a high level of professionalism, empathy, and positivity for our patients."
+    },
+    {
+      "duty": "Follow implemented TMS protocols."
+    },
+    {
+      "duty": "Monitor and report changes in patient symptoms or behavior."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma / GED."
+    }
+  ]
+}

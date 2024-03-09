@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Track Laborer",
+      "job_category": "Laborer",
+      "job_class": "Non-Managerial",
+      "sector": "Labor",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Labor",
+      "experience": 5
+    },
+    {
+      "skill": "Hand Tool Usage",
+      "experience": 5
+    },
+    {
+      "skill": "Track Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Operation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform physical labor using hand tools and equipment to construct, alter, repair, maintain, and demolish railroad tracks and associated structures."
+    },
+    {
+      "duty": "Carry and place track materials using hand tools such as tie tongs, rail tongs, rail forks, lining bars, shovels, and jacks."
+    },
+    {
+      "duty": "Attach rail to ties using spike mauls or spike drivers."
+    },
+    {
+      "duty": "Remove spikes with claw bars, spike lifters, and spike pullers."
+    },
+    {
+      "duty": "Lift, position, handle, remove, and install railroad crossties in and around the track structure."
+    },
+    {
+      "duty": "Connect and disconnect rail using track, impact, power wrenches, or welding materials."
+    },
+    {
+      "duty": "Move, clean, and tamp ballast with shovels, tamping picks, clay picks, lining bars, and ballast forks."
+    },
+    {
+      "duty": "Raise tracks, turnouts, crossings, and rails with track or power jacks."
+    },
+    {
+      "duty": "Cut associated materials with oxygen-acetylene torches, rail saws, cut off saws, and cold chisels."
+    },
+    {
+      "duty": "Drill holes with gasoline, pneumatic, hydraulic, and electric drill motors."
+    },
+    {
+      "duty": "Work alongside heavy equipment by connecting, disconnecting, and controlling material that is being moved and by directing such movement."
+    },
+    {
+      "duty": "Participate in safety meetings and wear appropriate personal protective equipment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 200
+    },
+    {
+      "student_teacher": 80
+    },
+    {
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School/GED"
+    }
+  ]
+}

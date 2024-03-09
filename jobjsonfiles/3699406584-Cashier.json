@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Cashier",
+      "job_category": "Customer Service",
+      "job_class": "Entry-Level",
+      "sector": "Restaurant",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Food Service",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Team Player",
+      "experience": 2
+    },
+    {
+      "skill": "Time Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greeting and assisting customers in a fast-paced food service environment."
+    },
+    {
+      "duty": "Filling drink orders and processing payments efficiently."
+    },
+    {
+      "duty": "Working the drive-thru and providing quick and friendly service to customers."
+    },
+    {
+      "duty": "Cleaning tables, floors, and other areas of the Restaurant to maintain cleanliness."
+    },
+    {
+      "duty": "Taking orders from customers and ensuring accurate processing of orders."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent (Preferred)"
+    }
+  ]
+}

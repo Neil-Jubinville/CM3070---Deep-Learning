@@ -1,0 +1,108 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior MLOps Engineer",
+      "job_category": "Data Science",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 132000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ML/AI Development",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "API Scaling",
+      "experience": 5
+    },
+    {
+      "skill": "NoSQL",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Translation",
+      "experience": 5
+    },
+    {
+      "skill": "Data Science",
+      "experience": 5
+    },
+    {
+      "skill": "Production Code Optimization",
+      "experience": 5
+    },
+    {
+      "skill": "Backend Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Architectural Decision Making",
+      "experience": 5
+    },
+    {
+      "skill": "Python Services",
+      "experience": 5
+    },
+    {
+      "skill": "Refactoring",
+      "experience": 5
+    },
+    {
+      "skill": "Monitoring",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Translate data science insights into tangible product features that directly influence the lives of pet parents."
+    },
+    {
+      "duty": "Construct ML/AI models that empower pet parents to comprehend the effects of their actions on pet care products and suggest adaptations for improved outcomes."
+    },
+    {
+      "duty": "Offer substantial support in the productization, deployment, and maintenance of models and algorithms within a production environment."
+    },
+    {
+      "duty": "Contribute to and shape architectural decisions that foster the scalability of pet care products."
+    },
+    {
+      "duty": "Design and implement Python-based services that are methodically testable, reliably predictable, and effortlessly maintainable, all while adhering to best practices in testing, observability, and monitoring."
+    },
+    {
+      "duty": "Refactor pre-existing production code to heighten performance and reduce intricacies."
+    },
+    {
+      "duty": "Tackle and resolve production-related alerts and challenges."
+    },
+    {
+      "duty": "Leverage sophisticated logging and monitoring tools to pinpoint root causes and implement solutions effectively."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Computer Science or a closely related discipline"
+    }
+  ]
+}

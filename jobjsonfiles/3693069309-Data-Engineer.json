@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Scala/Spark",
+      "experience": 5
+    },
+    {
+      "skill": "Java & Spring",
+      "experience": 3
+    },
+    {
+      "skill": "ETL Data Pipelines",
+      "experience": 5
+    },
+    {
+      "skill": "Relational Databases",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Technology (AWS)",
+      "experience": 3
+    },
+    {
+      "skill": "Software Development Life Cycle (SDLC)",
+      "experience": 3
+    },
+    {
+      "skill": "Lead and/or Mentorship",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, build, and deploy ETL data pipelines, databases, features, and systems"
+    },
+    {
+      "duty": "Develop software with Java & Spring for REST API development"
+    },
+    {
+      "duty": "Utilize expertise in Spark for data engineering"
+    },
+    {
+      "duty": "Implement cloud technology, especially AWS, for data engineering tasks and projects"
+    },
+    {
+      "duty": "Work on full software development life cycle (SDLC) of data engineering projects"
+    },
+    {
+      "duty": "Lead and mentor junior members of the data engineering team"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.S. or higher in Computer Science, or related field"
+    }
+  ]
+}

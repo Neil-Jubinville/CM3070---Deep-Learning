@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Control Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Manufacturing Environment",
+      "experience": 5
+    },
+    {
+      "skill": "Siemens Hardware and Software",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Install, repair, and maintain various manufacturing electrical systems, equipment, and components."
+    },
+    {
+      "duty": "Diagnose and repair electrical problems, faults, and perform troubleshooting to determine root cause in electrical systems."
+    },
+    {
+      "duty": "Repair and/or replace faulty or damaged basic electrical components such as switches, relays, fuses, motors, drives, encoders, resolvers, temperature controllers, etc."
+    },
+    {
+      "duty": "Troubleshoot and repair of advanced electrical control system devices such as operator interfaces, HMI\u2019s, web defect detection and inspection systems, registration control systems, stepper motors and drives, programmable logic controllers (PLCs), etc."
+    },
+    {
+      "duty": "Ability to go-online, troubleshoot, and modify programs for HMIs, drive systems, and Programmable Logic Controllers (PLC\u2019s)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "More than five (5) years of verifiable experience working as an Electrical Technician in a manufacturing environment. Programmable Logic Controller (PLC) experience is required. Siemens hardware and software experience is preferred."
+    }
+  ]
+}

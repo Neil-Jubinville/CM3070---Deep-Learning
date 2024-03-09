@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Building Maintenance Technician",
+      "job_category": "Facilities",
+      "job_class": "Technician",
+      "sector": "Facilities",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HVAC Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Plumbing",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Building Mechanicals",
+      "experience": 5
+    },
+    {
+      "skill": "Refrigeration Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Motor Controller Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Pneumatic and Electric Controls",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Inspection and Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Interpreting Equipment Diagrams",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Starting, operating, repairing, and maintaining various types of heating and air conditioning plants and associated equipment."
+    },
+    {
+      "duty": "Maintaining and repairing motor controller and associated electrical equipment and control circuits."
+    },
+    {
+      "duty": "Installing, repairing and calibrating various makes of pneumatic and/or electric controls required for the operation of temperature and humidity control equipment."
+    },
+    {
+      "duty": "Performing inspections and making repairs on equipment/systems as required by company practices and/or regulations/ordinances."
+    },
+    {
+      "duty": "Reviewing and interpreting work orders, operating instructions, diagrams, building plans, and mechanical equipment drawings."
+    },
+    {
+      "duty": "Climbing ladders, working aloft, and moving/lifting items generally not exceeding 100 lbs."
+    },
+    {
+      "duty": "Working evenings, weekends, holidays, and unscheduled shifts as determined by the needs of the business."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid refrigeration license and ability to pass, obtain and maintain a current certificate of fitness for fire standpipe, sprinkler, welding, oil burner, and air compressor operation."
+    },
+    {
+      "credential": "Universal Technician Certification as designated by EPA regulations-40 CFR Part 82 Subpart H."
+    },
+    {
+      "credential": "Relevant vocational or technical training or 3 or more years of relevant work experience."
+    }
+  ]
+}

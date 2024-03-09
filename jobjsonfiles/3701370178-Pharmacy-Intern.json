@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Pharmacy Intern",
+      "job_category": "Pharmacy",
+      "job_class": "Intern",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Pharmacy Technician",
+      "experience": 2
+    },
+    {
+      "skill": "Medication Use Policy",
+      "experience": 2
+    },
+    {
+      "skill": "Drug Information Assessment",
+      "experience": 2
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Quality Improvement",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performs the essential functions of Pharmacy Technician I."
+    },
+    {
+      "duty": "Performs the essential functions of Pharmacy Technician II."
+    },
+    {
+      "duty": "Trains to be able to solve problems in the medication use process for patients and the organization."
+    },
+    {
+      "duty": "Identifies and engages in organizational and department quality improvement activities to improve patient care, the medication use process, and pharmacy operations."
+    },
+    {
+      "duty": "Trains to assume responsibility for the medication use process, following medication use policy and all laws, regulations, and standards applicable to pharmacy practice."
+    },
+    {
+      "duty": "Learns to assess appropriate drug information and literature resources, and provide effective information to varied audiences including patients, other health care professions, and peers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Must be fully-matriculated and accepted in the College of Pharmacy."
+    },
+    {
+      "credential": "Current Utah State Pharmacy Intern Licensure."
+    },
+    {
+      "credential": "Current Temporary Pharmacist License issued through the State of Utah."
+    }
+  ]
+}

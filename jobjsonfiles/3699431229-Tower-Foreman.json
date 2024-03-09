@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Tower Foreman",
+      "job_category": "Construction",
+      "job_class": "Foreman",
+      "sector": "Construction",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tower Crew Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Detail-Oriented",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Management",
+      "experience": 5
+    },
+    {
+      "skill": "Efficiency",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Run a tower crew to complete quality wireless communication tower installations, maintenance, and repairs while adhering to all applicable codes and safety standards."
+    },
+    {
+      "duty": "Pass BHI competent climber and tower rescue training."
+    },
+    {
+      "duty": "Demonstrate strong communication skills, attention to detail, efficiency, and strong customer service with a focus on safety."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certification in tower climbing and rescue operations"
+    }
+  ]
+}

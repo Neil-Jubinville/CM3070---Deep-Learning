@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "AI Integration and Prompt Engineering Specialist",
+      "job_category": "Software Engineering",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 250000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AI Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Prompt Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "OpenAI Code Interpreter",
+      "experience": 5
+    },
+    {
+      "skill": "LangChain",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Glue",
+      "experience": 5
+    },
+    {
+      "skill": "AI Orchestration",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Process Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the transition of human-run education services to be fully automated through the power of generative AI."
+    },
+    {
+      "duty": "Utilize tools like OpenAI Code Interpreter, LangChain, and AWS Glue to revolutionize educational services."
+    },
+    {
+      "duty": "Design AI prompts based on the breakdown of complex cases and understanding of learning science."
+    },
+    {
+      "duty": "Thoroughly check and validate IDSs to ensure AI solutions are delivering top-notch services."
+    },
+    {
+      "duty": "Evaluate outputs, build prototypes, and push the quality bar higher."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in AI, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

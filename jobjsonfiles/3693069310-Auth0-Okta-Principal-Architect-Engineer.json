@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Auth0/Okta Principal Architect/Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Principal Engineer",
+      "sector": "Software Engineering",
+      "salary": 180000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Identity and Access Management (IAM)",
+      "experience": 10
+    },
+    {
+      "skill": "OAuth 2.0",
+      "experience": 4
+    },
+    {
+      "skill": "SAML",
+      "experience": 4
+    },
+    {
+      "skill": "OpenID Connect",
+      "experience": 4
+    },
+    {
+      "skill": "CI/CD Pipelines",
+      "experience": 3
+    },
+    {
+      "skill": "API Integration",
+      "experience": 4
+    },
+    {
+      "skill": "IAM Deployment",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Environment Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Infrastructure as Code",
+      "experience": 3
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead large-scale complex implementation leveraging Auth0/Okta CIC for Customer Identity and Access Management (CIAM)"
+    },
+    {
+      "duty": "Design and implement architectural deployment models for Auth0 components in relation to the overall Infrastructure, API, and Application integration"
+    },
+    {
+      "duty": "Review and assess current state architectural deployments, component integrations, workflows, and user base"
+    },
+    {
+      "duty": "Hand-on configuration activities in Auth0 and other infrastructure to ensure smooth CIAM integration"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in Computer Science, Engineering, Network Security or related field (Master's preferred)"
+    },
+    {
+      "credential": "Certifications relevant to IAM platforms (Auth0, Azure AD, Okta, etc.)"
+    }
+  ]
+}

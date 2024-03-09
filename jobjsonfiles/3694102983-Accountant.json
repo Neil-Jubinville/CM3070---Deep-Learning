@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Accountant",
+      "job_category": "Accounting",
+      "job_class": "Accountant",
+      "sector": "Finance",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "Tax Preparation",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Bookkeeping",
+      "experience": 5
+    },
+    {
+      "skill": "Payroll Management",
+      "experience": 5
+    },
+    {
+      "skill": "Budgeting",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage the financial records and transactions of the landscaping business, ensuring accuracy and compliance with regulations."
+    },
+    {
+      "duty": "Prepare and file tax returns for the business, taking advantage of available deductions and credits to minimize tax liability."
+    },
+    {
+      "duty": "Produce financial reports to track the business's performance and inform strategic decision-making."
+    },
+    {
+      "duty": "Maintain organized and up-to-date records of income and expenses through effective bookkeeping."
+    },
+    {
+      "duty": "Manage payroll processes and ensure timely payment to employees, including tax withholding."
+    },
+    {
+      "duty": "Develop and manage budgets to guide the financial operations and investments of the landscaping business."
+    },
+    {
+      "duty": "Conduct financial analysis to assess the business's financial health and identify areas for improvement."
+    },
+    {
+      "duty": "Exercise meticulous attention to detail and apply strong analytical skills in financial management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting, Finance, or a related field (CPA preferred)"
+    }
+  ]
+}

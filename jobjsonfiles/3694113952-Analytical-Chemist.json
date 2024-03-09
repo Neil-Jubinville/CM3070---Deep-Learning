@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Analytical Chemist",
+      "job_category": "Biotechnology",
+      "job_class": "Scientist",
+      "sector": "Science",
+      "salary": 20,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sample Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Calibration",
+      "experience": 1
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 1
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 1
+    },
+    {
+      "skill": "Lab Instrument Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Analytical Method Development",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare and extract samples for analysis"
+    },
+    {
+      "duty": "Run initial calibration, daily QC, and MBs for an analytical method for a matrix"
+    },
+    {
+      "duty": "Understand basic QC requirements for at least one analytical method for analysis"
+    },
+    {
+      "duty": "Keep good recordkeeping for analytical sequence and updates logbook daily"
+    },
+    {
+      "duty": "Load samples on auto sampler for at least two analytical batches for both soil and aqueous matrix"
+    },
+    {
+      "duty": "Produce data, conduct a detailed review, and enter data into LIMS"
+    },
+    {
+      "duty": "Report level 2 data package with limited errors"
+    },
+    {
+      "duty": "Perform basic maintenance of the instrument/auto sampler"
+    },
+    {
+      "duty": "Learn additional analytical methods, advanced data reporting, and increase productivity for additional analytical batches when time permits"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "1-2 years of experience, no degree required, some college level sciences classes preferred"
+    }
+  ]
+}

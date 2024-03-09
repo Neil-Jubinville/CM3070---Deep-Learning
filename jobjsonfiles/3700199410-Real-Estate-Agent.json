@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Real Estate Agent",
+      "job_category": "Real Estate",
+      "job_class": "Agent",
+      "sector": "Sales",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Real Estate Market Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Local Neighborhood Expertise",
+      "experience": 5
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 5
+    },
+    {
+      "skill": "Property Advertising",
+      "experience": 5
+    },
+    {
+      "skill": "Open House Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Networking Proficiency",
+      "experience": 5
+    },
+    {
+      "skill": "Growth Mindset",
+      "experience": 5
+    },
+    {
+      "skill": "Continuous Personal Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Stay up-to-date on the real estate market."
+    },
+    {
+      "duty": "Be knowledgeable about local neighborhoods and current market trends."
+    },
+    {
+      "duty": "Provide advice and assistance to buyers and sellers."
+    },
+    {
+      "duty": "Maintain relationships with clients and potential clients."
+    },
+    {
+      "duty": "Negotiate contracts and terms of sale."
+    },
+    {
+      "duty": "Advertise properties for sale."
+    },
+    {
+      "duty": "Conduct open houses and other events to promote properties."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Possess a valid Real Estate license(or actively working towards obtaining one)"
+    }
+  ]
+}

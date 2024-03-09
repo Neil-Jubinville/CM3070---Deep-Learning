@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Professional",
+      "job_category": "Sales",
+      "job_class": "Professional",
+      "sector": "Sales",
+      "salary": 38000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Staff Scheduling",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Gift Wrapping",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist customers and ensure outstanding experience in the store."
+    },
+    {
+      "duty": "Train new hires for the sales role."
+    },
+    {
+      "duty": "Accept and reconcile inventory deliveries."
+    },
+    {
+      "duty": "Wrap gifts for customers."
+    },
+    {
+      "duty": "Arrange displays to enhance the visual appeal of the store."
+    },
+    {
+      "duty": "Schedule and manage staff for the sales store."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ]
+}

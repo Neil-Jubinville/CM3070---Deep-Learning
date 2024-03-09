@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 35,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Compassion and Empathy",
+      "experience": 5
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide patient care in an acute care setting, following established protocols and procedures."
+    },
+    {
+      "duty": "Utilize medical terminology and critical thinking to assess and respond to patient needs in emergency situations."
+    },
+    {
+      "duty": "Collaborate with the healthcare team to ensure comprehensive and compassionate care for all patients."
+    },
+    {
+      "duty": "Demonstrate attention to detail and accuracy in all nursing activities and documentation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (Master's degree preferred)"
+    },
+    {
+      "credential": "Active RN license in the state of practice"
+    }
+  ]
+}

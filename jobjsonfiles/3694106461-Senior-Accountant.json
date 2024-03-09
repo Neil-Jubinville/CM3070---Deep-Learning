@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Accountant",
+      "job_category": "Accounting",
+      "job_class": "Senior",
+      "sector": "Finance",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensure business transactions are reported in accordance with generally accepted accounting principles"
+    },
+    {
+      "duty": "Work closely with team members to assist with the month-end close"
+    },
+    {
+      "duty": "Assist with the annual audit process including the draft of the financial statements and related notes"
+    },
+    {
+      "duty": "Research and analyze expense variances for company management"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 3
+    },
+    {
+      "skill": "Budgeting",
+      "experience": 3
+    },
+    {
+      "skill": "Analytical Thinking",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "CPA Certification",
+      "experience": 3
+    },
+    {
+      "skill": "Modeling",
+      "experience": 3
+    },
+    {
+      "skill": "Forecasting",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting, Finance, or Economics or equivalent experience"
+    },
+    {
+      "credential": "CPA preferred"
+    },
+    {
+      "credential": "Modeling and Reporting experience required"
+    }
+  ]
+}

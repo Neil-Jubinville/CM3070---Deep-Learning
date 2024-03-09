@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Primary Care Physician",
+      "job_category": "Healthcare",
+      "job_class": "Physician",
+      "sector": "Healthcare",
+      "salary": 220000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical License",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Coordination",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Medicare Guidelines",
+      "experience": 5
+    },
+    {
+      "skill": "EMR",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Evaluates and treats center patients in accordance with standards of care."
+    },
+    {
+      "duty": "Assists in the coordination of patient services, including specialty referrals, hospital and SNF coordination, etc."
+    },
+    {
+      "duty": "Acts as an active participant with the care team through daily huddles."
+    },
+    {
+      "duty": "Completes all medical record documentation in a timely manner working with a quality-based coder."
+    },
+    {
+      "duty": "Follows policy and protocol defined by Clinical Leadership."
+    },
+    {
+      "duty": "Participates in potential growth opportunities for new or existing services within the Center."
+    },
+    {
+      "duty": "Assures personal compliance with licensing, certification, and accrediting bodies."
+    },
+    {
+      "duty": "Spends 100% of time clinically focused on direct patient care, inclusive of patient facing time and general administrative time as it relates to direct patient care."
+    },
+    {
+      "duty": "Participates in the local primary care \u201con-call\u201d program of CenterWell as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of accredited MD or DO program of accredited university"
+    }
+  ]
+}

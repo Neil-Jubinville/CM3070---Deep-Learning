@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Quality Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Medical Device Design",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Quality Management Systems",
+      "experience": 2
+    },
+    {
+      "skill": "ISO 13485",
+      "experience": 2
+    },
+    {
+      "skill": "FDA QSR Compliance",
+      "experience": 2
+    },
+    {
+      "skill": "Biocompatibility Evaluation",
+      "experience": 2
+    },
+    {
+      "skill": "Sterilization Methods",
+      "experience": 2
+    },
+    {
+      "skill": "Feasibility Studies",
+      "experience": 2
+    },
+    {
+      "skill": "Material Documentation",
+      "experience": 2
+    },
+    {
+      "skill": "Product/Process Documentation",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain ISO 13485 and FDA QSR Compliant Quality Management System."
+    },
+    {
+      "duty": "Evaluate material biocompatibility and sterilization methods."
+    },
+    {
+      "duty": "Design and execute product/process documentation, including inspection plans."
+    },
+    {
+      "duty": "Conduct feasibility studies to ensure design functionality."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in a scientific/engineering discipline or AA/AS degree with relevant experience."
+    }
+  ]
+}

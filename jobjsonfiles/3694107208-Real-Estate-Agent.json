@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Real Estate Agent",
+      "job_category": "Real Estate",
+      "job_class": "Agent",
+      "sector": "Sales",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Understanding the Customer",
+      "experience": 5
+    },
+    {
+      "skill": "Prospecting Skills",
+      "experience": 5
+    },
+    {
+      "skill": "People Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Motivation for Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Territory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Legal Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Independence",
+      "experience": 5
+    },
+    {
+      "skill": "Professionalism",
+      "experience": 5
+    },
+    {
+      "skill": "Meeting Sales Goals",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 5
+    },
+    {
+      "skill": "Underwriting",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop property listings by building rapport and reaching out to potential sellers; meeting potential sellers and managing the deal process."
+    },
+    {
+      "duty": "Recommending improvements that will enhance operations and valuation; Underwrite properties; closing transactions."
+    },
+    {
+      "duty": "Develop buyer relationships by meeting potential buyers and working with them to purchase properties; placing advertisements; and responding to inquiries."
+    },
+    {
+      "duty": "Close sales by understanding buyers' requirements; matching requirements to listings; showing properties; demonstrating benefits; relaying offers; suggesting alterations; and writing a contract."
+    },
+    {
+      "duty": "Update job knowledge by studying listings; visiting properties; participating in educational opportunities; reading professional publications; maintaining personal networks; and participating in professional and community organizations."
+    },
+    {
+      "duty": "Accomplish brokerage mission by completing related results as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Real Estate license"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Production Line Supervisor",
+      "job_category": "Manufacturing",
+      "job_class": "Supervisor",
+      "sector": "Manufacturing",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Manufacturing Operations",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 5
+    },
+    {
+      "skill": "Production Management",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Process Improvement",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Training",
+      "experience": 5
+    },
+    {
+      "skill": "Spanish Language",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensure the continuous flow of product according to set standards and escalate Jidoka issues as needed."
+    },
+    {
+      "duty": "Ensure line startup according to checklist and identify risks and quality rejections for immediate improvement."
+    },
+    {
+      "duty": "Execute operations based on supervisor instructions, ensuring compliance with regulations and maintaining discipline."
+    },
+    {
+      "duty": "Monitor deviations from standards and KPIs on the production floor."
+    },
+    {
+      "duty": "Provide technical expertise in back-end operations, including TPM and preventive interventions."
+    },
+    {
+      "duty": "Administer resources, prioritize activities, and ensure compliance with applicable regulations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Technical or Bachelor's degree in Manufacturing, Maintenance, or related field"
+    }
+  ]
+}

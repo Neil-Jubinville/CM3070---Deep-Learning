@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Nursing",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Proficiency in computer skills",
+      "experience": 3
+    },
+    {
+      "skill": "Verbal communication skills",
+      "experience": 3
+    },
+    {
+      "skill": "Written communication skills",
+      "experience": 3
+    },
+    {
+      "skill": "Understanding of medical terminology",
+      "experience": 3
+    },
+    {
+      "skill": "MS Office applications",
+      "experience": 3
+    },
+    {
+      "skill": "Patient advocacy",
+      "experience": 3
+    },
+    {
+      "skill": "Interpretation of nursing and facility policies and procedures",
+      "experience": 3
+    },
+    {
+      "skill": "CPR Certification",
+      "experience": 3
+    },
+    {
+      "skill": "Behavioural intervention training",
+      "experience": 3
+    },
+    {
+      "skill": "Cerner EMR experience",
+      "experience": 3
+    },
+    {
+      "skill": "Adult population healthcare knowledge",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide nursing care to patients in accordance with facility policies and procedures."
+    },
+    {
+      "duty": "Maintain electronic medical records using various computer programs."
+    },
+    {
+      "duty": "Serve as a patient advocate and ensure the well-being of patients under care."
+    },
+    {
+      "duty": "Stay current with behavioural intervention training and apply it when necessary."
+    },
+    {
+      "duty": "Interpret nursing and facility policies and procedures to ensure compliance and quality care."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate degree in Nursing from an accredited college."
+    },
+    {
+      "credential": "License to practice nursing in the State of Indiana as a Registered Nurse."
+    },
+    {
+      "credential": "CPR Certification."
+    },
+    {
+      "credential": "Cerner EMR experience."
+    },
+    {
+      "credential": "Behavioural intervention training."
+    }
+  ]
+}

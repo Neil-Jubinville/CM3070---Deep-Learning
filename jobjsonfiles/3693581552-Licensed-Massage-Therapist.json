@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Massage Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Massage Therapy",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Prenatal Massage Care",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide quality massage and body therapy treatments to guests at Affinity Cosmedic in North Peoria."
+    },
+    {
+      "duty": "Maintain cleanliness of equipment and rooms, as well as, restock of linens and products between and at the end of each working shift."
+    },
+    {
+      "duty": "Communicate with clients to identify their needs and set clear expectations"
+    },
+    {
+      "duty": "Stay connected to clients throughout each session to achieve the goals of each service"
+    },
+    {
+      "duty": "Recommend follow-up visits and additional services to help clients pursue their wellness goals"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduated from an accredited massage school with sufficient hours based on massage modality (1 year experience preferred)"
+    },
+    {
+      "credential": "Specialty certification from reputable organization in areas such as Swedish, deep tissue, sports massage, myofascial techniques, craniosacral, infant and pre-natal massage"
+    }
+  ]
+}

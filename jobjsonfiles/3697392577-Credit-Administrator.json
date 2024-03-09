@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Credit Administrator",
+      "job_category": "Accounting",
+      "job_class": "Administrator",
+      "sector": "Finance",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting Software",
+      "experience": 5
+    },
+    {
+      "skill": "ERP Software",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Excel",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Audits",
+      "experience": 5
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Contract Negotiation",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Process credit applications and conduct credit checks on new and existing customers"
+    },
+    {
+      "duty": "Monitor and review credit limits to ensure compliance with company policies and post bad debt recoveries"
+    },
+    {
+      "duty": "Manage the collection of outstanding debts and resolve any payment discrepancies"
+    },
+    {
+      "duty": "Prepare and analyze financial reports to assess credit risk and make recommendations"
+    },
+    {
+      "duty": "Negotiate and enforce credit terms and conditions with customers"
+    },
+    {
+      "duty": "Maintain accurate and up-to-date customer credit files and records"
+    },
+    {
+      "duty": "Assist with financial audits and provide necessary documentation and support"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 90,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or GED equivalent"
+    }
+  ]
+}

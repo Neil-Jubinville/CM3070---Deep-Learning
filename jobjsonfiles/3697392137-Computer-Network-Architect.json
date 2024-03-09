@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Computer Network Architect",
+      "job_category": "Engineering",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Network Design",
+      "experience": 10
+    },
+    {
+      "skill": "System Interoperability",
+      "experience": 10
+    },
+    {
+      "skill": "IP Engineering",
+      "experience": 10
+    },
+    {
+      "skill": "Network Security",
+      "experience": 10
+    },
+    {
+      "skill": "Network Modeling",
+      "experience": 10
+    },
+    {
+      "skill": "LANs and WANs",
+      "experience": 10
+    },
+    {
+      "skill": "Security Clearance",
+      "experience": 10
+    },
+    {
+      "skill": "Capacity Planning",
+      "experience": 10
+    },
+    {
+      "skill": "Network Protocols",
+      "experience": 10
+    },
+    {
+      "skill": "Hardware and Software Integration",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and implement computer and information networks such as LANs, WANs, intranets, extranets, and other data communications networks."
+    },
+    {
+      "duty": "Increase security, reliability, and availability for mission-critical network systems."
+    },
+    {
+      "duty": "Research and recommend network and data communications hardware and software, and apply engineering and computer networking principles for the development, design, integration, and fielding of hardware and software systems."
+    },
+    {
+      "duty": "Analyze and evaluate networking requirements and the design and development of network topologies and architectures, including hardware and software identification, network test and evaluation, operational and performance analysis."
+    },
+    {
+      "duty": "Implement network upgrades and modifications, and implementation of network security and information assurance measures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science or an IT-related field, DoD 8570.01-M for IASAE Level III Certification (CISSP-ISSAP, CISSP-ISSEP, or CCSP)"
+    }
+  ]
+}

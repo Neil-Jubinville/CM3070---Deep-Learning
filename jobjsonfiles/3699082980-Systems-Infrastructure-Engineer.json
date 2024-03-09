@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Systems Infrastructure Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Using business driven requirements, plans and designs enterprise systems infrastructure including the evaluation and implementation of hardware and software products."
+    },
+    {
+      "duty": "Monitors the day to day performance of the infrastructure and may work with project teams on the integration of new systems."
+    },
+    {
+      "duty": "Creates strategies and develops resolutions for complex problems, incidents and outage situations."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Linux Operating Systems - RHEL, Oracle Linux, Ubuntu",
+      "experience": 3
+    },
+    {
+      "skill": "System management tools: Red Hat Satellite, Ansible Automation Platform",
+      "experience": 3
+    },
+    {
+      "skill": "Automation and configuration management tools: Ansible, Chef, Resolve, Terraform",
+      "experience": 3
+    },
+    {
+      "skill": "Shell scripting, bash, Python, Ruby, YAML, JSON",
+      "experience": 3
+    },
+    {
+      "skill": "Server provisioning and monitoring using industry-leading management tools",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum of a Bachelor\u2019s degree in Computer Science, MIS or related degree and three (3) years of relevant experience in assigned area or combination or education, experience and training."
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Systems Analyst",
+      "job_category": "Technology",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ERP Implementation",
+      "experience": 2
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 3
+    },
+    {
+      "skill": "Business Process Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "SQL Database",
+      "experience": 2
+    },
+    {
+      "skill": "Spanish Language Fluency",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement and manage ERP solutions for clients, providing end-user training and support."
+    },
+    {
+      "duty": "Manage client relationships and execute Odoo SaaS solutions implementation."
+    },
+    {
+      "duty": "Analyze and map clients' business processes to Odoo's solutions, quantifying resources for tasks/projects."
+    },
+    {
+      "duty": "Project manage ERP implementations, integrating various business functions such as Sales, CRM, E-commerce, supply chain, manufacturing, inventory, POS, and accounting."
+    },
+    {
+      "duty": "Collaborate with developers and clients' implementation managers on system execution, user testing, and training."
+    },
+    {
+      "duty": "Provide consultancy and training to Spanish-speaking clients on the Odoo platform."
+    },
+    {
+      "duty": "Occasional pre-sale advisory on complex implementations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Analytics, Business Administration, Engineering Management, Industrial Engineering, or a related field"
+    }
+  ]
+}

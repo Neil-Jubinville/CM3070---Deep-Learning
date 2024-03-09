@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Medical",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 4
+    },
+    {
+      "skill": "Patience",
+      "experience": 4
+    },
+    {
+      "skill": "Empathy",
+      "experience": 4
+    },
+    {
+      "skill": "Adaptability",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide compassionate care and assistance to patients in a fast-paced healthcare environment."
+    },
+    {
+      "duty": "Utilize effective communication and active listening to understand and respond to patient needs."
+    },
+    {
+      "duty": "Demonstrate fast and adaptive problem-solving abilities to address medical challenges and emergencies."
+    },
+    {
+      "duty": "Provide long-term patient care, including standing for long periods of time, and maintaining patient comfort."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current California license"
+    }
+  ]
+}

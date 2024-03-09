@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Accountant",
+      "job_category": "Accounting",
+      "job_class": "Senior",
+      "sector": "Finance",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Reporting",
+      "experience": 4
+    },
+    {
+      "skill": "Budgeting",
+      "experience": 4
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 4
+    },
+    {
+      "skill": "Tax Compliance",
+      "experience": 4
+    },
+    {
+      "skill": "Accounting Software",
+      "experience": 4
+    },
+    {
+      "skill": "Microsoft Excel",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare and analyze financial statements, including balance sheets, income statements, and cash flow statements."
+    },
+    {
+      "duty": "Conduct financial forecasting, budgeting, and variance analysis to support business planning."
+    },
+    {
+      "duty": "Oversee daily accounting activities, including accounts payable, accounts receivable, and general ledger maintenance."
+    },
+    {
+      "duty": "Lead month-end and year-end closing processes to ensure accuracy and completeness of financial data."
+    },
+    {
+      "duty": "Assist with tax preparation and compliance, working with external tax advisors as needed."
+    },
+    {
+      "duty": "Identify opportunities to streamline financial processes and enhance efficiency."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting, Finance, or a related field; CPA designation preferred."
+    }
+  ]
+}

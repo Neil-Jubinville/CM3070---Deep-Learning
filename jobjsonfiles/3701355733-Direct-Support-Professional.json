@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Direct Support Professional",
+      "job_category": "Healthcare",
+      "job_class": "Professional",
+      "sector": "Healthcare",
+      "salary": 21500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Direct Care Services",
+      "experience": 2
+    },
+    {
+      "skill": "Case Management",
+      "experience": 2
+    },
+    {
+      "skill": "Developmental Disabilities",
+      "experience": 2
+    },
+    {
+      "skill": "Habilitation Training",
+      "experience": 2
+    },
+    {
+      "skill": "Supported Employment",
+      "experience": 2
+    },
+    {
+      "skill": "Medication Management",
+      "experience": 2
+    },
+    {
+      "skill": "CPR and First Aid",
+      "experience": 2
+    },
+    {
+      "skill": "Valid Driver's License",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide direct, hands-on services to clients with Intellectual and Developmental Disabilities (IDD) in various locations."
+    },
+    {
+      "duty": "Respite care, person-centered supports, and supported employment services for clients with IDD."
+    },
+    {
+      "duty": "Medication management including transport, documentation, and supervised provision of medication."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "18 years\u2019 old or older"
+    },
+    {
+      "credential": "Proof of education (transcripts, diploma, GED, etc)"
+    },
+    {
+      "credential": "Current certification in CPR and First Aid preferred"
+    },
+    {
+      "credential": "Valid driver\u2019s license with a vehicle in good running order and current auto insurance"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Associate Dentist",
+      "job_category": "Dental",
+      "job_class": "Associate",
+      "sector": "Healthcare",
+      "salary": 125000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Dental Services",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Compassion",
+      "experience": 5
+    },
+    {
+      "skill": "DDS/DMD",
+      "experience": 5
+    },
+    {
+      "skill": "Fiber-optic Handpieces",
+      "experience": 5
+    },
+    {
+      "skill": "Digital X-ray",
+      "experience": 5
+    },
+    {
+      "skill": "OSHA Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "HIPPA Compliance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide dental services to patients with the support of the dental team"
+    },
+    {
+      "duty": "Utilize DentaPro software and digital x-ray and Panorex units for diagnostic purposes"
+    },
+    {
+      "duty": "Complete yearly OSHA and HIPPA and Emergency Management training to ensure compliance"
+    },
+    {
+      "duty": "Manage patient base primarily consisting of ages 3-21 and up to 30% adult population"
+    },
+    {
+      "duty": "Oversee an office flow with an average of 10-12 operative patients and 20-25 hygiene patients"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "DDS/DMD from a dental education program accredited by the Commission on Dental Accreditation"
+    },
+    {
+      "credential": "Current, valid license to practice dentistry in states where providing care or eligible for licensure"
+    },
+    {
+      "credential": "Other certifications as required - CPR, DEA, etc."
+    },
+    {
+      "credential": "Nitrous Oxide certification (only LA, MS, DC, TX, MA)"
+    }
+  ]
+}

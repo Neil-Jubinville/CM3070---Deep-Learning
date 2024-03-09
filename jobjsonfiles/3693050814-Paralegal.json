@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Paralegal",
+      "job_category": "Legal",
+      "job_class": "Assistant",
+      "sector": "Legal",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Case Management",
+      "experience": 2
+    },
+    {
+      "skill": "Legal Research",
+      "experience": 2
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Document Preparation",
+      "experience": 2
+    },
+    {
+      "skill": "Deadline Management",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Records Review",
+      "experience": 2
+    },
+    {
+      "skill": "File Organization",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Word",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Opening new files"
+    },
+    {
+      "duty": "Gather and analyze intake information and relevant documents"
+    },
+    {
+      "duty": "Fully investigate each case"
+    },
+    {
+      "duty": "Maintain contact with clients on a regular basis"
+    },
+    {
+      "duty": "Prepare documents, discovery, and correspondence"
+    },
+    {
+      "duty": "Collect documentation of all damages sustained such as medical records, bills, and loss of income"
+    },
+    {
+      "duty": "Read and interpret medical records and reports"
+    },
+    {
+      "duty": "Organize and maintain case files"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Legal Studies (Paralegal Certification preferred)"
+    }
+  ]
+}

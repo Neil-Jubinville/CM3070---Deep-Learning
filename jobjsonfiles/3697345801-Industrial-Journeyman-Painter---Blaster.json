@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Industrial Journeyman Painter / Blaster",
+      "job_category": "Industrial",
+      "job_class": "Journeyman",
+      "sector": "Industrial",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Abrasive Blasting",
+      "experience": 4
+    },
+    {
+      "skill": "Power Tool Cleaning",
+      "experience": 4
+    },
+    {
+      "skill": "Paint Mixing",
+      "experience": 4
+    },
+    {
+      "skill": "Surface Preparation",
+      "experience": 4
+    },
+    {
+      "skill": "Safety Precautions",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare surfaces through abrasive blast and power tool cleaning as per paint manufacturer recommendations."
+    },
+    {
+      "duty": "Paint equipment and structures for protection and cosmetic purposes."
+    },
+    {
+      "duty": "Maintain, mix, and have thorough knowledge of paint and other coating materials."
+    },
+    {
+      "duty": "Identify tools required for tasks and safety risks, and mix paint/coatings as required."
+    },
+    {
+      "duty": "Work at heights and off of ladders/scaffolds safely, and clean up work areas."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "4+ years working as a Painter or Painter Helper on an industrial construction project. Formal/Technical education preferred."
+    }
+  ]
+}

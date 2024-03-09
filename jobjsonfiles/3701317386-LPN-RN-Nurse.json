@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "LPN/RN Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Triage Coordination",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Clinical Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "EMR Management",
+      "experience": 3
+    },
+    {
+      "skill": "EKG Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Records Management",
+      "experience": 3
+    },
+    {
+      "skill": "Medication Refills",
+      "experience": 3
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Communicate via telephone to coordinate patient care, such as medication refills, results, triage, and other medical questions"
+    },
+    {
+      "duty": "Be able to critically think and problem-solve with complex triage calls, (i.e., urgent calls from ER, hospital admits and other providers)"
+    },
+    {
+      "duty": "Be able to do precertification, prior authorization, referrals and DME"
+    },
+    {
+      "duty": "Provide office support performing a variety of functions within the care team as directed by the Providers and Clinical Manager"
+    },
+    {
+      "duty": "Document in an electronic medical record (EMR)"
+    },
+    {
+      "duty": "Assist with clinical paperwork"
+    },
+    {
+      "duty": "Perform EKGs and injections as directed by the Provider(s)"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Must possess CURRENT Pennsylvania LPN/RN license"
+    },
+    {
+      "credential": "Strong computer skills and experience with an EMR - Athena a plus, but not required"
+    },
+    {
+      "credential": "Ability to work efficiently in a fast-paced environment independently and in a team"
+    },
+    {
+      "credential": "BLS Certification (Preferred)"
+    }
+  ]
+}

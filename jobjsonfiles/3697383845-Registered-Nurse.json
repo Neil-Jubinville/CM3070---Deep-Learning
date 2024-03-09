@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Basic Life Support",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Team Coordination",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Health Education",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide general nursing care to patients and families in diverse health care settings while collaborating with the health care team."
+    },
+    {
+      "duty": "Accountable for the practice of nursing as defined by the Ohio Board of Nursing."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BLS - Basic Life Support - American Heart Association, RN - Registered Nurse - Ohio Board of Nursing, State Driver's License, RN - Registered Nurse, BLS - Basic Life Support, CPR - Cardiopulmonary Resuscitation"
+    }
+  ]
+}

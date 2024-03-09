@@ -1,0 +1,107 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Data Engineer",
+      "job_category": "Data Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 148512,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Database Design",
+      "experience": 5
+    },
+    {
+      "skill": "ETL Processes",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Server Database Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Business Intelligence Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Development Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Goal Setting",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "Confidentiality Maintenance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain data pipelines into data warehouse and data lake, including design and development."
+    },
+    {
+      "duty": "Develop and implement strategies to translate business requirements into feasible data warehouse and data lake solutions."
+    },
+    {
+      "duty": "Architect and build new data models to improve data models that feed business intelligence tools, increasing data accessibility, and fostering data-driven decision making."
+    },
+    {
+      "duty": "Design, build, and launch data pipelines to move data to data lake and data warehouse; build and maintain framework for auditing, error logging, and master data management for data pipelines."
+    },
+    {
+      "duty": "Implement processes and systems to monitor data quality, ensuring production data is always accurate and available for key stakeholders and business processes."
+    },
+    {
+      "duty": "Perform data analysis and assist in the resolution of data issues."
+    },
+    {
+      "duty": "Identify and resolve defects of complex scope using proper engineering tools and techniques."
+    },
+    {
+      "duty": "Provide support and maintain existing products and add new features."
+    },
+    {
+      "duty": "Mentor engineers by providing advice, coaching, and educational opportunities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science, Applied Mathematics, Engineering, or any other technology related field. An equivalent of the same in working experience is also accepted for the position."
+    }
+  ]
+}

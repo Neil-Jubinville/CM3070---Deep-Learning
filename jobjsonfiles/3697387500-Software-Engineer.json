@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 220000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Data Structures/Algorithms",
+      "experience": 8
+    },
+    {
+      "skill": "Software Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Software Design",
+      "experience": 3
+    },
+    {
+      "skill": "System Design",
+      "experience": 3
+    },
+    {
+      "skill": "Networking",
+      "experience": 3
+    },
+    {
+      "skill": "Data Storage",
+      "experience": 3
+    },
+    {
+      "skill": "Artificial Intelligence",
+      "experience": 3
+    },
+    {
+      "skill": "UI Design",
+      "experience": 3
+    },
+    {
+      "skill": "Mobile Development",
+      "experience": 3
+    },
+    {
+      "skill": "Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Deadline Management",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage project priorities, deadlines, and deliverables."
+    },
+    {
+      "duty": "Design, develop, test, deploy, maintain, and enhance software solutions."
+    },
+    {
+      "duty": "Influence and coach a distributed team of engineers."
+    },
+    {
+      "duty": "Facilitate alignment and clarity across teams on goals, outcomes, and timelines."
+    },
+    {
+      "duty": "Provide technical leadership on high-impact projects."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Engineering, Computer Science, or related field (Master\u2019s degree or PhD preferred)"
+    }
+  ]
+}

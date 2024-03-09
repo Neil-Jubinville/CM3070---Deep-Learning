@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Test Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Telecommunications",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Test Method Development",
+      "experience": 5
+    },
+    {
+      "skill": "Optics",
+      "experience": 5
+    },
+    {
+      "skill": "Fiber Optics",
+      "experience": 5
+    },
+    {
+      "skill": "Data Collection Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Software Programming (Python, LabVIEW, C#)",
+      "experience": 5
+    },
+    {
+      "skill": "ISO Practices",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for the maintenance of existing and development of new test methods for a variety of fiber optic products."
+    },
+    {
+      "duty": "Modify/maintain existing test systems for legacy or new products."
+    },
+    {
+      "duty": "Implement and support automated data collection for production test equipment."
+    },
+    {
+      "duty": "Participate in New Product Development (NPD) team projects during appropriate phases of the project."
+    },
+    {
+      "duty": "Aide in transitioning products from R&D into pilot."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in a Technical Discipline (Master's preferred)"
+    }
+  ]
+}

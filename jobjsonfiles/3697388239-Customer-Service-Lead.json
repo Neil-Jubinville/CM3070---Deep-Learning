@@ -1,0 +1,44 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Lead",
+      "job_category": "Customer Service",
+      "job_class": "Lead",
+      "sector": "Retail",
+      "salary": 14000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 2
+    },
+    {
+      "skill": "Team Coordination",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead day-to-day customer service initiatives and motivate associates to provide exceptional, friendly, and professional customer service at all times."
+    },
+    {
+      "duty": "Maintain a neat and orderly front end area, troubleshoot issues with registers and transactions."
+    },
+    {
+      "duty": "Solve problems professionally and efficiently, and create a positive shopping experience for customers."
+    },
+    {
+      "duty": "Coordinate meal and break periods and monitor schedule adherence."
+    }
+  ]
+}

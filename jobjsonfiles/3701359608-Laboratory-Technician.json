@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Laboratory Technician",
+      "job_category": "Science",
+      "job_class": "Technician",
+      "sector": "Science",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Laboratory Operations",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Understanding",
+      "experience": 3
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "GMP Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform basic laboratory operations and analysis independently, with detailed review by experienced personnel."
+    },
+    {
+      "duty": "Maintain study documentation and laboratory records, ensuring compliance with appropriate guidelines."
+    },
+    {
+      "duty": "Assist in equipment setup, maintenance, and routine operation, supporting general equipment maintenance."
+    },
+    {
+      "duty": "Participate in project meetings and provide input for the implementation of startup priorities, systems, and SOPs."
+    },
+    {
+      "duty": "Serve as an analyst on projects and recognize deviations from expected results, taking appropriate action."
+    },
+    {
+      "duty": "Support the validation of methodologies and analyze samples for various compounds and components."
+    },
+    {
+      "duty": "Contribute to the biotechnology group's priorities and systems, ensuring compliance with regulatory standards."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS/BA degree in science or related field; experience may be substituted for education."
+    }
+  ]
+}

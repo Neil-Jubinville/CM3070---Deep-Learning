@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Registered Nurse License",
+      "experience": 2
+    },
+    {
+      "skill": "American Heart Association BLS and ACLS",
+      "experience": 2
+    },
+    {
+      "skill": "Clinical Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Flexibility",
+      "experience": 2
+    },
+    {
+      "skill": "Orientation and Training",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Fill short and long-term assignments throughout the health system."
+    },
+    {
+      "duty": "Float throughout the hospital and/or throughout multiple hospital locations."
+    },
+    {
+      "duty": "Complete the orientation and training."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Registered Nurse, RN license \u2013 current within the state you wish to practice."
+    },
+    {
+      "credential": "Current American Heart Association BLS and ACLS. Additional certifications required depending on area of specialty."
+    },
+    {
+      "credential": "18 months to two years of current experience in desired practice area."
+    },
+    {
+      "credential": "Willingness to float throughout the hospital and/or throughout multiple hospital locations."
+    }
+  ]
+}

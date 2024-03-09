@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Trek Production Technician",
+      "job_category": "Manufacturing",
+      "job_class": "Technician",
+      "sector": "Manufacturing",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Bicycle Repair",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Complete more than 50% of the total repairs for the team."
+    },
+    {
+      "duty": "Focus on repairing bikes quickly and consistently while maintaining accuracy and quality."
+    },
+    {
+      "duty": "Demonstrate elevated technical skills as well as communication, leadership, and problem-solving abilities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

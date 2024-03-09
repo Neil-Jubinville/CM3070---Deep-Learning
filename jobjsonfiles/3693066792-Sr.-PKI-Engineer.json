@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. PKI Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and drive implementation of the Wabtec PKI roadmap. Drive development of new functionality and services based on business use cases around certificate and key management."
+    },
+    {
+      "duty": "Lead technical design and deployment of an automated certificate lifecycle management solution to inventory and manage certificates across cloud and on-prem assets and applications."
+    },
+    {
+      "duty": "Design, deploy and maintain HSMs, Root and Int CAs, and various certificate and key lifecycle management tools and systems in Microsoft and AWS ecosystems."
+    },
+    {
+      "duty": "Drive the technical direction for Wabtec PKI in the areas of policies, standards, architecture, automation, reporting and governance."
+    },
+    {
+      "duty": "Establish, track and report on health of the PKI program and assets through a set of KPIs."
+    },
+    {
+      "duty": "Provide PKI expertise and guidance to product development teams, security architects, and security champions throughout all phases of the software development life cycle."
+    },
+    {
+      "duty": "Consult with IT, product owners and end users to identify PKI use cases in on-prem, cloud and distributed IoT environments."
+    },
+    {
+      "duty": "Work with internal stakeholders and PKI vendors to implement scalable solutions to fulfill identified requirements."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Public Key Infrastructure (PKI) Management",
+      "experience": 6
+    },
+    {
+      "skill": "Microsoft ADCS Management",
+      "experience": 4
+    },
+    {
+      "skill": "Python or Powershell",
+      "experience": 4
+    },
+    {
+      "skill": "Certificate Lifecycle Management",
+      "experience": 4
+    },
+    {
+      "skill": "HSMs, Root CAs, and Int CAs Management",
+      "experience": 4
+    },
+    {
+      "skill": "Cloud-based PKI Services",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Decision Making",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 90,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Computer Science or \"STEM\" Majors (Science, Technology, Engineering, and Math) with a minimum of 6 years of equivalent experience."
+    }
+  ]
+}

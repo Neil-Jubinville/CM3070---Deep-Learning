@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Splunk Developer",
+      "job_category": "Information Technology",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Splunk",
+      "experience": 3
+    },
+    {
+      "skill": "Elasticsearch",
+      "experience": 3
+    },
+    {
+      "skill": "Fluend",
+      "experience": 3
+    },
+    {
+      "skill": "Data Migration",
+      "experience": 3
+    },
+    {
+      "skill": "Data Pipelines",
+      "experience": 3
+    },
+    {
+      "skill": "Python",
+      "experience": 3
+    },
+    {
+      "skill": "Bash",
+      "experience": 3
+    },
+    {
+      "skill": "Linux/Unix Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Migrate data from Splunk to Elasticsearch"
+    },
+    {
+      "duty": "Develop and maintain pipelines for ingesting and analyzing data in Elasticsearch"
+    },
+    {
+      "duty": "Configure Splunk forwarder, Fluend from K8, and DB to logstash"
+    },
+    {
+      "duty": "Integrate Splunk and Elasticsearch"
+    },
+    {
+      "duty": "Stay up-to-date on the latest Splunk and Elasticsearch technologies"
+    }
+  ]
+}

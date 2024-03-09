@@ -1,0 +1,97 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Service Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Technical",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Mechanical Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Technical Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Reading Schematics",
+      "experience": 3
+    },
+    {
+      "skill": "Industrial Equipment",
+      "experience": 4
+    },
+    {
+      "skill": "Hydraulics Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Welding (MIG)",
+      "experience": 2
+    },
+    {
+      "skill": "PLC Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Electrical Background",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 4
+    },
+    {
+      "skill": "Detail Orientation",
+      "experience": 4
+    },
+    {
+      "skill": "Independence",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Diagnose and repair complex industrial equipment including auger compactors, shredders, balers, and ram compactors."
+    },
+    {
+      "duty": "Perform regular maintenance on industrial machines to ensure their optimal functionality and minimize downtime."
+    },
+    {
+      "duty": "Read and comprehend schematics to troubleshoot and repair technical issues."
+    },
+    {
+      "duty": "Travel out of town with overnight stays to service equipment as needed."
+    },
+    {
+      "duty": "Work independently with little supervision to meet customer service needs and exceed expectations."
+    },
+    {
+      "duty": "Complete service reports and documentation accurately and in a timely manner."
+    },
+    {
+      "duty": "Physical ability to lift up to 50 lbs and work overtime as necessary."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 40,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED equivalent (Associate's degree in related field preferred)"
+    }
+  ]
+}

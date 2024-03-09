@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Worker",
+      "job_category": "Logistics",
+      "job_class": "General Labor",
+      "sector": "Transportation",
+      "salary": 33000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Package Unloading",
+      "experience": 1
+    },
+    {
+      "skill": "Package Sorting",
+      "experience": 1
+    },
+    {
+      "skill": "Physical Stamina",
+      "experience": 1
+    },
+    {
+      "skill": "Time Management",
+      "experience": 1
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 1
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 1
+    },
+    {
+      "skill": "Overtime Work",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Unload, sort, and load packages of various sizes within the warehouse environment."
+    },
+    {
+      "duty": "Adhere to safety protocols and procedures to ensure a secure and efficient workspace."
+    },
+    {
+      "duty": "Manage package sorting and organization to meet shipment deadlines."
+    },
+    {
+      "duty": "Work collaboratively with team members to optimize work processes and achieve daily targets."
+    },
+    {
+      "duty": "Be available for overtime work as needed to support operational demands."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

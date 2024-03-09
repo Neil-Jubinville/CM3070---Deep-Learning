@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Welder",
+      "job_category": "Manufacturing",
+      "job_class": "Skilled Labor",
+      "sector": "Manufacturing",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Welding",
+      "experience": 0.5
+    },
+    {
+      "skill": "Math Proficiency",
+      "experience": 0.5
+    },
+    {
+      "skill": "Measuring Skills",
+      "experience": 0.5
+    },
+    {
+      "skill": "Safety Awareness",
+      "experience": 0.5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 0.5
+    },
+    {
+      "skill": "Work Ethic",
+      "experience": 0.5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform welding and cutting of metals to predetermined sizes and tolerances."
+    },
+    {
+      "duty": "Use measuring skills to determine the center of an object and accurately read a measuring tape."
+    },
+    {
+      "duty": "Operate and perform preventative maintenance on overhead crane, forklift, and welding/cutting equipment."
+    },
+    {
+      "duty": "Safely use overhead crane to position product for welding or grinding."
+    },
+    {
+      "duty": "Perform routing machine operations, feeding or unloading a machine, and assisting workers by holding materials or tools."
+    },
+    {
+      "duty": "Pass a 1G flat weld certification test using GMAW and maintain certification."
+    },
+    {
+      "duty": "Safely operate band saw for cutting raw material products according to drawing."
+    },
+    {
+      "duty": "Comply with safety policies and procedures, and perform other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 40,
+      "introvert_extrovert": 30
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valmont endorsed 1G flat weld certification test"
+    },
+    {
+      "credential": "Six months of previous hands-on welding experience in a professional environment"
+    }
+  ]
+}

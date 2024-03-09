@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Store Driver",
+      "job_category": "Retail",
+      "job_class": "Entry Level",
+      "sector": "Retail",
+      "salary": 25000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Delivery",
+      "experience": 1
+    },
+    {
+      "skill": "Parts Knowledge",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver parts to commercial customers and assist with task and inventory processes in the store."
+    },
+    {
+      "duty": "Support DIY business and achieve sales and service objectives with basic automotive system knowledge and basic part knowledge."
+    },
+    {
+      "duty": "Provide advanced automotive problem resolution and project assistance for DIY customers with expert knowledge of store operations and parts."
+    },
+    {
+      "duty": "Support advanced functions of the DIY business with expert knowledge of store systems and parts."
+    },
+    {
+      "duty": "Support advanced functions for both DIY and DIFM with expert knowledge of store systems and parts."
+    },
+    {
+      "duty": "Support basic and advanced functions on DIY and professional business, prepare for a General Manager role."
+    },
+    {
+      "duty": "Lead and direct with the knowledge of store systems and expert knowledge of automotive systems and parts."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 30,
+      "student_teacher": 50,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

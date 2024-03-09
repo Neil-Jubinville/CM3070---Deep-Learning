@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Pool Server",
+      "job_category": "Food & Beverage",
+      "job_class": "Server",
+      "sector": "Hospitality",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide guests with food, beverage, and towel service."
+    },
+    {
+      "duty": "Assist with seating arrangements at the pool and surrounding areas."
+    },
+    {
+      "duty": "Respond to all interactions in an efficient, courteous and professional manner to achieve maximum customer satisfaction."
+    },
+    {
+      "duty": "Serving and clearing items, opening and closing side work, menu presentation, operating point of sale system as well as attending to guests poolside."
+    },
+    {
+      "duty": "Retain knowledge of food and drink menu and confidently answer questions regarding it."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Seating Arrangement",
+      "experience": 2
+    },
+    {
+      "skill": "Menu Presentation",
+      "experience": 2
+    },
+    {
+      "skill": "Point of Sale System Operations",
+      "experience": 2
+    },
+    {
+      "skill": "Food and Beverage Knowledge",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ]
+}

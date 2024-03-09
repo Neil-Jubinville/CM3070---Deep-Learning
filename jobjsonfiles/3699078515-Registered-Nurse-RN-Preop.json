@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse RN Preop",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Process",
+      "experience": 3
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "Team Work",
+      "experience": 3
+    },
+    {
+      "skill": "Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Apply the nursing process, critical thinking skills, scientific judgment, technical skills and leadership to independently deliver safe nursing care to patients."
+    },
+    {
+      "duty": "Collaborate with the patient care team to achieve quality patient outcomes."
+    },
+    {
+      "duty": "Provide communication, confidence, and professionalism as evidenced by active engagement in unit and organizational activities."
+    },
+    {
+      "duty": "Demonstrate team work, adaptability, and serving as a resource to the patient care team."
+    },
+    {
+      "duty": "Have accountability for delivering quality nursing care services and for promoting a positive image of nursing."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited diploma, associates, or baccalaureate degree registered nursing program."
+    },
+    {
+      "credential": "Current Registered Nurse License in the State of Texas or Multi-State Compact License."
+    },
+    {
+      "credential": "Current American Heart Association BLS Certification"
+    }
+  ]
+}

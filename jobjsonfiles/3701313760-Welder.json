@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Welder",
+      "job_category": "Manufacturing",
+      "job_class": "Skilled Worker",
+      "sector": "Manufacturing",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Welding",
+      "experience": 1
+    },
+    {
+      "skill": "Metal Fabrication",
+      "experience": 1
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 1
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Apply appropriate welding processes to join, surface, fabricate, and repair parts of metal or other weldable materials according to layouts, work orders, blueprints, schematics, and sketches."
+    },
+    {
+      "duty": "Proficiently perform flat, horizontal, vertical, and overhead fillet welds."
+    },
+    {
+      "duty": "Inspect own welds to ensure all quality requirements are met and follow all safety rules and practices."
+    },
+    {
+      "duty": "May be involved in safety committees or initiatives and perform other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum of 1 year FCAW (flux-core weld) experience"
+    }
+  ]
+}

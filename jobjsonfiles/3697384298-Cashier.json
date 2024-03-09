@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Cashier",
+      "job_category": "Retail",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 25000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for checking out customer's merchandise through the POS registers."
+    },
+    {
+      "duty": "Perform various Customer Service activities, greeting and acknowledging all customers in a prompt and friendly manner."
+    },
+    {
+      "duty": "Handling merchandise with care and ensuring a pleasant and productive shopping experience for all customers."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Point of Sale (POS) Systems",
+      "experience": 2
+    },
+    {
+      "skill": "Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Merchandise Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School education or equivalent experience"
+    }
+  ]
+}

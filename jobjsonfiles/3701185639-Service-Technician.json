@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Service Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Property Management",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Property Inspection",
+      "experience": 3
+    },
+    {
+      "skill": "Repair and Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "OSHA Regulations",
+      "experience": 3
+    },
+    {
+      "skill": "Vendor Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform technical and mechanical work, ensuring the physical aspects of the property meet standards for cleanliness, appearance, safety, and functionality."
+    },
+    {
+      "duty": "Complete work orders for resident service requests and preventative maintenance, diagnosing defects and making repairs according to policies and safety standards."
+    },
+    {
+      "duty": "Prepare vacant apartment homes for leasing by completing inspections, maintenance tasks, and scheduling vendors as needed."
+    },
+    {
+      "duty": "Maintain grounds, common areas, and amenities by performing general cleaning, painting, and debris removal."
+    },
+    {
+      "duty": "Support cost-cutting and expense control programs by fixing rather than replacing parts, practicing correct use of tools and equipment."
+    },
+    {
+      "duty": "Conduct routine and periodic property inspections to identify safety and risk management concerns and communicate property needs to management."
+    },
+    {
+      "duty": "Comply with safety and risk-management policies, complete required safety training, and report accidents and incidents promptly."
+    },
+    {
+      "duty": "Obtain necessary certifications and licenses as required for the role."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "EPA certifications Type 1 and II or Universal for refrigerant recycling. (Applies to Certified Service Technicians.)"
+    },
+    {
+      "credential": "Valid driver\u2019s license to operate a golf cart on property."
+    }
+  ]
+}

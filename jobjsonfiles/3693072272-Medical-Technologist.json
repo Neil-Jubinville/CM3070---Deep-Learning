@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Technologist",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Laboratory Testing",
+      "experience": 10
+    },
+    {
+      "skill": "Blood Bank Operations",
+      "experience": 5
+    },
+    {
+      "skill": "Specimen Processing",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Control Procedures",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Laboratory Science",
+      "experience": 10
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Instrumentation Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Computer Proficiency",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Decision Making",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Protocols",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform routine and complex technical procedures and functions according to departmental Standard Operating Procedures."
+    },
+    {
+      "duty": "Monitor, operate, and troubleshoot instrumentation to ensure proper functionality."
+    },
+    {
+      "duty": "Demonstrate the ability to make technical decisions regarding testing and problem-solving."
+    },
+    {
+      "duty": "Report accurate and timely test results in order to deliver quality patient care."
+    },
+    {
+      "duty": "Maintain a safe work environment and wear appropriate personal protective equipment."
+    },
+    {
+      "duty": "Identify and replenish testing bench supplies as necessary."
+    },
+    {
+      "duty": "Assist with processing of specimens when needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelors of Science degree in Medical Laboratory Science or Associates Degree in MLT."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Pharmacy Technician",
+      "job_category": "Pharmacy",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Prescription Interpretation",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Documentation",
+      "experience": 2
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 2
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Enter prescription information including patient searches, drug selection, insurance billing, and basic documentation."
+    },
+    {
+      "duty": "Accept customer and prescription information required to process new and refill prescriptions, including refill authorization from doctor offices."
+    },
+    {
+      "duty": "Retrieve medication from inventory."
+    },
+    {
+      "duty": "Create prescription labels and put them on prescription containers."
+    },
+    {
+      "duty": "Place medication into prescription containers."
+    },
+    {
+      "duty": "Complete paperwork related to filling prescriptions and input customer and prescription data into the computer."
+    },
+    {
+      "duty": "Assist with maintaining the Pharmacy department by keeping it clean and in order."
+    },
+    {
+      "duty": "Assist in inventory management processes including order review, inventory returns, restocking shelves, and physical inventory preparation."
+    },
+    {
+      "duty": "Administer Rite Aid programs including FlavoRx, Living More, etc."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "H.S. Diploma or General Education Degree (GED) required."
+    }
+  ]
+}

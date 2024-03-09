@@ -1,0 +1,104 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr .Net Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": ".NET Standard",
+      "experience": 5
+    },
+    {
+      "skill": ".NET Core",
+      "experience": 5
+    },
+    {
+      "skill": "EMS (Messaging) Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Visual Studio IDE",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle Database",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Database",
+      "experience": 5
+    },
+    {
+      "skill": "MongoDB",
+      "experience": 5
+    },
+    {
+      "skill": "Scheduled Windows Processes",
+      "experience": 5
+    },
+    {
+      "skill": "Web Services Development",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Services",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Abilities",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Developing web services and contributing to AWS migration efforts."
+    },
+    {
+      "duty": "Optimizing Scheduled Windows processes."
+    },
+    {
+      "duty": "Designing, developing, and maintaining web services."
+    },
+    {
+      "duty": "Involvement in AWS migration projects."
+    },
+    {
+      "duty": "Working with EMS (Messaging) systems for reliable communication."
+    },
+    {
+      "duty": "Using Visual Studio IDE for application development."
+    },
+    {
+      "duty": "Command of Oracle Database, SQL Database, and MongoDB."
+    },
+    {
+      "duty": "Strong problem-solving skills and attention to detail."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

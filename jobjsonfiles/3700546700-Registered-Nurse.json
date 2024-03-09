@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Acute Care",
+      "salary": 35,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnostic Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Compassion and Empathy",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide patient care in an acute care setting, including monitoring vital signs, administering medication, and documenting patient information."
+    },
+    {
+      "duty": "Utilize critical thinking skills to make clinical decisions and perform diagnostic testing as required."
+    },
+    {
+      "duty": "Administer medication as ordered, ensuring the accurate dosage and patient safety."
+    },
+    {
+      "duty": "Demonstrate compassion and empathy while attending to the emotional and physical needs of patients in a critical care environment."
+    },
+    {
+      "duty": "Manage time efficiently to prioritize patient care and maintain accurate clinical documentation."
+    },
+    {
+      "duty": "Pay attention to detail to ensure the highest quality of care and patient safety."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science in Nursing (BSN) or Associate's Degree in Nursing (ADN) with RN licensure"
+    }
+  ]
+}

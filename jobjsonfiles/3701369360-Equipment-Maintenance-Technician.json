@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Equipment Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Sustain and improve wafer fab equipment in support of existing and new processes in production facilities"
+    },
+    {
+      "duty": "Support new and established equipment sets as well as new platforms"
+    },
+    {
+      "duty": "Develop and apply extensive equipment knowledge and job skills to complete complex, specialized assignments"
+    },
+    {
+      "duty": "Participate in equipment improvement and optimization processes as part of the Equipment Team"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electronics Technology",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "RF",
+      "experience": 5
+    },
+    {
+      "skill": "Plasma Chemistry",
+      "experience": 5
+    },
+    {
+      "skill": "Physics",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Control Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Data Mining",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 90,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associates of Science degree or higher in Electronics Technology, Mechanical Engineering, Applied Science, Electro-mechanical Technology or equivalent"
+    }
+  ]
+}

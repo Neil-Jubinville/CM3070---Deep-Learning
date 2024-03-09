@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Corrosion Technician II",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 73000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cathodic Protection Testing",
+      "experience": 4
+    },
+    {
+      "skill": "Project Management",
+      "experience": 4
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 4
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 4
+    },
+    {
+      "skill": "Maintenance",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Plan and perform duties involved with testing, evaluation and installation of cathodic protection systems to inhibit corrosion on various structures."
+    },
+    {
+      "duty": "Monitor construction activities for adherence to design specifications."
+    },
+    {
+      "duty": "Conduct various specific test procedures to gather data for evaluation purposes."
+    },
+    {
+      "duty": "Gather structure-to-soil potential data, soil measurements and rectifier data."
+    },
+    {
+      "duty": "Work with Engineers in analyzing requirements and the design of appropriate corrosion control measures."
+    },
+    {
+      "duty": "Organize and reduce data gathered, prepare charts and tables."
+    },
+    {
+      "duty": "Assemble data for preparation of final client report including service recommendations."
+    },
+    {
+      "duty": "Diagnose and recommend remedies for system difficulties observed during resurvey operations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "NACE CP Technician or Technologist Certification"
+    },
+    {
+      "credential": "Bachelor's degree in Engineering or related field"
+    }
+  ]
+}

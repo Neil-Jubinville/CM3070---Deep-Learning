@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Manufacturing Technician",
+      "job_category": "Manufacturing",
+      "job_class": "Technician",
+      "sector": "Manufacturing",
+      "salary": 62000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Chemical Processing",
+      "experience": 4
+    },
+    {
+      "skill": "Wet Lab Experience",
+      "experience": 4
+    },
+    {
+      "skill": "Chemistry Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Hazardous Material Handling",
+      "experience": 3
+    },
+    {
+      "skill": "Data Logging",
+      "experience": 3
+    },
+    {
+      "skill": "Process Development",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate and maintain furnaces and other equipment to produce fluoride materials"
+    },
+    {
+      "duty": "Accurately weigh, mix, and transfer chemicals before and after processing"
+    },
+    {
+      "duty": "Follow chemical safety protocols, including wearing proper personal protective equipment and understanding safety data sheets"
+    },
+    {
+      "duty": "Handle hazardous materials, including concentrated acids and bases"
+    },
+    {
+      "duty": "Monitor equipment, including valves and pressure readings, and respond to alarm signals to ensure safe and proper operation"
+    },
+    {
+      "duty": "Maintain organized records, including data logs, chemical inventory"
+    },
+    {
+      "duty": "Assist engineering with ongoing process development and improvements"
+    },
+    {
+      "duty": "Support other activities in the R&D and Crystal Growth departments, as needed"
+    },
+    {
+      "duty": "Provide clear communication across shifts, including production, facilities, and environmental health and safety"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent required"
+    },
+    {
+      "credential": "2-4 years\u2019 experience in chemical processing or in a wet lab is required"
+    }
+  ]
+}

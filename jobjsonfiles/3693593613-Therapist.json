@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Therapeutic Treatment",
+      "experience": 5
+    },
+    {
+      "skill": "Behavior Modification",
+      "experience": 5
+    },
+    {
+      "skill": "Stress Management Therapy",
+      "experience": 5
+    },
+    {
+      "skill": "Goal-Directed Treatment Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal De-escalation Crisis Intervention",
+      "experience": 5
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Plans and administers therapeutic treatment, behavior modification, and stress management therapy to assist residents in developing/displaying appropriate behaviors."
+    },
+    {
+      "duty": "Consults with psychiatrist or other specialists concerning treatment plans and amends plans as required."
+    },
+    {
+      "duty": "Develops and implements appropriate discharge planning with resident, family, and placing agency."
+    },
+    {
+      "duty": "Maintains regular contacts with other agencies/professionals regarding client progress in the therapeutic treatment program."
+    },
+    {
+      "duty": "Ability to assess treatment goals and write goal-directed, individualized treatment plans, as well as the ability to monitor and document individual behavior patterns and modify treatment plans to meet changing treatment goals."
+    },
+    {
+      "duty": "Demonstrate an understanding of the therapeutic process and commitment to help the youth achieve their treatment goals."
+    },
+    {
+      "duty": "Strong interpersonal skills and ability to manage difficult client discussions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master\u2019s Degree in Human Services field (i.e. Psychology, Social Work, Counseling, Education)"
+    },
+    {
+      "credential": "LPC, LCSW, or license eligible in Virginia"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Practical Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Practical Nurse",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide bedside care"
+    },
+    {
+      "duty": "Administer medications"
+    },
+    {
+      "duty": "Take vital signs and record in electronic medical file"
+    },
+    {
+      "duty": "Assist with resident comfort"
+    },
+    {
+      "duty": "Provide guidance for nursing assistants"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 3
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Vital Signs Monitoring",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Comfort",
+      "experience": 3
+    },
+    {
+      "skill": "CPR Certification",
+      "experience": 3
+    },
+    {
+      "skill": "Clinical Documentation",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current, unencumbered license to practice as a nurse in the state of Massachusetts"
+    },
+    {
+      "credential": "Current CPR certification (AHA preferred)"
+    }
+  ]
+}

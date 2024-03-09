@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Operator",
+      "job_category": "Logistics",
+      "job_class": "Operator",
+      "sector": "Logistics",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Forklift Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Material Handling",
+      "experience": 3
+    },
+    {
+      "skill": "English Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Computer Literacy",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assemble materials for customer orders, receive new and returned products, and maintain safety and quality standards within the warehouse."
+    },
+    {
+      "duty": "Operate forklifts, transfer materials, and handle outgoing and incoming product."
+    },
+    {
+      "duty": "Document and record product movement, inventory, and customer returns in the warehouse management system."
+    },
+    {
+      "duty": "Maintain warehouse cleanliness, safety, and organization, including routine maintenance tasks."
+    },
+    {
+      "duty": "Adhere to safety guidelines, wearing protective equipment as required, and performing physical work activity duties."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent. Forklift certification."
+    }
+  ]
+}

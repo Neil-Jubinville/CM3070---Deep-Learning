@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Usher",
+      "job_category": "Customer Service",
+      "job_class": "Entry-Level",
+      "sector": "Entertainment",
+      "salary": 28000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Theater Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Traffic Management",
+      "experience": 2
+    },
+    {
+      "skill": "Team Player",
+      "experience": 2
+    },
+    {
+      "skill": "Positive Attitude",
+      "experience": 2
+    },
+    {
+      "skill": "Flexibility",
+      "experience": 2
+    },
+    {
+      "skill": "Interest in Film",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assisting patrons entering and exiting the theater."
+    },
+    {
+      "duty": "Theater maintenance in between shows."
+    },
+    {
+      "duty": "Monitoring traffic flow of patrons."
+    },
+    {
+      "duty": "Participating in special projects and performing other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 140
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Control Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Engineering",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Hydraulic Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Pneumatic Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Controls",
+      "experience": 5
+    },
+    {
+      "skill": "PLC Programming",
+      "experience": 5
+    },
+    {
+      "skill": "CAD",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Applies knowledge of mechanical, hydraulic, pneumatic and electrical controls, and PLC programming to support projects for the repair, upgrade or replacement of facility equipment and controls."
+    },
+    {
+      "duty": "Provides technical support to manufacturing colleagues and customers."
+    },
+    {
+      "duty": "Designs experiments and tests protocols for customer, facility and sales requirements."
+    },
+    {
+      "duty": "Manages Technical Service Requests (TSRs) in support of business needs and innovation projects."
+    },
+    {
+      "duty": "Stays current of industry trends for equipment controls and implements best practices."
+    },
+    {
+      "duty": "May lead the work of small project teams and provide informal guidance to less experienced engineering colleagues."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree (or equivalent) and 4-8 years of experience."
+    }
+  ]
+}

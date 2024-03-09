@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Representative",
+      "job_category": "Customer Service",
+      "job_class": "Representative",
+      "sector": "Retail",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Foodservice Safety",
+      "experience": 1
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 1
+    },
+    {
+      "skill": "Positive Attitude",
+      "experience": 1
+    },
+    {
+      "skill": "Team Training",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide excellent customer service and assist with fuel transactions, cleaning, and stocking."
+    },
+    {
+      "duty": "Perform food prep and adhere to foodservice safety protocols for specific foodservice positions."
+    },
+    {
+      "duty": "Demonstrate a positive attitude and willingness to excel in the role through training programs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

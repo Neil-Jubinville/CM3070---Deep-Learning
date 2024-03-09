@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "RV Service Technician",
+      "job_category": "Service",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 48000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Diagnostics",
+      "experience": 2
+    },
+    {
+      "skill": "Plumbing",
+      "experience": 2
+    },
+    {
+      "skill": "Carpentry",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 2
+    },
+    {
+      "skill": "RV Maintenance",
+      "experience": 4
+    },
+    {
+      "skill": "HVAC Systems",
+      "experience": 2
+    },
+    {
+      "skill": "Mechanical Knowledge",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare and repair coaches, documenting all work performed on a repair order."
+    },
+    {
+      "duty": "Manage work assignment, including flag time, cause and correction documentation, and escalation to supervisors when repair time will exceed allotted time."
+    },
+    {
+      "duty": "Perform Pre-Delivery Inspections to prepare an RV for customer delivery."
+    },
+    {
+      "duty": "Inspect and complete battery maintenance, perform engine and generator oil changes, and perform chassis lube."
+    },
+    {
+      "duty": "Inspect, diagnose, and determine repair or replacement of all major systems and components found in an RV, including brakes, hydraulic systems, air conditioners, and more."
+    },
+    {
+      "duty": "Complete preventative maintenance on various RV components, such as fuel filters, air filters, hydraulic filters, and brakes."
+    },
+    {
+      "duty": "Install RV accessories, including hitches, brake controllers, furniture, and more."
+    },
+    {
+      "duty": "Perform tire and brake checks and ensure understanding and compliance with OEM and vendor warranty procedures."
+    },
+    {
+      "duty": "Maintain a safe and clean work environment, ensure proper use, care, and storage of all tools and equipment, and provide high-quality repairs on all work assignments."
+    },
+    {
+      "duty": "Attend all company-required meetings and training, and fulfill additional responsibilities as requested or required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 75,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

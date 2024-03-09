@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Security Platform Engineer",
+      "job_category": "Information Security",
+      "job_class": "Engineer",
+      "sector": "Security",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "MITRE ATT&CK framework",
+      "experience": 5
+    },
+    {
+      "skill": "Splunk platform administration",
+      "experience": 5
+    },
+    {
+      "skill": "ETL onboarding for log feed technologies",
+      "experience": 4
+    },
+    {
+      "skill": "Threat detection engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Incident Response",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 4
+    },
+    {
+      "skill": "Networking",
+      "experience": 4
+    },
+    {
+      "skill": "Scripting",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Understand and manage data feeds of various security tools and logs for SIEM & UEBA technologies."
+    },
+    {
+      "duty": "Craft new content use cases based on threat intelligence, available log data, and previous incidents."
+    },
+    {
+      "duty": "Remediate vulnerabilities in different application environments."
+    },
+    {
+      "duty": "Collaborate with security teams to identify gaps in analytical capability."
+    },
+    {
+      "duty": "Develop parsers/field extractions and custom scripts to facilitate content development."
+    },
+    {
+      "duty": "Participate in root cause analysis on security incidents and provide recommendations for containment and remediation."
+    },
+    {
+      "duty": "Fulfill audit, regulatory compliance, and corporate security policy requirements."
+    },
+    {
+      "duty": "Create, implement, and maintain novel analytic methods and techniques for incident detection."
+    },
+    {
+      "duty": "Ensure documentation for content is available and current."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree or higher degree in Computer Science, Information Security or related field is preferred."
+    }
+  ]
+}

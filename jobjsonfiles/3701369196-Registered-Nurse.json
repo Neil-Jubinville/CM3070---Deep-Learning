@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Interventions",
+      "experience": 5
+    },
+    {
+      "skill": "Care Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Nursing Education",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Management",
+      "experience": 5
+    },
+    {
+      "skill": "Infection Control",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver exceptional nursing care by assessing patient status, implementing clinical nursing interventions, and developing patient care plans to enhance outcomes."
+    },
+    {
+      "duty": "Access and administer medications within the scope of practice and according to State Law."
+    },
+    {
+      "duty": "Identify, assess, diagnose, and evaluate patient health problems, and implement interventions and care plans."
+    },
+    {
+      "duty": "Educate patients, families, and significant others about post discharge care programs."
+    },
+    {
+      "duty": "Provide guidance and direction to ensure quality patient care and participate in educating new staff in nursing techniques."
+    },
+    {
+      "duty": "Participate in total quality management to positively affect patient and system outcomes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current RQI Healthcare Provider eCredential through the University of Utah Health RQI system."
+    },
+    {
+      "credential": "Current license to practice as a Registered Nurse in the State of Utah, or obtain one within 90 days of hire under the interstate compact if switching residency to State of Utah."
+    },
+    {
+      "credential": "Additional license requirements as determined by the hiring department."
+    },
+    {
+      "credential": "Preferred: Additional certifications such as Advanced Cardiac Life Support (ACLS), Pediatric Advanced Life Support (PALS), or Neonatal Resuscitation Program (NRP) within one year of hire."
+    },
+    {
+      "credential": "Bachelor's degree in Nursing or a related field (Master's preferred)"
+    }
+  ]
+}

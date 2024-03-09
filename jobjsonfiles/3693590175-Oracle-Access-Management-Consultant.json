@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Oracle Access Management Consultant",
+      "job_category": "Technology",
+      "job_class": "Consultant",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Oracle Access Management",
+      "experience": 5
+    },
+    {
+      "skill": "SaaS and PaaS Management",
+      "experience": 5
+    },
+    {
+      "skill": "Middleware Authentication Management",
+      "experience": 5
+    },
+    {
+      "skill": "Application Security Management",
+      "experience": 5
+    },
+    {
+      "skill": "User Provisioning and Deprovisioning",
+      "experience": 5
+    },
+    {
+      "skill": "Application Customization",
+      "experience": 5
+    },
+    {
+      "skill": "Report and BI Security",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle Identity Domains",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle Risk Management Cloud Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage Oracle Access Management for SaaS, PaaS, and Warehouse Management System apps."
+    },
+    {
+      "duty": "Authenticate Middleware and SaaS applications and manage application security roles and user access."
+    },
+    {
+      "duty": "Provision and deprovision user roles and data access, and configure application services and SSO."
+    },
+    {
+      "duty": "Customize applications and page layouts, and manage BI and OTBI security."
+    },
+    {
+      "duty": "Administer RMC and user access requests, and oversee access prevention administration."
+    },
+    {
+      "duty": "Federate access between SaaS and PaaS, and manage Oracle Risk Management Cloud operations."
+    }
+  ]
+}

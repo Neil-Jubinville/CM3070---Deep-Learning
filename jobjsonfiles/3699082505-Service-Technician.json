@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Service Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Technical",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "PLC Troubleshooting Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Troubleshooting Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Troubleshooting Skills",
+      "experience": 5
+    },
+    {
+      "skill": "PLC Wiring Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Variable Frequency Drives (VFD)",
+      "experience": 5
+    },
+    {
+      "skill": "Programmable Logic Controller (PLC)",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform maintenance/preventative maintenance/electrical and millwright-type functions for rotating equipment assembly/disassembly, basic equipment maintenance, rotating equipment alignments, and control panel startups."
+    },
+    {
+      "duty": "Push/pull pumps and motors, install seals/packing, and make recommendations to customers on repair options."
+    },
+    {
+      "duty": "Diagnose and correct basic mechanical issues, advise customers of basic PM activities, and complete required reports for the work completed."
+    },
+    {
+      "duty": "Understand and perform basic LOTO (Lock Out/Tag Out) functions, troubleshoot, and achieve alignments on equipment in unfavorable conditions."
+    },
+    {
+      "duty": "Clean and organize shop and field service vehicles, work with Customer Service, Shop, and Sales, and field calls pertinent to customers and various projects."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School or equivalent, with mechanical aptitude and skills. Bachelor's degree in a related field preferred."
+    }
+  ]
+}

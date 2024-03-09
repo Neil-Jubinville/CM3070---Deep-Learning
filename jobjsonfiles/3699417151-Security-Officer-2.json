@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Security Officer 2",
+      "job_category": "Security",
+      "job_class": "Officer",
+      "sector": "Law Enforcement",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Public Relations",
+      "experience": 1
+    },
+    {
+      "skill": "Time Management",
+      "experience": 1
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Law Enforcement Training",
+      "experience": 0
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide customer service and ensure a safe and secure environment for patients, visitors, medical staff, and employees."
+    },
+    {
+      "duty": "Patrol assigned areas to detect fire, safety hazards, and deter potential crime."
+    },
+    {
+      "duty": "Investigate thefts, accidents, improper actions, and offenses of a criminal nature."
+    },
+    {
+      "duty": "Maintain secure facilities by ensuring various doors are locked as required and unlocking facilities upon proper authorization."
+    },
+    {
+      "duty": "Handle sensitive investigations and information in a professional manner and control the flow of traffic at designated points."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "H.S. Diploma/GED Equivalent"
+    }
+  ]
+}

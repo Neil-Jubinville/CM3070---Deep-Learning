@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Automotive Service Technician",
+      "job_category": "Automotive",
+      "job_class": "Technician",
+      "sector": "Auto Service",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Basic Automotive Service",
+      "experience": 1
+    },
+    {
+      "skill": "Tire Service",
+      "experience": 2
+    },
+    {
+      "skill": "Car Service",
+      "experience": 2
+    },
+    {
+      "skill": "Mechanical Tasks",
+      "experience": 2
+    },
+    {
+      "skill": "Vehicle Inspection",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Automotive Safety Procedures",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform basic automotive services in the shop area, including tire service and car service duties."
+    },
+    {
+      "duty": "Repairs and balances tires, operates tire changer, handles air impact wrenches, and changes tires in the service department for Boss\u2019 cars based on sales mix."
+    },
+    {
+      "duty": "Performs lubrications, oil changes, basic vehicle inspections, and elemental mechanical tasks following BSRO inspection and recommendations procedures."
+    },
+    {
+      "duty": "Unloads and loads items from trucks, maintains service center standards of cleanliness, and complies with company safety policy and federal/state OSHA safety requirements."
+    },
+    {
+      "duty": "Drives vehicles to deliver merchandise, move Boss\u2019 cars, and interacts with Bosses in a non-sales capacity."
+    },
+    {
+      "duty": "Perform 0 to 3 flat repairs per day, mount and balance 4 to 28 tires per day, and rotate wheels on 1 to 7 vehicles per day."
+    },
+    {
+      "duty": "Engage in cold work environment in the winter with a cold cement floor, hot work environment in the summer, and exposure to a variety of chemicals used in cleaning, lubrication, etc."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Reading and writing, ability to learn basic mechanical tasks, and valid automobile driver\u2019s license at all times."
+    }
+  ]
+}

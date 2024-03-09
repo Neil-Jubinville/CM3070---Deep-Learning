@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "ETL Tester",
+      "job_category": "Information Technology",
+      "job_class": "Tester",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 7
+    },
+    {
+      "skill": "Data Warehouse (DW)",
+      "experience": 7
+    },
+    {
+      "skill": "ETL Testing",
+      "experience": 7
+    },
+    {
+      "skill": "MicroStrategy",
+      "experience": 7
+    },
+    {
+      "skill": "UNIX",
+      "experience": 7
+    },
+    {
+      "skill": "AWS",
+      "experience": 7
+    },
+    {
+      "skill": "Azure",
+      "experience": 7
+    },
+    {
+      "skill": "DB2",
+      "experience": 7
+    },
+    {
+      "skill": "PostgreSQL",
+      "experience": 7
+    },
+    {
+      "skill": "Hive",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain, modify, and execute testing plans, test cases, and test scenarios for Big Data ETL testing."
+    },
+    {
+      "duty": "Work with testing tools, report on testing metrics, and extend the use of technology in testing."
+    },
+    {
+      "duty": "Collaborate with other teams as necessary to effectively communicate and address testing and operational problems."
+    },
+    {
+      "duty": "Develop and maintain business and technical knowledge through training, testing workshops, reading, and research."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field (Master's preferred)"
+    }
+  ]
+}

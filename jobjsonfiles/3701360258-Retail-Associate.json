@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Retail Associate",
+      "job_category": "Retail",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Merchandising",
+      "experience": 2
+    },
+    {
+      "skill": "Cleaning",
+      "experience": 2
+    },
+    {
+      "skill": "Stock Management",
+      "experience": 2
+    },
+    {
+      "skill": "Loss Prevention",
+      "experience": 2
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensure a positive shopping experience for customers by greeting and assisting them in a courteous and friendly manner."
+    },
+    {
+      "duty": "Maintain a clean and organized work area, and ensure proper merchandise presentation."
+    },
+    {
+      "duty": "Assist customers with merchandise, answer their questions, and handle customer issues in a courteous and helpful way."
+    },
+    {
+      "duty": "Perform cleaning tasks, replenish supplies, and disinfect high-touch areas to maintain a clean store environment."
+    },
+    {
+      "duty": "Expedite newly received merchandise to the sales floor and maintain merchandise/brand name familiarity within departments."
+    },
+    {
+      "duty": "Demonstrate integrity and honesty in all interactions with associates and customers, and follow all company policies and procedures."
+    },
+    {
+      "duty": "Maximize productivity by executing all store best practices and minimizing steps and touches in work flow."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

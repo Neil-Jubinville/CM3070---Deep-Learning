@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Experienced Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C++ Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Graphics Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Game Engines",
+      "experience": 3
+    },
+    {
+      "skill": "UI Framework Development",
+      "experience": 3
+    },
+    {
+      "skill": "C# Programming",
+      "experience": 3
+    },
+    {
+      "skill": "Embedded Systems",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Improve, maintain, and optimize the Kanzi rendering engine."
+    },
+    {
+      "duty": "Create new features and functionalities for the Kanzi rendering engine."
+    },
+    {
+      "duty": "Solve problems to ensure high-quality graphics and UI framework."
+    },
+    {
+      "duty": "Support customers directly with their problems and requests."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

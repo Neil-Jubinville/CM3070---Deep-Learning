@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Plumber",
+      "job_category": "Skilled Trades",
+      "job_class": "Tradesman",
+      "sector": "Plumbing",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Plumbing Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Training",
+      "experience": 5
+    },
+    {
+      "skill": "iPad Use",
+      "experience": 5
+    },
+    {
+      "skill": "Service Titan Software",
+      "experience": 5
+    },
+    {
+      "skill": "Leak Location",
+      "experience": 5
+    },
+    {
+      "skill": "Water Heater Repairs",
+      "experience": 5
+    },
+    {
+      "skill": "Water Filtration",
+      "experience": 5
+    },
+    {
+      "skill": "Plumbing Fixtures",
+      "experience": 5
+    },
+    {
+      "skill": "Drain Cleaning",
+      "experience": 5
+    },
+    {
+      "skill": "Drain Line Replacement",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform plumbing repairs including leak location, water heater repairs, water filtration, plumbing fixtures, drain cleaning, and drain line replacement."
+    },
+    {
+      "duty": "Provide excellent customer service and diagnose plumbing issues while effectively selling repair solutions to the customer."
+    },
+    {
+      "duty": "Use iPad and Service Titan software to manage plumbing tasks and documentation."
+    },
+    {
+      "duty": "Train and guide apprentice plumbers in the field."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Tradesman, Journeyman, or Masters Plumbing License"
+    },
+    {
+      "credential": "Valid driver's license with no major violations within the last 3 years"
+    }
+  ]
+}

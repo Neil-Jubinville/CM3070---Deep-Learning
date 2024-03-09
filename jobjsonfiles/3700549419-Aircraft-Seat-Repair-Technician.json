@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Aircraft Seat Repair Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Aviation",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performs repairs and modifications on aircraft seats and components."
+    },
+    {
+      "duty": "Utilizing blueprints, Customer Maintenance Manuals, repair orders and other related technical data, performs repairs and modifications on seats."
+    },
+    {
+      "duty": "Maintains status logs on all items requiring repair."
+    },
+    {
+      "duty": "Orders, receives and stocks parts from Germany."
+    },
+    {
+      "duty": "Completes all related documentation required by the Company, the FAA and the customer."
+    },
+    {
+      "duty": "Communicates with customers and engineers concerning the status of repairs."
+    },
+    {
+      "duty": "Conducts training for customer maintenance personnel on the various aspects of RECARO seats."
+    },
+    {
+      "duty": "Travels to Boeing to repair seats, resolve customer concerns, and assist with engineering discrepancies."
+    },
+    {
+      "duty": "Provides input to Engineering concerning seat component design issues, proposals, and revisions."
+    },
+    {
+      "duty": "Follows-up on changes to drawings and other documentation."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Aircraft Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Parts Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Training & Education",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "FAA Airframe and Powerplant (A&P) Mechanic Certification"
+    }
+  ]
+}

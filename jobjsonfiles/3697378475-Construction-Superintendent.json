@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Construction Superintendent",
+      "job_category": "Construction",
+      "job_class": "Superintendent",
+      "sector": "Construction",
+      "salary": 145000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Supervision",
+      "experience": 10
+    },
+    {
+      "skill": "Client Management",
+      "experience": 10
+    },
+    {
+      "skill": "Cost Control",
+      "experience": 10
+    },
+    {
+      "skill": "Construction Specifications",
+      "experience": 10
+    },
+    {
+      "skill": "OSHA 30-Hour Training",
+      "experience": 10
+    },
+    {
+      "skill": "CPR and First Aid Certification",
+      "experience": 10
+    },
+    {
+      "skill": "Microsoft Office Applications",
+      "experience": 10
+    },
+    {
+      "skill": "Microsoft Project",
+      "experience": 10
+    },
+    {
+      "skill": "Procore or Similar Platforms",
+      "experience": 7
+    },
+    {
+      "skill": "Digital Imagery Management",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and manage assigned projects from mobilization through punch list and demobilization."
+    },
+    {
+      "duty": "Cultivate strong client relations and maintain control over general conditions' costs."
+    },
+    {
+      "duty": "Oversee all project phases, prioritizing safety, quality, and adherence to specifications."
+    },
+    {
+      "duty": "Monitor and uphold product quality standards, while diligently documenting project progress."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 10,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Construction Management or a related field (Master's preferred)"
+    }
+  ]
+}

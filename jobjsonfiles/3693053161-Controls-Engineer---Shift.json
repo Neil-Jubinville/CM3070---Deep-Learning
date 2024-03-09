@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Controls Engineer - Shift",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Engineering",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Electronic Equipment Design",
+      "experience": 5
+    },
+    {
+      "skill": "Configuration Management",
+      "experience": 4
+    },
+    {
+      "skill": "Network Expansion",
+      "experience": 4
+    },
+    {
+      "skill": "Technical Support",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop conceptual engineering sketches of proposed layouts and system installation/integration."
+    },
+    {
+      "duty": "Provide Configuration Management support for all equipment controls drawings."
+    },
+    {
+      "duty": "Assist with Windows10 migration and network expansion activities."
+    },
+    {
+      "duty": "Validate cable testing data against requirements."
+    },
+    {
+      "duty": "Provide on-site, real-time support to resolve technical issues arising during construction, installation, and test activities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science in Engineering degree; degree in Electrical Engineering preferred."
+    }
+  ]
+}

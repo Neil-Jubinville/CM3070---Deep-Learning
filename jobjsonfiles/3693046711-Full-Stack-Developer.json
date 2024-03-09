@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "Full Stack Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Angular",
+      "experience": 5
+    },
+    {
+      "skill": "React",
+      "experience": 5
+    },
+    {
+      "skill": "TypeScript",
+      "experience": 5
+    },
+    {
+      "skill": "Javascript",
+      "experience": 5
+    },
+    {
+      "skill": "Full Stack Development",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Review and enhance Data Warehouse ETL screens and restful APIs."
+    },
+    {
+      "duty": "Review and enhance SPC screens and restful APIs."
+    },
+    {
+      "duty": "Review and enhance Newt screens and restful APIs."
+    },
+    {
+      "duty": "Create or modify UI screens to enhance user functionality and experience."
+    },
+    {
+      "duty": "Focus on GMSAT DA product architecture: Data warehouse ETL management, Automated Statistical Process Control (SPC) management, and Newt management."
+    },
+    {
+      "duty": "Work in an agile manner with discrete deliverables for iterative development, testing, and deployment."
+    }
+  ]
+}

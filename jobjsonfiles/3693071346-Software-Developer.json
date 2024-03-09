@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "JavaScript",
+      "experience": 2
+    },
+    {
+      "skill": "HTML",
+      "experience": 2
+    },
+    {
+      "skill": "CSS",
+      "experience": 2
+    },
+    {
+      "skill": "Angular",
+      "experience": 1
+    },
+    {
+      "skill": "React",
+      "experience": 1
+    },
+    {
+      "skill": "TypeScript",
+      "experience": 1
+    },
+    {
+      "skill": "Node.js",
+      "experience": 1
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 1
+    },
+    {
+      "skill": "Software Development",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build a new application for customers, owning the design and implementation of major deliverables end-to-end."
+    },
+    {
+      "duty": "Collaborate with backend engineers, product managers, technical program managers, software engineers, and partner teams."
+    },
+    {
+      "duty": "Demonstrate exceptional customer relationship skills and simplify complex problems."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

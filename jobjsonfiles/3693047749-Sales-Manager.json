@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Manager",
+      "job_category": "Sales",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Investigate and analyze new business opportunities; develop and maintain positive business relationships with potential clients; build both internal and external networks."
+    },
+    {
+      "duty": "Examine client needs to maximize business and/or solutions for business concerns; perform cost-benefits and needs analysis."
+    },
+    {
+      "duty": "Develop and implement the business plan, budget and forecasts to achieve sales, market share, hit rate and market growth targets to attain overall financial goals."
+    },
+    {
+      "duty": "Lead the development of sales presentations, proposals, and assist in the development of contractual sales documents."
+    },
+    {
+      "duty": "Research growth strategies and competitor practices and strategies to evaluate and implement new strategies."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Strategy",
+      "experience": 7
+    },
+    {
+      "skill": "Business Relationship Management",
+      "experience": 7
+    },
+    {
+      "skill": "Market Analysis",
+      "experience": 7
+    },
+    {
+      "skill": "Negotiation Skills",
+      "experience": 7
+    },
+    {
+      "skill": "Strategic Planning",
+      "experience": 7
+    },
+    {
+      "skill": "Presentation Skills",
+      "experience": 7
+    },
+    {
+      "skill": "Business Development",
+      "experience": 7
+    },
+    {
+      "skill": "Budgeting and Forecasting",
+      "experience": 7
+    },
+    {
+      "skill": "Competitor Analysis",
+      "experience": 7
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree or equivalent experience"
+    }
+  ]
+}

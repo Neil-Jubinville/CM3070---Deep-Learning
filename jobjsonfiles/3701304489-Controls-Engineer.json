@@ -1,0 +1,111 @@
+{
+  "meta": [
+    {
+      "job_title": "Controls Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Manufacturing",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Allen Brady Control Systems",
+      "experience": 3
+    },
+    {
+      "skill": "PLC Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Vision System Integration",
+      "experience": 3
+    },
+    {
+      "skill": "MES System Integration",
+      "experience": 3
+    },
+    {
+      "skill": "Automation Equipment Commissioning",
+      "experience": 5
+    },
+    {
+      "skill": "PLC Programming (Allen-Bradley)",
+      "experience": 5
+    },
+    {
+      "skill": "SCADA Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Robot Automation Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Schematic Design",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Circuit Design",
+      "experience": 5
+    },
+    {
+      "skill": "Bill of Material Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the controls aspect of designing, specifying, qualifying, and deploying control systems and connection to manufacturing systems."
+    },
+    {
+      "duty": "Collaborate with multiple functions within operations, product development, and other capabilities to create value."
+    },
+    {
+      "duty": "Create new PLC and HMI programs from scratch for various types of automation equipment (Allen Bradley PLCs and HMIs)."
+    },
+    {
+      "duty": "Integrate Allen Bradley PLCs to various types of automation equipment: Stepper Motors, Industrial Lasers, Fanuc Robots, Vision systems, Barcode Scanners, etc."
+    },
+    {
+      "duty": "Program and connect automation systems to existing Manufacturing Execution Systems (MES)."
+    },
+    {
+      "duty": "Collaborate on concept design, programming, testing, and deployment of automation systems."
+    },
+    {
+      "duty": "Identify and address improvement opportunities in the manufacturing processes and equipment."
+    },
+    {
+      "duty": "Troubleshoot/diagnose and repair issues on automation equipment."
+    },
+    {
+      "duty": "Add and/or modify logic on existing equipment to include advanced quality checks and improvements."
+    },
+    {
+      "duty": "Manage planned equipment upgrade projects."
+    },
+    {
+      "duty": "Design/Create electrical schematics for new automation cells."
+    },
+    {
+      "duty": "Create electrical safety circuits for new automation cells using programmable safety controllers and/or Safety rated PLCs."
+    },
+    {
+      "duty": "Create and maintain Bill of Material for controls components on automation projects."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electrical/Controls Engineering/Mechanical Engineering or equivalent experience in a manufacturing environment."
+    }
+  ]
+}

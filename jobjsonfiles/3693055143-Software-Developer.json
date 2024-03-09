@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Developer",
+      "job_category": "Software Development",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Classic ASP",
+      "experience": 3
+    },
+    {
+      "skill": "ASP.NET",
+      "experience": 3
+    },
+    {
+      "skill": ".NET Framework 4.5",
+      "experience": 3
+    },
+    {
+      "skill": "C#",
+      "experience": 3
+    },
+    {
+      "skill": ".NET WCF and Web Api RESTful web services",
+      "experience": 3
+    },
+    {
+      "skill": "T-SQL",
+      "experience": 3
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 3
+    },
+    {
+      "skill": "CSS",
+      "experience": 3
+    },
+    {
+      "skill": "Database Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and maintain software solutions using Classic ASP, ASP.NET, C# and other related technologies."
+    },
+    {
+      "duty": "Create RESTful web services and interact with databases using T-SQL, JavaScript, and CSS."
+    },
+    {
+      "duty": "Build new tables, views, and stored procedures for database development and optimization."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS in Computer Science or relevant experience"
+    }
+  ]
+}

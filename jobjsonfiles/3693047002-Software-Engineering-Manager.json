@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineering Manager",
+      "job_category": "Software Engineering",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Development",
+      "experience": 10
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 10
+    },
+    {
+      "skill": "Security Architecture",
+      "experience": 8
+    },
+    {
+      "skill": "Change Management",
+      "experience": 8
+    },
+    {
+      "skill": "PHP",
+      "experience": 10
+    },
+    {
+      "skill": "JavaScript/Node",
+      "experience": 8
+    },
+    {
+      "skill": "Database Management",
+      "experience": 10
+    },
+    {
+      "skill": "API Development",
+      "experience": 8
+    },
+    {
+      "skill": "Web Technologies",
+      "experience": 10
+    },
+    {
+      "skill": "Testing Frameworks",
+      "experience": 8
+    },
+    {
+      "skill": "Atlassian Suite",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Hiring and leading technical teams within the digital & IT department."
+    },
+    {
+      "duty": "Analyzing, architecting, designing, developing, and supporting all software application systems."
+    },
+    {
+      "duty": "Managing software engineering schedules, budget, and resource allocation."
+    },
+    {
+      "duty": "Collaborating with product teams on priorities and infrastructure/security teams for best practices."
+    },
+    {
+      "duty": "Developing and following best practices in agile methodologies, building secure applications according to modern best practices."
+    },
+    {
+      "duty": "Assisting software development team to attain optimal performance through removing technical obstacles. "
+    },
+    {
+      "duty": "Providing leadership, development, and technical vision to the engineering team and consultants/contractors across different geographic locations."
+    },
+    {
+      "duty": "Managing joint development with 3rd party vendors as well as outsourced development."
+    },
+    {
+      "duty": "Improving team processes and handling resource conflicts when they arise."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 120,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS/MS degree in Computer Science, Software Engineering, or related field"
+    }
+  ]
+}

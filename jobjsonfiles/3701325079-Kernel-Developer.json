@@ -1,0 +1,102 @@
+{
+  "meta": [
+    {
+      "job_title": "Kernel Developer",
+      "job_category": "Software Engineer",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C/C++ programming",
+      "experience": 7
+    },
+    {
+      "skill": "System software development",
+      "experience": 7
+    },
+    {
+      "skill": "Linux knowledge",
+      "experience": 7
+    },
+    {
+      "skill": "Device driver development",
+      "experience": 7
+    },
+    {
+      "skill": "Kernel programming",
+      "experience": 7
+    },
+    {
+      "skill": "Memory management",
+      "experience": 7
+    },
+    {
+      "skill": "Python programming",
+      "experience": 7
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 7
+    },
+    {
+      "skill": "Linux distribution maintenance",
+      "experience": 7
+    },
+    {
+      "skill": "ARM architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Atlassian Suite",
+      "experience": 5
+    },
+    {
+      "skill": "VMM technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Virtualization and containerization",
+      "experience": 5
+    },
+    {
+      "skill": "Subversion",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop, debug, and test kernel level code using C/C++ language."
+    },
+    {
+      "duty": "Exercise/validation of system from user space and knowledge of user space API."
+    },
+    {
+      "duty": "Support the design, development, and maintenance of major system components."
+    },
+    {
+      "duty": "Manage device driver development and support for USB, network, graphics, video, mtd, storage, power management."
+    },
+    {
+      "duty": "Design and maintenance of CI/CD."
+    },
+    {
+      "duty": "Port and maintain Linux distribution for a platform."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in Computer Science/Engineering, Electrical engineering or related professional experience"
+    }
+  ]
+}

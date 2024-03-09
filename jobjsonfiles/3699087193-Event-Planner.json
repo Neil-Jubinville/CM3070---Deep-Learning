@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Event Planner",
+      "job_category": "Event Planning",
+      "job_class": "Coordinator",
+      "sector": "Administrative",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Event Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Marketing Strategies",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Developing an expanded audience for onsite event space and organizing smaller events to increase revenue and exposure"
+    },
+    {
+      "duty": "Event conceptualization and planning for membership gatherings nationwide in conjunction with internal stakeholders"
+    },
+    {
+      "duty": "Oversight of regular membership events at external venues, including registration, coordinating hotels and travel, securing RFPs, managing budgets, and post-event evaluation sequences"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 90,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BA/BS in Events Management, Hospitality, Marketing, or a related field"
+    }
+  ]
+}

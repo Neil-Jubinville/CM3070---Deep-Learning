@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Restaurant Manager",
+      "job_category": "Hospitality",
+      "job_class": "Manager",
+      "sector": "Food & Beverage",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Cost Control",
+      "experience": 5
+    },
+    {
+      "skill": "Labor Management",
+      "experience": 5
+    },
+    {
+      "skill": "Restaurant Management",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Management",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Conflict Resolution",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensure excellence in guest satisfaction through a committed and hands-on management style."
+    },
+    {
+      "duty": "Utilize leadership skills and motivate employees to ensure cost control and labor management."
+    },
+    {
+      "duty": "Inspect establishment and observe workers and guests to ensure compliance with standards and regulations."
+    },
+    {
+      "duty": "Ensure accuracy of paperwork such as daily sales reports, petty cash forms, and payroll records."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Hospitality Management or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Support Engineer",
+      "job_category": "Technical Support",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Support",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Linux",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "Azure",
+      "experience": 5
+    },
+    {
+      "skill": "Networking",
+      "experience": 5
+    },
+    {
+      "skill": "Client-Facing Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Regex",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop a deep technical understanding of Cribl Stream."
+    },
+    {
+      "duty": "Provide extraordinary technical support to our Enterprise customers and across various channels such as Slack, Email, online meetings, etc."
+    },
+    {
+      "duty": "Research, diagnose, troubleshoot and identify solutions to resolve customer issues."
+    },
+    {
+      "duty": "Follow standard procedures for reproducibility and escalation of unresolved issues to the appropriate internal teams."
+    },
+    {
+      "duty": "Provide prompt and accurate feedback to customers, set achievable expectations, and ensure proper recording and closure of all issues."
+    },
+    {
+      "duty": "Provide and document knowledge in the form of knowledge base tech notes, articles and participate in real-time forums (e.g., Slack) for real-time questions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS degree in Computer Science or similar degree, or equivalent work experience."
+    },
+    {
+      "credential": "Fluent speaking and written skills in English"
+    }
+  ]
+}

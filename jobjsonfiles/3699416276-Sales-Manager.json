@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Manager",
+      "job_category": "Sales",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Management",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Success",
+      "experience": 5
+    },
+    {
+      "skill": "Business Impact Selling",
+      "experience": 5
+    },
+    {
+      "skill": "CRM (Salesforce)",
+      "experience": 5
+    },
+    {
+      "skill": "Recruiting",
+      "experience": 5
+    },
+    {
+      "skill": "Retention",
+      "experience": 5
+    },
+    {
+      "skill": "Solution Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage a team of outside B2B account executives and guide their sales efforts to meet targets."
+    },
+    {
+      "duty": "Develop and execute comprehensive sales strategies to achieve business goals and targets."
+    },
+    {
+      "duty": "Identify growth opportunities and refine strategies based on customer behavior, market trends, and competitor activity."
+    },
+    {
+      "duty": "Provide leadership and support for complex solution sales, including software, hardware, SAAS subscription services, and professional services."
+    },
+    {
+      "duty": "Measure and report on the performance of sales teams and individual account executives, using data-driven insights to continuously improve strategies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree or equivalent experience"
+    }
+  ]
+}

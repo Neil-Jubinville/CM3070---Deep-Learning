@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Production Associate",
+      "job_category": "Manufacturing",
+      "job_class": "Associate",
+      "sector": "Manufacturing",
+      "salary": 1854,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Manual Labor",
+      "experience": 2
+    },
+    {
+      "skill": "Industrial Truck Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 2
+    },
+    {
+      "skill": "Manufacturing System Compliance",
+      "experience": 2
+    },
+    {
+      "skill": "Computer Program Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Housekeeping",
+      "experience": 2
+    },
+    {
+      "skill": "Material Inspection",
+      "experience": 2
+    },
+    {
+      "skill": "Converting Machinery Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Use of Hand Tools",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform manual labor activities, frequent bending, lifting, walking, and good housekeeping."
+    },
+    {
+      "duty": "Operate industrial trucks for roll handling and raw materials."
+    },
+    {
+      "duty": "Use manufacturing system and comply with safety and quality systems throughout the plant."
+    },
+    {
+      "duty": "Operate various computer programs in the production process."
+    },
+    {
+      "duty": "Follow established housekeeping standards and inspect finished materials."
+    },
+    {
+      "duty": "Operate multiple types of converting and packaging machinery in a safe and efficient manner."
+    },
+    {
+      "duty": "Use various hand tools to manipulate materials."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Senior",
+      "sector": "Management",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 5
+    },
+    {
+      "skill": "Stakeholder Management",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop project plans and strategies to ensure successful project completion within set constraints."
+    },
+    {
+      "duty": "Monitor and adjust project scope, objectives, and progress as needed."
+    },
+    {
+      "duty": "Facilitate daily/weekly project meetings and communicate with team leadership about project scope and delivery requirements."
+    },
+    {
+      "duty": "Identify and manage risks and dependencies, and resolve issues to realign the project with success criteria."
+    },
+    {
+      "duty": "Provide regular project updates to stakeholders and track project costs to meet budget."
+    },
+    {
+      "duty": "Champion the project process and drive adherence within the project team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent experience in Project Management, Business, Management Information Systems, Communication, Supply Chain Management, or a related field (Agile, SAFe, or Project Management Professional (PMP) certification preferred)"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "meta": [
+    {
+      "job_title": "Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Transportation",
+      "salary": 38000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Driving",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Driving the company vehicle (car or bus) to Resident Activities."
+    },
+    {
+      "duty": "Assisting residents in and out of vehicle."
+    },
+    {
+      "duty": "Inspecting the company vehicle before and after trips."
+    },
+    {
+      "duty": "Performing light office tasks, such as answering incoming calls or in-person inquiries to set up residents' travel."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid state driver's license"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 35,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide direct patient care and support to patients in the acute care setting."
+    },
+    {
+      "duty": "Administer medications and treatments as per physician's orders."
+    },
+    {
+      "duty": "Assess, evaluate, and prioritize patient needs and care plans."
+    },
+    {
+      "duty": "Communicate and collaborate with medical teams and other healthcare professionals to ensure comprehensive care."
+    },
+    {
+      "duty": "Maintain accurate medical records and documentation."
+    },
+    {
+      "duty": "Adhere to safety and infection control protocols."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Assessment and Prioritization",
+      "experience": 5
+    },
+    {
+      "skill": "Communication and Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Record Keeping",
+      "experience": 5
+    },
+    {
+      "skill": "Infection Control",
+      "experience": 5
+    }
+  ]
+}

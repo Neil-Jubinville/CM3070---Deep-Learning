@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Regional Manager",
+      "job_category": "Management",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Business Development",
+      "experience": 3
+    },
+    {
+      "skill": "Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    },
+    {
+      "skill": "Marketing Strategy",
+      "experience": 3
+    },
+    {
+      "skill": "Operations Management",
+      "experience": 3
+    },
+    {
+      "skill": "Market Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Entrepreneurial Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and manage all facets of the regional business operations, including sales, marketing, and operations."
+    },
+    {
+      "duty": "Develop and execute strategies to grow existing regions and launch new regions from scratch."
+    },
+    {
+      "duty": "Analyze market trends, consumer behavior, and competitor activity to identify growth opportunities and refine strategies."
+    },
+    {
+      "duty": "Lead special projects to improve company operations and strategies, focusing on marketing, production, operations, product development, and other areas."
+    },
+    {
+      "duty": "Mentor and guide teams, pitch learnings, and progress to C-level leadership, including the founders, at the end of each rotation."
+    },
+    {
+      "duty": "Manage a small team in the region and reduce lead time of current deployment process."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Management, or a related field (Master's preferred)"
+    }
+  ]
+}

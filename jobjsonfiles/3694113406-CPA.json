@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "CPA",
+      "job_category": "Finance",
+      "job_class": "Accounting",
+      "sector": "Finance",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CPA Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Tax Preparation",
+      "experience": 3
+    },
+    {
+      "skill": "Auditing",
+      "experience": 3
+    },
+    {
+      "skill": "Accounting Software",
+      "experience": 5
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare and review corporate, individual, and partnership tax returns, ensuring compliance with tax regulations and maximizing tax benefits for clients."
+    },
+    {
+      "duty": "Analyze financial statements, reports, and records to provide accurate and strategic tax planning recommendations."
+    },
+    {
+      "duty": "Utilize accounting software to process and track financial data, ensuring accuracy and timely reporting."
+    },
+    {
+      "duty": "Collaborate with clients and provide tax-related guidance and advice to support their financial decision-making."
+    },
+    {
+      "duty": "Assist in the completion of audits and reviews, maintaining high standards of professionalism and ethical conduct."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting or Finance (CPA certification required)"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Clinician",
+      "job_category": "Healthcare",
+      "job_class": "Clinical",
+      "sector": "Healthcare",
+      "salary": 72000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Therapy Delivery",
+      "experience": 5
+    },
+    {
+      "skill": "Case Management",
+      "experience": 5
+    },
+    {
+      "skill": "Insurance Billing",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Evaluation",
+      "experience": 5
+    },
+    {
+      "skill": "Telehealth",
+      "experience": 5
+    },
+    {
+      "skill": "Supervision and Mentoring",
+      "experience": 5
+    },
+    {
+      "skill": "Marketing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide therapy services to clients using a variety of modalities and approaches."
+    },
+    {
+      "duty": "Manage and oversee case management for a caseload of clients, ensuring their needs are met and progress is monitored."
+    },
+    {
+      "duty": "Handle insurance billing, claims submission, and benefit verification for clients."
+    },
+    {
+      "duty": "Conduct clinical evaluations and assessments to determine appropriate treatment plans for clients."
+    },
+    {
+      "duty": "Deliver telehealth services to clients, as needed, to provide access to care."
+    },
+    {
+      "duty": "Supervision and mentoring of interns and junior clinicians, providing support and guidance in their professional development."
+    },
+    {
+      "duty": "Participate in marketing activities to enhance the practice's visibility and attract new clients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master\u2019s degree in a mental health related field (required)"
+    },
+    {
+      "credential": "Active Utah state license (LICSW, LCSW, CSW, LMHC, LMHCA, LMFT, LMFTA)"
+    }
+  ]
+}

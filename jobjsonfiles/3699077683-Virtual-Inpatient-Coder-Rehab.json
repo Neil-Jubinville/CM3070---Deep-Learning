@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Virtual Inpatient Coder Rehab",
+      "job_category": "Healthcare",
+      "job_class": "Coder",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ICD-10-CM and ICD-10-PCS Coding",
+      "experience": 1
+    },
+    {
+      "skill": "Computer-assisted Coding (CAC) Technology",
+      "experience": 1
+    },
+    {
+      "skill": "Data Abstraction",
+      "experience": 1
+    },
+    {
+      "skill": "Physician Querying",
+      "experience": 1
+    },
+    {
+      "skill": "Health Information Management (HIM)",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Review and evaluate hospital inpatient medical record documentation to assign and sequence the appropriate ICD-10-CM and ICD-10-PCS codes."
+    },
+    {
+      "duty": "Complete the coding sections of the IRF-PAI, both concurrently while the patient is in-house and post discharge."
+    },
+    {
+      "duty": "Accept, edit, or delete auto-suggested codes and assign appropriate codes using CAC technology."
+    },
+    {
+      "duty": "Abstract various data elements (e.g., physician, discharge disposition) and issue physician queries when necessary."
+    },
+    {
+      "duty": "Participate in ongoing coding education and support coding accuracy activities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 60,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School graduate or GED equivalent required"
+    },
+    {
+      "credential": "Undergraduate (Associate's or Bachelor's) degree in HIM/HIT preferred"
+    },
+    {
+      "credential": "RHIA, RHIT or CCS preferred"
+    }
+  ]
+}

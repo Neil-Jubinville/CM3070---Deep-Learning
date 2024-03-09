@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Assistant Float",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 4
+    },
+    {
+      "skill": "Front Desk Management",
+      "experience": 4
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "Safe Driving",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform safe clinical skills within the scope of practice of the CMA, including clinical duties in the management of ambulatory patients."
+    },
+    {
+      "duty": "Be an integral part of the team working under the direction of a licensed health care practitioner."
+    },
+    {
+      "duty": "Utilize knowledge towards the integration of available standards, resources, and data."
+    },
+    {
+      "duty": "Assist with front office duties as needed, applying discretion, good judgment, and diplomacy towards excellent office and patient care management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Completion of an accredited program for Medical Assistants. Successful completion of Medical Assistant program and certified with the State of Washington required. Previous Front Desk experience preferred. Current Washington state driver\u2019s license and proof of a safe driving record (which meets established MultiCare Standards) obtained by a motor vehicle report from the appropriate state."
+    }
+  ]
+}

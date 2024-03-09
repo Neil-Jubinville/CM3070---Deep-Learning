@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "AEM Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Adobe CQ/AEM",
+      "experience": 5
+    },
+    {
+      "skill": "Web Services Development",
+      "experience": 5
+    },
+    {
+      "skill": "Adobe Analytics",
+      "experience": 3
+    },
+    {
+      "skill": "Adobe Campaign/Eloqua Certification",
+      "experience": 3
+    },
+    {
+      "skill": "RESTful Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain applications, templates, and components for the AEM product"
+    },
+    {
+      "duty": "Create web services in Java using REST and SOAP protocols"
+    },
+    {
+      "duty": "Utilize Adobe Analytics to analyze and optimize campaigns and strategies"
+    },
+    {
+      "duty": "Implement and configure Adobe Campaign/Eloqua for marketing automation"
+    },
+    {
+      "duty": "Collaborate with the team to design and implement RESTful architecture patterns"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field"
+    }
+  ]
+}

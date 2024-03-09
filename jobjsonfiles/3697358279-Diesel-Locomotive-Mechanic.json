@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Diesel Locomotive Mechanic",
+      "job_category": "Mechanical",
+      "job_class": "Mechanic",
+      "sector": "Transportation",
+      "salary": 39000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Diesel Engine Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Air Brake Repair",
+      "experience": 3
+    },
+    {
+      "skill": "Welding",
+      "experience": 3
+    },
+    {
+      "skill": "Mechanical Fabrication",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Drawing Interpretation",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Inspect, service, repair, and maintain diesel locomotives."
+    },
+    {
+      "duty": "Ensure compliance with all railroad rules and regulations for safety, operations, and the Federal Railroad Administration (FRA)."
+    },
+    {
+      "duty": "Fabricate, cut, shape, and perform finish operations using various types of materials."
+    },
+    {
+      "duty": "Perform periodic service on locomotives."
+    },
+    {
+      "duty": "Move locomotives."
+    },
+    {
+      "duty": "Miscellaneous activities and responsibilities as assigned by manager."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma/GED. One year mechanical work experience or training. One year experience reading and interpreting technical drawings or schematics."
+    }
+  ]
+}

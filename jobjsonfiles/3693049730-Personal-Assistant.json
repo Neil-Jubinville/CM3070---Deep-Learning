@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Personal Assistant",
+      "job_category": "Admin",
+      "job_class": "Assistant",
+      "sector": "Office",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Detail Orientation",
+      "experience": 5
+    },
+    {
+      "skill": "Multi-tasking",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office Suite",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support different senior family members and the family office with seamless administrative coverage and support"
+    },
+    {
+      "duty": "Understand family members' needs, working styles, and preferences, acting as the gatekeeper in complex and high-stress situations"
+    },
+    {
+      "duty": "Manage complex and dynamic calendars, liaise with external parties, and coordinate among all schedules and calendars proactively"
+    },
+    {
+      "duty": "Be responsible for follow-up items and assisting with personal tasks such as travel arrangements and contact management"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "QA/DC Program Manager",
+      "job_category": "Quality Assurance",
+      "job_class": "Program Manager",
+      "sector": "Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Coordination",
+      "experience": 3
+    },
+    {
+      "skill": "Prototyping",
+      "experience": 2
+    },
+    {
+      "skill": "Hardware Testing",
+      "experience": 2
+    },
+    {
+      "skill": "QA Processes",
+      "experience": 2
+    },
+    {
+      "skill": "Data Collection",
+      "experience": 2
+    },
+    {
+      "skill": "Python Scripting",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "End to end testing of prototype HW and software integration"
+    },
+    {
+      "duty": "Provide regular reports on test progress/blockers and make recommendations for QA/DC best practices"
+    },
+    {
+      "duty": "Execute additional assigned tasks to completion"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BA/BS degree in Computer Science, related technical field, or equivalent practical experience"
+    }
+  ]
+}

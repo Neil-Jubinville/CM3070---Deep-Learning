@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Care Associate",
+      "job_category": "Healthcare",
+      "job_class": "Associate",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CPR Validation",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Mathematics",
+      "experience": 2
+    },
+    {
+      "skill": "English Language Proficiency",
+      "experience": 3
+    },
+    {
+      "skill": "Physical Effort",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Providing a variety of services as a member of a patient care team to meet the health care, safety, and comfort needs of patients."
+    },
+    {
+      "duty": "Performing activities in accordance with all existing regulatory and hospital standards, policies, and procedures."
+    },
+    {
+      "duty": "Assisting Registered Nurses in patient care activities."
+    },
+    {
+      "duty": "Reporting to the Unit Manager for guidance and supervision."
+    },
+    {
+      "duty": "Gaining competencies in specialty patient care populations including heart transplant patients, Ventricular Assist Device patients, and TAVR population."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or Equivalent"
+    },
+    {
+      "credential": "CPR validation within 3 months of hire"
+    }
+  ]
+}

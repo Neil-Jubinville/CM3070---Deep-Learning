@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Healthcare Data Analyst",
+      "job_category": "Pharmacy Benefit Management",
+      "job_class": "Analyst",
+      "sector": "Healthcare",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Data Management",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Dynamics",
+      "experience": 5
+    },
+    {
+      "skill": "Agile SDLC Methodologies",
+      "experience": 10
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 10
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Event-Based Systems",
+      "experience": 10
+    },
+    {
+      "skill": "PBM Expertise",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage and analyze healthcare data using SQL for optimizing prescription drug programs and improving patient outcomes."
+    },
+    {
+      "duty": "Gather and manage requirements using both Waterfall and Agile SDLC methodologies."
+    },
+    {
+      "duty": "Develop and implement processes to enhance Pharmacy Benefit Management (PBM) and optimize prescription drug programs."
+    },
+    {
+      "duty": "Work with messaging and event-based systems to facilitate seamless communication within healthcare operations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Healthcare Informatics, Health Administration, or a related field (Master's preferred)"
+    }
+  ]
+}

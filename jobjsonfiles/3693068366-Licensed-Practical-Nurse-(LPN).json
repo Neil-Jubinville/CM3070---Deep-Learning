@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Practical Nurse (LPN)",
+      "job_category": "Healthcare",
+      "job_class": "Practical Nurse",
+      "sector": "Home Health",
+      "salary": 58000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Wound Care",
+      "experience": 5
+    },
+    {
+      "skill": "Catheter Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Care",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver high-quality, patient-centered care in the comfort of clients' homes."
+    },
+    {
+      "duty": "Provide wound care and catheter care with precision and expertise."
+    },
+    {
+      "duty": "Administer medications and treatments as prescribed by physicians."
+    },
+    {
+      "duty": "Collaborate with the interdisciplinary team to create and implement care plans."
+    },
+    {
+      "duty": "Educate patients and their families on proper self-care techniques."
+    },
+    {
+      "duty": "Maintain accurate and up-to-date patient records."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid LPN license in the state of Minnesota."
+    },
+    {
+      "credential": "Minimum of 2 years of LPN experience, preferably in home care or hospital settings."
+    },
+    {
+      "credential": "Experience with wound care and catheter care is strongly preferred."
+    },
+    {
+      "credential": "Reliable transportation, valid driver's license, and auto insurance are required."
+    },
+    {
+      "credential": "Mileage reimbursement of $0.655 cents per mile for travel."
+    },
+    {
+      "credential": "Willingness to work every weekend, either Thursday - Monday or Friday - Monday."
+    },
+    {
+      "credential": "Flexibility in scheduling: choose from 4-10 hr shifts, 4-8 hr shifts, or 5-8 hr shifts."
+    },
+    {
+      "credential": "Bachelor's degree in Nursing, preferred"
+    }
+  ]
+}

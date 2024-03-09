@@ -1,0 +1,114 @@
+{
+  "meta": [
+    {
+      "job_title": "Cyber Security Engineer",
+      "job_category": "Cyber Security",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Loss Prevention (DLP)",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Access Security Broker (CASB)",
+      "experience": 5
+    },
+    {
+      "skill": "Identity and Access Management",
+      "experience": 5
+    },
+    {
+      "skill": "Network Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Incident Management",
+      "experience": 5
+    },
+    {
+      "skill": "Application Security",
+      "experience": 5
+    },
+    {
+      "skill": "Vulnerability Remediation",
+      "experience": 5
+    },
+    {
+      "skill": "Endpoint Security",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Single-Sign-On (SSO)",
+      "experience": 5
+    },
+    {
+      "skill": "Federated Identity",
+      "experience": 5
+    },
+    {
+      "skill": "Database",
+      "experience": 5
+    },
+    {
+      "skill": "Networking",
+      "experience": 5
+    },
+    {
+      "skill": "Operating Systems",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Monitor the information security environment, identify and respond to potential risks, and mitigate those risks as necessary."
+    },
+    {
+      "duty": "Provision system access and apply advanced subject matter knowledge to solve complex business issues."
+    },
+    {
+      "duty": "Support Cloud initiatives by providing security recommendations and designing controls to protect IT assets in the Public cloud."
+    },
+    {
+      "duty": "Administer and manage DLP solutions, analyze and detect Data exfiltration events through covert channels."
+    },
+    {
+      "duty": "Manage cloud app security broker (CASB), create and enforce policies, and design and support Identity and Access Management solutions for the enterprise."
+    },
+    {
+      "duty": "Implement security controls, perform network troubleshooting, and serve as an IT Security SME for business and IT Project and Initiatives."
+    },
+    {
+      "duty": "Support the vulnerability management program and remediation efforts, and perform threat analysis and modeling."
+    },
+    {
+      "duty": "Collaborate in the IT security & Compliance Team to deliver holistic solutions and provide security recommendations for Cloud initiatives."
+    },
+    {
+      "duty": "Conduct incident management and vulnerability remediation, perform Application security reviews for web and mobile applications, and troubleshoot common network/connection issues."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Information Technology or relevant field required (Master's preferred)"
+    },
+    {
+      "credential": "Industry certifications in areas such as AWS, GCP, Azure Cloud, Certificate of Cloud Security Knowledge (CCSK), and/or CISSP, CEH, CCNA and CompTIA Cloud+"
+    }
+  ]
+}

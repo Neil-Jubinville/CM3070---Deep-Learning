@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Biomedical Engineering Technician II",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "remote": false,
+      "salary": 65000
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Biomedical Equipment Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Preventive Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Equipment Calibration",
+      "experience": 2
+    },
+    {
+      "skill": "Technical Assistance",
+      "experience": 2
+    },
+    {
+      "skill": "Documentation Management",
+      "experience": 2
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 2
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 2
+    },
+    {
+      "skill": "Hazard Alert Investigation",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Repair, install, maintain, calibrate, and inspect moderately complex medical equipment and instrumentation, including life support equipment"
+    },
+    {
+      "duty": "Perform preventive maintenance (PM) and electrical safety testing of clinical equipment, devices, and systems"
+    },
+    {
+      "duty": "Diagnose and correct system connectivity issues and equipment malfunctions"
+    },
+    {
+      "duty": "Perform and maintain appropriate documentation on equipment, including inspections, repairs, failures, and PM\u2019s"
+    },
+    {
+      "duty": "Manage or monitor completion of PM activities done by third party vendors"
+    },
+    {
+      "duty": "Provide technical assistance and instruction to hospital personnel regarding equipment operation and maintenance"
+    },
+    {
+      "duty": "Review outcomes of PM actions and make recommendations concerning improvements"
+    },
+    {
+      "duty": "Provide mentoring and training to BMET1\u2019s for equipment repair and maintenance"
+    },
+    {
+      "duty": "May investigate and provide required action to address hazard alerts and recalls, or, risk management investigations"
+    },
+    {
+      "duty": "May be asked to provide on-call support to ensure 24x7x365 coverage for medical equipment needs"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in biomedical engineering, electronics, or related field (Certification in Biomedical Equipment Technology preferred)"
+    }
+  ]
+}

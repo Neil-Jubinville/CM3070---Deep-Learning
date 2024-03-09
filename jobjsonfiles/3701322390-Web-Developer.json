@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Web Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 96000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java/J2EE",
+      "experience": 3
+    },
+    {
+      "skill": "Javascript",
+      "experience": 3
+    },
+    {
+      "skill": "Python",
+      "experience": 3
+    },
+    {
+      "skill": "Database Management",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Articulation and Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Independent Work",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design overall architecture of the web application."
+    },
+    {
+      "duty": "Maintain quality and ensure responsiveness of applications."
+    },
+    {
+      "duty": "Collaborate with the engineering team to design and launch new features."
+    },
+    {
+      "duty": "Maintain code integrity, organization, optimization, and performance."
+    },
+    {
+      "duty": "Document requirement specifications and related designs."
+    },
+    {
+      "duty": "Execute project assignments, analyze and resolve technical problems."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

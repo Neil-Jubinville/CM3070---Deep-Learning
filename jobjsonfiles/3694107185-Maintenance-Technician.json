@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Maintenance & Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Industrial Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 2
+    },
+    {
+      "skill": "Preventive Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Technical Manual Interpretation",
+      "experience": 2
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform daily maintenance and repair of equipment in a healthcare setting."
+    },
+    {
+      "duty": "Troubleshoot issues with equipment and perform necessary repairs."
+    },
+    {
+      "duty": "Execute preventive maintenance procedures to ensure equipment reliability and safety."
+    },
+    {
+      "duty": "Read and interpret technical manuals and schematics for equipment maintenance."
+    },
+    {
+      "duty": "Work independently and as part of a team to ensure overall industrial maintenance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED equivalent; technical school or certification in related field is a plus"
+    }
+  ]
+}

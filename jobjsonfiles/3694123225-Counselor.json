@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Counselor",
+      "job_category": "Counseling",
+      "job_class": "Counselor",
+      "sector": "Management",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Counseling",
+      "experience": 1
+    },
+    {
+      "skill": "Assessment and Evaluation",
+      "experience": 1
+    },
+    {
+      "skill": "Documentation",
+      "experience": 1
+    },
+    {
+      "skill": "Goal Setting and Career Planning",
+      "experience": 1
+    },
+    {
+      "skill": "Report Writing",
+      "experience": 1
+    },
+    {
+      "skill": "Training and Development",
+      "experience": 1
+    },
+    {
+      "skill": "Community Engagement",
+      "experience": 1
+    },
+    {
+      "skill": "Advising and Mentoring",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Counsel students in all aspects of center life, including personal, social, vocational, and educational training."
+    },
+    {
+      "duty": "Assess and evaluate students on formal and informal levels, providing assistance in continuing education and connecting with community services."
+    },
+    {
+      "duty": "Document student contact counseling sessions and provide assistance in setting short and long-term goals, identifying strengths and career challenges."
+    },
+    {
+      "duty": "Complete ongoing assignments given by the counseling and program administrative personnel, submitting written student reports and evaluations as needed."
+    },
+    {
+      "duty": "Conduct intake interviews, monitor attendance, address conduct issues, and arrange interventions to address below expectations performance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree, including 15 semester hours of Social Sciences or related area. One year\u2019s experience in a counseling capacity or related field."
+    }
+  ]
+}

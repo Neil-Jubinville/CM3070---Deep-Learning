@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Youth Counselor",
+      "job_category": "Social Work",
+      "job_class": "Counselor",
+      "sector": "Social Work",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Counseling",
+      "experience": 2
+    },
+    {
+      "skill": "Therapeutic Intervention",
+      "experience": 3
+    },
+    {
+      "skill": "Crisis Interventions",
+      "experience": 3
+    },
+    {
+      "skill": "Assessment Tools",
+      "experience": 3
+    },
+    {
+      "skill": "Behavioral Intervention",
+      "experience": 3
+    },
+    {
+      "skill": "Restraint Techniques",
+      "experience": 3
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Providing counseling and therapeutic intervention while supervising juvenile offenders housed in a youth development center."
+    },
+    {
+      "duty": "Utilizing a range of counseling techniques and skills in crisis interventions to effect individual treatment plans and facilitate group interaction processes."
+    },
+    {
+      "duty": "Administering scoring, interpreting assessment tools, and reviewing treatment strategies to achieve rehabilitation goals."
+    },
+    {
+      "duty": "Participating in the development of individual treatment, educational, vocational, and community reintegration programs."
+    },
+    {
+      "duty": "Planning, orchestrating and supervising juvenile movement; monitoring juveniles to maintain safety; and providing behavioral intervention and restraint as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in human services field or related human services field from an appropriately accredited institution and two years of experience working with at-risk youth; or an equivalent combination of education and experience."
+    }
+  ]
+}

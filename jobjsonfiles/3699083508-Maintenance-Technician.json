@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cable Experience",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Mathematics",
+      "experience": 1
+    },
+    {
+      "skill": "Electronic Knowledge",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Coax Network Installation",
+      "experience": 1
+    },
+    {
+      "skill": "Fiber Network Installation",
+      "experience": 1
+    },
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 1
+    },
+    {
+      "skill": "RF Knowledge",
+      "experience": 1
+    },
+    {
+      "skill": "AC and DC Knowledge",
+      "experience": 1
+    },
+    {
+      "skill": "Telecommunications Installation",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain and repair the wires providing internet services from hub sites to customer connection points."
+    },
+    {
+      "duty": "Monitor and report signal leakages and perform repairs as required."
+    },
+    {
+      "duty": "Work independently in all weather conditions and be on call as dictated by business needs."
+    },
+    {
+      "duty": "Provide support and skills to ensure the network functions optimally."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent work experience"
+    }
+  ]
+}

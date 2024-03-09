@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Systems Engineer",
+      "job_category": "Engineering",
+      "job_class": "Consultant",
+      "sector": "Systems Engineering Consulting",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Systems Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "DoD Acquisitions",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Proposal Evaluation",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 5
+    },
+    {
+      "skill": "Program Management",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Presentation Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage technical execution and evaluation of DoD systems, subsystems, and components during development."
+    },
+    {
+      "duty": "Provide input on the evaluation of technical proposals."
+    },
+    {
+      "duty": "Plan, program, coordinate, and control the technical execution of engineering functions to meet program requirements."
+    },
+    {
+      "duty": "Conduct formal and informal presentations and prepare technical reports and papers in the technical areas of expertise and participate in conferences and discussions relating to assigned systems."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Engineering with 5 years of experience in electrical/avionics engineering supporting DoD"
+    }
+  ]
+}

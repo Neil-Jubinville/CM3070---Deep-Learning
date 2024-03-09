@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Support Engineer III",
+      "job_category": "Information Technology",
+      "job_class": "Engineer",
+      "sector": "Technology",
+      "salary": 74000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "VMware vSphere",
+      "experience": 5
+    },
+    {
+      "skill": "Linux/Windows Server",
+      "experience": 2
+    },
+    {
+      "skill": "TCP/IP Networking",
+      "experience": 5
+    },
+    {
+      "skill": "Resource Utilization",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Symantec Cloud Security",
+      "experience": 3
+    },
+    {
+      "skill": "ITIL",
+      "experience": 5
+    },
+    {
+      "skill": "Root Cause Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Network Topology",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage the technical design, planning, and implementation of mission-critical enterprise systems"
+    },
+    {
+      "duty": "Serve as a technical expert in system administration for complex operating systems"
+    },
+    {
+      "duty": "Provide recommendations on operating systems and system applications"
+    },
+    {
+      "duty": "Investigate system feasibility, document system specifications, and identify methods to drive efficiency"
+    },
+    {
+      "duty": "Perform problem management, root cause analysis, and provide support services for cloud and SaaS products"
+    },
+    {
+      "duty": "Maintain direct contact with vendors to expedite service restoration"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.A./B.S. in related field or equivalent work experience"
+    },
+    {
+      "credential": "MCSA, MCSE, or MCITP certifications (Windows 2008 or higher)"
+    },
+    {
+      "credential": "VCP5 VMware certification"
+    },
+    {
+      "credential": "ITIL certification"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Audit Supervisor",
+      "job_category": "Accounting",
+      "job_class": "Supervisor",
+      "sector": "Accounting",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Statement Preparation",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "CPA Certification",
+      "experience": 6
+    },
+    {
+      "skill": "Leadership Ability",
+      "experience": 5
+    },
+    {
+      "skill": "GAAP and GAAS Knowledge",
+      "experience": 6
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform and provide oversight for team members on assurance engagements."
+    },
+    {
+      "duty": "Recognize, research, document and resolve technical accounting issues."
+    },
+    {
+      "duty": "Supervise/mentor team members assigned to client engagements."
+    },
+    {
+      "duty": "Effectively communicate with partners, managers, team members, and clients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "CPA Certification"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 175000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Distributed Systems Design",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "SQL/NoSQL Databases",
+      "experience": 5
+    },
+    {
+      "skill": "Git",
+      "experience": 5
+    },
+    {
+      "skill": "Continuous Integration/Deployment",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Big Data Techniques",
+      "experience": 5
+    },
+    {
+      "skill": "AdTech",
+      "experience": 5
+    },
+    {
+      "skill": "ML Systems",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop internet-scale distributed system technologies such as Microservices, Solr, Kafka, Mem Cache, etc."
+    },
+    {
+      "duty": "Explain complex subjects in layman's terms and drive the development of high-quality software systems."
+    },
+    {
+      "duty": "Work with data scientists and product managers to improve customer experience and ad relevance."
+    },
+    {
+      "duty": "Mentor and guide mid-to-junior engineers in solving complex software systems problems."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Computer Science or a related field (Master's preferred)"
+    }
+  ]
+}

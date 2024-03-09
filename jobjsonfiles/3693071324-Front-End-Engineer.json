@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Front End Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 160000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "JavaScript",
+      "experience": 2
+    },
+    {
+      "skill": "HTML",
+      "experience": 2
+    },
+    {
+      "skill": "CSS",
+      "experience": 2
+    },
+    {
+      "skill": "Angular",
+      "experience": 1
+    },
+    {
+      "skill": "React",
+      "experience": 1
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 1
+    },
+    {
+      "skill": "TypeScript",
+      "experience": 1
+    },
+    {
+      "skill": "Node.js",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain UI components, styling/interactivity libraries, and build/deploy tools for the Amazon.com front end development ecosystem."
+    },
+    {
+      "duty": "Work with a team to set the standard for frontend development at Amazon, ensuring modern, fresh, and visually coherent customer experiences."
+    },
+    {
+      "duty": "Accelerate frontend development by reducing the time and effort required to build new experiences for shoppers, through the use of reusable components and automation."
+    },
+    {
+      "duty": "Evangelize and educate on front-end technologies and methodologies within the team and beyond."
+    },
+    {
+      "duty": "Work on innovating technologies that accelerate customer experience innovation at Amazon, directly impacting the developer experience for Store Builders worldwide."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 120,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or related field"
+    }
+  ]
+}

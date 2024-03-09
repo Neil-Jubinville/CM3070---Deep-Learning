@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Care Management Specialist",
+      "job_category": "Healthcare",
+      "job_class": "Specialist",
+      "sector": "Managed Care",
+      "salary": 70000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Healthcare Delivery Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Managed Care Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Medicare and Medicaid Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Electronic Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Nursing Experience",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Serve as a single entry or 'easy access' point to help members and providers navigate through managed care."
+    },
+    {
+      "duty": "Apply knowledge of applicable regulations, identify resources, and eliminate barriers for members and providers."
+    },
+    {
+      "duty": "Provide care management interventions and seamless support across transitions of care."
+    },
+    {
+      "duty": "Conduct face-to-face visits with members in their home and intermittent meetings onsite."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current unencumbered Oregon RN License"
+    },
+    {
+      "credential": "Associate's degree in a health care related field (BSN preferred)"
+    }
+  ]
+}

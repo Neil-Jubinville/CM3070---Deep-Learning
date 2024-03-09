@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Surgical Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Surgical Technology",
+      "experience": 2
+    },
+    {
+      "skill": "BLS Certification",
+      "experience": 3
+    },
+    {
+      "skill": "Sterilization Techniques",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Operating Room Assistance",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Equipment Management",
+      "experience": 2
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assemble supplies and equipment needed for surgical procedures."
+    },
+    {
+      "duty": "Prepare sterile instrument table for procedures."
+    },
+    {
+      "duty": "Assist in positioning patients and preparing patient\u2019s skin for surgery."
+    },
+    {
+      "duty": "Maintain sterile techniques and actively monitor situations that could lead to breaches in sterile technique."
+    },
+    {
+      "duty": "Assist the surgical team during procedures by passing instruments, sponges, and sutures."
+    },
+    {
+      "duty": "Assist in monitoring the patient during procedures."
+    },
+    {
+      "duty": "Gather equipment for cleaning and sterilization after procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an approved surgical technologist program."
+    },
+    {
+      "credential": "BLS Required (American Heart or American Red Cross)"
+    },
+    {
+      "credential": "Hospital based Surgical Tech experience preferred."
+    },
+    {
+      "credential": "Ability to perform work that requires frequent standing, bending, reaching, squatting, kneeling, moving, lifting of patients and/or equipment up to 50 pounds"
+    }
+  ]
+}

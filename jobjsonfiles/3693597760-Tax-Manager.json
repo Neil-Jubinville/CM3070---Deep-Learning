@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Tax Manager",
+      "job_category": "Accounting",
+      "job_class": "Manager",
+      "sector": "Finance",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tax Management",
+      "experience": 8
+    },
+    {
+      "skill": "Supervisory Experience",
+      "experience": 3
+    },
+    {
+      "skill": "CPA License",
+      "experience": 8
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 10
+    },
+    {
+      "skill": "Project Management",
+      "experience": 8
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 8
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 8
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Coordinate and manage tax activities for clients, ensuring quality deliverables on time and within budget."
+    },
+    {
+      "duty": "Develop and manage client relationships and engagement, ensuring client satisfaction and communication upward."
+    },
+    {
+      "duty": "Serve as an advisor and mentor to employees, providing guidance and on-the-job training."
+    },
+    {
+      "duty": "Articulate client issues and opportunities in a non-technical manner to the client service team and clients."
+    },
+    {
+      "duty": "Develop specialized expertise in one or more tax subject matter areas."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 90,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.A./B.S. degree with a CPA License"
+    }
+  ]
+}

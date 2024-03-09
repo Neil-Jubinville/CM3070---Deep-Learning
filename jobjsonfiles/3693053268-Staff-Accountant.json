@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Accountant",
+      "job_category": "Accounting",
+      "job_class": "Staff",
+      "sector": "Finance",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 4
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 4
+    },
+    {
+      "skill": "Project Management",
+      "experience": 4
+    },
+    {
+      "skill": "Multinational Workforce Culture",
+      "experience": 3
+    },
+    {
+      "skill": "Excel",
+      "experience": 4
+    },
+    {
+      "skill": "Audit",
+      "experience": 4
+    },
+    {
+      "skill": "Workday General Ledger",
+      "experience": 3
+    },
+    {
+      "skill": "Human Resource Systems",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage financial operations of all US multi-state offices"
+    },
+    {
+      "duty": "Analyze and process accounts payable and all other financial activity"
+    },
+    {
+      "duty": "Assist with completion of global consolidated audit"
+    },
+    {
+      "duty": "Analyze company ledger accounts actual to budget, month over month, and annual trends"
+    },
+    {
+      "duty": "Become a knowledge center for all US financial activity and expense policies"
+    },
+    {
+      "duty": "Assist with project management activities, including development and maintenance of project schedules, tracking and mitigating risks, and communicating project status and quality targets"
+    },
+    {
+      "duty": "Maintain documentation, assist in efficiency initiatives for new business processes, construct workflow charts and diagrams"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting or Finance"
+    }
+  ]
+}

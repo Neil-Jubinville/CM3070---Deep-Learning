@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Tax Specialist",
+      "job_category": "Accounting",
+      "job_class": "Specialist",
+      "sector": "Finance",
+      "salary": 45000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tax Preparation",
+      "experience": 5
+    },
+    {
+      "skill": "Tax Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Virtual Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Tax Audit Support",
+      "experience": 5
+    },
+    {
+      "skill": "Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "Sales and Marketing",
+      "experience": 3
+    },
+    {
+      "skill": "CPA or Enrolled Agent Certification",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build and maintain client relationships year-round, providing tax preparation, audit support, and planning."
+    },
+    {
+      "duty": "Conduct tax interviews in-person and virtually using video conferencing, phone, chat, and email to create client confidence."
+    },
+    {
+      "duty": "Generate business growth and increase client retention by offering additional products and services."
+    },
+    {
+      "duty": "Grow tax expertise by staying updated on tax regulations and best practices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting or related field"
+    }
+  ]
+}

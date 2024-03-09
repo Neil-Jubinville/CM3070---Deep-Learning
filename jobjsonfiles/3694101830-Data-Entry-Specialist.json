@@ -1,0 +1,48 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Entry Specialist",
+      "job_category": "Data Entry",
+      "job_class": "Specialist",
+      "sector": "Entertainment Services",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Computer Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 3
+    },
+    {
+      "skill": "Office Work",
+      "experience": 3
+    },
+    {
+      "skill": "Excel",
+      "experience": 3
+    },
+    {
+      "skill": "Pivot Tables",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Organize physical customer assets and prepare them for data entry."
+    },
+    {
+      "duty": "Identify asset types and enter agreed-upon asset descriptions into the eSearch database."
+    },
+    {
+      "duty": "Update customer spreadsheets as required."
+    },
+    {
+      "duty": "Follow up with customer service, operations, and digital teams on the status of assets entered."
+    }
+  ]
+}

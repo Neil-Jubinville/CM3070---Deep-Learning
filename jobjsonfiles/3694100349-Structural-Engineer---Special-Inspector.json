@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Structural Engineer - Special Inspector",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Structural Engineering",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Verbal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Structural Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Special Inspections",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform structural engineering analysis and design work"
+    },
+    {
+      "duty": "Conduct special inspections and tests of structural components"
+    },
+    {
+      "duty": "Communicate inspection findings through written reports and verbal communication"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Structural Engineering or related field, PE License required for Special Inspectors"
+    }
+  ]
+}

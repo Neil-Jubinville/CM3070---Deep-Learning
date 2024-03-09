@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Support Associate",
+      "job_category": "Support",
+      "job_class": "Associate",
+      "sector": "Healthcare",
+      "salary": 22000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Housekeeping",
+      "experience": 1
+    },
+    {
+      "skill": "Sanitation",
+      "experience": 1
+    },
+    {
+      "skill": "Equipment Transport",
+      "experience": 1
+    },
+    {
+      "skill": "Requisition Management",
+      "experience": 1
+    },
+    {
+      "skill": "Chart Retrieval",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintains institution and patient rooms in safe, clean, and functional condition by completing sanitary and housekeeping tasks."
+    },
+    {
+      "duty": "Transports patients, equipment, and specimens according to established procedures."
+    },
+    {
+      "duty": "Monitors, reports, and corrects any unsafe or dysfunctional conditions."
+    },
+    {
+      "duty": "Manages in-wall cabinet stock and requisitions for equipment and supplies."
+    },
+    {
+      "duty": "Obtains charts and test order requests according to established procedures."
+    },
+    {
+      "duty": "Performs emergency clean-up of housekeeping tasks according to established procedures."
+    },
+    {
+      "duty": "Initiates and follows up on requisitions for maintenance and/or repair."
+    },
+    {
+      "duty": "Performs other duties as assigned, including generation of reports."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School/GED"
+    }
+  ]
+}

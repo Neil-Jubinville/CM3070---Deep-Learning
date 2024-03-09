@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. ASIC Design Verification Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 175000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ASIC Design",
+      "experience": 10
+    },
+    {
+      "skill": "Verification",
+      "experience": 10
+    },
+    {
+      "skill": "UVM",
+      "experience": 10
+    },
+    {
+      "skill": "PCIe",
+      "experience": 10
+    },
+    {
+      "skill": "CXL",
+      "experience": 10
+    },
+    {
+      "skill": "System Verilog",
+      "experience": 10
+    },
+    {
+      "skill": "Functional Coverage",
+      "experience": 10
+    },
+    {
+      "skill": "Assertion",
+      "experience": 10
+    },
+    {
+      "skill": "Perl Scripting",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Test bench development using System Verilog UVM"
+    },
+    {
+      "duty": "Test plan and test case development with functional coverage, assertion, coverage property, coverage groups, and coverage collections"
+    },
+    {
+      "duty": "Regression setup and debug at RTL level and gate sim level working with the design team"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 0,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's (Master's or Ph.D.) in Computer Science, Electrical Engineering, Computer Engineering, or similar with 10+ years of experience"
+    }
+  ]
+}

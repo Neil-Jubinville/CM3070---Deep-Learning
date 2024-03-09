@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Sous Chef",
+      "job_category": "Culinary",
+      "job_class": "Chef",
+      "sector": "Food Services",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Culinary Operations",
+      "experience": 5
+    },
+    {
+      "skill": "Menu Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Supervision",
+      "experience": 5
+    },
+    {
+      "skill": "Cost Control",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in supervising the day to day activities of kitchen staff, assigns responsibilities for specified work, and sets deadlines to ensure timely completion of work."
+    },
+    {
+      "duty": "Promote safety and sanitation, inspect all food products handling, establish and maintain safe practices, and follow HACCP procedures."
+    },
+    {
+      "duty": "Assist with menu planning, inventory, and managing of supplies."
+    },
+    {
+      "duty": "Comply with company and franchise standards of operation procedures, as well as those of all applicable regulatory agencies, and ensure on a daily basis that all products are prepared and presented in accordance with brand or company standards."
+    },
+    {
+      "duty": "Recommendations for hiring, firing, advancement, promotion, or any other status change of associates within the kitchen."
+    },
+    {
+      "duty": "Provide the highest quality of customer service to the customers at all times, to include ensuring proper training of all staff and supporting associates to ensure customer satisfaction and product quality."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or general education development (GED) diploma; post-secondary culinary training preferred; brand certification a plus."
+    }
+  ]
+}

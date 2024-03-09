@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Care Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Assisting Nurses",
+      "experience": 1
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare rooms and equipment for patient care."
+    },
+    {
+      "duty": "Assist nurses with basic patient care tasks within the scope of job duties."
+    },
+    {
+      "duty": "Respond quickly to patient and family needs."
+    },
+    {
+      "duty": "Assist in emergency situations."
+    },
+    {
+      "duty": "May perform other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent. Completion of certified nursing assistant training, basic EMT training, paramedic or medical assistant training, including proof of course completion. American Heart Association Basic Life Support certification."
+    }
+  ]
+}

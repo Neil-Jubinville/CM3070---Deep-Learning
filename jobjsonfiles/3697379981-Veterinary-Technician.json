@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinary Technician",
+      "job_category": "Veterinary",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 38000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Veterinary Care",
+      "experience": 2
+    },
+    {
+      "skill": "Anesthesia Monitoring",
+      "experience": 2
+    },
+    {
+      "skill": "Client Education",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Record Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Pet Health Evaluation",
+      "experience": 2
+    },
+    {
+      "skill": "Team Guidance",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support veterinarians to ensure quality veterinary care, advocate for pets, and educate clients."
+    },
+    {
+      "duty": "Assist with surgeries, monitor anesthetic procedures, wellness appointments, restraint, and client education."
+    },
+    {
+      "duty": "Communicate with clients about pet health concerns and offer guidance on membership options, medications, and additional treatments."
+    },
+    {
+      "duty": "Maintain comprehensive medical records and obtain relevant health history and information from clients."
+    },
+    {
+      "duty": "Follow standard protocols and sustain clean, sterile, organized treatment areas, exam rooms, and labs."
+    },
+    {
+      "duty": "Guide, mentor, and support fellow team members."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Previous veterinary experience is required. NYS License is required. Ability to lift up to 50 pounds, squatting, reach, standing, and walking throughout the day."
+    }
+  ]
+}

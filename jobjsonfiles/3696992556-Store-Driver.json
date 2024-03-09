@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "job_title": "Store Driver",
+      "job_category": "Retail",
+      "job_class": "Hourly",
+      "sector": "Sales",
+      "salary": 27000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Driving",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Automotive Knowledge",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver parts to commercial customers and assist with task and inventory processes."
+    },
+    {
+      "duty": "Support the DIY business and achieve sales and service objectives."
+    },
+    {
+      "duty": "Provide advanced functions for both DIY and DIFM customers."
+    },
+    {
+      "duty": "Maintain company standards around operating and product processes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": []
+}

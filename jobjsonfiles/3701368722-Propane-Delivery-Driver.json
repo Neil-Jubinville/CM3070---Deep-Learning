@@ -1,0 +1,49 @@
+{
+  "meta": [
+    {
+      "job_title": "Propane Delivery Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Logistics",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CDL B License",
+      "experience": 2
+    },
+    {
+      "skill": "Hazmat Endorsement",
+      "experience": 2
+    },
+    {
+      "skill": "Safe Driving",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Safely deliver propane to residential and commercial customers."
+    },
+    {
+      "duty": "Maintain a great driving record and comply with all federal, state, local, and company regulations."
+    },
+    {
+      "duty": "Represent the AmeriGas brand while providing exceptional customer service."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "CDL B License with Hazmat Endorsement"
+    }
+  ]
+}

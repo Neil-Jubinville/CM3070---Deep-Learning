@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "FinOps Engineer",
+      "job_category": "Finance",
+      "job_class": "Engineer",
+      "sector": "Finance",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Analysis",
+      "experience": 10
+    },
+    {
+      "skill": "Cloud Operations",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Certification",
+      "experience": 1
+    },
+    {
+      "skill": "Vendor Management",
+      "experience": 5
+    },
+    {
+      "skill": "Python Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Stakeholder Management",
+      "experience": 5
+    },
+    {
+      "skill": "Business Intelligence Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Cost Optimization",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Analyze cloud spend and identify potential cost savings for optimizing cloud operations."
+    },
+    {
+      "duty": "Work closely with Service Delivery Managers, Technical/Solution Architects, and Finance team to maintain cloud cost spend and environment stability through data analysis and creative problem-solving."
+    },
+    {
+      "duty": "Implement frameworks, processes, and solutions to manage and optimize cloud consumption."
+    },
+    {
+      "duty": "Create and manage automated tools to identify cost trends, anomalies, and track budgets."
+    },
+    {
+      "duty": "Develop and maintain strong and mutually supportive relationships with internal partners to achieve joint objectives."
+    },
+    {
+      "duty": "Influence key stakeholders to consider commercial implications of IT decisions for the organization."
+    },
+    {
+      "duty": "Train other team members and support in developing a team with skills required for technology management."
+    },
+    {
+      "duty": "Drive achievement of best-in-class technology cost performance and lead the organization through technology transformation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelors or Master's degree in Business, Finance, IT, or Analytics (MBA/Engineering degree preferred)"
+    },
+    {
+      "credential": "Current FinOps certification or ability to attain within 6 months"
+    },
+    {
+      "credential": "AWS Practitioner & Architect certification or ability to attain within 12 months"
+    }
+  ]
+}

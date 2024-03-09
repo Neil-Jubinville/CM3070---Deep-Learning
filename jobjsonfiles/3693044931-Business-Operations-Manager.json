@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Operations Manager",
+      "job_category": "Management",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Management",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Administrative Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide leadership and direction to a team of people"
+    },
+    {
+      "duty": "Manage operations and finances of business"
+    },
+    {
+      "duty": "Recruit and train new hires on business practices"
+    },
+    {
+      "duty": "Drive development of employees"
+    },
+    {
+      "duty": "Ensure that quality of work or service is maintained"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Management, or related field (MBA preferred)"
+    }
+  ]
+}

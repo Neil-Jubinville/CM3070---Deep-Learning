@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Construction Services Division Manager",
+      "job_category": "Construction",
+      "job_class": "Manager",
+      "sector": "Construction",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 10
+    },
+    {
+      "skill": "Construction Supervision",
+      "experience": 10
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 8
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 10
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Leadership",
+      "experience": 10
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 10
+    },
+    {
+      "skill": "Technical Expertise",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage construction projects, including planning, scheduling, and cost estimating"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.S. in Construction Management, Civil Engineering, or a related field"
+    }
+  ]
+}

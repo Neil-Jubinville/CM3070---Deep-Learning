@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Financial Assistant",
+      "job_category": "Finance",
+      "job_class": "Assistant",
+      "sector": "Finance",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Data Management",
+      "experience": 5
+    },
+    {
+      "skill": "Accounts Payable and Receivable",
+      "experience": 5
+    },
+    {
+      "skill": "Payroll Processing",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office Suite",
+      "experience": 5
+    },
+    {
+      "skill": "QuickBooks",
+      "experience": 5
+    },
+    {
+      "skill": "Detail Orientation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Track expenses, budget, taxes, cash flow, receipts and other financial dealings of company"
+    },
+    {
+      "duty": "Provide regular financial reports (weekly, monthly and yearly)"
+    },
+    {
+      "duty": "Monitor accounts payable and receivable"
+    },
+    {
+      "duty": "Ensure timely processing of payroll"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting or related field"
+    }
+  ]
+}

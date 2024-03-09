@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Development Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Design Patterns",
+      "experience": 5
+    },
+    {
+      "skill": "Reliability Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Coding Standards",
+      "experience": 5
+    },
+    {
+      "skill": "Source Control Management",
+      "experience": 5
+    },
+    {
+      "skill": "Build Processes",
+      "experience": 5
+    },
+    {
+      "skill": "Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Operations",
+      "experience": 5
+    },
+    {
+      "skill": "Computer Science",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop highly scalable, low latency, reliable, and fast software services leveraging AWS technologies."
+    },
+    {
+      "duty": "Solve interesting problems and build software that delights customers."
+    },
+    {
+      "duty": "Collaborate with Product Managers and Data Engineers to build future IT applications."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in computer science or equivalent"
+    }
+  ]
+}

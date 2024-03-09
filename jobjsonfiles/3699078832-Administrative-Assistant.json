@@ -1,0 +1,102 @@
+{
+  "meta": [
+    {
+      "job_title": "Administrative Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Office Management",
+      "salary": 21000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Office Management",
+      "experience": 3
+    },
+    {
+      "skill": "Business Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 3
+    },
+    {
+      "skill": "Process Optimization",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Quickbooks",
+      "experience": 2
+    },
+    {
+      "skill": "Coordination",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage general office tasks, including answering phone calls, receiving mail, and responding to emails and customer inquiries."
+    },
+    {
+      "duty": "Maintain an organized filing system for important and confidential company documents."
+    },
+    {
+      "duty": "Maintain supplies inventory by checking stock levels, refilling stock, anticipating needed supplies, placing, and expediting orders for supplies."
+    },
+    {
+      "duty": "Prepare business documents, including company communications, inventory summaries, and client updates."
+    },
+    {
+      "duty": "Perform regular quality control audits, ensuring compliance with company policies and quality standards."
+    },
+    {
+      "duty": "Create, implement, and oversee new processes to optimize efficiency and productivity within the office environment."
+    },
+    {
+      "duty": "Generate regularly scheduled reports, including a summary of project statuses and other relevant metrics."
+    },
+    {
+      "duty": "Assist in collecting and analyzing data to identify trends, opportunities for improvement, and areas that require attention."
+    },
+    {
+      "duty": "Record and categorize expenses in Quickbooks and follow up on outstanding invoices or payments."
+    },
+    {
+      "duty": "Coordinate with different departments and liaise with external stakeholders, when necessary."
+    },
+    {
+      "duty": "Provide support in various projects, meetings, and events as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent."
+    },
+    {
+      "credential": "Proficiency in Microsoft Office Suite (MS Excel, MS Word, and Google Drive in particular)."
+    },
+    {
+      "credential": "Bilingual in English and Spanish is a plus."
+    },
+    {
+      "credential": "Quickbooks experience is desirable."
+    }
+  ]
+}

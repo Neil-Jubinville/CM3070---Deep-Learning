@@ -1,0 +1,126 @@
+{
+  "meta": [
+    {
+      "job_title": "Mule and Prototype IPC Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CAN Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Functional Requirements Development",
+      "experience": 3
+    },
+    {
+      "skill": "Electrical Engineering",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Science",
+      "experience": 3
+    },
+    {
+      "skill": "Network Topology Design",
+      "experience": 3
+    },
+    {
+      "skill": "CAN/LIN Network Signals Mapping",
+      "experience": 3
+    },
+    {
+      "skill": "Module Flashing and Configuration",
+      "experience": 3
+    },
+    {
+      "skill": "Vehicle Electrical Systems Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Bench Level Simulation",
+      "experience": 3
+    },
+    {
+      "skill": "Gateway Software Development",
+      "experience": 3
+    },
+    {
+      "skill": "CAN Vector Tools",
+      "experience": 3
+    },
+    {
+      "skill": "System Integration",
+      "experience": 3
+    },
+    {
+      "skill": "CAN FD and Ethernet Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Multimeter Use",
+      "experience": 3
+    },
+    {
+      "skill": "Oscilloscope Use",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Organization Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the design of CAN communication and development of functional requirements specific to mule and prototype vehicles."
+    },
+    {
+      "duty": "Modify vehicle mule and prototype network topology diagram."
+    },
+    {
+      "duty": "Develop gateway functional requirements to communicate between different CAN architectures."
+    },
+    {
+      "duty": "Modify and map CAN/LIN network signals."
+    },
+    {
+      "duty": "Flash, configure and calibrate modules to meet vehicle build requirements."
+    },
+    {
+      "duty": "Troubleshoot / triage vehicle electrical systems to support Mule and Prototype vehicle builds."
+    },
+    {
+      "duty": "Perform bench level simulation and testing to verify developed Gateway software."
+    },
+    {
+      "duty": "Drive identified issues to closure."
+    },
+    {
+      "duty": "Work with suppliers and Engineering Support teams as required to design and build mule and prototype vehicles."
+    },
+    {
+      "duty": "Participate in architecture, system, design release, wiring, networking, and manufacturing teams as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 130
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelors in Electrical Engineering, Computer Engineering, or Computer Science"
+    }
+  ]
+}

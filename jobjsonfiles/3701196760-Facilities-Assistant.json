@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Facilities Assistant",
+      "job_category": "Facilities",
+      "job_class": "Assistant",
+      "sector": "Facilities",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Facility Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    },
+    {
+      "skill": "Forklift Operation",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Groundskeeping",
+      "experience": 5
+    },
+    {
+      "skill": "HVAC Repair",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain facility cleanliness and perform building and equipment maintenance and repairs to company standards."
+    },
+    {
+      "duty": "Perform machine installation, light fabrication projects, and office remodel/demolition projects."
+    },
+    {
+      "duty": "Assist with essential and routine facility maintenance and repairs, as well as facility improvement projects."
+    },
+    {
+      "duty": "Work with or assist contractors to complete projects or complex repairs."
+    },
+    {
+      "duty": "Drive forklift and other facility vehicles, perform maintenance and upkeep on grounds and parking lots."
+    },
+    {
+      "duty": "Be available for emergencies and weather-related events, and respond to facility needs during off-hours, if needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent required. 3-5 years of experience in facility maintenance and repair."
+    }
+  ]
+}

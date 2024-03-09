@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Supply Technician",
+      "job_category": "Supply Chain",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Supply Receiving",
+      "experience": 2
+    },
+    {
+      "skill": "Cycle Counts",
+      "experience": 1
+    },
+    {
+      "skill": "Material Disbursement",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Documentation",
+      "experience": 2
+    },
+    {
+      "skill": "Restocking",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Receive, inventory, and conduct cycle counts for hospital supplies and materials."
+    },
+    {
+      "duty": "Inspect and unpack purchase orders, ensuring correctness, and store received supplies."
+    },
+    {
+      "duty": "Maintain inventory documentation and make stock record entries."
+    },
+    {
+      "duty": "Restock shelves with supplies and materials."
+    },
+    {
+      "duty": "Perform other duties as assigned."
+    }
+  ]
+}

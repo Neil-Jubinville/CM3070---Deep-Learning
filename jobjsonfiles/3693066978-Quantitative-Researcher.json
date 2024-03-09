@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Quantitative Researcher",
+      "job_category": "Research",
+      "job_class": "Researcher",
+      "sector": "Financial Services",
+      "salary": 200000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Quantitative Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Equity Markets",
+      "experience": 5
+    },
+    {
+      "skill": "Systematized Portfolio Risk Management",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Programming (KDB+, Java)",
+      "experience": 5
+    },
+    {
+      "skill": "Statistical Modelling",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct research on trade optimization and provide tools and data for risk management."
+    },
+    {
+      "duty": "Design, build, and maintain trade execution signals and monitor business metrics."
+    },
+    {
+      "duty": "Lead discussions about projects and generate ideas for potential areas of research."
+    },
+    {
+      "duty": "Develop and contribute to trading and research infrastructure such as alpha platform, Trading optimizer, Risk monitoring tools, Data strategy, and PNL attribution and reporting."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's degree in a relevant field"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Membership Coordinator",
+      "job_category": "Administration",
+      "job_class": "Coordinator",
+      "sector": "Administration",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Database Management",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 4
+    },
+    {
+      "skill": "Organization Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 4
+    },
+    {
+      "skill": "Administrative Support",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain complete and current membership records and related data in the appropriate membership database."
+    },
+    {
+      "duty": "Process and verify data for all new members before entering them into the appropriate database."
+    },
+    {
+      "duty": "Track membership trends throughout the year."
+    },
+    {
+      "duty": "Answer incoming calls and greet visitors."
+    },
+    {
+      "duty": "Serve as liaison to the Credentials and Elections Committees."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 70,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in a related field (Master's preferred)"
+    }
+  ]
+}

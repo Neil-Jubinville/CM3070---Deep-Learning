@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Fire Alarm Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Fire Protection",
+      "salary": 50000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Fire Alarm Installation",
+      "experience": 5
+    },
+    {
+      "skill": "Fire Equipment Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Low Voltage Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Inspect, service, and maintain various types of fire detection, fire alarm, and other low voltage systems."
+    },
+    {
+      "duty": "Perform installations, inspections, and service on a variety of fire protection equipment including fire detection, fire alarm, clean agent systems, CO2 suppression systems, etc."
+    },
+    {
+      "duty": "Test system functionality and verify signals."
+    },
+    {
+      "duty": "Seek out additional sales and service opportunities within existing customer locations."
+    },
+    {
+      "duty": "Develop long-term relationships with customers and maintain customer retention."
+    },
+    {
+      "duty": "Work efficiently with minimal supervision and demonstrate mechanical ability and basic hand tool knowledge."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school degree or equivalent"
+    },
+    {
+      "credential": "NICET license, preferred"
+    }
+  ]
+}

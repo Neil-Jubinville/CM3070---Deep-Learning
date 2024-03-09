@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Accountant",
+      "job_category": "Accounting",
+      "job_class": "Senior",
+      "sector": "Finance",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting Principles",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Balance Sheet Reconciliation",
+      "experience": 5
+    },
+    {
+      "skill": "QuickBooks Enterprise",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Excel",
+      "experience": 5
+    },
+    {
+      "skill": "General Ledger",
+      "experience": 5
+    },
+    {
+      "skill": "GAAP",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Data Management",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Timely and accurate daily maintenance, monthly, quarterly, and annual closing of accounting records."
+    },
+    {
+      "duty": "Preparing, reviewing entries and reconciliations."
+    },
+    {
+      "duty": "Performing financial statement reviews and analysis."
+    },
+    {
+      "duty": "Promoting process improvement initiatives."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting or Finance (Master's preferred)"
+    }
+  ]
+}

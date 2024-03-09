@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Clinical Research",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "ACLS Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform scheduled events according to the study protocol."
+    },
+    {
+      "duty": "Work directly with study managers to ensure a successful trial."
+    },
+    {
+      "duty": "Work with participants in the research process, doing vital sign checks, ECGs, blood draws, and telemetry monitoring."
+    },
+    {
+      "duty": "Identify and report adverse events to assist in the clinical research process."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current NE RN or LPN license"
+    },
+    {
+      "credential": "Bachelor's degree in Nursing (Master's preferred)"
+    },
+    {
+      "credential": "ACLS Certification"
+    }
+  ]
+}

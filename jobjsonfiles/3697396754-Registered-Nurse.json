@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 2
+    },
+    {
+      "skill": "Clinical Competence",
+      "experience": 2
+    },
+    {
+      "skill": "Delegation",
+      "experience": 2
+    },
+    {
+      "skill": "Supervision",
+      "experience": 2
+    },
+    {
+      "skill": "BLS Certification",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide holistic, quality, and cost-effective nursing care for patients/families with an awareness of the episode of care."
+    },
+    {
+      "duty": "Apply the nursing process within the context of the organization's Framework for Professional Practice."
+    },
+    {
+      "duty": "Function as clinically competent and delegate and supervise work appropriately."
+    },
+    {
+      "duty": "Report to Unit Manager."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current Connecticut RN License. Graduate of an accredited nursing school. Associate\u2019s degree required, Bachelor\u2019s degree preferred. BLS certification by the American Heart Association by date of hire."
+    }
+  ]
+}

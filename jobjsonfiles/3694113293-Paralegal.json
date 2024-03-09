@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Paralegal",
+      "job_category": "Legal",
+      "job_class": "Paralegal",
+      "sector": "Legal",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "E-filing",
+      "experience": 2
+    },
+    {
+      "skill": "Legal Document Preparation",
+      "experience": 2
+    },
+    {
+      "skill": "Document Management",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Word",
+      "experience": 2
+    },
+    {
+      "skill": "Legal Research",
+      "experience": 2
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Organize case filing systems and ensure proper sorting and easy document location"
+    },
+    {
+      "duty": "Prepare for trial by conducting legal research, organizing exhibits, coordinating witnesses, filing motions, and assisting with client meetings"
+    },
+    {
+      "duty": "Arrange law office activities such as drafting subpoenas and coordinating with process servers"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree in Paralegal Studies or equivalent certification (Bachelor's degree preferred)"
+    }
+  ]
+}

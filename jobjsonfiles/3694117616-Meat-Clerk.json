@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Meat Clerk",
+      "job_category": "Retail",
+      "job_class": "Clerk",
+      "sector": "Retail",
+      "salary": 19,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Food Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Math Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Physical Strength",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide a high level of customer service and practice safe food handling procedures in the meat department."
+    },
+    {
+      "duty": "Receive, store, and prepare meats; unload and transport fresh, cured, and boxed meats and poultry."
+    },
+    {
+      "duty": "Assist customers with questions, special orders, and product location throughout the store."
+    },
+    {
+      "duty": "Adhere to all safety, health, and company regulations in the meat department."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

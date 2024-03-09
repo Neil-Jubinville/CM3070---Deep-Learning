@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant District Attorney",
+      "job_category": "Legal",
+      "job_class": "Attorney",
+      "sector": "Legal",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Legal Research",
+      "experience": 5
+    },
+    {
+      "skill": "Case Preparation",
+      "experience": 5
+    },
+    {
+      "skill": "Courtroom Advocacy",
+      "experience": 5
+    },
+    {
+      "skill": "Criminal Law",
+      "experience": 5
+    },
+    {
+      "skill": "Legal Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Prosecution",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare and prosecute criminal cases before the courts under the supervision of the District Attorney or his designee."
+    },
+    {
+      "duty": "Appear in court and prosecute cases at hearings, trials, and/or Grand Jury."
+    },
+    {
+      "duty": "Conduct legal research, prepare cases, and advocate in the courtroom."
+    },
+    {
+      "duty": "Ensure compliance with all legal and ethical standards in the prosecution of cases."
+    },
+    {
+      "duty": "Assist in refining legal strategies and contributing to successful case outcomes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduation from an American Bar Association accredited law school."
+    },
+    {
+      "credential": "NYS License to practice law."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "meta": [
+    {
+      "job_title": "Azure Data Engineer",
+      "job_category": "Data Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Azure Databricks",
+      "experience": 4
+    },
+    {
+      "skill": "Spark",
+      "experience": 4
+    },
+    {
+      "skill": "Azure Data Factory",
+      "experience": 4
+    },
+    {
+      "skill": "Python / PySpark",
+      "experience": 4
+    },
+    {
+      "skill": "Software Engineering",
+      "experience": 4
+    },
+    {
+      "skill": "Algorithm Theory and Data Structures",
+      "experience": 4
+    },
+    {
+      "skill": "CICD Tools",
+      "experience": 2
+    },
+    {
+      "skill": "Relational and Non-Relational Databases",
+      "experience": 2
+    },
+    {
+      "skill": "NoSQL Databases",
+      "experience": 2
+    },
+    {
+      "skill": "Hadoop",
+      "experience": 1
+    },
+    {
+      "skill": "Data Hygiene Routines and Models",
+      "experience": 1
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop programs and tools to support data pipelines including ingestion, curation, and provisioning of data for analytics, reporting, and data science."
+    },
+    {
+      "duty": "Operationalize production pipelines using Azure Databricks, Spark, and Azure Data Factory."
+    },
+    {
+      "duty": "Collaborate with the development team and other Information Technology (IT) teams\u2019 developer leads."
+    },
+    {
+      "duty": "Initiate process improvements for new and existing systems."
+    },
+    {
+      "duty": "Code, test, debug, document, and implement complex software applications."
+    },
+    {
+      "duty": "Create prototypes and ensure deliverables are high quality and meet user expectations."
+    },
+    {
+      "duty": "Support system and integration testing activities."
+    },
+    {
+      "duty": "Initiate design reviews for new applications and adhere to software development standards."
+    },
+    {
+      "duty": "Coach and mentor other team members."
+    },
+    {
+      "duty": "Perform cross-training and facilitate information sharing among team members."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 110,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

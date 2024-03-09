@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Support Specialist",
+      "job_category": "Technology",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Desktop Tech Support",
+      "experience": 2
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide remote support for end user technology related issues and tickets."
+    },
+    {
+      "duty": "Handle 5-10 support tickets daily with varying levels of difficulty."
+    },
+    {
+      "duty": "Liaise effectively with end users and IT personnel to resolve issues."
+    },
+    {
+      "duty": "Communicate efficiently with supervisors and peers to provide updates on ticket resolution."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Information Technology or related field (preferred)"
+    }
+  ]
+}

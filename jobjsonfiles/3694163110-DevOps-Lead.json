@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "DevOps Lead",
+      "job_category": "Engineering",
+      "job_class": "Lead",
+      "sector": "Software Engineering",
+      "salary": 225000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "System Automation",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "GCP",
+      "experience": 5
+    },
+    {
+      "skill": "Azure",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "Docker",
+      "experience": 5
+    },
+    {
+      "skill": "Linux",
+      "experience": 5
+    },
+    {
+      "skill": "Networking Protocols",
+      "experience": 5
+    },
+    {
+      "skill": "Startup Experience",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build and manage systems, infrastructure, and applications through automation."
+    },
+    {
+      "duty": "Engage in and improve the whole lifecycle of services\u2014from inception and design through deployment, operation, and refinement."
+    },
+    {
+      "duty": "Support services before they go live through activities such as system design consulting, developing software platforms and frameworks, capacity planning, and launch reviews."
+    },
+    {
+      "duty": "Maintain services once they are live by measuring and monitoring availability, latency, and overall system health."
+    },
+    {
+      "duty": "Scale systems sustainably through mechanisms like automation, and evolve systems by pushing for changes that improve reliability and velocity."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": []
+}

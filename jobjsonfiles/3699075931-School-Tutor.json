@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "School Tutor",
+      "job_category": "Education",
+      "job_class": "Tutor",
+      "sector": "Education",
+      "salary": 30000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Patience",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 4
+    },
+    {
+      "skill": "Teaching",
+      "experience": 5
+    },
+    {
+      "skill": "Adaptability",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide consistent and personalized tutoring to students who are struggling or one to two grade levels behind."
+    },
+    {
+      "duty": "Personalize lessons for each student based on their learning needs and style."
+    },
+    {
+      "duty": "Use excellent communication skills to engage with students in a friendly and approachable manner."
+    },
+    {
+      "duty": "Tutor online using Varsity Tutors' purpose-built Live Learning Platform."
+    },
+    {
+      "duty": "Explore options like 1-on-1 Online Tutoring, Small Group Classes, Large Live Classes, and Instant Tutoring to reach students."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 160,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Education or related field (Master's preferred)"
+    }
+  ]
+}

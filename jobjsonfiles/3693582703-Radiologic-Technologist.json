@@ -1,0 +1,51 @@
+{
+  "meta": [
+    {
+      "job_title": "Radiologic Technologist",
+      "job_category": "Healthcare",
+      "job_class": "Technologist",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Radiographic Procedure",
+      "experience": 5
+    },
+    {
+      "skill": "Independent Judgement",
+      "experience": 5
+    },
+    {
+      "skill": "Initiative",
+      "experience": 5
+    },
+    {
+      "skill": "Radiologic Technology",
+      "experience": 5
+    },
+    {
+      "skill": "Licensure and Certification",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform a variety of radiographic procedures for diagnosis and treatment that require independent judgement, ingenuity, and initiative."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Satisfactory completion of a radiologic technology program accredited by an agency accepted by ARRT. Must be registered by the ARRT or registry-eligible and obtain registry within six months of employment. Must hold a current license from the state of Florida as a certified radiologic technologist."
+    }
+  ]
+}

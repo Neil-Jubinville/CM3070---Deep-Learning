@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Service Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Software Engineering",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Biomedical Technology",
+      "experience": 2
+    },
+    {
+      "skill": "IT Support",
+      "experience": 2
+    },
+    {
+      "skill": "Hardware Repair",
+      "experience": 3
+    },
+    {
+      "skill": "Device Calibration",
+      "experience": 2
+    },
+    {
+      "skill": "Software Update",
+      "experience": 3
+    },
+    {
+      "skill": "Healthcare Experience",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Troubleshoot and repair medical devices inside hospitals and other clinical settings."
+    },
+    {
+      "duty": "Perform hardware parts replacement, software updates, and calibrations."
+    },
+    {
+      "duty": "Conduct preventative maintenance and assist in the installation of new devices at customer locations."
+    },
+    {
+      "duty": "Perform routine system checks, record data from product tests, and maintain stock of parts and tools."
+    },
+    {
+      "duty": "Travel locally and be available on-call, including nights and weekends."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's or Bachelor's degree in a related field (e.g. Biomedical Technology, Engineering, IT)"
+    }
+  ]
+}

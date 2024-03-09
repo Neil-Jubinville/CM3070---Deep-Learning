@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Pediatric Hospitalist",
+      "job_category": "Healthcare",
+      "job_class": "Medical Professional",
+      "sector": "Healthcare",
+      "salary": 180000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Newborn Care",
+      "experience": 5
+    },
+    {
+      "skill": "Neonatology",
+      "experience": 5
+    },
+    {
+      "skill": "General Pediatrics",
+      "experience": 5
+    },
+    {
+      "skill": "EMR Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Communication with Pediatricians",
+      "experience": 5
+    },
+    {
+      "skill": "NICU Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Providing care for well newborns >/= 35 weeks and > 1800 gms in NBN only"
+    },
+    {
+      "duty": "Conducting daily rounds on infants in NBN"
+    },
+    {
+      "duty": "Communicating with general pediatricians and/or subspecialists if needed"
+    },
+    {
+      "duty": "Documenting in hospital EMR (Cerner)"
+    },
+    {
+      "duty": "Managing infants requiring monitoring or advanced care by NICU team in NICU"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 20
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BE/BC (Board Eligible/Board Certified) in Pediatrics"
+    }
+  ]
+}

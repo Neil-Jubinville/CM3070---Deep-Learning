@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Driver - Local Delivery (Class A w/Hazmat)",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Transportation",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Commercial Driving",
+      "experience": 5
+    },
+    {
+      "skill": "Hazmat Handling",
+      "experience": 5
+    },
+    {
+      "skill": "Vehicle Inspection",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Material Handling",
+      "experience": 5
+    },
+    {
+      "skill": "Route Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform pre-trip and post-trip vehicle inspections."
+    },
+    {
+      "duty": "Load and unload the truck daily with gas cylinders & supplies."
+    },
+    {
+      "duty": "Maintain courteous & professional relationships with customers."
+    },
+    {
+      "duty": "Make deliveries in a timely manner."
+    },
+    {
+      "duty": "Comply with safety regulations and follow hazmat handling procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid TX Class A or B Commercial Driver's License."
+    },
+    {
+      "credential": "Valid Medical Examiner's Card."
+    },
+    {
+      "credential": "Hazmat & Airbrake Certifications."
+    },
+    {
+      "credential": "Diploma from an accredited driving school (if less than 1 year of driving experience)."
+    }
+  ]
+}

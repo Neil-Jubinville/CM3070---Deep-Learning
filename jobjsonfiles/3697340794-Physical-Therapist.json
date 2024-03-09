@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Physical Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Rehabilitation Therapy",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Therapy",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Evaluation",
+      "experience": 5
+    },
+    {
+      "skill": "Rehabilitation Therapy",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Therapy Program Management",
+      "experience": 5
+    },
+    {
+      "skill": "Supervision",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Evaluate and treat patients with medically prescribed physical therapy programs."
+    },
+    {
+      "duty": "Supervise Physical Therapy Assistants and make initial admission/evaluation visits."
+    },
+    {
+      "duty": "Notify assigned Clinical Team Manager of OASIS scores within established timelines."
+    },
+    {
+      "duty": "Document observations, clinical findings, problems, skilled interventions/treatments, goals and discharge plans."
+    },
+    {
+      "duty": "Perform other duties as assigned consistent with skills and training for this position in alignment with the goals and mission of the organization."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctorate in Physical Therapy (DPT) or Master's degree in Physical Therapy"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Tax Specialist",
+      "job_category": "Accounting",
+      "job_class": "Specialist",
+      "sector": "Finance",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tax Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Tax Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Sales and Marketing",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Complete individual tax returns and ensure compliance with IRS and state requirements."
+    },
+    {
+      "duty": "Communicate effectively in person and in writing in a fast-paced environment."
+    },
+    {
+      "duty": "Stay updated with tax laws and regulations to provide accurate tax planning and audit support."
+    },
+    {
+      "duty": "Sales and marketing of tax services to potential clients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting or related field (CPA preferred)"
+    },
+    {
+      "credential": "H&R Block Tax Knowledge Assessment or Income Tax Course completion"
+    }
+  ]
+}

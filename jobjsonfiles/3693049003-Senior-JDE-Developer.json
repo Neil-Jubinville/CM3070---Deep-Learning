@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior JDE Developer",
+      "job_category": "IT",
+      "job_class": "Developer",
+      "sector": "Digital Transformation and Mergers & Acquisitions",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "JDE Development",
+      "experience": 7
+    },
+    {
+      "skill": "Code Migration",
+      "experience": 7
+    },
+    {
+      "skill": "Crystal Management Console (CMC)",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Understand and assess code in current OneWorld configuration"
+    },
+    {
+      "duty": "Determine complexity of migration effort from OneWorld to EnterpriseOne"
+    },
+    {
+      "duty": "Develop coding required to perform migration"
+    },
+    {
+      "duty": "Complete EntepriseOne configuration as required"
+    }
+  ]
+}

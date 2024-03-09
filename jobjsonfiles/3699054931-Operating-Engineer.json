@@ -1,0 +1,93 @@
+{
+  "meta": [
+    {
+      "job_title": "Operating Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Facilities",
+      "salary": 33,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Equipment Operation",
+      "experience": 5
+    },
+    {
+      "skill": "Repair and Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Expertise",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Expertise",
+      "experience": 5
+    },
+    {
+      "skill": "Computerized Maintenance Management Systems (CMMS)",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Procedures",
+      "experience": 5
+    },
+    {
+      "skill": "Building Monitoring System (BMS) Operation",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation and Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Workplace Safety",
+      "experience": 5
+    },
+    {
+      "skill": "Basic Computing Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate, repair, and troubleshoot equipment in Lab, Hospital, or Food Processing facilities."
+    },
+    {
+      "duty": "Execute and oversee the implementation of site-specific procedures and emergency operation procedures."
+    },
+    {
+      "duty": "Maintain a safe work environment and adhere to all company guidelines and OSHA safety requirements."
+    },
+    {
+      "duty": "Perform other job-related duties as assigned by site management."
+    },
+    {
+      "duty": "May be required to work evenings, weekends, and overtime."
+    },
+    {
+      "duty": "Manage inventory and track supplies, equipment, tools, and machinery."
+    },
+    {
+      "duty": "Complete rounds/inspections efficiently and detect anomalies during those rounds."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 10,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of apprentice program or trade school (Journeyman Level) or equivalent experience in a Lab, Hospital/healthcare, or food processing facility."
+    }
+  ]
+}

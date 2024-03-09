@@ -1,0 +1,31 @@
+{
+  "meta": [
+    {
+      "job_title": "Physical Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assess each patient and develop an appropriate treatment plan with measurable goals and time frames"
+    },
+    {
+      "duty": "Prepare and submit clinical and progress summaries based on identified and attained goals"
+    },
+    {
+      "duty": "Ensure that other treating medical professionals have the necessary information to appropriately evaluate the patient"
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's, Master's or Doctor's degree of an accredited physical therapy curriculum"
+    },
+    {
+      "credential": "Certification in Physical Therapy and valid state license to practice"
+    }
+  ]
+}

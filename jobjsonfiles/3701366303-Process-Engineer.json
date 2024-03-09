@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Process Engineer",
+      "job_category": "Engineering",
+      "job_class": "Entry Professional",
+      "sector": "Manufacturing",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Lean Manufacturing",
+      "experience": 2
+    },
+    {
+      "skill": "Six Sigma",
+      "experience": 2
+    },
+    {
+      "skill": "Engineering Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Technical Problem Solving",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Analyze manufacturing process flows and related data to continuously enhance safety, quality, cost reduction, and through-put."
+    },
+    {
+      "duty": "Perform various engineering tasks involving such functions as analysis, design, development, test, installation, and service, while working from instructions, drawings, proposals, specifications, and other pertinent information."
+    },
+    {
+      "duty": "Participate in the investigation of technical problems and the establishment of procedures and corrective actions to avoid recurrences."
+    },
+    {
+      "duty": "Provide support to production during the internal/external process/equipment start-up, defining action plans and training relevant maintenance and production resources."
+    },
+    {
+      "duty": "Evaluate new process technologies to improve safety, quality, productivity, and cost reduction, defining and leading testing activities, approval criteria, and external provider choices."
+    },
+    {
+      "duty": "Define and execute CapEx (Capital Expenditure) initiatives."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in engineering or related field and up to 2 years of experience."
+    },
+    {
+      "credential": "Prefer lean manufacturing training and recent experience working with lean manufacturing, Six Sigma, and methodologies such as: Kaizen, 4Q, Process Improvement, Continuous Improvement, DMAIC, Gemba, Etc."
+    },
+    {
+      "credential": "Six Sigma Green or Black Belt certification preferred, but not required."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "meta": [
+    {
+      "job_title": "Database Administrator",
+      "job_category": "Technology",
+      "job_class": "Administrator",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Relational Database Management Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Cassandra Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Redis (Caching Database)",
+      "experience": 3
+    },
+    {
+      "skill": "PostgreSQL",
+      "experience": 3
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle DBA",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Performance Tuning",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle Goldengate Replication",
+      "experience": 3
+    },
+    {
+      "skill": "Server Clustering",
+      "experience": 3
+    },
+    {
+      "skill": "Oracle Real Application Clusters",
+      "experience": 5
+    },
+    {
+      "skill": "DataStax Enterprise Cassandra Cluster Management",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Research and Evaluation",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation Management",
+      "experience": 5
+    },
+    {
+      "skill": "Project Support",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Liaison",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage and plan the administration, installation, configuration, support, and maintenance of all application and database components."
+    },
+    {
+      "duty": "Apply database administration, management, and performance tuning techniques."
+    },
+    {
+      "duty": "Configure Oracle Goldengate replication and provide technical troubleshooting for applications and database systems."
+    },
+    {
+      "duty": "Participate in design and application review sessions, assist with definition of computing standards, and recommend policies related to those standards."
+    },
+    {
+      "duty": "Configure and tune hardware and software to ensure optimum performance and resource utilization."
+    },
+    {
+      "duty": "Understand server clustering techniques and their impact on database configuration and performance."
+    },
+    {
+      "duty": "Manage standby databases, snapshots, and other advanced database features."
+    },
+    {
+      "duty": "Manage Oracle Real Application Clusters (RAC) and write and maintain documentation describing changes and modifications to all systems and databases."
+    },
+    {
+      "duty": "Participate in meetings and conference calls related to project and troubleshooting activities."
+    },
+    {
+      "duty": "Perform exports, backups, and data extracts as required, manage Multiple DataStax Enterprise Cassandra cluster."
+    },
+    {
+      "duty": "Research solutions to various business and technical problems, evaluate alternatives, and present recommendations and justifications to management."
+    },
+    {
+      "duty": "Act as technical liaison in support for database related project activities and develop a strong working knowledge of key applications and their interaction with the database(s)."
+    },
+    {
+      "duty": "Manage other Duties/Projects as assigned by business management as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BA/BS degree in computer engineering, computer science, or related field. 5 years of related experience is desired."
+    }
+  ]
+}

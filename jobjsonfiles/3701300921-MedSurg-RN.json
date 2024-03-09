@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "MedSurg RN",
+      "job_category": "Nursing",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Healthcare Technology",
+      "experience": 2
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Decision Making",
+      "experience": 2
+    },
+    {
+      "skill": "Compassion",
+      "experience": 2
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide direct patient care, including assessment, planning, and implementation of evidence-based interventions."
+    },
+    {
+      "duty": "Monitor, record, and report changes in patient condition."
+    },
+    {
+      "duty": "Administer medications and treatments as prescribed by the physician."
+    },
+    {
+      "duty": "Educate patients and their families on disease prevention and post-hospital treatment management."
+    },
+    {
+      "duty": "Collaborate with other healthcare professionals to create and implement effective patient care plans."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (Master's preferred)"
+    }
+  ]
+}

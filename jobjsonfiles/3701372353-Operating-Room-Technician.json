@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Operating Room Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AHA Basic Life Support",
+      "experience": 2
+    },
+    {
+      "skill": "Operating Room Technician Certification",
+      "experience": 2
+    },
+    {
+      "skill": "Surgical Technologist Certification",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 4
+    },
+    {
+      "skill": "Instrument Handling",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Care",
+      "experience": 4
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 4
+    },
+    {
+      "skill": "Time Management",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provides specific patient care duties and performs unit support activities in the operating room suite."
+    },
+    {
+      "duty": "Updates surgeon preference card per entity specific processes and complies with all count policies and procedures."
+    },
+    {
+      "duty": "Accountable that instrument trays match the instrument list provided in tray and escalates when incomplete."
+    },
+    {
+      "duty": "Adheres to National Patient Safety Goals and demonstrates knowledge of procedures by anticipating needs prior and during each case."
+    },
+    {
+      "duty": "Assists in achieving department expense per unit of service through judicious use of supplies."
+    },
+    {
+      "duty": "Works additional or different shifts as requested, and assists with new employee orientation and training of students."
+    },
+    {
+      "duty": "Utilizes down time effectively including, assisting other staff, restocking of rooms, and instrument processing."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "AHA Basic Life Support for Healthcare Professional (AHA BLS Healthcare) - American Heart Association -REQUIRED"
+    },
+    {
+      "credential": "Approved program for Operating Room Technicians or demonstrated technical skills through on the job training"
+    }
+  ]
+}

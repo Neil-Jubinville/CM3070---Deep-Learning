@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Store Manager",
+      "job_category": "Retail",
+      "job_class": "Manager",
+      "sector": "Retail",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Retail Management",
+      "experience": 5
+    },
+    {
+      "skill": "Merchandising",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Control",
+      "experience": 5
+    },
+    {
+      "skill": "Staff Management",
+      "experience": 5
+    },
+    {
+      "skill": "Guest Services",
+      "experience": 5
+    },
+    {
+      "skill": "Seasonal Store Operations",
+      "experience": 5
+    },
+    {
+      "skill": "Physical Demands Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee the total operation of the store, ensuring maximum sales and profitability through effective guest services and expense control."
+    },
+    {
+      "duty": "Manage shrink, merchandising, and inventory control, as well as staffing and setup/pack-up of a seasonal store."
+    },
+    {
+      "duty": "Enforce the minimum age requirement of 21 and maintain a flexible schedule for the team."
+    },
+    {
+      "duty": "Manage physical demands of the job, including standing/walking, climbing ladders, setting up fixtures, and lifting/moving up to 50 pounds."
+    },
+    {
+      "duty": "Utilize prior retail management experience to lead and guide the store team towards success."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Prior experience and knowledge in retail management"
+    }
+  ]
+}

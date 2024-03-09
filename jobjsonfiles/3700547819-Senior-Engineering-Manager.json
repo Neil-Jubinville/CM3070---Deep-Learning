@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Engineering Manager",
+      "job_category": "Engineering",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 220000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Leadership",
+      "experience": 6
+    },
+    {
+      "skill": "Software Development",
+      "experience": 6
+    },
+    {
+      "skill": "Service-Oriented Architecture",
+      "experience": 6
+    },
+    {
+      "skill": "Data Structures and Algorithms",
+      "experience": 6
+    },
+    {
+      "skill": "SaaS Development",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and manage engineering team thru design, development, testing, and delivery of software applications and services using service-oriented architecture."
+    },
+    {
+      "duty": "Champion a culture of high ownership, provide technical leadership, and partner closely with other engineering teams and product management."
+    },
+    {
+      "duty": "Maintain a healthy sense of urgency, continually improving engineering processes and architecture."
+    },
+    {
+      "duty": "Solve complex problems, establish a high engineering bar, and value execution to drive highly impactful outcomes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 200,
+      "student_teacher": 150,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in computer science or related field (Master's preferred)"
+    }
+  ]
+}

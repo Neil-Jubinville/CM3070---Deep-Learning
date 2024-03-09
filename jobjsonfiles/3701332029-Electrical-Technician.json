@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 36000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "PCB Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Soldering and De-soldering",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Data Interpretation",
+      "experience": 3
+    },
+    {
+      "skill": "Electrical Circuitry",
+      "experience": 3
+    },
+    {
+      "skill": "English Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 3
+    },
+    {
+      "skill": "Diagnostic Tools",
+      "experience": 3
+    },
+    {
+      "skill": "Test Equipment Operation",
+      "experience": 3
+    },
+    {
+      "skill": "MS Office",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Test a variety of electronic units using prescribed test procedures"
+    },
+    {
+      "duty": "Set up and operate various test stands (automated and manual)"
+    },
+    {
+      "duty": "Interpret and record test results"
+    },
+    {
+      "duty": "Recognize and isolate test equipment failures"
+    },
+    {
+      "duty": "Use diagnostic tools to troubleshoot electronic units to the sub-assembly and component level"
+    },
+    {
+      "duty": "Read and interpret technical data such as engineering prints and schematics"
+    },
+    {
+      "duty": "Communicate work status to team members and support staff"
+    },
+    {
+      "duty": "Understand theory of electronic circuitry and electrical components"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED equivalent"
+    }
+  ]
+}

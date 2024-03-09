@@ -1,0 +1,49 @@
+{
+  "meta": [
+    {
+      "job_title": "Car Detailer",
+      "job_category": "Automotive",
+      "job_class": "Entry Level",
+      "sector": "Automotive",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Vehicle Detailing",
+      "experience": 1
+    },
+    {
+      "skill": "Shop Assistance",
+      "experience": 1
+    },
+    {
+      "skill": "Good Driving Record",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Wash and Detail Vehicles"
+    },
+    {
+      "duty": "Assist in Projects in the Shop"
+    },
+    {
+      "duty": "Drive to Scheduled Locations with Company Supplied Vehicles"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma/GED not required"
+    }
+  ]
+}

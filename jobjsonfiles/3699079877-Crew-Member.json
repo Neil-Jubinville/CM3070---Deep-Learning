@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Crew Member",
+      "job_category": "Retail",
+      "job_class": "Entry Level",
+      "sector": "Retail",
+      "salary": 26000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Stocking",
+      "experience": 1
+    },
+    {
+      "skill": "Food Prep",
+      "experience": 1
+    },
+    {
+      "skill": "Food Safety",
+      "experience": 1
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 1
+    },
+    {
+      "skill": "Positive Attitude",
+      "experience": 1
+    },
+    {
+      "skill": "Multi-tasking",
+      "experience": 1
+    },
+    {
+      "skill": "Health Code Guidelines",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Handle cash transactions, fuel transactions, cleaning, and stocking items."
+    },
+    {
+      "duty": "Perform food prep tasks and ensure foodservice safety for specific roles."
+    },
+    {
+      "duty": "Interact with customers in a friendly and professional manner."
+    },
+    {
+      "duty": "Maintain a clean and customer-ready store environment."
+    },
+    {
+      "duty": "Promote and handle loyalty program rewards for customers."
+    },
+    {
+      "duty": "Follow proper health code guidelines and ensure food preparation meets standards."
+    },
+    {
+      "duty": "Perform repeated bending, standing, reaching, and occasionally lift up to 50 pounds."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 20,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

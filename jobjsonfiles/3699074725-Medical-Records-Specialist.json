@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Records Specialist",
+      "job_category": "Healthcare",
+      "job_class": "Specialist",
+      "sector": "Healthcare",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Health Information Management",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Records Management",
+      "experience": 3
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 3
+    },
+    {
+      "skill": "Records Retrieval",
+      "experience": 3
+    },
+    {
+      "skill": "Birth Certificate Processing",
+      "experience": 2
+    },
+    {
+      "skill": "E.H.R. Software",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform duties in support of the management of patient folder workflow, resolving unbilled accounts, routine data entry, and retrieving medical records."
+    },
+    {
+      "duty": "Facilitate the retrieval and printing of medical records, as well as the storage, archival, and record retention of documents."
+    },
+    {
+      "duty": "Assist with physician system use-related questions, setting up review queues, and providing training."
+    },
+    {
+      "duty": "Resolve accounts assigned to various work queues which require research and analysis to determine appropriate actions."
+    },
+    {
+      "duty": "Process birth certificates as required by state law, answering phones, and processing incoming mail."
+    }
+  ],
+  "_subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school graduate or equivalent preferred. Completion of a certification program may be required for Birth Certificate processing; training will be provided."
+    }
+  ]
+}

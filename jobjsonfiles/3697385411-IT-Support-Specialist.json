@@ -1,0 +1,119 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Support Specialist",
+      "job_category": "Information Technology",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Address user tickets regarding user hardware and software."
+    },
+    {
+      "duty": "Assist with installing and supporting applications and peripherals."
+    },
+    {
+      "duty": "Design and maintain PC images and deployment tasks."
+    },
+    {
+      "duty": "Image and deploy PC, Mac, and some Mobile hardware."
+    },
+    {
+      "duty": "Maintain accurate equipment inventory, licensing, and warranty documentation."
+    },
+    {
+      "duty": "Work with other members of the Infrastructure Team to assist users with issues with server or networking configurations."
+    },
+    {
+      "duty": "Create documentation and support documents for both end-users and the Service Desk."
+    },
+    {
+      "duty": "Assist users with training of hardware and software usage."
+    },
+    {
+      "duty": "Update users and computer objects in on-prem and Azure Active Directory."
+    },
+    {
+      "duty": "Configuration, deployment, and support of the Microsoft 365 Business suite."
+    },
+    {
+      "duty": "Configuration and deployment of security tools such as EDR/AV solutions."
+    },
+    {
+      "duty": "Basic support of security tasks including responding to alerts from security tools."
+    },
+    {
+      "duty": "Support and management of macOS, iOS, and iPadOS devices including configuration and app deployment and continued support."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "IT Support",
+      "experience": 5
+    },
+    {
+      "skill": "Endpoint Support",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft 365 Business",
+      "experience": 5
+    },
+    {
+      "skill": "Hardware Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Software Deployment",
+      "experience": 5
+    },
+    {
+      "skill": "Security Task Triage",
+      "experience": 5
+    },
+    {
+      "skill": "MacOS Support",
+      "experience": 5
+    },
+    {
+      "skill": "iOS and iPadOS Support",
+      "experience": 5
+    },
+    {
+      "skill": "Active Directory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Security Tools Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "Device Management",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Azure",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate degree in Computer Science, Information Technology, or related field or equivalent work experience"
+    }
+  ]
+}

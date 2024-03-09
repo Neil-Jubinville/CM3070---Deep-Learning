@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Office Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 20,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Venipuncture",
+      "experience": 1
+    },
+    {
+      "skill": "EKG",
+      "experience": 1
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 1
+    },
+    {
+      "skill": "Phlebotomy",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Transcription",
+      "experience": 1
+    },
+    {
+      "skill": "Appointment Scheduling",
+      "experience": 1
+    },
+    {
+      "skill": "Healthcare Administration",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Records Management",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Insurance Verification",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in patient care responsibilities as assigned, including performing venipuncture, EKGs, managing patient flow, and assisting patients with various needs."
+    },
+    {
+      "duty": "Assist physicians with procedures, take vital signs, relay instructions to patients/families, and provide necessary information."
+    },
+    {
+      "duty": "Fulfill clerical responsibilities, receive patient records, obtain lab/x-ray reports and hospital notes, and complete forms as needed."
+    },
+    {
+      "duty": "Enter orders into EMR system, prepare prescription refill requests, and manage medical supplies inventory."
+    },
+    {
+      "duty": "Maintain examination rooms and instruments in accordance with proper sterilization techniques, and ensuring a safe and healthy work environment."
+    },
+    {
+      "duty": "Assist in maintaining medical charts, scheduling surgeries/procedures, and performing phlebotomy duties as required."
+    },
+    {
+      "duty": "Update patient demographic and insurance information, and perform verification and pre-certification for procedures."
+    },
+    {
+      "duty": "Perform other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 90,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certificate of Medical Assistant training or equivalent"
+    },
+    {
+      "credential": "Heartsaver Certification from American Heart Association and/or BCLS"
+    }
+  ]
+}

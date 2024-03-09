@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Roll-Off Driver",
+      "job_category": "Driver",
+      "job_class": "Driver",
+      "sector": "Transportation",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Commercial Driving",
+      "experience": 3
+    },
+    {
+      "skill": "Vehicle Inspection",
+      "experience": 3
+    },
+    {
+      "skill": "Route Navigation",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Interaction",
+      "experience": 3
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate a roll-off truck to collect and deliver waste from customer sites to post-collection facilities."
+    },
+    {
+      "duty": "Conduct daily pre- and post-trip inspections, complete vehicle condition reports, and interact courteously with customers along the route."
+    },
+    {
+      "duty": "Maintain a clean customer site and safety along roads and highways, and submit required reports as per company policy and regulations."
+    },
+    {
+      "duty": "Use map and GPS to locate service addresses, follow safe operating practices, and ensure proper operation of the truck."
+    },
+    {
+      "duty": "Monitor operations, maintain vehicle cleanliness, and report incidents or accidents to supervisors immediately."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED (Commercial Driver's License required)"
+    }
+  ]
+}

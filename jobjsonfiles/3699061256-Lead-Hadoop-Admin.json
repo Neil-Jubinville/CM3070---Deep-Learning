@@ -1,0 +1,104 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Hadoop Admin",
+      "job_category": "Information Technology",
+      "job_class": "Admin",
+      "sector": "Software Engineering",
+      "salary": 145000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Hadoop Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Monitoring and Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Cluster Management",
+      "experience": 5
+    },
+    {
+      "skill": "Infrastructure Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Performance Tuning",
+      "experience": 5
+    },
+    {
+      "skill": "Capacity Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Linux/Unix Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Programming Language (Python/Scala/Java/R)",
+      "experience": 5
+    },
+    {
+      "skill": "Hadoop Ecosystem (Map Reduce, Hive, Pig, Spark, Kafka, HBase, HDFS, H-catalog, Zookeeper, Oozie/Airflow)",
+      "experience": 5
+    },
+    {
+      "skill": "SQL and NoSQL Databases (HBASE)",
+      "experience": 5
+    },
+    {
+      "skill": "Tool Integration and Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Configuration Management (GIT, Jira)",
+      "experience": 5
+    },
+    {
+      "skill": "Communication and Presentation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for implementation and ongoing administration of Hadoop infrastructure."
+    },
+    {
+      "duty": "Manage the life cycle of multiple Hadoop clusters and perform infrastructure monitoring, logging, and alerting."
+    },
+    {
+      "duty": "Performance tuning of Hadoop clusters and capacity planning at application/queue level."
+    },
+    {
+      "duty": "Monitor Hadoop cluster connectivity, security, and file system management."
+    },
+    {
+      "duty": "Investigate and analyze new technical possibilities, tools, and techniques to reduce complexity, improve delivery process, and increase business value."
+    },
+    {
+      "duty": "Fix issues, perform RCA, and suggest solutions for infrastructure/service components. Collaborate with application teams to install updates, patches, and version upgrades."
+    },
+    {
+      "duty": "Maintain central dashboards for system, data, utilization, and availability metrics."
+    },
+    {
+      "duty": "Meet Service Level Agreement (SLA) targets and ensure all changes to Production systems are planned and approved."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

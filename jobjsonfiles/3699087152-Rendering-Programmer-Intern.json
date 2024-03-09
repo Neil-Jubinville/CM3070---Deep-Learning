@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Rendering Programmer Intern",
+      "job_category": "Engineering",
+      "job_class": "Intern",
+      "sector": "Software Engineering",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C++",
+      "experience": 2
+    },
+    {
+      "skill": "Real-time Rendering",
+      "experience": 2
+    },
+    {
+      "skill": "3D Math",
+      "experience": 2
+    },
+    {
+      "skill": "Graphics API",
+      "experience": 2
+    },
+    {
+      "skill": "Shader Development",
+      "experience": 2
+    },
+    {
+      "skill": "Performance Optimization",
+      "experience": 2
+    },
+    {
+      "skill": "Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support rendering features for the Unreal Engine rendering team, contributing innovative and original ideas towards all aspects of graphics development."
+    },
+    {
+      "duty": "Enhance and maintain the graphics of Unreal Engine while creating new features."
+    },
+    {
+      "duty": "Implement and improve Unreal Engine graphics pipelines."
+    },
+    {
+      "duty": "Optimize performance of features on multiple platforms."
+    },
+    {
+      "duty": "Manage and enhance tools that go along with features; ensuring they are usable and appropriate for artists, games, and the engine."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Advanced Degree in CS, Game Development, or related field with focus on rendering or image synthesis"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 115000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "JavaScript",
+      "experience": 4
+    },
+    {
+      "skill": "Node.js",
+      "experience": 4
+    },
+    {
+      "skill": "HTML / CSS",
+      "experience": 4
+    },
+    {
+      "skill": ".NET Framework",
+      "experience": 4
+    },
+    {
+      "skill": "MVC",
+      "experience": 4
+    },
+    {
+      "skill": "Entity Framework",
+      "experience": 4
+    },
+    {
+      "skill": "OData",
+      "experience": 4
+    },
+    {
+      "skill": "React + Redux",
+      "experience": 4
+    },
+    {
+      "skill": "SQL / Relational Databases",
+      "experience": 4
+    },
+    {
+      "skill": "REST APIs",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Code, test, and implement products for Accruent\u2019s Maintenance Connection Enterprise Asset Management software suite."
+    },
+    {
+      "duty": "Mentor entry-level Software Associates and review technical requirements."
+    },
+    {
+      "duty": "Develop code in a variety of programming languages for a web-based enterprise application."
+    },
+    {
+      "duty": "Create product using a 'test-driven design' approach."
+    },
+    {
+      "duty": "Ensure all enhancements, bug fixes, and new products are documented."
+    },
+    {
+      "duty": "Work with various teams to ensure project requirements are met."
+    },
+    {
+      "duty": "Teach non-technical customers about the code."
+    },
+    {
+      "duty": "Participate in a Development team responsible for developing quality software."
+    },
+    {
+      "duty": "Demonstrate Accruent\u2019s values: grit, integrity, drive to excellence, results orientation, winning attitude, humility."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 95,
+      "student_teacher": 70,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in Computer Science or equivalent experience"
+    }
+  ]
+}

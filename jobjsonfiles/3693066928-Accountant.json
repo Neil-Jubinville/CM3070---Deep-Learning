@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "Accountant",
+      "job_category": "Accounting",
+      "job_class": "Accountant",
+      "sector": "Manufacturing",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Manufacturing Accounting",
+      "experience": 7
+    },
+    {
+      "skill": "Cost Accounting",
+      "experience": 7
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 7
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 7
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee A/R, A/P, inventory accounting, and monthly close processes."
+    },
+    {
+      "duty": "Execute critical thinking for problem-solving and decision making."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting, CPA preferred"
+    }
+  ]
+}

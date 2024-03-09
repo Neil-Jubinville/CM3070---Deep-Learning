@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "NetSuite Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Resource Allocation",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 5
+    },
+    {
+      "skill": "ERP Implementation Methodologies",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Effectively oversee and deliver successful NetSuite implementation projects within the software and services vertical."
+    },
+    {
+      "duty": "Plan and manage project resources, allocation, and risk management."
+    },
+    {
+      "duty": "Utilize ERP implementation methodologies and best practices to achieve project deliverables."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Project Management Professional (PMP) certification"
+    },
+    {
+      "credential": "Bachelor's degree in Software Engineering, Management, or related field"
+    }
+  ]
+}

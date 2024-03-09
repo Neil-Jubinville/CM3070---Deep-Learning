@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Accounting Manager",
+      "job_category": "Accounting",
+      "job_class": "Manager",
+      "sector": "Finance",
+      "salary": 125000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Research",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Accounting Standards (GAAP/IFRS)",
+      "experience": 5
+    },
+    {
+      "skill": "SOX Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Cashflow Management",
+      "experience": 5
+    },
+    {
+      "skill": "Audit and Financial Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform technical research and consult with management and the external auditors to ensure that proper accounting treatment is applied and documented for all transactions, including unusual and non-recurring transactions in accordance with Generally Accepted Accounting Principles (GAAP) and International Financial Reporting Standards (IFRS)"
+    },
+    {
+      "duty": "Create and maintain professional accounting memorandums required by for Audit and quarterly reviews"
+    },
+    {
+      "duty": "Serve as an internal technical accounting resource and help implement new and emerging Financial Accounting Standards Board (FASB) and Securities and Exchange Commission (SEC) accounting pronouncements as well as assess the accounting impact on the current disclosures"
+    },
+    {
+      "duty": "Manage and develop the technical accounting aspect of the global accounting manual and policies"
+    },
+    {
+      "duty": "Research and documentation of technical accounting inquiries and related disclosure requirements for all non-recurring and complex transactions"
+    },
+    {
+      "duty": "Participate in SOX 404 efforts, including execution and documentation of controls"
+    },
+    {
+      "duty": "Prepare consolidated GAAP cashflow and assist in other cashflow related management reporting"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting, Business, Economics or Finance (Master of Business Administration degree preferred)"
+    },
+    {
+      "credential": "Certified Public Accountant (CPA) certification or eligibility to pass the CPA exam"
+    }
+  ]
+}

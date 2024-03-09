@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Early",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work directly with customers and be responsible for building software solutions to their problems."
+    },
+    {
+      "duty": "Work across the stack \u2014 from designing data pipelines to building visualization frameworks."
+    },
+    {
+      "duty": "Design novel solutions to difficult problems in the scientific data and workflows domain."
+    },
+    {
+      "duty": "Shape the frontier of a critical market and work in a fast-paced environment with high uncertainty."
+    },
+    {
+      "duty": "Lead by example and drive the direction of the company as it grows."
+    },
+    {
+      "duty": "Work closely with scientists and learn more about science (no prior scientific experience required)."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Full Stack Development",
+      "experience": 5
+    },
+    {
+      "skill": "Data Pipeline Design",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "First-Principles Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Fast-Paced Environment Adaptability",
+      "experience": 5
+    },
+    {
+      "skill": "Scientific Data and Workflows Understanding",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ]
+}

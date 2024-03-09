@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Engineering",
+      "job_class": "Software Engineer",
+      "sector": "Software Engineering",
+      "salary": 180000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C/C++",
+      "experience": 2
+    },
+    {
+      "skill": "Linux",
+      "experience": 2
+    },
+    {
+      "skill": "Hardware Design",
+      "experience": 2
+    },
+    {
+      "skill": "Data Structures",
+      "experience": 2
+    },
+    {
+      "skill": "Software Development",
+      "experience": 2
+    },
+    {
+      "skill": "Network Systems",
+      "experience": 2
+    },
+    {
+      "skill": "Distributed Systems",
+      "experience": 2
+    },
+    {
+      "skill": "Python",
+      "experience": 2
+    },
+    {
+      "skill": "Object Oriented Programming",
+      "experience": 2
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, test, deploy, maintain, and improve software."
+    },
+    {
+      "duty": "Manage individual project priorities, deadlines, and deliverables."
+    },
+    {
+      "duty": "Provide end-to-end performance analysis for deployed platforms."
+    },
+    {
+      "duty": "Inform direction for research where engineering gaps are identified that merit improved solutions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Electrical Engineering, or equivalent practical experience (Master's degree or PhD preferred)"
+    }
+  ]
+}

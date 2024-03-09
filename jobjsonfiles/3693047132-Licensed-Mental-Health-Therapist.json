@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Mental Health Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 115000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Biopsychosocial Evaluation",
+      "experience": 5
+    },
+    {
+      "skill": "Treatment Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Therapy Services",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct comprehensive biopsychosocial evaluations to gain a holistic understanding of patients' needs."
+    },
+    {
+      "duty": "Utilize validated tools to inform accurate diagnoses and effective treatment plans."
+    },
+    {
+      "duty": "Craft individualized care plans within 30 days of initial patient contact, addressing unique needs."
+    },
+    {
+      "duty": "Provide ongoing treatment services, tracking progress, and adjusting plans as necessary."
+    },
+    {
+      "duty": "Conduct individual, group, and couple therapy using evidence-based practices."
+    },
+    {
+      "duty": "Collaborate seamlessly with medical teams to provide integrated care."
+    },
+    {
+      "duty": "Maintain accurate and confidential documentation of assessments and progress notes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree from an accredited school of social work / counseling psychology, or related program"
+    },
+    {
+      "credential": "Active LCSW or LMFT certification in California"
+    }
+  ]
+}

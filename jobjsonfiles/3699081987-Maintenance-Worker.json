@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Worker",
+      "job_category": "Maintenance",
+      "job_class": "Worker",
+      "sector": "Maintenance",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Labor",
+      "experience": 3
+    },
+    {
+      "skill": "Appliance Repair",
+      "experience": 3
+    },
+    {
+      "skill": "Groundskeeping",
+      "experience": 3
+    },
+    {
+      "skill": "Irrigation Repairs",
+      "experience": 3
+    },
+    {
+      "skill": "Plumbing",
+      "experience": 3
+    },
+    {
+      "skill": "Carpentry",
+      "experience": 3
+    },
+    {
+      "skill": "HVAC",
+      "experience": 3
+    },
+    {
+      "skill": "Heavy Equipment Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Driving Maintenance Trucks",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform various maintenance duties requiring technical labor skills, appliance repair, groundskeeping, and more."
+    },
+    {
+      "duty": "Work as a team participant to ensure the community meets the quality maintenance standards."
+    },
+    {
+      "duty": "Maintain clean, safe, and appealing property; communicate daily appointments and required work."
+    },
+    {
+      "duty": "Report maintenance concerns directly to management and perform repairs; conduct irrigation systems repairs."
+    },
+    {
+      "duty": "Keep grounds and common areas free from trash and debris; mow, weed, edge, and maintain common areas and vacant lot grounds."
+    },
+    {
+      "duty": "Monitor and control maintenance inventory and supplies; perform other miscellaneous duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or the equivalent experience; 1-3 years of direct technical work experience in applicable areas; valid driver\u2019s license, good driving record, and current auto insurance."
+    }
+  ]
+}

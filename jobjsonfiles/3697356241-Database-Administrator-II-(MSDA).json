@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Database Administrator II (MSDA)",
+      "job_category": "Information Technology",
+      "job_class": "Database Administrator",
+      "sector": "Software Engineering",
+      "salary": 109100,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "MS SQL Server Administration",
+      "experience": 6
+    },
+    {
+      "skill": "Database Architecture",
+      "experience": 6
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 6
+    },
+    {
+      "skill": "Database Security",
+      "experience": 6
+    },
+    {
+      "skill": "SQL Statements and Procedures",
+      "experience": 6
+    },
+    {
+      "skill": "Database Backup and Restore",
+      "experience": 6
+    },
+    {
+      "skill": "Data Archival and Recovery",
+      "experience": 6
+    },
+    {
+      "skill": "Unix Systems",
+      "experience": 6
+    },
+    {
+      "skill": "Entity Relationship Diagramming",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Administer MS SQL Server database servers and support development activities."
+    },
+    {
+      "duty": "Design, construct, and implement database architecture for optimal data acquisition, maintenance, and extraction."
+    },
+    {
+      "duty": "Monitor and maintain the physical database system and take necessary actions to ensure proper functioning."
+    },
+    {
+      "duty": "Identify and implement entities, domains, and attributes needed in a relational database management system."
+    },
+    {
+      "duty": "Optimize SQL queries, stored procedures, and views."
+    },
+    {
+      "duty": "Design, implement, and secure database access and usage, and establish database security to prevent data breach or compromise."
+    },
+    {
+      "duty": "Develop and implement a process for database backups and restores, as well as data archival and recovery."
+    },
+    {
+      "duty": "Adhere to company, departmental, and client policies, procedures, and requirements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science or Business Administration with a Computer Information concentration or a related degree, or an equivalent level of advanced competence obtained through experience, education, and/or training."
+    }
+  ]
+}

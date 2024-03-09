@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Salesperson",
+      "job_category": "Sales",
+      "job_class": "Salesperson",
+      "sector": "Sales",
+      "salary": 37500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 3
+    },
+    {
+      "skill": "Merchandising",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Developing relationships of trust and respect with customers, relaying pertinent order information, and coordinating lead times with store management/customers."
+    },
+    {
+      "duty": "Responsible for making sales, placing orders, observing competitive products, and checking in all service orders."
+    },
+    {
+      "duty": "Working with store management/customers to resolve issues, maintaining price changes, selling displays, and making orders for assigned territory."
+    },
+    {
+      "duty": "Keeping back stock to a minimum, performing routine maintenance, and stocking and merchandising ordered products."
+    },
+    {
+      "duty": "Building and putting up displays or shippers, including travel for assigned stores and territories."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "General Equivalency Diploma - General Studies, High School Diploma - General Studies"
+    }
+  ]
+}

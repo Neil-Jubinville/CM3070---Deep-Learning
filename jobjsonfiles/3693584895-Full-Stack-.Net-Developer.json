@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Full Stack .Net Developer",
+      "sector": "Software Engineering",
+      "job_category": "Development",
+      "job_class": "Full Stack Developer",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Full Stack .Net",
+      "experience": 5
+    },
+    {
+      "skill": "React",
+      "experience": 5
+    },
+    {
+      "skill": "Azure",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "Entity Framework",
+      "experience": 5
+    },
+    {
+      "skill": "Software Development Life Cycle",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Deployment Processes",
+      "experience": 5
+    },
+    {
+      "skill": "Domain Driven Design",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Participate in all stages of the Software Development Life Cycle for Front-end, Back-end, and Data storage/retrieval solutions."
+    },
+    {
+      "duty": "Assist with development, implementation, troubleshooting, and maintaining multiple powerful custom applications using Software Development best practices."
+    },
+    {
+      "duty": "Assist with designing and creating tools and frameworks that will assist in the custom development process."
+    },
+    {
+      "duty": "Assist with reviewing existing code, researching, and implementing software development best practices, building out automated Unit Testing, and maintaining automated Deployment processes to ensure successful delivery and operation of our custom applications."
+    },
+    {
+      "duty": "Assist with documenting requirements, processes, security, and issues as needed."
+    },
+    {
+      "duty": "Work directly with management and users to gather requirements, provide status updates, and build relationships."
+    },
+    {
+      "duty": "Work directly with both onshore and offshore developers to jointly develop custom applications to the requested specifications."
+    },
+    {
+      "duty": "Experience utilizing domain driven design for custom application development is a plus."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

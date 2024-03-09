@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Principal Data Quality Engineer",
+      "job_category": "Engineering",
+      "job_class": "Principal",
+      "sector": "Software Engineering",
+      "salary": 175000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Quality Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Business Intelligence",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Anomaly identification",
+      "experience": 5
+    },
+    {
+      "skill": "Data Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Data Architecture",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Architect, develop, and maintain systems that support quantitative trading with a focus on data quality."
+    },
+    {
+      "duty": "Lead and manage complex data initiatives or projects, recognizing business risk and surfacing it to key decision-makers."
+    },
+    {
+      "duty": "Design and implement processes and tools for data quality, helping to deliver an industry best-practice solution for input data quality to production systems and quant models."
+    },
+    {
+      "duty": "Produce stand-alone tools that can be used by other teams to automate data quality and discover faults."
+    },
+    {
+      "duty": "Guide support and data onboarding teams to best practices, providing consultation on root-cause analysis, triage, and data architecture decisions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Management Information Systems, Business Information Systems, Mathematics, or Finance (Master's preferred)"
+    }
+  ]
+}

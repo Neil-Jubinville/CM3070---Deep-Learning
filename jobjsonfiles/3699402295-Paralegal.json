@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Paralegal",
+      "job_category": "Legal",
+      "job_class": "Paralegal",
+      "sector": "Legal",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Administrative Support",
+      "experience": 5
+    },
+    {
+      "skill": "Legal Research",
+      "experience": 4
+    },
+    {
+      "skill": "Case Management",
+      "experience": 4
+    },
+    {
+      "skill": "Litigation Project Management",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Detail Orientation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage daily calendars, schedule and coordinate meetings, case-related correspondence, and general administrative duties."
+    },
+    {
+      "duty": "Track court-imposed deadlines, litigation project deadlines, and coordinate with all stakeholders in the litigation."
+    },
+    {
+      "duty": "Draft pleadings, discovery answers and responses, motions, and other legal filings with the direct supervision of the attorney."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma, GED, or equivalent (Bachelor's Degree preferred)"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Lineman",
+      "job_category": "Telecommunications Construction",
+      "job_class": "Skilled Labor",
+      "sector": "Construction",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Install, maintain, and repair telecommunications equipment, including fiber optic networks and cell sites."
+    },
+    {
+      "duty": "Work as part of a team to complete construction projects within designated timelines and quality standards."
+    },
+    {
+      "duty": "Follow safety protocols and adhere to company policies to ensure a safe working environment for yourself and your colleagues."
+    },
+    {
+      "duty": "Travel to different locations as required to fulfill project requirements."
+    },
+    {
+      "duty": "Operate heavy machinery and equipment to carry out construction and installation tasks."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Telecommunications Equipment Installation",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "Adherence to Safety Protocols",
+      "experience": 3
+    },
+    {
+      "skill": "Heavy Equipment Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Travel Flexibility",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150
+    },
+    {
+      "student_teacher": 50
+    },
+    {
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid driver\u2019s license with MVR printout"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 3
+    },
+    {
+      "skill": "CRM Software",
+      "experience": 3
+    },
+    {
+      "skill": "Automotive Knowledge",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Meeting and exceeding sales goals"
+    },
+    {
+      "duty": "Providing excellent customer service"
+    },
+    {
+      "duty": "Conducting vehicle demonstrations"
+    },
+    {
+      "duty": "Working with customers to identify their needs and offer solutions"
+    },
+    {
+      "duty": "Following up with customers and ensuring customer satisfaction"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 70,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent; college degree preferred"
+    }
+  ]
+}

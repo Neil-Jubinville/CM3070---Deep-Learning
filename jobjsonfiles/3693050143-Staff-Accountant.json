@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Accountant",
+      "job_category": "Finance/Accounting",
+      "job_class": "Accounting",
+      "sector": "Finance",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "General Ledger Accounting",
+      "experience": 2
+    },
+    {
+      "skill": "Excel",
+      "experience": 2
+    },
+    {
+      "skill": "Financial Reporting Systems",
+      "experience": 2
+    },
+    {
+      "skill": "Sales & Use Tax",
+      "experience": 2
+    },
+    {
+      "skill": "Fixed Assets",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Balance sheet reconciliations"
+    },
+    {
+      "duty": "Journal entries"
+    },
+    {
+      "duty": "Period end close"
+    },
+    {
+      "duty": "Assisting with fixed assets"
+    },
+    {
+      "duty": "Preparing and filing of sales & use tax"
+    },
+    {
+      "duty": "Other duties as required"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's in accounting or finance (Master's preferred)"
+    }
+  ]
+}

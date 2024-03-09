@@ -1,0 +1,51 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Associate",
+      "job_category": "Logistics",
+      "job_class": "Associate",
+      "sector": "Warehouse and Transportation",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Package Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Physical Fitness",
+      "experience": 1
+    },
+    {
+      "skill": "Time Management",
+      "experience": 1
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Loading, unloading, and sorting packages of various sizes in a fast-paced warehouse environment."
+    },
+    {
+      "duty": "Working one shift a day for part-time employees and two shifts for full-time employees."
+    },
+    {
+      "duty": "Balancing work and personal life by the flexibility of scheduling."
+    },
+    {
+      "duty": "Adhering to safety protocols and regulations to ensure a safe workplace."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ]
+}

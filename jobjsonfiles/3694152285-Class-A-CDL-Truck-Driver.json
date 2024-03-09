@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Class A CDL Truck Driver",
+      "job_category": "Driver",
+      "job_class": "Driver",
+      "sector": "Transportation",
+      "salary": 52000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CDL Class A",
+      "experience": 1
+    },
+    {
+      "skill": "Tractor-Trailer Experience",
+      "experience": 1
+    },
+    {
+      "skill": "DMV/MVR Record",
+      "experience": 3
+    },
+    {
+      "skill": "Fed/State Law Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Safety Regulations",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Drive Class A CDL trucks on local routes, following set schedules and dispatch instructions."
+    },
+    {
+      "duty": "Ensure compliance with federal and state laws, regulations, and safety standards while driving."
+    },
+    {
+      "duty": "Maintain a clean driving record with minimal violations and accidents."
+    },
+    {
+      "duty": "Adhere to safety regulations and work in a constant state of alertness to ensure safe operations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 30,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "CDL Class A required"
+    }
+  ]
+}

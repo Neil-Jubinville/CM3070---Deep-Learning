@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Scrum Master",
+      "job_category": "Technology",
+      "job_class": "Scrum Master",
+      "sector": "Financial Sector",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Scrum Master Certification",
+      "experience": 5
+    },
+    {
+      "skill": "SAFe Certification",
+      "experience": 5
+    },
+    {
+      "skill": "BSA Capabilities",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Holding the ground for the 2 scrum teams."
+    },
+    {
+      "duty": "Making sure the product has enough stories in the backlog and properly assigned."
+    },
+    {
+      "duty": "Tracks the sprint and velocity."
+    },
+    {
+      "duty": "Conduct standardization ceremonies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Scrum Master Certification, SAFe Certification, BSA capabilities (plus)"
+    },
+    {
+      "credential": "Must be a US Citizen or Green Card holder."
+    }
+  ]
+}

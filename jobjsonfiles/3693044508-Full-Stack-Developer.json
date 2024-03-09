@@ -1,0 +1,148 @@
+{
+  "meta": [
+    {
+      "job_title": "Full Stack Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Test Driven Development",
+      "experience": 3
+    },
+    {
+      "skill": "Design Driven Development",
+      "experience": 3
+    },
+    {
+      "skill": "Cloud Native Development",
+      "experience": 3
+    },
+    {
+      "skill": "HTML, CSS, and JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "Java SE 12+",
+      "experience": 5
+    },
+    {
+      "skill": "Java Concepts",
+      "experience": 5
+    },
+    {
+      "skill": "Build Tools (Jenkin, Maven, Gradle)",
+      "experience": 5
+    },
+    {
+      "skill": "UI Component Framework (Material UI, Prime NG, DevExpress)",
+      "experience": 5
+    },
+    {
+      "skill": "Back-end Development (Java, Node.js)",
+      "experience": 5
+    },
+    {
+      "skill": "Database Knowledge (MySQL, PostgreSQL, MongoDB, Oracle)",
+      "experience": 5
+    },
+    {
+      "skill": "API Development and Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Version Control (Git)",
+      "experience": 5
+    },
+    {
+      "skill": "Software Development Methodologies",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-solving and Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Security best practices",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design client-side and server-side architecture including the UX/UI and documentation."
+    },
+    {
+      "duty": "Code and/or create Application Programming Interfaces (APIs)."
+    },
+    {
+      "duty": "Collaborate with stakeholders to scope requested new features and analyze user needs to determine technical requirements."
+    },
+    {
+      "duty": "Write consistent, clean, and maintainable code. Evaluate code to ensure that it is valid, properly structured, meets industry standards, and is compatible with various browsers, devices, or operating systems."
+    },
+    {
+      "duty": "Mentor Junior developers and interns."
+    },
+    {
+      "duty": "Identify opportunities within processes where the automation group can add value and recommend solutions."
+    },
+    {
+      "duty": "Define standards and processes to assure code quality."
+    },
+    {
+      "duty": "Attention to detail."
+    },
+    {
+      "duty": "Test Driven Development, Design Driven Development, Cloud Native Development."
+    },
+    {
+      "duty": "Proficiency in front-end technologies such as HTML, CSS, and JavaScript frameworks such as React, Angular, or Vue.js. Knowledge of responsive design and cross-browser compatibility is also important."
+    },
+    {
+      "duty": "Proficient with Java SE 12+, must have hands-on experience with advanced Java concepts such as Generics, Reflection, Multithreading, Annotations, JPA, JMS, Functional Programming, Lambda, Java Stream API."
+    },
+    {
+      "duty": "Experience with build tools such as Jenkin, Maven, and Gradle."
+    },
+    {
+      "duty": "Excellent understanding of Material UI, Prime NG, or DevExpress Component."
+    },
+    {
+      "duty": "Skilled in server-side programming languages Java and Node.js. Knowledge of frameworks like Spring Core, Spring MVC, Spring Boot building web applications and services."
+    },
+    {
+      "duty": "Familiarity with database systems like MySQL, PostgreSQL, MongoDB, or Oracle is important for handling data storage and retrieval. Understanding database design principles and query optimization is beneficial."
+    },
+    {
+      "duty": "Experience in building and consuming RESTful APIs. Knowledge of tools like Postman or Swagger for API testing and documentation is advantageous."
+    },
+    {
+      "duty": "Proficiency in using Git or other version control systems is essential for collaborative development and code management."
+    },
+    {
+      "duty": "Knowledge of software development methodologies like Agile or Scrum, as well as experience with software testing and debugging, is important."
+    },
+    {
+      "duty": "Full stack developers should be able to identify and resolve technical issues efficiently and effectively."
+    },
+    {
+      "duty": "Understanding how to implement secure authentication, authorization, and data protection measures is crucial for web application development."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 180,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science, Software Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

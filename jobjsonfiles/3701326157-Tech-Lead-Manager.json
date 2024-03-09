@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Tech Lead Manager",
+      "job_category": "Engineering",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 160000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Recruiting",
+      "experience": 8
+    },
+    {
+      "skill": "Software Engineering",
+      "experience": 8
+    },
+    {
+      "skill": "Leadership",
+      "experience": 8
+    },
+    {
+      "skill": "Team Management",
+      "experience": 8
+    },
+    {
+      "skill": "Engineering Hiring",
+      "experience": 8
+    },
+    {
+      "skill": "Effective Engineering Processes",
+      "experience": 8
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 8
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 8
+    },
+    {
+      "skill": "Mathematical Skills",
+      "experience": 8
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 8
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "Terraform",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and coach a team of 6-10 backend, full-stack, and/or infrastructure developers."
+    },
+    {
+      "duty": "Lead the engineering hiring process for the company."
+    },
+    {
+      "duty": "Help define and promote effective engineering processes and strategy."
+    },
+    {
+      "duty": "Work with other stakeholders to define, track, and deliver engineering milestones."
+    },
+    {
+      "duty": "Maintain alignment between the engineering team and the larger company."
+    },
+    {
+      "duty": "Must be able to code and contribute to technical projects."
+    },
+    {
+      "duty": "Delivering projects in complex, ambiguous, and rapidly-changing environments."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 200,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Software Engineering, Computer Science, or related field (Master's preferred)"
+    }
+  ]
+}

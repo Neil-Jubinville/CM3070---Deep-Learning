@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Optometrist",
+      "job_category": "Healthcare",
+      "job_class": "Specialist",
+      "sector": "Healthcare",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Comprehensive Eye Exams",
+      "experience": 5
+    },
+    {
+      "skill": "Vision Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnosing Ocular Issues",
+      "experience": 5
+    },
+    {
+      "skill": "Prescribing Corrective Lenses",
+      "experience": 5
+    },
+    {
+      "skill": "Contact Lens Fitting",
+      "experience": 3
+    },
+    {
+      "skill": "Doctor-Patient Relationships",
+      "experience": 5
+    },
+    {
+      "skill": "Eye Care Emergencies Handling",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Health Evaluation",
+      "experience": 5
+    },
+    {
+      "skill": "Active Listening",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform comprehensive eye exams and vision tests"
+    },
+    {
+      "duty": "Diagnose and treat ocular issues and diseases, prescribe corrective lenses and fit contact lenses"
+    },
+    {
+      "duty": "Build strong doctor-patient relationships, handle eye care emergencies, and evaluate patients for other health issues"
+    },
+    {
+      "duty": "Counsel patients on other health issues such as smoking or obesity and how that can affect ocular health"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Optometry (O.D.) Degree, Massachusetts State License/Controlled Substance License"
+    }
+  ]
+}

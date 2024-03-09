@@ -1,0 +1,42 @@
+{
+  "meta": [
+    {
+      "job_title": "Access Associate",
+      "job_category": "Administrative Support",
+      "job_class": "Associate",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Intermediate computer skills",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage incoming calls, greet patients, provide necessary information, and schedule patient appointments"
+    },
+    {
+      "duty": "Complete the registration process for patients, verify insurance eligibility, and obtain necessary precertification/authorization"
+    },
+    {
+      "duty": "Collect and process payments when applicable"
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "2 year degree or equivalent combination of education and work experience preferred"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Industrial Maintenance",
+      "salary": 62254,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Industrial Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "PLC Programming",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Hydraulics",
+      "experience": 2
+    },
+    {
+      "skill": "Pneumatics",
+      "experience": 2
+    },
+    {
+      "skill": "Electrical Circuits",
+      "experience": 2
+    },
+    {
+      "skill": "Machine Understanding",
+      "experience": 2
+    },
+    {
+      "skill": "Willingness to Learn",
+      "experience": 3
+    },
+    {
+      "skill": "CNC Controls",
+      "experience": 2
+    },
+    {
+      "skill": "Associate Degree",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensure compliance for a safe and clean working environment."
+    },
+    {
+      "duty": "Program PLC's, HMI's, and other technologies."
+    },
+    {
+      "duty": "Troubleshoot and understand ladder logic."
+    },
+    {
+      "duty": "Demonstrate knowledge of hydraulics, pneumatics, and electrical circuits."
+    },
+    {
+      "duty": "Have a good understanding of machines, equipment, and basic schematics."
+    },
+    {
+      "duty": "Willingness to learn new technologies and processes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum of 3 years in maintenance experience. Experience with CNC controls is preferred. Associate Degree or Tech School is a plus."
+    }
+  ]
+}

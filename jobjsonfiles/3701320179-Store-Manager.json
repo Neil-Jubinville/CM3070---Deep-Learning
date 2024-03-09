@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Store Manager",
+      "job_category": "Retail",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Retail Management",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Control",
+      "experience": 5
+    },
+    {
+      "skill": "Merchandising",
+      "experience": 5
+    },
+    {
+      "skill": "Human Resources Management",
+      "experience": 5
+    },
+    {
+      "skill": "Expense Control",
+      "experience": 5
+    },
+    {
+      "skill": "Shrinkage Control",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Establish and maintain Guest Services in the store."
+    },
+    {
+      "duty": "Oversee the operation of the store, ensuring maximum sales and profitability through expense and shrinkage control."
+    },
+    {
+      "duty": "Manage human resources, merchandising, and inventory control in adherence with Company policies and procedures."
+    },
+    {
+      "duty": "Ensure compliance with minimum age requirement, physical demands, and prior retail management experience."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Retail Management, or a related field (Master's preferred)"
+    }
+  ]
+}

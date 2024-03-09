@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Program Manager",
+      "job_category": "Engineer",
+      "job_class": "Program Manager",
+      "sector": "Software Engineering",
+      "salary": 260000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CPU Engineering",
+      "experience": 10
+    },
+    {
+      "skill": "CPU Program Management",
+      "experience": 10
+    },
+    {
+      "skill": "Leadership",
+      "experience": 7
+    },
+    {
+      "skill": "Processor Micro-architecture",
+      "experience": 7
+    },
+    {
+      "skill": "Emulation Technologies",
+      "experience": 7
+    },
+    {
+      "skill": "ARM Instruction Set Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Power and Thermal Constraints",
+      "experience": 5
+    },
+    {
+      "skill": "CPU Benchmarks",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 10
+    },
+    {
+      "skill": "Stakeholder Management",
+      "experience": 10
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 10
+    },
+    {
+      "skill": "Communication",
+      "experience": 10
+    },
+    {
+      "skill": "Technical Expertise",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead complex, multi-disciplinary CPU development projects from start to finish."
+    },
+    {
+      "duty": "Facilitate efficient communication among CPU teams such as front-end design, design verification, physical design, and emulation."
+    },
+    {
+      "duty": "Coordinate regular communication meetings at various levels and across multiple geographical locations."
+    },
+    {
+      "duty": "Host issue triage and resolution meetings at the project level and track issues to satisfactory closure."
+    },
+    {
+      "duty": "Ensure programs are executed at the best possible level for quality and schedule."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electrical Engineering, Computer Science, or related field (Master's preferred)"
+    }
+  ]
+}

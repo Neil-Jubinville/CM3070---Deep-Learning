@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Tester",
+      "job_category": "Software Engineering",
+      "job_class": "Tester",
+      "sector": "Software Engineering",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Test Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Linux Environments",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 3
+    },
+    {
+      "skill": "PHP",
+      "experience": 3
+    },
+    {
+      "skill": "MySQL",
+      "experience": 3
+    },
+    {
+      "skill": "Python",
+      "experience": 3
+    },
+    {
+      "skill": "Behavior-Driven Development",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and execute tests for specific features both airside and ground side."
+    },
+    {
+      "duty": "Create test cases, plans and documentation based on user stories and other inputs provided by the team."
+    },
+    {
+      "duty": "Regression, performance and integration testing of end to end workflow."
+    },
+    {
+      "duty": "Create and perform automation tests with documentation."
+    },
+    {
+      "duty": "Support incident investigation, including rack/cloud troubleshooting, log collection and analysis, documentation for above."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or higher in Computer Science, Engineering, or a related technical field."
+    }
+  ]
+}

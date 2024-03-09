@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Delivery Driver",
+      "job_category": "Logistics",
+      "job_class": "Driver",
+      "sector": "Logistics",
+      "salary": 20,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for the safe operation of the delivery vehicle."
+    },
+    {
+      "duty": "Deliver pre-sold products to various locations within the Greater Boston area."
+    },
+    {
+      "duty": "Maintain a customer service-oriented approach by treating each account with professionalism and courtesy."
+    },
+    {
+      "duty": "Build and load products each morning, including loading empty keg returns onto the truck."
+    },
+    {
+      "duty": "Possibility of long drives to Cape Cod and communicating possible barriers throughout the day with the supervisor."
+    },
+    {
+      "duty": "Completing 20+ deliveries a day on Tuesday-Friday from 7:00 am to 5:00 pm."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Driving",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Physical Strength",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or GED"
+    },
+    {
+      "credential": "DOT Certification preferred"
+    }
+  ]
+}

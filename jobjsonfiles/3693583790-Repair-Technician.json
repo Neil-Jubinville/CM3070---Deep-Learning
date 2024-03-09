@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Repair Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Sales",
+      "salary": 40000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Instrument Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Tech Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Interact with customers, ensuring a positive customer experience."
+    },
+    {
+      "duty": "Service customer-owned instruments with a high level of craftsmanship."
+    },
+    {
+      "duty": "Maintain store-owned gear, as requested."
+    },
+    {
+      "duty": "Complete warranty repair work."
+    },
+    {
+      "duty": "Additional duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Skilled understanding of repairing Guitars"
+    }
+  ]
+}

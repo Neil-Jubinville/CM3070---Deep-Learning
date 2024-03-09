@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Junior Network Engineer",
+      "job_category": "Information Technology",
+      "job_class": "Engineer",
+      "sector": "Information Technology",
+      "salary": 65000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Network Configuration",
+      "experience": 3
+    },
+    {
+      "skill": "Hardware Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Software Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "ITSM Software",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Network Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Remote Access Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Patch Management",
+      "experience": 3
+    },
+    {
+      "skill": "Documentation Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform configuration, installation, troubleshooting, maintenance and repair of hardware and software related to networking, VoIP, and Wireless network equipment."
+    },
+    {
+      "duty": "Utilize ITSM software for logging, forwarding, working, and closing tickets for all support cases."
+    },
+    {
+      "duty": "Provide excellent customer service with problem resolution."
+    },
+    {
+      "duty": "Administer Remote access, DNS, DHCP."
+    },
+    {
+      "duty": "Assist with Patch Management of network equipment and systems as assigned."
+    },
+    {
+      "duty": "Administer moves, adds, and changes for users of IT systems, which include VPN access, MDM solution, instant messaging, and web conferencing."
+    },
+    {
+      "duty": "Ensure documentation is available and up-to-date for all assigned procedures in accordance with department standards."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in a computer or business-related field from an accredited college or university and 2-3 years related work experience, or equivalent combination of education and experience. Experience must be in a networked environment."
+    }
+  ]
+}

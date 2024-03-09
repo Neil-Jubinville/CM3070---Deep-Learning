@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Retail Sales Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Retail",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Sales",
+      "experience": 1
+    },
+    {
+      "skill": "Technical Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Key Cutting",
+      "experience": 1
+    },
+    {
+      "skill": "Phone Repair",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide exceptional customer service and sales support in a retail environment, addressing customer needs and offering solutions."
+    },
+    {
+      "duty": "Perform phone repair, key cutting, and technical tasks, such as replacing screens, batteries, and other components on smart phones and tablets."
+    },
+    {
+      "duty": "Gain a solid understanding of the company's electronic retail and cross-referencing system to assist customers effectively."
+    },
+    {
+      "duty": "Utilize technical skills to work with small parts and tools for phone repair and device repair."
+    },
+    {
+      "duty": "Communicate effectively with customers, demonstrating excellent communication and interpersonal skills."
+    },
+    {
+      "duty": "Maintain a clean driving record for positions requiring driving and the ability to lift 50+ lbs as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma/equivalent and 6 months prior work experience preferred or equivalent combination of education and experience"
+    }
+  ]
+}

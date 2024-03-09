@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Food Service Worker",
+      "job_category": "Restaurant",
+      "job_class": "Entry-Level",
+      "sector": "Hospitality",
+      "salary": 26000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Sanitation Practices",
+      "experience": 2
+    },
+    {
+      "skill": "Menu Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare work areas and maintain cleanliness and organization throughout shift."
+    },
+    {
+      "duty": "Produce and maintain quality food and beverage products, following standardized recipes and portioning food accurately."
+    },
+    {
+      "duty": "Provide quality customer/patient service, addressing complaints in a professional manner."
+    },
+    {
+      "duty": "Document equipment temperatures and alert management of malfunctioning equipment."
+    },
+    {
+      "duty": "Operate, clean, and store equipment in assigned area, and properly clean and sanitize work surfaces."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or Equivalent preferred."
+    }
+  ]
+}

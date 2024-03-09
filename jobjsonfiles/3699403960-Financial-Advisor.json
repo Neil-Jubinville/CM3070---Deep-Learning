@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Financial Advisor",
+      "job_category": "Finance",
+      "job_class": "Advisor",
+      "sector": "Finance",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Investment Management",
+      "experience": 5
+    },
+    {
+      "skill": "Tax Strategies",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assess clients' assets, liabilities, cash flow, tax status, and financial objectives to establish investment strategies."
+    },
+    {
+      "duty": "Evaluate client financial plans utilizing knowledge of investment and tax strategies and financial securities."
+    },
+    {
+      "duty": "Perform recurring quality control procedures on account activity ensuring trades and money movements with appropriate custodians have taken place and distributions are provided to the clients."
+    },
+    {
+      "duty": "Prepare reports, including charts and graphs, to illustrate trends, future payoffs, and possible risks of various investment opportunities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's degree in finance, mathematics, economics, accounting or related field."
+    },
+    {
+      "credential": "Completion of a requisite bachelor\u2019s degree and willingness to complete additional coursework required to sit for the CFP exam OR completion of a requisite bachelor\u2019s degree from a CFP Board Registered Program, with the goal of successfully obtaining your CFP license."
+    },
+    {
+      "credential": "Internship experience at a brokerage, financial planning firm/practice or money management firm is preferred."
+    }
+  ]
+}

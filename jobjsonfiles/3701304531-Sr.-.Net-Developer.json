@@ -1,0 +1,130 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. .Net Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": ".NET Framework",
+      "experience": 5
+    },
+    {
+      "skill": "C#",
+      "experience": 5
+    },
+    {
+      "skill": "ASP.NET",
+      "experience": 5
+    },
+    {
+      "skill": "MVC",
+      "experience": 5
+    },
+    {
+      "skill": "Web API",
+      "experience": 5
+    },
+    {
+      "skill": "HTML",
+      "experience": 5
+    },
+    {
+      "skill": "CSS",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft SQL Server",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud deployment",
+      "experience": 5
+    },
+    {
+      "skill": "Software engineering principles",
+      "experience": 5
+    },
+    {
+      "skill": "Code review",
+      "experience": 5
+    },
+    {
+      "skill": "Unit testing",
+      "experience": 5
+    },
+    {
+      "skill": "Integration testing",
+      "experience": 5
+    },
+    {
+      "skill": "Agile development",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and maintain scalable and high-performance .NET applications"
+    },
+    {
+      "duty": "Collaborate with product managers, business analysts, and other stakeholders to understand project requirements"
+    },
+    {
+      "duty": "Provide technical leadership and guidance to junior engineers, reviewing their code and offering constructive feedback"
+    },
+    {
+      "duty": "Conduct code reviews to ensure adherence to coding standards, best practices, and scalability"
+    },
+    {
+      "duty": "Troubleshoot and resolve complex technical issues, ensuring timely delivery of solutions"
+    },
+    {
+      "duty": "Optimize application performance by identifying bottlenecks and implementing efficient solutions"
+    },
+    {
+      "duty": "Stay up-to-date with the latest trends and advancements in .NET development, sharing knowledge with the team and proposing new technologies or tools when appropriate"
+    },
+    {
+      "duty": "Drive continuous improvement initiatives to enhance development processes and practices"
+    },
+    {
+      "duty": "Collaborate with cross-functional teams, including QA engineers, designers, and product managers, to ensure successful project delivery"
+    },
+    {
+      "duty": "Write automated tests for your code"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Software Engineering, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

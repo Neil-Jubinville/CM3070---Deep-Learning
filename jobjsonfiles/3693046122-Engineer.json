@@ -1,0 +1,50 @@
+{
+  "meta": [
+    {
+      "job_title": "Engineer",
+      "job_category": "Engineering",
+      "job_class": "Validation",
+      "sector": "Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Facilities Qualifications",
+      "experience": 2
+    },
+    {
+      "skill": "Validation Quality",
+      "experience": 2
+    },
+    {
+      "skill": "Cleanroom Management",
+      "experience": 2
+    },
+    {
+      "skill": "Sterilization",
+      "experience": 2
+    },
+    {
+      "skill": "Microbiological Monitoring",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support validation activities for a new cleanroom and manufacturing line."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 0,
+      "introvert_extrovert": 0
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in STEM (Engineering preferred)"
+    }
+  ]
+}

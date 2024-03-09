@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Accounting Clerk",
+      "job_category": "Accounting",
+      "job_class": "Clerk",
+      "sector": "Finance",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ERP System",
+      "experience": 2
+    },
+    {
+      "skill": "Excel",
+      "experience": 3
+    },
+    {
+      "skill": "Accounting",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Statement Preparation",
+      "experience": 3
+    },
+    {
+      "skill": "Effective Communication",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Verifying/entering invoices, receipts, and payments into the accounting system."
+    },
+    {
+      "duty": "Manage various AP duties such as issuing invoices, tracking payments, and following up with vendors."
+    },
+    {
+      "duty": "Assisting with reconciling accounts, and complete payments accurately."
+    },
+    {
+      "duty": "Generate financial statements such as balance sheets, income statements, and cash flow statements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 70,
+      "introvert_extrovert": 130
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree in Accounting or related field (Bachelor's preferred)"
+    }
+  ]
+}

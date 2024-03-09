@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Manual Machinist",
+      "job_category": "Manufacturing",
+      "job_class": "Machinist",
+      "sector": "Manufacturing",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Manual Machining",
+      "experience": 5
+    },
+    {
+      "skill": "Reverse Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Prototyping",
+      "experience": 5
+    },
+    {
+      "skill": "R&D Machining",
+      "experience": 5
+    },
+    {
+      "skill": "ProtoTRAK Controls",
+      "experience": 5
+    },
+    {
+      "skill": "Blueprint Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "Steel Machining",
+      "experience": 5
+    },
+    {
+      "skill": "Aluminum Machining",
+      "experience": 5
+    },
+    {
+      "skill": "Stainless Steel Machining",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate and maintain machine shop equipment, including Southwestern Industries mills and lathes utilizing ProtoTRAK controls."
+    },
+    {
+      "duty": "Review drawings, instructions, blueprints, or samples to ensure accurate production and take precise measurements for cutting or shaping."
+    },
+    {
+      "duty": "Select appropriate machine and settings for a given task, monitor production, and adjust feed and other settings as necessary."
+    },
+    {
+      "duty": "Check output for quality assurance, maintain a safe and clean workstation, and contribute to team effort by accomplishing related tasks as needed."
+    },
+    {
+      "duty": "Support R&D and prototype small batch projects, as well as the sheet metal and misc. metals shop needs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED equivalent required, with experience in machining w/ steel, aluminum, and stainless steel. ProtoTRAK control experience and Southwestern knee mills and lathes experience are a plus."
+    }
+  ]
+}

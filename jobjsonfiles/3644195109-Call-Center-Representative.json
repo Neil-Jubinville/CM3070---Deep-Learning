@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Call Center Representative",
+      "job_category": "Customer Support",
+      "job_class": "Representative",
+      "sector": "Customer Service",
+      "salary": 30000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Complaint Resolution",
+      "experience": 3
+    },
+    {
+      "skill": "Data Evaluation",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Proficiency",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Handling customer service inquiries and problems via telephone, email, and chat."
+    },
+    {
+      "duty": "Handling and resolving customer complaints."
+    },
+    {
+      "duty": "Obtaining and evaluating all relevant data to handle complaints and inquiries."
+    },
+    {
+      "duty": "Directing requests and unresolved issues to the designated resource."
+    },
+    {
+      "duty": "Keeping records of customer interactions and transactions."
+    },
+    {
+      "duty": "Recording details of inquiries, comments, complaints, and actions taken."
+    },
+    {
+      "duty": "Managing administration, communicating with internal departments, and providing feedback on the efficiency of the customer service process."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Support Technician",
+      "job_category": "Information Technology",
+      "job_class": "Technician",
+      "sector": "IT",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Support",
+      "experience": 2
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 2
+    },
+    {
+      "skill": "Operating Systems",
+      "experience": 1
+    },
+    {
+      "skill": "Network Troubleshooting",
+      "experience": 1
+    },
+    {
+      "skill": "Hardware and Software Installation",
+      "experience": 2
+    },
+    {
+      "skill": "Documentation",
+      "experience": 2
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Industry Trend Awareness",
+      "experience": 2
+    },
+    {
+      "skill": "Certifications",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide frontline technical support to end-users."
+    },
+    {
+      "duty": "Diagnose and resolve hardware and software issues for desktops, laptops, printers, peripherals, and other IT equipment."
+    },
+    {
+      "duty": "Install, configure, and maintain operating systems, applications, and software updates."
+    },
+    {
+      "duty": "Troubleshoot network connectivity problems and assist with network-related issues."
+    },
+    {
+      "duty": "Assist in the deployment of new hardware and software, including system imaging and software distribution."
+    },
+    {
+      "duty": "Perform hardware and software upgrades, patches, and maintenance tasks."
+    },
+    {
+      "duty": "Collaborate with other IT team members to escalate and resolve complex technical issues."
+    },
+    {
+      "duty": "Document and maintain accurate records of technical issues, solutions, and user requests."
+    },
+    {
+      "duty": "Provide training and guidance to end-users on basic software and hardware usage."
+    },
+    {
+      "duty": "Maintain an organized inventory of IT equipment, software licenses, and warranties."
+    },
+    {
+      "duty": "Stay updated with industry trends, best practices, and emerging technologies in desktop support."
+    },
+    {
+      "duty": "Occasional lifting and moving of computer equipment, bending, and crawling to access computer and peripheral equipment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Relevant certifications such as CompTIA A+, Microsoft Certified Desktop Support Technician (MCDST), or similar, are a plus."
+    }
+  ]
+}

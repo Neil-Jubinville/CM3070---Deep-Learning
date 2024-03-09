@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Worker",
+      "job_category": "Warehouse",
+      "job_class": "Associate",
+      "sector": "Warehouse",
+      "salary": 37500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Picking and Filling Orders",
+      "experience": 2
+    },
+    {
+      "skill": "Packing and Shipping Orders",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Physical Stamina",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Pick and fill orders from stock"
+    },
+    {
+      "duty": "Pack and ship orders"
+    },
+    {
+      "duty": "Manage, organize, and retrieve stock in the warehouse"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150
+    },
+    {
+      "student_teacher": 80
+    },
+    {
+      "introvert_extrovert": 50
+    }
+  ]
+}

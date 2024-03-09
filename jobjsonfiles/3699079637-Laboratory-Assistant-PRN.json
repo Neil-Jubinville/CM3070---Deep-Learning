@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Laboratory Assistant PRN",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 26,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Phlebotomy",
+      "experience": 2
+    },
+    {
+      "skill": "Healthcare Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Dexterity",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Computer Typing",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performs technical procedures and maintains knowledge of all procedures and protocols."
+    },
+    {
+      "duty": "Collects and processes specimens on patients of all ages as required."
+    },
+    {
+      "duty": "Fulfills test requests and charts results on patients with many different clinical conditions and all age ranges."
+    },
+    {
+      "duty": "Assists in the clerical duties of the department and performs required function verification of equipment."
+    },
+    {
+      "duty": "Communicates with other allied health care professionals and patients according to job requirements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or better, Phlebotomy certification preferred"
+    }
+  ]
+}

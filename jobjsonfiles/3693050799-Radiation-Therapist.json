@@ -1,0 +1,109 @@
+{
+  "meta": [
+    {
+      "job_title": "Radiation Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 89000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Radiation Therapy",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Brachytherapy",
+      "experience": 3
+    },
+    {
+      "skill": "Treatment Setup Techniques",
+      "experience": 3
+    },
+    {
+      "skill": "Dosimetry",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Imaging",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 3
+    },
+    {
+      "skill": "Electronic Health Records",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Administer daily prescribed doses of radiation therapy."
+    },
+    {
+      "duty": "Perform simulations and design treatment devices for immobilization and custom setup."
+    },
+    {
+      "duty": "Assist with brachytherapy procedures and treatments."
+    },
+    {
+      "duty": "Communicate pertinent information concerning patient care and treatment."
+    },
+    {
+      "duty": "Document daily and cumulative dose data and other treatment information thoroughly and precisely."
+    },
+    {
+      "duty": "Monitor patients' general status for changes and facilitate further care by the nursing staff and physicians as indicated."
+    },
+    {
+      "duty": "Obtain portal images, verify agreement with planned port, and make necessary adjustments."
+    },
+    {
+      "duty": "Maintain a neat and orderly work environment and treatment room."
+    },
+    {
+      "duty": "Review electronic charts regularly for completion and inclusion of all necessary clinical information."
+    },
+    {
+      "duty": "Perform QA checks and document any parameter or situation exceeding acceptable limits."
+    },
+    {
+      "duty": "Attend departmental meetings and serve on departmental CQI committee."
+    },
+    {
+      "duty": "Demonstrate competence to provide developmentally appropriate care/treatment to adolescent, adult, and geriatric patients."
+    },
+    {
+      "duty": "Complete all hospital required testing and training for annual saf"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited Radiation Therapy school"
+    },
+    {
+      "credential": "Registered by the ARRT or registry eligible"
+    },
+    {
+      "credential": "Maintain current SC licensure"
+    }
+  ]
+}

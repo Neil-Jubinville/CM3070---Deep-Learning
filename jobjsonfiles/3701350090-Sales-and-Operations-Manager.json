@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales and Operations Manager",
+      "job_category": "Sales",
+      "job_class": "Manager",
+      "sector": "Operations",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Relationship Building",
+      "experience": 5
+    },
+    {
+      "skill": "Agreement Negotiation",
+      "experience": 5
+    },
+    {
+      "skill": "Strategic Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Sourcing and building relationships with cannabis dispensaries in Michigan"
+    },
+    {
+      "duty": "Brokering sale agreements with brands"
+    },
+    {
+      "duty": "Identifying small cannabis brands that would benefit from our service"
+    },
+    {
+      "duty": "Strategic operations manager capable of leading a team"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration or a related field (Master's preferred)"
+    }
+  ]
+}

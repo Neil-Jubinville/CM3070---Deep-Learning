@@ -1,0 +1,44 @@
+{
+  "meta": [
+    {
+      "job_title": "Billing Specialist",
+      "job_category": "Finance & Accounting",
+      "job_class": "Specialist",
+      "sector": "Construction",
+      "salary": 47500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Billing",
+      "experience": 2
+    },
+    {
+      "skill": "Excel",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare invoices and send to clients"
+    },
+    {
+      "duty": "Record payments and reconcile accounts"
+    },
+    {
+      "duty": "Follow up on overdue accounts and send reminders to clients"
+    },
+    {
+      "duty": "Resolve discrepancies"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

@@ -1,0 +1,107 @@
+{
+  "meta": [
+    {
+      "job_title": "Service Operations Manager",
+      "job_category": "Management",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Acting as a SPOC for the Customer to provide the status update whenever a major incident occurs."
+    },
+    {
+      "duty": "Driving the MI Bridge through involving all relevant Resolver Groups and continue the discussions till the Major incident is resolved."
+    },
+    {
+      "duty": "Informing the key stakeholders on the status of the Major incident and after getting the confirmed service restoration."
+    },
+    {
+      "duty": "Coordinating with the respective SMEs for speedy resolution of the Major Incident."
+    },
+    {
+      "duty": "Ensuring the Major incident is resolved within the SLAs agreed with the Customer."
+    },
+    {
+      "duty": "Taking all the preventive actions to minimize the service and business impact in case resolution time seems to be high."
+    },
+    {
+      "duty": "Conducting a thorough analysis and preparing the Major Incident Report (MIR) for every Major Incident after it is closed."
+    },
+    {
+      "duty": "Ensuring that all the resolution procedures are updated in the knowledge database / Work log."
+    },
+    {
+      "duty": "Conducting a review meeting with relevant members to identify the triggers for the Major Incidents, what caused them, and how to prevent such Incidents happening in future."
+    },
+    {
+      "duty": "Ensuring that the causes for all Major incidents are analyzed and root cause is identified (through coordinating with problem Management process)."
+    },
+    {
+      "duty": "Coordinating with the process managers (capacity manager, Availability manager, IT Service continuity manager, etc.) on need basis to avoid recurring of the major incidents."
+    },
+    {
+      "duty": "Providing the periodical (monthly) reports on the overall status of the Major Incident Management Process."
+    },
+    {
+      "duty": "Conducting the training / knowledge sharing sessions across the teams/new joiners to avoid occurring of the major incidents."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ITIL Incident Management",
+      "experience": 8
+    },
+    {
+      "skill": "Service Operations Management",
+      "experience": 8
+    },
+    {
+      "skill": "ITIL Certification",
+      "experience": 2
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 8
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 8
+    },
+    {
+      "skill": "Leadership",
+      "experience": 8
+    },
+    {
+      "skill": "Problem Management",
+      "experience": 8
+    },
+    {
+      "skill": "Service Level Agreement (SLA) Management",
+      "experience": 8
+    },
+    {
+      "skill": "Knowledge Management",
+      "experience": 8
+    },
+    {
+      "skill": "Training and Development",
+      "experience": 8
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "ITIL Expert or Min two ITIL Intermediate certified professional"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Power BI Developer (Intermediate)",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Power BI",
+      "experience": 5
+    },
+    {
+      "skill": "DAX Formulas",
+      "experience": 5
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Data Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 5
+    },
+    {
+      "skill": "Data Security",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Support",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design data models and relationships in Power BI for efficient data retrieval and analysis."
+    },
+    {
+      "duty": "Develop complex DAX formulas for calculations, aggregations, and time intelligence within Power BI."
+    },
+    {
+      "duty": "Extract, transform, and load data from various sources into Power BI, optimizing reports for improved performance."
+    },
+    {
+      "duty": "Select appropriate visualizations to represent data effectively and enable users to gain insights quickly."
+    },
+    {
+      "duty": "Implement data security measures within Power BI to ensure data governance and adherence to regulations."
+    },
+    {
+      "duty": "Collaborate with stakeholders and team members to understand requirements, deliver effective solutions, and document processes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s or Master\u2019s Degree in Computer Science, Information Systems, or related field (Required)"
+    },
+    {
+      "credential": "Microsoft Dynamics 365 Certification (Desired)"
+    },
+    {
+      "credential": "MS Dynamics Power Platform Certifications (Desired)"
+    }
+  ]
+}

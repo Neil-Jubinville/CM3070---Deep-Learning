@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Construction",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Project Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Engineering",
+      "experience": 3
+    },
+    {
+      "skill": "Blueprint Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "Construction Codes knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Project planning, management, and engineering"
+    },
+    {
+      "duty": "Working closely with other team members to ensure timely and successful completion of projects"
+    },
+    {
+      "duty": "Reading and interpreting blueprints, specifications, and construction documents"
+    },
+    {
+      "duty": "Familiarity with construction codes, standards, and regulations"
+    },
+    {
+      "duty": "Proficiency in Microsoft Office and project management software"
+    },
+    {
+      "duty": "Excellent problem solving and analytical skills"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in civil engineering or related field (Professional Engineer (PE) license is a plus)"
+    }
+  ]
+}

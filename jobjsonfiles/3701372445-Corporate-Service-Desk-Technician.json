@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Corporate Service Desk Technician",
+      "job_category": "Information Technology",
+      "job_class": "Service Desk Technician",
+      "sector": "Information Technology",
+      "salary": 70000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Support",
+      "experience": 5
+    },
+    {
+      "skill": "Computer Hardware",
+      "experience": 5
+    },
+    {
+      "skill": "Windows 10 Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office/O365",
+      "experience": 5
+    },
+    {
+      "skill": "ITIL Processes",
+      "experience": 5
+    },
+    {
+      "skill": "Network Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "ITSM System",
+      "experience": 5
+    },
+    {
+      "skill": "Bitlocker or Encryption Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Ticket Routing and Ticket QA",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provides technical support for computers and associated networks, including installation, troubleshooting, services, and repairs."
+    },
+    {
+      "duty": "Installs, troubleshoots, services, and repairs personal computers, network equipment, related PC software, telephones, cables, and connectors."
+    },
+    {
+      "duty": "Maintains network diagrams, circuit records, trouble logs, and performs basic PC, PBX, and network software programming."
+    },
+    {
+      "duty": "Develops training materials and procedures, and/or trains users in the proper use of hardware and software."
+    },
+    {
+      "duty": "Confers with staff, users, and management to establish requirements for new systems or modifications. Answers questions or resolves computer problems for clients or staff."
+    },
+    {
+      "duty": "Maintains daily data communication transactions, problems and remedial action taken, and installation activities."
+    },
+    {
+      "duty": "Manages record of daily data communication transactions, problems, remedial action taken, and installation activities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Information Technology or related field (Master's preferred)"
+    }
+  ]
+}

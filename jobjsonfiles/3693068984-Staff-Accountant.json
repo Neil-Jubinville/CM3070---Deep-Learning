@@ -1,0 +1,43 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Accountant",
+      "job_category": "Accounting",
+      "job_class": "Accountant",
+      "sector": "Finance",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 2
+    },
+    {
+      "skill": "Accounts Payable",
+      "experience": 2
+    },
+    {
+      "skill": "Payroll Processing",
+      "experience": 2
+    },
+    {
+      "skill": "GAAP",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Process semi-monthly payroll and day-to-day accounts payable activities."
+    },
+    {
+      "duty": "Record monthly revenue journal entry and GAAP related journal entries."
+    },
+    {
+      "duty": "Complete ad hoc projects and other duties as assigned."
+    }
+  ],
+  "subjective_elements": [],
+  "education_certification": []
+}

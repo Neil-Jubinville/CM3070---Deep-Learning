@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Receptionist",
+      "job_category": "Admin",
+      "job_class": "Clerical",
+      "sector": "Administration",
+      "salary": 19,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Multi-line Phone Systems",
+      "experience": 2
+    },
+    {
+      "skill": "MS Office (Outlook, Word, Excel)",
+      "experience": 2
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Answering multi-line phone system and directing calls and emails"
+    },
+    {
+      "duty": "Greeting visitors and providing assistance"
+    },
+    {
+      "duty": "Helping different departments with various administrative tasks"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": []
+}

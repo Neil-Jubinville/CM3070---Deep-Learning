@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Manufacturing Operator",
+      "job_category": "Manufacturing",
+      "job_class": "Operator",
+      "sector": "Manufacturing",
+      "salary": 52000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Equipment Operations",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 3
+    },
+    {
+      "skill": "Machine Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Health and Safety Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Set up, operate, monitor, troubleshoot, and perform preventive maintenance on assigned machines."
+    },
+    {
+      "duty": "Inspect parts and make adjustments or tool changes to maintain quality specifications."
+    },
+    {
+      "duty": "Assist with setting up and operating production equipment, following established procedures and guidelines, and adjusting machine settings to complete tasks accurately and in a timely fashion."
+    },
+    {
+      "duty": "Perform pre-operation activities on multiple pieces of equipment to ensure proper equipment startup and operation."
+    },
+    {
+      "duty": "Operate multiple pieces of equipment, monitor equipment during operation, perform setup and changeover, and inspect parts and make adjustments or tool changes to maintain quality specifications."
+    },
+    {
+      "duty": "Perform scheduled quality assurance tests in accordance with Good Manufacturing Practices (GMP) and communicate results with team members and support teams."
+    },
+    {
+      "duty": "Perform housekeeping activities and sanitations on production equipment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED, with 1 to 3 years of work experience"
+    }
+  ]
+}

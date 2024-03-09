@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Physical Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Physical Therapist",
+      "sector": "Healthcare",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Therapy",
+      "experience": 1
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Rehabilitation Planning",
+      "experience": 2
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 2
+    },
+    {
+      "skill": "Innovative Treatment Techniques",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create a welcoming environment for clients during therapy sessions."
+    },
+    {
+      "duty": "Proactively communicate with clients to provide care with enthusiasm and candor."
+    },
+    {
+      "duty": "Create personalized plans of care for clients based on their specific needs and conditions."
+    },
+    {
+      "duty": "Ensure all documentation and billing is accurately completed and ready for processing each night."
+    },
+    {
+      "duty": "Pursue innovative treatment techniques that go beyond standard requirements to provide the best care."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Licensed Physical Therapist"
+    }
+  ]
+}

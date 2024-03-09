@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Recruiter",
+      "job_category": "Human Resources",
+      "job_class": "Recruiter",
+      "sector": "Human Resources",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Recruiting",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Recruitment",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management Recruitment",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage the full life-cycle recruitment process for Operations positions at multiple sites."
+    },
+    {
+      "duty": "Collaborate with hiring managers to develop a compelling recruitment & sourcing strategy."
+    },
+    {
+      "duty": "Liaise between internal and external candidates and hiring managers."
+    },
+    {
+      "duty": "Engage with a diverse range of hiring managers."
+    },
+    {
+      "duty": "Lead interview debriefs and gather standardized interview feedback."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Human Resources, Business, or a related field (Master's preferred)"
+    }
+  ]
+}

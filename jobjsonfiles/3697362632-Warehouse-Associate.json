@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Associate",
+      "job_category": "Logistics",
+      "job_class": "Associate",
+      "sector": "Logistics",
+      "salary": 48000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Forklift Operation",
+      "experience": 1
+    },
+    {
+      "skill": "Warehouse Management",
+      "experience": 2
+    },
+    {
+      "skill": "Product Replenishment",
+      "experience": 2
+    },
+    {
+      "skill": "RF Scanners",
+      "experience": 2
+    },
+    {
+      "skill": "Material Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Control",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Receives and puts away all inbound produce."
+    },
+    {
+      "duty": "Ensures product is put away in proper rotation (FIFO)."
+    },
+    {
+      "duty": "Safe operation of powered industrial equipment."
+    },
+    {
+      "duty": "Ensures selection slots are properly stocked with the product, always keeps pallets free from tape, wrap or wires, and removes empty pallets as needed."
+    },
+    {
+      "duty": "Responsible for the cleaning and sanitation of the work area."
+    },
+    {
+      "duty": "Accounting for the received product."
+    },
+    {
+      "duty": "Other duties as assigned by supervisor."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 20,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School or GED"
+    }
+  ]
+}

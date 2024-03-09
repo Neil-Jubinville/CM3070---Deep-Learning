@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "job_title": "Track Laborer",
+      "job_category": "Labor",
+      "job_class": "Laborer",
+      "sector": "Transportation",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Labor",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Operation",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform physical labor using hand tools and equipment to construct, alter, repair, maintain, and demolish railroad tracks, associated structures, and components."
+    },
+    {
+      "duty": "Carry and place track materials, attach rail to ties, remove spikes, lift and install railroad crossties, connect and disconnect rail, move, clean, and tamp ballast, raise tracks, turnouts, crossings, and rails, cut associated materials, and drill holes."
+    },
+    {
+      "duty": "Work alongside heavy equipment by connecting, disconnecting, and controlling material that is being moved and by directing such movement."
+    },
+    {
+      "duty": "Participate in safety meetings and wear all appropriate personal protective equipment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 30,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School/GED"
+    }
+  ]
+}

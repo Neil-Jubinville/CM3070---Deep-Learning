@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Industrial Electrician",
+      "job_category": "Construction",
+      "job_class": "Electrician",
+      "sector": "Industrial",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Rigid Conduit Installation",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Protocols",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Panel Build and Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Wiring",
+      "experience": 5
+    },
+    {
+      "skill": "Testing Electrical Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Install, maintain, and repair electrical wiring, equipment, and fixtures."
+    },
+    {
+      "duty": "Inspect electrical systems, equipment, and components to identify hazards, defects, and the need for adjustment or repair."
+    },
+    {
+      "duty": "Follow state and local building regulations based on the National Electrical Code."
+    },
+    {
+      "duty": "Perform general electrical maintenance."
+    },
+    {
+      "duty": "Read Electrical Diagrams and BOMs."
+    },
+    {
+      "duty": "Size Rigid conduit and EMT based on wire size."
+    },
+    {
+      "duty": "Bend Rigid conduit and EMT."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 50,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": []
+}

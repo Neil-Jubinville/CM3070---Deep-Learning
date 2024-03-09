@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Echo Technologist PRN",
+      "job_category": "Healthcare",
+      "job_class": "Technologist",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Echocardiography",
+      "experience": 2
+    },
+    {
+      "skill": "Doppler",
+      "experience": 2
+    },
+    {
+      "skill": "Stress Echocardiograms",
+      "experience": 2
+    },
+    {
+      "skill": "Transesophogeal Echocardiograms",
+      "experience": 2
+    },
+    {
+      "skill": "Supervision",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform 2D/M-Mode, Doppler, Stress Echocardiograms, and Transesophogeal Echocardiograms, including processing all orders and reports."
+    },
+    {
+      "duty": "Direct supervision of students at the discretion of the area supervisor."
+    },
+    {
+      "duty": "Provide primary caregiver availability to the student throughout the shift."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate degree in sonography specializing in cardiology preferred."
+    }
+  ]
+}

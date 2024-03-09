@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Technician",
+      "job_category": "Technical",
+      "job_class": "Technician",
+      "sector": "Telecommunications",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nokia equipment proficiency",
+      "experience": 3
+    },
+    {
+      "skill": "RF transmitters and antenna systems",
+      "experience": 3
+    },
+    {
+      "skill": "Fiber and microwave radio understanding",
+      "experience": 3
+    },
+    {
+      "skill": "AC-DC power systems knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 4
+    },
+    {
+      "skill": "Attention To Detail",
+      "experience": 4
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide technical support within and occasionally outside immediate team for network performance initiatives and outage resolution."
+    },
+    {
+      "duty": "Takes on smaller projects or portions of key projects / initiatives, providing accurate status and progress updates as requested."
+    },
+    {
+      "duty": "Identify and share potential process improvements. Recommend process improvements related to maintenance and repair activities."
+    },
+    {
+      "duty": "Enroll in and complete training requirements to stay current on existing and new systems and products, to grow skills, and to expand proficiency in company values and organizational requirements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Two-year vocational degree in a technical discipline or equivalent experience."
+    }
+  ]
+}

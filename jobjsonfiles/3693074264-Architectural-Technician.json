@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Architectural Technician",
+      "job_category": "Architecture",
+      "job_class": "Technician",
+      "sector": "Architecture",
+      "salary": 65000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Revit",
+      "experience": 1
+    },
+    {
+      "skill": "Architectural Modeling",
+      "experience": 1
+    },
+    {
+      "skill": "Construction Document Production",
+      "experience": 1
+    },
+    {
+      "skill": "Adobe Photoshop",
+      "experience": 1
+    },
+    {
+      "skill": "Adobe Illustrator",
+      "experience": 1
+    },
+    {
+      "skill": "BIM/CAD Procedures",
+      "experience": 1
+    },
+    {
+      "skill": "Commercial Construction",
+      "experience": 1
+    },
+    {
+      "skill": "Sketch Up",
+      "experience": 1
+    },
+    {
+      "skill": "AutoCAD",
+      "experience": 1
+    },
+    {
+      "skill": "Navisworks",
+      "experience": 1
+    },
+    {
+      "skill": "Microsoft Excel",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support the production of construction documents by creating models, drafting drawings, and coordinating with external consultants using BIM applications."
+    },
+    {
+      "duty": "Assist in the production of prototype details and drawing files, creating presentation drawings and rendered exhibits for submittal to various entities."
+    },
+    {
+      "duty": "Thorough knowledge of and compliance with BIM/CAD procedures and standards."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 150,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "2-year degree in Architectural Drafting or related field (4-year degree preferred)"
+    }
+  ]
+}

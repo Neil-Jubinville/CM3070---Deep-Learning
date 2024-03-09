@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Automotive Service Technician",
+      "job_category": "Retail",
+      "job_class": "Technician",
+      "sector": "Automotive",
+      "salary": 48000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Automotive Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Technical Inspection",
+      "experience": 2
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Tire Service",
+      "experience": 2
+    },
+    {
+      "skill": "Oil Change",
+      "experience": 2
+    },
+    {
+      "skill": "Brake Service",
+      "experience": 2
+    },
+    {
+      "skill": "ASE Certification",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform automotive services and repairs as required, including road tests, inspections, and explaining diagnoses to non-mechanical individuals."
+    },
+    {
+      "duty": "Maintain store cleanliness and equipment efficiency, adhere to safety policies, and provide on-the-job training for new team members."
+    },
+    {
+      "duty": "Handle physical demands such as tire deliveries, tire services, oil changes, alignments, fluid services, brake services, and other miscellaneous tasks."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid automobile driver\u2019s license and a minimum 2 years of automotive repair experience, completion of Vocational-Technical School program in a related field, or demonstrated skills via third party certificates/assessment. ASE certification in at least one of A1-A8 is preferred."
+    }
+  ]
+}

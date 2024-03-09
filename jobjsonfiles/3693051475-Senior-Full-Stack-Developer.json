@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Full Stack Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "Flask",
+      "experience": 5
+    },
+    {
+      "skill": "HTML5",
+      "experience": 5
+    },
+    {
+      "skill": "CSS",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "Test-Driven Development",
+      "experience": 5
+    },
+    {
+      "skill": "Object-Oriented Design",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop applications to identify active cybersecurity incidents and proactively mitigate risks."
+    },
+    {
+      "duty": "Leverage full stack expertise to build high-level security infrastructure for protecting sensitive data against complex security threats."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Athletic Trainer",
+      "job_category": "Healthcare",
+      "job_class": "Trainer",
+      "sector": "Sports Medicine",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sports Injury Evaluation",
+      "experience": 3
+    },
+    {
+      "skill": "Rehabilitation Techniques",
+      "experience": 3
+    },
+    {
+      "skill": "First Aid and CPR",
+      "experience": 3
+    },
+    {
+      "skill": "Athlete Assessment",
+      "experience": 3
+    },
+    {
+      "skill": "Exercise Prescription",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct sports injury evaluations and develop treatment plans for athletes."
+    },
+    {
+      "duty": "Provide rehabilitation techniques and oversee athletes' recovery process."
+    },
+    {
+      "duty": "Perform athlete assessments and provide exercise prescriptions for individual needs."
+    },
+    {
+      "duty": "Document medical records and maintain accurate reports of athlete progress."
+    },
+    {
+      "duty": "Utilize first aid and CPR in emergency situations to ensure athlete safety."
+    },
+    {
+      "duty": "Demonstrate strong interpersonal and communication skills when working with athletes and coaching staff."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Athletic Training or related field (Master's preferred)"
+    }
+  ]
+}

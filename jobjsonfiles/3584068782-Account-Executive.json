@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Account Executive",
+      "job_category": "Sales",
+      "job_class": "Executive",
+      "sector": "Sales",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Strategic Business Development",
+      "experience": 5
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Revenue Growth",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Goals",
+      "experience": 5
+    },
+    {
+      "skill": "Social Networking",
+      "experience": 5
+    },
+    {
+      "skill": "CRM Management",
+      "experience": 5
+    },
+    {
+      "skill": "Market Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Confidentiality Management",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Reporting",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and execute strategic business development action plans within a prescribed territory to generate revenue growth and expand the client base."
+    },
+    {
+      "duty": "Maintain client relationship management at key accounts through the account development cycle to ensure client satisfaction and loyalty."
+    },
+    {
+      "duty": "Identify and initiate contact with decision-makers, securing initial client visits and converting prospects into new clients."
+    },
+    {
+      "duty": "Maintain confidential and accurate client information in the Customer Relationship Management System (CRM) and prepare sales reports as directed."
+    },
+    {
+      "duty": "Represent the company at industry-related functions, networking events, and maintain a high level of confidentiality with regards to all internal and external matters."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Management, Administration, or related field (Master's preferred)"
+    }
+  ]
+}

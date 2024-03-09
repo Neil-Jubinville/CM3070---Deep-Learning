@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Accounting Clerk",
+      "job_category": "Accounting",
+      "job_class": "Clerical",
+      "sector": "Finance",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Receives, processes and records cash, check or fund payments."
+    },
+    {
+      "duty": "Verifies amount received is correct, issues receipt and enters and records transactions into accounting system."
+    },
+    {
+      "duty": "Computes charges and refunds."
+    },
+    {
+      "duty": "Maintains accounting controls and financial security by following policies and procedures and internal controls."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Bookkeeping",
+      "experience": 2
+    },
+    {
+      "skill": "Accounting",
+      "experience": 2
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 2
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or G.E.D. AND two (2) years of relevant bookkeeping/accounting experience; OR, Any combination of education and experience that has been achieved and is equivalent to the stated education and experience and required knowledge, skills, and abilities sufficient to successfully perform the duties and responsibilities of this job."
+    }
+  ]
+}

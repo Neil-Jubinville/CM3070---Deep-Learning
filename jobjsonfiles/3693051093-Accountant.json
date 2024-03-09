@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Accountant",
+      "job_category": "Accounting",
+      "job_class": "Professional",
+      "sector": "Finance",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 3
+    },
+    {
+      "skill": "Forecasting",
+      "experience": 3
+    },
+    {
+      "skill": "Budgeting",
+      "experience": 3
+    },
+    {
+      "skill": "Analytical Mindset",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensure business transactions are reported in accordance with generally accepted accounting principles"
+    },
+    {
+      "duty": "Work closely with team members to assist with the month-end close"
+    },
+    {
+      "duty": "Assist with the annual audit process including the draft of the financial statements and related notes"
+    },
+    {
+      "duty": "Research and analyze expense variances for company management"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting, Finance, or Economics or equivalent experience, CPA preferred"
+    }
+  ]
+}

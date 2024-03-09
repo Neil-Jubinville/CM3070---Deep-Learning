@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Orthotic/Prosthetic Specialist",
+      "job_category": "Healthcare",
+      "job_class": "Specialist",
+      "sector": "Healthcare",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Orthotic/Prosthetic Fabrication",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Device Fitting and Adjustment",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 5
+    },
+    {
+      "skill": "Record Keeping",
+      "experience": 5
+    },
+    {
+      "skill": "On-Call Duties",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and fabricate orthotic/prosthetic devices."
+    },
+    {
+      "duty": "Assess patient needs and develop treatment plans."
+    },
+    {
+      "duty": "Fit and adjust devices to meet patient needs."
+    },
+    {
+      "duty": "Educate patients on the use of devices."
+    },
+    {
+      "duty": "Monitor patient progress and adjust devices as needed."
+    },
+    {
+      "duty": "Maintain accurate records of patient care."
+    },
+    {
+      "duty": "Rotating on call duties."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "ABC or BOC Certification and a valid driver's license"
+    }
+  ]
+}

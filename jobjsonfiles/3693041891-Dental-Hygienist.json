@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Dental Hygienist",
+      "job_category": "Healthcare",
+      "job_class": "Hygienist",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Dental Hygiene Services",
+      "experience": 5
+    },
+    {
+      "skill": "X-Ray Imaging",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 5
+    },
+    {
+      "skill": "Dental Software Proficiency",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 5
+    },
+    {
+      "skill": "Oral Hygiene Best Practices",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform dental hygiene services, such as cleaning, scaling, and polishing teeth, taking X-rays, and educating patients on oral hygiene."
+    },
+    {
+      "duty": "Work collaboratively with the dental team to provide high-quality care and ensure patient satisfaction."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100
+    },
+    {
+      "student_teacher": 100
+    },
+    {
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's or Bachelor's degree in Dental Hygiene or related field"
+    },
+    {
+      "credential": "Valid and active state Dental Hygienist license"
+    }
+  ]
+}

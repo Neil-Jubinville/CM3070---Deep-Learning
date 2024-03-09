@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Manager",
+      "job_category": "Sales",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Management",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Strategy",
+      "experience": 5
+    },
+    {
+      "skill": "Cold Calling",
+      "experience": 5
+    },
+    {
+      "skill": "Salesforce",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and mentor a small sales team and provide insights on cold calling and sales strategies."
+    },
+    {
+      "duty": "Track, measure, and report on sales data to make effective decisions."
+    },
+    {
+      "duty": "Drive hiring and development of team members."
+    },
+    {
+      "duty": "Promote an environment of sales excellence in the Sales Development team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business, Sales, or a related field (Master's preferred)"
+    }
+  ]
+}

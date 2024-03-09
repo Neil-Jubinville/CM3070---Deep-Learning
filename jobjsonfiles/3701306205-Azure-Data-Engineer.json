@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Azure Data Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 4
+    },
+    {
+      "skill": "Snowflake",
+      "experience": 3
+    },
+    {
+      "skill": "Data Warehousing/Design",
+      "experience": 4
+    },
+    {
+      "skill": "ETL",
+      "experience": 4
+    },
+    {
+      "skill": "Python",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain data infrastructure to ensure the smooth flow of data for analytics and insights projects."
+    },
+    {
+      "duty": "Play a critical role in SQL, data warehousing, ETL processes, and preference for Snowflake experience."
+    },
+    {
+      "duty": "Additional experience with dbt or semantic layer tools will be a bonus, and proficiency in Python is advantageous."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams for effective communication and problem-solving."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or a related field."
+    }
+  ]
+}

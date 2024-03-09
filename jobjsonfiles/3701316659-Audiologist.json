@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Audiologist",
+      "job_category": "Healthcare",
+      "job_class": "Audiologist",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Expertise",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Hearing Aid Dispensing",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnostic Audiology",
+      "experience": 5
+    },
+    {
+      "skill": "Telehealth",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communications",
+      "experience": 5
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Diagnose and treat hearing loss, ensuring a positive patient experience."
+    },
+    {
+      "duty": "Offer best-in-class modern hearing healthcare assessment and treatment."
+    },
+    {
+      "duty": "Provide quality care and aftercare of dispensing services such as hearing tests and hearing aid fittings."
+    },
+    {
+      "duty": "Perform checks on hearing aids and other amplification devices, troubleshooting and conducting repairs."
+    },
+    {
+      "duty": "Achieve growth and maintain clinic inventory to drive business, including accurate recordkeeping."
+    },
+    {
+      "duty": "Support Telehealth initiatives and expand patient care and product portfolio."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's Degree and/or Doctorate of Audiology, active Hearing Aid Dispensing License, and continuing education requirements."
+    }
+  ]
+}

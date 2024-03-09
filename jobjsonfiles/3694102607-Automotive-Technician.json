@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Automotive Technician",
+      "job_category": "Automotive",
+      "job_class": "Technician",
+      "sector": "Mechanical",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Automotive Diagnostics",
+      "experience": 3
+    },
+    {
+      "skill": "Vehicle Repair",
+      "experience": 4
+    },
+    {
+      "skill": "Digital Manuals and Tools",
+      "experience": 3
+    },
+    {
+      "skill": "Road Testing",
+      "experience": 3
+    },
+    {
+      "skill": "ASE Certification",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform work as outlined on repair order with efficiency and accuracy, in accordance with dealership and factory standards."
+    },
+    {
+      "duty": "Diagnose cause of any malfunction and perform repair."
+    },
+    {
+      "duty": "Maintain leading-edge knowledge of automotive diagnosis technology, digital manuals, and reference materials."
+    },
+    {
+      "duty": "Keep shop area neat and clean, and be able to account for dealership tools at all times."
+    },
+    {
+      "duty": "Road-test vehicles to ensure of quality repair."
+    },
+    {
+      "duty": "Adapt to rapidly changing technologies in the automotive industry, as well as in the diagnostics arena."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 20,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Appropriate Technical training or AUDI/VW certifications valued, ASEs a plus."
+    }
+  ]
+}

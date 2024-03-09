@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Financial Analyst",
+      "job_category": "Finance",
+      "job_class": "Analyst",
+      "sector": "Finance",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "ROI Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 2
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "MS Excel",
+      "experience": 2
+    },
+    {
+      "skill": "Oracle Financials",
+      "experience": 2
+    },
+    {
+      "skill": "Accounting",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Managing R&D Spend for product roadmap."
+    },
+    {
+      "duty": "Performing ROI analysis on current and future engineering investments."
+    },
+    {
+      "duty": "Working closely with project managers to track and forecast spend to help make accounting judgments."
+    },
+    {
+      "duty": "Prepare quarter-end journal entries and any necessary reporting functions."
+    },
+    {
+      "duty": "Collecting, analyzing, and reporting on our quarterly expense, headcount and capital budgets."
+    },
+    {
+      "duty": "Consistently improving processes to improve spending predictability."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Accounting or Finance"
+    }
+  ]
+}

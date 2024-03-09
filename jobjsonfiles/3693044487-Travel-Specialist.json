@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Travel Specialist",
+      "job_category": "Travel",
+      "job_class": "Specialist",
+      "sector": "Travel",
+      "salary": 45000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Travel Booking",
+      "experience": 3
+    },
+    {
+      "skill": "Tour Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Reservation Management",
+      "experience": 3
+    },
+    {
+      "skill": "Travel Trends Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Organization and Planning",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Arrange Travel for families, sports teams, vacations, weddings, and more"
+    },
+    {
+      "duty": "Determine customer's needs and preferences"
+    },
+    {
+      "duty": "Plan and arrange tour packages, excursions, day trips, etc."
+    },
+    {
+      "duty": "Book reservations for travel, hotel, flights, rental cars, special occasions, honeymoons"
+    },
+    {
+      "duty": "Stay up to date on travel trends/restrictions/etc."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": []
+}

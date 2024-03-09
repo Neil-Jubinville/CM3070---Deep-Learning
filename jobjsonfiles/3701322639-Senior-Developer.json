@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 115000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft .NET \u2013 ASP.NET, C#",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript, Angular 2/4/5, NodeJS",
+      "experience": 5
+    },
+    {
+      "skill": "REST services, Microsoft ASP.NET Web API",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "MS SQL Server, stored procedures",
+      "experience": 5
+    },
+    {
+      "skill": "MS Visual Studio/Azure Devops",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD deployment practices",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Development (SCRUM)",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking and Problem-solving",
+      "experience": 5
+    },
+    {
+      "skill": "Good communication skills",
+      "experience": 5
+    },
+    {
+      "skill": "Ability to work independently and in a team environment",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop enterprise cloud-based solutions using AWS."
+    },
+    {
+      "duty": "Work closely with business analysts throughout the analysis and design phase to create design deliverables."
+    },
+    {
+      "duty": "Develop software solutions based on stated system requirements and unit test the resulting work."
+    },
+    {
+      "duty": "Communicate regularly with technical team lead concerning status of existing work and issues encountered."
+    },
+    {
+      "duty": "Assess performance and supportability requirements of new and existing systems and recommend design alternatives."
+    },
+    {
+      "duty": "Create system support documentation for software deployed to production."
+    },
+    {
+      "duty": "Develop high quality software on time while keeping technical debt low."
+    },
+    {
+      "duty": "Implement proactive monitoring and alerting to ensure operational stability and supportability."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": []
+}

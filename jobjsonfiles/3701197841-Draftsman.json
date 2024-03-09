@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Draftsman",
+      "job_category": "Design",
+      "job_class": "Draftsman",
+      "sector": "Commercial Millwork",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AutoCAD",
+      "experience": 3
+    },
+    {
+      "skill": "Architectural Drawing",
+      "experience": 3
+    },
+    {
+      "skill": "Cost Saving Strategy",
+      "experience": 3
+    },
+    {
+      "skill": "Engineering",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Construction Practices",
+      "experience": 3
+    },
+    {
+      "skill": "Detailing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop commercial millwork shop drawings using AutoCAD and understanding of architectural drawings."
+    },
+    {
+      "duty": "Implement cost-saving strategies and processes for each project."
+    },
+    {
+      "duty": "Manage multiple tasks and projects on an ongoing basis."
+    },
+    {
+      "duty": "Communicate effectively with team members and clients regarding project details."
+    },
+    {
+      "duty": "Submit shop drawings for approval and adhere to construction practices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Proficiency in AutoCAD and Architectural Drawing certification preferred."
+    }
+  ]
+}

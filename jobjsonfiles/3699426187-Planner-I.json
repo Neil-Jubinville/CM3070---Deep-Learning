@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Planner I",
+      "job_category": "Supply Chain",
+      "job_class": "Planner",
+      "sector": "Manufacturing",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Supply Chain Management",
+      "experience": 3
+    },
+    {
+      "skill": "Purchasing",
+      "experience": 3
+    },
+    {
+      "skill": "Capacity Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Material Requirements Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "ERP Systems",
+      "experience": 3
+    },
+    {
+      "skill": "CostPoint",
+      "experience": 3
+    },
+    {
+      "skill": "SAP",
+      "experience": 3
+    },
+    {
+      "skill": "Manufacturing Resource Planning",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Efficiently procure raw materials and components based on price and schedule demand to ensure delivery prior to the production start date."
+    },
+    {
+      "duty": "Research new suppliers when necessary and maintain working relationships with current and new suppliers through regular communication."
+    },
+    {
+      "duty": "Monitor supply levels based on part usage, quantities, and material lead times, and collaborate with suppliers to maintain delivery schedules."
+    },
+    {
+      "duty": "Prepare and issue purchase orders (POs) in conjunction with the Planning/Procurement Team to vendors using approved documentation and systems for submission."
+    },
+    {
+      "duty": "Reconcile and close out POs and procurement transactions using the ERP system, and troubleshoot reconciliation issues with the internal planning/procurement team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Supply Chain, Business, or related field"
+    }
+  ]
+}

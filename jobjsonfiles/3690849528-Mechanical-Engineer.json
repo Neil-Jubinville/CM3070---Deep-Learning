@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Mechanical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Mechanical Engineering",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "AutoCAD",
+      "experience": 5
+    },
+    {
+      "skill": "Revit",
+      "experience": 5
+    },
+    {
+      "skill": "Professional Engineering License",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design heating systems, including hydronic and steam piping, boilers, pumps, controls, etc."
+    },
+    {
+      "duty": "HVAC System Controls \u2013 Development/design of control sequences of operation, schematic control drawings, and understanding of building automation controls"
+    },
+    {
+      "duty": "Plumbing Systems - Sanitary piping, domestic hot and cold water piping, hot water generation, piping insulation, pump systems, fuel and gas systems, laboratory piping, etc."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelors Degree in Mechanical Engineering from an ABET-accredited program. Professional Engineering License (or the ability to acquire it within 9 months)"
+    }
+  ]
+}

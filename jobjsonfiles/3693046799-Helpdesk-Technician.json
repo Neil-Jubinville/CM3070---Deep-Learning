@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Helpdesk Technician",
+      "job_category": "Information Technology",
+      "job_class": "Technician",
+      "sector": "Information Technology",
+      "salary": 45000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Hardware Support",
+      "experience": 2
+    },
+    {
+      "skill": "Software Support",
+      "experience": 2
+    },
+    {
+      "skill": "Network Support",
+      "experience": 2
+    },
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 2
+    },
+    {
+      "skill": "Help Desk Management",
+      "experience": 2
+    },
+    {
+      "skill": "Hardware Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Virus Protection and Patch Management",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide end-user support and assistance with hardware, software, network, and technical support for employees."
+    },
+    {
+      "duty": "Log and track calls using help desk software; maintain history records and related problem documentation."
+    },
+    {
+      "duty": "Maintain, analyze, repair, upgrade, replace, or install computer hardware, peripherals, and software systems."
+    },
+    {
+      "duty": "Ensure virus protection and patches are maintained on all computers."
+    },
+    {
+      "duty": "Identify inefficiencies in processes and make recommendations for improvement."
+    },
+    {
+      "duty": "Engage vendors as needed to ensure applications are operating efficiently."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate\u2019s degree or two-year degree from an IT technical school in a related IT field, OR a High School Diploma or GED equivalent and a minimum of one (1) year IT related experience or training."
+    }
+  ]
+}

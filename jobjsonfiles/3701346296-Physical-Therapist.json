@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Physical Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Physical Therapy",
+      "experience": 5
+    },
+    {
+      "skill": "Orthopedic Conditions",
+      "experience": 5
+    },
+    {
+      "skill": "Neurological Disorders",
+      "experience": 5
+    },
+    {
+      "skill": "Ergonomic Conditions",
+      "experience": 5
+    },
+    {
+      "skill": "Neuromuscular Syndromes",
+      "experience": 5
+    },
+    {
+      "skill": "Detail-Oriented",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Regulations",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide expert care and treatment for patients with orthopedic conditions, rheumatic and neurological disorders, geriatrics, ergonomic conditions, and neuromuscular syndromes."
+    },
+    {
+      "duty": "Maintain a strong patient-focused and detail-oriented approach in providing direct, hands-on care to patients."
+    },
+    {
+      "duty": "Ensure compliance with healthcare regulations and standards in the delivery of physical therapy services."
+    },
+    {
+      "duty": "Collaborate with other healthcare professionals to optimize patient care plans and outcomes."
+    },
+    {
+      "duty": "Continuously update and enhance skills and knowledge through ongoing education and training."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master\u2019s or Doctorate of Physical Therapy required"
+    }
+  ]
+}

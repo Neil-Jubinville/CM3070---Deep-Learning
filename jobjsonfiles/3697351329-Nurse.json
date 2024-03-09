@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical-surgical Nursing",
+      "experience": 5
+    },
+    {
+      "skill": "Telemetry Nursing",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Cardiovascular Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Respiratory Care",
+      "experience": 5
+    },
+    {
+      "skill": "Diabetes Management",
+      "experience": 5
+    },
+    {
+      "skill": "Surgical Care",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide medical-surgical and telemetry nursing care and monitoring for patients with cardiovascular, respiratory, diabetic, and infectious conditions."
+    },
+    {
+      "duty": "Participate in critical thinking and patient care management for medical and surgical patients."
+    },
+    {
+      "duty": "Utilize cardiovascular monitoring and respiratory care techniques for patient assessment and intervention."
+    },
+    {
+      "duty": "Manage and administer diabetes care and medication as per patient needs."
+    },
+    {
+      "duty": "Coordinate and assist in surgical patient care and post-operative management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited school of Nursing"
+    },
+    {
+      "credential": "PA Registered Nurse License"
+    },
+    {
+      "credential": "BLS Certification"
+    },
+    {
+      "credential": "ACLS Certification"
+    }
+  ]
+}

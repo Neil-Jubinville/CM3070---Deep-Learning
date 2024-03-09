@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Manufacturing Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Manufacturing",
+      "salary": 62000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Manufacturing Processes",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Guidance",
+      "experience": 3
+    },
+    {
+      "skill": "Mechanical Engineering",
+      "experience": 2
+    },
+    {
+      "skill": "GD&T Interpretation",
+      "experience": 2
+    },
+    {
+      "skill": "Inspection Techniques",
+      "experience": 3
+    },
+    {
+      "skill": "Lean/Six Sigma",
+      "experience": 2
+    },
+    {
+      "skill": "Root Cause Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Fixture Design",
+      "experience": 3
+    },
+    {
+      "skill": "Sheet Metal Fabrication",
+      "experience": 3
+    },
+    {
+      "skill": "CAD Software",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and implement manufacturing processes utilizing sound engineering judgment and methodologies."
+    },
+    {
+      "duty": "Ensure manufacturing processes are clearly defined and communicated from engineering to the shop floor."
+    },
+    {
+      "duty": "Provide technical guidance and training to operators, technicians, and engineers."
+    },
+    {
+      "duty": "Define inspection requirements and develop new repair processes for new failure modes."
+    },
+    {
+      "duty": "Communicate and work effectively with design and engineering colleagues on process improvements and new product development."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS in Mechanical Engineering, Manufacturing Engineering, or a related field is required (New graduates encouraged to apply)"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Account Manager",
+      "job_category": "Sales",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Corporate Sales Solution",
+      "experience": 5
+    },
+    {
+      "skill": "Technology Solution Selling",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Sales and Business Acumen",
+      "experience": 5
+    },
+    {
+      "skill": "Executive Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Salesforce",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Leverage existing strategic client relationships to expand sales and develop comprehensive account plans."
+    },
+    {
+      "duty": "Identify, bid on, negotiate, and close new sales opportunities while maintaining accurate and detailed sales forecasts."
+    },
+    {
+      "duty": "Build and manage internal and external relationships with partners and high performing talent recruitment."
+    },
+    {
+      "duty": "Manage client and team meetings, funnel and deal management, and sequential improvements in close rates."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent education and experience (Master's preferred)"
+    }
+  ]
+}

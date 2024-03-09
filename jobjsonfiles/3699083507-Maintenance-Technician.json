@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Technology",
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain and repair internet service wires from hub sites to customer connection points."
+    },
+    {
+      "duty": "Monitor and report signal leakages and perform repairs as necessary."
+    },
+    {
+      "duty": "Work independently in all weather conditions, providing 24/7 coverage."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cable Experience",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Mathematics",
+      "experience": 1
+    },
+    {
+      "skill": "Electronics Knowledge",
+      "experience": 1
+    },
+    {
+      "skill": "Computer or Test Equipment Operation",
+      "experience": 1
+    },
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Communication",
+      "experience": 1
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 40,
+      "introvert_extrovert": 220
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent work experience"
+    }
+  ]
+}

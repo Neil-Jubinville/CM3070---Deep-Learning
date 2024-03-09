@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Computer Vision",
+      "experience": 7
+    },
+    {
+      "skill": "C++",
+      "experience": 7
+    },
+    {
+      "skill": "OpenCV",
+      "experience": 7
+    },
+    {
+      "skill": "Python",
+      "experience": 7
+    },
+    {
+      "skill": "NVIDIA Software Libraries",
+      "experience": 2
+    },
+    {
+      "skill": "Deep Learning",
+      "experience": 2
+    },
+    {
+      "skill": "Docker",
+      "experience": 2
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 2
+    },
+    {
+      "skill": "Neural Network Frameworks",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead or actively contribute to the architecture, design, implementation, and delivery of a multi-modal perception system."
+    },
+    {
+      "duty": "Build software infrastructure for learning algorithms to leverage large scale image/LIDAR data."
+    },
+    {
+      "duty": "Design and write highly optimized pipelines for data pre-processing, model training, data post-processing, inferencing etc."
+    },
+    {
+      "duty": "Train perception models, evaluate their performance, investigate and fix performance bottlenecks."
+    },
+    {
+      "duty": "Develop scalable training and evaluation tools and infrastructure."
+    },
+    {
+      "duty": "Collaborate with other engineers to conduct system integration and tests."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Masters\u2019 or Ph.D. degree in Computer Science, Electrical Engineering, Robotics or related field"
+    }
+  ]
+}

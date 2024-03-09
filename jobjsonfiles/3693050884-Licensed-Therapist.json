@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Therapist",
+      "job_category": "Therapy",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Compassionate Care",
+      "experience": 5
+    },
+    {
+      "skill": "Therapy Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Treatment Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Referral Management",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Feedback",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide compassionate care and support to patients in need of therapy."
+    },
+    {
+      "duty": "Conduct thorough assessments of patients' mental health and well-being."
+    },
+    {
+      "duty": "Develop personalized treatment plans to aid patients in their improvement journey."
+    },
+    {
+      "duty": "Maintain accurate and prompt documentation of patient progress and history."
+    },
+    {
+      "duty": "Refer patients to psychiatry services when necessary."
+    },
+    {
+      "duty": "Collaborate with the executive team to ensure positive patient experiences and outcomes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate from an LMFT program and current license as an LMFT, LCSW, or LPCC in CA"
+    }
+  ]
+}

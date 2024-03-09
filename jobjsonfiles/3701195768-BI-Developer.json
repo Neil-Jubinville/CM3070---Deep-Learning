@@ -1,0 +1,44 @@
+{
+  "meta": [
+    {
+      "job_title": "BI Developer",
+      "job_category": "Information Technology",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "AWS QuickSight",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and manage data solutions using Python, SQL, and AWS QuickSight for analysis and visualization."
+    },
+    {
+      "duty": "Ensure regulatory and compliance requirements are met in pharma/healthcare data projects."
+    },
+    {
+      "duty": "Create detailed dashboards and visualizations using AWS QuickSight or similar BI tools."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    },
+    {
+      "credential": "Certification in AWS or similar BI tools is a plus"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Dietary Aide",
+      "job_category": "Food Services",
+      "job_class": "Aide",
+      "sector": "Food Services",
+      "salary": 26000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Food Safety",
+      "experience": 1
+    },
+    {
+      "skill": "Tray Setup",
+      "experience": 1
+    },
+    {
+      "skill": "Food Temperature Management",
+      "experience": 1
+    },
+    {
+      "skill": "Effective Communication",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepares and/or pre-portions food for regular and therapeutic diets according to the planned menu and production sheets."
+    },
+    {
+      "duty": "Handles food using proper food handling and food safety techniques according to established policies and procedures."
+    },
+    {
+      "duty": "Ensures that food is served in an attractive, appetizing manner and maintains the proper temperature of food during preparation and service."
+    },
+    {
+      "duty": "Assists with the setup of the tray line and assembles trays according to the planned menu and tray tickets, resident food preferences, and diet order."
+    },
+    {
+      "duty": "Assists in checking trays during service for accuracy."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 40,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum 10th grade education"
+    }
+  ]
+}

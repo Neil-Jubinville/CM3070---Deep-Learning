@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Scientist",
+      "job_category": "Data Science",
+      "job_class": "Scientist",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analytics",
+      "experience": 3
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 3
+    },
+    {
+      "skill": "Scripting (SQL, Python)",
+      "experience": 3
+    },
+    {
+      "skill": "Briefing Techniques",
+      "experience": 3
+    },
+    {
+      "skill": "Operations Research",
+      "experience": 3
+    },
+    {
+      "skill": "Data Engineering",
+      "experience": 3
+    },
+    {
+      "skill": "Security Clearance",
+      "experience": 2
+    },
+    {
+      "skill": "Economics, Mathematics, Statistics",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Unlocking the secrets of data sets using data analytics and data visualization tools"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Economics, Operations Research, Management Science, Mathematics, Statistics, or Engineering (Master\u2019s degree preferred)"
+    }
+  ]
+}

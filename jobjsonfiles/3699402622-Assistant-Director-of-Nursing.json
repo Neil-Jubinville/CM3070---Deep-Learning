@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Director of Nursing",
+      "job_category": "Nursing",
+      "job_class": "Director",
+      "sector": "Healthcare",
+      "salary": 105000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Nursing Education",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Specialty Management",
+      "experience": 5
+    },
+    {
+      "skill": "Supervisory Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Teaching Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Operating Room Management",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist with the planning, organizing, directing, controlling, and evaluation of nursing service and education program of the hospital, diagnostic and treatment center or a major unit within the Department of Nursing."
+    },
+    {
+      "duty": "Manage the clinical management of patients in the Preoperative and procedural areas."
+    },
+    {
+      "duty": "Serve as a role model and resource to the nursing staff, provide consultation and participate in the development of nursing care standards in the department."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's Degree in Nursing Administration, Education, Clinical Specialty or equivalent field and five years of satisfactory nursing experience, of which three years shall have been in a supervisory or teaching capacity; or a Baccalaureate Degree in Nursing and six years of satisfactory nursing experience, four years of which shall have been in a supervisory or teaching capacity."
+    }
+  ]
+}

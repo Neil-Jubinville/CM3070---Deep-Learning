@@ -1,0 +1,114 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Docker",
+      "experience": 3
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 3
+    },
+    {
+      "skill": "Relational Databases",
+      "experience": 3
+    },
+    {
+      "skill": "RESTful Architecture",
+      "experience": 3
+    },
+    {
+      "skill": "Micro-services",
+      "experience": 3
+    },
+    {
+      "skill": "AWS",
+      "experience": 3
+    },
+    {
+      "skill": "Continuous Integration",
+      "experience": 3
+    },
+    {
+      "skill": "Continuous Delivery",
+      "experience": 3
+    },
+    {
+      "skill": "Java",
+      "experience": 3
+    },
+    {
+      "skill": "Python",
+      "experience": 2
+    },
+    {
+      "skill": "Kafka",
+      "experience": 2
+    },
+    {
+      "skill": "Financial Planning Systems Integration",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Project Cycle",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build mission-critical Integrations between source data with financial SaaS applications."
+    },
+    {
+      "duty": "Lead multidimensional projects that involve multiple teams."
+    },
+    {
+      "duty": "Lead and work with other software engineers on design best practices and conduct code reviews."
+    },
+    {
+      "duty": "Resolve complex engineering problems by collaborating with others."
+    },
+    {
+      "duty": "Facilitate cross-functional troubleshooting, root cause analysis, and engage others when needed."
+    },
+    {
+      "duty": "Create, evaluate, and contribute to feature detailed designs."
+    },
+    {
+      "duty": "Design, develop, and implement software utilizing an agile project cycle."
+    },
+    {
+      "duty": "Mentor others on the team and raise the bar for technical knowledge across a wide spectrum."
+    },
+    {
+      "duty": "Demonstrate thorough knowledge of information technology concepts, issues, trends, and best practices as they relate to Cloud technologies and system integrations."
+    },
+    {
+      "duty": "Apply and share knowledge of security coding practices and secure system fundamentals."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 170,
+      "introvert_extrovert": 85
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelors or Masters degree in Computer Science, Engineering, or equivalent practical experience"
+    }
+  ]
+}

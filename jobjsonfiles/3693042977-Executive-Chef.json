@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Executive Chef",
+      "job_category": "Culinary",
+      "job_class": "Executive",
+      "sector": "Culinary",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Culinary Creativity",
+      "experience": 7
+    },
+    {
+      "skill": "Latin Cuisine",
+      "experience": 5
+    },
+    {
+      "skill": "Spanish Cuisine",
+      "experience": 5
+    },
+    {
+      "skill": "Mexican Cuisine",
+      "experience": 5
+    },
+    {
+      "skill": "Menu Development",
+      "experience": 7
+    },
+    {
+      "skill": "Kitchen Management",
+      "experience": 7
+    },
+    {
+      "skill": "Food Safety and Hygiene",
+      "experience": 7
+    },
+    {
+      "skill": "Budgeting and Cost Control",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and create new and innovative dishes with Latin, Spanish, or Mexican influences."
+    },
+    {
+      "duty": "Oversee the kitchen operations and manage a team of culinary professionals."
+    },
+    {
+      "duty": "Ensure high standards of food quality, presentation, and taste."
+    },
+    {
+      "duty": "Create and maintain menu offerings that align with the restaurant's concept and customer preferences."
+    },
+    {
+      "duty": "Manage food inventory, cost control, and kitchen budget."
+    },
+    {
+      "duty": "Compliance with health and safety regulations and food hygiene standards."
+    },
+    {
+      "duty": "Train and mentor kitchen staff in culinary skills and standards."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Culinary Arts or related field (preferred)"
+    }
+  ]
+}

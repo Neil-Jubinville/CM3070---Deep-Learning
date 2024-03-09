@@ -1,0 +1,107 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Phlebotomy",
+      "experience": 1
+    },
+    {
+      "skill": "EKG",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Advocacy",
+      "experience": 2
+    },
+    {
+      "skill": "Medical History Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Vital Signs Measurement",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 2
+    },
+    {
+      "skill": "Room Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Infection Control",
+      "experience": 2
+    },
+    {
+      "skill": "HIPAA Compliance",
+      "experience": 2
+    },
+    {
+      "skill": "Quality Improvement",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Take and record patient blood pressure and EKGs."
+    },
+    {
+      "duty": "Serve as a patient advocate during exams and treatments."
+    },
+    {
+      "duty": "Interview patients to obtain medical information and measure their vital signs, weight, and height."
+    },
+    {
+      "duty": "Prepare patients for physician examinations and treatments."
+    },
+    {
+      "duty": "Record patients' medical history, medications, allergies, vital statistics, and test results in medical records."
+    },
+    {
+      "duty": "Explain treatment procedures, medications, diets, wound care instructions, and physicians' instructions to patients."
+    },
+    {
+      "duty": "Assist physicians during patient examinations and treatments."
+    },
+    {
+      "duty": "Authorize drug refills and provide prescription information to pharmacies under provider direction."
+    },
+    {
+      "duty": "Prepare treatment rooms for patient examinations and keep them clean and organized."
+    },
+    {
+      "duty": "Assess patient condition throughout exams and procedures, notifying physician and RN of any distress."
+    },
+    {
+      "duty": "Responsible for cleaning rooms and medical equipment between each patient and at the end of the day, disposing of infection waste and biohazard materials."
+    },
+    {
+      "duty": "Accurately document all procedures in a timely manner, maintaining patient confidentiality and data integrity in accordance with HIPAA."
+    },
+    {
+      "duty": "Adhere to all safety policies and procedures, supporting a culture of high-quality customer service and participating in department or unit quality improvement activities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Medical Assistant Certification"
+    }
+  ]
+}

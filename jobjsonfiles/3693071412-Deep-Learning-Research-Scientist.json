@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Deep Learning Research Scientist",
+      "job_category": "Data Science",
+      "job_class": "Scientist",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "PyTorch",
+      "experience": 5
+    },
+    {
+      "skill": "TensorFlow",
+      "experience": 5
+    },
+    {
+      "skill": "Generative Deep Learning (VAEs, GANs, diffusion models)",
+      "experience": 5
+    },
+    {
+      "skill": "Computer Vision",
+      "experience": 5
+    },
+    {
+      "skill": "Mathematics",
+      "experience": 5
+    },
+    {
+      "skill": "Statistics",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop cutting-edge generative deep learning models."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 100,
+      "introvert_extrovert": 220
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's or Ph.D. in Computer Vision, Deep Learning, Mathematics, Statistics or related field."
+    }
+  ]
+}

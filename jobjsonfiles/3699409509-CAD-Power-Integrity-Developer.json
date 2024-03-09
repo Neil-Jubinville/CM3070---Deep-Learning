@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "CAD Power Integrity Developer",
+      "job_category": "Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Ansys PowerArtist",
+      "experience": 5
+    },
+    {
+      "skill": "Cadence Joules",
+      "experience": 5
+    },
+    {
+      "skill": "Verilog",
+      "experience": 5
+    },
+    {
+      "skill": "Ansys Redhawk/Redhawk-SC",
+      "experience": 5
+    },
+    {
+      "skill": "Cadence Voltus",
+      "experience": 5
+    },
+    {
+      "skill": "Bash/Perl/Python/TCL",
+      "experience": 5
+    },
+    {
+      "skill": "UPF/CPF",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Analyze digital system RTL to determine power savings opportunities and implement corresponding changes to reduce power."
+    },
+    {
+      "duty": "Develop flows for power analysis and savings to be used by teams."
+    },
+    {
+      "duty": "Provide Technical Support and Guidance for power savings."
+    },
+    {
+      "duty": "Organize and deliver training on power analysis and savings to groups and companywide."
+    },
+    {
+      "duty": "Analyze and solve EM/IR issues on digital P&R implementations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS in Computer/Electrical Engineering, Computer Science, or related field with 4-5 years of experience"
+    }
+  ]
+}

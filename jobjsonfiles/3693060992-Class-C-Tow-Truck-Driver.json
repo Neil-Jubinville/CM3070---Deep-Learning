@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Class C Tow Truck Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Transportation",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Towing",
+      "experience": 5
+    },
+    {
+      "skill": "Load Securement",
+      "experience": 5
+    },
+    {
+      "skill": "Driving",
+      "experience": 5
+    },
+    {
+      "skill": "Travel Management",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Vehicle Inspection",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "National travel on short notice, supporting increased volume and commission pay."
+    },
+    {
+      "duty": "Local pick-up and delivery of vehicles to designated Copart facility."
+    },
+    {
+      "duty": "Loading and unloading vehicles safely and free of damage."
+    },
+    {
+      "duty": "Deploying to catastrophe events within 24 hours when directed to do so."
+    },
+    {
+      "duty": "Maintaining and assuring good operating condition of all equipment and facilities."
+    },
+    {
+      "duty": "Other tasks as assigned by the manager in support of daily auctions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150
+    },
+    {
+      "student_teacher": 100
+    },
+    {
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum of 1-year towing and/or load securement experience in the last 5 years."
+    }
+  ]
+}

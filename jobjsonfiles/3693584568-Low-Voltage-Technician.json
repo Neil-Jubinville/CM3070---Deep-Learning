@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Low Voltage Technician",
+      "job_category": "Technology",
+      "job_class": "Technician",
+      "sector": "Technology",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Networking",
+      "experience": 3
+    },
+    {
+      "skill": "IP Camera Installation",
+      "experience": 3
+    },
+    {
+      "skill": "Structured Cabling",
+      "experience": 3
+    },
+    {
+      "skill": "Access Control",
+      "experience": 3
+    },
+    {
+      "skill": "Audio Video Distribution over IP",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 4
+    },
+    {
+      "skill": "Proactive Problem-Solving",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Install and set up networking, IP cameras, structured cabling, access control, and audio video distribution over IP systems."
+    },
+    {
+      "duty": "Utilize strong customer relationship skills to effectively interact with clients and address their needs."
+    },
+    {
+      "duty": "Provide turn-key installation solutions, from running cables to setting up hardware and systems."
+    },
+    {
+      "duty": "Demonstrate strong initiative by taking proactive steps to solve challenges and address client requirements."
+    },
+    {
+      "duty": "Troubleshoot and resolve complex issues related to hardware installation and system setup."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Relevant technical certification or equivalent experience in low voltage or network installation."
+    }
+  ]
+}

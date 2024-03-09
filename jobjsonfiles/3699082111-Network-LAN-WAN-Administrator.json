@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Network LAN/WAN Administrator",
+      "job_category": "Information Technology",
+      "job_class": "Administrator",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cisco Networking",
+      "experience": 5
+    },
+    {
+      "skill": "LAN/WAN Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "Network Device Implementation",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Cisco Command Line Interface",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "NIST Risk Management Framework",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and engineer communications and computer networks to transmit data using Cisco products and hardware encryption devices."
+    },
+    {
+      "duty": "Provide dedicated LAN/WAN/VTC/VOIP technical support at MTC facilities & ensure NIST Risk Management Framework (RMF) compliance."
+    },
+    {
+      "duty": "Integrate computer systems, servers, secure and non-secure voice, video, and data circuits, using public, private and multicast IPs."
+    },
+    {
+      "duty": "Provide technical integration solutions and recommendations for exercises and events, including networks and computer systems layout and setups for Mission Command Systems/Simulations Integration."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Must possess an Information Assurance Technical II (IAT II) baseline certificate in accordance with DoD 8570.01-M (e.g., CCNA-Security, Security+, SSCP, CySA+, GICSP, or GSEC). Must possess a Secret clearance. Achieve computing environment (CE) certification (e.g., CCENT, CCNA, CCNP, etc.) within 6 months of employment."
+    }
+  ]
+}

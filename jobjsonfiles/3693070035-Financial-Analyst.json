@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Financial Analyst",
+      "job_category": "Finance",
+      "job_class": "Analyst",
+      "sector": "Finance",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tableau",
+      "experience": 4
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 4
+    },
+    {
+      "skill": "Data Collection",
+      "experience": 4
+    },
+    {
+      "skill": "Financial Forecasting",
+      "experience": 4
+    },
+    {
+      "skill": "Microsoft Excel",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build reports and dashboards using Tableau"
+    },
+    {
+      "duty": "Support annual budget preparation and forecasting"
+    },
+    {
+      "duty": "Partner with business leaders to analyze financial data and present key trends and results"
+    },
+    {
+      "duty": "Develop financial forecasting models through data collection and analysis"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in accounting, finance, or business administration (Master's preferred)"
+    }
+  ]
+}

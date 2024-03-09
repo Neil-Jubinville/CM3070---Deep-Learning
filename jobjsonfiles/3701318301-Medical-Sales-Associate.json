@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Sales Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Verbal Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Healthcare Knowledge",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Educate patients on interventional treatment options offered by the organization."
+    },
+    {
+      "duty": "Communicate with healthcare providers regarding patient care."
+    },
+    {
+      "duty": "Provide compassionate support and assistance to patients, ensuring excellent care and rapport development."
+    },
+    {
+      "duty": "Consult with clinic staff for gathering pertinent patient information."
+    },
+    {
+      "duty": "Assist in coordinating patient care plans and ensuring patient satisfaction."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma / GED"
+    }
+  ]
+}

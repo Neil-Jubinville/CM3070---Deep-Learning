@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Boilermaker / Millwright",
+      "job_category": "Construction",
+      "job_class": "Journeyman",
+      "sector": "Industrial",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Boilermaker Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Welding",
+      "experience": 5
+    },
+    {
+      "skill": "Fabrication",
+      "experience": 5
+    },
+    {
+      "skill": "Oxyfuel Cutting",
+      "experience": 5
+    },
+    {
+      "skill": "Rigging",
+      "experience": 5
+    },
+    {
+      "skill": "Reading Technical Drawings",
+      "experience": 5
+    },
+    {
+      "skill": "Valve Installation",
+      "experience": 5
+    },
+    {
+      "skill": "Gasket Installation",
+      "experience": 5
+    },
+    {
+      "skill": "Rigging",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assemble and maintain boilers and boiler components, including welding, fabrication, and stress relieving."
+    },
+    {
+      "duty": "Safely perform oxyfuel cutting tasks and use hand and power tools."
+    },
+    {
+      "duty": "Identify, interpret, and install valves, gaskets, hangers, and supports as per technical drawings and instructions."
+    },
+    {
+      "duty": "Follow oral and written directions, and adhere to company policies, client policies, and OSHA safety requirements."
+    },
+    {
+      "duty": "Support supervisor by performing other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma / GED"
+    },
+    {
+      "credential": "OSHA 10"
+    }
+  ]
+}

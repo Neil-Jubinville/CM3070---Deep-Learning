@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Courier Driver",
+      "job_category": "Logistics",
+      "job_class": "Driver",
+      "sector": "Logistics",
+      "salary": 125000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Safe Driving",
+      "experience": 3
+    },
+    {
+      "skill": "Route Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver packages and goods to designated locations in a safe and timely manner."
+    },
+    {
+      "duty": "Navigate routes efficiently to minimize delivery time and fuel consumption."
+    },
+    {
+      "duty": "Provide excellent customer service and ensure customer satisfaction with timely and professional deliveries."
+    },
+    {
+      "duty": "Maintain accurate records of deliveries and obtain necessary signatures and payments."
+    },
+    {
+      "duty": "Conduct vehicle maintenance and safety checks regularly to ensure safe operation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150
+    },
+    {
+      "student_teacher": 50
+    },
+    {
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": []
+}

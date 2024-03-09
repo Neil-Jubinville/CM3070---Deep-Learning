@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Structural Engineer",
+      "job_category": "Engineering",
+      "job_class": "Junior",
+      "sector": "Civil Engineering",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Structural Design",
+      "experience": 2
+    },
+    {
+      "skill": "Civil Engineering",
+      "experience": 2
+    },
+    {
+      "skill": "Naval Architecture",
+      "experience": 2
+    },
+    {
+      "skill": "Professional Engineering",
+      "experience": 4
+    },
+    {
+      "skill": "STADD.pro",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design steel and concrete structures in accordance with ASCE standards and AISC design manuals"
+    },
+    {
+      "duty": "Obtain and maintain U.S. Department of Defense Security Clearance"
+    },
+    {
+      "duty": "Utilize structural analysis programs such as STAAD.pro"
+    },
+    {
+      "duty": "Contribute to engineering and technical services for government clients"
+    },
+    {
+      "duty": "Chartered with responsibility for the defense of the country"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 90,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS Degree in Civil Engineering, Civil/Structural Engineering, or Naval Architecture (Professional Engineering License preferred)"
+    }
+  ]
+}

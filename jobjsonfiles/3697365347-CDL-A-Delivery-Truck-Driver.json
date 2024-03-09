@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "CDL A Delivery Truck Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Transportation",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Truck Driving",
+      "experience": 2
+    },
+    {
+      "skill": "Route Planning",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Manual Unloading",
+      "experience": 2
+    },
+    {
+      "skill": "Logistics",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Time Management",
+      "experience": 2
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Safely and efficiently operate a tractor-trailer and manually unload/deliver various products to customer locations on an assigned route schedule."
+    },
+    {
+      "duty": "Build relationships with each customer using a positive, friendly attitude and become familiar with their operations to meet needs and expectations."
+    },
+    {
+      "duty": "Adhere to pre-established delivery routes and develop good working knowledge of product and inventory."
+    },
+    {
+      "duty": "Complete transportation and delivery paperwork as required."
+    },
+    {
+      "duty": "Maintain ongoing job skills and adhere to safety guidelines."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid Class A Commercial Driver License (CDL)"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "meta": [
+    {
+      "job_title": "Adversarial Engineer",
+      "job_category": "Cybersecurity",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 135000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Threat Intelligence",
+      "experience": 5
+    },
+    {
+      "skill": "MITRE ATT&CK Framework",
+      "experience": 5
+    },
+    {
+      "skill": "Red Team Infrastructure",
+      "experience": 5
+    },
+    {
+      "skill": "Offensive Security Tactics",
+      "experience": 5
+    },
+    {
+      "skill": "Social Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Phishing",
+      "experience": 5
+    },
+    {
+      "skill": "Exploit Development",
+      "experience": 5
+    },
+    {
+      "skill": "Vulnerability Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Cyber Defense",
+      "experience": 5
+    },
+    {
+      "skill": "Incident Response",
+      "experience": 5
+    },
+    {
+      "skill": "Networking Fundamentals",
+      "experience": 5
+    },
+    {
+      "skill": "Encryption",
+      "experience": 5
+    },
+    {
+      "skill": "Programming Languages",
+      "experience": 5
+    },
+    {
+      "skill": "Adversary Simulation",
+      "experience": 5
+    },
+    {
+      "skill": "Linux",
+      "experience": 5
+    },
+    {
+      "skill": "Windows",
+      "experience": 5
+    },
+    {
+      "skill": "Active Directory",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Environments",
+      "experience": 5
+    },
+    {
+      "skill": "Security Principles",
+      "experience": 5
+    },
+    {
+      "skill": "Security Frameworks",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Simulate real-world scenarios and emulate TTPs of real adversaries to improve the people, processes, and technology in the target environment using threat intelligence and the MITRE ATT&CK Framework."
+    },
+    {
+      "duty": "Build and maintain red team infrastructure automating functions where possible. Continually research new offensive security tactics, techniques, and procedures."
+    },
+    {
+      "duty": "Develop custom tools and tradecraft to automate tasks and increase the capabilities of the team. Execute advanced social engineering campaigns."
+    },
+    {
+      "duty": "Assist cyber defense teams during incident investigations, providing subject matter expertise on attacker tradecraft and mindset."
+    },
+    {
+      "duty": "Effectively communicate findings, attack paths, and recommendations to technical, non-technical, and executive client stakeholders through written reports and verbal presentations."
+    },
+    {
+      "duty": "Train other engineers in adversary simulation tactics, techniques, and procedures. Participate in purple team exercises that are intelligence-driven to test cyber detections."
+    },
+    {
+      "duty": "Produce high-quality reports detailing the results of exercises, including vulnerabilities, risks, and proposed mitigations, and highlighting larger thematic improvement opportunities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in computer science or related discipline, or equivalent work experience. 5+ years of Information Security experience in cloud-based environments."
+    }
+  ]
+}

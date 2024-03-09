@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Warehouse Engineer",
+      "job_category": "Information Technology",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Oracle 19c",
+      "experience": 7
+    },
+    {
+      "skill": "SQL Server 2019",
+      "experience": 7
+    },
+    {
+      "skill": "SSIS",
+      "experience": 7
+    },
+    {
+      "skill": "Toad/SQLDeveloper",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Management Studio",
+      "experience": 5
+    },
+    {
+      "skill": "Visual Studio",
+      "experience": 5
+    },
+    {
+      "skill": "TFS",
+      "experience": 5
+    },
+    {
+      "skill": "Git",
+      "experience": 5
+    },
+    {
+      "skill": "MicroStrategy",
+      "experience": 3
+    },
+    {
+      "skill": "Tableau",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 3
+    },
+    {
+      "skill": "Windows Server",
+      "experience": 5
+    },
+    {
+      "skill": "Linux",
+      "experience": 5
+    },
+    {
+      "$text": "Strong knowledge of relational and dimensional database modeling, developing and debugging complex SQL and Oracle database configurations"
+    },
+    {
+      "$text": "Proficiency in Oracle 19c, SQL Server 2019, and SSIS with hands-on experience in SQL client tools, IDEs, and source code management tools"
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design Oracle data warehouse components and associated ETLs via SSIS"
+    },
+    {
+      "duty": "Enable data analysts and managers to extract insights from the data ecosystem"
+    },
+    {
+      "duty": "Drive delivery of strategic and BAU initiatives by ensuring data warehouse components are reliable, efficient, and flexible/adaptable"
+    },
+    {
+      "duty": "Support production jobs, troubleshoot application issues, and guide users through the data warehouse systems"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Systems, or equivalent (Master's preferred)"
+    },
+    {
+      "credential": "Database certifications in Oracle and/or SQL Server"
+    }
+  ]
+}

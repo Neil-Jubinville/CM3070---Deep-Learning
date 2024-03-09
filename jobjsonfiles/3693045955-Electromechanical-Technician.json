@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Electromechanical Technician",
+      "job_category": "Technician",
+      "job_class": "Electromechanical",
+      "sector": "Mechatronics",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "PLC Programming",
+      "experience": 3
+    },
+    {
+      "skill": "Vision Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Robot Fine-tuning",
+      "experience": 3
+    },
+    {
+      "skill": "Sensors",
+      "experience": 3
+    },
+    {
+      "skill": "Mechanical Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Electrical Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Pneumatics",
+      "experience": 3
+    },
+    {
+      "skill": "Hydraulics",
+      "experience": 3
+    },
+    {
+      "skill": "Robot Calibration",
+      "experience": 3
+    },
+    {
+      "skill": "Interpretation of Diagrams",
+      "experience": 3
+    },
+    {
+      "skill": "Workshop Tools Management",
+      "experience": 3
+    },
+    {
+      "skill": "Industrial Equipment Control",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Familiarity",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Program and troubleshoot PLC systems, ladder diagrams, and blocks."
+    },
+    {
+      "duty": "Fine-tune and calibrate robotics and sensor systems for optimal performance."
+    },
+    {
+      "duty": "Interpret and implement mechanical, electrical, and pneumatic diagrams for equipment systems."
+    },
+    {
+      "duty": "Manage and maintain workshop tools and equipment for electromechanical work."
+    },
+    {
+      "duty": "Familiarity with industrial control equipment such as drives, servo drives, and motors."
+    },
+    {
+      "duty": "Knowledge and management of Vision Systems, Sensors, and robotic systems."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or Equivalent"
+    }
+  ]
+}

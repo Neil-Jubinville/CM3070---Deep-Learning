@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Outside Sales Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 1
+    },
+    {
+      "skill": "Prospecting",
+      "experience": 1
+    },
+    {
+      "skill": "Relationship Building",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Selling different equipment and services to customers"
+    },
+    {
+      "duty": "Building and maintaining relationships with customers"
+    },
+    {
+      "duty": "Following up on leads and making cold calls to potential customers"
+    },
+    {
+      "duty": "Providing excellent customer service and addressing customer concerns"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED (Bachelor's degree preferred)"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Assembler I",
+      "job_category": "Manufacturing",
+      "job_class": "Assembler",
+      "sector": "Manufacturing",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Hand and Power Tool Usage",
+      "experience": 1
+    },
+    {
+      "skill": "Reading and Interpreting Drawings",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Instruction Comprehension",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare work by studying assembly instructions, blueprint specifications, and parts lists; gathering parts, subassemblies, tools, and materials."
+    },
+    {
+      "duty": "Position parts and subassemblies by using templates or reading measurements."
+    },
+    {
+      "duty": "Assemble components by examining connections for correct fit; fastening parts and subassemblies."
+    },
+    {
+      "duty": "Assist in the building of prototypes and/or other basic assembly projects outside of normal production as needed."
+    },
+    {
+      "duty": "Maintain safe and clean working environment by complying with procedures, rules, and regulations."
+    },
+    {
+      "duty": "Conserve resources by using equipment and supplies as needed to accomplish job results."
+    },
+    {
+      "duty": "Contribute to team effort by training others in performance of basic assembly tasks as needed."
+    },
+    {
+      "duty": "Inspect all work and ensure it meets requirements prior to passing it on to the next operation."
+    },
+    {
+      "duty": "Document actions by completing production and quality forms."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma, GED or combination of work experience and skill development required. 0-1 year experience working in a manufacturing environment desirable."
+    }
+  ]
+}

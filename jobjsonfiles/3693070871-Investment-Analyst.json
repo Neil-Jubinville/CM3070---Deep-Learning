@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Investment Analyst",
+      "job_category": "Finance",
+      "job_class": "Analyst",
+      "sector": "Finance",
+      "salary": 150000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Market Research",
+      "experience": 5
+    },
+    {
+      "skill": "Relationship Building",
+      "experience": 5
+    },
+    {
+      "skill": "Trend Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Evaluation",
+      "experience": 5
+    },
+    {
+      "skill": "Portfolio Management",
+      "experience": 5
+    },
+    {
+      "skill": "Startup Ecosystem",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Identify and cultivate relationships with founders within the startup ecosystem to identify investment opportunities."
+    },
+    {
+      "duty": "Stay informed about market trends and conduct trend analysis to anticipate future market movements."
+    },
+    {
+      "duty": "Collaborate with investing partners to evaluate business ideas, leads, and teams for potential investment opportunities."
+    },
+    {
+      "duty": "Provide support to portfolio companies by assisting with traction, user retention, operational support, and talent acquisition."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Finance, Economics, or a related field (Master's preferred)"
+    }
+  ]
+}

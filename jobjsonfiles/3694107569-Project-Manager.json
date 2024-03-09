@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Pharmaceutical",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "Data Management",
+      "experience": 5
+    },
+    {
+      "skill": "Data Governance",
+      "experience": 5
+    },
+    {
+      "skill": "Scientific Data",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage feasibility study involving an external vendor and multiple internal customers to integrate scientific data from internal and external sources."
+    },
+    {
+      "duty": "Interface with stakeholders to ensure requirements are agreed and documented."
+    },
+    {
+      "duty": "Develop, maintain, and communicate the project plan, reviewing and challenging the status of the project."
+    },
+    {
+      "duty": "Prepare and communicate status reports to stakeholder groups, maintain a risk log, and assess project issues."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "University degree required, PMP certification preferred"
+    }
+  ]
+}

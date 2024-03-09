@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "RN ED - Emergency Department",
+      "job_category": "Healthcare",
+      "job_class": "RN",
+      "sector": "Healthcare",
+      "salary": 70000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Emergency Care",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Care",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Charting",
+      "experience": 5
+    },
+    {
+      "skill": "IV Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Advocacy",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide emergency care and treatment to patients in the Emergency Department."
+    },
+    {
+      "duty": "Assess and monitor patients, and document their medical charts and progress."
+    },
+    {
+      "duty": "Administer intravenous medication and fluids to patients as required."
+    },
+    {
+      "duty": "Advocate for patients and ensure they receive appropriate medical care and attention."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (Associate's degree accepted), Current RN license, BLS and ACLS certification"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Worker",
+      "job_category": "Warehouse",
+      "job_class": "Worker",
+      "sector": "Warehouse",
+      "salary": 19500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Warehouse Work",
+      "experience": 1
+    },
+    {
+      "skill": "Loading and Unloading",
+      "experience": 1
+    },
+    {
+      "skill": "Package Sorting",
+      "experience": 1
+    },
+    {
+      "skill": "Flexible Scheduling",
+      "experience": 1
+    },
+    {
+      "skill": "Overtime Work",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform fast-paced and physical warehouse work including loading, unloading, and sorting of packages of various sizes."
+    },
+    {
+      "duty": "Adapt to flexible scheduling to balance work and personal life needs."
+    },
+    {
+      "duty": "Work overtime when required, especially during peak package volume periods."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

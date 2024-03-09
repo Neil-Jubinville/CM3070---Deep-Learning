@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Dental Hygienist",
+      "job_category": "Healthcare",
+      "job_class": "Hygienist",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Oral Hygiene Treatment",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Screening",
+      "experience": 3
+    },
+    {
+      "skill": "Fluoride Application",
+      "experience": 3
+    },
+    {
+      "skill": "Dental Charting",
+      "experience": 3
+    },
+    {
+      "skill": "Calculus Removal",
+      "experience": 4
+    },
+    {
+      "skill": "Stain and Plaque Removal",
+      "experience": 4
+    },
+    {
+      "skill": "Nutritional Counseling",
+      "experience": 3
+    },
+    {
+      "skill": "X-ray Imaging",
+      "experience": 5
+    },
+    {
+      "skill": "Medical History Review",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide oral hygiene dental treatment and education in accordance with guidelines and regulations."
+    },
+    {
+      "duty": "Perform patient screening, medical history review, dental charting, and application of fluoride and protective sealants."
+    },
+    {
+      "duty": "Remove calculus, stain, and plaque from above and below the gum line."
+    },
+    {
+      "duty": "Deliver nutritional counseling and self-care programs to prevent disease."
+    },
+    {
+      "duty": "Other duties as required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current Hygiene License for the state of FL"
+    },
+    {
+      "credential": "Local anesthesia license (preferred)"
+    },
+    {
+      "credential": "X-ray license for FL (required)"
+    },
+    {
+      "credential": "Strong verbal and written communication skills"
+    }
+  ]
+}

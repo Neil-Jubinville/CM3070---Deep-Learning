@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Store Team Member",
+      "job_category": "Retail",
+      "job_class": "Team Member",
+      "sector": "Retail",
+      "salary": 25000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greet customers, run the register, make purchase suggestions, and work around the store to maintain high standards for store appearance."
+    },
+    {
+      "duty": "Interact with customers and work with a team to accomplish daily goals."
+    },
+    {
+      "duty": "Provide prompt and courteous customer service, handle money, perform multi-function operation of fuel console, lottery machine, etc."
+    },
+    {
+      "duty": "Maintain store cleanliness, control merchandise, and assist in maintaining proper inventory levels."
+    },
+    {
+      "duty": "Perform all duties with minimal supervision, attend job-related meetings, and work with minimal direction."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or GED preferred"
+    }
+  ]
+}

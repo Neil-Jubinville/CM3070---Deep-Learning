@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 115000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 3
+    },
+    {
+      "skill": "Python",
+      "experience": 1
+    },
+    {
+      "skill": "Spring/Spring Boot",
+      "experience": 2
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 2
+    },
+    {
+      "skill": "RESTful APIs",
+      "experience": 2
+    },
+    {
+      "skill": "Typescript/React",
+      "experience": 1
+    },
+    {
+      "skill": "Database Management",
+      "experience": 2
+    },
+    {
+      "skill": "AWS Ecosystem",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and implement software solutions for energy IoT devices and contribute to the software platform."
+    },
+    {
+      "duty": "Support the team\u2019s collective goals through code reviews, collaborative planning, and debugging."
+    },
+    {
+      "duty": "Work with device manufacturers and utilities to integrate more devices into the platform."
+    },
+    {
+      "duty": "Contribute to the workplace culture and inclusive environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering or a related field"
+    }
+  ]
+}

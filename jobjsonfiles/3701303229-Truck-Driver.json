@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Truck Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Logistics",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Packer and Roll-off Truck Driving",
+      "experience": 8
+    },
+    {
+      "skill": "Knowledge of NYC and its five boroughs",
+      "experience": 8
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 8
+    },
+    {
+      "skill": "Decision Making",
+      "experience": 8
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 8
+    },
+    {
+      "skill": "Flexibility",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Supplying container deliveries to various customers throughout the metropolitan area."
+    },
+    {
+      "duty": "Utilizing fast decision-making skills to bring convenience to customers."
+    },
+    {
+      "duty": "Navigating NYC and its five boroughs for efficient delivery operations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "CDL of class B or higher"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Science Writer",
+      "job_category": "Science",
+      "job_class": "Writer",
+      "sector": "Science",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Science Writing",
+      "experience": 3
+    },
+    {
+      "skill": "Test Item Writing",
+      "experience": 3
+    },
+    {
+      "skill": "Middle - High School Proficiency",
+      "experience": 3
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Language and Grammar",
+      "experience": 5
+    },
+    {
+      "skill": "Editor Collaboration",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Write science-related content and test items with accuracy and clarity."
+    },
+    {
+      "duty": "Collaborate with Editor to receive constructive feedback on written work."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Science degree required"
+    }
+  ]
+}

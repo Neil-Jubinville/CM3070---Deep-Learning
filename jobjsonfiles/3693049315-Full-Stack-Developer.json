@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Full Stack Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Springboot and Java",
+      "experience": 5
+    },
+    {
+      "skill": "Angular-CLI and NodeJS",
+      "experience": 5
+    },
+    {
+      "skill": "CSS & SASS",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps and Source Code Management (GIT, Jenkins, UrbanCode Deploy, JIRA)",
+      "experience": 5
+    },
+    {
+      "skill": "API/RESTful services",
+      "experience": 5
+    },
+    {
+      "skill": "Written and Oral Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle Database and SQL development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain full-stack features and applications using Springboot, Java, and other relevant technologies."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to understand requirements and deliver high-quality solutions."
+    },
+    {
+      "duty": "Utilize DevOps and Source Code Management tools to streamline development and deployment processes."
+    },
+    {
+      "duty": "Design, implement, and maintain API/RESTful services to support application functionality."
+    },
+    {
+      "duty": "Provide written and oral communication to explain technical concepts to both technical and non-technical stakeholders."
+    },
+    {
+      "duty": "Contribute to Oracle database and SQL development for data storage and retrieval."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 120,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": []
+}

@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Systems Engineer",
+      "job_category": "Engineering",
+      "job_class": "Senior Engineer",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Systems Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "System Validation",
+      "experience": 5
+    },
+    {
+      "skill": "Product Development",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 3
+    },
+    {
+      "skill": "MATLAB/Simulink",
+      "experience": 3
+    },
+    {
+      "skill": "Stateflow",
+      "experience": 3
+    },
+    {
+      "skill": "Smart Requirement",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead system architecture and guide cost evaluations for engineering activities."
+    },
+    {
+      "duty": "Drive end-to-end engineering activities and define product scope collaboratively."
+    },
+    {
+      "duty": "Validate subsystem implementation and steer technical progress across the product lifecycle."
+    },
+    {
+      "duty": "Take ownership of system/sub-system requirements and critical design choices."
+    },
+    {
+      "duty": "Translate feature needs into technical prerequisites suitable for engineering teams."
+    },
+    {
+      "duty": "Serve as the primary technical interface for both external and internal communication during product design."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree PreferredAt least 3 years of experience Experience using Python, MATLAB/Simulink, and Stateflow Communicate Design Tradeoffs"
+    }
+  ]
+}

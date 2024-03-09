@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Mental Health Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Counseling",
+      "experience": 3
+    },
+    {
+      "skill": "Psychotherapy",
+      "experience": 3
+    },
+    {
+      "skill": "Assessment",
+      "experience": 3
+    },
+    {
+      "skill": "Treatment Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Confidentiality",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conducting comprehensive assessments to identify mental health issues and concerns"
+    },
+    {
+      "duty": "Developing individualized treatment plans based on patient needs and goals"
+    },
+    {
+      "duty": "Providing evidence-based therapeutic interventions to address a variety of mental health conditions"
+    },
+    {
+      "duty": "Collaborating with a multidisciplinary team to ensure integrated care and continuity of services"
+    },
+    {
+      "duty": "Monitoring and evaluating patient progress regularly and adjusting treatment plans as necessary"
+    },
+    {
+      "duty": "Ensuring adherence to ethical and professional standards in all interactions with patients and colleagues"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's or Doctoral degree in Counseling, Psychology, Social Work, or related field, and must be a licensed Tennessee LAC, LCSW, or LMFT"
+    }
+  ]
+}

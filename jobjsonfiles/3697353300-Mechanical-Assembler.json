@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Mechanical Assembler",
+      "job_category": "Engineering",
+      "job_class": "Assembler",
+      "sector": "Mechanical Engineering",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Assembly",
+      "experience": 5
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Construction",
+      "experience": 5
+    },
+    {
+      "skill": "Hand Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Power Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Rebuilding",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assemble mechanical parts and products according to blueprints and technical specifications."
+    },
+    {
+      "duty": "Verify conformance of parts to stock lists and blueprints using measuring instruments."
+    },
+    {
+      "duty": "Drill and tap holes on parts for assembly and manage assembly time for assigned projects."
+    },
+    {
+      "duty": "Disassemble and inspect machine after testing for shipment preparation."
+    },
+    {
+      "duty": "Communicate internally and exchange work-related information with contacts outside the work group."
+    },
+    {
+      "duty": "Maintain a clean and safe workplace in accordance with company policies and procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certificate in Mechanical Engineering or related field"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Nursing",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Assessment",
+      "experience": 2
+    },
+    {
+      "skill": "Care Planning",
+      "experience": 2
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 2
+    },
+    {
+      "skill": "Licensure",
+      "experience": 2
+    },
+    {
+      "skill": "CPR Certification",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing patient care procedures and skills acquired through graduation of an accredited school of nursing."
+    },
+    {
+      "duty": "Assessing, planning, implementing, and evaluating care according to hospital policies, procedures, protocols, and care standards."
+    },
+    {
+      "duty": "Responsible for direct and indirect care of patients through the supervision of select delegated nursing acts and collaborating with physicians and multidisciplinary team members."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150
+    },
+    {
+      "student_teacher": 100
+    },
+    {
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of Bachelor of Science in Nursing (BSN). Will consider other nursing degrees on an individual basis. Previous patient care experience (may be as a student in a clinical setting). Current licensure as a Registered Nurse in the state of Wisconsin. Current CPR certification or eligible to complete within 3 months of hire"
+    }
+  ]
+}

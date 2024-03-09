@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "In-Store Shopping Clerk",
+      "job_category": "Retail",
+      "job_class": "Clerk",
+      "sector": "Sales",
+      "salary": 18,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 3
+    },
+    {
+      "skill": "POS System Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Shop and fulfill customer's online orders, focusing on product quality and freshness, and substituting potential out-of-stock items."
+    },
+    {
+      "duty": "Process order transactions using the in-store POS system and provide excellent customer service."
+    },
+    {
+      "duty": "Serve as an online ambassador for the store, answering questions about order delivery and the Instacart platform."
+    },
+    {
+      "duty": "Assist in other areas of the store by stocking shelves, filling the frozen food bins, and maintaining store cleanliness."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or Equivalent"
+    }
+  ]
+}

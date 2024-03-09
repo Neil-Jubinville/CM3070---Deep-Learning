@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Teller",
+      "job_category": "Banking",
+      "job_class": "Associate",
+      "sector": "Customer Service",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Financial Services",
+      "experience": 2
+    },
+    {
+      "skill": "Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 2
+    },
+    {
+      "skill": "Time Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform customer banking transactions, identify and service customer needs and resolve issues."
+    },
+    {
+      "duty": "Support the sales process by referring customers in need of additional financial solutions."
+    },
+    {
+      "duty": "Share product and service promotions and new opportunities with our customers."
+    },
+    {
+      "duty": "Answer customer questions to ensure satisfaction and safety."
+    },
+    {
+      "duty": "Service vault, night drop and ATM machines, as assigned."
+    },
+    {
+      "duty": "Monitor access to safe deposit boxes, open new safe deposit accounts and maintain lease agreements at locations with safe deposit functions only."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School or equivalent combination of education and experience, Required"
+    }
+  ]
+}

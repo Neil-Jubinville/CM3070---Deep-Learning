@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Representative",
+      "job_category": "Customer Service",
+      "job_class": "Representative",
+      "sector": "Healthcare",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 2
+    },
+    {
+      "skill": "Insurance Verification",
+      "experience": 3
+    },
+    {
+      "skill": "Phone Etiquette",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Proficiency",
+      "experience": 3
+    },
+    {
+      "skill": "Web Check-in Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "BLS Certification",
+      "experience": 1
+    },
+    {
+      "skill": "Data Verification",
+      "experience": 3
+    },
+    {
+      "skill": "Shift Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Checks-in patients in a timely manner and ensures all Web Check-in procedures are followed."
+    },
+    {
+      "duty": "Answers phone calls to the clinic, provides information, and refers questions to others as needed."
+    },
+    {
+      "duty": "Verifies insurance in a timely and accurate manner."
+    },
+    {
+      "duty": "Ensures the occupational client\u2019s preference card is followed and occupational procedures are completed."
+    },
+    {
+      "duty": "Reviews all patient paperwork to ensure completeness and insures collection of necessary insurance/demographic information."
+    },
+    {
+      "duty": "Completes Daily Balance Checklist after each shift, ensuring all forms of payment are accounted for and documented."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "1 year of clinical experience in a patient care setting is preferred."
+    },
+    {
+      "credential": "BLS certification within 30 days of start required."
+    },
+    {
+      "credential": "Strong Customer Service Skills."
+    },
+    {
+      "credential": "Ability to work with multiple computer programs."
+    }
+  ]
+}

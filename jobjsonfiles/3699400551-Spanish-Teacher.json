@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Spanish Teacher",
+      "job_category": "Education",
+      "job_class": "Teacher",
+      "sector": "Education",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Lesson Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Assessment Design",
+      "experience": 5
+    },
+    {
+      "skill": "Instruction Delivery",
+      "experience": 5
+    },
+    {
+      "skill": "Spanish Language Proficiency",
+      "experience": 5
+    },
+    {
+      "skill": "Classroom Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create lesson plans, assessments, and projects for a beginner Spanish course"
+    },
+    {
+      "duty": "Deliver instruction to students in grades 3-8 with small class sizes"
+    },
+    {
+      "duty": "Teach Spanish language and culture"
+    },
+    {
+      "duty": "Available on Monday, Tuesday, and Friday afternoons beginning at noon"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Spanish or Education (Master's preferred)"
+    }
+  ]
+}

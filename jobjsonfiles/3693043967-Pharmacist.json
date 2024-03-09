@@ -1,0 +1,27 @@
+{
+  "meta": [
+    {
+      "job_title": "Pharmacist",
+      "job_category": "Pharmaceuticals",
+      "job_class": "Pharmacist",
+      "sector": "Healthcare",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Prescription Verification",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform data entry and prescription verification in a call center facility."
+    }
+  ]
+}

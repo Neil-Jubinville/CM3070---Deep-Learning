@@ -1,0 +1,48 @@
+{
+  "meta": [
+    {
+      "job_title": "Beta Tester",
+      "job_category": "Quality Assurance",
+      "job_class": "Tester",
+      "sector": "Software Engineering",
+      "salary": 0,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "User Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Bug Reporting",
+      "experience": 3
+    },
+    {
+      "skill": "Feedback Analysis",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Test the app's functionality and usability."
+    },
+    {
+      "duty": "Provide feedback on the app's design and features."
+    },
+    {
+      "duty": "Identify any bugs or errors."
+    },
+    {
+      "duty": "Report any issues to the development team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": []
+}

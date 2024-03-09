@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Security Officer",
+      "job_category": "Security",
+      "job_class": "Officer",
+      "sector": "Security",
+      "remote": false,
+      "salary": 42000
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide customer service to clients by carrying out safety and security procedures, site-specific policies, and emergency response activities."
+    },
+    {
+      "duty": "Respond to incidents and critical situations in a calm, problem-solving manner."
+    },
+    {
+      "duty": "Conduct regular and random patrols around the business and perimeter."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Security Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Patrols and Surveillance",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid active driver's license required. High school diploma or equivalent, or 5 years of verifiable experience."
+    }
+  ]
+}

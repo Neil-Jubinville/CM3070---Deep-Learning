@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Phlebotomist Laboratory Assistant",
+      "job_category": "Laboratory",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Phlebotomy",
+      "experience": 1
+    },
+    {
+      "skill": "Specimen Processing",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform phlebotomy and routine laboratory procedures following established guidelines and principles"
+    },
+    {
+      "duty": "Handle blood, tissue, fecal matter, sputum, urine, spinal fluid, and other body fluids"
+    },
+    {
+      "duty": "Communicate with patients and provide excellent customer service during specimen collection"
+    },
+    {
+      "duty": "Assist in specimen processing and maintain accurate records of specimens collected"
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ]
+}

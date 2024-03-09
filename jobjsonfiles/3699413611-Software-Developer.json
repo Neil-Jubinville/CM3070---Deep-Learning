@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 185000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work with an agile software development team on front end requirements, delivering technical application solutions to internal and external clients."
+    },
+    {
+      "duty": "Design and develop features to meet customer requirements and business goals."
+    },
+    {
+      "duty": "Build high quality and highly reliable software to meet the needs of the product owners."
+    },
+    {
+      "duty": "Write clean, elegant, and reusable code that solves complex problems."
+    },
+    {
+      "duty": "Participate in design and code review processes."
+    },
+    {
+      "duty": "Work closely with engineers, DevOps, QA, and Project Managers."
+    },
+    {
+      "duty": "Be responsible for end-to-end delivery of features and provide support after launch."
+    },
+    {
+      "duty": "Mentor junior developers."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Agile Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Front End Development",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Application Solutions",
+      "experience": 5
+    },
+    {
+      "skill": "Code Review",
+      "experience": 5
+    },
+    {
+      "skill": "Software Quality Assurance",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

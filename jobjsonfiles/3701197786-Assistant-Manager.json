@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Manager",
+      "job_category": "Management",
+      "job_class": "Manager",
+      "sector": "Hospitality",
+      "salary": 58000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Staff Management",
+      "experience": 5
+    },
+    {
+      "skill": "Food Safety",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Budgeting",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensure top-notch service standards are practiced by staff"
+    },
+    {
+      "duty": "Manage ordering and inventory"
+    },
+    {
+      "duty": "Oversee food preparation and safety protocols"
+    },
+    {
+      "duty": "Supervise daily operations at the restaurant"
+    },
+    {
+      "duty": "Collaborate closely with the General Manager to drive sales and increase profitability"
+    },
+    {
+      "duty": "Maintain the unique and personable culture of Chicken Salad Chick"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Hospitality Management, Business Administration, or a related field preferred"
+    },
+    {
+      "credential": "Food safety and hygiene certification"
+    }
+  ]
+}

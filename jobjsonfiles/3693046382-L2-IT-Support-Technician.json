@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "L2 IT Support Technician",
+      "job_category": "Information Technology",
+      "job_class": "Support",
+      "sector": "IT",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ServiceNow",
+      "experience": 2
+    },
+    {
+      "skill": "MS Azure",
+      "experience": 2
+    },
+    {
+      "skill": "PC Hardware & Troubleshooting",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Active Directory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 2
+    },
+    {
+      "skill": "System Administration",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide end-user support for technical issues internally."
+    },
+    {
+      "duty": "Troubleshoot and find solutions to technical problems via ticketing system."
+    },
+    {
+      "duty": "Diagnose and troubleshoot complex problems and work to a resolution."
+    },
+    {
+      "duty": "Create, change, and delete user accounts (e.g., Active Directory)."
+    },
+    {
+      "duty": "Maintain a high level of customer service to end-users."
+    },
+    {
+      "duty": "Help create process documentation."
+    },
+    {
+      "duty": "Coordinate timely repair of equipment covered by third party vendors or warranty."
+    },
+    {
+      "duty": "Document all work done in the ticketing system."
+    },
+    {
+      "duty": "Perform routine system administration activities such as resetting passwords, printer set-ups, user accounts, and accessibility."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 120,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": []
+}

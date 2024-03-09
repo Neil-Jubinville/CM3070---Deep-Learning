@@ -1,0 +1,96 @@
+{
+  "meta": [
+    {
+      "job_title": "Lab Technician",
+      "job_category": "Chemistry",
+      "job_class": "Technician",
+      "sector": "Science",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Chemistry",
+      "experience": 2
+    },
+    {
+      "skill": "Analytical Testing",
+      "experience": 2
+    },
+    {
+      "skill": "Lab Instrumentation",
+      "experience": 2
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 2
+    },
+    {
+      "skill": "Documentation",
+      "experience": 2
+    },
+    {
+      "skill": "Environmental Testing",
+      "experience": 2
+    },
+    {
+      "skill": "Leadership",
+      "experience": 2
+    },
+    {
+      "skill": "Data Reporting",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare standards, calibrate, troubleshoot, maintain, and repair instrumentation."
+    },
+    {
+      "duty": "Prepare chemical reagents needed to perform routine testing."
+    },
+    {
+      "duty": "Perform physical and chemical testing on various hydrocarbon samples using a variety of techniques."
+    },
+    {
+      "duty": "Utilize and understand how to use a basic LIMS system."
+    },
+    {
+      "duty": "Run proper QC and maintain records per lab protocols."
+    },
+    {
+      "duty": "Understand and maintain laboratory documentation practices."
+    },
+    {
+      "duty": "Perform required environmental testing for wastewater permits and generate the necessary reports."
+    },
+    {
+      "duty": "Perform special projects and testing as assigned by Lead Chemist and/or Laboratory Day Foreman."
+    },
+    {
+      "duty": "Perform daily QC checks on lab instrumentation to ensure quality assurance."
+    },
+    {
+      "duty": "Trains Laboratory Technicians in the use of instruments/new methods."
+    },
+    {
+      "duty": "Be responsible for making hand blends to perform routine or special testing."
+    },
+    {
+      "duty": "Be responsible for reporting data with accuracy and precision."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in Chemistry or science equivalent with a minimum of 20 credit hours in chemistry. One year or more of analytical laboratory experience preferred"
+    }
+  ]
+}

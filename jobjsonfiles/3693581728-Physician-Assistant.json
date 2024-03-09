@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Physician Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Physician Assistant",
+      "sector": "Healthcare",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist the attending physician in the care and management of inpatient units within the hospital, including patient rounds and contributing to daily care decisions."
+    },
+    {
+      "duty": "Provide comprehensive medical care in the Emergency Department, chest pain observation unit, and other designated areas under the supervision of a physician."
+    },
+    {
+      "duty": "Deliver diagnostic and therapeutic healthcare coverage for patients in a clinic setting, including history taking, physical examinations, and providing assistance with treatment plans."
+    },
+    {
+      "duty": "Assist the attending ICU physician in the care and management of patients in the Intensive Care Unit, including patient rounds, writing orders, and coordinating tests and procedures."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medical History Taking",
+      "experience": 5
+    },
+    {
+      "skill": "Physical Examinations",
+      "experience": 5
+    },
+    {
+      "skill": "Therapeutic Health Care",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnostic Studies",
+      "experience": 5
+    },
+    {
+      "skill": "Prescription Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Treatment Plan Assistance",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "ICU Care",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Consultation",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 150,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree from an accredited physician assistant program."
+    },
+    {
+      "credential": "Current and clear license (or eligible to be licensed) as a physician assistant (PA) in the state of Florida."
+    },
+    {
+      "credential": "BLS Certification"
+    }
+  ]
+}

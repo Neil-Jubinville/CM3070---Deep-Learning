@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "Community Support Specialist",
+      "job_category": "Social Services",
+      "job_class": "Specialist",
+      "sector": "Healthcare",
+      "salary": 36000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Client Support",
+      "experience": 2
+    },
+    {
+      "skill": "Community Integration",
+      "experience": 3
+    },
+    {
+      "skill": "Household Management",
+      "experience": 2
+    },
+    {
+      "skill": "Employment Assistance",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist individuals in meal preparation, community integration, and household management."
+    },
+    {
+      "duty": "Support individuals in obtaining and maintaining employment in the community."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150
+    },
+    {
+      "student_teacher": 100
+    },
+    {
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Social Work or related field (Master's preferred)"
+    }
+  ]
+}

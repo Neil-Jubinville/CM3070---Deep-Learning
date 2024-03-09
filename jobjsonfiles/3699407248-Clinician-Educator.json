@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Clinician-Educator",
+      "job_category": "Healthcare",
+      "job_class": "Professor",
+      "sector": "Healthcare",
+      "salary": 250000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintaining a productive surgical practice in functional neurosurgery."
+    },
+    {
+      "duty": "Teaching and mentoring neurosurgical residents and fellows."
+    },
+    {
+      "duty": "Advancing knowledge through publication and presentation of discoveries and best-practices in patient care."
+    },
+    {
+      "duty": "Participating in translational research within the department to identify new therapies for patients with functional disorders."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Neurosurgery",
+      "experience": 5
+    },
+    {
+      "skill": "Teaching/Mentoring",
+      "experience": 8
+    },
+    {
+      "skill": "Research Publication",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Practice",
+      "experience": 8
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Board eligible/board certified neurosurgeon; advanced training and experience in functional neurosurgery required."
+    },
+    {
+      "credential": "Ability to obtain active Illinois medical licensure prior to start date required."
+    },
+    {
+      "credential": "Bachelor's degree in Healthcare (Master's preferred)"
+    }
+  ]
+}

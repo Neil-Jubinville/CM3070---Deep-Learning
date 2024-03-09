@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Certified Medical Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 34000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Assisting",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Vital Signs Recording",
+      "experience": 3
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 2
+    },
+    {
+      "skill": "Diagnostic Testing",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Record Keeping",
+      "experience": 2
+    },
+    {
+      "skill": "Instrument Sterilization",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform general patient care and preliminary physical tests as directed by clinical protocols."
+    },
+    {
+      "duty": "Greet and prepare patients, record vital signs, and obtain patient medical history."
+    },
+    {
+      "duty": "Administer medications and vaccines, draw blood samples, and prepare specimens for lab analysis."
+    },
+    {
+      "duty": "Schedule patients for diagnostic testing and communicate test results and care plans."
+    },
+    {
+      "duty": "Maintain patient exam rooms, sterilize instruments, and document patient information in medical records."
+    },
+    {
+      "duty": "Escalate non-routine issues to healthcare provider, ensure safety checklists/quality controls, and protect patient privacy rights."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent, Certified Medical Assistant (CMA) certification, and Basic Life Support (BLS) certified (or obtained within 3 months of hire)."
+    }
+  ]
+}

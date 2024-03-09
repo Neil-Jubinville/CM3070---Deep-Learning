@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Automotive Service Advisor",
+      "job_category": "Automotive",
+      "job_class": "Service Advisor",
+      "sector": "Sales",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Automotive Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Schedule appointments for service/maintenance/recall work"
+    },
+    {
+      "duty": "Greet customers and inspect their vehicle"
+    },
+    {
+      "duty": "Advise customers about necessary/suggested services and costs"
+    },
+    {
+      "duty": "Follow the status of the customer's vehicle from service bay entry through completion of work"
+    },
+    {
+      "duty": "Keep customers informed of any changes that occur"
+    },
+    {
+      "duty": "Upon completion of work, review work order with customer to assure all concerns are addressed"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Previous Dealership or Shop experience is required"
+    },
+    {
+      "credential": "Sales experience in any industry is a plus!"
+    },
+    {
+      "credential": "General knowledge of vehicle mechanical operations is preferred"
+    },
+    {
+      "credential": "Good customer service and communication skills"
+    }
+  ]
+}

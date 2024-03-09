@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Scrum",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage technical projects, ensuring they are completed on time and within budget, using Scrum and agile methodologies."
+    },
+    {
+      "duty": "Lead a cross-functional team of developers, engineers, and other stakeholders to achieve project objectives."
+    },
+    {
+      "duty": "Apply technical expertise in Java and Microservices to guide and support the development team in delivering high-quality solutions."
+    },
+    {
+      "duty": "Implement and maintain project management processes, including risk management, resource allocation, and project documentation."
+    },
+    {
+      "duty": "Communicate project status, issues, and risks to stakeholders and provide timely solutions to ensure project success."
+    },
+    {
+      "duty": "Ensure that technical projects align with business objectives and contribute to the overall success of the organization."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or related field (Master's preferred)"
+    },
+    {
+      "credential": "Project Management Professional (PMP) certification"
+    }
+  ]
+}

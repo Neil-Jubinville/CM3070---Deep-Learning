@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Representative",
+      "job_category": "Customer Service",
+      "job_class": "Representative",
+      "sector": "Service",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Interaction",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Appointment Scheduling",
+      "experience": 3
+    },
+    {
+      "skill": "Complaint Management",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Proficiency",
+      "experience": 3
+    },
+    {
+      "skill": "Automotive Service Knowledge",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Interact with customers, listen to their questions and concerns and provide timely responses."
+    },
+    {
+      "duty": "Educate clients about the company\u2019s products, services, and offers."
+    },
+    {
+      "duty": "Schedule appointments, take orders, monitor service progress, calculate charges, and process payments."
+    },
+    {
+      "duty": "Review customer accounts and report changes to internal staff."
+    },
+    {
+      "duty": "Ability to manage complaints, returns and resolve customer grievances."
+    },
+    {
+      "duty": "Record customer details and transactions."
+    },
+    {
+      "duty": "Serve as a resource and support between customers, technicians, and management."
+    }
+  ]
+}

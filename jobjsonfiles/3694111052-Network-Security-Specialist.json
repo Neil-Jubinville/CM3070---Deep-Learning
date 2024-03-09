@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Network Security Specialist",
+      "job_category": "IT",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Computer Networking",
+      "experience": 10
+    },
+    {
+      "skill": "Network Security",
+      "experience": 10
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Market Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 10
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Background Investigation",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement and maintain secure computer networks to protect against cyber threats and unauthorized access."
+    },
+    {
+      "duty": "Lead and guide a team in developing and implementing network security strategies and protocols."
+    },
+    {
+      "duty": "Analyze network traffic and security logs to identify potential security breaches and vulnerabilities."
+    },
+    {
+      "duty": "Collaborate with stakeholders to assess security risks and develop risk management strategies."
+    },
+    {
+      "duty": "Conduct regular security assessments and audits to ensure compliance with industry standards and regulations."
+    },
+    {
+      "duty": "Provide technical support and assistance in resolving network security incidents and issues."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or higher in Computer Networking, Network Security, or a related field (Preferred: degree in Engineering or Computer Sciences)"
+    }
+  ]
+}

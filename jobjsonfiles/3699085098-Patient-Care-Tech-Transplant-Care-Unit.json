@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Care Tech Transplant Care Unit",
+      "job_category": "Patient Care",
+      "job_class": "Technician",
+      "sector": "Patient Care",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Basic Cardiac Life Support",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Records Management",
+      "experience": 3
+    },
+    {
+      "skill": "Vital Signs Monitoring",
+      "experience": 3
+    },
+    {
+      "skill": "Specimen Collection",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Mobility Assistance",
+      "experience": 3
+    },
+    {
+      "skill": "Telemetry Monitoring",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Assistance",
+      "experience": 3
+    },
+    {
+      "skill": "Healthcare Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Delivering high quality, patient-centered care by performing a variety of patient care services related to common nursing functions and activities of daily living."
+    },
+    {
+      "duty": "Assisting nursing staff in providing patient care and maintaining a clean, well-organized, and safe patient care environment."
+    },
+    {
+      "duty": "Participating in the implementation of nursing care plans and obtaining/recording patient information throughout the cycle of care."
+    },
+    {
+      "duty": "Assisting with patient mobility, transfer, and use of medical aids."
+    },
+    {
+      "duty": "Assisting with specimen collection, patient activities of daily living, and serving as a Monitor/Telemetry Tech for the unit as needed."
+    },
+    {
+      "duty": "Engaging in evidence-based best practices that enhance the patient experience and complying with hospital policies/procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Basic Cardiac Life Support certification"
+    },
+    {
+      "credential": "Full vaccination for COVID-19 based on local, state, or federal law or regulations"
+    }
+  ]
+}

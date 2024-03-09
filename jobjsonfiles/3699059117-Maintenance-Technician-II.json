@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician II",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Facility Maintenance",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Maintenance and Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Material Handling Equipment (MHE)",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical and Mechanical Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Fabrication",
+      "experience": 5
+    },
+    {
+      "skill": "Blueprint and Schematic Reading",
+      "experience": 5
+    },
+    {
+      "skill": "Computerized Maintenance Management System (CMMS)",
+      "experience": 5
+    },
+    {
+      "skill": "Robotics Operation and Maintenance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Repair and maintain material handling equipment and pneumatic systems throughout the building."
+    },
+    {
+      "duty": "Install, maintain, and repair automated packaging and distribution equipment."
+    },
+    {
+      "duty": "Mentor junior technicians to grow in their roles."
+    },
+    {
+      "duty": "Complete preventative maintenance routines with proper documentation."
+    },
+    {
+      "duty": "Troubleshoot electrical and mechanical problems related to all Material Handling Equipment (MHE)."
+    },
+    {
+      "duty": "Track and store department inventory."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

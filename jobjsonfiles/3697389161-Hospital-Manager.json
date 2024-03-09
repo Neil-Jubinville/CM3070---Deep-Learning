@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Hospital Manager",
+      "job_category": "Management",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Strategic Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 5
+    },
+    {
+      "skill": "Employee Management",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "Marketing",
+      "experience": 5
+    },
+    {
+      "skill": "Performance Management",
+      "experience": 5
+    },
+    {
+      "skill": "HR Policies",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and implement hospital policies, including DEA/Controlled Substances and OSHA compliance."
+    },
+    {
+      "duty": "Manage and plan the overall operations of the hospital, including creating the hospital schedule and managing labor costs to budget."
+    },
+    {
+      "duty": "Address staffing needs including hiring, training, reviewing, and disciplining of staff."
+    },
+    {
+      "duty": "Drive client visits through strategic client communication and local marketing efforts."
+    },
+    {
+      "duty": "Manage accounts receivable and cash on hand, including performing invoice audit reviews."
+    },
+    {
+      "duty": "Cultivate a supportive and collaborative team environment, including coaching, developing, and motivating staff."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in business or related degree is preferred (Master's preferred)"
+    },
+    {
+      "credential": "3-5 years of experience in a manager role, including customer service experience. Experience in a hospital setting in positions of increased responsibility is a plus."
+    }
+  ]
+}

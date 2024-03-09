@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Radio Frequency (RF) Network Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 112000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "RF Network Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Wireless Network Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "4G LTE/5G Systems Implementation",
+      "experience": 5
+    },
+    {
+      "skill": "Frequency Authorizations and Licensing",
+      "experience": 5
+    },
+    {
+      "skill": "Programming and Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Tactical Communications Systems",
+      "experience": 5
+    },
+    {
+      "skill": "IT Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting and Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, configure, and optimize wireless networks, including mesh, self-healing, and 4G LTE/5G systems."
+    },
+    {
+      "duty": "Integrate RF capabilities with command and control systems, user interfaces, and SDKs."
+    },
+    {
+      "duty": "Document, implement, and test network design, complying with Frequency Authorizations and Licensing requirements."
+    },
+    {
+      "duty": "Support live experimentation and remote deployments, including testing, tuning, and diagnostics."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in engineering discipline or related field (Master's preferred)"
+    },
+    {
+      "credential": "DoD Secret or higher clearance"
+    },
+    {
+      "credential": "Security Plus Certification"
+    }
+  ]
+}

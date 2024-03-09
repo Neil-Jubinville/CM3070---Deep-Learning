@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Development Manager",
+      "job_category": "Information Technology",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 145000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Azure DevOps",
+      "experience": 5
+    },
+    {
+      "skill": ".NET Core",
+      "experience": 5
+    },
+    {
+      "skill": "Java/J2EE",
+      "experience": 5
+    },
+    {
+      "skill": "REST API",
+      "experience": 5
+    },
+    {
+      "skill": "Power BI",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Transformation",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Database Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensure the availability, speed, security, and scalability of teams\u2019 applications."
+    },
+    {
+      "duty": "Accurately assess technical feasibility and development effort given business specifications."
+    },
+    {
+      "duty": "Participate actively in all phases of development from design to coding, unit testing, integration testing, implementation, and technical documentation."
+    },
+    {
+      "duty": "Manage established metrics for applications to measure and improve IT performance using Azure DevOps burndowns, Cycle time and velocity reports."
+    },
+    {
+      "duty": "Focus on customer needs and provide timely solutions to the challenges by offering a technical solution to meet business objectives using Azure DevOps and Power BI."
+    },
+    {
+      "duty": "Support Senior Leadership in the agile transformation by leading the customer focused agile transformation."
+    },
+    {
+      "duty": "Work with subject matter experts, business analysts, database administrators, and QA teams to ensure the quality of data, troubleshoot application software issues and analysis of requests for system changes."
+    },
+    {
+      "duty": "Analyze existing software and application data to diagnose and pose solutions to reported problems."
+    },
+    {
+      "duty": "Travel to other BHHC offices in the U.S."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science, Computer Engineering or a related field. (Master\u2019s preferred)"
+    }
+  ]
+}

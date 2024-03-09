@@ -1,0 +1,142 @@
+{
+  "meta": [
+    {
+      "job_title": "Cloud Solutions Architect",
+      "job_category": "Software Engineering",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Application Design",
+      "experience": 15
+    },
+    {
+      "skill": "Solution Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Public Cloud Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Java/Spring",
+      "experience": 5
+    },
+    {
+      "skill": "REST",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "React",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft SQL Server",
+      "experience": 5
+    },
+    {
+      "skill": "Cassandra",
+      "experience": 3
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Messaging Middleware (Kafka, Queue)",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Management (Docker, K8s)",
+      "experience": 5
+    },
+    {
+      "skill": "IaC, CI/CD/DevOps/DevSecOps",
+      "experience": 5
+    },
+    {
+      "skill": "Equities and Options Domain Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Real-time Systems Design",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Security and Performance",
+      "experience": 5
+    },
+    {
+      "skill": "Market Structure Concepts",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Calculations",
+      "experience": 5
+    },
+    {
+      "skill": "Price Feeds and Order Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and implement applications and end-to-end solutions."
+    },
+    {
+      "duty": "Lead the design of applications, solution architecture, and underlying information technologies on Public Cloud."
+    },
+    {
+      "duty": "Write and compartmentalize solutions with good code hygiene."
+    },
+    {
+      "duty": "Design and run applications on Public Cloud (Azure, AWS) from Development through Production."
+    },
+    {
+      "duty": "Ensure resilience, security, performance, and availability of end-to-end system solutions on Cloud."
+    },
+    {
+      "duty": "Define/create runtime environments with appropriate cloud technologies including network and storage."
+    },
+    {
+      "duty": "Demonstrate a proven track record with IaC, CI/CD/DevOps/DevSecOps, Test Automation, Supportability."
+    },
+    {
+      "duty": "Apply Equities and Options domain knowledge in the design and architecture of real-time trading systems."
+    },
+    {
+      "duty": "Understand real-time systems concepts and market structure in relation to financial calculations, price feeds, and order management."
+    },
+    {
+      "duty": "Identify growth opportunities, refine strategies, and measure the performance of marketing campaigns using data-driven insights."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

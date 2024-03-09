@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Intern",
+      "job_category": "Engineering",
+      "job_class": "Intern",
+      "sector": "Engineering",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Engineering",
+      "experience": 1
+    },
+    {
+      "skill": "Construction",
+      "experience": 1
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 1
+    },
+    {
+      "skill": "Record Keeping",
+      "experience": 1
+    },
+    {
+      "skill": "Physical Fitness",
+      "experience": 1
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform various departmental and field assignments."
+    },
+    {
+      "duty": "Assist team members with various duties assigned."
+    },
+    {
+      "duty": "Update various records, files and procedures, as assigned."
+    },
+    {
+      "duty": "Participate in various job-related activities as assigned."
+    },
+    {
+      "duty": "Other duties may be assigned."
+    },
+    {
+      "duty": "Overtime may be required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 40
+    }
+  ]
+}

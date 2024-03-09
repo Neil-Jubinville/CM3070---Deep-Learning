@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "Accountant",
+      "job_category": "Accounting",
+      "job_class": "Accountant",
+      "sector": "Finance",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 3
+    },
+    {
+      "skill": "Excel",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Planning & Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Vendor / Customer Rebate Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage the entire customer rebates portfolio and customer contracts for a materials distributor company."
+    },
+    {
+      "duty": "Calculate monthly accruals, support payouts, and handle around 400 accounts."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 40,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BA Degree in Accounting, Finance, or related field"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Lead",
+      "job_category": "Software Engineering",
+      "job_class": "Lead",
+      "sector": "Software Engineering",
+      "salary": 200000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Generative AI",
+      "experience": 5
+    },
+    {
+      "skill": "Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Product Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Proposing and conducting experiments with generative AI to enhance engineering processes, including problem decomposition, solution design, code generation, and advanced troubleshooting."
+    },
+    {
+      "duty": "Documenting best practices and techniques in playbooks and guides that enable others to harness the power of generative AI effectively."
+    },
+    {
+      "duty": "Using AI tools and techniques to develop and ship actual features and products."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Software Engineering or Computer Science (Master's preferred)"
+    }
+  ]
+}

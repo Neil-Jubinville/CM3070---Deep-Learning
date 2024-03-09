@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Certified Medical Assistant 1",
+      "job_category": "Medical",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Administration",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Vital Signs Monitoring",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Record Management",
+      "experience": 1
+    },
+    {
+      "skill": "Injections and Vaccinations",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 1
+    },
+    {
+      "skill": "Observation and Reporting",
+      "experience": 1
+    },
+    {
+      "skill": "Blood Draw",
+      "experience": 1
+    },
+    {
+      "skill": "Detail Orientation",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in the examination and treatment of patients under the direction of a physician."
+    },
+    {
+      "duty": "Prepare treatment rooms, clean and disinfect equipment, restock supplies."
+    },
+    {
+      "duty": "Accompany patients from waiting room, prepare patients for examination, and record patient information."
+    },
+    {
+      "duty": "Measure, collect, and record patient's vital signs, prepare patients for tests, procedures, and x-rays."
+    },
+    {
+      "duty": "Perform routine patient testing, process electrocardiograms, and collect and process specimens."
+    },
+    {
+      "duty": "Prepare and administer routine medications, injections, and vaccinations, and identify/report adverse reactions."
+    },
+    {
+      "duty": "Remove sutures and staples, change dressings as requested."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 30,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma/GED Equivalent"
+    },
+    {
+      "credential": "Certified Medical Assistant (CMA) from a recognized program"
+    },
+    {
+      "credential": "Basic Life Support (BLS) certification"
+    }
+  ]
+}

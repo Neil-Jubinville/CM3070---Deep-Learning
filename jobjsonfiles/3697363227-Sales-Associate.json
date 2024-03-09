@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Associate",
+      "job_category": "Retail",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 15.75,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Retail Operations",
+      "experience": 1
+    },
+    {
+      "skill": "Cash Register Operation",
+      "experience": 1
+    },
+    {
+      "skill": "Multi-tasking",
+      "experience": 1
+    },
+    {
+      "skill": "Compliance",
+      "experience": 1
+    },
+    {
+      "skill": "Security",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Engage in sales, displays, merchandising, housekeeping, and stocking of products while prioritizing customer service"
+    },
+    {
+      "duty": "Demonstrate selling techniques, product knowledge, and operate the cash register in a professional manner"
+    },
+    {
+      "duty": "Multi-task between tasks and servicing customers, handle multiple customers at one time, and inform management of security or safety issues"
+    },
+    {
+      "duty": "Follow Company policies/procedures, and work in any area of store needing assistance as requested by management"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED"
+    }
+  ]
+}

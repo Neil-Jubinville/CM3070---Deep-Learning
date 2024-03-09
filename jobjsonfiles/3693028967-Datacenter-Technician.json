@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Datacenter Technician",
+      "job_category": "Information Technology",
+      "job_class": "Technician",
+      "sector": "Information Technology",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Racking and Unracking",
+      "experience": 3
+    },
+    {
+      "skill": "Networking",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Server Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Racking and unracking servers and other equipment in the data center."
+    },
+    {
+      "duty": "Providing remote hands for troubleshooting and maintaining the servers."
+    },
+    {
+      "duty": "Basic networking tasks to ensure smooth communication within the infrastructure."
+    },
+    {
+      "duty": "Collaborate with the IT team for the effective functioning of servers and equipment."
+    },
+    {
+      "duty": "Respond promptly to any technical emergencies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Proven experience as a Datacenter Technician."
+    }
+  ]
+}

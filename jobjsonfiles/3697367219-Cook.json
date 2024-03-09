@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Cook",
+      "job_category": "Culinary",
+      "job_class": "Entry-level",
+      "sector": "Hospitality",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Culinary Techniques",
+      "experience": 2
+    },
+    {
+      "skill": "Kitchen Equipment",
+      "experience": 2
+    },
+    {
+      "skill": "Food Safety",
+      "experience": 2
+    },
+    {
+      "skill": "Menu Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Apply culinary techniques and maintain knowledge of food products"
+    },
+    {
+      "duty": "Identify and safely use kitchen equipment and restock kitchen supplies"
+    },
+    {
+      "duty": "Maintain menu knowledge and attention to detail with plate presentation"
+    },
+    {
+      "duty": "Assist in the execution of service and base sauces, stocks, and soups preparation"
+    },
+    {
+      "duty": "Work as a team and communicate with management, chef, and service staff to fulfill guest and employee needs"
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

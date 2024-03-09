@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Financial Analyst",
+      "job_category": "Finance",
+      "job_class": "Analyst",
+      "sector": "Finance",
+      "salary": 105000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Analysis",
+      "experience": 10
+    },
+    {
+      "skill": "Quantitative Analysis",
+      "experience": 10
+    },
+    {
+      "skill": "Forecasting",
+      "experience": 10
+    },
+    {
+      "skill": "Data Interpretation",
+      "experience": 10
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 10
+    },
+    {
+      "skill": "Accounting Principles",
+      "experience": 10
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Gather and analyze financial information to produce forecasts and reports."
+    },
+    {
+      "duty": "Conduct quantitative analysis of data affecting investment programs."
+    },
+    {
+      "duty": "Interpret data affecting investment programs, such as price, yield, stability, and future trends in investment risks."
+    },
+    {
+      "duty": "Present oral and written reports on general economic trends, individual corporations, and entire industries."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in accounting or related financial discipline required. An advanced degree in a financial discipline is preferred."
+    },
+    {
+      "credential": "8-10 years financial and/or accounting experience required. Previous work experience at Microsoft is required."
+    }
+  ]
+}

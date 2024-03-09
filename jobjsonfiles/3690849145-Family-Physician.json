@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Family Physician",
+      "job_category": "Healthcare",
+      "job_class": "Physician",
+      "sector": "Healthcare",
+      "salary": 200000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Outpatient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Records Management",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnosis",
+      "experience": 5
+    },
+    {
+      "skill": "Treatment",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide outpatient care for patients of all ages."
+    },
+    {
+      "duty": "Manage a panel of patients and keep medical records updated."
+    },
+    {
+      "duty": "Diagnose and treat common medical issues."
+    },
+    {
+      "duty": "No weekend clinic hours."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 150,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Board Certified or Board Eligible."
+    },
+    {
+      "credential": "Licensed in the state of MA."
+    },
+    {
+      "credential": "Completion of a full residency program in the US."
+    }
+  ]
+}

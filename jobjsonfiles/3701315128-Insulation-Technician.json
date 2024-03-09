@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Insulation Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Industrial",
+      "salary": 50000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Insulation Material Handling",
+      "experience": 5
+    },
+    {
+      "skill": "Fabrication of Metal Bandings",
+      "experience": 5
+    },
+    {
+      "skill": "NCCER Insulation Plus Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Work Order Management",
+      "experience": 5
+    },
+    {
+      "skill": "Operational Safety Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Driver License Compliance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform specific job functions as they relate to work orders"
+    },
+    {
+      "duty": "Conversant with relevant work techniques, including insulation material handling and metal banding fabrication"
+    },
+    {
+      "duty": "Assist other technicians as required"
+    },
+    {
+      "duty": "Ensure operational safety of all equipment and compliance with safety regulations"
+    },
+    {
+      "duty": "Travel as required for on-site installations and maintenance"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED"
+    },
+    {
+      "credential": "Preferred: Combined knowledge & experience handling mineral wool, glass wool, calcium silicate, aerogel, cryogel, pyrogel, etc."
+    },
+    {
+      "credential": "Preferred: Combined knowledge & experience fabricating & attaching aluminum-stainless steel jacking & metal bandings"
+    },
+    {
+      "credential": "Preferred: NCCER Insulation Plus certification (Qualified Operator)"
+    }
+  ]
+}

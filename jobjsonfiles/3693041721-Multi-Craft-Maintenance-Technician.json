@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Multi Craft Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Manufacturing",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting PLC's",
+      "experience": 5
+    },
+    {
+      "skill": "Welding and Cutting",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Fabrication",
+      "experience": 5
+    },
+    {
+      "skill": "Rigging",
+      "experience": 5
+    },
+    {
+      "skill": "LOTO Procedures",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform maintenance work on industrial equipment and machinery throughout the facility."
+    },
+    {
+      "duty": "Troubleshoot PLC\u2019s, PID loops, variable speed drives, low and medium voltage motor controls."
+    },
+    {
+      "duty": "Maintain mechanical components and perform precision maintenance."
+    },
+    {
+      "duty": "Fabricate parts and equipment as necessary."
+    },
+    {
+      "duty": "Perform welding and cutting when required."
+    },
+    {
+      "duty": "Inspect, audit and perform rigging task on sprinkler lines, poly tube lines, pro press fittings, pipe threading and pipe bending when necessary."
+    },
+    {
+      "duty": "Understand and be able to troubleshoot ARC Flash procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 20,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED Required"
+    }
+  ]
+}

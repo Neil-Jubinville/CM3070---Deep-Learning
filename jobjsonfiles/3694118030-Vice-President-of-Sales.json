@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Vice President of Sales",
+      "job_category": "Sales",
+      "job_class": "Vice President",
+      "sector": "Sales",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Strategy",
+      "experience": 10
+    },
+    {
+      "skill": "Sales Management",
+      "experience": 10
+    },
+    {
+      "skill": "Business Development",
+      "experience": 10
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Leadership",
+      "experience": 10
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 10
+    },
+    {
+      "skill": "Remote Work",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage and lead the sales team, and develop and execute sales strategies."
+    },
+    {
+      "duty": "Oversee sales operations and drive business development."
+    },
+    {
+      "duty": "Build and maintain strong relationships with clients and partners."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Marketing (Master's preferred)"
+    }
+  ]
+}

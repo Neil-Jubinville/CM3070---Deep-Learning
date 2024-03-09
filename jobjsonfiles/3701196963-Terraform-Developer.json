@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Terraform Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Terraform",
+      "experience": 5
+    },
+    {
+      "skill": "HashiCorp Configuration Language (HCL)",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Infrastructure (AWS, Azure, GCP)",
+      "experience": 5
+    },
+    {
+      "skill": "Infrastructure-as-Code (IaC)",
+      "experience": 5
+    },
+    {
+      "skill": "Code Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Automation Tools Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Security and Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Infrastructure Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Innovation and Trend Analysis",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, implement, and maintain infrastructure-as-code solutions using the Terraform framework."
+    },
+    {
+      "duty": "Write infrastructure code using the HashiCorp Configuration Language (HCL) to define and manage resources in cloud environments like AWS, Azure, or Google Cloud Platform."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to gather requirements, troubleshoot issues, and provide technical expertise on infrastructure best practices."
+    },
+    {
+      "duty": "Create and maintain Terraform modules and templates for consistent infrastructure deployment across environments."
+    },
+    {
+      "duty": "Participate in code review processes to ensure high-quality and maintainable infrastructure-as-code."
+    },
+    {
+      "duty": "Automate infrastructure tasks, such as provisioning and configuration, using Terraform\u2019s features and integrations with other tools like Ansible, Puppet, or Chef."
+    },
+    {
+      "duty": "Adhere to security and compliance requirements by implementing appropriate security controls in infrastructure code and following industry best practices."
+    },
+    {
+      "duty": "Monitor, analyze, and optimize infrastructure by leveraging monitoring tools and implementing performance and cost optimizations."
+    },
+    {
+      "duty": "Keep up to date with new Terraform features, industry trends, and cloud provider updates to drive innovation and ensure efficient infrastructure management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 90,
+      "introvert_extrovert": 80
+    }
+  ]
+}

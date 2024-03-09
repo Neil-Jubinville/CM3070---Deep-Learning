@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Urologist",
+      "job_category": "Healthcare",
+      "job_class": "Physician",
+      "sector": "Medical",
+      "salary": 260000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Diagnosis",
+      "experience": 7
+    },
+    {
+      "skill": "Urological Surgery",
+      "experience": 7
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 7
+    },
+    {
+      "skill": "EPIC EMR",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide urological diagnosis and treatment to patients."
+    },
+    {
+      "duty": "Perform urological surgeries and procedures."
+    },
+    {
+      "duty": "Deliver high-quality patient care and support."
+    },
+    {
+      "duty": "Utilize EPIC EMR for medical records management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150
+    },
+    {
+      "student_teacher": 80
+    },
+    {
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Board Certification in Urology (required)"
+    },
+    {
+      "credential": "Medical Degree (MD or DO)"
+    }
+  ]
+}

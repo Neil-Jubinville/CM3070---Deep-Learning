@@ -1,0 +1,123 @@
+{
+  "meta": [
+    {
+      "job_title": "Computer Operator",
+      "job_category": "IT",
+      "job_class": "Staff",
+      "sector": "IT",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Job Scheduling",
+      "experience": 3
+    },
+    {
+      "skill": "AS400",
+      "experience": 3
+    },
+    {
+      "skill": "Unix",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Networking Monitoring",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Hardware Configuration",
+      "experience": 3
+    },
+    {
+      "skill": "Knowledge of Microsoft commands",
+      "experience": 3
+    },
+    {
+      "skill": "Data Management",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Monitor jobs controlled by an automated scheduling system to include adding and removing jobs from the scheduler."
+    },
+    {
+      "duty": "Use monitoring tools to monitor the company network as well as the nightly store polling system."
+    },
+    {
+      "duty": "Use monitoring tools to monitor the company store pc network."
+    },
+    {
+      "duty": "Process phone requests."
+    },
+    {
+      "duty": "Manually submit batch processing jobs and monitor to completion."
+    },
+    {
+      "duty": "Troubleshoot problems and assist in problem resolution."
+    },
+    {
+      "duty": "Notify appropriate personnel of exceptions (ex: batch processing errors)."
+    },
+    {
+      "duty": "Assist shift Team Leader in department initiatives."
+    },
+    {
+      "duty": "Good organizational skills."
+    },
+    {
+      "duty": "Knowledge of hardware configurations."
+    },
+    {
+      "duty": "Knowledge of AS/400, UNIX, and Microsoft commands preferred."
+    },
+    {
+      "duty": "Working knowledge of automated batch processing."
+    },
+    {
+      "duty": "Attention to detail."
+    },
+    {
+      "duty": "Working knowledge of monitoring tools."
+    },
+    {
+      "duty": "Knowledge of Data Center Infrastructure Management (DCIM) tools."
+    },
+    {
+      "duty": "Good oral communication skills."
+    },
+    {
+      "duty": "Bachelor\u2019s Degree or Bachelor\u2019s degree in a computer-related course of study."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree or Bachelor\u2019s degree in a computer related course of study."
+    }
+  ]
+}

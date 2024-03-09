@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Sleep Technologist",
+      "job_category": "Healthcare",
+      "job_class": "Technologist",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Polysomnography",
+      "experience": 3
+    },
+    {
+      "skill": "Respiratory Therapy",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Equipment Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Sleep Disorder Testing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform testing and additional testing required for sleep disorder."
+    },
+    {
+      "duty": "Score, interpret, and report results of sleep studies."
+    },
+    {
+      "duty": "Educate patients about test results, sleep disorders, community support groups, and available resources."
+    },
+    {
+      "duty": "Prepare, calibrate, repair, and maintain equipment required for testing."
+    },
+    {
+      "duty": "Determine and report needed repairs and replacements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED. Preferred: Graduate of an accredited Polysomnography or Respiratory Therapy program."
+    }
+  ]
+}

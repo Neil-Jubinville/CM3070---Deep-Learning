@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "School Psychologist",
+      "job_category": "Mental Health",
+      "job_class": "Psychologist",
+      "sector": "Mental Health",
+      "salary": 70000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Therapeutic Techniques",
+      "experience": 5
+    },
+    {
+      "skill": "Case Management",
+      "experience": 5
+    },
+    {
+      "skill": "Cross-Licensing",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Support",
+      "experience": 5
+    },
+    {
+      "skill": "Online Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Evaluation",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide comprehensive mental health assessments and therapeutic interventions for students in schools."
+    },
+    {
+      "duty": "Collaborate with school staff and educational professionals to manage caseload and provide necessary support."
+    },
+    {
+      "duty": "Utilize online assessment and evaluation resources to track student progress and outcomes."
+    },
+    {
+      "duty": "Provide technical support during therapy sessions and ensure a smooth online therapy experience for students."
+    },
+    {
+      "duty": "Participate in clinical mentoring and engage in a supportive online community for professional development."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree in School Psychology or a related field"
+    }
+  ]
+}

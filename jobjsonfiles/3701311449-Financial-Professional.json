@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Financial Professional",
+      "job_category": "Financial Services",
+      "job_class": "Professional",
+      "sector": "Finance",
+      "salary": 70000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Insurance Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Personal Finance",
+      "experience": 3
+    },
+    {
+      "skill": "Market Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Networking",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop, execute, and monitor comprehensive financial plans for clients, addressing their individual financial goals and risk tolerance."
+    },
+    {
+      "duty": "Build and maintain client relationships, providing ongoing financial advice and investment recommendations."
+    },
+    {
+      "duty": "Conduct thorough financial analyses to assess clients' current financial status and identify investment opportunities."
+    },
+    {
+      "duty": "Educate clients on various financial products and services, helping them make informed decisions about their financial future."
+    },
+    {
+      "duty": "Stay up to date with market trends, economic developments, and regulatory changes to guide clients in making sound investment decisions."
+    },
+    {
+      "duty": "Collaborate with other professionals, such as attorneys and accountants, to provide holistic financial planning solutions for clients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Finance, Economics, or a related field (MBA preferred)"
+    },
+    {
+      "credential": "State life and health licenses, SIE, FINRA Series 7 and 66 exams (other designations a plus)"
+    }
+  ]
+}

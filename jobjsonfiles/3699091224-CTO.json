@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "CTO",
+      "job_category": "Technology",
+      "job_class": "Leadership",
+      "sector": "Software Engineering",
+      "salary": 180000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technology Leadership",
+      "experience": 10
+    },
+    {
+      "skill": "Software Development",
+      "experience": 10
+    },
+    {
+      "skill": "AI and Machine Learning",
+      "experience": 10
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 10
+    },
+    {
+      "skill": "Strategic Thinking",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Define and execute the technology roadmap, aligning it with global ambitions."
+    },
+    {
+      "duty": "Lead a team of developers, engineers, and tech enthusiasts."
+    },
+    {
+      "duty": "Craft cutting-edge solutions, from AI-powered algorithms to innovative logistics systems."
+    },
+    {
+      "duty": "Create seamless user experiences that drive engagement and customer satisfaction."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to deliver tech-driven business outcomes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {}
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Supervisor",
+      "job_category": "Facility Maintenance",
+      "job_class": "Supervisor",
+      "sector": "Management",
+      "salary": 68000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Supervise and coordinate the activities of the maintenance team to ensure efficient and effective operations."
+    },
+    {
+      "duty": "Develop and implement maintenance procedures and schedules to minimize downtime and maximize productivity."
+    },
+    {
+      "duty": "Inspect equipment, systems, and facilities regularly to identify and resolve issues in a timely manner."
+    },
+    {
+      "duty": "Manage and prioritize work orders, ensuring that tasks are completed within established timelines."
+    },
+    {
+      "duty": "Train and mentor maintenance staff, providing guidance and support to enhance their skills and knowledge."
+    },
+    {
+      "duty": "Collaborate with other departments to coordinate maintenance activities and ensure smooth workflow."
+    },
+    {
+      "duty": "Monitor inventory levels of maintenance supplies and equipment, and initiate purchase orders as needed."
+    },
+    {
+      "duty": "Maintain accurate records of maintenance activities, including work performed, materials used, and costs incurred."
+    },
+    {
+      "duty": "Ensure compliance with safety regulations and company policies, promoting a safe working environment."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Maintenance Management",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Maintenance Procedures",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 110,
+      "student_teacher": 90,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent; additional certification or training in maintenance is a plus"
+    }
+  ]
+}

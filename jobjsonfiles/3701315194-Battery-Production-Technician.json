@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Battery Production Technician",
+      "job_category": "Manufacturing",
+      "job_class": "Technician",
+      "sector": "Industrial",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical and Mechanical Tools",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 3
+    },
+    {
+      "skill": "Production Process Monitoring",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Interpreting Engineering Drawings",
+      "experience": 3
+    },
+    {
+      "skill": "Mathematical Reasoning",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "Safety Protocols",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assemble, test, and troubleshoot batteries and related components in the production facility."
+    },
+    {
+      "duty": "Monitor and maintain battery production equipment, troubleshoot production issues, and track production data."
+    },
+    {
+      "duty": "Test and inspect battery cells, adjust production process parameters, and ensure optimal production."
+    },
+    {
+      "duty": "Follow safety procedures, maintain a clean work area, and collaborate with production and engineering teams."
+    },
+    {
+      "duty": "Assist with product development processes and maintain inventory of raw materials and components."
+    },
+    {
+      "duty": "Perform other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent required. Battery Safety Course preferred."
+    }
+  ]
+}

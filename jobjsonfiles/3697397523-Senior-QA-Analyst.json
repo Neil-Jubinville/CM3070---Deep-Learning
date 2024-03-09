@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior QA Analyst",
+      "job_category": "Quality Assurance",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Web Service Testing",
+      "experience": 5
+    },
+    {
+      "skill": "SOAP UI or Postman",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle SQL Developer",
+      "experience": 5
+    },
+    {
+      "skill": "ALM or Octane",
+      "experience": 3
+    },
+    {
+      "skill": "JIRA and Agile Methodology",
+      "experience": 1
+    },
+    {
+      "skill": "Swagger",
+      "experience": 1
+    },
+    {
+      "skill": "JSON and XML API",
+      "experience": 1
+    },
+    {
+      "skill": "Splunk",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform analysis of project requirements and development of detailed test plans and test scenarios to test and validate object-oriented APIs for all Spectrum system applications."
+    },
+    {
+      "duty": "Perform quality assurance testing for multiple enterprise applications including billing, customer care, order management, provisioning, and networking within Software Development and Information Technology departments."
+    },
+    {
+      "duty": "Establish regression testing suites, automation of tests, and creation of unique test cases across a multitude of service calls between business-critical applications."
+    },
+    {
+      "duty": "Coordinate offshore activities across web services projects."
+    },
+    {
+      "duty": "Attend project stand-up meetings as the QA lead representative."
+    },
+    {
+      "duty": "Produce QA metrics and status reports."
+    },
+    {
+      "duty": "Perform defect analysis and triage."
+    },
+    {
+      "duty": "Identify and execute regression testing and suite automation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Computer Science, Engineering, or a related field"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Electronic Engineering Specialist",
+      "job_category": "Engineering",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible to be the interface between Marelli-AL & Customer(s)."
+    },
+    {
+      "duty": "Very good interfacing, analytic & communication skills in customer discussions."
+    },
+    {
+      "duty": "Very good knowledge & skills of Vector Tools for engineering analysis (CANalyzer, CANoe, CANape, data-logging, tracing, etc.)."
+    },
+    {
+      "duty": "Root cause analysis of any issues related to electronics-design."
+    },
+    {
+      "duty": "Good understanding of lighting applications (e.g. LEDs, linear drivers, DC/DC converters, etc.)."
+    },
+    {
+      "duty": "Good understanding of HW-Design & Topologies."
+    },
+    {
+      "duty": "Can quickly understand circuits and read electrical drawings."
+    },
+    {
+      "duty": "Analysis, debugging and measurement of electronic circuits."
+    },
+    {
+      "duty": "Support Software, Mechanical, Validation and Optics teams for mechatronic integration of the electronic components in the Lamp."
+    },
+    {
+      "duty": "Support EMC & Thermal testing and troubleshooting any design/ test-setup issues."
+    },
+    {
+      "duty": "Support to lamp development team on all electrical/electronic topics."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Vector Tools for engineering analysis (CANalyzer, CANoe, CANape, data-logging, tracing, etc.)",
+      "experience": 5
+    },
+    {
+      "skill": "Root Cause Analysis",
+      "experience": 6
+    },
+    {
+      "skill": "Lighting Applications (LEDs, linear drivers, DC/DC converters, etc.)",
+      "experience": 5
+    },
+    {
+      "skill": "HW-Design & Topologies",
+      "experience": 5
+    },
+    {
+      "skill": "Circuit Understanding",
+      "experience": 6
+    },
+    {
+      "skill": "Electrical Drawings",
+      "experience": 5
+    },
+    {
+      "skill": "Electronic Circuit Analysis and Debugging",
+      "experience": 6
+    },
+    {
+      "skill": "Mechatronic Integration",
+      "experience": 5
+    },
+    {
+      "skill": "EMC & Thermal Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Lamp Development Support",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electronic Engineering or related field (Master's preferred)"
+    }
+  ]
+}

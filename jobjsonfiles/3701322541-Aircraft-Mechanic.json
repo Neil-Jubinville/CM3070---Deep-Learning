@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Aircraft Mechanic",
+      "job_category": "Aircraft Maintenance",
+      "job_class": "Mechanic",
+      "sector": "Aerospace",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Overhaul, maintain, and repair airframe components, powerplants, aircraft communication equipment, and associated components in accordance with Company manuals and manufacturer's manuals."
+    },
+    {
+      "duty": "Constantly inspect for defective, worn, or failed parts, as well as ensure safe working conditions for aircraft components."
+    },
+    {
+      "duty": "Perform housekeeping duties, including policing work area and maintaining company property."
+    },
+    {
+      "duty": "Complete tasks assigned by Supervisor or higher management, and be directly responsible to the Director of Quality Control when exercising authority under the RII provisions."
+    },
+    {
+      "duty": "Attend all Company training classes as assigned by the Director of Maintenance."
+    },
+    {
+      "duty": "Travel to other ATI stations to assist with maintenance at the direction of the department manager."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Aircraft Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Routine Inspection",
+      "experience": 5
+    },
+    {
+      "skill": "Aircraft Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Manuals Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Supervisory Skills",
+      "experience": 5
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    },
+    {
+      "credential": "Airframe and Powerplant license (FAR 121.378a)"
+    },
+    {
+      "credential": "Experience with 757/767 aircraft"
+    },
+    {
+      "credential": "Parts 121, 125, 145; Heavy transport category aircraft experience preferred"
+    },
+    {
+      "credential": "Valid passport or the ability to get one"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 95,
+      "student_teacher": 70,
+      "introvert_extrovert": 130
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Manufacturing Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Manufacturing",
+      "salary": 98000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Manufacturing Processes",
+      "experience": 5
+    },
+    {
+      "skill": "Six Sigma Principles",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Drawing Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "CAD Solid Modeling Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Aptitude",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office Suite",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and improve manufacturing processes by analyzing product specifications and introducing continuous improvement initiatives."
+    },
+    {
+      "duty": "Drive continuous improvement through process enhancements, automation, and cost reduction using Six Sigma principles and data-driven decision making."
+    },
+    {
+      "duty": "Create Manufacturing Data Packages (MDPs) including assembly instructions, workflow, labor standards, and tool designs."
+    },
+    {
+      "duty": "Provide technical support to manufacturers, troubleshoot processes, and lead corrective action investigations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s in Science, Technology, Engineering, or Mathematics (STEM) and a minimum 2 years of prior relevant experience. The ability to obtain and maintain a U.S. government issued security clearance is required."
+    },
+    {
+      "credential": "Experience with automated tooling, machinery, and programming is preferred."
+    },
+    {
+      "credential": "Proficiency with CAD solid modeling tools and technical drawing interpretation."
+    },
+    {
+      "credential": "Hands-on mechanical aptitude with an innovative mindset for continuous improvement."
+    }
+  ]
+}

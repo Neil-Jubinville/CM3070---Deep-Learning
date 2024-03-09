@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Home Health Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 135000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Skilled Nursing",
+      "experience": 3
+    },
+    {
+      "skill": "Case Management",
+      "experience": 3
+    },
+    {
+      "skill": "Home Health Care",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Assessment",
+      "experience": 4
+    },
+    {
+      "skill": "Clinical Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 4
+    },
+    {
+      "skill": "Care Plan Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide admission, case management, and follow-up skilled nursing visits for home health patients."
+    },
+    {
+      "duty": "Confer with physician in developing the initial plan of treatment based on physician's orders and initial patient assessment."
+    },
+    {
+      "duty": "Coordinate appropriate care, encompassing various healthcare personnel and report patient care/condition/progress to patient's physician and Clinical Manager."
+    },
+    {
+      "duty": "Prepare appropriate medical documentation on all patients and confers with other health care disciplines in providing optimum patient care."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180
+    },
+    {
+      "student_teacher": 120
+    },
+    {
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Diploma, Associate, or Bachelor Degree in Nursing"
+    }
+  ]
+}

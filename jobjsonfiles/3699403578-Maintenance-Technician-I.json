@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician I",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Set up and maintain machinery in co-pack area."
+    },
+    {
+      "duty": "Maintain machinery in accordance with the Preventative Maintenance Program."
+    },
+    {
+      "duty": "Maintain area to comply with current safety standards."
+    },
+    {
+      "duty": "Understand and assist in the Equipment Validation Process."
+    },
+    {
+      "duty": "Capable of using eMaint for troubleshooting as well as capturing repairs and maintenance tasks."
+    },
+    {
+      "duty": "Miscellaneous tasks as assigned by the Operations Manager and Co-Pack Supervisors."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED preferred. 0-2 years of experience performing mechanical maintenance duties in a manufacturing/packaging environment, or equivalent combination of vocational education and experience."
+    }
+  ]
+}

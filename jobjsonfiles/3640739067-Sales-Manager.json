@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Manager",
+      "job_category": "Sales",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Recruiting",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Management",
+      "experience": 5
+    },
+    {
+      "skill": "Relationship Building",
+      "experience": 5
+    },
+    {
+      "skill": "Business Development",
+      "experience": 5
+    },
+    {
+      "skill": "Training & Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Recruiting candidates to join the sales team."
+    },
+    {
+      "duty": "Training, mentoring, and motivating the sales team."
+    },
+    {
+      "duty": "Conducting sales meetings and orientations."
+    },
+    {
+      "duty": "Developing and maintaining broker relationships."
+    },
+    {
+      "duty": "Building and maintaining relationships with business owners, HR professionals, and decision-makers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Sales, or a related field (Master's preferred)"
+    }
+  ]
+}

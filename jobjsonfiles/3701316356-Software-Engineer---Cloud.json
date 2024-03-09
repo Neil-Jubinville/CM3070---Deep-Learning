@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer - Cloud",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 125000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Infrastructure as Code (IaC)",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 5
+    },
+    {
+      "skill": "Monitoring and Observability",
+      "experience": 5
+    },
+    {
+      "skill": "Incident Management",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and implement new software architecture patterns in Cloud that are scalable, secure, and cost-efficient."
+    },
+    {
+      "duty": "Develop Infrastructure as Code (IaC) using CloudFormation templates, YAML files, build specifications, and Python Lambda functions for automated build and release processes."
+    },
+    {
+      "duty": "Implement proactive monitoring and observability to predict and detect abnormal system behaviors, with alerts to avoid system impacts."
+    },
+    {
+      "duty": "Lead in the implementation of standards and best practices on deploying applications in AWS."
+    },
+    {
+      "duty": "Mentor junior Cloud and Software Engineers."
+    },
+    {
+      "duty": "Present new ideas to leadership and present on topics to improve the learning of others."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 200,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in computer science, Math, or any Engineering"
+    }
+  ]
+}

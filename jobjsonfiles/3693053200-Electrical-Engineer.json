@@ -1,0 +1,100 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Power and Energy",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Engineering Design",
+      "experience": 5
+    },
+    {
+      "skill": "AC and DC Power Studies",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Procurement",
+      "experience": 5
+    },
+    {
+      "skill": "Engineering Calculations",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Vendor Interface",
+      "experience": 5
+    },
+    {
+      "skill": "Client Interface",
+      "experience": 5
+    },
+    {
+      "skill": "Travel Coordination",
+      "experience": 5
+    },
+    {
+      "skill": "Project Scope Management",
+      "experience": 5
+    },
+    {
+      "skill": "Progress Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Deliverable Definition",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Writing",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, modify, and analyze new and existing nuclear power plant electrical systems."
+    },
+    {
+      "duty": "Prepare and review engineering design change packages for equipment installation, replacement, and upgrade."
+    },
+    {
+      "duty": "Participate in bid review evaluation process for potential equipment vendors and support vendor requests for additional information."
+    },
+    {
+      "duty": "Interface with project team members from other engineering and design disciplines."
+    },
+    {
+      "duty": "Attend client meetings and site field walkdowns to validate scope and ensure client satisfaction."
+    },
+    {
+      "duty": "Support site installation activities during project implementation and ensure projects are completed satisfactorily, on time, and within budget."
+    },
+    {
+      "duty": "Initiate and convey scope of work to project team members, define deliverables, review status and track progress, submit progress reports, and resolve open items and emergent project issues."
+    },
+    {
+      "duty": "Coordinate completion of project deliverables."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS degree in Electrical Engineering from an ABET-accredited engineering program"
+    }
+  ]
+}

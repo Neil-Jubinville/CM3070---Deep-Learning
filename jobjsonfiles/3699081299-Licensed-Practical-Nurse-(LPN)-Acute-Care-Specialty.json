@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Practical Nurse (LPN) Acute Care Specialty",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Nursing Process",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Improvement",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Management",
+      "experience": 5
+    },
+    {
+      "skill": "Basic Life Support (BLS) IV Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Cultural Competence",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver patient-centered nursing care in accordance with standards of care."
+    },
+    {
+      "duty": "Systematically evaluate the quality and effectiveness of nursing practice."
+    },
+    {
+      "duty": "Acquire and maintain current knowledge in nursing practice and education."
+    },
+    {
+      "duty": "Collaborate with patients, significant others, and healthcare providers in providing and advocating for patient care."
+    },
+    {
+      "duty": "Consider safety and cost-effectiveness when delivering patient care."
+    },
+    {
+      "duty": "Secure, administer, and handle medication according to established guidelines."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current Licensure in the State of Kansas as a Licensed Practical Nurse (LPN)"
+    },
+    {
+      "credential": "Basic Life Support (BLS) IV Certification"
+    },
+    {
+      "credential": "Graduate of an accredited school of licensed practical nursing"
+    }
+  ]
+}

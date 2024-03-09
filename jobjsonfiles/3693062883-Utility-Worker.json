@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Utility Worker",
+      "job_category": "Facilities",
+      "job_class": "Worker",
+      "sector": "Maintenance",
+      "salary": 37250,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Electrical Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Plumbing",
+      "experience": 2
+    },
+    {
+      "skill": "Carpentry",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Building Equipment Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Blueprint Interpretation",
+      "experience": 2
+    },
+    {
+      "skill": "Hazardous Materials Handling",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in the installation and maintenance of mechanical, electrical, plumbing, carpentry, and other building equipment and systems."
+    },
+    {
+      "duty": "Maintain parts and equipment inventory."
+    },
+    {
+      "duty": "Repair building interiors such as doors, walls, and furnishings."
+    },
+    {
+      "duty": "Perform tasks requiring less expertise independently related to the inspection, operation, maintenance, and repair of equipment and systems."
+    },
+    {
+      "duty": "Handle hazardous materials and associated waste including replacing batteries in faucets and replacing burned out fluorescent lamps."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 30,
+      "student_teacher": 60,
+      "introvert_extrovert": 20
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED equivalent"
+    }
+  ]
+}

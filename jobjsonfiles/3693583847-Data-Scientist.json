@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Scientist",
+      "job_category": "Data Science",
+      "job_class": "Scientist",
+      "sector": "Cold Chain Solutions",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Predictive Analytics",
+      "experience": 5
+    },
+    {
+      "skill": "Data Mining",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Statistical Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Programming (R, Python, SQL, SAS, PowerBI)",
+      "experience": 5
+    },
+    {
+      "skill": "Azure DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "Presentation Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Market Trend Analysis",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage predictive analytics projects from discovery through execution and ongoing maintenance and improvement."
+    },
+    {
+      "duty": "Collaborate with Global Product Managers for both digital and tangible solutions to understand requirements, dependencies, and KPIs."
+    },
+    {
+      "duty": "Identify relevant internal and external data sources to support key SaaS and MLOps initiatives across the company, in addition to validating and cleaning current data sources."
+    },
+    {
+      "duty": "Build scalable Proof of Concept models to aid in the evaluation of predictive analytics use cases."
+    },
+    {
+      "duty": "Generate and test hypotheses using technical and business acumen."
+    },
+    {
+      "duty": "Develop predictive analytics tools and dashboards for ongoing use by internal teams and external customers."
+    },
+    {
+      "duty": "Create value-driven presentations to communicate insights and progress to senior leadership."
+    },
+    {
+      "duty": "Monitor and fine-tune statistical models to ensure accurate forecasts."
+    },
+    {
+      "duty": "Provide leadership to grow the data science function within Product."
+    },
+    {
+      "duty": "Uncover new opportunities for using data science to solve business problems."
+    },
+    {
+      "duty": "Identify new key market trends related to data and analytics."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in data science, statistics, mathematics or related area of study (Master\u2019s or equivalent coursework preferred)"
+    }
+  ]
+}

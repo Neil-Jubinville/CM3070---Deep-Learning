@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Embedded Flight Software Engineer",
+      "job_category": "Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 145000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Real Time Operating Systems (RTOS)",
+      "experience": 5
+    },
+    {
+      "skill": "Embedded Linux",
+      "experience": 5
+    },
+    {
+      "skill": "C and C++ languages",
+      "experience": 5
+    },
+    {
+      "skill": "Hardware Drivers Development",
+      "experience": 5
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 5
+    },
+    {
+      "skill": "CAN/CAN-FD and/or UDP/TCP",
+      "experience": 3
+    },
+    {
+      "skill": "Autonomous Vehicles Software Development",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop application software to run within a Real Time Operating System (RTOS) and/or embedded Linux"
+    },
+    {
+      "duty": "Develop hardware drivers to interface with Inertial Measurement Units (IMUs), Star Trackers, Reaction Wheels, and other spacecraft sensors and actuators"
+    },
+    {
+      "duty": "Develop and maintain comprehensive unit tests to run within a Continuous Integration framework"
+    },
+    {
+      "duty": "Collaborate with hardware-in-the-loop test engineers to verify and validate combined software and hardware functionality"
+    },
+    {
+      "duty": "Collaborate with systems engineers and embedded systems engineers in developing, documenting, and validating requirements"
+    },
+    {
+      "duty": "Participate in review of source code changes and ensure all changes meet company coding standards"
+    },
+    {
+      "duty": "Assist with on-orbit (and interplanetary!) flight operations"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in aerospace engineering, computer science, electrical engineering, or equivalent technical degree (Master's preferred)"
+    }
+  ]
+}

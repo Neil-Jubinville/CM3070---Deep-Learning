@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Auto Machine Mechanic",
+      "job_category": "Maintenance",
+      "job_class": "Mechanic",
+      "sector": "Industrial",
+      "salary": 65652,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "High Speed Packaging Equipment",
+      "experience": 2
+    },
+    {
+      "skill": "Clutch Assemblies",
+      "experience": 2
+    },
+    {
+      "skill": "Gear Head Motors",
+      "experience": 2
+    },
+    {
+      "skill": "Reduction Drive Units",
+      "experience": 2
+    },
+    {
+      "skill": "High Pressure Glue Pumps",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform routine maintenance, infield adjustments, and complete breakdowns of high speed packaging equipment."
+    },
+    {
+      "duty": "Lay out, assemble, install, maintain, repair, and test complicated mechanical and closely allied equipment such as clutch assemblies, gear head motors, reduction drive units, high pressure glue pumps, etc."
+    },
+    {
+      "duty": "Perform major and difficult repairs to all type of packaging equipment from instruction books, sketches, and other specifications."
+    },
+    {
+      "duty": "Operate high speed packing equipment."
+    },
+    {
+      "duty": "Perform all jobs in accordance with established safety practices and sanitation standards."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100
+    },
+    {
+      "student_teacher": 20
+    },
+    {
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED"
+    }
+  ]
+}

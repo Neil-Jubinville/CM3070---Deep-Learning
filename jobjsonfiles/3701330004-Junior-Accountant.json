@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Junior Accountant",
+      "job_category": "Accounting",
+      "job_class": "Junior",
+      "sector": "Finance & Administration",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform accounting duties related to the efficient maintenance and processing of accounts payable transactions."
+    },
+    {
+      "duty": "Review and analyze expense reports, work with vendors to resolve invoices, and reconcile monthly vendor statements."
+    },
+    {
+      "duty": "Administer the corporate card account activities and reconcile monthly statements."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounts Payable Processing",
+      "experience": 2
+    },
+    {
+      "skill": "Expense Report Processing",
+      "experience": 2
+    },
+    {
+      "skill": "Financial Statement Reconciliation",
+      "experience": 2
+    },
+    {
+      "skill": "Vendor Management",
+      "experience": 2
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Financial Compliance",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 70,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting, Finance, or a related field (CPA preferred)"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Audit Consultant",
+      "job_category": "Accounting",
+      "job_class": "Consultant",
+      "sector": "Finance",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Controls Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Excel",
+      "experience": 5
+    },
+    {
+      "skill": "TeamMate Audit Management",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Execute the established controls testing plan for the firm's benchmarking transition."
+    },
+    {
+      "duty": "Document test results to identify any risks in the firm's recently implemented framework."
+    },
+    {
+      "duty": "Complete other audit deliverables in a timely fashion."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting, Finance, or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain software applications using core technologies such as JSP, .NET, and web services."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to gather requirements and design solutions."
+    },
+    {
+      "duty": "Write clean, efficient, and maintainable code."
+    },
+    {
+      "duty": "Design and develop cloud-native applications using Microsoft Azure services."
+    },
+    {
+      "duty": "Write code in languages like C#, .NET, Python, or Java, adhering to coding standards."
+    },
+    {
+      "duty": "Utilize Azure PaaS offerings (Azure App Service, Functions, Logic Apps) for application development."
+    },
+    {
+      "duty": "Implement microservices architecture using containers (Azure Kubernetes Service, Docker)."
+    },
+    {
+      "duty": "Create and manage RESTful APIs and web services with security and authentication."
+    },
+    {
+      "duty": "Integrate applications with external systems using Azure Integration Services (Logic Apps, Service Bus, Event Grid)."
+    },
+    {
+      "duty": "Develop and maintain data pipelines using Azure Data Factory for ETL processes."
+    },
+    {
+      "duty": "Implement security measures, including identity management and data encryption."
+    },
+    {
+      "duty": "Optimize application performance using Azure Application Insights and monitoring tools."
+    },
+    {
+      "duty": "Set up CI/CD pipelines for automated builds, testing, and deployment using Azure DevOps."
+    },
+    {
+      "duty": "Troubleshoot and resolve issues related to application functionality, performance, and security."
+    },
+    {
+      "duty": "Design and develop applications directly on the Azure cloud platform."
+    },
+    {
+      "duty": "Leverage Azure services for building cloud-native solutions."
+    },
+    {
+      "duty": "Use Azure Functions for event-driven, serverless code execution."
+    },
+    {
+      "duty": "Develop microservices using Azure Kubernetes Service (AKS) for container orchestration."
+    },
+    {
+      "duty": "Build and deploy web applications using Azure App Service."
+    },
+    {
+      "duty": "Utilize Azure Logic Apps for workflow automation and integration."
+    },
+    {
+      "duty": "Develop and manage data pipelines with Azure Data Factory."
+    },
+    {
+      "duty": "Use Azure Cosmos DB for globally distributed, NoSQL databases."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams, architects, and product managers to translate requirements into technical solutions."
+    },
+    {
+      "duty": "Stay updated with the latest Azure services and technologies for continuous learning and innovation."
+    },
+    {
+      "duty": "Document code, architecture, and deployment processes for knowledge sharing and reference."
+    },
+    {
+      "duty": "Test and debug applications to ensure they meet quality standards."
+    },
+    {
+      "duty": "Troubleshoot and resolve issues reported by users or stakeholders."
+    },
+    {
+      "duty": "Stay up-to-date with emerging technologies and industry trends in application development."
+    },
+    {
+      "duty": "Participate in code reviews to ensure code quality and adherence to best practices."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "JSP",
+      "experience": 5
+    },
+    {
+      "skill": ".NET",
+      "experience": 5
+    },
+    {
+      "skill": "Web Services",
+      "experience": 5
+    },
+    {
+      "skill": "Azure",
+      "experience": 5
+    },
+    {
+      "skill": "C#",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Azure PaaS",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "RESTful APIs",
+      "experience": 5
+    },
+    {
+      "skill": "Security and Authentication",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Integration Services",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Data Factory",
+      "experience": 5
+    },
+    {
+      "skill": "Identity Management",
+      "experience": 5
+    },
+    {
+      "skill": "Data Encryption",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Application Insights",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD Pipelines",
+      "experience": 5
+    },
+    {
+      "skill": "Azure DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Logic Apps",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Cosmos DB",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Solution Translation",
+      "experience": 5
+    },
+    {
+      "skill": "Knowledge Sharing",
+      "experience": 5
+    },
+    {
+      "skill": "Debugging",
+      "experience": 5
+    },
+    {
+      "skill": "Code Review",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or a related field (Master's preferred)"
+    }
+  ]
+}

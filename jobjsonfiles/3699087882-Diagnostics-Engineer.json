@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Diagnostics Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electromechanical Systems Diagnostics",
+      "experience": 5
+    },
+    {
+      "skill": "Electronic Controls Evaluation",
+      "experience": 5
+    },
+    {
+      "skill": "Automotive Diagnostic Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Schematic Comprehension",
+      "experience": 5
+    },
+    {
+      "skill": "Controller Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Requirements Development",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Diagram Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Product Design and Development",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Networking Protocols",
+      "experience": 5
+    },
+    {
+      "skill": "Cost and Time Modeling",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Evaluate electronic controls for part design interchangeability, HW/FW/SW compatibility, and bring-up requirements after replacement, in support of spare part and data file release strategy."
+    },
+    {
+      "duty": "Design, develop, and validate the on-board and off-board diagnostic test tools for reporting diagnostic codes/messages/alerts, associated I/O data parameters, and control functions for insourced and outsourced controllers."
+    },
+    {
+      "duty": "Develop standardized technical requirements for controller programming tools and process flow."
+    },
+    {
+      "duty": "Work closely with the Service Documentation team to develop diagnostic, programming, and repair procedures."
+    },
+    {
+      "duty": "Support wiring system serviceability (bundle routing, connectors, terminals, retention clips, etc) and schematic development for ease of troubleshooting and repair."
+    },
+    {
+      "duty": "Work closely with engineering teams to integrate components and electromechanical systems."
+    },
+    {
+      "duty": "Participate in requirements definition as it pertains to service, availability of the product, and reliability and report significant deviations for resolution."
+    },
+    {
+      "duty": "Provide comprehensive cost/time modeling that showcases opportunities to drive product change that supports the reduction of cost or complexity of the repair."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in Mechanical Engineering, Electrical Engineering, Automotive Engineering, or Automotive Technology"
+    }
+  ]
+}

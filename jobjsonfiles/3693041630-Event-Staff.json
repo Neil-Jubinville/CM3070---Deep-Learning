@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Event Staff",
+      "job_category": "Sales",
+      "job_class": "Event Staff",
+      "sector": "Sales",
+      "salary": 28000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Team Player",
+      "experience": 3
+    },
+    {
+      "skill": "Outgoing Personality",
+      "experience": 3
+    },
+    {
+      "skill": "Punctuality",
+      "experience": 3
+    },
+    {
+      "skill": "Reliable Transportation",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greet clients and guide them through the QR ordering system with a friendly and playful attitude."
+    },
+    {
+      "duty": "Assist children in choosing their poses and create a fun atmosphere during sports photo days."
+    },
+    {
+      "duty": "Work outdoors and provide a fun and welcoming environment for young athletes and their families."
+    },
+    {
+      "duty": "Maintain punctuality and reliability in attendance for scheduled events."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 130
+    }
+  ]
+}

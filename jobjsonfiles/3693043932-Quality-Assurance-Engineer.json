@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "Quality Assurance Engineer",
+      "job_category": "Software",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cucumber BDD",
+      "experience": 2
+    },
+    {
+      "skill": "Selenium UI Automation",
+      "experience": 3
+    },
+    {
+      "skill": "Testing Financial Domain Applications",
+      "experience": 4
+    },
+    {
+      "skill": "Test Plan Development",
+      "experience": 4
+    },
+    {
+      "skill": "Test Case Development",
+      "experience": 4
+    },
+    {
+      "skill": "Test Scenario Development",
+      "experience": 4
+    },
+    {
+      "skill": "Data Request Creation",
+      "experience": 3
+    },
+    {
+      "skill": "Data Mining",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and execute test plans, test cases, and test scenarios for financial domain applications."
+    },
+    {
+      "duty": "Create data requests based on test cases and perform data mining to support testing activities."
+    }
+  ]
+}

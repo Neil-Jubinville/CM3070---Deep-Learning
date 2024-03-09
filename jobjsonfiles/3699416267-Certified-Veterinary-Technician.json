@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Certified Veterinary Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Veterinary",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Venipuncture",
+      "experience": 5
+    },
+    {
+      "skill": "IV Catheter Placement",
+      "experience": 5
+    },
+    {
+      "skill": "Surgical Preparation",
+      "experience": 5
+    },
+    {
+      "skill": "Anesthesia Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Dentistry",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Record Management",
+      "experience": 5
+    },
+    {
+      "skill": "Pharmacy Management",
+      "experience": 5
+    },
+    {
+      "skill": "Anesthesia Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide compassionate veterinary care to primary care surgery patients"
+    },
+    {
+      "duty": "Perform venipuncture, IV catheter placements, and laboratory/diagnostic duties"
+    },
+    {
+      "duty": "Assist in surgical preparation and anesthesia monitoring for soft tissue procedures and dentals"
+    },
+    {
+      "duty": "Maintain proper sterile conditions and dental radiographs"
+    },
+    {
+      "duty": "Manage patient records, complete estimates, and basic record keeping"
+    },
+    {
+      "duty": "Assist with postoperative care of the patient and pharmacy management"
+    },
+    {
+      "duty": "Provide discharge instructions to clients and work with all technical staff across the hospital"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "2+ years experience as a Veterinary Technician or internship trained"
+    },
+    {
+      "credential": "Anesthesia experience, 2+ years experience required"
+    },
+    {
+      "credential": "Experience with soft tissue and dental procedures with canines and felines"
+    }
+  ]
+}

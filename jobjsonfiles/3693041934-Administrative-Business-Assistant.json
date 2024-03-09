@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Administrative Business Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Administrative",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Event Planning",
+      "experience": 4
+    },
+    {
+      "skill": "Office Management",
+      "experience": 4
+    },
+    {
+      "skill": "Clerical Duties",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Supervisory Experience",
+      "experience": 4
+    },
+    {
+      "skill": "Mathematical Processes",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Coordinate and accomplish administrative duties within established policies"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 75,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent with four years clerical experience, including one-year supervisory experience"
+    }
+  ]
+}

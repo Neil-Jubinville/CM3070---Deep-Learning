@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Accountant",
+      "job_category": "Accounting",
+      "job_class": "Accountant",
+      "sector": "Finance",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Account Reconciliation",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 3
+    },
+    {
+      "skill": "SAP ERP",
+      "experience": 2
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office Suite",
+      "experience": 3
+    },
+    {
+      "skill": "Mathematics",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Reconcile domestic bank accounts and resolve variances in a timely manner."
+    },
+    {
+      "duty": "Monitor, evaluate, and report on foreign cash repatriation, controls, exposure, and exchange."
+    },
+    {
+      "duty": "Track monthly workers' compensation claims, record claim adjustments, and analyze P&L impact per plant."
+    },
+    {
+      "duty": "Record and reconcile monthly cost allocations from Amsted, and obtain supporting documentation of ad hoc charges."
+    },
+    {
+      "duty": "Perform various month-end closing duties, including manual journal entries, reconciling GL accounts, and preparation and distribution of various reports."
+    },
+    {
+      "duty": "Compile government reports by coordinating with various functional departments and foreign locations."
+    },
+    {
+      "duty": "Compile and review consolidated year-end standards for Amsted."
+    },
+    {
+      "duty": "Lead coordinator of BAC insurance with Amsted, including utilization of their insurance software for annual policy renewals."
+    },
+    {
+      "duty": "Coordinate with foreign BAC entities to obtain necessary documentation related to foreign insurance renewals."
+    },
+    {
+      "duty": "Assist in SOX testing in the areas of Fixed Assets, Management Reporting, Revenue, Procurement & Operations."
+    },
+    {
+      "duty": "Assist in ad hoc process improvements and special projects as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in Accounting or Finance (SAP ERP knowledge preferable)"
+    }
+  ]
+}

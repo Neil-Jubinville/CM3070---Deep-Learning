@@ -1,0 +1,47 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Manager",
+      "job_category": "Retail",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Model exemplary service and selling behaviors to ensure exceptional customer experience."
+    },
+    {
+      "duty": "Hire, train, and develop a strong team of Associates."
+    },
+    {
+      "duty": "Ensure smooth execution of store operations."
+    },
+    {
+      "duty": "Create a great store environment."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Retail Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Application Administrator",
+      "job_category": "Technology",
+      "job_class": "Administrator",
+      "sector": "Software Engineering",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HTML",
+      "experience": 5
+    },
+    {
+      "skill": "CSS",
+      "experience": 5
+    },
+    {
+      "skill": "Conditional Styling",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Tech Savvy",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Utilize HTML and CSS to replicate Microsoft Word documents on the SmartSimple platform."
+    },
+    {
+      "duty": "Design and maintain webpage templates following CPO style guidelines."
+    },
+    {
+      "duty": "Stay updated with the latest SmartSimple functionality and logic syntax through training."
+    },
+    {
+      "duty": "Formulate and implement a comprehensive plan for maintaining and updating contracts across various instances of SmartSimple."
+    },
+    {
+      "duty": "Collaborate with Subject Matter Experts (SMEs) and Business Analysts to create new contracts and optimize the functionality of the SmartSimple platform."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 80,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

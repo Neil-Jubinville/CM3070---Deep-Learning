@@ -1,0 +1,51 @@
+{
+  "meta": [
+    {
+      "job_title": "Technician Level One",
+      "job_category": "IT",
+      "job_class": "Technician",
+      "sector": "IT",
+      "salary": 45000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Hardware and Software Installation",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "A+ Certification",
+      "experience": 3
+    },
+    {
+      "skill": "Warehouse Environment Operations",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Install and configure hardware and software on a high volume of computers, printers, and other products for customers."
+    },
+    {
+      "duty": "Test systems to ensure quality and maintain minimum monthly productivity goals."
+    },
+    {
+      "duty": "Troubleshoot problems with computer systems, including hardware, software, and peripheral equipment."
+    },
+    {
+      "duty": "Communicate issues concerning customer orders to the area Help Desk or Team Leader."
+    },
+    {
+      "duty": "Adhere to safety procedures and guidelines at all times."
+    }
+  ]
+}

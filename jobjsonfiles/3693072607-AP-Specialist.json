@@ -1,0 +1,49 @@
+{
+  "meta": [
+    {
+      "job_title": "AP Specialist",
+      "job_category": "Accounting",
+      "job_class": "Specialist",
+      "sector": "Accounting",
+      "salary": 70000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Invoice Management",
+      "experience": 3
+    },
+    {
+      "skill": "Expense Monitoring",
+      "experience": 3
+    },
+    {
+      "skill": "Tax Preparation",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage and process invoices in a timely and accurate manner"
+    },
+    {
+      "duty": "Monitor and manage company expenses, ensuring compliance with policies and regulations"
+    },
+    {
+      "duty": "Ensure all financial records are tax-ready and compliant with regulatory requirements"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting, Finance, or related field"
+    }
+  ]
+}

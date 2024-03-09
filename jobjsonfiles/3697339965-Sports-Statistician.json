@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Sports Statistician",
+      "job_category": "Sports",
+      "job_class": "Statistician",
+      "sector": "Sports",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sports Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Data Reporting",
+      "experience": 3
+    },
+    {
+      "skill": "Training and Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Smartphone Technology",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Watch sports games and report live events such as runs, kicks, throws, and tackles"
+    },
+    {
+      "duty": "Participate in training and testing program to ensure readiness for data collection"
+    },
+    {
+      "duty": "Collect and analyze sports data from matches for statistical analysis"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Above-average knowledge in American Football, Basketball, Volleyball, Ice Hockey, and/or Soccer"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "meta": [
+    {
+      "job_title": "Certified Medical Assistant 1",
+      "job_category": "Healthcare",
+      "job_class": "Medical Assistant",
+      "sector": "Healthcare",
+      "salary": 34000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Clinical Record Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Vital Signs Measurement",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Data Collection",
+      "experience": 1
+    },
+    {
+      "skill": "Routine Testing",
+      "experience": 1
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 1
+    },
+    {
+      "skill": "Dressing Changes",
+      "experience": 1
+    },
+    {
+      "skill": "Blood Draw",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in examination and treatment of patients under the direction of a physician."
+    },
+    {
+      "duty": "Prepare treatment rooms for examination of patients, clean rooms after procedures, and restock supplies."
+    },
+    {
+      "duty": "Help and accompany patients from waiting room, and prepare patients for examination."
+    },
+    {
+      "duty": "Interview patients, record/input information to patients' medical record, and collect all medical data."
+    },
+    {
+      "duty": "Measure, collect, and record patient's vital signs, and prepare patients for examinations, tests, procedures, and x-rays."
+    },
+    {
+      "duty": "Perform routine patient testing, acquire and process electrocardiograms, and collect and process blood specimens and urine samples."
+    },
+    {
+      "duty": "Prepare and administer routine medication, injections, and vaccinations, as directed by Physician, and identify and report adverse reactions."
+    },
+    {
+      "duty": "Remove sutures and staples, and change sterile and non-sterile dressings, as requested."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma/GED Equivalent"
+    },
+    {
+      "credential": "Certification from accredited program"
+    },
+    {
+      "credential": "Basic Life Support (BLS) certification"
+    }
+  ]
+}

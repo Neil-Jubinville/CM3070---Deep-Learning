@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Quality Control Chemist",
+      "job_category": "Chemistry",
+      "job_class": "QC Chemist",
+      "sector": "Quality Control",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Chemistry",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 5
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "FTIR Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "UV-Vis Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Refractometers",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead routine chemical testing for quality control purposes."
+    },
+    {
+      "duty": "Collaborate with QC team and lead Chemist for project execution."
+    },
+    {
+      "duty": "Ensure compliance with regulatory requirements in medical device testing and development."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS/MS in Chemistry"
+    }
+  ]
+}

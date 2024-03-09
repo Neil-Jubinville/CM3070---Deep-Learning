@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Telemetry Nurse",
+      "job_category": "Nursing",
+      "job_class": "RN",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Telemetry",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Care",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medical-Surgical",
+      "experience": 5
+    },
+    {
+      "skill": "ACLS Certification",
+      "experience": 5
+    },
+    {
+      "skill": "BLS Certification",
+      "experience": 5
+    },
+    {
+      "skill": "EMR Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide high-quality care to patients in the telemetry unit, monitoring vital signs and symptoms."
+    },
+    {
+      "duty": "Collaborate with healthcare team to create and modify patient care plans as needed."
+    },
+    {
+      "duty": "Administer medications and treatments as prescribed by the physician."
+    },
+    {
+      "duty": "Utilize electronic medical records (EMR) systems to accurately document patient care."
+    },
+    {
+      "duty": "Educate patients and their families about their condition, treatment options, and at-home care."
+    },
+    {
+      "duty": "Respond to medical emergencies and ensure proper protocols are followed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's or Bachelor's degree in Nursing (BSN preferred)"
+    },
+    {
+      "credential": "RN License in the state of practice"
+    }
+  ]
+}

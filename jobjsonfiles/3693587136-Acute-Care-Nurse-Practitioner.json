@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Acute Care Nurse Practitioner",
+      "job_category": "Healthcare",
+      "job_class": "Nurse Practitioner",
+      "sector": "Healthcare",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "ICU Management",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnostic Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Therapeutic Procedures",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Coordination",
+      "experience": 5
+    },
+    {
+      "skill": "Medical History Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Physical Examination",
+      "experience": 5
+    },
+    {
+      "skill": "Treatment Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Education and Counseling",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist attending physicians in the care and management of patients in various hospital units."
+    },
+    {
+      "duty": "Contribute to decisions for daily care, writing orders, and coordinating tests and procedures."
+    },
+    {
+      "duty": "Perform physical examinations, coordinate lab tests, and diagnostic studies."
+    },
+    {
+      "duty": "Prescribe medications and provide assistance to patients regarding treatment and education."
+    },
+    {
+      "duty": "Make frequent bedside visits to assess patient status and direct care accordingly."
+    },
+    {
+      "duty": "Consult with supervisory physicians to determine the most appropriate care for patients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree in nursing. Must meet requirements set forth by the medical staff office to obtain and retain privileges."
+    }
+  ]
+}

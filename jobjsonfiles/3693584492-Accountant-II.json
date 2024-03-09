@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Accountant II",
+      "job_category": "Accounting",
+      "job_class": "Accountant",
+      "sector": "Finance",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "General Ledger Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Review",
+      "experience": 5
+    },
+    {
+      "skill": "Operational Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Process Improvement",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Preparing and reviewing all financial reports (i.e., balance sheets, income statements, etc.) and performing all accounting functions across homebuilding divisions."
+    },
+    {
+      "duty": "Monthly account reconciliations, journal entries, budget review, operational reporting, and streamlining/process improvement."
+    },
+    {
+      "duty": "Reporting directly to a Division Accounting Controller."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting, Finance, or a related field (Master's preferred)"
+    }
+  ]
+}

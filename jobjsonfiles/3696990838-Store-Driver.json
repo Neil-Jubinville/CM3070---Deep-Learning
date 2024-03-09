@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Store Driver",
+      "job_category": "Delivery",
+      "job_class": "Driver",
+      "sector": "Logistics",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Driving",
+      "experience": 2
+    },
+    {
+      "skill": "Navigation",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Stocking",
+      "experience": 2
+    },
+    {
+      "skill": "Mathematical Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Safely deliver parts to customers as needed"
+    },
+    {
+      "duty": "Pick and stage parts for customer orders"
+    },
+    {
+      "duty": "Pick up returns and cores"
+    },
+    {
+      "duty": "Drop off weekly / monthly sales flyer"
+    },
+    {
+      "duty": "Daily collection of credit accounts"
+    },
+    {
+      "duty": "Store Cleanliness including floors, bathrooms, facing, dusting, parking lot"
+    },
+    {
+      "duty": "General stocking including truck stocking and back stock"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid driver's license and fleet safety certification"
+    }
+  ]
+}

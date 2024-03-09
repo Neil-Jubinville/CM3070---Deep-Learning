@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Laboratory Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Pathology",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 5
+    },
+    {
+      "skill": "Laboratory Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Laboratory",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Laboratory Science",
+      "experience": 5
+    },
+    {
+      "skill": "Instrument Maintenance",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform accurate and timely testing of patient samples using automation, computerization, and manual methods."
+    },
+    {
+      "duty": "Ensure quality control and operate, maintain, and troubleshoot laboratory instruments."
+    },
+    {
+      "duty": "Handle a variety of body fluid specimens, including those contaminated with infectious diseases."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 80,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Medical Laboratory Science or related field. ASCP or AMT Certification required."
+    }
+  ]
+}

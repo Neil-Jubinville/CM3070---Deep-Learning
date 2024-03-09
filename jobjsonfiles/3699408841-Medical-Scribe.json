@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Scribe",
+      "job_category": "Healthcare",
+      "job_class": "Scribe",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Terminology",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Note-taking",
+      "experience": 2
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Proficiency",
+      "experience": 3
+    },
+    {
+      "skill": "Typing",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide scribe services in an Emergency Department at the direction of a Physician or Advanced Practice Provider (Nurse Provider or Physician Assistant) allowing the provider to spend more time with the patient, work more productively, and produce accurate and thorough documentation in real time."
+    },
+    {
+      "duty": "Document the provider\u2019s previously determined dictation and/or activities in the electronic medical record (EMR)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree preferred (or verification that degree is in progress)"
+    },
+    {
+      "credential": "Biology coursework at the undergraduate level or above preferred; Anatomy and Physiology and Medical Terminology coursework preferred"
+    },
+    {
+      "credential": "At least 100 hours of work, volunteer, or shadowing experience in the healthcare field preferred"
+    },
+    {
+      "credential": "Experience in a direct patient care environment preferred i.e. EMT, scribe, clinical technician in hospital, medical assistant in a doctor\u2019s office"
+    }
+  ]
+}

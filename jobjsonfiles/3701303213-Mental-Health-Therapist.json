@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Mental Health Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 70000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cognitive Behavioral Therapy",
+      "experience": 2
+    },
+    {
+      "skill": "Clinical Psychology",
+      "experience": 3
+    },
+    {
+      "skill": "Counseling",
+      "experience": 3
+    },
+    {
+      "skill": "Social Work",
+      "experience": 3
+    },
+    {
+      "skill": "Crisis Intervention",
+      "experience": 2
+    },
+    {
+      "skill": "Digital Integration in Therapy",
+      "experience": 2
+    },
+    {
+      "skill": "Cultural Responsiveness",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide evidence-based care through synchronous live video sessions to adults with a wide range of emotional disorders."
+    },
+    {
+      "duty": "Collaborate with psychiatric providers to support comprehensive treatment and with fellow therapists as part of the growing therapist community."
+    },
+    {
+      "duty": "Draw on automatically administered symptom self-assessments, functional improvement, and goal progress measures to monitor and adjust treatment plans."
+    },
+    {
+      "duty": "Maintain timely clinical documentation through our user-friendly, reliable therapist portal that includes digital tools for streamlined documentation."
+    },
+    {
+      "duty": "Receive support and consultation from the Therapy Leadership Team when needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 130,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master\u2019s or doctorate degree in clinical psychology, counseling, or clinical social work from an accredited program."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Care Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Hemodialysis Treatment",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Machine Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Infection Control",
+      "experience": 3
+    },
+    {
+      "skill": "Safety Protocol Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 3
+    },
+    {
+      "skill": "Phlebotomy",
+      "experience": 3
+    },
+    {
+      "skill": "Dialysis Machine Maintenance",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide safe, comfortable, and high-quality dialysis treatment to patients, including initiating, monitoring, and terminating treatment."
+    },
+    {
+      "duty": "Prepare machines for hemodialysis treatments, clean and disinfect machines after treatment, and conduct machine safety checks and logging results for quality control."
+    },
+    {
+      "duty": "Adhere to company policies, procedures, and state/federal laws and regulations, including participating in staff meetings and continuing education offerings."
+    },
+    {
+      "duty": "Gather patient stats before and after treatment, and collect patient blood samples per physician orders."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certification as a Hemodialysis Technician or Dialysis Technician as per state-specific requirements."
+    }
+  ]
+}

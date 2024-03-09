@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinary Assistant",
+      "job_category": "Veterinary",
+      "job_class": "Assistant",
+      "sector": "Veterinary Medicine",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Performing laboratory work and diagnostic imaging",
+      "experience": 2
+    },
+    {
+      "skill": "Assisting in diagnostic procedures",
+      "experience": 2
+    },
+    {
+      "skill": "Animal Restraint",
+      "experience": 2
+    },
+    {
+      "skill": "Maintain patient records",
+      "experience": 2
+    },
+    {
+      "skill": "Maintain proper sterile conditions",
+      "experience": 2
+    },
+    {
+      "skill": "Client education/communication",
+      "experience": 2
+    },
+    {
+      "skill": "Collaborative team work",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing laboratory work and diagnostic imaging."
+    },
+    {
+      "duty": "Assisting in diagnostic procedures such as endoscopy, rhinoscopy, and fluoroscopy."
+    },
+    {
+      "duty": "Animal Restraint."
+    },
+    {
+      "duty": "Assisting with postoperative care of the patient."
+    },
+    {
+      "duty": "Maintain patient records."
+    },
+    {
+      "duty": "Maintain proper sterile conditions."
+    },
+    {
+      "duty": "Restock all supplies."
+    },
+    {
+      "duty": "Assists in sterile supply with cleaning and reprocessing of instrument sets."
+    },
+    {
+      "duty": "Client education/communication."
+    },
+    {
+      "duty": "Working collaboratively with team members of all hospital services."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "2+ years of Veterinary Assistant experience"
+    }
+  ]
+}

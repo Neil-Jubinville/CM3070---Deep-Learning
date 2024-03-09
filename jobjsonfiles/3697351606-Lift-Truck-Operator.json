@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Lift Truck Operator",
+      "job_category": "Logistics",
+      "job_class": "Operator",
+      "sector": "Warehousing",
+      "salary": 44160,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Forklift Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Pallet Retrieval",
+      "experience": 2
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 2
+    },
+    {
+      "skill": "Loading and Unloading",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate basic powered material handling equipment for product receipt, storage, and order fulfillment"
+    },
+    {
+      "duty": "Full case order picking, pallet retrieval, and put away in narrow aisle bulk rack storage system"
+    },
+    {
+      "duty": "Quality control to ensure accuracy of all transactions"
+    },
+    {
+      "duty": "Loading and unloading of pallets and cases from trucks and conveyor lines"
+    },
+    {
+      "duty": "Perform pre- and post-equipment checklist and routine inventory maintenance tasks"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Java Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 3
+    },
+    {
+      "skill": "Spring Boot",
+      "experience": 3
+    },
+    {
+      "skill": "Restful Microservices",
+      "experience": 3
+    },
+    {
+      "skill": "Jenkins",
+      "experience": 3
+    },
+    {
+      "skill": "OCP",
+      "experience": 3
+    },
+    {
+      "skill": "Agile",
+      "experience": 3
+    },
+    {
+      "skill": "React or similar UI framework",
+      "experience": 3
+    },
+    {
+      "skill": "MySQL",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain Java applications with a focus on Microservices, using Spring Boot and Restful API principles."
+    },
+    {
+      "duty": "Integrate and deploy applications using Jenkins and OCP."
+    },
+    {
+      "duty": "Collaborate in an Agile environment, contributing to the development cycle with React or similar UI framework."
+    },
+    {
+      "duty": "Manage and maintain databases, particularly MySQL, for application data storage."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 75,
+      "student_teacher": 90,
+      "introvert_extrovert": 85
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or related field"
+    }
+  ]
+}

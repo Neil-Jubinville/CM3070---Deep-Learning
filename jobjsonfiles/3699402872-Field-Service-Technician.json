@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Service Technician",
+      "job_category": "Customer Service",
+      "job_class": "Technician",
+      "sector": "Technology",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Installs, tests and troubleshoots Company services including video, data and telephone from tap to customer selected locations."
+    },
+    {
+      "duty": "Educates customers regarding use of installed products; explains waivers, agreements, customer release forms, charges and billing procedures."
+    },
+    {
+      "duty": "Determines customer's current service levels; inquiries about customer preferences and needs; recommends service upgrades or additional products."
+    },
+    {
+      "duty": "Uses automated routing system or plans daily route; requisitions equipment and supplies; stocks Company vehicle."
+    },
+    {
+      "duty": "Completes work orders and other documentation on paper and/or by mobile device."
+    },
+    {
+      "duty": "Performs other duties as assigned."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Educating",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Electronics",
+      "experience": 3
+    },
+    {
+      "skill": "Network Troubleshooting",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

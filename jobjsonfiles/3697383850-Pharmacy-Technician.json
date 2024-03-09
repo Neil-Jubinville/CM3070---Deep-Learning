@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Pharmacy Technician",
+      "job_category": "Pharmacy",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Compounding",
+      "experience": 2
+    },
+    {
+      "skill": "Pharmacy Math",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 2
+    },
+    {
+      "skill": "Drug Names",
+      "experience": 2
+    },
+    {
+      "skill": "Record Keeping",
+      "experience": 2
+    },
+    {
+      "skill": "Technical Communication",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Interpreting, obtaining, preparing/compounding, labeling, and distributing pharmacy products for patient use while considering patient age and relevant information."
+    },
+    {
+      "duty": "Preparing IV medications using special equipment, supplies, and techniques for patient administration, and processing refill requests for non-monitored pharmacy medication."
+    },
+    {
+      "duty": "Documenting the distribution of medication for proper use and reimbursement in accordance with department policy."
+    },
+    {
+      "duty": "Being involved in production, packaging, record keeping, and stocking tasks."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School or GED (Required)"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Research Assistant 1",
+      "job_category": "Research",
+      "job_class": "Assistant",
+      "sector": "Medical",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Laboratory Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Animal Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Biohazardous Material Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Record-Keeping",
+      "experience": 1
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 1
+    },
+    {
+      "skill": "MS Office Suite",
+      "experience": 1
+    },
+    {
+      "skill": "Compliance Regulations",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform research experiments in medical and related technical areas."
+    },
+    {
+      "duty": "Maintain specialized knockout and transgenic mice for basic immunology studies."
+    },
+    {
+      "duty": "Analyze inflammatory molecules at gene and protein levels."
+    },
+    {
+      "duty": "Maintain and manage lab equipment and samples."
+    },
+    {
+      "duty": "Record and maintain organized data of experiments and laboratory equipment."
+    },
+    {
+      "duty": "Order general laboratory supplies and maintain inventory."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in science and 0 to 1 year of experience or Associate's degree in an approved biotechnology program and 0 to 2 years of experience"
+    }
+  ]
+}

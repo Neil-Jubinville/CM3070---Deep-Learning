@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales and Service Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 42000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Sales",
+      "experience": 1
+    },
+    {
+      "skill": "Adaptability",
+      "experience": 1
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 1
+    },
+    {
+      "skill": "Flexibility",
+      "experience": 1
+    },
+    {
+      "skill": "Agility",
+      "experience": 1
+    },
+    {
+      "skill": "Financial Literacy",
+      "experience": 1
+    },
+    {
+      "skill": "Retail Banking Knowledge",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Engage customers in conversation to understand their banking needs and preferences"
+    },
+    {
+      "duty": "Process transactions accurately and efficiently"
+    },
+    {
+      "duty": "Provide assistance with account servicing needs"
+    },
+    {
+      "duty": "Facilitate customer awareness and education of bank services, including digital banking capabilities"
+    },
+    {
+      "duty": "Introduce customers to other branch team members or bank partners who can provide solutions for their financial needs"
+    },
+    {
+      "duty": "Provide coverage to multiple branches"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED and 6 months customer service experience"
+    }
+  ]
+}

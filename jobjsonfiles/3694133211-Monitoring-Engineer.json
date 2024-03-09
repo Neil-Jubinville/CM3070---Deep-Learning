@@ -1,0 +1,100 @@
+{
+  "meta": [
+    {
+      "job_title": "Monitoring Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Monitoring Tools (Nagios, Zabbix, and Prometheus)",
+      "experience": 5
+    },
+    {
+      "skill": "Network Protocols",
+      "experience": 5
+    },
+    {
+      "skill": "Programming Languages (Python, Java, Shell Script)",
+      "experience": 5
+    },
+    {
+      "skill": "Log Management",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Computing Platforms (AWS/Azure/GCP)",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps Methodologies and Tools (Docker, Kubernetes, Ansible)",
+      "experience": 5
+    },
+    {
+      "skill": "Telemetry and Logging Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Distributed Tracing Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Database Knowledge (SQL and NoSQL)",
+      "experience": 5
+    },
+    {
+      "skill": "ITSM Integration",
+      "experience": 5
+    },
+    {
+      "skill": "CI Topology Map Generation",
+      "experience": 5
+    },
+    {
+      "skill": "CMDB Updating",
+      "experience": 5
+    },
+    {
+      "skill": "Industry Frameworks (Redfish, IPMI, SMI-S, NETCONF, RESTCONF)",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collect and analyze data from IT systems for monitoring, logging, and discovery using tools such as Nagios, Zabbix, Prometheus, etc."
+    },
+    {
+      "duty": "Write custom collectors/adapters with Python, Java, or other lightweight programming languages."
+    },
+    {
+      "duty": "Configure alerts, deduplication, correlation, and aggregation rules for monitoring systems."
+    },
+    {
+      "duty": "Integrate monitoring systems with ITSM tools for Incident Management."
+    },
+    {
+      "duty": "Generate CI Topology maps and update CMDB leveraging the discovery process."
+    },
+    {
+      "duty": "Manage logs and log migration to a central location for efficient log management."
+    },
+    {
+      "duty": "Utilize telemetry and logging technologies for observability and distributed tracing in distributed systems."
+    },
+    {
+      "duty": "Implement industry frameworks and integrate with cloud computing platforms."
+    },
+    {
+      "duty": "Apply DevOps methodologies and tools for efficient operation of monitoring and observability systems."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

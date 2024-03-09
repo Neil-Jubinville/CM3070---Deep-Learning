@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Lab Medical Technologist",
+      "job_category": "Healthcare",
+      "job_class": "Technologist",
+      "sector": "Healthcare",
+      "salary": 40,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Laboratory Testing",
+      "experience": 2
+    },
+    {
+      "skill": "Bacteriology",
+      "experience": 2
+    },
+    {
+      "skill": "Hematology",
+      "experience": 2
+    },
+    {
+      "skill": "Chemistry",
+      "experience": 2
+    },
+    {
+      "skill": "Urinalysis",
+      "experience": 2
+    },
+    {
+      "skill": "Immunology",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Technology",
+      "experience": 2
+    },
+    {
+      "skill": "Clinical Laboratory Technologist License",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform laboratory tests demonstrating understanding of normal ranges due to sex and/or age from neonatal through geriatric population groups."
+    },
+    {
+      "duty": "Perform automated, semi-automated, and manual procedures in the fields of bacteriology, parasitology, hematology, coagulation, serology, chemistry, urinalysis, immunology, and immunohematology according to established procedures and policies."
+    },
+    {
+      "duty": "Report results according to established professional standards, following the interpretation, verification, and validation of procedures."
+    },
+    {
+      "duty": "Work actively and cooperatively with nursing and other hospital staff to ensure timely patient care. Assists with regulatory compliance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 130
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Medical Technology from an accredited college or university and successful score on a national examination for certification approved by the State Board"
+    }
+  ]
+}

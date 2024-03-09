@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Vocational Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "General Nursing Care",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Activities Supervision",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Medication Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Treatment Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Interdisciplinary Teamwork",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide basic level of general nursing care to forensic patients with mental, emotional, or developmental disabilities."
+    },
+    {
+      "duty": "Develop and encourage participation in and supervision for patient activities."
+    },
+    {
+      "duty": "Administer oral medications, perform custody tasks, maintain patient\u2019s optimal motor function, and perform treatments and procedures."
+    },
+    {
+      "duty": "Work with other disciplines as part of the treatment team to provide an overall treatment program for the patients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 100,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Possession of a valid license to practice as an LVN issued by the California Board of Vocational Nurse and Psychiatric Technician Examiners."
+    },
+    {
+      "credential": "Knowledge of fundamentals of nursing care."
+    },
+    {
+      "credential": "Current CPR certification."
+    }
+  ]
+}

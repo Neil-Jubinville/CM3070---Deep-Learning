@@ -1,0 +1,130 @@
+{
+  "meta": [
+    {
+      "job_title": "DevOps Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "DevOps",
+      "experience": 12
+    },
+    {
+      "skill": "Cloud Administration",
+      "experience": 10
+    },
+    {
+      "skill": "Networking",
+      "experience": 10
+    },
+    {
+      "skill": "Scripting",
+      "experience": 10
+    },
+    {
+      "skill": "Continuous Integration",
+      "experience": 10
+    },
+    {
+      "skill": "Continuous Delivery",
+      "experience": 10
+    },
+    {
+      "skill": "Azure Build and Release Pipelines",
+      "experience": 10
+    },
+    {
+      "skill": "Scripting Languages",
+      "experience": 10
+    },
+    {
+      "skill": "Infrastructure as Code Automation",
+      "experience": 10
+    },
+    {
+      "skill": "Security Best Practices",
+      "experience": 10
+    },
+    {
+      "skill": "Docker Container",
+      "experience": 10
+    },
+    {
+      "skill": "Orchestration Frameworks",
+      "experience": 10
+    },
+    {
+      "skill": "Policy Development",
+      "experience": 10
+    },
+    {
+      "skill": "Azure Administration",
+      "experience": 10
+    },
+    {
+      "skill": "SQL and Synapse Database Administration",
+      "experience": 10
+    },
+    {
+      "skill": "Client Interaction",
+      "experience": 10
+    },
+    {
+      "skill": "Agile/Scrum/Kanban",
+      "experience": 10
+    },
+    {
+      "skill": "Analytical and Critical Thinking",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage cloud administration and engineering with networking and scripting experience."
+    },
+    {
+      "duty": "Implement and manage Continuous Integration and Continuous Delivery processes."
+    },
+    {
+      "duty": "Develop and maintain Azure Build and Release Pipelines using scripting languages."
+    },
+    {
+      "duty": "Automate infrastructure using Azure CLI, Terraform, Ansible, or other scripting languages."
+    },
+    {
+      "duty": "Implement and maintain security best practices in Azure public cloud and CI/CD process."
+    },
+    {
+      "duty": "Implement Docker containers and orchestration frameworks like Kubernetes."
+    },
+    {
+      "duty": "Develop policies, standards, guidelines, governance, and related guidance for CI/CD operations."
+    },
+    {
+      "duty": "Manage Azure Administration and SQL, Synapse database administration."
+    },
+    {
+      "duty": "Interact with clients and have experience in Agile/Scrum/Kanban methodologies."
+    },
+    {
+      "duty": "Utilize analytical and critical thinking skills to challenge conventional thinking."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field (Master's preferred)"
+    }
+  ]
+}

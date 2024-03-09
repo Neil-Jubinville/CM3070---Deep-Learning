@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Journey",
+      "job_category": "Skilled Trades",
+      "job_class": "Maintenance",
+      "sector": "Manufacturing",
+      "salary": 35,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Industrial Maintenance",
+      "experience": 4
+    },
+    {
+      "skill": "Electrical Troubleshooting",
+      "experience": 4
+    },
+    {
+      "skill": "Mechanical Repair",
+      "experience": 4
+    },
+    {
+      "skill": "Forklift Certification",
+      "experience": 4
+    },
+    {
+      "skill": "Carpentry",
+      "experience": 4
+    },
+    {
+      "skill": "Welding",
+      "experience": 4
+    },
+    {
+      "skill": "Machining",
+      "experience": 4
+    },
+    {
+      "skill": "HVAC Troubleshooting",
+      "experience": 4
+    },
+    {
+      "skill": "Lockout/Tagout Procedures",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing industrial maintenance and repair on various systems and equipment including motors, gearboxes, hydraulic systems, pneumatic systems, compressors, and fluid pumps."
+    },
+    {
+      "duty": "Troubleshooting and repairing electrical service and systems, including reading electrical diagrams and wiring instructions, 480V, and industrial electrical systems."
+    },
+    {
+      "duty": "Facility support including light plumbing, carpentry, welding, and machining or metal fabrication."
+    },
+    {
+      "duty": "Supporting other Journeys and other department personnel on combined (electrical and mechanical) projects."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 40,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

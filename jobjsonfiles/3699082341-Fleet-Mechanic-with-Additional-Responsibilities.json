@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Fleet Mechanic with Additional Responsibilities",
+      "job_category": "Mechanic",
+      "job_class": "Senior",
+      "sector": "Automotive",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Automotive Mechanics",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Landscaping",
+      "experience": 3
+    },
+    {
+      "skill": "Procurement",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Repairs",
+      "experience": 3
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform routine maintenance, inspections, and repairs on a diverse fleet of vehicles, ensuring optimal performance and safety standards are met."
+    },
+    {
+      "duty": "Support the upkeep of facilities' grounds by assisting with basic landscaping, maintenance of outdoor equipment, and addressing minor repairs."
+    },
+    {
+      "duty": "Manage inventory, assist in organizing storage spaces, and participate in the loading and unloading of shipments."
+    },
+    {
+      "duty": "Take an active role in sourcing and procuring necessary supplies, parts, and equipment for the maintenance department and other areas of the company."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent. Technical or vocational training in automotive mechanics preferred."
+    }
+  ]
+}

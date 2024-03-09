@@ -1,0 +1,49 @@
+{
+  "meta": [
+    {
+      "job_title": "Logistics Warehouse Employee",
+      "job_category": "Logistics",
+      "job_class": "Employee",
+      "sector": "Logistics",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Product Loading",
+      "experience": 1
+    },
+    {
+      "skill": "Box Packaging",
+      "experience": 1
+    },
+    {
+      "skill": "English Fluency",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Loading products and packaging boxes in the warehouse."
+    },
+    {
+      "duty": "Ensuring fluency in English for effective communication."
+    },
+    {
+      "duty": "No record of absenteeism on Monday to Friday."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 200,
+      "student_teacher": 20,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent (Associate's degree preferred)"
+    }
+  ]
+}

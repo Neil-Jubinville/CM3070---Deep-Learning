@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Diesel Mechanic",
+      "job_category": "Skilled Trades",
+      "job_class": "Mechanic",
+      "sector": "Transportation",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Aptitude",
+      "experience": 5
+    },
+    {
+      "skill": "Engine Diagnostics",
+      "experience": 5
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 5
+    },
+    {
+      "skill": "Record-keeping",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform routine maintenance tasks, including oil and filter changes, tire rotations, and basic inspections"
+    },
+    {
+      "duty": "Diagnose and repair mechanical, electrical, and hydraulic issues in diesel engines and related components"
+    },
+    {
+      "duty": "Conduct thorough inspections of vehicles and equipment to identify potential issues and prevent breakdowns"
+    },
+    {
+      "duty": "Utilize diagnostic tools and equipment to troubleshoot and resolve complex engine problems"
+    },
+    {
+      "duty": "Collaborate with other mechanics and team members to address operational and safety concerns"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum of 5 years of experience as a Diesel Mechanic"
+    }
+  ]
+}

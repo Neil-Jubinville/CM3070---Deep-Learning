@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Validation Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Automotive",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical feature testing",
+      "experience": 3
+    },
+    {
+      "skill": "Systems engineering",
+      "experience": 3
+    },
+    {
+      "skill": "Wiring",
+      "experience": 3
+    },
+    {
+      "skill": "Root cause analysis",
+      "experience": 3
+    },
+    {
+      "skill": "CAN communication",
+      "experience": 3
+    },
+    {
+      "skill": "Test planning",
+      "experience": 3
+    },
+    {
+      "skill": "Automotive industry knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Multimeters and oscilloscopes",
+      "experience": 3
+    },
+    {
+      "skill": "System behavior testing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead electrical feature testing for specific vehicle programs and work with suppliers, Engineering Support teams, Program Management, and Manufacturing teams as required to validate and resolve electrical issues."
+    },
+    {
+      "duty": "Create test plans for electrical features across the vehicle: cluster, radio, body control module, telematics, and powertrain."
+    },
+    {
+      "duty": "Develop, maintain, and execute test plans (DVP&R) at the vehicle level and report defects based upon test plan failures."
+    },
+    {
+      "duty": "Develop and maintain subsystem test benches and perform root cause analysis of issues found."
+    },
+    {
+      "duty": "Provide feedback on System Requirements to ensure specs are testable."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science in Electrical, Computer Engineering or Computer Science"
+    }
+  ]
+}

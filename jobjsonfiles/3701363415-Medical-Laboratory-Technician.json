@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Laboratory Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Laboratory Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Clinical Area Qualification",
+      "experience": 2
+    },
+    {
+      "skill": "Educational Activities",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform and report various analyses of multiple specimen sources."
+    },
+    {
+      "duty": "Provide the highest level of patient care and maximize patient satisfaction."
+    },
+    {
+      "duty": "Meet qualifications to provide care for patients in the specific age range on the assigned clinical area."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree in medical laboratory technology from an accredited institution"
+    }
+  ]
+}

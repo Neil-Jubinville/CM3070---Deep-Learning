@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Database Administrator",
+      "job_category": "Technology",
+      "job_class": "Administrator",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "MS SQL Server Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Database Management",
+      "experience": 4
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 4
+    },
+    {
+      "skill": "Technical Mentorship",
+      "experience": 4
+    },
+    {
+      "skill": "Business Requirements Analysis",
+      "experience": 4
+    },
+    {
+      "skill": "Documentation Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage SQL Server databases and ensure consistent performance on applications."
+    },
+    {
+      "duty": "Refine and automate regular processes, track issues, and document necessary changes."
+    },
+    {
+      "duty": "Provide support for critical production systems and offer technical mentorship to peers."
+    },
+    {
+      "duty": "Evaluate business requirements, define problems, and develop solutions."
+    },
+    {
+      "duty": "Participate in design and architecture discussions and document business requirements and solutions."
+    },
+    {
+      "duty": "Update business knowledge, technical skills, and soft skills, and participate in professional organizations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science, Engineering, Math or equivalent"
+    }
+  ]
+}

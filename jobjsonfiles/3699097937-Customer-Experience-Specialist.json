@@ -1,0 +1,44 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Experience Specialist",
+      "job_category": "Customer Service",
+      "job_class": "Specialist",
+      "sector": "Sales",
+      "salary": 45000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    },
+    {
+      "skill": "CRM Systems",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Nurture and support customers after the point of sale, ensuring a seamless delivery and installation process."
+    },
+    {
+      "duty": "Effectively communicate with customers to address their needs and concerns."
+    },
+    {
+      "duty": "Utilize CRM systems to manage customer interactions and facilitate efficient resolution of issues."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ]
+}

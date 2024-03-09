@@ -1,0 +1,108 @@
+{
+  "meta": [
+    {
+      "job_title": "Lab WiFi Tester",
+      "job_category": "Information Technology",
+      "job_class": "Tester",
+      "sector": "Software Engineering",
+      "salary": 80000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Wireless Network Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Developing Test Cases",
+      "experience": 3
+    },
+    {
+      "skill": "Networking",
+      "experience": 3
+    },
+    {
+      "skill": "Test Equipment",
+      "experience": 3
+    },
+    {
+      "skill": "Test Methodologies",
+      "experience": 3
+    },
+    {
+      "skill": "Creative Thinking",
+      "experience": 3
+    },
+    {
+      "skill": "MSO",
+      "experience": 3
+    },
+    {
+      "skill": "802.11 Standard",
+      "experience": 3
+    },
+    {
+      "skill": "Testing Tools",
+      "experience": 3
+    },
+    {
+      "skill": "CCNA Routing and Switching Certification",
+      "experience": 3
+    },
+    {
+      "skill": "Python Programming",
+      "experience": 3
+    },
+    {
+      "skill": "C++ Programming",
+      "experience": 3
+    },
+    {
+      "skill": "JavaScript Programming",
+      "experience": 3
+    },
+    {
+      "skill": "Cisco IOS",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct testing and analysis of WiFi networks to ensure functionality and performance."
+    },
+    {
+      "duty": "Develop and execute test cases for wireless network components and features."
+    },
+    {
+      "duty": "Utilize test equipment and methodologies to validate WiFi network performance."
+    },
+    {
+      "duty": "Think creatively to identify and address WiFi network issues and challenges."
+    },
+    {
+      "duty": "Work with MSO and adhere to the 802.11 standard for WiFi network testing."
+    },
+    {
+      "duty": "Utilize testing tools such as Ixia, Spirent, Octobox, and Rohde & Schwarz for WiFi network testing."
+    },
+    {
+      "duty": "Possess CCNA Routing and Switching certification and programming knowledge in Python, C++, JavaScript, and experience with Cisco IOS or equivalent vendor."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "CCNA Routing and Switching certification"
+    },
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

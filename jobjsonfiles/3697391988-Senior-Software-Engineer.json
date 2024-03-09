@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior Engineer",
+      "sector": "Software Engineering",
+      "salary": 145000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "NodeJS",
+      "experience": 6
+    },
+    {
+      "skill": "Linux/Unix systems",
+      "experience": 6
+    },
+    {
+      "skill": "Client-side JavaScript frameworks",
+      "experience": 6
+    },
+    {
+      "skill": "Structured query language (SQL)",
+      "experience": 6
+    },
+    {
+      "skill": "Heroku",
+      "experience": 6
+    },
+    {
+      "skill": "CI/CD concepts",
+      "experience": 6
+    },
+    {
+      "skill": "Agile practices",
+      "experience": 6
+    },
+    {
+      "skill": "System design, data structures, and algorithms",
+      "experience": 6
+    },
+    {
+      "skill": "Contemporary web API design",
+      "experience": 6
+    },
+    {
+      "skill": "Programming domains",
+      "experience": 6
+    },
+    {
+      "skill": "Verbal, written, and interpersonal communication skills",
+      "experience": 6
+    },
+    {
+      "skill": "Salesforce platform",
+      "experience": 6
+    },
+    {
+      "skill": "Application development",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and deploy frontend and backend services with a focus on high availability, low latency, and scalability."
+    },
+    {
+      "duty": "Lead and assist in designing, developing, documenting, testing, and debugging new and existing software systems and/or applications."
+    },
+    {
+      "duty": "Identify and resolve defects of complex scope using proper engineering tools and techniques."
+    },
+    {
+      "duty": "Provide support and maintain existing products and add new features as requested by customers."
+    },
+    {
+      "duty": "Collaborate and communicate with Stakeholders, Product Owners, Quality Assurance, and other teams in an agile work environment."
+    },
+    {
+      "duty": "Mentor junior and mid-level engineers by providing advice, coaching, and educational opportunities to grow their technical skills."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 200,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in Computer Science or Computer Engineering from an accredited college or university or equivalent work experience."
+    }
+  ]
+}

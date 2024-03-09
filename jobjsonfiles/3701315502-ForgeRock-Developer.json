@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "ForgeRock Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ForgeRock Products",
+      "experience": 5
+    },
+    {
+      "skill": "Single Sign On",
+      "experience": 5
+    },
+    {
+      "skill": "SAML",
+      "experience": 5
+    },
+    {
+      "skill": "OAuth",
+      "experience": 5
+    },
+    {
+      "skill": "Java/J2EE",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support delivery and support of high-quality Identity and Access Management services while adhering to client standards and best practices."
+    },
+    {
+      "duty": "Experience in installation and configurations of ForgeRock products."
+    },
+    {
+      "duty": "Thorough understanding and work experience for Single Sign-On, Access management, Identity Federation, Multi-factor authentication."
+    },
+    {
+      "duty": "Experience with technologies such as Header-based Single Sign On, SAML, OAuth, etc."
+    },
+    {
+      "duty": "Hands-On experience with ForgeRock UI customization, writing scripts, and developing code to fetch assertion values from multiple data sources."
+    },
+    {
+      "duty": "Experience with ForgeRock OpenIDM (Identity management) system for On-time provisioning / deprovisioning."
+    },
+    {
+      "duty": "Experience working with LDAP directories like OpenDJ."
+    }
+  ]
+}

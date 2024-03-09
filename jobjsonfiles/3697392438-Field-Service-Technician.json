@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Service Technician",
+      "job_category": "Field Service",
+      "job_class": "Technician",
+      "sector": "Field Service",
+      "salary": 24,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Aptitude",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Equipment Diagnostics",
+      "experience": 3
+    },
+    {
+      "skill": "Installation",
+      "experience": 3
+    },
+    {
+      "skill": "Vehicle Operation",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Safely operate a Company vehicle in compliance with all state and federal DOT laws."
+    },
+    {
+      "duty": "Follow established safety procedures."
+    },
+    {
+      "duty": "Complete scheduled service orders daily."
+    },
+    {
+      "duty": "Perform complete equipment diagnostics, installation or removal on residential and commercial water treatment equipment, identify malfunctions, and resolve issues accordingly."
+    },
+    {
+      "duty": "Represent Culligan through direct interaction with customers."
+    },
+    {
+      "duty": "Communicate the status of equipment with customers and provide solutions."
+    },
+    {
+      "duty": "Collect payments upon completion of services."
+    },
+    {
+      "duty": "Assist with collection of past due receivables."
+    },
+    {
+      "duty": "Occasional travel to area Culligan branches on an as-needed basis."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

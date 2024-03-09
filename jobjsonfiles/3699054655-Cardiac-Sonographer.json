@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Cardiac Sonographer",
+      "job_category": "Healthcare",
+      "job_class": "Sonographer",
+      "sector": "Medical",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cardiac Ultrasound Testing",
+      "experience": 3
+    },
+    {
+      "skill": "M-mode two-dimensional",
+      "experience": 3
+    },
+    {
+      "skill": "Color Flow Doppler",
+      "experience": 3
+    },
+    {
+      "skill": "Transesophageal Echocardiography (TEE)",
+      "experience": 3
+    },
+    {
+      "skill": "Stress Echocardiograms",
+      "experience": 3
+    },
+    {
+      "skill": "Pharmacological Stress Testing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform, measure, and analyze all aspects of cardiac ultrasound testing including M-mode two-dimensional, pulsed and continuous wave, color flow Doppler, transesophageal echocardiography (TEE), and stress echocardiograms including pharmacological stress testing."
+    },
+    {
+      "duty": "Maintain equipment for proper function and safety, clean and prepare equipment for patient applications, and sterilize equipment after each isolation patient and TEE Study in accordance with nursing and departmental policy."
+    },
+    {
+      "duty": "Document the echocardiogram according to departmental procedures, enter, maintain, and record all pertinent data, inform physician of any changes in patient's condition or vital signs, and utilize patient chart in obtaining pertinent history as necessary."
+    },
+    {
+      "duty": "Compare present echocardiograms to previous studies to monitor changes in present status and provide for patient comfort."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's Degree in a related field and completion of an accredited program in Ultrasound or equivalent combination of education and experience. Registered Cardiac Sonographer (RCS) or Registered Diagnostic Cardiac Sonographer (RDCS) or Registered Congenital Cardiac Sonographer (RCCS) by CCI or ARDMS required at hire. Current and valid BLS required. Must maintain active registry status."
+    }
+  ]
+}

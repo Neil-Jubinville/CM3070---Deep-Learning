@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Care Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Phlebotomy",
+      "experience": 1
+    },
+    {
+      "skill": "EKG",
+      "experience": 1
+    },
+    {
+      "skill": "High School Diploma",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Background",
+      "experience": 1
+    },
+    {
+      "skill": "Mechanical Aptitude",
+      "experience": 1
+    },
+    {
+      "skill": "Manual Dexterity",
+      "experience": 1
+    },
+    {
+      "skill": "BLS/CPR Certification",
+      "experience": 1
+    },
+    {
+      "skill": "First Aid Training",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver direct patient care in collaboration with the Registered Nurse."
+    },
+    {
+      "duty": "Perform tasks that do not require nursing judgements or administration of medications."
+    },
+    {
+      "duty": "Accountable for the patient care they deliver and adhere to standard of care and practice."
+    },
+    {
+      "duty": "Participate in orientation, continuing education, and updates and maintains knowledge and skills related to specific areas of expertise."
+    },
+    {
+      "duty": "Complete population specific competency annually on populations served as identified in scope of care and service."
+    },
+    {
+      "duty": "Perform Phlebotomy and EKG procedures."
+    },
+    {
+      "duty": "Maintain current BLS/CPR certification and First Aid training."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent with medical background, mechanical aptitude and manual dexterity preferred."
+    }
+  ]
+}

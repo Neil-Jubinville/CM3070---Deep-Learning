@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Bookkeeper",
+      "job_category": "Accounting",
+      "job_class": "Bookkeeper",
+      "sector": "Accounting",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Bookkeeping",
+      "experience": 2
+    },
+    {
+      "skill": "Quickbooks Desktop",
+      "experience": 2
+    },
+    {
+      "skill": "Quickbooks Online",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Principles of Accounting",
+      "experience": 3
+    },
+    {
+      "skill": "Payroll Tax Reports",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Record transactions and import, post, and reconcile bank and credit card activity for clients."
+    },
+    {
+      "duty": "Preparation of payroll tax reports."
+    },
+    {
+      "duty": "Utilize Quickbooks Desktop and Quickbooks Online for bookkeeping activities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent (Preferred)"
+    }
+  ]
+}

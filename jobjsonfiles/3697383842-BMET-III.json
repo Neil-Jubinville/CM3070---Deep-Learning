@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "BMET III",
+      "job_category": "Clinical Engineering",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Equipment Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Device Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Networking Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Anatomy & Physiology",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnostic Software",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide expert-level experience in the repair, installation, calibration, and maintenance of sophisticated medical devices and support systems."
+    },
+    {
+      "duty": "Assist in the calibration of complex medical devices and life-support systems as assigned by the Supervisor."
+    },
+    {
+      "duty": "Utilize diagnostic software and test devices for the calibration of complex medical devices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 10,
+      "student_teacher": 20,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's Degree in Clinical Engineering or related field (Bachelor's preferred)"
+    }
+  ]
+}

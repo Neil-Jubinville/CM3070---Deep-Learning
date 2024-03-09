@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Care Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "First Aid",
+      "experience": 1
+    },
+    {
+      "skill": "Venipuncture",
+      "experience": 1
+    },
+    {
+      "skill": "Point-of-Care Testing",
+      "experience": 1
+    },
+    {
+      "skill": "Splinting",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintains awareness of patient population needs and scheduling requirements."
+    },
+    {
+      "duty": "Provides ongoing communication with nursing staff for assigned patients."
+    },
+    {
+      "duty": "Assists the team in meeting patient and family goals."
+    },
+    {
+      "duty": "Trained to provide basic first aid, venipuncture, point-of-care testing, and splinting."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent."
+    },
+    {
+      "credential": "Certified Nursing Assistant (CNA) or Pennsylvania EMT certification is required."
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "job_title": "PCB Designer/ECAD Librarian",
+      "job_category": "Engineering",
+      "job_class": "Designer",
+      "sector": "Software Engineering",
+      "remote": false,
+      "salary": 90000
+    }
+  ],
+  "skills": [
+    {
+      "skill": "PCB Design",
+      "experience": 3
+    },
+    {
+      "skill": "Cadence Allegro",
+      "experience": 3
+    },
+    {
+      "skill": "Schematic Design",
+      "experience": 3
+    },
+    {
+      "skill": "Layout Design",
+      "experience": 3
+    },
+    {
+      "skill": "Footprint Creation",
+      "experience": 3
+    },
+    {
+      "skill": "Electronic Components",
+      "experience": 3
+    },
+    {
+      "skill": "Circuit Theory",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Industry Standards (IPC-7351, IPC-2221)",
+      "experience": 3
+    },
+    {
+      "skill": "ECAD Library Development",
+      "experience": 3
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create intricate multi-layer PCB designs from Allegro Design Entry HDL schematic output."
+    },
+    {
+      "duty": "Apply comprehensive knowledge of PCB design best practices and IPC design standards to ensure high-quality designs."
+    },
+    {
+      "duty": "Demonstrate proficiency in utilizing Cadence version 17.4 ECAD tools for schematic capture, layout, and footprint generation."
+    },
+    {
+      "duty": "Develop PCB layouts for projects involving power electronics, analog signal processing, high-speed communication, and A/D and D/A converters."
+    },
+    {
+      "duty": "Possess a strong working knowledge of electronic components and electronic circuit theory."
+    },
+    {
+      "duty": "Apply industry standards such as IPC-7351 and IPC-2221 to ensure adherence to quality and reliability standards."
+    },
+    {
+      "duty": "Exhibit a deep understanding of PCB manufacturing processes and limitations, ensuring designs are manufacturable and cost-effective."
+    },
+    {
+      "duty": "Contribute to ECAD library development by creating and maintaining symbols and footprints."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to ensure accurate and up-to-date symbol and footprint data in the customer's component management database."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 0,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electrical Engineering, or related field with 2-3 years of experience and proven experience in designing complex multi-layer PCBs using Cadence Allegro."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Systems Technician",
+      "job_category": "Information Technology",
+      "job_class": "Technician",
+      "sector": "Information Technology",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft Windows Server",
+      "experience": 6
+    },
+    {
+      "skill": "Active Directory",
+      "experience": 6
+    },
+    {
+      "skill": "M365 Systems Administration",
+      "experience": 6
+    },
+    {
+      "skill": "Database Management",
+      "experience": 6
+    },
+    {
+      "skill": "Network Troubleshooting",
+      "experience": 6
+    },
+    {
+      "skill": "Infrastructure Design",
+      "experience": 6
+    },
+    {
+      "skill": "Project Management",
+      "experience": 6
+    },
+    {
+      "skill": "Research and Evaluation",
+      "experience": 6
+    },
+    {
+      "skill": "Documentation",
+      "experience": 6
+    },
+    {
+      "skill": "Leadership",
+      "experience": 6
+    },
+    {
+      "skill": "Collaboration Tools",
+      "experience": 6
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 6
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 6
+    },
+    {
+      "skill": "PC Hardware Skills",
+      "experience": 6
+    },
+    {
+      "skill": "Crisis Management",
+      "experience": 6
+    },
+    {
+      "skill": "Expectation Management",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage system administration, database, and application servers, including installation, maintenance, and upgrades."
+    },
+    {
+      "duty": "Create, manage, and delete domain user accounts in Azure Active Directory and Windows Active Directory."
+    },
+    {
+      "duty": "Evaluate and deploy all software and hardware upgrades to the server, desktop, storage, and network infrastructure."
+    },
+    {
+      "duty": "Initiate and manage vendor partnerships, procurement, and maintenance of all IT infrastructures."
+    },
+    {
+      "duty": "Troubleshoot networks, intranet, and internet connectivity throughout the organization."
+    },
+    {
+      "duty": "Provide end-user support and issue resolution using agreed-upon tools and methodologies."
+    },
+    {
+      "duty": "Create and maintain documentation for all processes and procedures."
+    },
+    {
+      "duty": "Provide project management services to clients and participate in the development of sales proposals and marketing materials."
+    },
+    {
+      "duty": "Initiate research and evaluation of technologies, tools, and procedures to support business requirements."
+    },
+    {
+      "duty": "Coordinate with the rest of the company to meet company objectives and support the work of other staff engaged in similar functions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Four-year degree from an accredited college or university. Minimum of six years relevant working experience, including system administration, infrastructure design, and deployment experience. One or more professional or vendor certifications."
+    }
+  ]
+}

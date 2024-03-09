@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Radiotherapy Technologist",
+      "job_category": "Healthcare",
+      "job_class": "Technologist",
+      "sector": "Healthcare",
+      "salary": 115000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Radiation Therapy Treatment",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Imaging",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Documentation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement medically prescribed Radiation Therapy treatment under supervision."
+    },
+    {
+      "duty": "Deliver planned course of radiation therapy following appropriate guidelines."
+    },
+    {
+      "duty": "Assure that Rx & Physics plan are signed by Physician prior to treatment."
+    },
+    {
+      "duty": "Set up patient using triangulation methods & properly interpret physics plan."
+    },
+    {
+      "duty": "Document all treatments rendered and maintain appropriate work records."
+    },
+    {
+      "duty": "Identify patient teaching needs as part of the Radiation Therapy treatment course."
+    },
+    {
+      "duty": "Perform all prescribed quality control checks on equipment, monitoring constantly for malfunctions."
+    },
+    {
+      "duty": "Maintain all equipment used during treatments."
+    },
+    {
+      "duty": "Participate in training and monitoring the performance of Radiation Therapy students during their clinical hours."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an approved AMA program in Radiation Therapy required. ARRT certified and NYS License in Radiation Therapy Technology. Good communication skills."
+    }
+  ]
+}

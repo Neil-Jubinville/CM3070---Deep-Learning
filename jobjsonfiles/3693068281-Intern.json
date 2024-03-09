@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Intern",
+      "job_category": "Internship",
+      "job_class": "Entry Level",
+      "sector": "R&D",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Development",
+      "experience": 2
+    },
+    {
+      "skill": "Data Management",
+      "experience": 2
+    },
+    {
+      "skill": "Cloud Environment Management",
+      "experience": 2
+    },
+    {
+      "skill": "Clinical Data Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Project Management",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 2
+    },
+    {
+      "skill": "Deep Learning Algorithms",
+      "experience": 2
+    },
+    {
+      "skill": "Product Security",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Participate in product development lifecycle, including requirements refinement, risk evaluations, testing, software development, troubleshooting, and project tracking."
+    },
+    {
+      "duty": "Create effective data management & storage techniques that allows for faster & easier access to data."
+    },
+    {
+      "duty": "Collate and pre-process multiple independent data sources to enable many different AI prediction models to be quickly created, tested, and validated."
+    },
+    {
+      "duty": "Develop computer vision and deep learning algorithms using clinical videos."
+    },
+    {
+      "duty": "Develop and integrate product security processes, technologies/tools, control implementation into Alcon products and digital solutions."
+    },
+    {
+      "duty": "Learn and understand next generation system data output. Develop tools to collect and analyze the system\u2019s data."
+    },
+    {
+      "duty": "Project management and process improvement."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 100,
+      "introvert_extrovert": 75
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Must be enrolled in an accredited university or college for at least one semester prior to internship or co-op, and at least one additional semester following internship or co-op.Must be pursuing at least a Bachelors level degree in Data Analytics, Computer Science / Engineering, Software, Information Technology, Data Science, Statistics, Mathematics, Vision Science, Computational Data Analytics, Cybersecurity, Information Security and Systems Engineering or related major.Academic performance: Minimum cumulative GPA 2.8/4.0.Demonstrated leadership skills (i.e. extracurricular activities or projects)."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Automotive Technician",
+      "job_category": "Automotive",
+      "job_class": "Technician",
+      "sector": "Automotive",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Automotive Repair",
+      "experience": 5
+    },
+    {
+      "skill": "ASE Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Diagnosis",
+      "experience": 5
+    },
+    {
+      "skill": "Maintenance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Services and repairs automotive systems"
+    },
+    {
+      "duty": "Perform automotive inspections and communicate diagnostic findings to non-mechanical individuals"
+    },
+    {
+      "duty": "Maintain service area standards of cleanliness and orderliness"
+    },
+    {
+      "duty": "Comply with company safety policy and federal/state OSHA safety requirements"
+    },
+    {
+      "duty": "Perform tire, oil, alignment, fluid, brake, and miscellaneous automotive services"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum of 2 years of automotive repair experience, completion of Vocational-Technical School program in a related field, or demonstrated skills via third party certificates/assessment. A.S.E. certification in at least one of A1-A8 is preferred."
+    }
+  ]
+}

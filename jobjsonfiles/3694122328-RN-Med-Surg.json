@@ -1,0 +1,51 @@
+{
+  "meta": [
+    {
+      "job_title": "RN Med Surg",
+      "job_category": "Nursing",
+      "job_class": "RN",
+      "sector": "Healthcare",
+      "salary": 2957,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CPR/BLS (Basic Life Support)",
+      "experience": 5
+    },
+    {
+      "skill": "State License-RN-California",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide medical care for adult patients in medical-surgical units."
+    },
+    {
+      "duty": "Monitor and assess patient's condition, and report any changes to the healthcare team."
+    },
+    {
+      "duty": "Administer medications and treatments as prescribed by the physician."
+    },
+    {
+      "duty": "Educate patients and their families about disease management and post-hospital care."
+    },
+    {
+      "duty": "Collaborate with interdisciplinary teams to provide coordinated patient care."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140,
+      "student_teacher": 90,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (Master's preferred)"
+    }
+  ]
+}

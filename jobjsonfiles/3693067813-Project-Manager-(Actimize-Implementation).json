@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager (Actimize Implementation)",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 6
+    },
+    {
+      "skill": "Actimize Implementation",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 6
+    },
+    {
+      "skill": "Leadership",
+      "experience": 6
+    },
+    {
+      "skill": "Team Management",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and manage Actimize Implementation projects from initiation to completion, ensuring timely delivery and high-quality results."
+    },
+    {
+      "duty": "Communicate and collaborate with stakeholders, project team members, and clients to align project objectives and deliverables."
+    },
+    {
+      "duty": "Utilize Actimize knowledge and expertise to drive and guide the implementation process, ensuring compliance and best practices."
+    },
+    {
+      "duty": "Manage project timelines, resources, and budgets, providing regular updates and reports on project status and milestones."
+    },
+    {
+      "duty": "Provide leadership, mentorship, and support to project team members, fostering a collaborative and productive working environment."
+    },
+    {
+      "duty": "Facilitate communication, issue resolution, and risk management, ensuring project risks are identified and mitigated effectively."
+    }
+  ],
+  "$multi_tool_use.parallel.tool_uses": [
+    {
+      "recipient_name": "functions.complete_job_features",
+      "parameters": {
+        "subjective_elements": [
+          {
+            "soldier_general": 100,
+            "student_teacher": 80,
+            "introvert_extrovert": 120
+          }
+        ]
+      }
+    }
+  ]
+}

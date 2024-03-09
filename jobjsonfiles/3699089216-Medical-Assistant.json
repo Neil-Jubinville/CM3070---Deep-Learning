@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 34000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Ethics",
+      "experience": 2
+    },
+    {
+      "skill": "Record Keeping",
+      "experience": 2
+    },
+    {
+      "skill": "Clinical Procedures",
+      "experience": 2
+    },
+    {
+      "skill": "CPR/BLS Certification",
+      "experience": 2
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare patients for examination and assist with treatments and office procedures."
+    },
+    {
+      "duty": "Provide patient education and promote healthy lifestyles and wellness."
+    },
+    {
+      "duty": "Assist Orthopedic Providers in providing a full range of non-surgical and surgical services."
+    },
+    {
+      "duty": "Maintain clinical and administrative records."
+    },
+    {
+      "duty": "Participate in clinical and administrative continuing education opportunities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent. Completion of an accredited Medical Assistant program or Licensure as an LPN or completion of the UW Health Medical Assistant Apprenticeship program or Completion of CCMA as a UW Health employee."
+    }
+  ]
+}

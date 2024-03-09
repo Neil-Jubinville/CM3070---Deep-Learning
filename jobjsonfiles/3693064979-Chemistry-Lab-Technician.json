@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Chemistry Lab Technician",
+      "job_category": "Science",
+      "job_class": "Technician",
+      "sector": "Science",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Laboratory Operations",
+      "experience": 5
+    },
+    {
+      "skill": "Chemical Science",
+      "experience": 5
+    },
+    {
+      "skill": "Lab Equipment Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Effective Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Data Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Laboratory Safety",
+      "experience": 5
+    },
+    {
+      "skill": "Independent Thinking",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare lab materials, set up laboratories, and inspect laboratory periodically."
+    },
+    {
+      "duty": "Manage chemicals and facilitate safe waste disposal."
+    },
+    {
+      "duty": "Perform and interpret routine chemistry, hematology, and microbiology essays."
+    },
+    {
+      "duty": "Clean, calibrate, and perform preventive maintenance on laboratory equipment."
+    },
+    {
+      "duty": "Maintain inventory, order supplies, and collaborate with faculty and students for smooth-running lab instruction."
+    },
+    {
+      "duty": "Assist in demonstrating procedures and answering questions during laboratory exercises."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate of Arts degree in biological or chemical science (Bachelor\u2019s Degree preferred)"
+    }
+  ]
+}

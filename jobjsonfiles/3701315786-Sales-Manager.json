@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Manager",
+      "job_category": "Sales",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Management",
+      "experience": 3
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 3
+    },
+    {
+      "skill": "B2B Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Pipeline Management",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 3
+    },
+    {
+      "skill": "Telecom Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Consultative Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop proposals and negotiate pricing within company margin guidance"
+    },
+    {
+      "duty": "Manage and maintain sales pipeline to generate new revenue"
+    },
+    {
+      "duty": "Meet or exceed monthly sales goals and initiatives"
+    },
+    {
+      "duty": "Record all sales activities, transactions, and communications with customers"
+    },
+    {
+      "duty": "Provide consultations and lead conference calls to facilitate sales conversations"
+    },
+    {
+      "duty": "Collaborate with Sales Engineer and Sales Support Team to determine appropriate solutions to meet customers\u2019 needs"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "College degree and 1-3 years Sales, including B2B, experience; or High School diploma and 5+ years Sales, including 3-5 years B2B, experience; or an equivalent combination of education and professional level related experience required. 1-2 years Telecom experience preferred, but not required."
+    }
+  ]
+}

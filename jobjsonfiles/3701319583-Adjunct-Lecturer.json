@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Adjunct Lecturer",
+      "job_category": "Education",
+      "job_class": "Lecturer",
+      "sector": "Education",
+      "salary": 5100,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Computational thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Data analytics",
+      "experience": 5
+    },
+    {
+      "skill": "Python programming",
+      "experience": 5
+    },
+    {
+      "skill": "Data engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Web development",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud computing",
+      "experience": 5
+    },
+    {
+      "skill": "Social computing",
+      "experience": 5
+    },
+    {
+      "skill": "User-centered design",
+      "experience": 5
+    },
+    {
+      "skill": "AR/VR/XR",
+      "experience": 5
+    },
+    {
+      "skill": "Sociotechnical cybersecurity",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Teach topics related to information studies, including computational thinking, data analytics, python programming, data engineering, web development, cloud computing, social computing, user-centered design, AR/VR/XR, and sociotechnical cybersecurity."
+    },
+    {
+      "duty": "Incorporate hands-on, real-world projects from government, non-profit, and industry experts into the curriculum."
+    },
+    {
+      "duty": "Provide guidance and mentorship to students in order to facilitate their learning and practical application of the subject matter."
+    },
+    {
+      "duty": "Facilitate online and in-person teaching options for students, ensuring the delivery of high-quality educational experiences."
+    },
+    {
+      "duty": "Collaborate with industry experts and practitioners to enhance the academic environment and relevance of the curriculum."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree in Information Studies, Computer Science, or a related field (Ph.D. preferred)"
+    }
+  ]
+}

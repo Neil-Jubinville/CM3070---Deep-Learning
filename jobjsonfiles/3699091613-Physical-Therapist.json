@@ -1,0 +1,46 @@
+{
+  "meta": [
+    {
+      "job_title": "Physical Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 88000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "DPT",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide physical therapy treatment to patients, focusing on rehabilitation and pain management."
+    },
+    {
+      "duty": "Create customized treatment plans for patients, addressing their specific needs and goals."
+    },
+    {
+      "duty": "Conduct evaluations and assessments to monitor progress and adjust treatment as necessary."
+    },
+    {
+      "duty": "Educate patients on proper techniques for exercises and stretches to aid in their recovery."
+    },
+    {
+      "duty": "Collaborate with healthcare professionals to coordinate patient care and optimize treatment outcomes."
+    },
+    {
+      "duty": "Maintain accurate patient records and documentation to track treatment progress and outcomes."
+    }
+  ],
+  "subjective_elements": [
+    {}
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Physical Therapy (DPT) degree - required"
+    }
+  ]
+}

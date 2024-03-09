@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Nursing",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Care Planning",
+      "experience": 2
+    },
+    {
+      "skill": "Nursing Patient Education",
+      "experience": 2
+    },
+    {
+      "skill": "Nursing Patient Assessment & Evaluation",
+      "experience": 3
+    },
+    {
+      "skill": "Evidence-Based Practice",
+      "experience": 2
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate in establishing the plan of care, coordinate and implement care delivery, and analyze comprehensive information to determine nursing diagnosis."
+    },
+    {
+      "duty": "Provide patient education and assessment in practical applications of moderate difficulty."
+    },
+    {
+      "duty": "Engage in evidence-based practice and work under the direction of others while accomplishing assignments."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an approved discipline specific program"
+    }
+  ]
+}

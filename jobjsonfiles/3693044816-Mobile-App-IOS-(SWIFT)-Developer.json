@@ -1,0 +1,45 @@
+{
+  "meta": [
+    {
+      "job_title": "Mobile App IOS (SWIFT) Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "IOS Development",
+      "experience": 5
+    },
+    {
+      "skill": "SWIFT",
+      "experience": 5
+    },
+    {
+      "skill": "MongoDB",
+      "experience": 3
+    },
+    {
+      "skill": "AWS",
+      "experience": 3
+    },
+    {
+      "skill": "Google Firebase",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain IOS (SWIFT) applications"
+    },
+    {
+      "duty": "Use MongoDB for data storage and management in IOS applications"
+    },
+    {
+      "duty": "Integration of AWS and/or Google Firebase services into IOS applications"
+    }
+  ]
+}

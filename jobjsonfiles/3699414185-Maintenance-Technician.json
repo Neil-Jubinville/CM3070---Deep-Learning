@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Facility Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Plumbing",
+      "experience": 3
+    },
+    {
+      "skill": "Electrical Repairs",
+      "experience": 3
+    },
+    {
+      "skill": "Carpentry",
+      "experience": 3
+    },
+    {
+      "skill": "Construction",
+      "experience": 3
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Alertness",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performs routine repairs and preventive maintenance on equipment and facilities."
+    },
+    {
+      "duty": "Assists with complex and non-routine maintenance tasks."
+    },
+    {
+      "duty": "Identifies and requests parts and components needed to complete tasks."
+    },
+    {
+      "duty": "Enters work orders, documents tasks and closes work orders in the electronic record-keeping system."
+    },
+    {
+      "duty": "Performs research to find products and solutions to problems."
+    },
+    {
+      "duty": "Performs other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "One year experience in a maintenance role"
+    }
+  ]
+}

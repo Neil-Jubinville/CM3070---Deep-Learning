@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Analyst III",
+      "job_category": "Business Analysis",
+      "job_class": "Analyst",
+      "sector": "Data Quality",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Quality Model",
+      "experience": 10
+    },
+    {
+      "skill": "Working with Matrix",
+      "experience": 10
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 10
+    },
+    {
+      "skill": "SQL",
+      "experience": 7
+    },
+    {
+      "skill": "Collibra",
+      "experience": 5
+    },
+    {
+      "skill": "Jira",
+      "experience": 5
+    },
+    {
+      "skill": "Confluence",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Analyze and implement enterprise data governance under data quality projects, with a focus on regulatory reporting and KYC screening."
+    },
+    {
+      "duty": "Develop data quality rules and strategies, working with data lakes and analytics data."
+    },
+    {
+      "duty": "Collaborate with a team of eight members to expand and enhance data governance and data quality initiatives."
+    },
+    {
+      "duty": "Utilize tools such as Collibra, Jira, and Confluence to drive data quality and governance activities."
+    },
+    {
+      "duty": "Participate in testing and analysis to ensure the effectiveness of data quality processes and models."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business, Data Science, or a related field (Master's preferred)"
+    }
+  ]
+}

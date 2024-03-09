@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Professor",
+      "job_category": "Education",
+      "job_class": "Professor",
+      "sector": "Biomedical Informatics",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Education",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Informatics",
+      "experience": 5
+    },
+    {
+      "skill": "Research",
+      "experience": 5
+    },
+    {
+      "skill": "AI and Machine Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Informatics",
+      "experience": 5
+    },
+    {
+      "skill": "Precision Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee innovation in AI applied to medical education and clinical informatics"
+    },
+    {
+      "duty": "Participate in curricula development and instruction for medical education"
+    },
+    {
+      "duty": "Advise PhD and masters students and carry out independent research"
+    },
+    {
+      "duty": "Conduct research in efficacy of AI technology in medical education and patient safety improvement"
+    },
+    {
+      "duty": "Implement precision medicine displays and develop new approaches to documentation"
+    },
+    {
+      "duty": "Collaborate on projects led by other faculty members"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Medical degree and training in biomedical informatics (PhD and Masters preferred)"
+    }
+  ]
+}

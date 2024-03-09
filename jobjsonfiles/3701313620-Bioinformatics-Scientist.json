@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Bioinformatics Scientist",
+      "job_category": "Science",
+      "job_class": "Scientist",
+      "sector": "Healthcare",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Bioinformatics",
+      "experience": 7
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 7
+    },
+    {
+      "skill": "Statistics",
+      "experience": 7
+    },
+    {
+      "skill": "NGS Analysis",
+      "experience": 7
+    },
+    {
+      "skill": "Data Management",
+      "experience": 7
+    },
+    {
+      "skill": "DNA Methylation Analysis",
+      "experience": 7
+    },
+    {
+      "skill": "Python",
+      "experience": 7
+    },
+    {
+      "skill": "R Programming",
+      "experience": 7
+    },
+    {
+      "skill": "Project Management",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Development of bioinformatic pipelines for DNA methylation analysis, including quality control and statistical analysis."
+    },
+    {
+      "duty": "Keeping updated with latest advancements in methods/tools/technologies used for methylation analysis."
+    },
+    {
+      "duty": "Supporting scientist with designing of methylation experiments."
+    },
+    {
+      "duty": "Developing and integrating machine learning techniques for data analysis and NGS analysis."
+    },
+    {
+      "duty": "Analyzing and integrating DNA methylation data and designing methods and data management tools for integration of data including NGS."
+    },
+    {
+      "duty": "Manage project timelines with internal personnel and external vendors."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Ph.D. in Bioinformatics, Computational Biology, Computer Science or similar"
+    }
+  ]
+}

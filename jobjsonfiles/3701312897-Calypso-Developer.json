@@ -1,0 +1,107 @@
+{
+  "meta": [
+    {
+      "job_title": "Calypso Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Calypso Development",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Solutions",
+      "experience": 4
+    },
+    {
+      "skill": "Business Analysis",
+      "experience": 4
+    },
+    {
+      "skill": "Trade Processing",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 5
+    },
+    {
+      "skill": "Integration",
+      "experience": 4
+    },
+    {
+      "skill": "Report Writing",
+      "experience": 4
+    },
+    {
+      "skill": "Code Review",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide mentorship on a transition from the legacy system (Summit) to Calypso."
+    },
+    {
+      "duty": "Work in Agile development teams on backlog stories to develop/improve/customize the Calypso application."
+    },
+    {
+      "duty": "Analyze business requirements and propose technical solutions."
+    },
+    {
+      "duty": "Collaborate with business analysts, traders, and technology teams to capture and understand requirements for Calypso-based solutions."
+    },
+    {
+      "duty": "Craft and develop customizations and extensions to the Calypso platform to meet specific business needs."
+    },
+    {
+      "duty": "Implement and notate Calypso workflows, trade processing, and risk management functionalities."
+    },
+    {
+      "duty": "Integrate Calypso with other systems and platforms, ensuring detailed data flow and accuracy."
+    },
+    {
+      "duty": "Write and maintain reports, dashboards, and analytics using Calypso's reporting tools."
+    },
+    {
+      "duty": "Participate in code reviews, testing, debugging."
+    },
+    {
+      "duty": "Keep up to date with Calypso updates, industry trends, and emerging technologies in the banking and financial services domain."
+    },
+    {
+      "duty": "Contribute to the continuous improvement of development processes and practices."
+    },
+    {
+      "duty": "Assist in quality control, encourage best practices, always aiming to go above and beyond stakeholder satisfaction."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Software Engineering, Computer Science, or related field (Master's preferred)"
+    },
+    {
+      "credential": "Certification in Calypso Development"
+    }
+  ]
+}

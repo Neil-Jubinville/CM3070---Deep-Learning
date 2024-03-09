@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Exadata Consultant",
+      "job_category": "Information Technology",
+      "job_class": "Consultant",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Exadata Upgrades",
+      "experience": 9
+    },
+    {
+      "skill": "Data Center Migration Support",
+      "experience": 9
+    },
+    {
+      "skill": "RAC Clusters",
+      "experience": 9
+    },
+    {
+      "skill": "Database Migration",
+      "experience": 9
+    },
+    {
+      "skill": "Oracle Database",
+      "experience": 9
+    },
+    {
+      "skill": "Exachk Diagnostic Report",
+      "experience": 9
+    },
+    {
+      "skill": "Patching",
+      "experience": 9
+    },
+    {
+      "skill": "ZFS Configuration",
+      "experience": 9
+    },
+    {
+      "skill": "ODA Configuration",
+      "experience": 9
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide Exadata upgrades and data center migration support as needed."
+    },
+    {
+      "duty": "Assist with Exadata configuration activities and virtualizations."
+    },
+    {
+      "duty": "Create and Maintain RAC Clusters on Exadata."
+    },
+    {
+      "duty": "Assist with database migrations with zero downtime."
+    },
+    {
+      "duty": "Configure and maintain storage cell servers."
+    },
+    {
+      "duty": "Apply patches as required to Exadata components."
+    },
+    {
+      "duty": "Assist with ZFS and/or ZDLRA configuration, integration, patching, and support as specified with Exadata."
+    },
+    {
+      "duty": "Assist with ODA configuration, integration, patching, and support as specified with Exadata."
+    },
+    {
+      "duty": "Patching each Oracle system twice per year at a minimum."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 70,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": []
+}

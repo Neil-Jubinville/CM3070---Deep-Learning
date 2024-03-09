@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Transportation",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Commercial Driving",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Team Work",
+      "experience": 5
+    },
+    {
+      "skill": "Map Reading",
+      "experience": 5
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Safely operate a collection truck to collect waste and/or recycling along a designated route and transfer to a disposal site."
+    },
+    {
+      "duty": "Work closely with Dispatch, your Supervisor, and the rest of the driver team to service our customers on different routes and schedules."
+    },
+    {
+      "duty": "Perform pre- and post-trip inspection of your vehicle to ensure truck is in proper working order and address maintenance issues quickly."
+    },
+    {
+      "duty": "Follow all required safety policies and report any safety or employee experience issues to leadership."
+    },
+    {
+      "duty": "Load/unload waste and/or recycling materials at landfills, recycling centers, or similar facilities."
+    }
+  ]
+}

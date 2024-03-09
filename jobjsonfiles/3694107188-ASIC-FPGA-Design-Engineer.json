@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "ASIC/FPGA Design Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SOC/ASIC Front-End Design",
+      "experience": 15
+    },
+    {
+      "skill": "Ethernet Networking ASIC/System Design",
+      "experience": 15
+    },
+    {
+      "skill": "Microarchitecture Specification",
+      "experience": 10
+    },
+    {
+      "skill": "HDL Language (System Verilog, Verilog)",
+      "experience": 15
+    },
+    {
+      "skill": "Scripting Language (TCL, Python, Perl, Shell-scripting)",
+      "experience": 15
+    },
+    {
+      "skill": "SoC Design Methodologies",
+      "experience": 15
+    },
+    {
+      "skill": "ASIC Front-End Simulation Tool",
+      "experience": 15
+    },
+    {
+      "skill": "Synthesis, Lint, CDC, STA Design Tool",
+      "experience": 15
+    },
+    {
+      "skill": "DDR Interface, PCIe, Ethernet, MIPI, AXI Bus, Image/Video Processing, ARM CPU, AMBA Bus Protocols, Low-Speed System Peripheral Bus",
+      "experience": 15
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work on SOC/ASIC Front-End design, Ethernet networking ASIC/system design, Microarchitecture specification writing, HDL language usage, and scripting language utilization."
+    },
+    {
+      "duty": "Utilize SoC design methodologies, ASIC Front-End simulation tool, synthesis, Lint, CDC, and STA design tool for the design process."
+    },
+    {
+      "duty": "Apply strong knowledge of DDR Interface, PCIe, Ethernet, MIPI, AXI bus, Image/Video processing, ARM CPU, AMBA bus protocols, and low-speed system peripheral bus in design activities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electrical Engineering or related field (Master's preferred)"
+    }
+  ],
+  "salary": 150000
+}

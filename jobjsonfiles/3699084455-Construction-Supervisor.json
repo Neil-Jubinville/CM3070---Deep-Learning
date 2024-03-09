@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Construction Supervisor",
+      "job_category": "Construction",
+      "job_class": "Supervisor",
+      "sector": "Construction",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Construction Supervision",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Construction Scheduling",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 5
+    },
+    {
+      "skill": "Building Code Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "People Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Supervise on-site construction including scheduling subcontractors, inspectors, and suppliers"
+    },
+    {
+      "duty": "Manage the construction of assigned homes from foundation to close, including 30-day warranty signoff"
+    },
+    {
+      "duty": "Oversee and monitor all daily trade functions for timeliness, quality of workmanship, and completion of work"
+    },
+    {
+      "duty": "Assist in ordering all materials required to construct houses"
+    },
+    {
+      "duty": "Schedule and attend all necessary municipal inspections and assist inspectors with the completion of the review"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum 3 years residential construction experience with knowledge of construction processes including scheduling and managing scheduling issues"
+    }
+  ]
+}

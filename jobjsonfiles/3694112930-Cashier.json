@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Cashier",
+      "job_category": "Retail",
+      "job_class": "Cashier",
+      "sector": "Retail",
+      "salary": 20000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Process customer orders quickly, accurately, and efficiently while ensuring complete customer satisfaction through prompt and friendly service."
+    },
+    {
+      "duty": "Accurately handle customer cash, credit/debit payments, and change, and assist customers by providing information and resolving their complaints."
+    },
+    {
+      "duty": "Maintain knowledge of weekly ad items, give customers direction of product location throughout the store, and be familiar with events and seminars going on or coming up."
+    },
+    {
+      "duty": "Ensure that checkout areas are properly maintained in a clean and orderly condition at all times."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    },
+    {
+      "credential": "1-2 years of recent cashiering experience"
+    }
+  ]
+}

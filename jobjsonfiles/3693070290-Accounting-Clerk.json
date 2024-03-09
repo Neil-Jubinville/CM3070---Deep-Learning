@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Accounting Clerk",
+      "job_category": "Accounting",
+      "job_class": "Clerk",
+      "sector": "Finance",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Billing",
+      "experience": 3
+    },
+    {
+      "skill": "Accounts Receivable",
+      "experience": 3
+    },
+    {
+      "skill": "Accounts Payable",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Record Keeping",
+      "experience": 3
+    },
+    {
+      "skill": "MS Office",
+      "experience": 3
+    },
+    {
+      "skill": "Confidentiality",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Review and enter new matter information into accounting software"
+    },
+    {
+      "duty": "Produce pre-bills, review, edit, and verify billing accuracy"
+    },
+    {
+      "duty": "Follow-up on past due invoices with attorneys and clients"
+    },
+    {
+      "duty": "Assist with accounts payable and special projects"
+    },
+    {
+      "duty": "Ensure strict confidentiality at all times"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 70,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma, some college preferred. 2+ years of hands-on intake and/or billing experience in a law firm or professional service industry. Juris (or equivalent accounting software) experience, preferred. Demonstrated proficiency with MS Office."
+    }
+  ]
+}

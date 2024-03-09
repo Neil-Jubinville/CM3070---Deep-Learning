@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Corporate Attorney",
+      "job_category": "Legal",
+      "job_class": "Attorney",
+      "sector": "Legal",
+      "salary": 210000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mergers & Acquisitions",
+      "experience": 3
+    },
+    {
+      "skill": "Corporate Governance",
+      "experience": 3
+    },
+    {
+      "skill": "Private Equity",
+      "experience": 3
+    },
+    {
+      "skill": "Tax",
+      "experience": 3
+    },
+    {
+      "skill": "Finance",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist with Mergers & Acquisitions, Private Equity, funds, corporate governance, and general corporate matters."
+    },
+    {
+      "duty": "Provide excellent written and communication skills in a legal context."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "CA Bar certification"
+    }
+  ]
+}

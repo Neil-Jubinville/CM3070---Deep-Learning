@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "Food Service Assistant",
+      "job_category": "Food Service",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 20000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Food Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Safe Food Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Cleaning",
+      "experience": 1
+    },
+    {
+      "skill": "Cashiering",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare, mix, assemble, portion, serve, and store food following applicable guidelines."
+    },
+    {
+      "duty": "Operate dish machine, wash pots and perform heavy cleaning duties following safety and sanitation guidelines."
+    },
+    {
+      "duty": "Transport equipment, food, supplies and trash as directed."
+    },
+    {
+      "duty": "May act as cafeteria cashier/running the cash register."
+    },
+    {
+      "duty": "Follow guidelines for assigned station set-up and clean-up."
+    },
+    {
+      "duty": "Performs other duties as assigned."
+    }
+  ]
+}

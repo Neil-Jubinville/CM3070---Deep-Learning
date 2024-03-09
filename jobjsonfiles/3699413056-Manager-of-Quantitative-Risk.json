@@ -1,0 +1,104 @@
+{
+  "meta": [
+    {
+      "job_title": "Manager of Quantitative Risk",
+      "job_category": "Quantitative Analysis",
+      "job_class": "Manager",
+      "sector": "Financial Crimes Compliance",
+      "salary": 105000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Model Testing & Validation",
+      "experience": 5
+    },
+    {
+      "skill": "R",
+      "experience": 5
+    },
+    {
+      "skill": "Alteryx",
+      "experience": 5
+    },
+    {
+      "skill": "Tableau",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 5
+    },
+    {
+      "skill": "AI in Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Statistical Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop qualitative and quantitative testing while designing scalable approaches to evaluating surveillance models."
+    },
+    {
+      "duty": "Perform Above the Line (ATL) and Below the Line (BTL) model testing in a repeatable and consistent manner supported by quantitative evidence."
+    },
+    {
+      "duty": "Work with Model Risk Management (\u2018MRM\u2019), Audit, and Algorithm Review Board (\u2018ARB\u2019) support functions during third party review and testing of Financial Crimes models."
+    },
+    {
+      "duty": "Assess risks related to model design, data feeds, data mapping, model output, and overall model health."
+    },
+    {
+      "duty": "Assist in the development of a standard quantitative approach for setting thresholds for rules-based, statistics-based and machine learning surveillance models."
+    },
+    {
+      "duty": "Support the ownership and maintenance of model inventory, model documentation, model change control processes and other organizational efforts."
+    },
+    {
+      "duty": "Provide thoughtful and effective challenge of model assumptions, thresholds, design specifications and corresponding outputs."
+    },
+    {
+      "duty": "Present findings and recommendations on model performance, enhancement, or augmentation requirements to Financial Crimes Compliance senior leaders."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Quantitative Statistics, Actuarial Science, Finance, Computer Science, Data Science, or equivalent quantitatively intensive field (Master's preferred)"
+    }
+  ]
+}

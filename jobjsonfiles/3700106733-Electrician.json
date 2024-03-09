@@ -1,0 +1,97 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrician",
+      "job_category": "Skilled Trades",
+      "job_class": "Electrician",
+      "sector": "Sales",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Conduit Running",
+      "experience": 3
+    },
+    {
+      "skill": "Residential Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Electrical Code Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Energy-Efficient Equipment Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Testing Equipment Usage",
+      "experience": 3
+    },
+    {
+      "skill": "Power Tools Usage",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Attic and Crawl Space Work",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Install standard GFI protected circuits."
+    },
+    {
+      "duty": "Learn the SPF CRM & Technology to effectively communicate to different departments of the team."
+    },
+    {
+      "duty": "Document repairs and modifications."
+    },
+    {
+      "duty": "Diagnose and address functionality and safety issues."
+    },
+    {
+      "duty": "Inspect and test electrical systems, components, and wiring methods."
+    },
+    {
+      "duty": "Stay apprised of revisions to National Electric Code (NEC) and other relevant legislation, building and safety regulations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Up-to-date Journeyman's electrician\u2019s license."
+    },
+    {
+      "credential": "Electrical Contractor, master electrician, or journeyman electrician certification."
+    },
+    {
+      "credential": "OSHA 10- or 30-Hour Training and Safety."
+    },
+    {
+      "credential": "1-3 years residential electrical experience minimum."
+    },
+    {
+      "credential": "High school diploma or GED."
+    },
+    {
+      "credential": "Driver\u2019s license."
+    }
+  ]
+}

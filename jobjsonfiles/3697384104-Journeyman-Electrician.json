@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Journeyman Electrician",
+      "job_category": "Electrical",
+      "job_class": "Journeyman",
+      "sector": "Engineering",
+      "salary": 26000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Installation",
+      "experience": 5
+    },
+    {
+      "skill": "Conduit Bending",
+      "experience": 5
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Lighting Installation",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Inspection",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Run and bend conduit for commercial work."
+    },
+    {
+      "duty": "Read and interpret blueprints and schematic drawings."
+    },
+    {
+      "duty": "Work with a variety of electrical components including switches, lights, plugs, motor controls, switchgear, security systems, fire alarms, panels, fixtures, troubleshooting, wire ways through cable trays, high voltage, laying running and bending conduit."
+    },
+    {
+      "duty": "Install light fixtures, receptacles, and CAT5 whips for lighting controls and lighting control devices."
+    },
+    {
+      "duty": "Inspect electrical systems, equipment, and components to identify hazards, defects and the need for adjustment or repair."
+    },
+    {
+      "duty": "Test electrical systems and continuity of circuits in electrical wiring equipment and fixtures."
+    },
+    {
+      "duty": "Conduct other tasks as assigned."
+    }
+  ]
+}

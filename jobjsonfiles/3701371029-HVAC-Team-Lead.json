@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "HVAC Team Lead",
+      "job_class": "Team Lead",
+      "job_category": "HVAC",
+      "sector": "Mechanical Service",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HVAC Systems Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Supervision",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Proficiency",
+      "experience": 5
+    },
+    {
+      "skill": "Building Codes Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Report Writing",
+      "experience": 5
+    },
+    {
+      "skill": "OSH Regulations",
+      "experience": 5
+    },
+    {
+      "skill": "Driver's License",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Diagnose causes of equipment breakdowns, test parts, disassemble and assemble parts, and make necessary repairs to equipment and associated components for HVAC systems requiring average technical skills."
+    },
+    {
+      "duty": "Inspect work in process and completed work to ensure conformance to specifications."
+    },
+    {
+      "duty": "Supervise and coordinate activities of assigned trade/craft workers."
+    },
+    {
+      "duty": "Develop specific project bid strategies, techniques, advantages, etc. that will provide competitive bid day advantages."
+    },
+    {
+      "duty": "Review all final estimates to ensure accuracy and completeness prior to formal quotation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate degree, equivalent from two-year college or technical school with a certificate in the specific trade working, or graduate of a sponsored apprenticeship program, or 5 years of direct industry experience."
+    },
+    {
+      "credential": "Technological proficiency to include Microsoft Office products."
+    },
+    {
+      "credential": "Ability to write reports and business correspondence with clarity and accuracy."
+    },
+    {
+      "credential": "Knowledge of current Building Codes, ASHRAE standards and OSHA safety regulations."
+    },
+    {
+      "credential": "Possession of a valid Driver\u2019s License and clean driving record."
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Consultant",
+      "job_category": "Information Technology",
+      "job_class": "Consultant",
+      "sector": "Software Engineering",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "IT Service Desk",
+      "experience": 3
+    },
+    {
+      "skill": "Desktop Support",
+      "experience": 3
+    },
+    {
+      "skill": "Server Support",
+      "experience": 3
+    },
+    {
+      "skill": "Network Support",
+      "experience": 3
+    },
+    {
+      "skill": "Email Threat Protection",
+      "experience": 3
+    },
+    {
+      "skill": "Vulnerability Assessments",
+      "experience": 3
+    },
+    {
+      "skill": "Active Directory",
+      "experience": 3
+    },
+    {
+      "skill": "Windows 10",
+      "experience": 3
+    },
+    {
+      "skill": "Office 365",
+      "experience": 3
+    },
+    {
+      "skill": "Firewall Configuration",
+      "experience": 3
+    },
+    {
+      "skill": "Managed Switch Configuration",
+      "experience": 3
+    },
+    {
+      "skill": "Wi-Fi Configuration",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Azure",
+      "experience": 3
+    },
+    {
+      "skill": "MFA Implementation",
+      "experience": 3
+    },
+    {
+      "skill": "Email migrations",
+      "experience": 3
+    },
+    {
+      "skill": "Managed Backup",
+      "experience": 3
+    },
+    {
+      "skill": "Cloud Hosted Firewall",
+      "experience": 3
+    },
+    {
+      "skill": "DNS Redirects",
+      "experience": 3
+    },
+    {
+      "skill": "Network Security Vulnerability Assessments",
+      "experience": 3
+    },
+    {
+      "skill": "Mobile Device Support",
+      "experience": 3
+    },
+    {
+      "skill": "Apple MAC OSX Support",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Use expert technical skills to perform support, implementation, and training functions, including IT Service Desk, Desktop, Server (Premise / Cloud), Network, Email Threat Protection, User Awareness Training, Vulnerability Assessments, Email Migrations, MFA to the desktop, Managed Backups, Managed Firewalls, Hosted VoIP, and Contract Client Support"
+    },
+    {
+      "duty": "Work remotely with customers in addition to local travel to client sites to install and maintain computer systems and networks, aiming for the highest functionality."
+    },
+    {
+      "duty": "Consult customers on best practice methods to mitigate IT security-related concerns to ensure they remain secure."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Information Technology, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

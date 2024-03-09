@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Data Engineer",
+      "job_category": "Data Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 170000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ETL Pipeline Development",
+      "experience": 5
+    },
+    {
+      "skill": "Data Architecture Design",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Integrations",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Spark/PySpark",
+      "experience": 5
+    },
+    {
+      "skill": "NoSQL Databases",
+      "experience": 5
+    },
+    {
+      "skill": "Data Science Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Data Visualization",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Certification",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build and maintain scalable ETL pipelines, effectively transforming data from disparate sources into a canonical data store."
+    },
+    {
+      "duty": "Design data architecture and execute the build-out of the data foundation."
+    },
+    {
+      "duty": "Operate current data ingest services while building the next generation of ETL pipelines."
+    },
+    {
+      "duty": "Define a common data vocabulary across the organization."
+    },
+    {
+      "duty": "Develop audit reports to provide insights into overall system health and resiliency."
+    },
+    {
+      "duty": "Contribute to the technology roadmap for the data ecosystem."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Information Technology, Computer Science, or related field (Master\u2019s preferred)"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Service Representative",
+      "job_category": "Healthcare",
+      "job_class": "Representative",
+      "sector": "Clinical Operations",
+      "salary": 20,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Interaction",
+      "experience": 3
+    },
+    {
+      "skill": "Insurance Verification",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Records Management",
+      "experience": 3
+    },
+    {
+      "skill": "Appointment Scheduling",
+      "experience": 3
+    },
+    {
+      "skill": "HIPAA Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Administrative Support",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greet and establish first contact with patients, update patient demographics, and verify insurance coverage."
+    },
+    {
+      "duty": "Enter and update patient insurance/demographics in the practice management system."
+    },
+    {
+      "duty": "Verify patient insurance coverage prior to appointments and communicate any referrals or authorizations needed."
+    },
+    {
+      "duty": "Process HIPAA-related paperwork and other institutional forms as necessary."
+    },
+    {
+      "duty": "Review waiting room status and keep patients advised of wait times."
+    },
+    {
+      "duty": "Facilitate physician orders in the electronic medical record system and prepare prescription refill requests."
+    },
+    {
+      "duty": "Collect co-pays and payments from patients, ensuring adherence to established cash-control processes."
+    },
+    {
+      "duty": "Schedule surgeries/procedures and verify times with patients; prepare charts, pre-admissions, and consent forms."
+    },
+    {
+      "duty": "Schedule patient follow-up appointments as needed."
+    },
+    {
+      "duty": "Provide patients with guidelines for requesting medical records, perform charge entry tasks, or enter patient payments."
+    },
+    {
+      "duty": "Answer phones for the practice, schedule appointments, and take detailed clinical phone messages."
+    },
+    {
+      "duty": "Follow all HIPAA and governmental requirements for handling PHI documents and initiate reminder phone calls for next day appointments."
+    },
+    {
+      "duty": "Direct patient flow during practice hours and perform other related duties."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School graduate/GED, preferably with 6 weeks of training in a medical office setting"
+    }
+  ]
+}

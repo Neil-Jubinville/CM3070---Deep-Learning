@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Technician",
+      "job_category": "Customer Service",
+      "job_class": "Technician",
+      "sector": "Customer Service",
+      "salary": 28000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Certification",
+      "experience": 3
+    },
+    {
+      "skill": "OSI Model",
+      "experience": 3
+    },
+    {
+      "skill": "Command Line Interface",
+      "experience": 3
+    },
+    {
+      "skill": "Topologies",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Works on relatively straightforward installation and/or maintenance assignments on ing equipment."
+    },
+    {
+      "duty": "Technician for customer/company systems installation and/or maintenance activities."
+    },
+    {
+      "duty": "Monitors s and resolves routine monitoring problems."
+    },
+    {
+      "duty": "Monitors performance; conducts routine monitoring equipment installation and maintenance activities; resolves routine trouble ."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate degree or equivalent education and relevant experience."
+    },
+    {
+      "credential": "Minimum 3 yrs related experience in specific area or equivalent."
+    },
+    {
+      "credential": "May require technical certification."
+    }
+  ]
+}

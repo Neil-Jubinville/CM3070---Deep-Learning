@@ -1,0 +1,106 @@
+{
+  "meta": [
+    {
+      "job_title": "Information Systems Developer",
+      "job_category": "Information Technology",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Hardware and Software Integration",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Networks",
+      "experience": 3
+    },
+    {
+      "skill": "Security",
+      "experience": 3
+    },
+    {
+      "skill": "Directory Services",
+      "experience": 3
+    },
+    {
+      "skill": "Database Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Virtualization Platforms",
+      "experience": 3
+    },
+    {
+      "skill": "Web Development Technologies",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Integrate online modules for residential, online, and hybrid courses, including multimedia content, online learning, and group collaboration activities, and assessments."
+    },
+    {
+      "duty": "Customized Microsoft Windows operating system for academic use and sandboxed servers for security during public utilization."
+    },
+    {
+      "duty": "Write systems code and configure program interfaces as required to make online modules available and secure."
+    },
+    {
+      "duty": "Implement NVIDIA GRID vGPU technology in VMware vSphere for use in graphic-intensive VDI environments."
+    },
+    {
+      "duty": "Work with other BU & MET departments on deploying and supporting new and existing content development tools providing feedback and best practices."
+    },
+    {
+      "duty": "Build and support pilot systems and operating environments."
+    },
+    {
+      "duty": "Evaluate and extend MET virtual infrastructure to use cloud computing services."
+    },
+    {
+      "duty": "Configuration and support of educational technologies used in residential, online, and hybrid programs."
+    },
+    {
+      "duty": "Maintain technical documentation and provide training as necessary and identify, troubleshoot and resolve technical problems with access to course materials."
+    },
+    {
+      "duty": "Design virtualization solutions with VMware vSphere and Nutanix."
+    },
+    {
+      "duty": "Deploy Virtual Desktop Infrastructure using VMware Horizon and Citrix Cloud."
+    },
+    {
+      "duty": "Configure and maintain Linux and Windows servers for academic courses."
+    },
+    {
+      "duty": "Provide cost-estimates and performance comparison reports for Cloud solution evaluations as well as periodical detailed performance reports."
+    },
+    {
+      "duty": "Work with InsightVM vulnerability reporting software and maintained security of servers and analyzed threats and mitigating vulnerabilities using Wireshark and NMAP."
+    },
+    {
+      "duty": "Manage hybrid cloud services in Microsoft Azure, Amazon AWS, Google Cloud."
+    },
+    {
+      "duty": "Build virtual servers for academic use by faculty and students."
+    },
+    {
+      "duty": "Use the ITIL based \n\"Service Now\" platform for trouble ticket administration."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.S. in Computer Science, Computer Information Systems, or Computer Engineering"
+    }
+  ]
+}

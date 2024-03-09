@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Writer",
+      "job_category": "Technical Writing",
+      "job_class": "Writer",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Writing",
+      "experience": 3
+    },
+    {
+      "skill": "Atlassian Confluence",
+      "experience": 3
+    },
+    {
+      "skill": "Jira",
+      "experience": 3
+    },
+    {
+      "skill": "Research",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Gather, analyze, and compose information provided by subject matter experts (SMEs)."
+    },
+    {
+      "duty": "Conduct research and ensure the use of proper technical terminology."
+    },
+    {
+      "duty": "Translate SME information into clear, readable documents and process maps to be used by users."
+    },
+    {
+      "duty": "Ensure consistency, clarity, and quality in and across all types of documentation."
+    },
+    {
+      "duty": "Engage in formatting, editing, and quality assurance on own work and the work of others."
+    },
+    {
+      "duty": "Ensure documents are technically and mechanically accurate, and consistent with regard to clarity, flow, organization, completeness, and readability."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Technical Writing, Communication, or a related field (Master's preferred)"
+    }
+  ]
+}

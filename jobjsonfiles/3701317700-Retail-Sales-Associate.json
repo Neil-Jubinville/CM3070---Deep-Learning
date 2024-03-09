@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Retail Sales Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Retail",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Sales Support",
+      "experience": 2
+    },
+    {
+      "skill": "Merchandise Organization",
+      "experience": 2
+    },
+    {
+      "skill": "Update Pricing and Signage",
+      "experience": 2
+    },
+    {
+      "skill": "Resourcefulness",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Electronic Devices Handling",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Master store products, services, loyalty programs, and sales systems to help customers find what they need."
+    },
+    {
+      "duty": "Develop customer relationships to grow business and expand client base, respond to customer requests."
+    },
+    {
+      "duty": "Maintain department recovery standards, including the selling floor and fitting rooms."
+    },
+    {
+      "duty": "Deliver optimal merchandise execution presentation, ensure accurate merchandise pricing, and process markdowns."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "No specific education or experience required."
+    }
+  ]
+}

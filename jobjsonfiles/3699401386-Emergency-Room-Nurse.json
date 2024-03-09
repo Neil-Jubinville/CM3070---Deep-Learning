@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Emergency Room Nurse",
+      "job_category": "Nursing",
+      "job_class": "RN",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Critical Care Nursing",
+      "experience": 5
+    },
+    {
+      "skill": "Triage Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care Management",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide comprehensive nursing care to emergency room patients in a critical access hospital setting."
+    },
+    {
+      "duty": "Collaborate with the healthcare team to conduct triage assessments and provide immediate care."
+    },
+    {
+      "duty": "Administer emergency medicine and monitor patient response and progress."
+    },
+    {
+      "duty": "Manage and coordinate patient care, ensuring timely and effective interventions."
+    },
+    {
+      "duty": "Work as part of a 2-RN team, providing mid-shift support and maintaining patient safety."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (RN) or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "SDET",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 65000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "JavaScript",
+      "experience": 7
+    },
+    {
+      "skill": "TypeScript",
+      "experience": 7
+    },
+    {
+      "skill": "NodeJS",
+      "experience": 7
+    },
+    {
+      "skill": "Cypress",
+      "experience": 7
+    },
+    {
+      "skill": "AXE",
+      "experience": 7
+    },
+    {
+      "skill": "Test Automation",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, execute and maintain software to test the product/application."
+    },
+    {
+      "duty": "Define automation strategy, automation cases as well as Design tools for unit, functional, and performance testing in a programmatic manner."
+    },
+    {
+      "duty": "Participate in design and code inspections."
+    },
+    {
+      "duty": "Propose improvements to our existing processes and build automated tools, libraries and utilities in order to improve the team\u2019s speed, quality and efficiency."
+    },
+    {
+      "duty": "The testing code you write should expose defects in production level code as well as defects at the component and feature integration perspective."
+    },
+    {
+      "duty": "Work with a wide variety of technologies from front-end UI to back-end distributed web services."
+    },
+    {
+      "duty": "Own the design and implementation of tests that will help in end-to-end quality of major deliverables."
+    },
+    {
+      "duty": "Integration of both the tests and infrastructure automation into the CI/CD pipeline is also a key responsibility in this position."
+    },
+    {
+      "duty": "Contribute to agile development teams following 12 Factor application development principles."
+    },
+    {
+      "duty": "Collaborate effectively within team environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field"
+    }
+  ]
+}

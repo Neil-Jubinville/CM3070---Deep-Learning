@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineering Supervisor",
+      "job_category": "Software Engineering",
+      "job_class": "Supervisor",
+      "sector": "Software Engineering",
+      "salary": 135000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Dynamics 365 Platform",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Supply Chain Business Processes",
+      "experience": 5
+    },
+    {
+      "skill": "Code Languages (X++, C++, SQL, ADO)",
+      "experience": 5
+    },
+    {
+      "skill": "Software Development Lifecycle (SCRUM, Agile)",
+      "experience": 5
+    },
+    {
+      "skill": "Azure and Dynamics",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Business Analysis",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee the technical aspects of D365 projects, including the design of custom entities, workflows, and integrations."
+    },
+    {
+      "duty": "Lead a team of developers and engineers, provide guidance and support as they work to build and deploy D365 solutions; responsible for assigning tasks, monitoring progress, and providing feedback."
+    },
+    {
+      "duty": "Ensure that all D365 solutions meet the highest quality standards, including proper testing and debugging."
+    },
+    {
+      "duty": "Conduct code reviews to ensure that development meets quality standards and best practices."
+    },
+    {
+      "duty": "Communicate effectively with stakeholders to ensure that projects are delivered on time and to the satisfaction of all parties involved."
+    },
+    {
+      "duty": "Maintain a deep understanding of D365 and the broader Dynamics platform and stay up to date with new developments and trends in the industry."
+    },
+    {
+      "duty": "Work closely with other teams within the organization, including project managers, business analysts, and quality assurance specialists."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Information Technology, Computer Science, Software Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Mechanical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Mechanical Engineering",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Designing",
+      "experience": 2
+    },
+    {
+      "skill": "PLM Data Management",
+      "experience": 2
+    },
+    {
+      "skill": "Creo CAD Tools",
+      "experience": 2
+    },
+    {
+      "skill": "CAE Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 2
+    },
+    {
+      "skill": "3D Modeling",
+      "experience": 2
+    },
+    {
+      "skill": "Design Review",
+      "experience": 2
+    },
+    {
+      "skill": "Manufacturability Assessment",
+      "experience": 2
+    },
+    {
+      "skill": "Production Drawing",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design complex components and sub-systems for machines or vehicles."
+    },
+    {
+      "duty": "Develop 3D model of machine designs in CAD environment (Creo/ProE)."
+    },
+    {
+      "duty": "Lead design reviews and resolve technical design conflicts."
+    },
+    {
+      "duty": "Assess manufacturability and create production capable drawings."
+    },
+    {
+      "duty": "Assist in establishing design completion dates."
+    },
+    {
+      "duty": "Perform all other duties as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 20,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in mechanical engineering or equivalent."
+    }
+  ]
+}

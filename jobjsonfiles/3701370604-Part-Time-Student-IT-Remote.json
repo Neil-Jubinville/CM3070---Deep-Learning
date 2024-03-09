@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Part-Time Student-IT-Remote",
+      "job_category": "Information Technology",
+      "job_class": "Student",
+      "sector": "Information Technology",
+      "salary": 25000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 2
+    },
+    {
+      "skill": "AWS",
+      "experience": 2
+    },
+    {
+      "skill": "Data Engineering",
+      "experience": 2
+    },
+    {
+      "skill": "ETL Processes",
+      "experience": 2
+    },
+    {
+      "skill": "Databricks",
+      "experience": 2
+    },
+    {
+      "skill": "Java J2EE",
+      "experience": 2
+    },
+    {
+      "skill": "Backend Systems",
+      "experience": 2
+    },
+    {
+      "skill": "Observability",
+      "experience": 2
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 1
+    },
+    {
+      "skill": "Test Driven Development",
+      "experience": 1
+    },
+    {
+      "skill": "DevSecOps",
+      "experience": 1
+    },
+    {
+      "skill": "Big Data",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support provisioning of infrastructure for Expert Alert DB job creation."
+    },
+    {
+      "duty": "Support Expert Alert system scalability and growth by creating, enhancing, and monitoring system health checks for scalability."
+    },
+    {
+      "duty": "Integrate observability platforms like Data Dog."
+    },
+    {
+      "duty": "Create reports and dashboards to monitor End-End DTC and Expert Alert flows."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Must be pursuing a degree in Computer Science or related field."
+    }
+  ]
+}

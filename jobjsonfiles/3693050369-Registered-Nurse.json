@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Nursing",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Therapeutic Intervention",
+      "experience": 5
+    },
+    {
+      "skill": "Nursing Administration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform a full range of psychiatric nursing services including planning, administering and evaluating patient care in accordance with treatment plans."
+    },
+    {
+      "duty": "Conduct and document a thorough assessment of patients\u2019 medical status upon admission and throughout the patients\u2019 course of treatment."
+    },
+    {
+      "duty": "Administer medical treatment as prescribed by the physician."
+    },
+    {
+      "duty": "Attend and participate in clinical team conferences regarding patient progress, problems and needs."
+    },
+    {
+      "duty": "Assist in the development and implementation of an individualized treatment plan for each assigned patient."
+    },
+    {
+      "duty": "Demonstrated skill in the delivery of patient care as a member of the therapeutic team."
+    },
+    {
+      "duty": "Skill in implementing appropriate nursing interventions on a consistent basis."
+    },
+    {
+      "duty": "Active state Registered Nurse license."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "ADN or BSN in Nursing"
+    }
+  ]
+}

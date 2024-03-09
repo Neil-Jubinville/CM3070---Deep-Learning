@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Certified Welding Inspector",
+      "job_category": "Construction",
+      "job_class": "Inspector",
+      "sector": "Engineering",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Magnetic Particle (MT)",
+      "experience": 5
+    },
+    {
+      "skill": "Ultrasonic Testing (UT)",
+      "experience": 5
+    },
+    {
+      "skill": "Dye Penetrant Testing (PT)",
+      "experience": 5
+    },
+    {
+      "skill": "CWI (Certified Welding Inspector)",
+      "experience": 5
+    },
+    {
+      "skill": "Technical aptitude",
+      "experience": 5
+    },
+    {
+      "skill": "Valid driver's license",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Understand and interpret codes, standards, specifications, and procedures for performing QA functions and NDT inspections."
+    },
+    {
+      "duty": "Demonstrate practical Quality Control / Quality Assurance background in applicable materials, fabrication, and product technology."
+    },
+    {
+      "duty": "Have sufficient training hours and experience in NDT methods and demonstrate NDT proficiency."
+    },
+    {
+      "duty": "Travel nationwide with the potential to evaluate part-time employee options."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma"
+    },
+    {
+      "credential": "Certification by ASNT as an NDT Level II or ACCP Professional Level II in applicable methods"
+    }
+  ]
+}

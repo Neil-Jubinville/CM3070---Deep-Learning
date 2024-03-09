@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Librarian, Altium Printed Circuit Board",
+      "job_category": "Library",
+      "job_class": "Librarian",
+      "sector": "Software Engineering",
+      "salary": 28,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CAD library creation and management",
+      "experience": 4
+    },
+    {
+      "skill": "IPC standards",
+      "experience": 4
+    },
+    {
+      "skill": "Database management",
+      "experience": 3
+    },
+    {
+      "skill": "Database library management with Altium tools",
+      "experience": 5
+    },
+    {
+      "skill": "PLM practices and PLM tools",
+      "experience": 3
+    },
+    {
+      "skill": "Experience with PCB Design",
+      "experience": 2
+    },
+    {
+      "skill": "Mechanical drafting",
+      "experience": 2
+    },
+    {
+      "skill": "3D modeling (SolidWorks)",
+      "experience": 2
+    },
+    {
+      "skill": "Jira or ticketing system",
+      "experience": 2
+    },
+    {
+      "skill": "3D CAD",
+      "experience": 2
+    },
+    {
+      "skill": "Geometric Dimensioning and Tolerancing (GD&T)",
+      "experience": 2
+    },
+    {
+      "skill": "Attention to detail",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create and maintain schematic symbols and footprints."
+    },
+    {
+      "duty": "Create and maintain component database libraries."
+    },
+    {
+      "duty": "Review and ensure all parts conform to IPC, company, or manufacturer standards."
+    },
+    {
+      "duty": "Review PCB designs to ensure that footprints are compliant with company standards and up-to-date."
+    },
+    {
+      "duty": "Review DFM feedback from CM\u2019s related to footprints/DFA and make recommendations to the PCB team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree preferred"
+    }
+  ]
+}

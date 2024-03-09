@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Paramedic",
+      "job_category": "Healthcare",
+      "job_class": "Paramedic",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Emergency response",
+      "experience": 7
+    },
+    {
+      "skill": "Patient care",
+      "experience": 7
+    },
+    {
+      "skill": "Medical treatment",
+      "experience": 7
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 7
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 7
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide emergency medical care and transportation for patients."
+    },
+    {
+      "duty": "Lead a team of paramedics, providing guidance and support in emergency response efforts."
+    },
+    {
+      "duty": "Administer medical treatment and perform life-saving interventions as required."
+    },
+    {
+      "duty": "Maintain clear and effective communication with healthcare teams and patients."
+    },
+    {
+      "duty": "Organize and prioritize patient care activities in high-pressure environments."
+    },
+    {
+      "duty": "Document patient information and treatment provided for accurate medical records."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 110,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate or Bachelor's degree in Paramedicine or related field"
+    }
+  ]
+}

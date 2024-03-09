@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Nurse Practitioner",
+      "job_category": "Healthcare",
+      "job_class": "Practitioner",
+      "sector": "Medical",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Examinations",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnostic Test Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "Laboratory Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Case Formulation",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Drug Prescription",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Counseling",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Improvement",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform physical examinations and preventive health measures as per physician's instructions."
+    },
+    {
+      "duty": "Order, interpret, and evaluate diagnostic tests to assess patient's clinical problems."
+    },
+    {
+      "duty": "Conduct various laboratory tests and record physical findings for patient care planning."
+    },
+    {
+      "duty": "Prepare comprehensive patient care plans and recommend drugs or other treatment procedures."
+    },
+    {
+      "duty": "Counsel and advise patients on maintaining a healthy lifestyle and substance abuse prevention."
+    },
+    {
+      "duty": "Participate in quality improvement plans and perform other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master\u2019s Degree or higher from accredited Nursing program, Alabama CRNP Licensure, and two years of Primary Care or Clinical experience"
+    }
+  ]
+}

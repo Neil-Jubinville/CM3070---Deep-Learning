@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "job_title": "Acupuncturist",
+      "job_category": "Healthcare",
+      "job_class": "Specialist",
+      "sector": "Healthcare",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Acupuncture",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "NCCAOM Certification",
+      "experience": 3
+    },
+    {
+      "skill": "Herbal Medicine",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform acupuncture treatments to clients in a professional and caring manner."
+    },
+    {
+      "duty": "Maintain patient records and ensure a clean and well-organized treatment space."
+    },
+    {
+      "duty": "Provide patient education and guidance on acupuncture treatments and herbal medicine."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduated from an accredited acupuncture program"
+    },
+    {
+      "credential": "Current North Carolina acupuncture license"
+    },
+    {
+      "credential": "Malpractice/liability insurance"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Accountant",
+      "job_category": "Accounting",
+      "job_class": "Senior",
+      "sector": "Finance",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "Finance",
+      "experience": 5
+    },
+    {
+      "skill": "General Ledger Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Bank Reconciliation",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    },
+    {
+      "skill": "Excel",
+      "experience": 3
+    },
+    {
+      "skill": "CPA",
+      "experience": 3
+    },
+    {
+      "skill": "Public Company",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare monthly reporting packages"
+    },
+    {
+      "duty": "Analyze General Ledger activities"
+    },
+    {
+      "duty": "Perform weekly and monthly bank reconciliations"
+    },
+    {
+      "duty": "Work closely with project managers regarding monthly and quarterly deliverables"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's in Accounting or Finance (CPA is a plus)"
+    }
+  ]
+}

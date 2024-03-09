@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 3
+    },
+    {
+      "skill": "Electrical Engineering",
+      "experience": 3
+    },
+    {
+      "skill": "Hardware Debugging",
+      "experience": 3
+    },
+    {
+      "skill": "Power Management",
+      "experience": 3
+    },
+    {
+      "skill": "Lab Test Automation",
+      "experience": 3
+    },
+    {
+      "skill": "Battery Technology",
+      "experience": 3
+    },
+    {
+      "skill": "LabVIEW",
+      "experience": 2
+    },
+    {
+      "skill": "Low Power Management",
+      "experience": 2
+    },
+    {
+      "skill": "PMIC Design",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Characterize power consumption, battery runtime, battery charging/discharging curve at each build and identify optimization opportunities."
+    },
+    {
+      "duty": "Automate laboratory measurements with scopes/meters using very good python skills for test setup automation using PyVISA and SCPI instrument commands."
+    },
+    {
+      "duty": "Perform system level electrical characterization and PMIC validations."
+    },
+    {
+      "duty": "Engage with CM (Contract Manufacturing) on reviewing validation plans, analyzing test data and solving hardware issues."
+    },
+    {
+      "duty": "Root-cause and solve technical issues during new product development and in field escalations and power-regressions."
+    },
+    {
+      "duty": "Generate power characterization test plans, power data reporting and documentation, prototype bring-up and debugging."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS in Electrical Engineering or equivalent (Master's preferred)"
+    }
+  ]
+}

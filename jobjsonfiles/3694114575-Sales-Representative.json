@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 3
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build and maintain customer relationships to grow the book of business and address transportation needs."
+    },
+    {
+      "duty": "Negotiate prices with shippers and carriers to facilitate freight movement."
+    },
+    {
+      "duty": "Manage daily shipments to ensure on-time pickup and delivery, addressing issues as they arise."
+    },
+    {
+      "duty": "Effectively communicate with internal and external stakeholders to deliver top-tier customer service."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": []
+}

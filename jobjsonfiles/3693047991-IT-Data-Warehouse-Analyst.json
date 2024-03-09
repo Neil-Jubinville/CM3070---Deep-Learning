@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Data Warehouse Analyst",
+      "job_category": "Information Technology",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Warehouse Development",
+      "experience": 5
+    },
+    {
+      "skill": "Power Platform",
+      "experience": 5
+    },
+    {
+      "skill": "Power BI",
+      "experience": 5
+    },
+    {
+      "skill": "ERP Systems (SAP)",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "ETL Processes",
+      "experience": 5
+    },
+    {
+      "skill": "Data Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Data Governance",
+      "experience": 5
+    },
+    {
+      "skill": "Data Quality",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain data warehouse solutions within the Power Platform, utilizing Power BI for effective data visualization and reporting."
+    },
+    {
+      "duty": "Collaborate closely with business stakeholders to gather requirements, understand their data-related needs, and translate them into actionable data solutions."
+    },
+    {
+      "duty": "Participate in discussions with business teams to identify opportunities for data-driven insights and contribute to the overall data warehouse strategy."
+    },
+    {
+      "duty": "Design, implement, and optimize data models, ETL processes, and data integration pipelines to ensure data accuracy, consistency, and availability."
+    },
+    {
+      "duty": "Work with various teams to integrate data from different sources, including ERP systems (SAP, Oracle, Dynamics), databases, APIs, and other relevant data sources."
+    },
+    {
+      "duty": "Maintain and troubleshoot existing data warehouse solutions, addressing any issues related to data quality, performance, or usability."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to identify and implement data governance and data quality best practices."
+    },
+    {
+      "duty": "Stay current with industry trends, best practices, and emerging technologies related to data warehousing, analytics, and business intelligence."
+    },
+    {
+      "duty": "Contribute to the development of data-related documentation, including data dictionaries, technical specifications, and user guides."
+    },
+    {
+      "duty": "Assist in training end users on data visualization tools and self-service analytics capabilities."
+    },
+    {
+      "duty": "Utilize Python for scripting and data manipulation tasks to enhance data processing and analytics capabilities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in computer science, Information Technology, or related field."
+    }
+  ]
+}

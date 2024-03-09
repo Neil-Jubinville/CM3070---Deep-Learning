@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "CDL Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Logistics",
+      "salary": 44000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CDL-A",
+      "experience": 2
+    },
+    {
+      "skill": "Spotting Truck Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Trailer Shuttle",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Drive a spotter truck and/or day cab within the distribution center from and to loading doors."
+    },
+    {
+      "duty": "Shuttle trailers over public road."
+    },
+    {
+      "duty": "Hold a non-excepted interstate status on their medical card."
+    },
+    {
+      "duty": "Communicate professionally and diplomatically."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid CDL-A and medical card."
+    }
+  ]
+}

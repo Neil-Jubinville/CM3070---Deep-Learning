@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Cloud Systems Administrator",
+      "job_category": "Information Technology",
+      "job_class": "Administrator",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "System Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Computing",
+      "experience": 5
+    },
+    {
+      "skill": "Network Security",
+      "experience": 5
+    },
+    {
+      "skill": "Linux",
+      "experience": 5
+    },
+    {
+      "skill": "Windows Server",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "IT Infrastructure Management",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting (PowerShell, Python)",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build and manage a system to enable DoD organizations to take advantage of Cloud technology and reduce data center infrastructure."
+    },
+    {
+      "duty": "Support maintenance activities, including evaluation, integration, fielding, administration, testing, and operations of networks, systems, and subsystems in a virtual and cloud-based environment."
+    },
+    {
+      "duty": "Configure and maintain operational Windows, Linux, and AWS cloud-based server environments."
+    },
+    {
+      "duty": "Work with DoD products to perform system security scans and group policy updates and execute maintenance scripts and jobs."
+    },
+    {
+      "duty": "Monitor system activities and modify configurations to respond to security threats and requirements, as needed."
+    },
+    {
+      "duty": "Maintain data storage, management, and system backups, support Microsoft IIS and SQL applications, and maintain and update network traffic management, routing, firewalls, and load balancing devices."
+    },
+    {
+      "duty": "Design, develop, and implement system changes and enhancements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or Engineering or 6+ years of experience with implementing and configuring IT infrastructure systems in lieu of a degree; Security+ Certification"
+    }
+  ]
+}

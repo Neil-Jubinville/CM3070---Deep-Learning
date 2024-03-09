@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Shipping and Receiving Clerk",
+      "job_category": "Logistics",
+      "job_class": "Clerk",
+      "sector": "Logistics",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Forklift Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Shipping and Receiving",
+      "experience": 3
+    },
+    {
+      "skill": "SAP Transaction Processing",
+      "experience": 2
+    },
+    {
+      "skill": "Recordkeeping",
+      "experience": 3
+    },
+    {
+      "skill": "Material Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Receive, ship, and maintain inventory levels for finished goods and other items, including international shipments."
+    },
+    {
+      "duty": "Process SAP business system transactions daily to support production, receiving, and shipping transactions."
+    },
+    {
+      "duty": "Run audit reports from SAP to identify/verify errors for inbound & outbound shipments."
+    },
+    {
+      "duty": "Maintain FIFO inventory management practice and perform cycle count process."
+    },
+    {
+      "duty": "Create shipping labels and recordkeeping of paperwork including bills of lading, packing lists, and incoming goods receipts."
+    },
+    {
+      "duty": "Verify, process, and put away incoming purchase orders."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED"
+    }
+  ]
+}

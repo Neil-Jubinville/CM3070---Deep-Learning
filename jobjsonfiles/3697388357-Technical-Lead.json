@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Lead",
+      "job_category": "Software Engineering",
+      "job_class": "Technical Lead",
+      "sector": "Software Engineering",
+      "salary": 220000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Embedded Software Development",
+      "experience": 8
+    },
+    {
+      "skill": "Data Structures/Algorithms",
+      "experience": 8
+    },
+    {
+      "skill": "Software Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Software Design",
+      "experience": 3
+    },
+    {
+      "skill": "Linux",
+      "experience": 5
+    },
+    {
+      "skill": "Kernel",
+      "experience": 5
+    },
+    {
+      "skill": "Networking",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    },
+    {
+      "skill": "Data Performance Improvement",
+      "experience": 3
+    },
+    {
+      "skill": "VP and Cryptography",
+      "experience": 1
+    },
+    {
+      "skill": "Linux Networking Device Drivers",
+      "experience": 1
+    },
+    {
+      "skill": "Real-time Operating System",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, guide, and vet systems designs within the scope of the broader area, and write product or system development code to solve ambiguous problems."
+    },
+    {
+      "duty": "Innovate, architect, design, and develop exceptional networking functionality and data performance to improve overall Pixel connectivity experience."
+    },
+    {
+      "duty": "Partner and collaborate with peer engineering teams, product/project management, and external partners to launch high-quality performant solutions tailored for Pixel needs."
+    },
+    {
+      "duty": "Review code developed by other engineers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency)."
+    },
+    {
+      "duty": "Influence and coach a distributed team of engineers and provide technical leadership on high-impact projects."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science or related technical field (Master's degree or PhD preferred)"
+    }
+  ]
+}

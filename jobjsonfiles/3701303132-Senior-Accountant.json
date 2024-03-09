@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Accountant",
+      "job_category": "Accounting",
+      "job_class": "Senior",
+      "sector": "Finance",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "Cost Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "Account Reconciliation",
+      "experience": 5
+    },
+    {
+      "skill": "GAAP Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Odoo Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform general cost accounting and other related duties in the accounting department."
+    },
+    {
+      "duty": "Prepare periodic (monthly) balance sheets, income statements, and profit and loss statements."
+    },
+    {
+      "duty": "Maintain the general ledger in correspondence to daily operations."
+    },
+    {
+      "duty": "Oversee Account Payables G.L. coding & verification of processed payments."
+    },
+    {
+      "duty": "Match bank activity daily and generate accurate monthly bank reconciliations."
+    },
+    {
+      "duty": "Reconcile vendor accounts in a timely manner."
+    },
+    {
+      "duty": "Follow, replicate, and generate all monthly financial activity using intermediate/advanced knowledge of Excel."
+    },
+    {
+      "duty": "Provide outside auditors with assistance; gather necessary account information and documents to perform annual audit."
+    },
+    {
+      "duty": "Properly identify tax calculations in accordance with federal, state, and local government agencies."
+    },
+    {
+      "duty": "Coordinate with software vendor to maintain accounting software system; recommend updates to enhance the accounting software."
+    },
+    {
+      "duty": "Perform other related duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Accounting, Finance, or related discipline required (Master's preferred)"
+    },
+    {
+      "credential": "3-5 years of accounting experience required"
+    },
+    {
+      "credential": "Odoo experience preferred, but not required"
+    }
+  ]
+}

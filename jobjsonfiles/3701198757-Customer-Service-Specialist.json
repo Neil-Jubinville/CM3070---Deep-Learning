@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Specialist",
+      "job_category": "Customer Service",
+      "job_class": "Specialist",
+      "sector": "Sales",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "E-commerce Management",
+      "experience": 5
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Social Media Management",
+      "experience": 5
+    },
+    {
+      "skill": "Database Management",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Organization Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage customer interactions across various digital platforms, providing exceptional customer experience, and ensuring a seamless shopping experience for all customers."
+    },
+    {
+      "duty": "Handle customer inquiries via email, phone, and other communication channels promptly and professionally, troubleshooting and resolving product-related issues, questions, and concerns."
+    },
+    {
+      "duty": "Develop and maintain an up-to-date knowledge base of evolving products and services, enabling effective customer support."
+    },
+    {
+      "duty": "Monitor and respond to customer comments, messages, and interactions on social media platforms, engaging with customers in a friendly and professional manner."
+    },
+    {
+      "duty": "Document and update customer interactions in the database, ensuring accurate records of communication history, analyze customer feedback, identifying trends and suggesting improvements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Business Administration, Marketing, or a related field"
+    }
+  ]
+}

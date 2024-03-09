@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Associate Dentist",
+      "job_category": "Healthcare",
+      "job_class": "Dentist",
+      "sector": "Healthcare",
+      "salary": 150000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Dental Services",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    },
+    {
+      "skill": "Compassion",
+      "experience": 5
+    },
+    {
+      "skill": "Digital X-Ray",
+      "experience": 5
+    },
+    {
+      "skill": "DentaPro Software",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "HIPAA Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "OSHA Compliance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide dental services to patients with the support of the dental team."
+    },
+    {
+      "duty": "Use DentaPro software and Digital x-ray and Panorex units for diagnostics and treatment planning."
+    },
+    {
+      "duty": "Adhere to yearly OSHA and HIPAA regulations, and Emergency Management training."
+    },
+    {
+      "duty": "Work with a ratio of 1 hygienist, 1 hygiene assistant, and 2 dental assistants per provider."
+    },
+    {
+      "duty": "Manage a patient base primarily consisting of ages 3-21, with up to 30% adult population, depending upon location."
+    },
+    {
+      "duty": "Handle an office flow of an average of 10-12 operative patients and 20-25 hygiene patients."
+    },
+    {
+      "duty": "Accept state insurance plans, PPO, and out-of-network payor mix."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "DDS/DMD from a dental education program accredited by the Commission on Dental Accreditation"
+    }
+  ]
+}

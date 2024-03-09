@@ -1,0 +1,42 @@
+{
+  "meta": [
+    {
+      "job_title": "Journeyman Pipefitter",
+      "job_category": "Construction",
+      "job_class": "Journeyman",
+      "sector": "Construction",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Pipe Installation",
+      "experience": 6
+    },
+    {
+      "skill": "Basic Hand and Power Tool Knowledge",
+      "experience": 6
+    },
+    {
+      "skill": "Personal Protective Equipment (PPE)",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Install Carbon Hangers from 2\" up to 12\" Pipe"
+    },
+    {
+      "duty": "Other Duties as Assigned"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": []
+}

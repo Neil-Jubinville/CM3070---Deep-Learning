@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Construction Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Transportation",
+      "salary": 65000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Engineering Design",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 4
+    },
+    {
+      "skill": "Transportation Construction",
+      "experience": 3
+    },
+    {
+      "skill": "Civil Engineering",
+      "experience": 4
+    },
+    {
+      "skill": "Computer Software",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build analytic and design skills. Conduct engineering design under the supervision of an experienced engineer."
+    },
+    {
+      "duty": "Create designs, calculations, sketches, diagrams, schematic drawings, and final working drawings under the supervision of an experienced engineer."
+    },
+    {
+      "duty": "Collect and analyze data under the supervision of an experienced engineer."
+    },
+    {
+      "duty": "Use computer software as a tool for solving basic engineering problems."
+    },
+    {
+      "duty": "Perform work in accordance with agreed upon budget and schedule under supervision."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Civil Engineering or a related field"
+    }
+  ]
+}

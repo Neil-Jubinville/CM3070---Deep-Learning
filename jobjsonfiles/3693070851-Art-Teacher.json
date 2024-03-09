@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Art Teacher",
+      "job_category": "Education",
+      "job_class": "Teacher",
+      "sector": "Healthcare",
+      "salary": 30,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Teaching",
+      "experience": 2
+    },
+    {
+      "skill": "Art Education",
+      "experience": 2
+    },
+    {
+      "skill": "Healthcare Experience",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide art sessions for patients and family members interested during unit rounds."
+    },
+    {
+      "duty": "Assess the patient\u2019s interests in art and help the participant select an art project that is suitable."
+    },
+    {
+      "duty": "Guide and assist patients through an art project that meets their needs."
+    },
+    {
+      "duty": "Document appropriate information on patient interactions and maintain art inventory."
+    },
+    {
+      "duty": "Help with other art projects for the program when needed and promote the program to clinical staff across different departments and units."
+    },
+    {
+      "duty": "Respect confidentiality of patient information."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BA or equivalent in visual arts/art education preferred."
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Technician, Engineering - Tooling",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical and Electrical Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Fabrication",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Reasoning",
+      "experience": 5
+    },
+    {
+      "skill": "Test Instructions",
+      "experience": 5
+    },
+    {
+      "skill": "Prototype Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Milling, Turning, and Welding",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work closely with development engineers to achieve testing needs and maintain constant communication."
+    },
+    {
+      "duty": "Construct and maintain test units, lab test fixtures, and field test sites."
+    },
+    {
+      "duty": "Execute various lab and field tests, report general findings to development team, both verbally and written."
+    },
+    {
+      "duty": "Monitor health and productiveness of test unit fleet, ensuring units are operating and contributing to test objectives."
+    },
+    {
+      "duty": "Perform mechanical and electrical repairs to test units and keep track of changes or repairs made."
+    },
+    {
+      "duty": "Maintain up-to-date calibration of lab equipment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent (Associate\u2019s degree in Electronic/Mechanical Engineering Technology or equivalent a plus)"
+    }
+  ]
+}

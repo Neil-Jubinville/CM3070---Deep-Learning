@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Phlebotomist",
+      "job_category": "Healthcare",
+      "job_class": "Healthcare Worker",
+      "sector": "Healthcare",
+      "salary": 38000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Phlebotomy",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Specimen Collection",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform blood collections by venipuncture and capillary techniques for all age groups"
+    },
+    {
+      "duty": "Collect specimens for various tests such as drug screens, paternity tests, and alcohol tests"
+    },
+    {
+      "duty": "Enter patient information accurately and timely"
+    },
+    {
+      "duty": "Process billing information and collect payments when required"
+    },
+    {
+      "duty": "Prepare collected specimens for testing and analysis"
+    },
+    {
+      "duty": "Maintain patient and specimen information logs"
+    },
+    {
+      "duty": "Provide superior customer service to all patients"
+    },
+    {
+      "duty": "Perform administrative and clerical duties as necessary"
+    },
+    {
+      "duty": "Travel to additional sites when needed"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    },
+    {
+      "credential": "Phlebotomy certification from an accredited agency is preferred"
+    },
+    {
+      "credential": "Previous experience as a phlebotomist"
+    }
+  ]
+}

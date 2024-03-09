@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Nurse Practitioner",
+      "job_category": "Healthcare",
+      "job_class": "Practitioner",
+      "sector": "Healthcare",
+      "salary": 105000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Diagnosis",
+      "experience": 5
+    },
+    {
+      "skill": "Prescription Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Health Promotion",
+      "experience": 5
+    },
+    {
+      "skill": "Chronic Condition Management",
+      "experience": 5
+    },
+    {
+      "skill": "EMR Charting",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Judgment",
+      "experience": 5
+    },
+    {
+      "skill": "Acute Illness Treatment",
+      "experience": 5
+    },
+    {
+      "skill": "Project Leadership",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide health promotion and maintenance through the diagnosis and treatment of acute illness and chronic conditions."
+    },
+    {
+      "duty": "Prescribe medication, examine patients, diagnose illnesses, and provide treatment."
+    },
+    {
+      "duty": "Develop functional strategies on matters of significance and exercise independent judgment on complex issues."
+    },
+    {
+      "duty": "Utilize EMR charting, support for prescription refills, lab follow-up, and coordinated care management."
+    },
+    {
+      "duty": "Work in-home to provide patient care for 1-2 patients per hour, maintaining interpersonal relationships with patients and families."
+    },
+    {
+      "duty": "Participate in Humana/Senior Bridge's Tuberculosis (TB) screening program and adhere to vaccine policies and other healthcare protocols."
+    },
+    {
+      "duty": "Demonstrate high levels of professionalism, integrity, compassion, and willingness to work in a revolutionary healthcare environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (Master's preferred)"
+    },
+    {
+      "credential": "Active BLS through the AHA (American Heart Association) or ARC (American Red Cross)"
+    },
+    {
+      "credential": "Active/unrestricted state license and DEA"
+    }
+  ]
+}

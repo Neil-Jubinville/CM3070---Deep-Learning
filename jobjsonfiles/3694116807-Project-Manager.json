@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 125000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Consulting",
+      "experience": 5
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Predictive Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Management Consulting",
+      "experience": 5
+    },
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Asset Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage delivery of projects of significant size and complexity involving software package implementation and custom development for clients."
+    },
+    {
+      "duty": "Leverage expert knowledge across Project Management methodologies to coach and mentor the project team to produce high-quality, on-time, on-budget project deliverables."
+    },
+    {
+      "duty": "Use consulting skills, business knowledge, and package solution expertise to manage and deliver projects in a client environment."
+    },
+    {
+      "duty": "Build and manage client relationships including C-suite, establish policies, procedures, and plans."
+    },
+    {
+      "duty": "Support the sales efforts of Asset Management related services."
+    },
+    {
+      "duty": "Provide subject matter expertise regarding key decisions related to industry and/or functional area."
+    },
+    {
+      "duty": "Lead a team of marketing specialists, fostering collaboration and guiding their efforts towards achieving set goals."
+    },
+    {
+      "duty": "Analyze market trends, customer behavior, and competitor activity to identify growth opportunities and refine strategies."
+    },
+    {
+      "duty": "Plan and oversee participation in industry events, conferences, and trade shows to showcase services and network with potential clients."
+    },
+    {
+      "duty": "Measure and report on the performance of marketing campaigns, using data-driven insights to continuously improve strategies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certified Project Management Professional (PMP)"
+    }
+  ]
+}

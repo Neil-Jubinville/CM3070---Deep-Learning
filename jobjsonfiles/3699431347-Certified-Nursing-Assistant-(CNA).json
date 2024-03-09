@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Certified Nursing Assistant (CNA)",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 30,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 1
+    },
+    {
+      "skill": "Personal Care",
+      "experience": 1
+    },
+    {
+      "skill": "Healthcare Procedures",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide routine daily nursing care in accordance with established nursing care procedures and as directed by supervisors."
+    },
+    {
+      "duty": "Perform non-professional nursing duties related to the personal care and comfort of the residents."
+    },
+    {
+      "duty": "Perform services necessary for the cleanliness and care of the resident's environment, personal items, and equipment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED"
+    },
+    {
+      "credential": "PA State Nursing Assistant Certification"
+    },
+    {
+      "credential": "At least 1-year experience in nursing assistant situation"
+    }
+  ]
+}

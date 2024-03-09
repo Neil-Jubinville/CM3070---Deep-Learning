@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Infrastructure Architect",
+      "job_category": "Information Technology",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 72160,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Infrastructure Design",
+      "experience": 5
+    },
+    {
+      "skill": "Application Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Azure",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Security",
+      "experience": 5
+    },
+    {
+      "skill": "Encryption",
+      "experience": 5
+    },
+    {
+      "skill": "DNS",
+      "experience": 5
+    },
+    {
+      "skill": "Load Balancing",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and execute infrastructure solutions in collaboration with multiple teams."
+    },
+    {
+      "duty": "Provide 80% focus on infra design for BAC cloud work and 20% for external cloud infrastructure."
+    },
+    {
+      "duty": "Ensure security, encryption, application, certs, DNS, and load balancing are effectively implemented."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Information Technology, Computer Science, or related field (Master's preferred)"
+    }
+  ]
+}

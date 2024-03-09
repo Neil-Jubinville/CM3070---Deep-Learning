@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse Day Surgery",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Assessment and Intervention",
+      "experience": 5
+    },
+    {
+      "skill": "Basic Life Support",
+      "experience": 5
+    },
+    {
+      "skill": "Advanced Cardiac Life Support",
+      "experience": 5
+    },
+    {
+      "skill": "Pediatric Advanced Life Support",
+      "experience": 5
+    },
+    {
+      "skill": "Registered Nurse Diploma",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Demonstrate leadership in upholding Standards of Care and Performance."
+    },
+    {
+      "duty": "Perform assessment, interventions, care, treatment, and education based on defined age specific annual competency."
+    },
+    {
+      "duty": "Demonstrate awareness of and respect for patient/family needs in relation to rights, confidentiality, privacy, security, complaint resolution and spiritual and cultural needs."
+    },
+    {
+      "duty": "Address all patients by preferred name, introduce self, and state purpose of visit."
+    },
+    {
+      "duty": "Prioritize patient needs based on interpretation of data, assessment/reassessment, and initiate appropriate measures including reporting variations of diagnostic studies/change in condition."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Advanced Cardiac Life Support obtained within 30 days of employment start date"
+    },
+    {
+      "credential": "Basic Cardiac Life Support obtained within 30 days of employment start date"
+    },
+    {
+      "credential": "PALS Pediatric Advanced Life Support obtained within 30 days of employment start date"
+    },
+    {
+      "credential": "Registered Nurse Diploma"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Dietitian",
+      "job_category": "Healthcare",
+      "job_class": "Dietitian",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nutrition Counseling",
+      "experience": 4
+    },
+    {
+      "skill": "Medical Nutrition Therapy",
+      "experience": 4
+    },
+    {
+      "skill": "Nutrition Assessment",
+      "experience": 4
+    },
+    {
+      "skill": "Cultural Awareness",
+      "experience": 4
+    },
+    {
+      "skill": "Electronic Medical Records (EMR)",
+      "experience": 4
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Time Management",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and implement dietary plans tailored to individual patients."
+    },
+    {
+      "duty": "Provide nutrition assessments, counseling, and education to patients."
+    },
+    {
+      "duty": "Coordinate with interdisciplinary teams and maintain accurate medical records."
+    },
+    {
+      "duty": "Teach patients how to read and interpret nutrition labels and establish realistic goals."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Registered Dietitian/Nutritionist with the Commission on Dietetic Registration (CDR)"
+    },
+    {
+      "credential": "Bachelor's degree in Nutrition, Dietetics, or related fields"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "job_title": "Dentist",
+      "job_category": "Dentistry",
+      "job_class": "Dentist",
+      "sector": "Healthcare",
+      "salary": 160000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Dentures",
+      "experience": 5
+    },
+    {
+      "skill": "Fillings",
+      "experience": 5
+    },
+    {
+      "skill": "Extractions",
+      "experience": 5
+    },
+    {
+      "skill": "General Dentistry Procedures",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Handle dentures, fillings, extractions, and other general dentistry procedures."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Dental Medicine (DMD) or Doctor of Dental Surgery (DDS) degree"
+    }
+  ]
+}

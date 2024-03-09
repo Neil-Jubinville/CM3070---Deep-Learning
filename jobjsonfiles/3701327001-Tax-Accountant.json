@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Tax Accountant",
+      "job_category": "Finance",
+      "job_class": "Accountant",
+      "sector": "Finance",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tax Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Statement Preparation",
+      "experience": 3
+    },
+    {
+      "skill": "Accounting Software",
+      "experience": 3
+    },
+    {
+      "skill": "Tax Preparation",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "CPA Certification",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 3
+    },
+    {
+      "skill": "QuickBooks",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Preparation of individual and business tax returns"
+    },
+    {
+      "duty": "Analyzing financial information and preparing financial reports"
+    },
+    {
+      "duty": "Installing, modifying, and coordinating implementation of accounting systems and accounting control procedures"
+    },
+    {
+      "duty": "Advising management regarding effects of business activities on taxes and on strategies for minimizing tax liability"
+    },
+    {
+      "duty": "Collecting appropriate data and preparing federal, state, and local reports and tax returns"
+    },
+    {
+      "duty": "Ensuring company compliance with periodic tax payment and information reporting"
+    },
+    {
+      "duty": "Maintaining tax records and conducting tax studies and special projects"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Accounting; Certified Public Accountant (CPA), Enrolled Agent (EA) or Certified Public Accountant Candidate with public accounting experience"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Intelligence Engineer",
+      "job_category": "Data Analysis",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "Statistical Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Distributed Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Process Design",
+      "experience": 5
+    },
+    {
+      "skill": "Development",
+      "experience": 5
+    },
+    {
+      "skill": "Analytic Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop automated data pipelines for data processing and extraction."
+    },
+    {
+      "duty": "Utilize advanced analytical and intuitive data to produce actionable insights and inform product roadmaps."
+    },
+    {
+      "duty": "Collaborate with stakeholders to translate between data and business needs."
+    },
+    {
+      "duty": "Create maintainable, highly reliable, distributed systems which operate 24/7/365."
+    },
+    {
+      "duty": "Analyze and communicate results to senior leadership."
+    },
+    {
+      "duty": "Improve data architecture and processes to reduce time spent on KTLO and Operations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

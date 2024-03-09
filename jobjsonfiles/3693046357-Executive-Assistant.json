@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Executive Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Business Administration",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide top-level assistance for high level executives, including calendar management and customer service management."
+    },
+    {
+      "duty": "Aid executive in preparing for meetings, responding to emails and document requests, and drafting slides and meeting notes for executives."
+    },
+    {
+      "duty": "Manage ad-hoc projects related to the company's public relations and social media presence."
+    },
+    {
+      "duty": "Support recruitment activities and handle office management tasks."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Executive Support",
+      "experience": 5
+    },
+    {
+      "skill": "Calendar Management",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    },
+    {
+      "skill": "Administrative Coordination",
+      "experience": 5
+    },
+    {
+      "skill": "Logistics",
+      "experience": 5
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Confidentiality",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100
+    },
+    {
+      "student_teacher": 80
+    },
+    {
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BA/BS in Business Administration or related field"
+    }
+  ]
+}

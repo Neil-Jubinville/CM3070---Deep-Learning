@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Welder",
+      "job_category": "Manufacturing",
+      "job_class": "Welder",
+      "sector": "Manufacturing",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "MIG Welding",
+      "experience": 5
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 5
+    },
+    {
+      "skill": "Hand Tool Usage",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 5
+    },
+    {
+      "skill": "Robot Operation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assemble parts into a welding jig and tack them per prints, drawing, or instruction of supervisor."
+    },
+    {
+      "duty": "Use various hand tools such as grinders, scrapers, or other types of finishing tools to ensure quality product."
+    },
+    {
+      "duty": "Keep work area clean, neat, and orderly to ensure a safe and efficient workspace."
+    },
+    {
+      "duty": "Attend, and interact in all safety meetings every day."
+    },
+    {
+      "duty": "Control operation of Robot, cleaning, and inspection."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School / GED diploma required, Technical certification preferred"
+    }
+  ]
+}

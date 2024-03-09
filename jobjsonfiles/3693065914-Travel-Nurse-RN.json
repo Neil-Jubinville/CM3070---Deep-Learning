@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Travel Nurse RN",
+      "job_category": "Healthcare",
+      "job_class": "RN",
+      "sector": "Healthcare",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Judgment",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide nursing care to patients in a travel nursing assignment, adhering to healthcare standards and protocols."
+    },
+    {
+      "duty": "Conduct patient assessments, administer medications, and maintain accurate healthcare documentation."
+    },
+    {
+      "duty": "Exercise clinical judgment in various situations, collaborating with healthcare teams for effective patient care."
+    },
+    {
+      "duty": "Be prepared to respond to medical emergencies and use critical thinking skills in fast-paced environments."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Executive",
+      "job_category": "Sales",
+      "job_class": "Executive",
+      "sector": "Sales",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Management",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Market Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Business Development",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Dynamics 365",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Identify business opportunities by evaluating prospects and analyzing sales options."
+    },
+    {
+      "duty": "Sell Dynamics ERP, CRM, and Power Platform solutions by establishing contact with prospects and recommending suitable solutions."
+    },
+    {
+      "duty": "Maintain client relationships by providing support and guidance and recommending new opportunities."
+    },
+    {
+      "duty": "Identify product improvements and new products by staying current on industry trends and market activities."
+    },
+    {
+      "duty": "Prepare reports by collecting and analyzing information and maintain quality service by enforcing organizational standards."
+    },
+    {
+      "duty": "Stay up to date on industry trends, represent the company at various events, and update CRM with account and opportunity information."
+    },
+    {
+      "duty": "Prepare legal documents and Statements of Work, demonstrating strong interpersonal skills."
+    },
+    {
+      "duty": "Stay up to date with specific industry trends and represent the company at various events."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business or a related field (Master's preferred)"
+    },
+    {
+      "credential": "Experience as a sales executive or similar role"
+    }
+  ]
+}

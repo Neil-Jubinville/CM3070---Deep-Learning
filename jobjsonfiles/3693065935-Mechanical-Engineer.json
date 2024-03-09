@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Mechanical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Mechanical",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Design",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Creo Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Participate in all aspects of mechanical design and development of active products, from concept through production release."
+    },
+    {
+      "duty": "Produce and release 3D models, drawings, and BOMs."
+    },
+    {
+      "duty": "Work with electrical and SW engineering to ensure new product designs will function per the market and customer requirements."
+    },
+    {
+      "duty": "Support operations, supply chain, field service, and the quality organization to ensure the product line can be sustained and function reliably."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Mechanical Engineering"
+    }
+  ]
+}

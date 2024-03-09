@@ -1,0 +1,97 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Scientist",
+      "job_category": "Data Science",
+      "job_class": "Data Scientist",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Statistics",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Data Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Data Wrangling",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "R",
+      "experience": 5
+    },
+    {
+      "skill": "Hadoop",
+      "experience": 5
+    },
+    {
+      "skill": "SAS",
+      "experience": 5
+    },
+    {
+      "skill": "Tableau",
+      "experience": 5
+    },
+    {
+      "skill": "MATLAB",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Utilize statistics, algorithms, machine learning, and visualization techniques to model complex problems and identify opportunities."
+    },
+    {
+      "duty": "Collaborate with stakeholders to leverage data and support critical business decisions."
+    },
+    {
+      "duty": "Develop custom data models, algorithms, and predictive modeling to support insights and opportunities for improvement."
+    },
+    {
+      "duty": "Analyze data sets to identify areas of optimization and improvement of business strategies."
+    },
+    {
+      "duty": "Develop and test hypothesis, and provide conclusions in a clear, structured manner."
+    },
+    {
+      "duty": "Coordinate with different business areas to implement models and monitor outcomes."
+    },
+    {
+      "duty": "Monitor and analyze model performance and data accuracy."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 150,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Finance, Statistics, Economics, Data Science, Computer Science, Engineering or Mathematics (Master's preferred)"
+    }
+  ]
+}

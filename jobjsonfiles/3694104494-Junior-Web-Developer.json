@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Junior Web Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "PHP",
+      "experience": 2
+    },
+    {
+      "skill": "HTML",
+      "experience": 2
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 2
+    },
+    {
+      "skill": "CSS",
+      "experience": 2
+    },
+    {
+      "skill": "RESTful API",
+      "experience": 2
+    },
+    {
+      "skill": "Database Optimization",
+      "experience": 2
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 2
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Abilities",
+      "experience": 2
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with the development team to design, develop, test, and deploy web-based applications using PHP, HTML, JavaScript, and CSS."
+    },
+    {
+      "duty": "Provide ongoing support and maintenance for existing web applications, addressing any issues or bugs that may arise."
+    },
+    {
+      "duty": "Work with the team to design and optimize databases, ensuring efficient data storage, retrieval, and manipulation."
+    },
+    {
+      "duty": "Develop a solid understanding of RESTful API principles and utilize this knowledge to integrate third-party APIs into web applications, enabling seamless data exchange and functionality."
+    },
+    {
+      "duty": "Maintain detailed technical documentation for all projects, including code comments, user manuals, and system architecture diagrams."
+    },
+    {
+      "duty": "Conduct thorough testing of web applications to identify and resolve any issues related to functionality, performance, and compatibility across different browsers and devices."
+    },
+    {
+      "duty": "Stay up-to-date with the latest web development trends, tools, and technologies. Continuously enhance your skills and knowledge through self-directed learning and participation in professional development opportunities."
+    },
+    {
+      "duty": "Maintain open and effective communication channels with team members, stakeholders, and clients, ensuring clarity in requirements, progress updates, and issue resolution."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in MIS, CIS, CS, Engineering, or equivalent"
+    }
+  ]
+}

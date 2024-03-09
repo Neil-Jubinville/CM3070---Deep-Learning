@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Graphics Programmer",
+      "job_category": "Software Engineering",
+      "job_class": "Programmer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C/C++ Programming",
+      "experience": 5
+    },
+    {
+      "skill": "HLSL, Cg, or Other Shader Programming Language",
+      "experience": 5
+    },
+    {
+      "skill": "3D Graphics APIs",
+      "experience": 5
+    },
+    {
+      "skill": "Performance Optimization",
+      "experience": 5
+    },
+    {
+      "skill": "Memory Footprint Optimization",
+      "experience": 5
+    },
+    {
+      "skill": "Multithreaded Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Large Code Bases",
+      "experience": 5
+    },
+    {
+      "skill": "Debugging Graphics Pipelines",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Utilize C/C++ programming and HLSL, Cg, or other vendor-specific shader programming language for graphics development."
+    },
+    {
+      "duty": "Optimize performance factors and memory footprints using hardware and software profilers like PIX, GCM Replay, Tuner, Vtune, etc."
+    },
+    {
+      "duty": "Debug graphics pipelines using relevant platform tooling such as Renderdoc, Pix, Razer, etc."
+    },
+    {
+      "duty": "Work with 3D graphics APIs including Direct3D 11+, OpenGL, Vulkan, and/or vendor-specific APIs."
+    },
+    {
+      "duty": "Apply multithreaded programming techniques and work with large code bases for graphics development."
+    }
+  ]
+}

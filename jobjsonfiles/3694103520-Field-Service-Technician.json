@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Service Technician",
+      "job_category": "Information Technology",
+      "job_class": "Technician",
+      "sector": "Information Technology",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "RF Electronics Test Equipment",
+      "experience": 3
+    },
+    {
+      "skill": "Motorola Systems Configuration",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office Suite",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Abilities",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Repair, maintain, modify, program, install, train, and consult on communications equipment, systems, and networks."
+    },
+    {
+      "duty": "Install and support equipment in a professional manner, consistent with industry best practices and customer requirements."
+    },
+    {
+      "duty": "Debug systems and networks after installation and/or updates."
+    },
+    {
+      "duty": "Prepare work tickets, material requests, warranty paperwork, and various paperwork associated with the job."
+    },
+    {
+      "duty": "Perform in a leadership role with lower-level technicians when participating in team projects."
+    },
+    {
+      "duty": "Interface with the Service Manager to satisfy and resolve technically difficult service problems."
+    },
+    {
+      "duty": "Coordinate resources to resolve equipment, system, and network issues."
+    },
+    {
+      "duty": "Communicate and meet with customer representatives to ensure quality service and response times."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent is required; College degree is preferred."
+    },
+    {
+      "credential": "CET certification or Electrical/Electronics post High School degree is preferred."
+    },
+    {
+      "credential": "Additional RF and two-way radio networking certifications and experience are beneficial and preferred."
+    }
+  ]
+}

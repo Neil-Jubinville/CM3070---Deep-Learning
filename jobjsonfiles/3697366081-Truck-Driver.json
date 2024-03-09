@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Truck Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Logistics",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Safe Driving",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Material Handling",
+      "experience": 5
+    },
+    {
+      "skill": "DOT Regulations",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Transport goods and supplies onsite and offsite, ensuring on-time delivery and safe transportation."
+    },
+    {
+      "duty": "Visually inspect loaded trucks to ensure orders are packaged, shipped, and loaded properly to avoid damages during transportation."
+    },
+    {
+      "duty": "Report defects or equipment problems, work according to an assigned schedule, and provide professional and courteous interactions with customers."
+    },
+    {
+      "duty": "File and retrieve documents, monitor inventory availability, and follow mandatory work instructions to safeguard the environment and wellbeing of oneself and others."
+    },
+    {
+      "duty": "Operate various equipment and machines, adjusting variables to achieve efficiency, and assist with various warehouse duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED preferred."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Systems Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Systems Design",
+      "experience": 5
+    },
+    {
+      "skill": "Systems Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Production",
+      "experience": 5
+    },
+    {
+      "skill": "Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Installation Support",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Plan, design, and develop CEMS for various industrial facilities."
+    },
+    {
+      "duty": "Accurately document the systems design process, including requirements, specifications, configurations, and bills of material."
+    },
+    {
+      "duty": "Participate in the production process of CEMS products, including procurement of parts, assembly, and quality checks."
+    },
+    {
+      "duty": "Work closely with customers to seamlessly integrate our products into their existing systems and sites."
+    },
+    {
+      "duty": "Provide the installation team with vital engineering guidance. Address any challenges encountered during installation, advising on best practices, and ensuring successful implementation of CEM products."
+    },
+    {
+      "duty": "Adhere to and enforce quality standards for design, documentation, and manufacturing. Set up tests to confirm product efficacy for Factory Acceptance Testing before installation at customer sites."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electrical Engineering (Master's preferred)"
+    }
+  ]
+}

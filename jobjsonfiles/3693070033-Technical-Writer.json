@@ -1,0 +1,38 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Writer",
+      "job_category": "Writing",
+      "job_class": "Technical",
+      "sector": "Public Transportation",
+      "salary": 70000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Research",
+      "experience": 3
+    },
+    {
+      "skill": "Writing",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Policy Analysis",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Research and prepare information about public transit for blogs, print, and internal audiences."
+    },
+    {
+      "duty": "Communicate complex operational and policy matters to all levels of stakeholders."
+    }
+  ]
+}

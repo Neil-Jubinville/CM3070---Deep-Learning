@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Wellness Coordinator",
+      "job_category": "Wellness",
+      "job_class": "Coordinator",
+      "sector": "Healthcare",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Assessment",
+      "experience": 3
+    },
+    {
+      "skill": "Teaching",
+      "experience": 4
+    },
+    {
+      "skill": "Wellness Education",
+      "experience": 3
+    },
+    {
+      "skill": "Coordination",
+      "experience": 4
+    },
+    {
+      "skill": "Member Service",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assess the physical condition of the population served and monitor their wellness progress."
+    },
+    {
+      "duty": "Teach wellness classes and/or supervise exercise programs to ensure participant safety."
+    },
+    {
+      "duty": "Disseminate educational materials to participants and coordinate instruction with other instructors to provide a consistent level of service."
+    },
+    {
+      "duty": "Provide member service through regular interaction with members."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree (B. A.) from four-year college or university."
+    },
+    {
+      "credential": "CPR Certification"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Support Specialist",
+      "job_category": "Information Technology",
+      "job_class": "Specialist",
+      "sector": "Information Technology",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Hardware Management",
+      "experience": 3
+    },
+    {
+      "skill": "Software Onboarding",
+      "experience": 4
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 4
+    },
+    {
+      "skill": "Training Development",
+      "experience": 3
+    },
+    {
+      "skill": "IT Policy Development",
+      "experience": 3
+    },
+    {
+      "skill": "Network Security",
+      "experience": 3
+    },
+    {
+      "skill": "Project Assistance",
+      "experience": 3
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Confidentiality Management",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Procure, deliver, and manage hardware for individuals and locations."
+    },
+    {
+      "duty": "Implement processes to ensure hardware is updated in a timely manner."
+    },
+    {
+      "duty": "Create and manage inventory for extra hardware, including outdated or spare."
+    },
+    {
+      "duty": "Perform onboarding process for new employees, offboarding process for employees no longer with the organization, and adjustments for existing employees."
+    },
+    {
+      "duty": "Troubleshoot and resolve issues as needed, including user support."
+    },
+    {
+      "duty": "Design training materials and workshops to ensure the organization is knowledgeable and efficient with the provided software."
+    },
+    {
+      "duty": "Identify and act on opportunities to improve and update software and systems."
+    },
+    {
+      "duty": "Develop and implement IT policies and best practice guides for the organization."
+    },
+    {
+      "duty": "Perform regular checks on network and data security."
+    },
+    {
+      "duty": "Assist with various projects from time to time, including scheduling, drafting budgets, and completing tasks for projects."
+    },
+    {
+      "duty": "Maintain strict confidentiality and discretion."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Information Technology or related field of study"
+    }
+  ]
+}

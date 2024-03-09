@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Attorney",
+      "job_category": "Legal",
+      "job_class": "Attorney",
+      "sector": "Law",
+      "salary": 170000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "eDiscovery",
+      "experience": 4
+    },
+    {
+      "skill": "Information Governance",
+      "experience": 4
+    },
+    {
+      "skill": "Data Privacy",
+      "experience": 4
+    },
+    {
+      "skill": "Litigation",
+      "experience": 4
+    },
+    {
+      "skill": "Legal Research",
+      "experience": 4
+    },
+    {
+      "skill": "Drafting Legal Memos",
+      "experience": 4
+    },
+    {
+      "skill": "Court Appearances",
+      "experience": 4
+    },
+    {
+      "skill": "Relativity",
+      "experience": 4
+    },
+    {
+      "skill": "Slack",
+      "experience": 4
+    },
+    {
+      "skill": "Gsuite",
+      "experience": 4
+    },
+    {
+      "skill": "Mobile Devices",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Draft legal research memos and briefs."
+    },
+    {
+      "duty": "Conduct meet & confers."
+    },
+    {
+      "duty": "Defend depositions."
+    },
+    {
+      "duty": "Make court appearances when needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bar in at least one of the following jurisdictions: Illinois, Oregon, Texas, Minnesota, Michigan, California, Washington D.C., or Virginia"
+    }
+  ]
+}

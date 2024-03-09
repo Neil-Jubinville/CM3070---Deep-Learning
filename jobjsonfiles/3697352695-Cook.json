@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Cook",
+      "job_category": "Culinary",
+      "job_class": "Cooks",
+      "sector": "Culinary",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Culinary Arts",
+      "experience": 5
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 5
+    },
+    {
+      "skill": "Menu Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Kitchen Hygiene",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Creativity",
+      "experience": 5
+    },
+    {
+      "skill": "Passion for Cooking",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepping, cooking, and presenting high-quality, best-in-class culinary offerings to delight guests."
+    },
+    {
+      "duty": "Ensuring consistency and adherence to high standards in food preparation and presentation."
+    },
+    {
+      "duty": "Maintaining the most hygienic and organized kitchen environment."
+    },
+    {
+      "duty": "Bringing passion and creativity to work every day."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Culinary Arts Degree or equivalent certification"
+    }
+  ]
+}

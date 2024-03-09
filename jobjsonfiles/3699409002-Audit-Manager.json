@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Audit Manager",
+      "job_category": "Accounting",
+      "job_class": "Manager",
+      "sector": "Finance",
+      "salary": 105000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Public Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "CPA Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Staff Development",
+      "experience": 5
+    },
+    {
+      "skill": "Training and Development",
+      "experience": 5
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 5
+    },
+    {
+      "skill": "Philosophy Knowledge",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Formulate recommendations and implement solutions to technical issues."
+    },
+    {
+      "duty": "Learn new skills quickly and effectively share technical depth with others."
+    },
+    {
+      "duty": "Participate in and seek training to maintain current technical knowledge."
+    },
+    {
+      "duty": "Develop complete knowledge of the firm's philosophy and be conversant with its reports, policies, procedures, and opinions on financial matters."
+    },
+    {
+      "duty": "Lead responsible, knowledgeable, and trained staff."
+    },
+    {
+      "duty": "Maintain a hybrid schedule of 3 days in the office and 2 days at home."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's Degree in Accounting"
+    },
+    {
+      "credential": "CPA Certification"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Financial Advisor",
+      "job_category": "Finance",
+      "job_class": "Advisor",
+      "sector": "Finance",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Client Conversion",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Series 65 License",
+      "experience": 5
+    },
+    {
+      "skill": "Life Insurance License",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Advisor Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Adaptability",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Engage with prospects in meaningful dialogue to understand their needs and convert them into satisfied clients."
+    },
+    {
+      "duty": "Construct individualized financial and retirement plans tailored to client needs."
+    },
+    {
+      "duty": "Foster and manage a broad and varied clientele."
+    },
+    {
+      "duty": "Sustain open and honest communication with clients, cultivating resilient and enduring relationships."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Series 65 License (or the ability to secure within 60 days)"
+    },
+    {
+      "credential": "An active Life Insurance License."
+    },
+    {
+      "credential": "Bachelor's degree in Finance, Business, or a related field (Master's preferred)"
+    }
+  ]
+}

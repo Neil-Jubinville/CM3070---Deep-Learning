@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Scientist",
+      "job_category": "R&D",
+      "job_class": "Scientist",
+      "sector": "Engineering",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Molecular Biology",
+      "experience": 5
+    },
+    {
+      "skill": "Cloning",
+      "experience": 5
+    },
+    {
+      "skill": "Bioinformatics",
+      "experience": 5
+    },
+    {
+      "skill": "Laboratory Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Experimental Design",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "High-throughput Assays",
+      "experience": 5
+    },
+    {
+      "skill": "Next Generation Sequencing",
+      "experience": 5
+    },
+    {
+      "skill": "Sanger Sequencing",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Generate large antibody libraries for display technologies and perform emulsion PCR and DNA prep for subcloning of libraries or for single constructs."
+    },
+    {
+      "duty": "Design primers, troubleshoot Sanger sequencing, analyze and align sequences, transfect, express, and purify antibodies in small scale, and characterize antibodies for affinity using BLI, epitope binning and binding in ELISA."
+    },
+    {
+      "duty": "Run lab automation for high-throughput assays and coordinate with automation team. Draft, execute and record experiments in a timely manner and maintain an excellent laboratory notebook."
+    },
+    {
+      "duty": "Troubleshoot, optimize and execute experiments independently. Work independently and as part of a team. Participate in the advancement of pipeline projects and further technological innovations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 75
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.S. in molecular biology or other related discipline with 5+ years experience OR M.S. in molecular biology or other related discipline with 2+ years experience"
+    }
+  ]
+}

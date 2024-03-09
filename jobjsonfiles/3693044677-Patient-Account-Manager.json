@@ -1,0 +1,48 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Account Manager",
+      "job_category": "Healthcare",
+      "job_class": "Manager",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Insurance Verification",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Coding",
+      "experience": 2
+    },
+    {
+      "skill": "EOB Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "EMRS Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare work orders and obtain the proper documents for insurance companies/plans."
+    },
+    {
+      "duty": "Verify patient benefits and pre-certify our services, exercising knowledge of different insurance companies' or plans' procedures."
+    },
+    {
+      "duty": "Provide excellent customer service to all patients and assure flow of service."
+    },
+    {
+      "duty": "Complete other duties as assigned."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "MedSurg RN",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 2221,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide nursing care for medical-surgical patients in accordance with established policies and procedures."
+    },
+    {
+      "duty": "Assess patient's medical status and respond to any changes in condition."
+    },
+    {
+      "duty": "Collaborate with interdisciplinary teams to develop and implement patient care plans."
+    },
+    {
+      "duty": "Administer medications and treatments as prescribed by attending physician."
+    },
+    {
+      "duty": "Educate patients and their families about treatment plans and post-discharge care."
+    },
+    {
+      "duty": "Monitor and document patient progress and update medical records."
+    },
+    {
+      "duty": "Adhere to safety and infection control protocols."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Clinical Assessment",
+      "experience": 2
+    },
+    {
+      "skill": "Interdisciplinary Collaboration",
+      "experience": 2
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Record Keeping",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Protocols",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate or Bachelor's degree in Nursing (RN)"
+    }
+  ]
+}

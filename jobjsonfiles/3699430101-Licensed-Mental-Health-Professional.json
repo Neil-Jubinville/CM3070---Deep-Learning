@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Mental Health Professional",
+      "job_category": "Healthcare",
+      "job_class": "Professional",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Therapy",
+      "experience": 5
+    },
+    {
+      "skill": "Mental Health Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Psychotherapy",
+      "experience": 5
+    },
+    {
+      "skill": "Counseling",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Service",
+      "experience": 5
+    },
+    {
+      "skill": "Electronic Health Record Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Measurement of Intervention Effectiveness",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Complete psychiatric or psychosocial assessments, including mental status exams."
+    },
+    {
+      "duty": "Develop assessment and comprehensive treatment plans for individuals, couples, families, and groups."
+    },
+    {
+      "duty": "Provide psychotherapy, supportive therapy, social skill development, and assertiveness training."
+    },
+    {
+      "duty": "Document all encounters in the electronic health record and monitor outcome measurements."
+    },
+    {
+      "duty": "Collaborate with referral sources and other members of the patient's clinical team."
+    },
+    {
+      "duty": "Provide ongoing measurement of individual outcomes and evaluation of intervention effectiveness."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master\u2019s degree in social work, psychology, counseling, or related field."
+    },
+    {
+      "credential": "Licensed in the State of Washington; Licensed Certified Social Worker - Clinical (LCSW-C) or Licensed Mental Health Counselor (LMHC) or Licensed Marriage and Family Therapist (LMFT)."
+    },
+    {
+      "credential": "Current CPR Certification."
+    }
+  ]
+}

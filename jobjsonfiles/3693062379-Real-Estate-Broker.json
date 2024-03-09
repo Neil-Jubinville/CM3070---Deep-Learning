@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Real Estate Broker",
+      "job_category": "Real Estate",
+      "job_class": "Broker",
+      "sector": "Real Estate",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Negotiation",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Property Management",
+      "experience": 5
+    },
+    {
+      "skill": "Real Estate Market Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Detail Orientation",
+      "experience": 5
+    },
+    {
+      "skill": "Bachelor's Degree in Business, Real Estate, or Related Field",
+      "experience": 5
+    },
+    {
+      "skill": "Long Hours Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Managing real estate listings and conducting property viewings."
+    },
+    {
+      "duty": "Negotiating sales and purchase agreements for clients."
+    },
+    {
+      "duty": "Providing exceptional customer service throughout the buying and selling process."
+    },
+    {
+      "duty": "Utilizing strong interpersonal skills and attention to detail."
+    },
+    {
+      "duty": "Managing multiple projects simultaneously."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid Real Estate Broker license in the state of Washington"
+    },
+    {
+      "credential": "Bachelor's degree in Business, Real Estate, or a related field"
+    }
+  ]
+}

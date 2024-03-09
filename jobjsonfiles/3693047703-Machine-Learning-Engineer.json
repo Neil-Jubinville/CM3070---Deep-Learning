@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Machine Learning Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 185000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Learning Models",
+      "experience": 5
+    },
+    {
+      "skill": "Data Preprocessing",
+      "experience": 5
+    },
+    {
+      "skill": "Neural Deep Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Scikit-Learn",
+      "experience": 5
+    },
+    {
+      "skill": "Tensorflow",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Cloud Services",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps Tooling",
+      "experience": 5
+    },
+    {
+      "skill": "Large-scale Distributed Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop data preprocessing pipelines, ensuring data quality and readiness for machine learning by performing cleaning, feature extraction, and transformation."
+    },
+    {
+      "duty": "Design and implement tailored machine learning models and algorithms to address specific business objectives."
+    },
+    {
+      "duty": "Train, optimize, and validate models using extensive datasets, achieving high performance and robust generalization."
+    },
+    {
+      "duty": "Collaborate with software engineers to smoothly integrate machine learning models into production systems, prioritizing scalability and reliability."
+    },
+    {
+      "duty": "Conduct experiments and A/B tests to continually enhance model efficacy, utilizing results for iterative algorithm improvement."
+    },
+    {
+      "duty": "Monitor and maintain deployed models, proactively addressing issues like drift, bias, and performance deterioration; ensuring long-term efficiency."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "PhD/Master's degree in appropriate discipline"
+    }
+  ]
+}

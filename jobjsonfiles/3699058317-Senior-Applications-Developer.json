@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Applications Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior Developer",
+      "sector": "Software Engineering",
+      "salary": 165000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 7
+    },
+    {
+      "skill": "Spring Framework",
+      "experience": 7
+    },
+    {
+      "skill": "Cloud Solutions",
+      "experience": 7
+    },
+    {
+      "skill": "API Service Architectures",
+      "experience": 7
+    },
+    {
+      "skill": "PostgreSQL",
+      "experience": 7
+    },
+    {
+      "skill": "NoSQL Databases",
+      "experience": 7
+    },
+    {
+      "skill": "SQL Querying",
+      "experience": 7
+    },
+    {
+      "skill": "Microservice Patterns",
+      "experience": 5
+    },
+    {
+      "skill": "Containerization",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with business analysts and stakeholders to evaluate and understand business concepts and processes."
+    },
+    {
+      "duty": "Refine the product backlog and user stories, as well as design technical and integration architecture that services both user and overall business goals."
+    },
+    {
+      "duty": "Ensure code quality and write well-documented easy-to-understand code."
+    },
+    {
+      "duty": "Work with other developers to ensure teams are meeting the objectives of the business while adhering to technical and architectural standards and practices."
+    },
+    {
+      "duty": "Investigate, analyze, and resolve complex technical problems related to system functions, environment, and procedures."
+    },
+    {
+      "duty": "Maintain knowledge of current technologies, research emerging technologies and industry trends, and make recommendations on implementation."
+    },
+    {
+      "duty": "Deliver high-quality assignments on time, within budget."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or foreign equivalent in Applied Computer Science, Computer Applications, or a related field plus seven (7) years of progressively responsible post-baccalaureate experience in the position offered, or as an Application Developer, Senior Software Developer, Technical Team Lead, or a related position."
+    }
+  ]
+}

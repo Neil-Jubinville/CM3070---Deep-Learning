@@ -1,0 +1,100 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Nursing",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Nursing Process",
+      "experience": 5
+    },
+    {
+      "skill": "Direct Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Care Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "BLS Certification",
+      "experience": 5
+    },
+    {
+      "skill": "ACLS Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Hemodynamic Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Condition Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Privacy",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver safe patient care utilizing the nursing process of assessment, planning, implementation, and evaluation."
+    },
+    {
+      "duty": "Provide direct patient care within the scope of practice."
+    },
+    {
+      "duty": "Direct and guide patient/family teaching and activities of other nursing personnel while maintaining standards of care in the ICU."
+    },
+    {
+      "duty": "Communicate with the physician about changes in the patient\u2019s clinical condition including hemodynamic monitoring, results of diagnostic studies, and abnormal results and symptomatology."
+    },
+    {
+      "duty": "Respond quickly and accurately to changes in condition and/or response to treatment."
+    },
+    {
+      "duty": "Maintain patient privacy and confidentiality."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current and valid state RN License."
+    },
+    {
+      "credential": "Current BLS (AHA) certificate upon hire and maintain current."
+    },
+    {
+      "credential": "Completion of Critical Care Course preferred."
+    },
+    {
+      "credential": "Current ACLS certificate 30 days upon hire and maintain current."
+    },
+    {
+      "credential": "Minimum of one year as a staff RN in acute care hospital, critical care preferred."
+    },
+    {
+      "credential": "Critical Care RN (CCRN) Certification preferred."
+    },
+    {
+      "credential": "Bachelor of Science in Nursing (BSN) preferred."
+    }
+  ]
+}

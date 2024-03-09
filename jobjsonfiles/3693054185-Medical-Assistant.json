@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 33000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Office Procedures",
+      "experience": 2
+    },
+    {
+      "skill": "Bilingual (Spanish)",
+      "experience": 3
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Interaction",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Supply Management",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Administrative Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "AD&D Plan Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform administrative and clinical duties under the direction of a physician or nurse manager"
+    },
+    {
+      "duty": "Scribe patient notes and maintain patient charts, including filing reports and lab results"
+    },
+    {
+      "duty": "Measure vital signs, confirm patient information, educate patients, and assist with treatment plans"
+    },
+    {
+      "duty": "Complete necessary forms, manage patient records, and respond to inquiries and requests for information"
+    },
+    {
+      "duty": "Maintain exam rooms, respond to emails and calls, and communicate status updates regarding patients and treatment plans"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or its equivalent"
+    },
+    {
+      "credential": "Medical Assistant Certification preferred"
+    },
+    {
+      "credential": "Bilingual in Spanish"
+    }
+  ]
+}

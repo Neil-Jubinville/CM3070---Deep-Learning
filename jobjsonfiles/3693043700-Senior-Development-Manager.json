@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Development Manager",
+      "job_category": "Software Development",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 8
+    },
+    {
+      "skill": "Retail POS",
+      "experience": 8
+    },
+    {
+      "skill": "API Integration",
+      "experience": 8
+    },
+    {
+      "skill": "ServiceNow",
+      "experience": 6
+    },
+    {
+      "skill": "RESTful APIs",
+      "experience": 8
+    },
+    {
+      "skill": "JSON",
+      "experience": 8
+    },
+    {
+      "skill": "DBA",
+      "experience": 4
+    },
+    {
+      "skill": "Java",
+      "experience": 3
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Code reviews, light coding, and architecture diagrams for the application development team."
+    },
+    {
+      "duty": "Streamline processes and manage server applications."
+    },
+    {
+      "duty": "Experience working in the Retail POS space and integrating various POS systems."
+    },
+    {
+      "duty": "Utilize ServiceNow in an Agile environment for development and management."
+    },
+    {
+      "duty": "Work with APIs, RESTful APIs, and JSON for application integration."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

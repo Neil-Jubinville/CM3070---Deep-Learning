@@ -1,0 +1,34 @@
+{
+  "meta": [
+    {
+      "job_title": "Low Voltage Electrician",
+      "job_category": "Skilled Trades",
+      "job_class": "Electrician",
+      "sector": "Skilled Trades",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Wiring",
+      "experience": 5
+    },
+    {
+      "skill": "Low Voltage Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Termination Techniques",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Install low voltage wiring for various systems such as security, lighting, and communication."
+    },
+    {
+      "duty": "Terminate low voltage wiring and connect to appropriate systems and devices."
+    }
+  ]
+}

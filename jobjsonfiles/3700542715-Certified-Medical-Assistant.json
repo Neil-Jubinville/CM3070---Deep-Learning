@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Certified Medical Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 37000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Vital Sign Recording",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Specimen Collection",
+      "experience": 3
+    },
+    {
+      "skill": "Healthcare Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Sterilization",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform general patient care by following established standards and procedures."
+    },
+    {
+      "duty": "Greet and prepare patients for the health care provider."
+    },
+    {
+      "duty": "Obtain and record vital signs, draw and collect blood samples, and administer medications and vaccines."
+    },
+    {
+      "duty": "Schedule patients for diagnostic testing and follow up to ensure completion of testing."
+    },
+    {
+      "duty": "Communicate with patients regarding test results and plan of care."
+    },
+    {
+      "duty": "Prepare, clean and sterilize instruments and maintain equipment; keep patient exam rooms stocked, clean and orderly."
+    },
+    {
+      "duty": "Document patient plan(s) of care, tests, and examination results in the medical record as directed by the provider."
+    },
+    {
+      "duty": "Escalate non-routine issues, questions and/or concerns to the practice manager or healthcare provider(s)."
+    },
+    {
+      "duty": "Ensure safety checklists/quality controls are completed as required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent required."
+    },
+    {
+      "credential": "Current/valid Certified Medical Assistant (CMA) certification required or Registered Medical Assistant (RMA) required if applicable."
+    },
+    {
+      "credential": "Successfully completed Medication Aide 40-hour course or current/valid Medication Aide certification by state agency required if applicable."
+    },
+    {
+      "credential": "May require specialized training such as Non-Certified Radiologic Technician (NCT)."
+    },
+    {
+      "credential": "Basic Life Support (BLS) for the Healthcare Provider certified or obtained within three (3) months of hire."
+    },
+    {
+      "credential": "Proof of completion of Mandatory Reporter abuse training specific to the population served within three (3) months of hire."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Laboratory Technician",
+      "job_category": "Life Sciences",
+      "job_class": "Technician",
+      "sector": "Research",
+      "salary": 52000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Molecular Techniques",
+      "experience": 1
+    },
+    {
+      "skill": "Cell Biology",
+      "experience": 1
+    },
+    {
+      "skill": "Biochemistry",
+      "experience": 1
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 1
+    },
+    {
+      "skill": "Statistics",
+      "experience": 1
+    },
+    {
+      "skill": "Lab Equipment Operation",
+      "experience": 1
+    },
+    {
+      "skill": "Report Writing",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct routine experiments using molecular, cell biology, and biochemistry techniques."
+    },
+    {
+      "duty": "Record, transcribe, and analyze test results using basic statistics."
+    },
+    {
+      "duty": "May operate and maintain complex lab equipment."
+    },
+    {
+      "duty": "Assist with planning research procedures and coordinating schedules of tests and procedures."
+    },
+    {
+      "duty": "Prepare written and/or verbal reports on the status of research and technical procedures, including statistical and graphic summaries of findings."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Life Sciences or related scientific field"
+    }
+  ]
+}

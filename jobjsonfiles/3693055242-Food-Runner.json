@@ -1,0 +1,40 @@
+{
+  "meta": [
+    {
+      "job_title": "Food Runner",
+      "job_category": "Restaurant",
+      "job_class": "Entry Level",
+      "sector": "Hospitality",
+      "salary": 25000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Team Player",
+      "experience": 1
+    },
+    {
+      "skill": "Fast-paced Environments",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver food orders quickly and accurately to restaurant guests."
+    },
+    {
+      "duty": "Assist in bussing and resetting tables."
+    },
+    {
+      "duty": "Maintain cleanliness and organization in the restaurant."
+    },
+    {
+      "duty": "Provide excellent customer service to ensure a positive guest experience."
+    }
+  ]
+}

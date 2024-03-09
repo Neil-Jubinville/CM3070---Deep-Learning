@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Financial Reporting Analyst",
+      "job_category": "Finance",
+      "job_class": "Analyst",
+      "sector": "IT",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analysis",
+      "experience": 4
+    },
+    {
+      "skill": "Python",
+      "experience": 4
+    },
+    {
+      "skill": "SQL",
+      "experience": 4
+    },
+    {
+      "skill": "Business Intelligence",
+      "experience": 4
+    },
+    {
+      "skill": "QA Testing",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Coding and running queries in Python and SQL"
+    },
+    {
+      "duty": "Working with FP&A and IT to develop new reports for management"
+    },
+    {
+      "duty": "Support the Data Engineer with reporting projects"
+    },
+    {
+      "duty": "Analyze variance analysis and explain the outliers"
+    },
+    {
+      "duty": "Perform UAT for new interfaces/reports"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 0,
+      "student_teacher": 0,
+      "introvert_extrovert": 0
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Finance, Business, or a related field (Master's preferred)"
+    }
+  ]
+}

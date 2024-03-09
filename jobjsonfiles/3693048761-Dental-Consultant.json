@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Dental Consultant",
+      "job_category": "Healthcare",
+      "job_class": "Consultant",
+      "sector": "Healthcare",
+      "salary": 68,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Dental Procedures",
+      "experience": 10
+    },
+    {
+      "skill": "Adjudication",
+      "experience": 10
+    },
+    {
+      "skill": "Prior Authorization",
+      "experience": 10
+    },
+    {
+      "skill": "Claims Processing",
+      "experience": 10
+    },
+    {
+      "skill": "Healthcare Payer Experience",
+      "experience": 5
+    },
+    {
+      "skill": "MMIS Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Fraud Detection",
+      "experience": 5
+    },
+    {
+      "skill": "Quality-of-Care Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Training Development",
+      "experience": 5
+    },
+    {
+      "skill": "Current Dental Terminology (CDT) Codes",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Adjudicate prior authorization requests and claims based on dental standards and best practices."
+    },
+    {
+      "duty": "Collaborate with internal and external parties to gather information for claim or prior authorization determination."
+    },
+    {
+      "duty": "Respond to inquiries regarding claim or prior authorization requests."
+    },
+    {
+      "duty": "Report potential Fraud, Waste, and Abuse (FWA) issues and process requests for re-evaluation."
+    },
+    {
+      "duty": "Review and analyze patient quality-of-care complaints and maintain logs of resolved grievances."
+    },
+    {
+      "duty": "Conduct or assist in developing seminars or training programs as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 30,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "DDS or DMS degree from an accredited dental school."
+    },
+    {
+      "credential": "Bachelor's degree or equivalent education."
+    },
+    {
+      "credential": "Active and unencumbered license with the Dental Licensing Board."
+    },
+    {
+      "credential": "Special training and/or professional certificates may be substituted for experience."
+    }
+  ]
+}

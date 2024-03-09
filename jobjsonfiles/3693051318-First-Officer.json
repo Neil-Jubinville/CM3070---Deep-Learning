@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "First Officer",
+      "job_category": "Aviation",
+      "job_class": "Officer",
+      "sector": "Aviation",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "FAA Pilot License",
+      "experience": 5
+    },
+    {
+      "skill": "Aircraft Inspection",
+      "experience": 5
+    },
+    {
+      "skill": "Flight Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 5
+    },
+    {
+      "skill": "Part 135 Operation",
+      "experience": 5
+    },
+    {
+      "skill": "Decision Making",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Plan and execute flights in accordance with FAA regulations, company policies, and industry best practices."
+    },
+    {
+      "duty": "Conduct pre-flight inspections to ensure aircraft is airworthy and properly equipped."
+    },
+    {
+      "duty": "Monitor weather conditions and adjust flight plans as necessary."
+    },
+    {
+      "duty": "Perform in-flight checks to ensure the aircraft is operating correctly."
+    },
+    {
+      "duty": "Communicate effectively with air traffic control and ground crew."
+    },
+    {
+      "duty": "Maintain accurate records of flight times, fuel consumption, and other data."
+    },
+    {
+      "duty": "Respond quickly and effectively to any emergency situations that may arise."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "FAA pilot's license"
+    },
+    {
+      "credential": "A minimum of 2,000 total time"
+    },
+    {
+      "credential": "A minimum of 500 hours on turbo jet aircraft"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "CAD Designer",
+      "job_category": "Engineering",
+      "job_class": "Designer",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "PCB Design",
+      "experience": 5
+    },
+    {
+      "skill": "Firmware Development",
+      "experience": 5
+    },
+    {
+      "skill": "Analog and Digital Electronics Design",
+      "experience": 5
+    },
+    {
+      "skill": "Embedded Hardware/Software",
+      "experience": 5
+    },
+    {
+      "skill": "Computer-Aided Design",
+      "experience": 5
+    },
+    {
+      "skill": "Prototype Development",
+      "experience": 5
+    },
+    {
+      "skill": "Circuit Design",
+      "experience": 5
+    },
+    {
+      "skill": "Electro-Mechanical Assembly",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Bring concepts into deliverable hardware using CAD design."
+    },
+    {
+      "duty": "Support manufacturing issues related to PCBAs and firmware."
+    },
+    {
+      "duty": "Design circuits, assemblies, and schematics using PCB tools for 3rd party production."
+    },
+    {
+      "duty": "Create analog and digital electronics, including DAC/ADC circuitry and sensor interface."
+    },
+    {
+      "duty": "Develop firmware/software for unmanned vehicle sensors, with a preference for Linux/RTOS."
+    },
+    {
+      "duty": "Build prototypes, perform design verification, and create test plans/procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS in Electrical Engineering (Master's preferred)"
+    }
+  ]
+}

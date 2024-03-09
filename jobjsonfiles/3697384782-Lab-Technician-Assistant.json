@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Lab Technician Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Technician Assistant",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Phlebotomy",
+      "experience": 1
+    },
+    {
+      "skill": "Specimen Processing",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform phlebotomy and technical and clerical functions in the Laboratory."
+    },
+    {
+      "duty": "Handle blood, tissue, fecal matter, sputum, urine, spinal fluid and other body fluids."
+    },
+    {
+      "duty": "Follow established lab guidelines and principles of human growth and development."
+    },
+    {
+      "duty": "Utilize customer focus, teamwork, adaptability to change, problem solving, and communication."
+    },
+    {
+      "duty": "Handle specimens contaminated with infectious diseases including HIV and other blood borne pathogens."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    },
+    {
+      "credential": "6 months - 1 year experience in phlebotomy and/or specimen processing"
+    },
+    {
+      "credential": "Active driver\u2019s license and carry personal auto insurance for those working in a skilled nursing facility setting"
+    }
+  ]
+}

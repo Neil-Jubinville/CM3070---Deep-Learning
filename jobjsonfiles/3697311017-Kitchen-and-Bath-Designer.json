@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Kitchen and Bath Designer",
+      "job_category": "Design",
+      "job_class": "Designer",
+      "sector": "Design",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Design",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Multitasking",
+      "experience": 5
+    },
+    {
+      "skill": "QuickBooks",
+      "experience": 5
+    },
+    {
+      "skill": "Vendor Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Order Management",
+      "experience": 5
+    },
+    {
+      "skill": "Invoicing",
+      "experience": 5
+    },
+    {
+      "skill": "Scheduling",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work directly with clients to help with the design of kitchens and bathrooms, requiring creativity and patience."
+    },
+    {
+      "duty": "Switch gears easily to put in orders, help with invoicing/payments, and work with scheduling installations."
+    }
+  ],
+  "_": {
+    "subjective_elements": [
+      {
+        "soldier_general": 80,
+        "student_teacher": 100,
+        "introvert_extrovert": 60
+      }
+    ],
+    "education_certification": [
+      {
+        "credential": "Bachelor's degree in Design, Interior Design, or a related field (Master's preferred)"
+      }
+    ]
+  }
+}

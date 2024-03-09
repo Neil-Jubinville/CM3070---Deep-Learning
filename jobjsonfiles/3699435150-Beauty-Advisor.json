@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Beauty Advisor",
+      "job_category": "Retail",
+      "job_class": "Advisor",
+      "sector": "Retail",
+      "salary": 18,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 1
+    },
+    {
+      "skill": "Merchandising",
+      "experience": 1
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Retail Operations",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greeting and assisting guests with superior customer service and product knowledge."
+    },
+    {
+      "duty": "Maintaining store cleanliness and restocking products to company standards."
+    },
+    {
+      "duty": "Handling cash transactions, refunds, and exchanges with courtesy and professionalism."
+    },
+    {
+      "duty": "Participating in physical inventory preparation, execution, and follow-up."
+    },
+    {
+      "duty": "Promoting and informing guests of current promotions, events, and services within the store."
+    },
+    {
+      "duty": "Ensuring overall store cleanliness including restrooms, cashwrap, backroom, and sales floor."
+    },
+    {
+      "duty": "Staying informed regarding new or existing products to better serve guests."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma is preferred"
+    }
+  ]
+}

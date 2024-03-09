@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Architect",
+      "job_category": "Data Architecture",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Data Warehousing",
+      "experience": 5
+    },
+    {
+      "skill": "Large-Scale Datasets",
+      "experience": 5
+    },
+    {
+      "skill": "PowerDesigner",
+      "experience": 2
+    },
+    {
+      "skill": "Collibra",
+      "experience": 2
+    },
+    {
+      "skill": "AWS",
+      "experience": 2
+    },
+    {
+      "skill": "Data Engineering",
+      "experience": 2
+    },
+    {
+      "skill": "REST API Development",
+      "experience": 2
+    },
+    {
+      "skill": "Data Governance",
+      "experience": 2
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Decision Making",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Transform business requirements into conceptual, logical, and physical data models which support data deployment architectures across multiple data domains."
+    },
+    {
+      "duty": "Promote and support a data-driven culture of quality, collaboration, rapid delivery, and business impa"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in either Computer Science, Computer Engineering, Software Engineering, MIS, or other IT related discipline."
+    }
+  ]
+}

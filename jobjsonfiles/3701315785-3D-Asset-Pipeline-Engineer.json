@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "3D Asset Pipeline Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Systems Programming",
+      "experience": 5
+    },
+    {
+      "skill": "3D Graphics",
+      "experience": 5
+    },
+    {
+      "skill": "Blender Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "PBR Materials",
+      "experience": 5
+    },
+    {
+      "skill": "3D Asset Optimization",
+      "experience": 3
+    },
+    {
+      "skill": "GLTF Materials",
+      "experience": 3
+    },
+    {
+      "skill": "3ds Max",
+      "experience": 3
+    },
+    {
+      "skill": "V-Ray",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Partner with Applied Research & Engineering teams to deliver new 3D capabilities."
+    },
+    {
+      "duty": "Develop Python tools & pipelines to optimize & manage millions of 3D models."
+    },
+    {
+      "duty": "Automate ray tracing pipelines to produce photo-realistic imagery at high scale."
+    },
+    {
+      "duty": "Create fast CGI render pipelines, producing high-volume data to train AI neural nets."
+    },
+    {
+      "duty": "Develop innovative new cloud-based graphics features & services."
+    },
+    {
+      "duty": "Enhance realism with enhanced materials & render engines."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 20,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering or related field (Master's preferred)"
+    }
+  ]
+}

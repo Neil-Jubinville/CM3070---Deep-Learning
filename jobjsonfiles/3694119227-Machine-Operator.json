@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Machine Operator",
+      "job_category": "Manufacturing",
+      "job_class": "Operator",
+      "sector": "Manufacturing",
+      "salary": 43500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Machine Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 2
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 2
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate and maintain machinery to produce high-quality products according to specifications."
+    },
+    {
+      "duty": "Conduct regular quality control checks to ensure product meets safety and production standards."
+    },
+    {
+      "duty": "Perform routine maintenance on equipment to prevent downtime and maintain efficiency."
+    },
+    {
+      "duty": "Adhere to strict safety procedures and guidelines to minimize workplace hazards."
+    },
+    {
+      "duty": "Demonstrate attention to detail and precision in all aspects of machine operations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent (Technical certification preferred)"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Healthcare",
+      "job_class": "Manager",
+      "sector": "Healthcare",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Radiology",
+      "experience": 5
+    },
+    {
+      "skill": "Interface Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Implementation Management",
+      "experience": 5
+    },
+    {
+      "skill": "Activation Management",
+      "experience": 5
+    },
+    {
+      "skill": "Upgrade Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and manage healthcare projects with a focus on implementation, activation, and upgrades."
+    },
+    {
+      "duty": "Utilize solid radiology experience to drive project success and quality outcomes."
+    },
+    {
+      "duty": "Apply interface knowledge to streamline processes and improve workflow efficiency."
+    },
+    {
+      "duty": "Collaborate with healthcare teams to ensure seamless integration of new systems and solutions."
+    },
+    {
+      "duty": "Facilitate and drive project meetings, ensuring clear communication and effective decision-making."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "PMP Certification in Project Management (Healthcare experience required)"
+    }
+  ]
+}

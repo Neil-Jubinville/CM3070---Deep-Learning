@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Engineering Product Analyst",
+      "job_category": "Engineering",
+      "job_class": "Product Analyst",
+      "sector": "Engineering",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Product Development",
+      "experience": 3
+    },
+    {
+      "skill": "Engineering Design Evaluation",
+      "experience": 3
+    },
+    {
+      "skill": "Product Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Needs Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Software Systems Usage",
+      "experience": 3
+    },
+    {
+      "skill": "Team Training and Mentoring",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, implement, and analyze technical products and systems"
+    },
+    {
+      "duty": "Perform engineering design evaluations and recommend alterations to development and design to improve product quality"
+    },
+    {
+      "duty": "Install, troubleshoot, and maintain products/equipment; identify, analyze, and repair product failures"
+    },
+    {
+      "duty": "Determine and recommend products or services that best fit customers' needs"
+    },
+    {
+      "duty": "Use various software systems and applications to troubleshoot issues and equipment related to network connectivity and configuration"
+    },
+    {
+      "duty": "Train and mentor supported teams"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Engineering or a related field (Master's preferred)"
+    }
+  ]
+}

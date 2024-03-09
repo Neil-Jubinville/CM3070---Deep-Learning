@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Azure Data Factory",
+      "experience": 3
+    },
+    {
+      "skill": "Databricks",
+      "experience": 3
+    },
+    {
+      "skill": "SQL",
+      "experience": 3
+    },
+    {
+      "skill": "Spark Scala",
+      "experience": 3
+    },
+    {
+      "skill": "ADF Template",
+      "experience": 3
+    },
+    {
+      "skill": "Data-at-Scale",
+      "experience": 3
+    },
+    {
+      "skill": "YAML Configuration",
+      "experience": 3
+    },
+    {
+      "skill": "Oracle Stored Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Airflow Scheduling",
+      "experience": 3
+    },
+    {
+      "skill": "Spark Framework Development",
+      "experience": 3
+    },
+    {
+      "skill": "API Development",
+      "experience": 3
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 3
+    },
+    {
+      "skill": "Azure APIs Integration",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and deploy ADF pipelines."
+    },
+    {
+      "duty": "Develop SQLs from requirement documentation."
+    },
+    {
+      "duty": "Design and implement YAML configurations for Spark framework."
+    },
+    {
+      "duty": "Work with Oracle Stored Procedures and Airflow scheduling."
+    },
+    {
+      "duty": "Develop reusable Spark framework."
+    },
+    {
+      "duty": "Develop and integrate APIs from Spark Scala."
+    },
+    {
+      "duty": "Enhance existing framework with JavaScript to integrate with Azure APIs."
+    }
+  ]
+}

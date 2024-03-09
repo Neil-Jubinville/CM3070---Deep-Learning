@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Scribe",
+      "job_category": "Healthcare",
+      "job_class": "Scribe",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Terminology",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Note-taking",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Proficiency",
+      "experience": 3
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 3
+    },
+    {
+      "skill": "Typing (50+ WPM)",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide scribe services in an Emergency Department at the direction of a Physician or Advanced Practice Provider."
+    },
+    {
+      "duty": "Document the provider\u2019s previously determined dictation and/or activities in the electronic medical record (EMR)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree preferred (or verification that degree is in progress)"
+    }
+  ]
+}

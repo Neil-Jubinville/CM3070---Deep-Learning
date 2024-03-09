@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Clinical Nurse",
+      "job_category": "Nursing",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Advocacy",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Health Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Interdisciplinary Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Cultural Awareness",
+      "experience": 5
+    },
+    {
+      "skill": "Team-Oriented Environment",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Solution-Focused",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain the highest quality of care and patient advocacy in an evidence-based nursing environment."
+    },
+    {
+      "duty": "Collaborate with healthcare teams to develop and update individualized care plans and manage care delivery."
+    },
+    {
+      "duty": "Ensure timely implementation of physician orders and integrate patient care standards in all clinical activities."
+    },
+    {
+      "duty": "Promote a supportive and team-oriented environment that aligns with the hospital's mission, vision, and values."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BSN from an accredited school of nursing required, 1+ years\u2019 of acute care experience, NYS RN license and registration, BLS certification, HCAHPS/EPIC knowledge preferred"
+    }
+  ]
+}

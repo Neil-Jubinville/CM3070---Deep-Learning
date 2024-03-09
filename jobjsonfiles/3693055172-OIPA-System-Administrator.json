@@ -1,0 +1,116 @@
+{
+  "meta": [
+    {
+      "job_title": "OIPA System Administrator",
+      "job_category": "IT",
+      "job_class": "Administrator",
+      "sector": "IT",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Oracle DB Support/Administration",
+      "experience": 4
+    },
+    {
+      "skill": "Oracle WebLogic, IBM WebSphere, Redhat JBoss, Tomcat, Coherence",
+      "experience": 5
+    },
+    {
+      "skill": "Linux System Administration",
+      "experience": 5
+    },
+    {
+      "skill": "CRON Jobs",
+      "experience": 5
+    },
+    {
+      "skill": "System Alerts",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting Tools - Python",
+      "experience": 5
+    },
+    {
+      "skill": "Cherwell and Service Now Ticketing Applications",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle Exalogic and Exadata",
+      "experience": 5
+    },
+    {
+      "skill": "Data Migration and Management",
+      "experience": 5
+    },
+    {
+      "skill": "Terminal Emulation Software (e.g., Putty)",
+      "experience": 5
+    },
+    {
+      "skill": "Docker Images/Kubernetes for WebLogic and TomEE",
+      "experience": 5
+    },
+    {
+      "skill": "Cycle and DI Monitoring/Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "OIPA v10 or v11",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle SOA, MuleSoft, BPM",
+      "experience": 5
+    },
+    {
+      "skill": "AWS and Oracle OCI Cloud Computing",
+      "experience": 5
+    },
+    {
+      "skill": "Insurance Life and Health Products Knowledge",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Monitor, analyze, and configure the OIPA Application and Database Servers to ensure optimal performance."
+    },
+    {
+      "duty": "Tune database and application servers for optimal performance, including clustering, CPU, memory, and thread pool recommendations."
+    },
+    {
+      "duty": "Design infrastructure environments and produce system design specification documents."
+    },
+    {
+      "duty": "Review and design security requirements based on business user requirements and support complex deployments and migrations."
+    },
+    {
+      "duty": "Assess short/long-term design implications to impact the effective and efficient operations of the OIPA and the PAS ecosystem."
+    },
+    {
+      "duty": "Identify, recommend, and implement standardization and consolidation opportunities."
+    },
+    {
+      "duty": "Manage multiple development designs and projects to meet project and customer required timelines and participate in project meetings."
+    },
+    {
+      "duty": "Train and mentor other team members."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Actuarial Science, Math, Statistics, Finance, Computer Science, or equivalent experience."
+    }
+  ]
+}

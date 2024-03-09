@@ -1,0 +1,47 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 7
+    },
+    {
+      "skill": "Java",
+      "experience": 7
+    },
+    {
+      "skill": "ETL",
+      "experience": 7
+    },
+    {
+      "skill": "Hadoop",
+      "experience": 7
+    },
+    {
+      "skill": "Spark",
+      "experience": 7
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Migrate existing data pipelines and create new data pipelines in a cloud environment."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Hospital Manager",
+      "job_category": "Healthcare",
+      "job_class": "Manager",
+      "sector": "Veterinary",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Operational Budgeting",
+      "experience": 5
+    },
+    {
+      "skill": "Management Policy Development",
+      "experience": 5
+    },
+    {
+      "skill": "Client Service Resolution",
+      "experience": 5
+    },
+    {
+      "skill": "Staff Management",
+      "experience": 5
+    },
+    {
+      "skill": "HR Policies and Protocol Development",
+      "experience": 5
+    },
+    {
+      "skill": "Reporting and Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service Strategies",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and manage the overall operations of the veterinary hospital, including staff management and planning."
+    },
+    {
+      "duty": "Develop and implement hospital policy, compliance, and quality checks."
+    },
+    {
+      "duty": "Participate in client service resolution and drive strategic client communication and marketing efforts."
+    },
+    {
+      "duty": "Manage accounts receivable, cash on hand, and hospital inventory, ensuring cost control."
+    },
+    {
+      "duty": "Ensure payroll accuracy, perform invoice audit reviews, and manage facility and administrative costs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in business or related degree is preferred. 3-5 years of experience in a manager role, including customer service experience. Experience in a hospital setting in positions of increased responsibility is a plus."
+    }
+  ]
+}

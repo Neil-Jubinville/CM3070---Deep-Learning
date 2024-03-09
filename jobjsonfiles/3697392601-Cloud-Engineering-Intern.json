@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Cloud Engineering Intern",
+      "job_category": "Engineering",
+      "job_class": "Intern",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work with compute platforms in a datacenter environment to seek out different failure mechanisms, predictability, and their effect on the overall system environment."
+    },
+    {
+      "duty": "Support system-level DRAM validation, system characterization, and failure analysis in the Cloud space."
+    },
+    {
+      "duty": "Analyze different DRAM architectures to improve correctability."
+    },
+    {
+      "duty": "Run and configure diagnostic software, system debug, design experiments, and analyze/interpret data."
+    },
+    {
+      "duty": "Craft custom tools and communicate data to customers both inside and outside the organization."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Compute Platform Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Failure Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "DRAM Validation",
+      "experience": 2
+    },
+    {
+      "skill": "System Characterization",
+      "experience": 2
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Diagnostic Software",
+      "experience": 2
+    },
+    {
+      "skill": "System Debug",
+      "experience": 2
+    },
+    {
+      "skill": "Experiment Design",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Linux OS",
+      "experience": 2
+    },
+    {
+      "skill": "Scripting/Programming",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Junior Level in Electrical Engineering, Computer Engineering, or related Engineering Field"
+    }
+  ]
+}

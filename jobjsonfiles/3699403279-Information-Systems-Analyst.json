@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Information Systems Analyst",
+      "job_category": "Information Technology",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 3
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Excel",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Systems Analysis",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Test the system's limits, find the leaks, and fix them."
+    },
+    {
+      "duty": "Organize, analyze, and present complex data."
+    },
+    {
+      "duty": "Master every aspect of the system and troubleshoot any issues."
+    },
+    {
+      "duty": "Bridge the communication gap between technical and non-technical team members."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100
+    },
+    {
+      "student_teacher": 80
+    },
+    {
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in Computer Science or related field"
+    }
+  ]
+}

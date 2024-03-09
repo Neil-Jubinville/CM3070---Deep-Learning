@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Case Manager",
+      "job_category": "Social Work",
+      "job_class": "Manager",
+      "sector": "Healthcare",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Social Work",
+      "experience": 5
+    },
+    {
+      "skill": "Case Management",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Navigation",
+      "experience": 5
+    },
+    {
+      "skill": "Elderly Care",
+      "experience": 5
+    },
+    {
+      "skill": "Disability Services",
+      "experience": 5
+    },
+    {
+      "skill": "Crisis Intervention",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Advocacy",
+      "experience": 5
+    },
+    {
+      "skill": "Care Coordination",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide in-home case management and assistance for elderly and disabled individuals in the West Alabama region."
+    },
+    {
+      "duty": "Coordinate and navigate healthcare resources and services for clients in need."
+    },
+    {
+      "duty": "Advocate for and support clients in accessing state and community-based assistance programs."
+    },
+    {
+      "duty": "Collaborate with healthcare professionals, family members, and other stakeholders to ensure comprehensive care for clients."
+    },
+    {
+      "duty": "Conduct assessments, create care plans, and monitor the wellbeing of clients on a regular basis."
+    },
+    {
+      "duty": "Maintain accurate documentation and adhere to ethical and legal standards in all aspects of case management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Social Work, Nursing, or a closely related field (RN qualification accepted)"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Vaccination Administration",
+      "experience": 2
+    },
+    {
+      "skill": "Immunization Management",
+      "experience": 2
+    },
+    {
+      "skill": "Clinical Supplies Management",
+      "experience": 3
+    },
+    {
+      "skill": "Healthcare Compliance",
+      "experience": 4
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Administer flu vaccinations to corporate employees."
+    },
+    {
+      "duty": "Manage and organize clinic supplies at the site location."
+    },
+    {
+      "duty": "Ensure compliance with vaccination regulations and customer requirements."
+    },
+    {
+      "duty": "Work in a cohesive team environment with other healthcare professionals."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing, required vaccination experience"
+    }
+  ]
+}

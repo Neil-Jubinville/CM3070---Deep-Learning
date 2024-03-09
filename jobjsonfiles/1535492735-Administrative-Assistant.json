@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Administrative Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Administration",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Excel",
+      "experience": 3
+    },
+    {
+      "skill": "QuickBooks",
+      "experience": 3
+    },
+    {
+      "skill": "MS Office",
+      "experience": 3
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Task Management",
+      "experience": 3
+    },
+    {
+      "skill": "Administrative Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Answering phone calls and emails"
+    },
+    {
+      "duty": "Written communication such as compiling reports, memos, faxes, and other documents"
+    },
+    {
+      "duty": "Developing and distributing internal communications"
+    },
+    {
+      "duty": "Using problem-solving skills to resolve office-related issues"
+    },
+    {
+      "duty": "Managing employee expense processes"
+    },
+    {
+      "duty": "Managing Per Diems"
+    },
+    {
+      "duty": "Help with payroll and monitoring employees times"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ]
+}

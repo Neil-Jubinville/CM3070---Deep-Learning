@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "CDL A Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Transportation",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Class A CDL",
+      "experience": 5
+    },
+    {
+      "skill": "HAZMAT Endorsement",
+      "experience": 5
+    },
+    {
+      "skill": "Airbrake Endorsement",
+      "experience": 5
+    },
+    {
+      "skill": "Vehicle Inspection",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Material Handling",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform pre-trip and post-trip vehicle inspections"
+    },
+    {
+      "duty": "Load and unload truck daily with gas cylinders & supplies"
+    },
+    {
+      "duty": "Maintain courteous & professional relationships with customers"
+    },
+    {
+      "duty": "Make deliveries in a timely manner"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid Class A CDL with HAZMAT & Airbrake endorsements"
+    }
+  ]
+}

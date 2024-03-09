@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_class": "Engineer",
+      "job_category": "Software Engineering",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "C++",
+      "experience": 5
+    },
+    {
+      "skill": "Qt",
+      "experience": 5
+    },
+    {
+      "skill": "Linux Development",
+      "experience": 3
+    },
+    {
+      "skill": "Embedded Systems",
+      "experience": 3
+    },
+    {
+      "skill": "ROS Development",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop new software for user experience (UX) and enhanced functionality for collaborative robotics."
+    },
+    {
+      "duty": "Work closely with the engineering team, product management, service, and end users to evolve user experience and functionality."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in Software Engineering, Computer Science/Engineering, or related field required with 2-5 years of industry experience."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Mobile Building Technician",
+      "job_category": "Real Estate",
+      "job_class": "Technician",
+      "sector": "Property Management",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HVAC Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Carpentry",
+      "experience": 4
+    },
+    {
+      "skill": "Painting",
+      "experience": 4
+    },
+    {
+      "skill": "Plumbing",
+      "experience": 4
+    },
+    {
+      "skill": "Electrical",
+      "experience": 4
+    },
+    {
+      "skill": "Roofing",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Travel to multiple properties to perform building maintenance and repairs using personal truck/SUV/van."
+    },
+    {
+      "duty": "Coordinate tenant improvements, capital improvements, and routine maintenance projects with property management teams."
+    },
+    {
+      "duty": "Perform preventative maintenance and corrective repair of buildings, industrial systems, building equipment, and grounds using various trade skills."
+    },
+    {
+      "duty": "Monitor building system operations, direct vendors and subcontractors, and inspect work performed by HVAC, plumbing, and electrical contractors."
+    },
+    {
+      "duty": "Inspect building systems including fire alarms, HVAC, and plumbing to ensure optimal operation of equipment."
+    },
+    {
+      "duty": "Implement a preventative maintenance program, maintain building lighting systems, and consult with property management teams to schedule preventative maintenance and other downtime projects."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma and two (2) years of progressively responsible experience in mechanical maintenance related field. Previous experience in HVAC and Universal CFC certification required. Additional certification in two or more of the following: HVAC, electrical, mechanical, HVAC and refrigeration systems, process controls, mechanical power transmission, painting, plumbing, carpentry or engine repair. BOMI - SMA/SMT preferred."
+    }
+  ]
+}

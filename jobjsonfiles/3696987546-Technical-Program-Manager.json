@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Program Manager",
+      "job_category": "Engineering",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 250000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CPU Engineering",
+      "experience": 10
+    },
+    {
+      "skill": "CPU Program Management",
+      "experience": 10
+    },
+    {
+      "skill": "Leadership",
+      "experience": 7
+    },
+    {
+      "skill": "Project Management",
+      "experience": 7
+    },
+    {
+      "skill": "Processor Micro-architecture",
+      "experience": 10
+    },
+    {
+      "skill": "Emulation Technologies",
+      "experience": 7
+    },
+    {
+      "skill": "ARM Instruction Set Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Power and Thermal Constraints",
+      "experience": 5
+    },
+    {
+      "skill": "CPU Benchmarks",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Drive inter-discipline discussions at the project level. Coordinate among architecture, design, design verification, emulation, and physical design teams."
+    },
+    {
+      "duty": "Coordinate regular communication meetings at various levels and across multiple geographical locations. Ensure smooth operation of well-functioning programs."
+    },
+    {
+      "duty": "Host issue triage and resolution meetings at the project level. Create and track issues to satisfactory closure. Ensure programs are executed at the best possible level for quality and schedule."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electrical Engineering, Computer Science, or equivalent practical experience (Master's preferred)"
+    }
+  ]
+}

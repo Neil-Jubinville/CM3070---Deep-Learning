@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Foreman",
+      "job_category": "Construction",
+      "job_class": "Supervisor",
+      "sector": "Construction",
+      "salary": 27,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Building Construction",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Operation",
+      "experience": 5
+    },
+    {
+      "skill": "Landscape Design",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee and assist in all on-site aspects of landscape projects."
+    },
+    {
+      "duty": "Prepare jobsites prior to the beginning of a project."
+    },
+    {
+      "duty": "Manage the execution of landscape projects, planning labor requirements, equipment requirements, and material deliveries to ensure completion within project deadlines."
+    },
+    {
+      "duty": "Delegate job tasks to crew members to assist in the completion of landscape constructions."
+    },
+    {
+      "duty": "Read and interpret blueprints, structural drawings, and specifications to delegate/complete work activities."
+    },
+    {
+      "duty": "Maintain and enforce standards of cleanliness and organization in assigned trucks, trailers, equipment, jobsites, and shop/yard areas."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma, GED or equivalent"
+    }
+  ]
+}

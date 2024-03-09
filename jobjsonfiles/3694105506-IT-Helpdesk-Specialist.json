@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Helpdesk Specialist",
+      "job_category": "IT",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 65000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "PC Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Networking",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Active Directory",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Suite",
+      "experience": 3
+    },
+    {
+      "skill": "Group Policy Management",
+      "experience": 3
+    },
+    {
+      "skill": "Windows Scripting",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Support",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide support over the phone, through remote access, and in person to company employees."
+    },
+    {
+      "duty": "Configure, troubleshoot, and support desktops, laptops, printers, phones, etc."
+    },
+    {
+      "duty": "Provide support for email, enterprise applications, and web applications."
+    },
+    {
+      "duty": "Respond to and resolve submitted work orders within the IT helpdesk queue."
+    },
+    {
+      "duty": "Create and manage accounts in Active Directory and manage Cloud services."
+    },
+    {
+      "duty": "Perform Windows Scripting using common scripting languages."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certifications (Microsoft, CompTIA, Cisco, etc.) required, without above work experience."
+    }
+  ]
+}

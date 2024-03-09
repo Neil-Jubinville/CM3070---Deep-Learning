@@ -1,0 +1,45 @@
+{
+  "meta": [
+    {
+      "job_title": "Restaurant Crewmember",
+      "job_category": "Food Service",
+      "job_class": "Crewmember",
+      "sector": "Hospitality",
+      "salary": 12,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Serve customers and process payments efficiently"
+    },
+    {
+      "duty": "Maintain cleanliness of the restaurant, including tables and floors"
+    },
+    {
+      "duty": "Take orders from customers and provide quick and friendly service"
+    },
+    {
+      "duty": "Follow proper safety procedures when handling and preparing food"
+    },
+    {
+      "duty": "Ability to multitask and work under pressure at a fast pace"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    }
+  ],
+  "subjective_elements": [
+    {
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "No specific education or certification required, entry-level position"
+    }
+  ]
+}

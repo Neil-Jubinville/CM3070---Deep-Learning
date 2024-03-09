@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Respiratory Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Ventilation Management",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-solving skills",
+      "experience": 5
+    },
+    {
+      "skill": "Compassion",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal/Communication skills",
+      "experience": 5
+    },
+    {
+      "skill": "Emotional stability",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform chest examinations"
+    },
+    {
+      "duty": "Consult with doctors and other healthcare staff to develop and modify patient treatment plans"
+    },
+    {
+      "duty": "Provide detailed therapy, requiring significant independent judgment, like when caring for patients in intensive care"
+    },
+    {
+      "duty": "Perform physical examination and diagnostic tests measuring lung capacity and blood acidity and alkalinity"
+    },
+    {
+      "duty": "Treat patients using oxygen or oxygen mixtures, aerosol medications and chest physiotherapy"
+    },
+    {
+      "duty": "Connect patients who can\u2019t breathe to a ventilator"
+    },
+    {
+      "duty": "Educate patients on how to use equipment and medication"
+    },
+    {
+      "duty": "Regularly check on patients and equipment"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 20,
+      "student_teacher": 100,
+      "introvert_extrovert": 20
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate or Bachelor\u2019s Degree from an accredited institution"
+    },
+    {
+      "credential": "Certified Respiratory Therapist (CRT)"
+    },
+    {
+      "credential": "Registered Respiratory Therapist (Preferred)"
+    },
+    {
+      "credential": "Current OR Respiratory Therapist License"
+    },
+    {
+      "credential": "CPR Certified"
+    },
+    {
+      "credential": "BLS through American Heart Association"
+    }
+  ]
+}

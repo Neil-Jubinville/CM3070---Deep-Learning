@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Delivery Driver",
+      "job_category": "Logistics",
+      "job_class": "Driver",
+      "sector": "Transportation",
+      "salary": 84500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Commercial Truck Driving",
+      "experience": 1
+    },
+    {
+      "skill": "Foodservice Delivery",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Manual Lifting",
+      "experience": 3
+    },
+    {
+      "skill": "CDL A License",
+      "experience": 1
+    },
+    {
+      "skill": "DOT Regulations",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver customer orders on time and ensure product quality and accuracy."
+    },
+    {
+      "duty": "Operate delivery truck and unload products with a hand truck."
+    },
+    {
+      "duty": "Perform manual heavy lifting and make frequent stops during work shift."
+    },
+    {
+      "duty": "Collect payments and maintain accurate delivery records."
+    },
+    {
+      "duty": "Maintain compliance with DOT regulations and FMCSA Clearinghouse requirements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid CDL A with necessary endorsements and DOT qualifications."
+    }
+  ]
+}

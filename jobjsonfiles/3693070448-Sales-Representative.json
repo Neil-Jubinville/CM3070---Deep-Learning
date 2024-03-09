@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Engage with potential clients who have requested services through the company's marketing program."
+    },
+    {
+      "duty": "Achieve sales targets and quotas by presenting clients with suitable financial and insurance products."
+    },
+    {
+      "duty": "Participate in company-provided training and coaching to enhance sales skills and product knowledge."
+    },
+    {
+      "duty": "Build and maintain positive relationships with clients, providing guidance and support for their financial planning."
+    },
+    {
+      "duty": "Identify and pursue opportunities for business growth and client acquisition."
+    },
+    {
+      "duty": "Collaborate with team members and contribute to the overall success of the sales team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent (Bachelor's degree preferred)"
+    }
+  ]
+}

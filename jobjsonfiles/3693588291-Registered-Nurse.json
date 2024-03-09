@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Registered Nursing",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Life Support (BLS)",
+      "experience": 1
+    },
+    {
+      "skill": "Cardiopulmonary Resuscitation (CPR)",
+      "experience": 1
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 1
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 1
+    },
+    {
+      "skill": "Nursing Protocol",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide nursing care and procedures according to physicians orders and nursing protocol."
+    },
+    {
+      "duty": "Administer medication according to the physician's orders and protocol."
+    },
+    {
+      "duty": "Evaluate possible side effects and the overall effectiveness of medication."
+    },
+    {
+      "duty": "Perform BLS (Basic Life support), CPR (cardiopulmonary resuscitation), and other emergency responses."
+    },
+    {
+      "duty": "Participate in emergency response setting."
+    },
+    {
+      "duty": "Must be able to lift up to 50 lbs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Currently licensed as a Registered Nurse in the State of Tennessee or holds a privilege to practice in the State of Tennessee under the Nurse Licensure Compact (NLC)."
+    }
+  ]
+}

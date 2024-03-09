@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Plan, monitor, and provide nursing care to the residents within the facility."
+    },
+    {
+      "duty": "Work within their entire scope of practice, ensuring competent care and safety for all residents."
+    },
+    {
+      "duty": "Provide bedside care, administer medications, take vital signs, and record in electronic medical files."
+    },
+    {
+      "duty": "Assist with resident comfort and provide guidance for nursing assistants."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Vital Signs Monitoring",
+      "experience": 5
+    },
+    {
+      "skill": "Electronic Medical Record Keeping",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Comfort Assistance",
+      "experience": 5
+    },
+    {
+      "skill": "Team Guidance",
+      "experience": 5
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current, unencumbered license to practice as a Registered Nurse (RN) in the state of Massachusetts"
+    },
+    {
+      "credential": "Current first aid and CPR certifications"
+    }
+  ]
+}

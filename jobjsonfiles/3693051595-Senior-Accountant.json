@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Accountant",
+      "job_category": "Accounting",
+      "job_class": "Senior",
+      "sector": "Finance",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting Processes",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Budgeting",
+      "experience": 5
+    },
+    {
+      "skill": "Auditing",
+      "experience": 5
+    },
+    {
+      "skill": "Computer Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepares financial statements including the calculation, write-up, and posting of all journal entries."
+    },
+    {
+      "duty": "Maintains a high degree of working knowledge of applicable funding source regulations and requirements."
+    },
+    {
+      "duty": "Prepares annual budgets and periodic projections for assigned programs."
+    },
+    {
+      "duty": "Prepares documents and schedules for internal and external audits as requested."
+    },
+    {
+      "duty": "Performs other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science in Accounting or Finance. Minimum 5 years relevant experience."
+    }
+  ]
+}

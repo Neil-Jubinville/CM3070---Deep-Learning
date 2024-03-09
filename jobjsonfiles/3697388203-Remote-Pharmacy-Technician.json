@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Remote Pharmacy Technician",
+      "job_category": "Pharmacy",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 45000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Pharmacy Technician License",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 2
+    },
+    {
+      "skill": "Multilingual (Chinese, Korean, Spanish, or Vietnamese)",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage inbound and outbound patient calls and inquiries."
+    },
+    {
+      "duty": "Conduct patient interviews and create accurate, comprehensive medication lists."
+    },
+    {
+      "duty": "Coordinate clinical service visits between pharmacists and patients."
+    },
+    {
+      "duty": "Ensure call resolution by discussing the purpose of the call, effectively addressing all concerns, and escalating calls as necessary according to protocol."
+    },
+    {
+      "duty": "Manage challenging patient situations by responding promptly to patient needs and service requests."
+    },
+    {
+      "duty": "Embrace a continuous quality improvement approach by proactively identifying areas of improvement and communicating those ideas to the clinical services team."
+    },
+    {
+      "duty": "Conduct follow-up evaluations with patients and participate in other activities as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current Pharmacy Technician (CPhT) or Medical Assistant Certification"
+    },
+    {
+      "credential": "Patient Care Experience Required"
+    },
+    {
+      "credential": "Licensed in USA"
+    },
+    {
+      "credential": "Fluency in multiple languages is a bonus"
+    }
+  ]
+}

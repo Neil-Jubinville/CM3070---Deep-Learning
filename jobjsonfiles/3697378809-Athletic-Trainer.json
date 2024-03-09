@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Athletic Trainer",
+      "job_category": "Healthcare",
+      "job_class": "Trainer",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sports Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "Injury Prevention",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Program Development",
+      "experience": 5
+    },
+    {
+      "skill": "Budget Management",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Physical Therapy",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement sports medicine programs, injury prevention, evaluation, treatment, and rehabilitation"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 90,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's Degree in Athletic training required, Certified by National Athletic trainers' Associate Board of Certification, NYS Licensed Athletic Trainer"
+    }
+  ]
+}

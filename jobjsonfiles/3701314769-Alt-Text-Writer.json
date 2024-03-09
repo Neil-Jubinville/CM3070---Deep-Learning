@@ -1,0 +1,50 @@
+{
+  "meta": [
+    {
+      "job_title": "Alt-Text Writer",
+      "job_category": "Writing",
+      "job_class": "Writer",
+      "sector": "Education",
+      "salary": 45000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "English Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Spanish Writing",
+      "experience": 3
+    },
+    {
+      "skill": "Content Editing",
+      "experience": 4
+    },
+    {
+      "skill": "Adaptability",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Write short, literal descriptions for images in educational products to be read by screen-reading programs."
+    },
+    {
+      "duty": "Analyze images and surrounding text to determine the best approach for image descriptions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in English, Literature, Spanish, or Writing"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Tech Support Engineer",
+      "job_category": "Information Technology",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 67500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "AJAX",
+      "experience": 5
+    },
+    {
+      "skill": "AngularJS",
+      "experience": 5
+    },
+    {
+      "skill": "CSS",
+      "experience": 5
+    },
+    {
+      "skill": "XML",
+      "experience": 5
+    },
+    {
+      "skill": "HTML",
+      "experience": 5
+    },
+    {
+      "skill": "XHTML",
+      "experience": 5
+    },
+    {
+      "skill": "Web Application Development",
+      "experience": 5
+    },
+    {
+      "skill": "MySQL",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Resolve difficult technical issues through effective troubleshooting."
+    },
+    {
+      "duty": "Utilize object-oriented programming skills in Java/JavaScript for software development."
+    },
+    {
+      "duty": "Work with dynamic HTML components, including AJAX, JavaScript, AngularJS, CSS, XML, HTML, and XHTML."
+    },
+    {
+      "duty": "Apply knowledge of web application stack components for development and maintenance."
+    },
+    {
+      "duty": "Manage and work with relational databases, such as MySQL, for data storage and retrieval."
+    }
+  ]
+}

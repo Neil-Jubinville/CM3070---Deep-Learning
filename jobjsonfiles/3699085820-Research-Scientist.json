@@ -1,0 +1,96 @@
+{
+  "meta": [
+    {
+      "job_title": "Research Scientist",
+      "job_category": "Science",
+      "job_class": "Research",
+      "sector": "Pharmaceutical Sciences",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Organic Chemistry",
+      "experience": 5
+    },
+    {
+      "skill": "Medicinal Chemistry",
+      "experience": 5
+    },
+    {
+      "skill": "Research Publication",
+      "experience": 5
+    },
+    {
+      "skill": "Assay Development",
+      "experience": 5
+    },
+    {
+      "skill": "Laboratory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Manuscript Preparation",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    },
+    {
+      "skill": "Record Keeping",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, synthesize, and purify small-molecules."
+    },
+    {
+      "duty": "Characterize small-molecules using chemical techniques (e.g., NMR, MS) and/or in vitro receptor assays."
+    },
+    {
+      "duty": "Keep accurate records of experiments."
+    },
+    {
+      "duty": "Prepare written manuscripts, operating procedures, and patent applications."
+    },
+    {
+      "duty": "Participate in weekly group meeting discussions and presentations."
+    },
+    {
+      "duty": "Mentor undergraduate and graduate students."
+    },
+    {
+      "duty": "Assist in the maintenance of laboratory supplies and instrumentation."
+    },
+    {
+      "duty": "Comply with University & Department safety policies."
+    },
+    {
+      "duty": "Perform other related duties and participate in special projects as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "PhD degree in chemistry, medicinal chemistry, chemical biology, or a related discipline."
+    },
+    {
+      "credential": "Previous publications in the field of chemistry."
+    },
+    {
+      "credential": "Previous experience in planning and conducting complex, multi-step organic synthesis."
+    },
+    {
+      "credential": "Previous experience conducting assays for GPCR and/or ion channels."
+    }
+  ]
+}

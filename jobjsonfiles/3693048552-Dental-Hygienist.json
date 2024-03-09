@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Dental Hygienist",
+      "job_category": "Healthcare",
+      "job_class": "Hygienist",
+      "sector": "Healthcare",
+      "salary": 83200,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Oral Health",
+      "experience": 3
+    },
+    {
+      "skill": "Dental Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Health and Safety Regulations",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Sterilization",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Helps treat patients of all ages and promotes good oral health practices"
+    },
+    {
+      "duty": "Creates a welcoming and soothing environment for every patient"
+    },
+    {
+      "duty": "Conducts initial oral screenings"
+    },
+    {
+      "duty": "Cleans and helps protect patients\u2019 teeth (e.g. removing plaque or applying fluoride)"
+    },
+    {
+      "duty": "Helps dentists decide treatments for teeth or gum diseases and handle dental emergencies"
+    },
+    {
+      "duty": "Sterilizes dental instruments properly"
+    },
+    {
+      "duty": "Takes X-rays or dental impressions"
+    },
+    {
+      "duty": "Maintains documentation and charts on each patient"
+    },
+    {
+      "duty": "Monitors supplies"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of accredited dental hygiene program and valid Dental Hygiene License recognized in the State of Hawaii"
+    }
+  ]
+}

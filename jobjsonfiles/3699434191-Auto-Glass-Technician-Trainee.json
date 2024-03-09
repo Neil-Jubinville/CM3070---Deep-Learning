@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Auto Glass Technician Trainee",
+      "job_category": "Installation & Maintenance",
+      "job_class": "Trainee",
+      "sector": "Technical",
+      "salary": 34000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Problem-solving",
+      "experience": 1
+    },
+    {
+      "skill": "Automotive Safety Systems",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Mechanical Ability",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Learn to install and repair auto glass, recalibrate car safety systems, and provide additional services and products."
+    },
+    {
+      "duty": "Study and pass testing to become a Certified Technician, demonstrating proficiency in installations and following taught techniques."
+    },
+    {
+      "duty": "Safely operate a company vehicle and company-issued tools throughout the workday."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma/GED/equivalent preferred; ability to read & write"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Barista",
+      "job_category": "Hospitality",
+      "job_class": "Entry Level",
+      "sector": "Hospitality",
+      "salary": 28000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Brewing Equipment Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Beverage Recipes",
+      "experience": 2
+    },
+    {
+      "skill": "Time Management",
+      "experience": 2
+    },
+    {
+      "skill": "Reliability",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Coffee Artistry",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Taking guest orders and making menu recommendations as our go-to coffee expert"
+    },
+    {
+      "duty": "Preparing and serving a wide variety of hot, cold, artisan and speciality beverages"
+    },
+    {
+      "duty": "Receiving and processing guest payments"
+    },
+    {
+      "duty": "Keeping us well-supplied by ordering, receiving, and distributing essential stock"
+    },
+    {
+      "duty": "Helping set exceptional cleanliness standards across all work areas and equipment"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Hands-on experience with brewing equipment"
+    }
+  ]
+}

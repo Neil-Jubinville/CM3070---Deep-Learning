@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Automation Test Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Core Java",
+      "experience": 5
+    },
+    {
+      "skill": "Banking Liquidity Domain Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Selenium",
+      "experience": 5
+    },
+    {
+      "skill": "Automation Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Mindset (TDD, BDD)",
+      "experience": 5
+    },
+    {
+      "skill": "Functional Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Java - Selenium",
+      "experience": 5
+    },
+    {
+      "skill": "API Testing (Rest Assured)",
+      "experience": 5
+    },
+    {
+      "skill": "Batch Job Testing",
+      "experience": 5
+    },
+    {
+      "skill": "PLSQL (Oracle DB)",
+      "experience": 3
+    },
+    {
+      "skill": "Mongo DB",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and execute comprehensive automated test suites for Java-based applications with a focus on Selenium automation."
+    },
+    {
+      "duty": "Utilize automation tools and frameworks to conduct functional testing and ensure the quality of software products."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to implement and improve Agile testing methodologies such as TDD and BDD."
+    },
+    {
+      "duty": "Design and execute API tests using tools like Rest Assured to validate the functionality of API endpoints."
+    },
+    {
+      "duty": "Test and validate batch jobs to ensure data accuracy and system stability."
+    },
+    {
+      "duty": "Utilize PLSQL for database testing and validation, with exposure to document database Mongo DB."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

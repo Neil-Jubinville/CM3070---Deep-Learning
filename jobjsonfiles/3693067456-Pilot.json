@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Pilot",
+      "job_category": "Aviation",
+      "job_class": "Pilot",
+      "sector": "Air Transportation",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Aviation Operations",
+      "experience": 10
+    },
+    {
+      "skill": "Flight Planning",
+      "experience": 10
+    },
+    {
+      "skill": "Aircraft Maintenance",
+      "experience": 10
+    },
+    {
+      "skill": "Multi-Engine Aircraft Operation",
+      "experience": 10
+    },
+    {
+      "skill": "International Flight Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Simulator Training",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensure the safe and effective operation of the company aircraft in the air transportation of personnel."
+    },
+    {
+      "duty": "Conduct pre and post-flight inspections, and secure necessary supplies for the trip."
+    },
+    {
+      "duty": "Maintain a clean passenger compartment and apprise maintenance staff of scheduled maintenance or service problems/needs."
+    },
+    {
+      "duty": "File flight plans and attend recurrent simulator training annually."
+    },
+    {
+      "duty": "Willingness to work irregular schedules to maintain a '24/7' on-call status."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 40,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Airline Transport Pilot (ATP) rating preferred."
+    },
+    {
+      "credential": "CJ3 (C-525) Type Rating or willingness to obtain."
+    },
+    {
+      "credential": "Valid passport with the ability to fly internationally to Canada if necessary."
+    },
+    {
+      "credential": "Minimum of 3,000 hours of flight time, including 1,000 hours of multi-engine experience."
+    },
+    {
+      "credential": "Multi-engine rating required."
+    }
+  ]
+}

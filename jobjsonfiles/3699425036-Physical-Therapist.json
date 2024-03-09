@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Physical Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Licensed Physical Therapy",
+      "experience": 5
+    },
+    {
+      "skill": "Bachelors Degree",
+      "experience": 5
+    },
+    {
+      "skill": "Basic Cardiac Life Support",
+      "experience": 5
+    },
+    {
+      "skill": "CPR for Healthcare Providers",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Assessments",
+      "experience": 5
+    },
+    {
+      "skill": "Therapeutic Care",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide evaluations and treatment interventions within the scope of practice established by law and professional code of ethics."
+    },
+    {
+      "duty": "Assess and evaluate therapeutic/rehabilitative/functional status and participate in the development of the total plan of care."
+    },
+    {
+      "duty": "Provide purposeful and skilled therapeutic care at patient\u2019s home, using procedures and techniques to produce a change in condition/function consistent with the physician\u2019s plan of care."
+    },
+    {
+      "duty": "Instruct patient/family/caregiver in the use of therapies, exercises, therapeutic appliances, and/or prosthetic devices to be used outside of therapy sessions."
+    },
+    {
+      "duty": "Prioritize caseload, determine daily staffing needs and coordinate assignments/handoffs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Licensed Physical Therapy, Bachelors Degree, and Basic Cardiac Life Support or CPR for Healthcare Providers"
+    }
+  ]
+}

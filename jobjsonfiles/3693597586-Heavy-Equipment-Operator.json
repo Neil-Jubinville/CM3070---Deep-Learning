@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Heavy Equipment Operator",
+      "job_category": "Skilled Labor",
+      "job_class": "Operator",
+      "sector": "Heavy Equipment Operations",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Operation of Heavy Equipment",
+      "experience": 1
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 1
+    },
+    {
+      "skill": "Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate various pieces of heavy equipment, with a focus on front-end loaders, and manage incoming aggregate materials."
+    },
+    {
+      "duty": "Perform daily pre-start up procedures, routine maintenance, and cleaning of heavy equipment."
+    },
+    {
+      "duty": "Communicate job specifications, daily operations, and operate equipment in a safe and responsible manner."
+    },
+    {
+      "duty": "Follow safety procedures, report to assigned job area in proper attire, and adhere to safety guidelines."
+    },
+    {
+      "duty": "Assist with plant repairs, breakdowns, and perform other duties as assigned by the supervisor."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school education or GED equivalent"
+    },
+    {
+      "credential": "Minimum six months related experience/training or equivalent combination of education or experience"
+    }
+  ]
+}

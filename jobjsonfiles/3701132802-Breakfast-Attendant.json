@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Breakfast Attendant",
+      "job_category": "Hospitality",
+      "job_class": "Attendant",
+      "sector": "Hospitality",
+      "salary": 29000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Hospitality",
+      "experience": 1
+    },
+    {
+      "skill": "Food Safety",
+      "experience": 1
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "Cleaning and Sanitation",
+      "experience": 1
+    },
+    {
+      "skill": "Time Management",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare, set up, stock, take down, clean, and provide quality beverages and food products, adhering to all recipe and presentation standards."
+    },
+    {
+      "duty": "Follow recipes to control production and maintain consistency and freshness."
+    },
+    {
+      "duty": "Break down and store all leftover products."
+    },
+    {
+      "duty": "Clean as you go and follow proper daily sanitation checklists."
+    },
+    {
+      "duty": "Maintain all perishables at the proper temperature."
+    },
+    {
+      "duty": "Assist in prep work as required for the next shift."
+    },
+    {
+      "duty": "Assist with inventory and production charts."
+    },
+    {
+      "duty": "Put away stock when necessary, using FIFO (first in, first out)."
+    },
+    {
+      "duty": "Prepare food for meetings/events."
+    },
+    {
+      "duty": "Set up and break down meeting space and report any items in need of repair."
+    },
+    {
+      "duty": "Follow all safety procedures while working."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

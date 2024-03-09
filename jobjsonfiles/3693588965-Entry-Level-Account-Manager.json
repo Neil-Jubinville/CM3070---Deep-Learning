@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Entry Level Account Manager",
+      "job_category": "Sales",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Marketing Strategy",
+      "experience": 3
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Market Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Online Presence Management",
+      "experience": 3
+    },
+    {
+      "skill": "Event Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Digital Marketing",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create relationships with customers to better understand their needs and achieve them."
+    },
+    {
+      "duty": "Make visits to business owners to identify opportunities for growth within our platform."
+    },
+    {
+      "duty": "Manage all data through top-of-the-line Salesforce."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business, Sales, or a related field (Master's preferred)"
+    }
+  ]
+}

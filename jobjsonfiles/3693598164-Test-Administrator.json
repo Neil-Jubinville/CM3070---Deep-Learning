@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Test Administrator",
+      "job_category": "Testing Center",
+      "job_class": "Admin",
+      "sector": "Assessment & Qualifications",
+      "salary": 18500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Test Proctoring",
+      "experience": 1
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 2
+    },
+    {
+      "skill": "Housekeeping",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide secure exam delivery and superior customer service in a comfortable, friendly environment."
+    },
+    {
+      "duty": "Check in testing candidates, verify identification, and explain the exam process."
+    },
+    {
+      "duty": "Proctor and invigilate candidates while testing."
+    },
+    {
+      "duty": "Troubleshoot with internal departments to fix technical issues."
+    },
+    {
+      "duty": "Complete light housekeeping duties such as vacuuming the floors and sanitizing keyboards after each candidate has finished their examination."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent is required."
+    }
+  ]
+}

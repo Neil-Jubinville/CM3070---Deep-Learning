@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Systems Administrator",
+      "job_category": "Information Technology",
+      "job_class": "Administrator",
+      "sector": "IT",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "System Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Linux Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Windows Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Unix Shell Scripting",
+      "experience": 3
+    },
+    {
+      "skill": "Perl Scripting",
+      "experience": 3
+    },
+    {
+      "skill": "C/C++ compiler (gcc, MSVC)",
+      "experience": 3
+    },
+    {
+      "skill": "Source Code Control Administration (CVS)",
+      "experience": 3
+    },
+    {
+      "skill": "Remote Access Administration (VNC, SSH)",
+      "experience": 3
+    },
+    {
+      "skill": "Detail-Oriented",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement and maintain all internal computer systems including servers, clients, and networking infrastructure."
+    },
+    {
+      "duty": "Install and maintain EDA tools on Linux and Windows platforms."
+    },
+    {
+      "duty": "Maintain company's website."
+    },
+    {
+      "duty": "Provide assistance and support to all teams."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. NodeJS Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior Developer",
+      "sector": "Software Engineering",
+      "salary": 132500,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "NodeJS Development",
+      "experience": 5
+    },
+    {
+      "skill": "MERN Stack Development",
+      "experience": 5
+    },
+    {
+      "skill": "TypeScript",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 5
+    },
+    {
+      "skill": "API Development",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop custom solutions in NodeJS with the MERN stack (MongoDB, Express, React, Node) and TypeScript"
+    },
+    {
+      "duty": "Collaborate with stateside and off-shore developers in server-side development and APIs"
+    },
+    {
+      "duty": "Work in an Agile environment tracked through Jira"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelors degree in Computer Science or related field (Masters preferred)"
+    }
+  ]
+}

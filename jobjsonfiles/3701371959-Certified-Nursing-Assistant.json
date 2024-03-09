@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Certified Nursing Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Nursing Assistant",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    },
+    {
+      "skill": "Healthcare Ethics",
+      "experience": 2
+    },
+    {
+      "skill": "Documentation",
+      "experience": 2
+    },
+    {
+      "skill": "Hygiene Assistance",
+      "experience": 2
+    },
+    {
+      "skill": "Vital Signs Monitoring",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Safety",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Assistance",
+      "experience": 2
+    },
+    {
+      "skill": "CPR Certification",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide care to patients on an assigned nursing unit under the direction of a Registered Nurse."
+    },
+    {
+      "duty": "Communicate effectively with patients, families, visitors, and members of the healthcare team in a respectful manner."
+    },
+    {
+      "duty": "Assist with patient hygiene, meeting elimination needs, and providing for nutritional needs of the patient."
+    },
+    {
+      "duty": "Assist with ambulating, range of motion, and rounding with assigned patients."
+    },
+    {
+      "duty": "Follow policies and procedures related to patient and staff safety and adhere to confidentiality standards."
+    },
+    {
+      "duty": "Accurately document vital sign monitoring and results in the patient\u2019s electronic medical record."
+    },
+    {
+      "duty": "Proactively organize and stock nursing unit with patient care supplies."
+    },
+    {
+      "duty": "Empty, measure, and record output in all Foley bags/colostomy bags as directed by the RN and at the end of the assigned shift."
+    },
+    {
+      "duty": "Perform rounding and repositioning with assigned patients every two hours."
+    },
+    {
+      "duty": "Assist nurses in admitting patients and provide hand-off report to oncoming CNA before leaving at the end of the shift."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certified Nursing Assistant through the State of Illinois"
+    },
+    {
+      "credential": "Current Cardiopulmonary Resuscitation (CPR) certification from the American Heart Association"
+    }
+  ]
+}

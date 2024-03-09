@@ -1,0 +1,102 @@
+{
+  "meta": [
+    {
+      "job_title": "System Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Power Supply Architecture",
+      "experience": 7
+    },
+    {
+      "skill": "PDN Modeling",
+      "experience": 7
+    },
+    {
+      "skill": "PCB Design",
+      "experience": 7
+    },
+    {
+      "skill": "Buck/Boost Converter",
+      "experience": 7
+    },
+    {
+      "skill": "LDO Design",
+      "experience": 7
+    },
+    {
+      "skill": "EM Simulation Tools",
+      "experience": 7
+    },
+    {
+      "skill": "HSPICE",
+      "experience": 7
+    },
+    {
+      "skill": "Spectre",
+      "experience": 7
+    },
+    {
+      "skill": "AMS",
+      "experience": 7
+    },
+    {
+      "skill": "MatLab",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting Languages",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 7
+    },
+    {
+      "skill": "Communication",
+      "experience": 7
+    },
+    {
+      "skill": "Innovation",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support system-level Power Distribution Network (PDN) design, analysis, and validation for Mac and Accessory products development."
+    },
+    {
+      "duty": "Work with multi-functional teams to design and implement a power supply network solution, develop and validate impedance and droop targets, and verify the quality of the power supply."
+    },
+    {
+      "duty": "Provide feedback to silicon and packaging teams on system integration tradeoffs, complete target impedance analysis, transient voltage droop, and phase margin/stability analysis."
+    },
+    {
+      "duty": "Work closely with System Design teams to provide detailed layout strategy and guidelines during design execution phase."
+    },
+    {
+      "duty": "Develop test-suites to perform system-level validation for evaluation of design margins on the power domains and offer PI support through specific project design process."
+    },
+    {
+      "duty": "Drive initiatives that improve process, procedures, and result quality."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelors or Masters with 5-7 years of experience, or PhD (preferred) with a minimum of 3-4 years of experience"
+    }
+  ]
+}

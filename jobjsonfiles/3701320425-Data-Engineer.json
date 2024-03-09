@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 165000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Modeling",
+      "experience": 6
+    },
+    {
+      "skill": "DBT",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 4
+    },
+    {
+      "skill": "API Integration",
+      "experience": 2
+    },
+    {
+      "skill": "Mastery of SQL",
+      "experience": 5
+    },
+    {
+      "skill": "DBT Expertise",
+      "experience": 5
+    },
+    {
+      "skill": "Mastery of Snowflake",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design data models in partnership with product managers, data analysts, data scientists, and occasionally a backend engineer on another team."
+    },
+    {
+      "duty": "Port old code into DBT, possibly spotting uncaught bugs along the way."
+    },
+    {
+      "duty": "Write new pipelines, in DBT, optimizing first for correctness, second for maintainability, and third for performance."
+    },
+    {
+      "duty": "Set the bar for engineering best practices in an analytics engineering context."
+    },
+    {
+      "duty": "Occasionally write or patch a data integration (written in python)."
+    },
+    {
+      "duty": "Find, evaluate, and adopt great tools and vendors."
+    },
+    {
+      "duty": "Give and accept feedback readily and with an open mind."
+    },
+    {
+      "duty": "Participate in and contribute to architecture reviews in data engineering and engineering more broadly."
+    },
+    {
+      "duty": "Educate, mentor, and guide members of the Data team to improve their skill sets."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 90,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

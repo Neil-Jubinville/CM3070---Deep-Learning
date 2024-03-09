@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "job_title": "Automotive Technician",
+      "job_category": "Automotive",
+      "job_class": "Technician",
+      "sector": "Automotive",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Automotive Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Mechanical Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Diagnostic Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Inspect vehicles, diagnose problems, and perform vehicle repairs and maintenance."
+    },
+    {
+      "duty": "Adhere to dealership and manufacturer standards for repairs and maintenance."
+    },
+    {
+      "duty": "Keep the workshop neat, clean, and organized."
+    },
+    {
+      "duty": "Complete other duties assigned according to skill level and certifications."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

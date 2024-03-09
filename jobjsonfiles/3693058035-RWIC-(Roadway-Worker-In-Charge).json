@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "RWIC (Roadway Worker In Charge)",
+      "job_category": "Engineering",
+      "job_class": "Field Worker",
+      "sector": "Engineering",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Railroad Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Roadway Worker Protection",
+      "experience": 3
+    },
+    {
+      "skill": "Job Site Coordination",
+      "experience": 3
+    },
+    {
+      "skill": "Dispatcher/Train Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Safety Regulations",
+      "experience": 3
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform on-site roadway worker protection for activities on and around live railroad tracks."
+    },
+    {
+      "duty": "Coordinate job site and communicate with dispatchers/trains."
+    },
+    {
+      "duty": "Maintain safety standards according to railroad regulations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "2 years or more of direct railroad experience, preferably within the Maintenance of Way (MOW) department as a RWIC."
+    }
+  ]
+}

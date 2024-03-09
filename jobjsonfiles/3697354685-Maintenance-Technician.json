@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Manufacturing",
+      "job_class": "Technician",
+      "sector": "Manufacturing",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Equipment Repair",
+      "experience": 3
+    },
+    {
+      "skill": "Product Inspection",
+      "experience": 3
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 3
+    },
+    {
+      "skill": "Continuous Improvement",
+      "experience": 3
+    },
+    {
+      "skill": "SAP Software",
+      "experience": 3
+    },
+    {
+      "skill": "Soldering",
+      "experience": 3
+    },
+    {
+      "skill": "Electronics Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain and repair manufacturing equipment under supervision"
+    },
+    {
+      "duty": "Conduct preventative maintenance, scheduled maintenance, and troubleshooting"
+    },
+    {
+      "duty": "Assemble and inspect products to ensure quality standards are met"
+    },
+    {
+      "duty": "Responsible for work area safety and efficiency"
+    },
+    {
+      "duty": "Set up and monitor production, participate in continuous improvement process"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED"
+    },
+    {
+      "credential": "Associate's degree in Electronics (desired)"
+    }
+  ]
+}

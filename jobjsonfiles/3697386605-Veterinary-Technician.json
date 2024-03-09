@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinary Technician",
+      "job_category": "Veterinary",
+      "job_class": "Technician",
+      "sector": "Veterinary",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Animal Care",
+      "experience": 2
+    },
+    {
+      "skill": "Veterinary Medicine",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Treatments",
+      "experience": 3
+    },
+    {
+      "skill": "Laboratory Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Surgery Assistance",
+      "experience": 3
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Administer medications and vaccinations to animals."
+    },
+    {
+      "duty": "Assist veterinarians in the examination and treatment of animals."
+    },
+    {
+      "duty": "Monitor animal behavior and vital signs."
+    },
+    {
+      "duty": "Maintain records of treatments and medications administered to animals."
+    },
+    {
+      "duty": "Perform laboratory tests such as urinalysis, blood counts, and parasite exams."
+    },
+    {
+      "duty": "Assist in the preparation of animals for surgery."
+    },
+    {
+      "duty": "Provide nursing care for hospitalized animals."
+    },
+    {
+      "duty": "Educate clients on proper animal care."
+    },
+    {
+      "duty": "X-ray"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's Degree in Veterinary Technology (Bachelor's Preferred)"
+    }
+  ]
+}

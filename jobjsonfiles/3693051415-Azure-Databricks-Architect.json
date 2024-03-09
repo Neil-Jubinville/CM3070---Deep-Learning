@@ -1,0 +1,106 @@
+{
+  "meta": [
+    {
+      "job_title": "Azure Databricks Architect",
+      "job_category": "Data & Analytics",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Lakehouse Implementation",
+      "experience": 3
+    },
+    {
+      "skill": "Delta Lakehouse Implementation",
+      "experience": 3
+    },
+    {
+      "skill": "Unity Catalog Implementation",
+      "experience": 3
+    },
+    {
+      "skill": "Airflow Implementation",
+      "experience": 3
+    },
+    {
+      "skill": "Data Mesh Implementation",
+      "experience": 3
+    },
+    {
+      "skill": "Data Governance Solution Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Big Data Technologies",
+      "experience": 12
+    },
+    {
+      "skill": "Reporting/Visualizations Tools",
+      "experience": 12
+    },
+    {
+      "skill": "Cloud Platforms (Azure, AWS, Databricks)",
+      "experience": 12
+    },
+    {
+      "skill": "Application Development Lifecycle",
+      "experience": 12
+    },
+    {
+      "skill": "Python/Spark for Data Processing",
+      "experience": 12
+    },
+    {
+      "skill": "Communication and Presentation Skills",
+      "experience": 12
+    },
+    {
+      "skill": "Project Governance and Customer Management",
+      "experience": 12
+    },
+    {
+      "skill": "AWS Certification",
+      "experience": 0
+    },
+    {
+      "skill": "GCP Certification",
+      "experience": 0
+    },
+    {
+      "skill": "Azure Certification",
+      "experience": 0
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and implement data and analytics solutions with expertise in data lakehouse and delta lakehouse implementation, Unity Catalog, and Airflow."
+    },
+    {
+      "duty": "Architect enterprise data warehouse with a focus on Big Data technologies and reporting/visualizations tools ecosystem."
+    },
+    {
+      "duty": "Collaborate with a large, diversified team for building Current State Knowledge base and application development lifecycle."
+    },
+    {
+      "duty": "Utilize Python/Spark for data preprocessing, transformation, and integrations."
+    },
+    {
+      "duty": "Demonstrate excellent communication, presentation, and problem-solving skills while ensuring project governance and enterprise customer management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 110,
+      "student_teacher": 75,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum: At least One Certification of AWS, GCP, or Azure.\nPreferred: AWS & Google Professional Cloud Certified Resource + Data Certified"
+    }
+  ]
+}

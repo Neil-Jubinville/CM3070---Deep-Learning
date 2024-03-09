@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Disassembly Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Aviation",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Aptitude",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Data Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "Hand Tool Utilization",
+      "experience": 5
+    },
+    {
+      "skill": "Quality and Safety Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Record-keeping",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Drawing Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "Computer Operating",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform disassembly of fuel controls, governors, fuel, oil, and air accessories following technical data and written instructions."
+    },
+    {
+      "duty": "Utilize hand tools and specialty tools for precision measurements on a daily basis."
+    },
+    {
+      "duty": "Read and interpret technical data, drawings, and document maintenance records of repair work orders."
+    },
+    {
+      "duty": "Comply with quality and safety requirements, contribute to meeting team KPIs, and identifying extra or missing parts."
+    },
+    {
+      "duty": "Maintain an orderly and productive work environment and adapt to changing workloads based on customer requirements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate\u2019s degree or 3-4 years of relevant/technical work experience (Preferred: 5+ years of relevant/technical work experience in the aviation industry)"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Auditor",
+      "job_category": "Accounting",
+      "job_class": "Auditor",
+      "sector": "Finance",
+      "salary": 72000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Audit",
+      "experience": 2
+    },
+    {
+      "skill": "Operational Audit",
+      "experience": 2
+    },
+    {
+      "skill": "Internal Audit",
+      "experience": 2
+    },
+    {
+      "skill": "CPA Certification",
+      "experience": 2
+    },
+    {
+      "skill": "GAAP Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "GAAS Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct financial and operational audits according to the Internal Audit plan."
+    },
+    {
+      "duty": "Analyze operational and management processes, and system control effectiveness and efficiency; verify assets and liabilities by comparing items to documentation."
+    },
+    {
+      "duty": "Prepare and present to management the results, recommendations, and conclusions of internal audit reviews."
+    },
+    {
+      "duty": "Ensure compliance with established internal control procedures by examining records, reports, operating practices, and documentation."
+    },
+    {
+      "duty": "Communicate with auditee and clearly transcribe information obtained into standard workpaper format."
+    },
+    {
+      "duty": "Prepare narratives, analyses, process flows, tests of transactions, and other supporting documentation to support findings."
+    },
+    {
+      "duty": "Organize documentation in the work papers to facilitate review"
+    },
+    {
+      "duty": "Perform the audit tests as defined in the work programs"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor Degree in Accounting required, CPA or Certified Internal Auditor is a plus, working knowledge of GAAP and GAAS"
+    }
+  ]
+}

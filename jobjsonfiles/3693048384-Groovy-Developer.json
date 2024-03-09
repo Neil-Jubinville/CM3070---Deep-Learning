@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Groovy Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Groovy Development",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "PriceFx Implementation",
+      "experience": 5
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Change Management",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle Cloud Fusion",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop, write, and test code within Groovy and Java to implement PriceFx changes"
+    },
+    {
+      "duty": "Help the client migrate their legacy ERP system and understand how PriceFx interfaces from the legacy system"
+    },
+    {
+      "duty": "Integrate the new ERP system, Oracle Cloud Fusion, using PriceFx and Groovy knowledge"
+    },
+    {
+      "duty": "Require little to no supervision and be able to hit the ground running"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

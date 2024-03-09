@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Ansible",
+      "experience": 5
+    },
+    {
+      "skill": "Shell Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle",
+      "experience": 5
+    },
+    {
+      "skill": "Reverse Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 5
+    },
+    {
+      "skill": "REST API",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "K8s/Openshift",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Understanding and implementing DevOps functions, including code check-in, Jenkins monitoring, and automation testing"
+    },
+    {
+      "duty": "Implementing modern and efficient automated ways of performing tasks"
+    },
+    {
+      "duty": "Collaborating with the team to ensure ease of understanding and working with code/playbooks"
+    },
+    {
+      "duty": "Strong understanding of Ansible/AWX/Tower, shell scripting, Oracle/Database queries, reverse engineer programming languages, Agile methodologies, REST API, git/code review/testing, CI/CD, Python, K8s/Openshift"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

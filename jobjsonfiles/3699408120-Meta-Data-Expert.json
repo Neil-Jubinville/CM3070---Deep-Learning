@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Meta Data Expert",
+      "job_category": "Data Management",
+      "job_class": "Expert",
+      "sector": "Data",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Documentation Initiative (DDI)",
+      "experience": 5
+    },
+    {
+      "skill": "Colectica Software",
+      "experience": 5
+    },
+    {
+      "skill": "MS Windows and UNIX",
+      "experience": 5
+    },
+    {
+      "skill": "HTML and XML",
+      "experience": 5
+    },
+    {
+      "skill": "Shell Scripts and Python",
+      "experience": 5
+    },
+    {
+      "skill": "Relational databases and SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Data import/export methods",
+      "experience": 5
+    },
+    {
+      "skill": "Web applications using PHP",
+      "experience": 5
+    },
+    {
+      "skill": "Stata, R, SAS, or SPSS",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepares and maintains a DDI-compliant data repository using Colectica tools to improve ease of use for researchers and long-term data curation and archiving."
+    },
+    {
+      "duty": "Transition a large dataset of over 27K variables to Colectica tools."
+    },
+    {
+      "duty": "Contributes to a research agenda by preparing data sets, analyzing them using data science techniques, and presenting the results."
+    },
+    {
+      "duty": "Independently identifies and implements appropriate data science techniques to find data patterns and answer research questions chosen by the lead researcher."
+    },
+    {
+      "duty": "Organizes and automates project steps for data preparation and analysis."
+    },
+    {
+      "duty": "Composes and assembles reproducible workflows and reports to clearly articulate patterns to researchers and/or administrators."
+    },
+    {
+      "duty": "Documents approaches to address research questions and contributes to the establishment of reproducible research methodologies and analysis workflows."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "PhD in a related field (Master's Degree required)"
+    }
+  ]
+}

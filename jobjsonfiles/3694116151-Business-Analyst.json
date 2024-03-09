@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Analyst",
+      "job_category": "Finance",
+      "job_class": "Analyst",
+      "sector": "Finance",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Modeling",
+      "experience": 6
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 6
+    },
+    {
+      "skill": "Forecasting",
+      "experience": 6
+    },
+    {
+      "skill": "Business Intelligence Tools",
+      "experience": 6
+    },
+    {
+      "skill": "Data Mining",
+      "experience": 6
+    },
+    {
+      "skill": "Programming",
+      "experience": 6
+    },
+    {
+      "skill": "Automated Reporting",
+      "experience": 6
+    },
+    {
+      "skill": "Data Science",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop comprehensive business cases for cost/benefit analysis of proposed initiatives to drive product and program strategy."
+    },
+    {
+      "duty": "Utilize data-driven forecasting techniques to produce benefit forecasts using given variables."
+    },
+    {
+      "duty": "Create and maintain business case reporting to identify forecasted vs. actual performance trends."
+    },
+    {
+      "duty": "Monitor performance trends and identify drivers of underperforming tools and initiatives."
+    },
+    {
+      "duty": "Support the development of Statements of Work through cost projection and benefits assessment."
+    },
+    {
+      "duty": "Develop executive dashboards with simple user interfaces utilizing organizationally approved BI tools."
+    },
+    {
+      "duty": "Automate executive reporting by creating coding scripts that pull data directly from source systems on scheduled intervals."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent in a related field (Master's preferred)"
+    }
+  ]
+}

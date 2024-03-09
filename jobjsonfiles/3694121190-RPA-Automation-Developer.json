@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "RPA/Automation Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "RPA Software",
+      "experience": 2
+    },
+    {
+      "skill": "BluePrism",
+      "experience": 2
+    },
+    {
+      "skill": "UiPath",
+      "experience": 2
+    },
+    {
+      "skill": "SQL",
+      "experience": 3
+    },
+    {
+      "skill": "REST APIs",
+      "experience": 1
+    },
+    {
+      "skill": "SOAP APIs",
+      "experience": 1
+    },
+    {
+      "skill": "AI/Automation",
+      "experience": 2
+    },
+    {
+      "skill": "JSON Data",
+      "experience": 2
+    },
+    {
+      "skill": "NOSQL Databases",
+      "experience": 2
+    },
+    {
+      "skill": "Process Modeling",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, operate, and maintain complex RPA bots for web browser and Windows applications."
+    },
+    {
+      "duty": "Integrate using SQL, REST, SOAP based Web APIs."
+    },
+    {
+      "duty": "Evaluate and manipulate data from external sources, SQL, and NOSQL databases."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Developer certification for UiPath and/or BluePrism"
+    },
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. Manager, Engineering",
+      "job_category": "Software Engineering",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 200000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "IoT Management",
+      "experience": 5
+    },
+    {
+      "skill": "Embedded Systems",
+      "experience": 7
+    },
+    {
+      "skill": "Agile/Scrum Methodologies",
+      "experience": 7
+    },
+    {
+      "skill": "Go Programming",
+      "experience": 7
+    },
+    {
+      "skill": "Kotlin Programming",
+      "experience": 7
+    },
+    {
+      "skill": "Java Programming",
+      "experience": 7
+    },
+    {
+      "skill": "C++ Programming",
+      "experience": 7
+    },
+    {
+      "skill": "Real-time Data Acquisition",
+      "experience": 5
+    },
+    {
+      "skill": "REST APIs",
+      "experience": 5
+    },
+    {
+      "skill": "Message Queues (MQTT)",
+      "experience": 5
+    },
+    {
+      "skill": "IPC Technologies",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Leadership",
+      "experience": 7
+    },
+    {
+      "skill": "Recruiting and Hiring",
+      "experience": 7
+    },
+    {
+      "skill": "Team Coaching",
+      "experience": 7
+    },
+    {
+      "skill": "Relationship Building",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and manage teams focused on embedded Connected Vehicle Devices"
+    },
+    {
+      "duty": "Mentor and lead teams working in multiple programming languages and frameworks"
+    },
+    {
+      "duty": "Contribute to future architecture decisions and be the point of contact with other teams in the company"
+    },
+    {
+      "duty": "Ensure software is testable, maintainable, reliable, and fast to integrate"
+    },
+    {
+      "duty": "Hold daily stand-ups and 1:1's with engineers and ensure harmony within the team and with other teams and stakeholders"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Computer Science or Electrical Engineering (Master's preferred)"
+    }
+  ]
+}

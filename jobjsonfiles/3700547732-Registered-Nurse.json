@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 35,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Acute Care",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide comprehensive acute care to patients in a hospital setting."
+    },
+    {
+      "duty": "Demonstrate clinical skills and critical thinking in the assessment and management of patient conditions."
+    },
+    {
+      "duty": "Effectively communicate with patients, families, and healthcare team members."
+    },
+    {
+      "duty": "Manage and prioritize patient care tasks, demonstrating strong time management skills."
+    },
+    {
+      "duty": "Work collaboratively with a multidisciplinary team to provide quality patient care."
+    },
+    {
+      "duty": "Maintain a high level of teamwork and professionalism in the healthcare environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Nursing (BScN) or equivalent"
+    }
+  ]
+}

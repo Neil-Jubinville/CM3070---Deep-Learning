@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 49520,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Plumbing",
+      "experience": 3
+    },
+    {
+      "skill": "Electrical Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "HVAC Repair",
+      "experience": 3
+    },
+    {
+      "skill": "Carpentry",
+      "experience": 3
+    },
+    {
+      "skill": "Appliance Repair",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Complete physical maintenance visits to apartment units and community facilities after resident requests for assistance has been completed."
+    },
+    {
+      "duty": "Complete routine maintenance visits to all facilities including plumbing, electrical, HVAC, carpentry, painting, appliance repair, and more."
+    },
+    {
+      "duty": "Respond to routine service calls made by employees on their time schedule."
+    },
+    {
+      "duty": "Perform extra duty projects as assigned."
+    },
+    {
+      "duty": "Communicate with Community Manager on any issues or concerns that arise in regards to your role."
+    },
+    {
+      "duty": "Complete daily inventory of equipment and supplies."
+    },
+    {
+      "duty": "Follow written correspondence guidelines with neighbors, management, and outside vendors."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED preferred; or equivalent experience of (3) three to (5) years with a stable work history."
+    },
+    {
+      "credential": "Valid Driver\u2019s License with an acceptable driving record."
+    },
+    {
+      "credential": "Pass a background check."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Comprehensive Patient Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Care Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 5
+    },
+    {
+      "skill": "Discharge Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Delegation",
+      "experience": 5
+    },
+    {
+      "skill": "Physical Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Documentation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performs a comprehensive patient assessment to identify patient and family needs"
+    },
+    {
+      "duty": "Develops and implements a comprehensive plan of care involving the patient and the family"
+    },
+    {
+      "duty": "Performs and documents direct patient and family centered care and patient education according to nursing standards of practice"
+    },
+    {
+      "duty": "Identifies and responds to patient conditions to achieve positive patient outcomes"
+    },
+    {
+      "duty": "Performs discharge planning to ensure safe and appropriate transition of care"
+    },
+    {
+      "duty": "Directs and delegates care provided by unlicensed team members"
+    },
+    {
+      "duty": "Provides world class customer service to patients and families"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 30
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree of an accredited nursing program"
+    }
+  ]
+}

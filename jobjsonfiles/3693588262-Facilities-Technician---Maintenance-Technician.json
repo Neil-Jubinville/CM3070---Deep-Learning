@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Facilities Technician / Maintenance Technician",
+      "job_category": "Facilities",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical/Mechanical Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 4
+    },
+    {
+      "skill": "Equipment Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Reporting",
+      "experience": 4
+    },
+    {
+      "skill": "Team Management",
+      "experience": 4
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Repair and maintenance of critical systems such as switchgear, generators, UPS systems, power distribution equipment, chillers, cooling towers, computer room air handlers, building monitoring systems, etc."
+    },
+    {
+      "duty": "Manage routine and emergency services on critical systems"
+    },
+    {
+      "duty": "Establish performance benchmarks, conduct analyses, and prepare reports on critical facility operations and maintenance"
+    },
+    {
+      "duty": "Responsible for on-site management of shift technicians, sub-contractors, and vendors"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in Electrical Engineering, Mechanical Engineering or relevant discipline helpful, not required."
+    }
+  ]
+}

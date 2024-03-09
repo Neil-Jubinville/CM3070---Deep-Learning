@@ -1,0 +1,118 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Scientist",
+      "job_category": "Data Science",
+      "job_class": "Scientist",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Statistical Modeling",
+      "experience": 3
+    },
+    {
+      "skill": "Machine Learning Algorithms",
+      "experience": 3
+    },
+    {
+      "skill": "Python",
+      "experience": 3
+    },
+    {
+      "skill": "R",
+      "experience": 3
+    },
+    {
+      "skill": "C++",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 3
+    },
+    {
+      "skill": "Object-Oriented Design",
+      "experience": 3
+    },
+    {
+      "skill": "Spark/PySpark",
+      "experience": 3
+    },
+    {
+      "skill": "Hadoop/HDFS",
+      "experience": 3
+    },
+    {
+      "skill": "HIVE",
+      "experience": 3
+    },
+    {
+      "skill": "Oracle",
+      "experience": 3
+    },
+    {
+      "skill": "Teradata",
+      "experience": 3
+    },
+    {
+      "skill": "Data Mining",
+      "experience": 3
+    },
+    {
+      "skill": "Tableau",
+      "experience": 3
+    },
+    {
+      "skill": "JIRA",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop, implement, and maintain statistical models, machine learning algorithms, analytical libraries, and tools to support Risk Management functions."
+    },
+    {
+      "duty": "Apply software engineering (Agile), object-oriented design and programming (Python, R & C++) skills to develop high-performance, scalable, and reusable software solutions."
+    },
+    {
+      "duty": "Develop and maintain the bank\u2019s in-house statistical and AI/ML libraries to support model development efforts, including but not limited to Regression, XGBoost, Random Forests, Clustering, and NLP/NLU for large-scale distributed systems (Spark/PySpark, Hadoop/HDFS, HIVE)."
+    },
+    {
+      "duty": "Develop and implement cross-platform (Oracle, Teradata, etc.) queries to obtain business/risk metrics."
+    },
+    {
+      "duty": "Communicate quantitative topics to both technical and non-technical audiences to both client groups and fellow developers."
+    },
+    {
+      "duty": "Develop and test machine learning/AI development models & algorithms, including SVM, Clustering, Random Forest, XGBoost, NLP/NLU, and Pattern Recognition to identify and classify quantitative patterns."
+    },
+    {
+      "duty": "Implement advanced high-performance Python code for large-scale distributed computing environments such as Apache Spark, Hadoop/HIVE to develop scalable, reusable analytical and quantitative models."
+    },
+    {
+      "duty": "Create in-house data mining, data processing, and data analysis and visualization tools using Python and Tableau to gain business insight from the data."
+    },
+    {
+      "duty": "Use JIRA to track projects, tasks, and deadlines in the context of software development."
+    },
+    {
+      "duty": "10% domestic or international travel, as required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree or equivalent in Engineering (any), Statistics, Mathematics, or related; and 2 years of experience in the job offered or a related quantitative occupation.Must include 2 years of experience in each of the following:Developing and testing machine learning/AI development models & algorithms, including SVM, Clustering, Random Forest, XGBoost, NLP/NLU, and Pattern Recognition to identify and classify quantitative patterns;Implementing advanced high-performance Python code for large-scale distributed computing environments such as Apache Spark, Hadoop/HIVE to develop scalable, reusable analytical and quantitative models;Creating in-house data mining, data processing, and data analytical and visualization tools using Python and Tableau to gain business insight from the data; and,Using JIRA to track projects tasks and deadlines in the context of software development.The employer will accept pre or post-Master\u2019s degree experience."
+    }
+  ]
+}

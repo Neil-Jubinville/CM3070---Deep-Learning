@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Research Scientist",
+      "job_category": "Research",
+      "job_class": "Scientist",
+      "sector": "Research",
+      "salary": 200000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Natural Language Processing",
+      "experience": 5
+    },
+    {
+      "skill": "Scientific Research",
+      "experience": 5
+    },
+    {
+      "skill": "Software Systems Implementation",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    },
+    {
+      "skill": "Academic Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Open-Source Research Libraries",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Author and present high-quality scientific papers and presentations for peer-reviewed journals and conferences"
+    },
+    {
+      "duty": "Take a leading role in implementing software systems supporting AI2\u2019s research"
+    },
+    {
+      "duty": "Collaborate with and learn from team members across AI2, including scientists and engineers"
+    },
+    {
+      "duty": "Mentor early-career researchers and interns on their projects"
+    },
+    {
+      "duty": "Develop collaborative relationships with relevant academic, industrial, government, and standards organizations"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "PhD with a focus on natural language processing or a closely related area"
+    }
+  ]
+}

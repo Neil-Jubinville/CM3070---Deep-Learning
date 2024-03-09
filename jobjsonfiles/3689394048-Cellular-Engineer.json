@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Cellular Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cellular Field Testing",
+      "experience": 3
+    },
+    {
+      "skill": "5GNR Protocol",
+      "experience": 3
+    },
+    {
+      "skill": "LTE Protocol Stack",
+      "experience": 3
+    },
+    {
+      "skill": "Wireless Domain Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Adaptability",
+      "experience": 3
+    },
+    {
+      "skill": "Data Reporting",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing field testing of cellular connectivity for next-gen smartphones and devices, including regular travel to testing locations."
+    },
+    {
+      "duty": "Communicating technical issues and demonstrating strong fundamental and judgment skills."
+    },
+    {
+      "duty": "Analyzing testing data and making decisions without constant assistance."
+    },
+    {
+      "duty": "Reporting back with data and describing technical problems."
+    },
+    {
+      "duty": "Adapting quickly and being trainable in wireless domains (LTE, 5GNR) with fundamental knowledge."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 60,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "1\u20135 years of experience in cellular field testing or cellular QA testing, with a basic to good understanding of 5GNR and LTE protocol stack."
+    }
+  ]
+}

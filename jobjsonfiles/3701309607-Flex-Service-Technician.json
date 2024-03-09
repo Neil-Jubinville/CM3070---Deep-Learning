@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Flex Service Technician",
+      "job_category": "Service Technician",
+      "job_class": "Technician",
+      "sector": "Service",
+      "salary": 65000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Diagnosis",
+      "experience": 3
+    },
+    {
+      "skill": "Electrical Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Welding and Fabrication",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Training",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform field service and in shop repairs on food preparation equipment."
+    },
+    {
+      "duty": "Troubleshoot and diagnose equipment problems, including electrical/mechanical and electronics troubleshooting."
+    },
+    {
+      "duty": "Maintain frequent contact with the office for service assignments and review service problems with advisor, supervisor, or manager."
+    },
+    {
+      "duty": "Assist with equipment installations and perform major repair assignments."
+    },
+    {
+      "duty": "Maintain working knowledge of parts stocking and identification methods."
+    },
+    {
+      "duty": "Complete maintenance, sanitation, and audio/visual field training as required."
+    },
+    {
+      "duty": "Assist in developing sales leads for contracts and product demonstrations at customer locations and trade shows."
+    },
+    {
+      "duty": "Comply with all service policies and procedures, safety standards, and perform PLC and HMI programming."
+    },
+    {
+      "duty": "Consult with bakeries to identify process improvements and diagnose mechanical weaknesses to provide value-added solutions."
+    },
+    {
+      "duty": "Travel 50% domestic and international with extended hour work weeks, including overtime and on-call assistance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 40,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED. Preferred: electrical certification or relevant vocational training."
+    }
+  ]
+}

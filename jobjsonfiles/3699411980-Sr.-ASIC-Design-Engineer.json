@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. ASIC Design Engineer",
+      "job_category": "Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 200000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "RTL Design",
+      "experience": 10
+    },
+    {
+      "skill": "ASIC Design",
+      "experience": 10
+    },
+    {
+      "skill": "Microarchitecture",
+      "experience": 10
+    },
+    {
+      "skill": "PCIe",
+      "experience": 10
+    },
+    {
+      "skill": "CXL",
+      "experience": 10
+    },
+    {
+      "skill": "Verilog/System Verilog",
+      "experience": 10
+    },
+    {
+      "skill": "ASIC design and verification methodologies",
+      "experience": 10
+    },
+    {
+      "skill": "Perl scripting",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Participate in architecture definition and modeling."
+    },
+    {
+      "duty": "Contribute to micro-architecture specification and reviews."
+    },
+    {
+      "duty": "Review industry standard specs and ensure IPs are kept up to date for compliance."
+    },
+    {
+      "duty": "Define design partitioning for efficient IP/sub-system/full chip implementation."
+    },
+    {
+      "duty": "Review and provide feedback on verification plans and methodology."
+    },
+    {
+      "duty": "Drive block/chip/system level development and execution."
+    },
+    {
+      "duty": "Work with Hard IP designers, verification, validation, Firmware engineers, and architects to produce thoroughly verified, robust IP."
+    },
+    {
+      "duty": "Actively participate in post-silicon bring-up, validation, and compliance testing."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's (Master's or Ph.D. preferred) in Computer Science, Electrical Engineering, Computer Engineering, or similar with 10 - 15+ years of experience"
+    }
+  ]
+}

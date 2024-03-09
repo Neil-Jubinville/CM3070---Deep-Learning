@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Executive Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Administration",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Event Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage an extremely active calendar of appointments for the CEO, including sending reminders and rescheduling or canceling meetings in a timely manner; brief the CEO on daily schedule"
+    },
+    {
+      "duty": "Coordinate speaking engagements for the CEO"
+    },
+    {
+      "duty": "Communicate directly, and on behalf of the CEO, with Board members, staff members, donors, and the public"
+    },
+    {
+      "duty": "Oversee staff meeting organization (meeting reminders, food, staff reports and materials)"
+    },
+    {
+      "duty": "Serve as a liaison between the CEO and the MLF Board of Directors including assisting in scheduling board meetings, board retreats and board committee meetings"
+    },
+    {
+      "duty": "Document all meetings, tours, and correspondence in Salesforce; generate and ensure relevant reports are delivered to the Executive Team and Board of Directors"
+    },
+    {
+      "duty": "Attend Relationship Strategy team meetings to assist in documenting decisions made and action items agreed upon"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Administration, Business, or a related field (Master's preferred)"
+    }
+  ]
+}

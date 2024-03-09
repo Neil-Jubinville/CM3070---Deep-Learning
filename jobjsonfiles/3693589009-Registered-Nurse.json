@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "RN",
+      "sector": "Healthcare",
+      "salary": 4500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "RN Experience",
+      "experience": 2
+    },
+    {
+      "skill": "RN License",
+      "experience": 2
+    },
+    {
+      "skill": "AHA BLS Certification",
+      "experience": 2
+    },
+    {
+      "skill": "Immunization Records",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Records Maintenance",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide care for patients undergoing surgical procedures in the operating room."
+    },
+    {
+      "duty": "Maintain and update patient medical records and administer medications as needed."
+    },
+    {
+      "duty": "Comply with all medical and safety regulations to ensure patient and staff well-being."
+    },
+    {
+      "duty": "Communicate and collaborate with medical and administrative staff to coordinate patient care."
+    },
+    {
+      "duty": "Monitor patient vital signs and report any changes or concerns to the healthcare team."
+    },
+    {
+      "duty": "Respond to medical emergencies and provide immediate care and support as required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current unencumbered RN license"
+    },
+    {
+      "credential": "AHA BLS Certification"
+    },
+    {
+      "credential": "Immunization Records for MMR, Varicella, HepB, TDAP, TB/PPD, Flu, and annual physical"
+    }
+  ]
+}

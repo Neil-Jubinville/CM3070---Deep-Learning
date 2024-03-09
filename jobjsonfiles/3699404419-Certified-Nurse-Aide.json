@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Certified Nurse Aide",
+      "job_category": "Healthcare",
+      "job_class": "Associate",
+      "sector": "Healthcare",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Personal Care Activities",
+      "experience": 3
+    },
+    {
+      "skill": "Restorative Care Activities",
+      "experience": 3
+    },
+    {
+      "skill": "Monitoring of Physical Status",
+      "experience": 3
+    },
+    {
+      "skill": "Documentation and Reporting",
+      "experience": 3
+    },
+    {
+      "skill": "Physical Demands/Environmental Profile",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist individuals with personal care activities, nutritional needs, and restorative function such as bathing, dressing, toileting, and feeding."
+    },
+    {
+      "duty": "Provide assistance with ambulation, transfers, positioning, and medical monitoring for individuals under care."
+    },
+    {
+      "duty": "Complete progress notes, documentation, and reporting as assigned, ensuring clinical standards are met."
+    },
+    {
+      "duty": "Maintain a clean and safe living environment for individuals, actively engaging in safety routines and corrective actions."
+    },
+    {
+      "duty": "Transport individuals and participate in planned recreational activities and leisure time engagements."
+    },
+    {
+      "duty": "Attend and actively participate in unit-based meetings, in-services, and quality improvement activities as scheduled."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent, Current CNA certificate, CPR and First Aid certification, 3 years driving experience in the United States, valid driver's license"
+    }
+  ]
+}

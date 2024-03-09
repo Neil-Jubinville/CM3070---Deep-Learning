@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr Data Engineer",
+      "job_category": "Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "MS SQL",
+      "experience": 5
+    },
+    {
+      "skill": "SOQL",
+      "experience": 5
+    },
+    {
+      "skill": "ETL Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Salesforce",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle",
+      "experience": 3
+    },
+    {
+      "skill": "PostgreSQL",
+      "experience": 3
+    },
+    {
+      "skill": "Talend",
+      "experience": 3
+    },
+    {
+      "skill": "Matillion",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for data migration, data clean up, data integration, and warehousing for the company."
+    },
+    {
+      "duty": "Importing data, manipulating data, putting it back in, querying, and building indexes using MS SQL."
+    },
+    {
+      "duty": "Loading and validating dimensions and measures using SSIS."
+    },
+    {
+      "duty": "Importing data, querying data, getting data out of Salesforce, and using SOQL."
+    },
+    {
+      "duty": "Experience with Oracle or PostgreSQL and familiarity with Talend, Matillion, or similar tools would be considered a plus."
+    }
+  ]
+}

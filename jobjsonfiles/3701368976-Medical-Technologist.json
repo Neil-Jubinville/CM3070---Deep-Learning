@@ -1,0 +1,99 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Technologist",
+      "job_category": "Healthcare",
+      "job_class": "Technologist",
+      "sector": "Clinical Laboratory",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Specimen Processing",
+      "experience": 2
+    },
+    {
+      "skill": "Laboratory Safety",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 3
+    },
+    {
+      "skill": "Instrument Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Technology",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Receive and process specimens according to department protocols."
+    },
+    {
+      "duty": "Design and update procedures to promote maximum efficiency/accuracy of testing and reporting."
+    },
+    {
+      "duty": "Assist with administrative functions such as ordering supplies and maintaining inventory."
+    },
+    {
+      "duty": "Adhere to lab procedures and safety precautions."
+    },
+    {
+      "duty": "Produce, interpret, and report accurate and precise test results."
+    },
+    {
+      "duty": "Identify and correct problems affecting test performance or result reporting."
+    },
+    {
+      "duty": "Communicate pertinent section information/issues to supervisor or manager."
+    },
+    {
+      "duty": "Perform instrument maintenance and method troubleshooting."
+    },
+    {
+      "duty": "Assist in documentation and maintaining effective department QA/QC programs."
+    },
+    {
+      "duty": "Comply with Corporate Compliance Program, Privacy, and Security policies."
+    },
+    {
+      "duty": "Perform within the productivity expectations as set forth by current departmental guidelines."
+    },
+    {
+      "duty": "Work with other departments within the organization."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 100,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in a chemical, physical, biological, or clinical lab science or medical technology."
+    },
+    {
+      "credential": "Valid ASCP or AMT certification"
+    }
+  ]
+}

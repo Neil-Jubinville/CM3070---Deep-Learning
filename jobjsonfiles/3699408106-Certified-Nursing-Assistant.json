@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Certified Nursing Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 2
+    },
+    {
+      "skill": "Healthcare Team Collaboration",
+      "experience": 2
+    },
+    {
+      "skill": "Clerical Functions",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Transport",
+      "experience": 2
+    },
+    {
+      "skill": "Phlebotomy",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Assistance",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assisting licensed nursing personnel in the provision of nursing care"
+    },
+    {
+      "duty": "Participating as a member of the health care team under the direction of a licensed nurse"
+    },
+    {
+      "duty": "Assisting with clerical functions and housekeeping"
+    },
+    {
+      "duty": "Patient transportation throughout the hospital"
+    },
+    {
+      "duty": "Performing phlebotomy tasks if required"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current CNA 2 (Acute Care) certificate in Oregon or Current CNA certificate/NAR license in Washington with AHA BLS for Health Care Provider certification"
+    }
+  ]
+}

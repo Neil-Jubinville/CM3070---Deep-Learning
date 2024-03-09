@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Experienced",
+      "sector": "Healthcare",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ICU Nursing",
+      "experience": 2
+    },
+    {
+      "skill": "Triage Nursing",
+      "experience": 2
+    },
+    {
+      "skill": "Adult Care Nursing",
+      "experience": 3
+    },
+    {
+      "skill": "Pediatrics Nursing",
+      "experience": 1
+    },
+    {
+      "skill": "Local Nurse Procedures",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide nursing care in the ICU, Triage, Adult Care, and Pediatrics departments."
+    },
+    {
+      "duty": "Welcome, assess, and care for local patients in accordance with local nursing procedures."
+    },
+    {
+      "duty": "Participate in onboarding new nursing team members and assist in creating a caring and supportive environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (Master's preferred)"
+    },
+    {
+      "credential": "One year of nursing experience in ICU, Triage, Adult Care, and Pediatrics"
+    }
+  ]
+}

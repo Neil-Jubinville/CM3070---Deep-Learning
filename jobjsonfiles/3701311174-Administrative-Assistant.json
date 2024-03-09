@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Administrative Assistant",
+      "job_category": "Office Support",
+      "job_class": "Assistant",
+      "sector": "Management",
+      "salary": 40000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Organization",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 3
+    },
+    {
+      "skill": "Email Management",
+      "experience": 3
+    },
+    {
+      "skill": "Scheduling",
+      "experience": 3
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 3
+    },
+    {
+      "skill": "Social Media Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide general administrative support, including managing emails, mail merges, scheduling, organizing documents, editing and updating templates, and collaborating with team members to ensure smooth workflow and communication."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent; college coursework is a plus."
+    },
+    {
+      "credential": "Previous experience in an administrative role is preferred but not mandatory."
+    }
+  ]
+}

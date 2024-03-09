@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 105000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Point of Sale",
+      "experience": 5
+    },
+    {
+      "skill": "JPOS",
+      "experience": 5
+    },
+    {
+      "skill": "Kafka",
+      "experience": 5
+    },
+    {
+      "skill": "Grocery Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Event-driven Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "C++",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Mindset",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and maintain the core components of the Point of Sale platform using 3-5+ years of JPOS development experience."
+    },
+    {
+      "duty": "Integrate various peripheral hardware components into Staffed Lanes and Self-Checkout systems."
+    },
+    {
+      "duty": "Implement robust, scalable, and efficient software solutions using event-driven architecture."
+    },
+    {
+      "duty": "Ensure seamless communication between different components of the POS system using message-based platforms, preferably Kafka."
+    },
+    {
+      "duty": "Collaborate with hardware engineers, product managers, and QA testers to deliver high-quality software products."
+    },
+    {
+      "duty": "Participate in code reviews, architectural discussions, and troubleshooting sessions to maintain code quality and resolve technical challenges."
+    },
+    {
+      "duty": "Stay up-to-date with industry trends and best practices in POS development and related technologies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 0,
+      "student_teacher": 0,
+      "introvert_extrovert": 0
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent work experience)"
+    }
+  ]
+}

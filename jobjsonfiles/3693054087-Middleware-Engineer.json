@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Middleware Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Middleware Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Platform and Infrastructure Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Apache Kafka",
+      "experience": 3
+    },
+    {
+      "skill": "Confluent",
+      "experience": 3
+    },
+    {
+      "skill": "AWS API Integrations",
+      "experience": 3
+    },
+    {
+      "skill": "AWS Unstructured Data Integrations",
+      "experience": 3
+    },
+    {
+      "skill": "Application Integration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain middleware solutions for platform and infrastructure engineering in the financial services or FinTech sectors."
+    },
+    {
+      "duty": "Hands-on development experience with Apache Kafka and/or Confluent, including topics, partitions, producers, consumers, and Kafka Streams."
+    },
+    {
+      "duty": "Create and manage AWS API integrations for various applications and systems."
+    },
+    {
+      "duty": "Craft AWS unstructured data integrations for effective data management and utilization."
+    },
+    {
+      "duty": "Integrate applications like Salesforce, AWS, Boomi, and others to ensure seamless operation and data flow."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, IT, or related field (Master's preferred)"
+    }
+  ]
+}

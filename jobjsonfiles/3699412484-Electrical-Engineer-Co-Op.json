@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer Co-Op",
+      "job_category": "Engineering",
+      "job_class": "Entry Level",
+      "sector": "Engineering",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Engineering",
+      "experience": 2
+    },
+    {
+      "skill": "AutoCAD",
+      "experience": 2
+    },
+    {
+      "skill": "Revit",
+      "experience": 1
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 2
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 2
+    },
+    {
+      "skill": "Communication",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist with electrical design projects for various building types"
+    },
+    {
+      "duty": "Learn and develop design skills, including field investigation, design, scheduling, and quality control"
+    },
+    {
+      "duty": "Work on load calculations, lighting fixture selections, and equipment sizing"
+    },
+    {
+      "duty": "Coordinate information/work with all disciplines and occasional trips to local project sites"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Working towards a Bachelor of Science in Electrical Engineering"
+    }
+  ]
+}

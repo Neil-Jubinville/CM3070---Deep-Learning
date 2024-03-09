@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Cardiac Catheterization Nurse",
+      "job_category": "Nursing",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Procedural Nursing",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Cardiac Care",
+      "experience": 1
+    },
+    {
+      "skill": "Intensive Care",
+      "experience": 1
+    },
+    {
+      "skill": "ACLS Certification",
+      "experience": 2
+    },
+    {
+      "skill": "PALS Certification",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide age-appropriate patient care and perform procedural nursing to a cardiac catheterization laboratory patient population including adult and pediatric patients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited school of nursing and licensed to practice professional nursing in the state of Florida. Two years of experience as an RN preferred. One year of intensive care experience preferred. Current Florida RN licensure. Current ACLS Certification. Current PALS Certification."
+    }
+  ]
+}

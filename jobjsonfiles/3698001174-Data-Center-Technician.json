@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Center Technician",
+      "job_category": "Information Technology",
+      "job_class": "Technician",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 1
+    },
+    {
+      "skill": "Server Repair",
+      "experience": 1
+    },
+    {
+      "skill": "Computer Hardware Repair",
+      "experience": 1
+    },
+    {
+      "skill": "Software Installation",
+      "experience": 1
+    },
+    {
+      "skill": "Technical Communication",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support installs, troubleshooting, and maintaining servers, networking equipment, and cabling."
+    },
+    {
+      "duty": "Understand and apply server repair methods to data center equipment."
+    },
+    {
+      "duty": "Physically assist in moving and racking equipment for special projects."
+    },
+    {
+      "duty": "Update inventory systems and pull required inventory with accuracy."
+    },
+    {
+      "duty": "Learn new software quickly and perform other tasks as required by management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "HS Diploma or GED"
+    }
+  ]
+}

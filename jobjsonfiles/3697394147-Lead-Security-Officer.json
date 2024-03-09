@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Security Officer",
+      "job_category": "Security",
+      "job_class": "Officer",
+      "sector": "Public Safety",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Security Management",
+      "experience": 5
+    },
+    {
+      "skill": "Delegation",
+      "experience": 5
+    },
+    {
+      "skill": "Investigation",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Vehicle Operation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain a safe and secure environment for all patrons, employees, and company assets."
+    },
+    {
+      "duty": "Delegate duties and assign responsibilities to staff."
+    },
+    {
+      "duty": "Investigate incidents and customer complaints, compiling data for accurate reporting."
+    },
+    {
+      "duty": "Ensure all policies and procedures are being followed and monitored during the shift."
+    },
+    {
+      "duty": "Answer incoming calls to the facility and direct calls or answer patron questions."
+    },
+    {
+      "duty": "Operate a company vehicle and/or equipment that require a valid Driver\u2019s License."
+    },
+    {
+      "duty": "Perform other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or Equivalent"
+    },
+    {
+      "credential": "Valid Racing License"
+    }
+  ]
+}

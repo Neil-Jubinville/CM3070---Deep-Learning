@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Strategy",
+      "experience": 5
+    },
+    {
+      "skill": "Lead Qualification",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Process Management",
+      "experience": 5
+    },
+    {
+      "skill": "Consultative Sales",
+      "experience": 5
+    },
+    {
+      "skill": "CRM Management",
+      "experience": 5
+    },
+    {
+      "skill": "Market Research",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Coordinate lead qualification, nurturing, proposal development, negotiation, and deal closing in collaboration with pre-sales engineers, account executives, and project managers."
+    },
+    {
+      "duty": "Manage end-to-end sales process, from lead qualification to deal closure, leveraging the BANT methodology."
+    },
+    {
+      "duty": "Develop a strong understanding of custom software solutions, digital transformation strategies, and trends."
+    },
+    {
+      "duty": "Meet and exceed sales targets and objectives as agreed upon."
+    },
+    {
+      "duty": "Provide regular sales reports, updates, and insights to the management team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Sales, or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Vue.js/PHP Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 105000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Vue.js",
+      "experience": 5
+    },
+    {
+      "skill": "PHP",
+      "experience": 5
+    },
+    {
+      "skill": "MySQL",
+      "experience": 3
+    },
+    {
+      "skill": "HTML",
+      "experience": 3
+    },
+    {
+      "skill": "CSS",
+      "experience": 3
+    },
+    {
+      "skill": "Bootstrap",
+      "experience": 3
+    },
+    {
+      "skill": "API Development",
+      "experience": 1
+    },
+    {
+      "skill": "Amazon Web Services (AWS)",
+      "experience": 1
+    },
+    {
+      "skill": "Software Architecture",
+      "experience": 1
+    },
+    {
+      "skill": "Git",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 3
+    },
+    {
+      "skill": "MySQL/MariaDB",
+      "experience": 3
+    },
+    {
+      "skill": "Laravel/Lumen Framework",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain software applications using Vue.js, PHP, and MySQL within an enterprise-level LAMP stack environment."
+    },
+    {
+      "duty": "Design and develop APIs and integrations for software applications, ensuring high performance and scalability."
+    },
+    {
+      "duty": "Work with HTML, CSS, and Bootstrap to create user-friendly and visually appealing web interfaces."
+    },
+    {
+      "duty": "Utilize Amazon Web Services (AWS) to optimize application performance and reliability."
+    },
+    {
+      "duty": "Collaborate with a cross-functional team to design and implement software architecture and development best practices."
+    },
+    {
+      "duty": "Adhere to Agile principles and processes for iterative and efficient software development."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (Master's preferred)"
+    }
+  ]
+}

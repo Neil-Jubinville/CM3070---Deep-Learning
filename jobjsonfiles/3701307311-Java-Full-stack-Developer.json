@@ -1,0 +1,141 @@
+{
+  "meta": [
+    {
+      "job_title": "Java Full stack Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 2
+    },
+    {
+      "skill": "Spring Framework",
+      "experience": 1
+    },
+    {
+      "skill": "HTML",
+      "experience": 2
+    },
+    {
+      "skill": "CSS",
+      "experience": 2
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 2
+    },
+    {
+      "skill": "TypeScript",
+      "experience": 1
+    },
+    {
+      "skill": "Angular",
+      "experience": 1
+    },
+    {
+      "skill": "RxJS",
+      "experience": 1
+    },
+    {
+      "skill": "SQL",
+      "experience": 2
+    },
+    {
+      "skill": "JPA",
+      "experience": 1
+    },
+    {
+      "skill": "Hibernate",
+      "experience": 1
+    },
+    {
+      "skill": "JUnit",
+      "experience": 1
+    },
+    {
+      "skill": "TestNG",
+      "experience": 1
+    },
+    {
+      "skill": "Mockito",
+      "experience": 1
+    },
+    {
+      "skill": "Spock",
+      "experience": 1
+    },
+    {
+      "skill": "Jenkins",
+      "experience": 1
+    },
+    {
+      "skill": "Maven",
+      "experience": 1
+    },
+    {
+      "skill": "Gradle",
+      "experience": 1
+    },
+    {
+      "skill": "Unix",
+      "experience": 1
+    },
+    {
+      "skill": "Scrum",
+      "experience": 1
+    },
+    {
+      "skill": "Kanban",
+      "experience": 1
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 2
+    },
+    {
+      "skill": "English Communication",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and execute web applications using Java, HTML, CSS, and JavaScript."
+    },
+    {
+      "duty": "Utilize Spring framework for web application development, including Spring MVC, Spring Data, and Spring Security."
+    },
+    {
+      "duty": "Write and optimize SQL queries for database operations."
+    },
+    {
+      "duty": "Implement and apply Object-Relational Mapping (ORM) with JPA and Hibernate."
+    },
+    {
+      "duty": "Create automated build processes and ensure continuous integration using tools like Jenkins, Maven, and Gradle."
+    },
+    {
+      "duty": "Troubleshoot application issues using log analysis and memory/thread dump analysis."
+    },
+    {
+      "duty": "Work in an Agile environment, following Scrum and Kanban methodologies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

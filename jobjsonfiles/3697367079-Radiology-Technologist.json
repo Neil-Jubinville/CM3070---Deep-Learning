@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Radiology Technologist",
+      "job_category": "Healthcare",
+      "job_class": "Technologist",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Radiographic Procedures",
+      "experience": 5
+    },
+    {
+      "skill": "Radiologic Equipment",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Internship",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnostic Radiology",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Licensure and Certification",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform a variety of diagnostic radiographic procedures to produce images for use in the diagnosis and treatment of medical disorders."
+    },
+    {
+      "duty": "Monitor and maintain essential patient care and safety, including practicing ALARA (As Low As Reasonably Achievable)."
+    },
+    {
+      "duty": "Obtain and document necessary patient information or history in order to perform appropriate exams."
+    },
+    {
+      "duty": "Evaluate images to identify errors and determine whether a repeat study is necessary to improve the image for diagnosis."
+    },
+    {
+      "duty": "Maintain licensure on an annual basis and comply with all healthcare policies and guidelines."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 125,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Two year AMA accredited School of Radiologic Technology, Registered by the ARRT or registry eligible, Licensed by the Commonwealth of Massachusetts\u2019 Department of Public Health: Radiation Control Program in Radiography, Certified in basic life support (BLS)"
+    }
+  ]
+}

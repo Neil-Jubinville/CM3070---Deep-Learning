@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Automotive Technician",
+      "job_category": "Automotive",
+      "job_class": "Technician",
+      "sector": "Automotive",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Automotive Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Vehicle Inspection",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Tire Service",
+      "experience": 2
+    },
+    {
+      "skill": "Oil Changes",
+      "experience": 2
+    },
+    {
+      "skill": "Brake Service",
+      "experience": 2
+    },
+    {
+      "skill": "Fluid Service",
+      "experience": 2
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform automotive services and repairs according to company procedures and guidelines."
+    },
+    {
+      "duty": "Conduct customer and vehicle service including road tests, inspections, and mechanical diagnoses."
+    },
+    {
+      "duty": "Maintain service center standards and provide on-the-job training for new technicians."
+    },
+    {
+      "duty": "Perform physical tasks related to tire service, oil changes, alignments, brake service, and other automotive maintenance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Valid automobile driver\u2019s license, completion of Vocational-Technical School program in a related field, ASE certification preferred"
+    }
+  ]
+}

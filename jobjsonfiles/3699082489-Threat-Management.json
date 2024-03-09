@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Threat Management",
+      "job_category": "Cybersecurity",
+      "job_class": "Associate",
+      "sector": "Cybersecurity",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Threat Hunting",
+      "experience": 3
+    },
+    {
+      "skill": "Intelligence Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Python Programming",
+      "experience": 3
+    },
+    {
+      "skill": "Network Security",
+      "experience": 3
+    },
+    {
+      "skill": "Incident Response",
+      "experience": 3
+    },
+    {
+      "skill": "Security Architecture",
+      "experience": 3
+    },
+    {
+      "skill": "SOC Operations",
+      "experience": 3
+    },
+    {
+      "skill": "Cloud Technologies (AWS/Azure)",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain detection strategies for threat hunting and cyber detection."
+    },
+    {
+      "duty": "Triage cases and alerts to enhance the defense of the network."
+    },
+    {
+      "duty": "Contribute expertise in threat hunting, red/blue team engagements, threat intelligence, data analysis, and governance to the global team."
+    },
+    {
+      "duty": "Evaluate threats and countermeasures to understand their impact and enhance the overall security posture."
+    },
+    {
+      "duty": "Contribute to monitoring critical vulnerabilities, cyber events, and notable cyber activity impacting the firm."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Cybersecurity, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

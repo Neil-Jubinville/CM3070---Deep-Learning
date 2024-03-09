@@ -1,0 +1,49 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Worker",
+      "job_category": "Logistics",
+      "job_class": "Worker",
+      "sector": "Logistics",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Lifting",
+      "experience": 2
+    },
+    {
+      "skill": "Stamina",
+      "experience": 3
+    },
+    {
+      "skill": "Detail-Oriented",
+      "experience": 3
+    },
+    {
+      "skill": "Reliability",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Loading/unloading packages in and out of UPS trailers or trucks."
+    },
+    {
+      "duty": "Sorting packages to ensure they reach the correct destination."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120
+    },
+    {
+      "student_teacher": 60
+    },
+    {
+      "introvert_extrovert": 80
+    }
+  ]
+}

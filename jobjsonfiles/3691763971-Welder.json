@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Welder",
+      "job_category": "Skilled Labor",
+      "job_class": "Welder",
+      "sector": "Manufacturing",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Metal Cutting",
+      "experience": 5
+    },
+    {
+      "skill": "Aluminum Welding",
+      "experience": 5
+    },
+    {
+      "skill": "Stainless Welding",
+      "experience": 5
+    },
+    {
+      "skill": "Carbon Welding",
+      "experience": 5
+    },
+    {
+      "skill": "Stick Welding",
+      "experience": 5
+    },
+    {
+      "skill": "TIG Welding",
+      "experience": 5
+    },
+    {
+      "skill": "MIG Welding",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Ability to Follow Directions",
+      "experience": 5
+    },
+    {
+      "skill": "Fabrication Knowledge",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Cutting and shearing metal as per requirements"
+    },
+    {
+      "duty": "Welding aluminum, stainless steel, and carbon based on project needs"
+    },
+    {
+      "duty": "Performing stick, TIG, and MIG welding techniques as necessary"
+    },
+    {
+      "duty": "Follow safety guidelines and communicate effectively within the team"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": []
+}

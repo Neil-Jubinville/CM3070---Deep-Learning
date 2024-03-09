@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Specialist",
+      "job_category": "Customer Service",
+      "job_class": "Specialist",
+      "sector": "Sales",
+      "salary": 30000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 2
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Engage with customers via phone, email, and chat to provide outstanding support and assistance."
+    },
+    {
+      "duty": "Demonstrate expert knowledge about products, pricing, and availability, effectively addressing customer inquiries."
+    },
+    {
+      "duty": "Collaborate closely with internal teams to ensure prompt and effective resolution of customer needs."
+    },
+    {
+      "duty": "Accurately perform data entry tasks in various platforms to maintain customer records and interactions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 30,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Successful completion of a skill assessment and background check is required."
+    }
+  ]
+}

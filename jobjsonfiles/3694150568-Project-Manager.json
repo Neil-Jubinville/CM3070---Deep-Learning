@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Managerial",
+      "sector": "Construction",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Construction Management",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Risk Management",
+      "experience": 5
+    },
+    {
+      "skill": "Budgeting",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 5
+    },
+    {
+      "skill": "Contract Management",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage and oversee all aspects of construction projects, ensuring they are completed on time and within budget."
+    },
+    {
+      "duty": "Lead a team of construction professionals, delegating tasks and providing guidance to ensure project success."
+    },
+    {
+      "duty": "Identify and mitigate potential risks, ensuring a safe and compliant work environment."
+    },
+    {
+      "duty": "Manage project budgets, tracking expenses and reporting on financial progress."
+    },
+    {
+      "duty": "Negotiate and manage contracts with vendors, suppliers, and subcontractors."
+    },
+    {
+      "duty": "Ensure efficient time management and scheduling of project milestones and deliverables."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Civil Engineering, Construction Management, or related field (Master's preferred)"
+    }
+  ]
+}

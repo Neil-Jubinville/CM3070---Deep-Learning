@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Mental Health Counselor",
+      "job_category": "Healthcare",
+      "job_class": "Counselor",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mental Health Counseling",
+      "experience": 2
+    },
+    {
+      "skill": "Substance Abuse Counseling",
+      "experience": 2
+    },
+    {
+      "skill": "Assessment and Coordination",
+      "experience": 2
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Therapy Services",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide quality, cost-effective inpatient/outpatient care for patients with mental health and/or substance abuse issues."
+    },
+    {
+      "duty": "Assure access, conduct assessments, and coordinate clinical summary treatment plans to determine the appropriate level of care."
+    },
+    {
+      "duty": "Assume a caseload and provide mental health and/or substance abuse counseling services to patients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's Degree in Social Work, Counseling, Psychology, or related field. Valid CT Licensed Masters of Social Work if Master's degree is in Social Work."
+    }
+  ]
+}

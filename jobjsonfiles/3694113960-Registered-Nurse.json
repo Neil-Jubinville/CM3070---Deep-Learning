@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Nursing Care Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care Evaluation",
+      "experience": 5
+    },
+    {
+      "skill": "Effective Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Room Experience",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assess the needs of patients in the Emergency Room and plan nursing care accordingly."
+    },
+    {
+      "duty": "Supervise and lead personnel in carrying out the plan of care for patients."
+    },
+    {
+      "duty": "Accountable for the quality of patient care delivered in the Emergency Room."
+    },
+    {
+      "duty": "Modify and deliver age-specific nursing care according to unit scope of services."
+    },
+    {
+      "duty": "Serve in the charge role, responsible for clinical and leadership functions in the Emergency Room."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current license to practice as a Registered Nurse in the State of New York"
+    }
+  ]
+}

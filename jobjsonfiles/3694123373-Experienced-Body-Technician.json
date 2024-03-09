@@ -1,0 +1,52 @@
+{
+  "meta": [
+    {
+      "job_title": "Experienced Body Technician",
+      "job_category": "Skilled Trades",
+      "job_class": "Technician",
+      "sector": "Automotive",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Fiberglass Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Metal Work",
+      "experience": 5
+    },
+    {
+      "skill": "Auto Body Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Detail Oriented",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform fiberglass repair and metal work on vehicles with precision and attention to detail."
+    },
+    {
+      "duty": "Repair and replace auto body parts using appropriate tools and techniques to restore vehicle appearance and function."
+    },
+    {
+      "duty": "Demonstrate a willingness to train and mentor new technicians who have a strong desire to learn and develop the necessary skills."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ]
+}

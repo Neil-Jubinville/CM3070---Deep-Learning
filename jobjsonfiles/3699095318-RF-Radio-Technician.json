@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "RF Radio Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "RF Technology",
+      "experience": 5
+    },
+    {
+      "skill": "Antenna Installation",
+      "experience": 5
+    },
+    {
+      "skill": "Signal Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Wireless Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Calibration",
+      "experience": 5
+    },
+    {
+      "skill": "Circuit Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "RF Testing",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Install, maintain, and repair RF communication equipment and systems."
+    },
+    {
+      "duty": "Perform signal analysis and troubleshoot technical issues in wireless communication systems."
+    },
+    {
+      "duty": "Calibrate and test RF devices and antennas to ensure optimal performance and functionality."
+    },
+    {
+      "duty": "Conduct circuit analysis and diagnose equipment malfunctions for effective repair and maintenance."
+    },
+    {
+      "duty": "Ensure compliance with industry standards and regulations in RF technology and communication systems."
+    },
+    {
+      "duty": "Provide technical support and assistance to team members and clients in addressing RF communication challenges."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree in Electrical Engineering, Telecommunications, or related field (Bachelor's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 24000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Completes assigned work orders and preventative maintenance on the property."
+    },
+    {
+      "duty": "Diagnoses the source or cause of defects or problems, and makes repairs in accordance with established policies."
+    },
+    {
+      "duty": "Prepares vacant apartment homes for leasing and new move-ins by completing the pre-move-out inspection and maintenance tasks."
+    },
+    {
+      "duty": "Supports cost-cutting and expense control programs by fixing rather than replacing parts when possible."
+    },
+    {
+      "duty": "Assists in maintaining the grounds, common areas, and amenities by performing general cleaning and painting curbs and signage as needed."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Property Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Standards",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 1
+    },
+    {
+      "skill": "Documentation",
+      "experience": 1
+    },
+    {
+      "skill": "Cleaning and Sanitizing",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

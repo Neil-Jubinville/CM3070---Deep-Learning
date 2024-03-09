@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Real Estate Agent",
+      "job_category": "Real Estate",
+      "job_class": "Agent",
+      "sector": "Sales",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Real Estate Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 5
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Marketing",
+      "experience": 5
+    },
+    {
+      "skill": "Self-Driven",
+      "experience": 5
+    },
+    {
+      "skill": "Coaching",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Networking",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist clients in buying, selling, and renting properties by providing guidance, market analysis, and property valuations."
+    },
+    {
+      "duty": "Negotiate and facilitate real estate transactions, ensuring favorable outcomes for clients and the agency."
+    },
+    {
+      "duty": "Build and maintain relationships with clients, understanding their needs and preferences to provide personalized real estate solutions."
+    },
+    {
+      "duty": "Communicate effectively with clients, partners, and stakeholders to ensure clear and transparent transactions."
+    },
+    {
+      "duty": "Address and resolve challenges related to property transactions, utilizing problem-solving skills and market knowledge."
+    },
+    {
+      "duty": "Develop and implement marketing strategies to promote properties and attract potential buyers, utilizing digital and traditional marketing channels."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "CA Real Estate License (in progress or already obtained)"
+    }
+  ]
+}

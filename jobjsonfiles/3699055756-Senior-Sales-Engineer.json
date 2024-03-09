@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Sales Engineer",
+      "job_category": "Sales",
+      "job_class": "Senior",
+      "sector": "Sales",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Client-Facing Experience",
+      "experience": 7
+    },
+    {
+      "skill": "Risk Assessments & Consulting",
+      "experience": 7
+    },
+    {
+      "skill": "Networking Standards",
+      "experience": 7
+    },
+    {
+      "skill": "Cloud Platforms Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Security Certifications",
+      "experience": 5
+    },
+    {
+      "skill": "SIEM, XDR, SOAR, Pen Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Knowledge of Cloud Infrastructure",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform risk assessments & consulting for enterprise networks & infrastructures."
+    },
+    {
+      "duty": "Understand networking standards, such as DNS, DHCP, TCP/IP, HTTP, JSON."
+    },
+    {
+      "duty": "Work with regulatory frameworks such as ISO 27001, FedRAMP, PCI, and HIPAA."
+    },
+    {
+      "duty": "Experience with various cloud platforms such as AWS, Azure, & GCP."
+    },
+    {
+      "duty": "Possess relevant cloud & security certifications such as CISSP, CCSP, Cloud+, CCSK or others."
+    },
+    {
+      "duty": "Have detailed technical knowledge of cloud infrastructure and tools such as; AWS, Terraform and Ansible."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in a related field (Master's preferred)"
+    }
+  ]
+}

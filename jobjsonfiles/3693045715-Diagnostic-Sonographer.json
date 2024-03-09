@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Diagnostic Sonographer",
+      "job_category": "Healthcare",
+      "job_class": "Diagnostic",
+      "sector": "Healthcare",
+      "salary": 76000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Ultrasound Imaging",
+      "experience": 5
+    },
+    {
+      "skill": "Anatomy",
+      "experience": 5
+    },
+    {
+      "skill": "Physiology",
+      "experience": 5
+    },
+    {
+      "skill": "Radiology",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Fast-paced Environment",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform ultrasound examinations and provide quality images for interpretation."
+    },
+    {
+      "duty": "Thorough understanding of anatomy, physiology, and radiology principles."
+    },
+    {
+      "duty": "Accurately interpret and document results."
+    },
+    {
+      "duty": "Excellent communication skills."
+    },
+    {
+      "duty": "Ability to work in a fast-paced environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "ARDMS in any or all specialties - AB, RVT, OB, BR (can read a mammogram)"
+    },
+    {
+      "credential": "Current BLS"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Analyst",
+      "job_category": "Information Technology",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Documenting Business Requirements",
+      "experience": 4
+    },
+    {
+      "skill": "Technical Requirements Transposition",
+      "experience": 4
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 4
+    },
+    {
+      "skill": "Requirements Gathering",
+      "experience": 4
+    },
+    {
+      "skill": "SLA Adherence",
+      "experience": 4
+    },
+    {
+      "skill": "Testing and QA",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work with Product Owners to document requirements for multiple applications."
+    },
+    {
+      "duty": "Transpose business requirements into technical requirements for developers."
+    },
+    {
+      "duty": "Perform Quality Assurance checks across Tier 1 sites for misspellings, grammar, broken links, etc."
+    },
+    {
+      "duty": "Gather requirements for new functionality within the ecosystem."
+    },
+    {
+      "duty": "Ensure all business requirements are created and delivered to the appropriate dev teams, while adhering to SLAs."
+    },
+    {
+      "duty": "Aid in testing for releases and special projects."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": []
+}

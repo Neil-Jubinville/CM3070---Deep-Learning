@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Hospitality Concierge",
+      "job_category": "Hospitality",
+      "job_class": "Concierge",
+      "sector": "Hospitality",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 2
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensure patients receive a superior hospital experience in a first-class environment."
+    },
+    {
+      "duty": "Serve all patients in the OB Department and act as a direct liaison between patients, families, physicians, and staff."
+    },
+    {
+      "duty": "Maintain a professional, dignified, high-end atmosphere throughout the health center."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Healthcare or related field"
+    }
+  ]
+}

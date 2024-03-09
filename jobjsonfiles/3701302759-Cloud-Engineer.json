@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Cloud Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "GCP",
+      "experience": 5
+    },
+    {
+      "skill": "Azure",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 5
+    },
+    {
+      "skill": "Infrastructure Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage projects, including automation that spans many different platforms."
+    },
+    {
+      "duty": "Lead technical projects."
+    },
+    {
+      "duty": "Working knowledge of CI/CD tools and concepts - AWS pipelines, Azure Pipelines, GitHub Workflow."
+    },
+    {
+      "duty": "Experience managing core AWS infrastructure."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor or Master\u2019s degree in computer science or engineering"
+    }
+  ]
+}

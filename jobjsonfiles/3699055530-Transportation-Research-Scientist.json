@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Transportation Research Scientist",
+      "job_category": "Engineering",
+      "job_class": "Scientist",
+      "sector": "Technology",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Traffic Signal Control",
+      "experience": 5
+    },
+    {
+      "skill": "High-Res Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Python/Java",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Learning",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Queries",
+      "experience": 5
+    },
+    {
+      "skill": "Research Proposal Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Connected Vehicle Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Traffic Simulation and Optimization",
+      "experience": 5
+    },
+    {
+      "skill": "Proposal Writing Experience",
+      "experience": 5
+    },
+    {
+      "skill": "SPaT and MAP Data Standards",
+      "experience": 5
+    },
+    {
+      "skill": "CAV Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct innovative research and development in arterial traffic control/operation, traffic safety, ITS, and traffic modeling."
+    },
+    {
+      "duty": "Develop algorithms for cellular/cloud based V2X applications."
+    },
+    {
+      "duty": "Optimize traffic management and signal timing with vehicle trajectories and crowdsourced data."
+    },
+    {
+      "duty": "Test and integration of transportation system hardware and software."
+    },
+    {
+      "duty": "Write research proposals and technical reports."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "PhD or MS in Civil Engineering (CE), Transportation Engineering (TE), Computer Science (CS), or related field."
+    }
+  ]
+}

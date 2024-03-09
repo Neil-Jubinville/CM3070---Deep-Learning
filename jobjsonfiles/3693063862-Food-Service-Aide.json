@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Food Service Aide",
+      "job_category": "Customer Service",
+      "job_class": "Aide",
+      "sector": "Food and Nutrition",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Food Handling",
+      "experience": 3
+    },
+    {
+      "skill": "Sanitation",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Receive, store, and inventory food and related supplies."
+    },
+    {
+      "duty": "Prepare and assemble food for service to the customer."
+    },
+    {
+      "duty": "Support in the cleaning, sanitation, and maintenance of food service/work areas."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent"
+    }
+  ]
+}

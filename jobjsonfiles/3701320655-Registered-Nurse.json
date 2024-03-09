@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 80000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Case Management",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Advocacy",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Continuing Education",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate, communicate & facilitate optimal provision of care utilizing digital platforms."
+    },
+    {
+      "duty": "Assess, plan, implement, monitor & evaluate patient's plan of care from admission to discharge."
+    },
+    {
+      "duty": "Utilize clinical knowledge & critical thinking skills to coordinate, implement & support the plan of care."
+    },
+    {
+      "duty": "Ensure effective transition of care across the continuum."
+    },
+    {
+      "duty": "Monitor quality metrics specific to the department & ensure complete & accurate documentation."
+    },
+    {
+      "duty": "Act as mentor, clinician, educator, consultant/collaborator, and navigator."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduation from an accredited school of nursing and current licensure in the State of New York, with at least 1 year of experience. Baccalaureate degree in the Science of Nursing (BSN) preferred."
+    }
+  ]
+}

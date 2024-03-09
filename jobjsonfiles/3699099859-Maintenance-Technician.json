@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 45000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Maintenance and Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "General Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Complete all maintenance and repair tasks as directed by Facilities management"
+    },
+    {
+      "duty": "Monitor operation and proper use of all equipment and systems"
+    },
+    {
+      "duty": "Troubleshoot and repair issues in all areas of the venue"
+    },
+    {
+      "duty": "Answer and respond to maintenance calls for assistance"
+    },
+    {
+      "duty": "Monitor the use and inventory of spare parts, maintenance supplies, and equipment"
+    },
+    {
+      "duty": "Adhere to safety, health, and environmental policies and procedures"
+    },
+    {
+      "duty": "Communicate accurately and effectively with Guests and Associates"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

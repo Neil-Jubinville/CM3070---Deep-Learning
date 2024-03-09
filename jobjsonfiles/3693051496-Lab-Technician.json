@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Lab Technician",
+      "job_category": "Laboratory",
+      "job_class": "Technician",
+      "sector": "Medical Devices",
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Unpacking and sorting returned products in the Complaint Investigations Lab."
+    },
+    {
+      "duty": "Investigating returned products to resolve customer complaints regarding blood glucose meters, strips & sensors."
+    },
+    {
+      "duty": "Documenting complaint investigations in the Complaint Handling System."
+    },
+    {
+      "duty": "Using troubleshooting equipment such as multi-meters, oscilloscopes, test fixtures, and microscopes to complete investigations."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electronic Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 4
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 4
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 4
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "H.S. Diploma or equivalent (such as GED)"
+    },
+    {
+      "credential": "Associates (Two year) degree in Electrical Engineering or other Science"
+    }
+  ],
+  "salary": 42000
+}

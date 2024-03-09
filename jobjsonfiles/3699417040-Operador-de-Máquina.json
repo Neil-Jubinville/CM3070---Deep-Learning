@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Operador de M\u00e1quina",
+      "job_category": "Manufacturing",
+      "job_class": "Operator",
+      "sector": "Manufacturing",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Machinery Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Tool Handling",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Inspection",
+      "experience": 3
+    },
+    {
+      "skill": "Forklift Operation",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate and monitor machinery, ensuring the quality of finished workpieces according to specifications."
+    },
+    {
+      "duty": "Utilize manual tools for deburring, cutting, and polishing of workpieces."
+    },
+    {
+      "duty": "Handle heavy parts using bridge cranes and jib cranes, and operate forklifts for material and part movement."
+    },
+    {
+      "duty": "Complete accurate certification reports and comply with safety procedures and policies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED (Technical certifications or machinery operation training preferred)"
+    }
+  ]
+}

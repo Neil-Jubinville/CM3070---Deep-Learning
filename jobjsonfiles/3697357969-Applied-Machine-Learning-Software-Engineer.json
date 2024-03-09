@@ -1,0 +1,96 @@
+{
+  "meta": [
+    {
+      "job_title": "Applied Machine Learning Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 125000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "C++",
+      "experience": 4
+    },
+    {
+      "skill": "Data Structures",
+      "experience": 4
+    },
+    {
+      "skill": "Algorithms",
+      "experience": 4
+    },
+    {
+      "skill": "Distributed Systems",
+      "experience": 5
+    },
+    {
+      "skill": "ML Platforms",
+      "experience": 4
+    },
+    {
+      "skill": "TensorFlow",
+      "experience": 4
+    },
+    {
+      "skill": "Pytorch",
+      "experience": 4
+    },
+    {
+      "skill": "SQL",
+      "experience": 4
+    },
+    {
+      "skill": "Parallel Data Processing Pipelines",
+      "experience": 4
+    },
+    {
+      "skill": "Machine Learning Pipelines",
+      "experience": 5
+    },
+    {
+      "skill": "Large-Scale Machine Learning Infrastructure",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Capacity Planning",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop sustainable, scalable solutions to ensure the reliability and performance of machine learning workflows."
+    },
+    {
+      "duty": "Automate data upload, processing, training, evaluating, deploying, and optimizing pipelines."
+    },
+    {
+      "duty": "Collaborate with stakeholder teams to implement and evolve large-scale Machine Learning infrastructure."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 80,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS degree in Computer Science or a related field, or equivalent practical experience"
+    },
+    {
+      "credential": "MS or PhD degree in Computer Science or a related field, or equivalent practical experience"
+    }
+  ]
+}

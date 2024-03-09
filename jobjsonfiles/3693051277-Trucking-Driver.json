@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Trucking Driver",
+      "job_category": "Transportation",
+      "job_class": "Driver",
+      "sector": "Transportation",
+      "salary": 64000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Trucking Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform pre-trip inspections on vehicles to ensure safe transportation and prevent unnecessary maintenance."
+    },
+    {
+      "duty": "Properly strap down loads on trailers to secure them for transportation."
+    },
+    {
+      "duty": "Physically capable of climbing on trailers and tarping loads."
+    },
+    {
+      "duty": "Be on time for pick-ups and deliveries, and maintain a presentable and respectful demeanor while dealing with customers and coworkers."
+    },
+    {
+      "duty": "Drive a truck for long periods of time while staying within ELD guidelines and communicating any issues that may arise with a load or equipment."
+    },
+    {
+      "duty": "Maintain a clean vehicle and equipment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Commercial Driver's License (CDL)"
+    },
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

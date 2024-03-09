@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Retail",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Sales Techniques",
+      "experience": 2
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Serve as the face of Guitar Center in the store, greeting customers, qualifying their needs, matching their need to the right product, and pitching and overcoming objections to close the sale."
+    },
+    {
+      "duty": "Reach sales targets on services."
+    },
+    {
+      "duty": "Demonstrate product and service knowledge to customers."
+    },
+    {
+      "duty": "Assist customers and guide them through the sales process."
+    },
+    {
+      "duty": "Continual learning through the onboarding, certification, and continuing education process."
+    },
+    {
+      "duty": "Assisting with the execution of all tasks to ensure the store is ready to conduct business and service customers."
+    },
+    {
+      "duty": "Keep an eye on inventory levels and replenish displays as needed."
+    },
+    {
+      "duty": "Clienteling/build relationships with customers to fulfill future service needs."
+    },
+    {
+      "duty": "Additional duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

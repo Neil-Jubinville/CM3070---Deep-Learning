@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Jr Unix/ Linux Technician",
+      "job_category": "IT",
+      "job_class": "Technician",
+      "sector": "Software Engineering",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Unix/Linux Administration",
+      "experience": 2
+    },
+    {
+      "skill": "Data Center Operations",
+      "experience": 2
+    },
+    {
+      "skill": "Shell Scripting (Bourne, Perl, Python)",
+      "experience": 2
+    },
+    {
+      "skill": "Orchestration (Salt, Ansible)",
+      "experience": 2
+    },
+    {
+      "skill": "Open-source Automation Tools",
+      "experience": 2
+    },
+    {
+      "skill": "Open-source Metric Analytics & Visualization Tools",
+      "experience": 2
+    },
+    {
+      "skill": "Written and Verbal Communication",
+      "experience": 2
+    },
+    {
+      "skill": "System Administration",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement and support operational procedures on different hardware platforms in the client's computer environment."
+    },
+    {
+      "duty": "Improve operational efficiency by championing standardization and innovation."
+    },
+    {
+      "duty": "Provide and automate day-to-day systems administration duties using scripting abilities."
+    },
+    {
+      "duty": "Stay up to date with new technologies and identify those that can help the company's automation efforts."
+    },
+    {
+      "duty": "Work closely with various groups including system administration, application development, and SRE teams."
+    },
+    {
+      "duty": "Be involved in special projects such as designing, testing, and implementing processes that the operations staff handles."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 75,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in Computer Science, Engineering, Mathematics, or equivalent work experience."
+    }
+  ]
+}

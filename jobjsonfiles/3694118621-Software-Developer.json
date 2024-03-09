@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 105000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "RESTful API Development",
+      "experience": 7
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "Node.js",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "API Security",
+      "experience": 5
+    },
+    {
+      "skill": "Microservices Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Version Control Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop RESTful APIs using the Apigee platform."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to gather requirements and design API solutions."
+    },
+    {
+      "duty": "Implement API proxies, policies, and security mechanisms in Apigee."
+    },
+    {
+      "duty": "Configure and customize the Apigee platform to meet specific business needs."
+    },
+    {
+      "duty": "Integrate APIs with backend systems and databases."
+    },
+    {
+      "duty": "Implement and enforce API governance and best practices."
+    },
+    {
+      "duty": "Troubleshoot and resolve issues related to API implementations."
+    },
+    {
+      "duty": "Stay updated with the latest trends in API management and implement them in the development process."
+    },
+    {
+      "duty": "Collaborate with testing teams to ensure the quality and reliability of APIs."
+    },
+    {
+      "duty": "Document API design, development, and deployment processes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent experience)"
+    }
+  ]
+}

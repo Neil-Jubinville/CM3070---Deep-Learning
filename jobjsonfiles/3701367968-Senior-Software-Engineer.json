@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 180000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Low-Latency Techniques",
+      "experience": 5
+    },
+    {
+      "skill": "Multi-Threaded Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Distributed Systems Design",
+      "experience": 5
+    },
+    {
+      "skill": "Concurrent Programming",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design high-performance trading system components in a distributed architecture"
+    },
+    {
+      "duty": "Analyze and improve the efficiency, scalability, and stability of systems"
+    },
+    {
+      "duty": "Interact with stakeholders (traders, portfolio managers, risk)"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "MS in Computer Science or related field"
+    }
+  ]
+}

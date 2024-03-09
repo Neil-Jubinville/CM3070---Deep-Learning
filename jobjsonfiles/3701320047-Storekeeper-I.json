@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Storekeeper I",
+      "job_category": "Service Operations",
+      "job_class": "Storekeeper",
+      "sector": "Service Operations",
+      "salary": 38000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Ordering Receiving",
+      "experience": 1
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Food Safety",
+      "experience": 2
+    },
+    {
+      "skill": "Team Communication",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Receive, load, unload, store, and issue equipment, food, and supplies to and from the unit as required."
+    },
+    {
+      "duty": "Prepare all necessary forms for receipt and issuance of stock, and store supplies in proper locations."
+    },
+    {
+      "duty": "Rotate specified stock according to receipt date (First In First Out) and perform periodic inventory."
+    },
+    {
+      "duty": "Keep all equipment and facilities in an orderly and sanitary condition."
+    },
+    {
+      "duty": "Perform related duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent."
+    }
+  ]
+}

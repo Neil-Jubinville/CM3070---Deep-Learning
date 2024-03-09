@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Principal Machine Learning Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 250000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Machine Learning",
+      "experience": 8
+    },
+    {
+      "skill": "Data Science",
+      "experience": 8
+    },
+    {
+      "skill": "Statistics",
+      "experience": 8
+    },
+    {
+      "skill": "Computer Science",
+      "experience": 8
+    },
+    {
+      "skill": "TensorFlow",
+      "experience": 8
+    },
+    {
+      "skill": "PyTorch",
+      "experience": 8
+    },
+    {
+      "skill": "Scikit-Learn",
+      "experience": 8
+    },
+    {
+      "skill": "Healthcare Industry Knowledge",
+      "experience": 8
+    },
+    {
+      "skill": "Cross-functional Collaboration",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, build, maintain, and govern the ML Platform and Models, including operationalizing and orchestrating machine learning and natural language models."
+    },
+    {
+      "duty": "Accelerate the translation of AI/ML innovations into production code via infrastructure that can perform at scale and are resilient."
+    },
+    {
+      "duty": "Design, deploy, and maintain the full ML platform stack including capabilities such as monitoring and data observability, the full model lifecycle, and feature and prediction stores."
+    },
+    {
+      "duty": "Create and mature CI/CD/CT for machine learning and AI development."
+    },
+    {
+      "duty": "Deliver solutions that enable scientists and engineers to develop and apply their ML models in light speed using the latest technology frameworks, such as Spark, Docker, Kubernetes, and Kafka."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 0,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "MS/Ph.D. in Data Science, Machine Learning, Statistics, Computer Science, Applied Math, biomedical engineering, or equivalent highly technical field with 8+ years of experience."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Telecommunications Specialist",
+      "job_category": "Telecommunications",
+      "job_class": "Specialist",
+      "sector": "Telecommunications",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Telecommunications",
+      "experience": 10
+    },
+    {
+      "skill": "Risk Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "National Security Issues",
+      "experience": 5
+    },
+    {
+      "skill": "Technology Security Policy",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Interagency Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Open Source Intelligence Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Classified Information Analysis",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Review Team Telecom applications and FCC license documentation related to telecommunications services sector."
+    },
+    {
+      "duty": "Conduct due diligence and fact-finding research on foreign participation in U.S. telecommunications to assess risks."
+    },
+    {
+      "duty": "Analyze telecommunication security issues and formulate actionable policy recommendations for DHS leadership."
+    },
+    {
+      "duty": "Author analysis papers and produce case summaries regarding foreign participation risks."
+    },
+    {
+      "duty": "Support evolving telecommunications and technology security policy developments."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Engineering, Information Technology, Computer Science, Telecommunications, or related field (Master's Degree preferred)"
+    }
+  ]
+}

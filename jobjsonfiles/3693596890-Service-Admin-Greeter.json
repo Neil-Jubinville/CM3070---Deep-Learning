@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Service Admin/Greeter",
+      "job_category": "Customer Service",
+      "job_class": "Admin",
+      "sector": "Automotive",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Phone Etiquette",
+      "experience": 3
+    },
+    {
+      "skill": "Scheduling",
+      "experience": 3
+    },
+    {
+      "skill": "Team Player",
+      "experience": 3
+    },
+    {
+      "skill": "High School Diploma",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greet Showroom Customers and monitor 'Sales Ups'"
+    },
+    {
+      "duty": "Maintain refreshment and showroom cleanliness"
+    },
+    {
+      "duty": "Field all incoming calls and back up receptionist"
+    },
+    {
+      "duty": "Scan and store repair orders according to guidelines"
+    },
+    {
+      "duty": "Schedule Service Appointments and cross train with other Service Admin positions"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "meta": [
+    {
+      "job_title": "Axiom Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Axiom Controller View",
+      "experience": 5
+    },
+    {
+      "skill": "PL/SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Informatica ETL",
+      "experience": 5
+    },
+    {
+      "skill": "Unix Shell Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Regulatory Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Data Warehousing",
+      "experience": 5
+    },
+    {
+      "skill": "Performance Tuning",
+      "experience": 5
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop Data Sources, Data Models, Shorthands, Portfolios, Aggregations, Fee Form and Tabular Report and workflows using AXIOM controller view tool based on Regulatory report requirements."
+    },
+    {
+      "duty": "Development and review of PL/SQL code to support data sourcing into Axiom understanding end to end data flow from DB to Axiom."
+    },
+    {
+      "duty": "Work on automation of Axiom workflows schedules using Automic Scheduler."
+    },
+    {
+      "duty": "Have knowledge on US regulatory reports like FFIEC031, FFIEC041, FRY 9C, FRY 9LP etc."
+    },
+    {
+      "duty": "Work in the role of an Axiom Developer in a fast-paced environment, comfortable dealing with clients, Very strong communication skills."
+    },
+    {
+      "duty": "Ability to review project related documents such as BRD, FSD and understand the design and solutions architecture with minimal guidance."
+    },
+    {
+      "duty": "Hands on development of the ETL jobs and creating the Unix Shell scripts for various requirements."
+    },
+    {
+      "duty": "Ensuring code written meets the predefined company and departments standards."
+    },
+    {
+      "duty": "Prior performance tuning experience both inside the Axiom controller view as well as at the database level."
+    },
+    {
+      "duty": "Understanding the Functional documents and work with BA/Users to develop the reports."
+    },
+    {
+      "duty": "Preparation and execution of detailed unit test cases to test the Axiom code in Controller View."
+    },
+    {
+      "duty": "Migration of Axiom components from Dev environment to Prod."
+    },
+    {
+      "duty": "Experience in Regulatory Reporting and Data Warehousing."
+    },
+    {
+      "duty": "Provide BAU and post-implementation support of Regulatory reports on Axiom."
+    },
+    {
+      "duty": "Maintain and manage the Axiom CV application on Dev/Test/Cert and Prod Environment activity like upgrade, patching and Product code releases onboarding."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, IT, or related field"
+    }
+  ]
+}

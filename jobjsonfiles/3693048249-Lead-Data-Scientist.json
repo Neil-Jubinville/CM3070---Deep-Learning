@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Data Scientist",
+      "job_category": "Data Science",
+      "job_class": "Lead",
+      "sector": "Data Science",
+      "salary": 221000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Science",
+      "experience": 7
+    },
+    {
+      "skill": "SQL",
+      "experience": 7
+    },
+    {
+      "skill": "Python",
+      "experience": 7
+    },
+    {
+      "skill": "Statistical Analysis",
+      "experience": 7
+    },
+    {
+      "skill": "Stakeholder Management",
+      "experience": 7
+    },
+    {
+      "skill": "Communication",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Working on problems that affect the lives of real people and making positive changes to their health and lives."
+    },
+    {
+      "duty": "Basing work on scientifically-proven, peer-reviewed methodologies designed by medical professionals."
+    },
+    {
+      "duty": "Collaborating with a team both onsite and offsite, and utilizing Python and SQL to analyze data and run statistical tests."
+    },
+    {
+      "duty": "Using data science to drive business strategy and building successful stakeholder relationships across a range of teams."
+    },
+    {
+      "duty": "Explaining complex data concepts to non-technical stakeholders, both in writing and live conversations."
+    },
+    {
+      "duty": "Applying statistical analysis techniques, such as regressions and decision trees, to do analysis."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Data Science, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

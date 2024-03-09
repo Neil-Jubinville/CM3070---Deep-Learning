@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Remote Chiropractor",
+      "job_category": "Healthcare",
+      "job_class": "Chiropractor",
+      "sector": "Healthcare",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Chiropractic Care",
+      "experience": 10
+    },
+    {
+      "skill": "Medical Documentation Review",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care Experience",
+      "experience": 10
+    },
+    {
+      "skill": "Computer Navigation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct independent, impartial reviews of medical documentation to ensure services provided are in accordance with recognized standards of care and current medical literature."
+    },
+    {
+      "duty": "Review cases remotely on a flexible schedule, likely 1-2 cases a month."
+    },
+    {
+      "duty": "Supplement income while maintaining an active practice through case rates of $30 per case (20-30 minutes per case)."
+    },
+    {
+      "duty": "Stay abreast of emerging practices and technologies in the chiropractic field through exposure to controversial, cutting-edge treatment modalities and observing treatment decisions made by other chiropractors."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 0,
+      "student_teacher": 0,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Active practice of a minimum of 8 hours per week, Board Certification, and a clean record. Minimum of 5 years of recent full-time patient care experience. Above average computer navigation skills and an unrestricted Kentucky state license."
+    }
+  ]
+}

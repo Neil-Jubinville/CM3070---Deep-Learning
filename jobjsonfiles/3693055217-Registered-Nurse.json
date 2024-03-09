@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 46600,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Nephrology",
+      "experience": 0.25
+    },
+    {
+      "skill": "Interdisciplinary Team Leadership",
+      "experience": 1
+    },
+    {
+      "skill": "Quality Care",
+      "experience": 1
+    },
+    {
+      "skill": "Compliance Management",
+      "experience": 1
+    },
+    {
+      "skill": "Clinical Education",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the treatment floor and oversee patient care"
+    },
+    {
+      "duty": "Advocate for patients and coordinate with the interdisciplinary team and physicians"
+    },
+    {
+      "duty": "Ensure compliance with policies, procedures, and regulations"
+    },
+    {
+      "duty": "Provide education to staff and patients"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduation from an accredited nursing school or equivalent, BSN preferred"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Front Desk Associate",
+      "job_category": "Customer Service",
+      "job_class": "Associate",
+      "sector": "Customer Service",
+      "salary": 18,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    },
+    {
+      "skill": "Electronic Security Control Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide excellent customer service, communication, and time management skills in a front desk role."
+    },
+    {
+      "duty": "Monitor Emergency Response System and respond to emergency situations efficiently."
+    },
+    {
+      "duty": "Greet and direct residents, guests, and invitees, and control access to the building."
+    },
+    {
+      "duty": "Maintain daily logs, records, and forms, and resolve complaints/issues."
+    },
+    {
+      "duty": "Follow safety procedures to maintain a safe and secure environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalency preferred. College level courses in business or hospitality are a plus."
+    }
+  ]
+}

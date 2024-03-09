@@ -1,0 +1,172 @@
+{
+  "meta": [
+    {
+      "job_title": "Adversarial Engineer (Red Team)",
+      "job_category": "Cybersecurity",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 135000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Adversary Emulations",
+      "experience": 5
+    },
+    {
+      "skill": "MITRE ATT&CK Framework",
+      "experience": 5
+    },
+    {
+      "skill": "Penetration Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Red Team Operations",
+      "experience": 5
+    },
+    {
+      "skill": "Vulnerability Management",
+      "experience": 5
+    },
+    {
+      "skill": "Social Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Threat Intelligence",
+      "experience": 5
+    },
+    {
+      "skill": "Security Tools (Cobalt Strike, Metasploit, etc.)",
+      "experience": 5
+    },
+    {
+      "skill": "Linux and Windows",
+      "experience": 5
+    },
+    {
+      "skill": "Networking Fundamentals",
+      "experience": 5
+    },
+    {
+      "skill": "Offensive Security Tactics",
+      "experience": 5
+    },
+    {
+      "skill": "Programming and Scripting (C#, Python, etc.)",
+      "experience": 5
+    },
+    {
+      "skill": "Phishing and Red Team Simulations",
+      "experience": 5
+    },
+    {
+      "skill": "Threat Detection and Incident Response",
+      "experience": 5
+    },
+    {
+      "skill": "Encryption and Internet Protocols",
+      "experience": 5
+    },
+    {
+      "skill": "Report Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Purple Team Exercises",
+      "experience": 5
+    },
+    {
+      "skill": "Active Directory Exploitation",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Environments (AWS, Azure, GCP)",
+      "experience": 5
+    },
+    {
+      "skill": "Frameworks and Best Practices (NIST, ISO, OWASP)",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Simulate real-world scenarios and emulate TTPs of real adversaries to improve the people, processes, and technology in the target environment."
+    },
+    {
+      "duty": "Build and maintain red team infrastructure, automating functions where possible."
+    },
+    {
+      "duty": "Continually research new offensive security tactics, techniques, and procedures."
+    },
+    {
+      "duty": "Develop custom tools and tradecraft to automate tasks and increase the capabilities of the team."
+    },
+    {
+      "duty": "Execute advanced social engineering campaigns."
+    },
+    {
+      "duty": "Assist cyber defense teams during incident investigations, providing subject matter expertise on attacker tradecraft and mindset."
+    },
+    {
+      "duty": "Effectively communicate findings, attack paths, and recommendations to technical, non-technical, and executive client stakeholders through written reports and verbal presentations."
+    },
+    {
+      "duty": "Train other engineers in adversary simulation tactics, techniques, and procedures."
+    },
+    {
+      "duty": "Participate in intelligence-driven purple team exercises to test cyber detections."
+    },
+    {
+      "duty": "Produce high-quality reports detailing the results of exercises, including vulnerabilities, risks, and proposed mitigations, and highlighting larger thematic improvement opportunities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in computer science or related discipline, or equivalent work experience."
+    },
+    {
+      "credential": "Penetration Testing/Red Team certifications: OSEP, OSCP, GPEN, GWAPT, CRTO, CRTP, PNPT, eCPTX or equivalent."
+    },
+    {
+      "credential": "Experience in cloud-based environments (AWS, Azure) and in network penetration testing, application penetration testing, Red Team operations, application security assessments, and network exploitation operations."
+    },
+    {
+      "credential": "In-depth knowledge and experience around Linux, Windows, networking fundamentals, modern threats and vulnerabilities, and how to exploit/circumvent them."
+    },
+    {
+      "credential": "Knowledge of programming and scripting languages (e.g., C#/.NET, C++, Python, Powershell, Ruby)."
+    },
+    {
+      "credential": "Strong understanding of security principles, attack methodologies, and vulnerability assessment techniques."
+    },
+    {
+      "credential": "Exploitation experience with Active Directory, containerization platforms, and major cloud environments."
+    },
+    {
+      "credential": "Knowledge of industry-standard frameworks and best practices (e.g., NIST, ISO, OWASP)."
+    },
+    {
+      "credential": "Strong oral and written communication skills, including a demonstrated ability to prepare documentation and presentations for technical and non-technical audiences."
+    },
+    {
+      "credential": "Experience with threat detection, incident response, and implementing or developing mitigating controls in a large environment."
+    },
+    {
+      "credential": "Familiarity with attacker evasion techniques."
+    }
+  ]
+}

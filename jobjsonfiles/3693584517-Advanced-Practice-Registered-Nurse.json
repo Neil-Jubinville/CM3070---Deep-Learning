@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Advanced Practice Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care Management",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnostic Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Therapeutic Management",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Consultation",
+      "experience": 5
+    },
+    {
+      "skill": "Nursing Procedures",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Care",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist the attending physician in the care and management of patients in the assigned unit or department."
+    },
+    {
+      "duty": "Contribute to decisions for daily care, write orders, interact with consultants, and facilitate scheduling of tests and procedures."
+    },
+    {
+      "duty": "Make frequent bedside visits to assess patient status and direct care accordingly."
+    },
+    {
+      "duty": "Perform diagnostic and therapeutic healthcare activities under supervision of an attending physician."
+    },
+    {
+      "duty": "Coordinate lab tests, diagnostic studies, prescribe medications, and provide patient assistance and education."
+    },
+    {
+      "duty": "Share call hours, provide phone coverage, and see admitted patients within the hospital."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree in nursing."
+    }
+  ]
+}

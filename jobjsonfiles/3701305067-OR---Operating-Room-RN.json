@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "OR - Operating Room RN",
+      "job_category": "Healthcare",
+      "job_class": "RN",
+      "sector": "Healthcare",
+      "salary": 2827,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Critical Care",
+      "experience": 2
+    },
+    {
+      "skill": "Emergency Medicine",
+      "experience": 2
+    },
+    {
+      "skill": "Nursing Documentation",
+      "experience": 2
+    },
+    {
+      "skill": "Healthcare Compliance",
+      "experience": 2
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide patient care in the operating room setting."
+    },
+    {
+      "duty": "Assist in critical care situations and emergency medicine procedures."
+    },
+    {
+      "duty": "Document nursing procedures and patient records accurately."
+    },
+    {
+      "duty": "Ensure compliance with healthcare regulations and standards."
+    },
+    {
+      "duty": "Collaborate with healthcare team members to provide comprehensive patient care."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 180,
+      "student_teacher": 120,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree in Nursing (Bachelor's preferred)"
+    }
+  ]
+}

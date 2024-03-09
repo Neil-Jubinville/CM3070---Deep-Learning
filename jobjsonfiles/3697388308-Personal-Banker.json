@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Personal Banker",
+      "job_category": "Banking",
+      "job_class": "Customer Service",
+      "sector": "Finance",
+      "salary": 33000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Banking Operations",
+      "experience": 1
+    },
+    {
+      "skill": "Financial Products Knowledge",
+      "experience": 1
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 1
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Interact with customers in person and over the phone to ensure their financial needs are being met through needs-based conversations and sales fulfillment."
+    },
+    {
+      "duty": "Actively listen, understand, and make recommendations of products and services based on customer needs to ensure individual and team sales and services goals are achieved."
+    },
+    {
+      "duty": "Educate customers on a variety of retail products and digital solutions that enhance the customer experience and contribute to achieving sales goals."
+    },
+    {
+      "duty": "Ensure financial transactions are completed accurately and efficiently, while complying with all policies, procedures, and regulatory requirements."
+    },
+    {
+      "duty": "Identify complex financial needs and refer customers to bank specialists when appropriate."
+    },
+    {
+      "duty": "Perform other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent combination of education and experience required"
+    },
+    {
+      "credential": "1+ years sales or customer service experience required"
+    }
+  ]
+}

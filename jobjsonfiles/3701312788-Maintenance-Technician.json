@@ -1,0 +1,93 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Mechanical Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Hydraulic System Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Pneumatic System Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 2
+    },
+    {
+      "skill": "Welding",
+      "experience": 2
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 2
+    },
+    {
+      "skill": "High Voltage Repairs",
+      "experience": 2
+    },
+    {
+      "skill": "Record Keeping",
+      "experience": 2
+    },
+    {
+      "skill": "Shop Mechanics",
+      "experience": 2
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lay out, build, test, and perform preventive maintenance and repairs to electrical, mechanical, hydraulic, and pneumatic production and mechanical equipment, machinery, and components."
+    },
+    {
+      "duty": "Determine causes of operating problems, consult schematics, electrical codes, manuals, blueprints and order replacement parts."
+    },
+    {
+      "duty": "Perform high voltage electrical repairs (e.g. controls, relays) and complete/maintain all required records."
+    },
+    {
+      "duty": "Read specifications and schematics to perform duties effectively."
+    },
+    {
+      "duty": "Maintain knowledge of shop mechanics, mechanical/electrical operations of equipment and facilities."
+    },
+    {
+      "duty": "Safely and efficiently perform all essential functions with regular and predictable attendance."
+    },
+    {
+      "duty": "Follow directions and professionally work within a teamwork environment with good verbal and written communication skills."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

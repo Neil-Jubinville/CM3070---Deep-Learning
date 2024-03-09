@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Net Developer/Angular Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Classic ASP",
+      "experience": 5
+    },
+    {
+      "skill": "ASP.NET",
+      "experience": 5
+    },
+    {
+      "skill": ".NET framework 4.5",
+      "experience": 5
+    },
+    {
+      "skill": "C#",
+      "experience": 5
+    },
+    {
+      "skill": ".NET WCF and Web Api RESTful web services",
+      "experience": 5
+    },
+    {
+      "skill": "T-SQL",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "CSS",
+      "experience": 5
+    },
+    {
+      "skill": "Database Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Translate application storyboards and use cases into functional applications."
+    },
+    {
+      "duty": "Write clean, scalable code using .NET programming languages."
+    },
+    {
+      "duty": "Review and develop necessary API scripts that add enhancements to CSO applications."
+    },
+    {
+      "duty": "Provide status reporting to the client including status review meetings."
+    },
+    {
+      "duty": "Responsible for functional understanding of existing systems and preparing to come out with the most suitable approach after going through various scenarios."
+    },
+    {
+      "duty": "Responsible for the testing and integration of developed modules."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS in Computer Science or relevant experience."
+    }
+  ]
+}

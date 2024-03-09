@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Traveling Track Laborer",
+      "job_category": "Construction",
+      "job_class": "Laborer",
+      "sector": "Construction",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Using Hand Tools",
+      "experience": 2
+    },
+    {
+      "skill": "Physical Labor",
+      "experience": 3
+    },
+    {
+      "skill": "CDL License",
+      "experience": 2
+    },
+    {
+      "skill": "Railroad Track Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform physical labor using hand tools and equipment to construct, alter, repair, maintain, and demolish railroad tracks and associated structures."
+    },
+    {
+      "duty": "Carry and place track materials using hand tools such as tie tongs, rail tongs, rail forks, lining bars, shovels, and jacks."
+    },
+    {
+      "duty": "Attach rail to ties using spike mauls or spike drivers."
+    },
+    {
+      "duty": "Remove spikes with claw bars, spike lifters, and spike pullers."
+    },
+    {
+      "duty": "Lift, position, handle, remove, and install railroad crossties in and around the track structure."
+    },
+    {
+      "duty": "Participate in safety meetings and wear all appropriate personal protective equipment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 30,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Pharmacist",
+      "job_category": "Pharmacy",
+      "job_class": "Pharmacist",
+      "sector": "Healthcare",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medication Dispensing",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Counseling",
+      "experience": 2
+    },
+    {
+      "skill": "Drug Information",
+      "experience": 3
+    },
+    {
+      "skill": "Pharmacy Training",
+      "experience": 3
+    },
+    {
+      "skill": "Pharmaceutical Care",
+      "experience": 4
+    },
+    {
+      "skill": "Task Prioritization",
+      "experience": 4
+    },
+    {
+      "skill": "Collaborative Work",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepares and dispenses medication orders for patients."
+    },
+    {
+      "duty": "Reviews and evaluates medication orders for accuracy and safety."
+    },
+    {
+      "duty": "Provides drug information to patients, nurses, physicians, and other employees."
+    },
+    {
+      "duty": "Supervises, mentors, and trains pharmacy technicians, interns, and new pharmacists."
+    },
+    {
+      "duty": "Ensures compliance with legal and professional requirements for narcotics and controlled substances."
+    },
+    {
+      "duty": "Ability to work independently while providing excellent pharmaceutical care."
+    },
+    {
+      "duty": "Ability to triage & prioritize tasks to provide timely delivery of medications while supervising technicians."
+    },
+    {
+      "duty": "Ability to work collaboratively with peers, providers & ancillary staff."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.S. Degree/Pharm D in Pharmacy from an accredited school of pharmacy. M.S. Degree a plus"
+    }
+  ]
+}

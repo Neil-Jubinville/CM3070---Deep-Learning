@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Package Delivery Driver",
+      "job_category": "Delivery",
+      "job_class": "Driver",
+      "sector": "Logistics",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Strength",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Driving Skills",
+      "experience": 3
+    },
+    {
+      "skill": "DOT Regulations",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Drive delivery vehicle to transport and deliver packages to designated locations."
+    },
+    {
+      "duty": "Lift and carry packages of up to 70 lbs and ensure safe handling during deliveries."
+    },
+    {
+      "duty": "Provide excellent customer service while delivering packages in a timely manner."
+    },
+    {
+      "duty": "Adhere to DOT regulations and maintain valid driver's license for delivery operations."
+    },
+    {
+      "duty": "Manage delivery schedule and ensure efficient time management for completing assigned deliveries."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ]
+}

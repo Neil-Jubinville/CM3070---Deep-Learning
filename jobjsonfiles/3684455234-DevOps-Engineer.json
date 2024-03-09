@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "DevOps Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cloud Platform Management",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps Tools Development",
+      "experience": 5
+    },
+    {
+      "skill": "Automation Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "BI Platform Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Release Management",
+      "experience": 5
+    },
+    {
+      "skill": "Reliability Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Infrastructure Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create and manage multiple non-prod and production environments for BI Tools on hybrid cloud platforms"
+    },
+    {
+      "duty": "Engage in adoption of cloud platforms (AWS or GCP) by working with application teams to understand their requirements and recommending standard methodologies for network flows, security and high availability"
+    },
+    {
+      "duty": "Design and develop DevOps applications and tools for BI application deployment and management"
+    },
+    {
+      "duty": "Perform POCs to evaluate new features and develop strategy to deploy them without impacting user experience"
+    },
+    {
+      "duty": "Develop automation for patching, upgrades and DR with the focus on platform reliability and resiliency."
+    },
+    {
+      "duty": "Perform platform engineering, release management, reliability engineering, infrastructure planning, health checks and alerting. Maintain SLAs through monitoring and tracking SLIs"
+    },
+    {
+      "duty": "Collaborate with product vendors to investigate, resolve and perform RCAs for any product related issues"
+    },
+    {
+      "duty": "Create guidelines/standards for development and business communities to optimize the performance and resource utilization of BI platforms. Periodically assist the users by resolving service requests related to platform issues"
+    },
+    {
+      "duty": "Work with many global teams and communicate effectively, both written and verbal, with technical and non-technical multi-functional teams"
+    },
+    {
+      "duty": "Balance development and support in a constantly evolving environment, utilizing sprint based agile model"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Analyst",
+      "job_category": "Business Analysis",
+      "job_class": "Analyst",
+      "sector": "Telecom",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Market Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Training Material Preparation",
+      "experience": 5
+    },
+    {
+      "skill": "Process Definition",
+      "experience": 5
+    },
+    {
+      "skill": "Root Cause Analysis",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Analyze promo & defect data and create analyses & summarize as specified."
+    },
+    {
+      "duty": "Root cause analyses"
+    },
+    {
+      "duty": "Preparation of training materials."
+    },
+    {
+      "duty": "Support process definition"
+    },
+    {
+      "duty": "Documentation"
+    }
+  ]
+}

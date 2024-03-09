@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Worker",
+      "job_category": "Logistics",
+      "job_class": "Warehouse Worker",
+      "sector": "Supply Chain",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Forklift Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Order Picking",
+      "experience": 2
+    },
+    {
+      "skill": "Shipping and Receiving",
+      "experience": 2
+    },
+    {
+      "skill": "Warehouse Organization",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Math",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Receiving and processing incoming stock"
+    },
+    {
+      "duty": "Picking and filling orders from stock"
+    },
+    {
+      "duty": "Packing and shipping orders"
+    },
+    {
+      "duty": "Managing, organizing, and retrieving stock in the warehouse"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150
+    },
+    {
+      "student_teacher": 50
+    },
+    {
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED (Preferred)"
+    }
+  ]
+}

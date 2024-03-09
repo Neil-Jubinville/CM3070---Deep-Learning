@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Commercial Service Technicians - HVAC",
+      "job_category": "Service Technician",
+      "job_class": "Technician",
+      "sector": "Mechanical",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "HVAC Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Boiler Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Chiller Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Collaborative Team Work",
+      "experience": 5
+    },
+    {
+      "skill": "EPA Universal Certification",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing preventative maintenance, troubleshoot, and diagnose boilers, chillers, and various HVAC systems."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "EPA Universal Certification"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Auto Body Technician",
+      "job_category": "Automotive",
+      "job_class": "Technician",
+      "sector": "Automotive",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Auto Body Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Vehicle Disassembly",
+      "experience": 5
+    },
+    {
+      "skill": "Collision Repair",
+      "experience": 5
+    },
+    {
+      "skill": "I-CAR Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Vehicle Reassembly",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Training",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and execute a thorough repair plan for each vehicle, ensuring compliance with OEM/Industry Standard Guidelines."
+    },
+    {
+      "duty": "Thoroughly disassemble, repair, and reassemble each vehicle, delivering safe and quality automotive repairs."
+    },
+    {
+      "duty": "Repair collision-damaged vehicles according to OEM specifications and company standards, including Alldata, I-CAR, and the WOW Operating Way."
+    },
+    {
+      "duty": "Attend/collaborate with the team during daily production meetings to stay updated with the repair process."
+    },
+    {
+      "duty": "Stay up to date with required I-Car and Company Safety Training to ensure compliance with industry standards."
+    },
+    {
+      "duty": "Manage all vehicles assigned and deliver high-quality work with attention to detail."
+    },
+    {
+      "duty": "Other duties as assigned by the management team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "2-5+ years of collision repair experience"
+    }
+  ]
+}

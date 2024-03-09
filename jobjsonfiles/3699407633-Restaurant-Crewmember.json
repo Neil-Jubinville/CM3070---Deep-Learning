@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Restaurant Crewmember",
+      "job_category": "Food Service",
+      "job_class": "Crewmember",
+      "sector": "Hospitality",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Cashiering",
+      "experience": 1
+    },
+    {
+      "skill": "Kitchen Operations",
+      "experience": 1
+    },
+    {
+      "skill": "Team Player",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Time Management",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide excellent customer service and maintain a clean and welcoming environment for guests."
+    },
+    {
+      "duty": "Handle cash transactions and operate a point-of-sale system efficiently."
+    },
+    {
+      "duty": "Work as a team player to assist in kitchen operations and ensure smooth service."
+    },
+    {
+      "duty": "Demonstrate strong communication skills and time management to fulfill duties effectively."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma/GED"
+    }
+  ]
+}

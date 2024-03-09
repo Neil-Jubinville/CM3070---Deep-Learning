@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Travel Management",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Lead Generation",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage sales activities and effectively promote company products/services to potential clients."
+    },
+    {
+      "duty": "Travel to meet with clients and build strong, long-lasting relationships."
+    },
+    {
+      "duty": "Negotiate and close sales deals while maintaining excellent customer satisfaction."
+    },
+    {
+      "duty": "Demonstrate in-depth knowledge of company products and services to address client needs effectively."
+    },
+    {
+      "duty": "Generate new leads and manage a pipeline of potential clients through strategic outreach."
+    },
+    {
+      "duty": "Effectively communicate the value proposition through proposals and presentations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Marketing, or equivalent experience"
+    }
+  ]
+}

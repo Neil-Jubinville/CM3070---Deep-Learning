@@ -1,0 +1,51 @@
+{
+  "meta": [
+    {
+      "job_title": "Tax Staff",
+      "job_category": "Accounting",
+      "job_class": "Staff",
+      "sector": "Accounting",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tax Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Accounting",
+      "experience": 3
+    },
+    {
+      "skill": "Research",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Engage and serve clients from various industries"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in accounting or related field. Masters preferred"
+    }
+  ]
+}

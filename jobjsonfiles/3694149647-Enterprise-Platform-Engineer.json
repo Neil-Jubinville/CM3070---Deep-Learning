@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Enterprise Platform Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 160000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Spring Boot",
+      "experience": 5
+    },
+    {
+      "skill": "GraphQL",
+      "experience": 5
+    },
+    {
+      "skill": "Maven",
+      "experience": 5
+    },
+    {
+      "skill": "Netflix DGS",
+      "experience": 3
+    },
+    {
+      "skill": "MS Azure",
+      "experience": 5
+    },
+    {
+      "skill": "Docker",
+      "experience": 5
+    },
+    {
+      "skill": "Mongo DB",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop an enterprise-level platform following microservice architecture and deploying to Azure-based cloud infrastructure."
+    },
+    {
+      "duty": "Implement the Order Placement system by designing and implementing new core services."
+    },
+    {
+      "duty": "Participate in the discovery/design phase to analyze and document existing services, data dependencies, and integration layer in order to define implementation roadmap."
+    },
+    {
+      "duty": "Reverse engineer business rules, functional requirements, and data for the legacy implementation."
+    },
+    {
+      "duty": "Estimate implementation complexity and implement the solution."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

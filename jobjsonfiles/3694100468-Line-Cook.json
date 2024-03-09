@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Line Cook",
+      "job_category": "Food Services",
+      "job_class": "Cook",
+      "sector": "Hospitality",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Line Cooking",
+      "experience": 3
+    },
+    {
+      "skill": "Food Safety",
+      "experience": 3
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 3
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    },
+    {
+      "skill": "Menu Knowledge",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare and cook food according to recipes, quality standards, presentation standards, and food preparation checklist."
+    },
+    {
+      "duty": "Maintain a clean and sanitary work environment in compliance with all local and federal health and safety regulations."
+    },
+    {
+      "duty": "Operate, maintain, and clean kitchen equipment and tools."
+    },
+    {
+      "duty": "Adhere to all company policies, procedures, and safety standards."
+    },
+    {
+      "duty": "Assist with inventory and stock management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

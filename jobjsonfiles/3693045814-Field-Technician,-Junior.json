@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Technician, Junior",
+      "job_category": "Technician",
+      "job_class": "Junior",
+      "sector": "Logistics and Transportation",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sample Collection",
+      "experience": 1
+    },
+    {
+      "skill": "Laboratory Analysis",
+      "experience": 1
+    },
+    {
+      "skill": "Data Labeling",
+      "experience": 1
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Mathematics",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collect samples of products and raw materials for laboratory analysis from various transfer points."
+    },
+    {
+      "duty": "Label sample containers with identifying data and deliver them to the laboratory."
+    },
+    {
+      "duty": "Perform preparation of samples, reduction, and division of appropriate sizes for analysis."
+    },
+    {
+      "duty": "Ensure all equipment and containers are organized, cleaned, and comply with safety procedures."
+    },
+    {
+      "duty": "Adhere to internal standards, policies, and procedures regarding sample handling."
+    },
+    {
+      "duty": "Follow directions to ensure accurate and timely completion of tasks."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent (knowledge in barge drafting preferred)"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "meta": [
+    {
+      "job_title": "Java Application Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java Application Development",
+      "experience": 5
+    },
+    {
+      "skill": "Service Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Data Access",
+      "experience": 5
+    },
+    {
+      "skill": "Messaging",
+      "experience": 5
+    },
+    {
+      "skill": "Caching",
+      "experience": 5
+    },
+    {
+      "skill": "Security",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Migration",
+      "experience": 5
+    },
+    {
+      "skill": "EKS",
+      "experience": 5
+    },
+    {
+      "skill": "ECS Fargate",
+      "experience": 5
+    },
+    {
+      "skill": "Aurora PostgreSQL",
+      "experience": 5
+    },
+    {
+      "skill": "DynamoDB",
+      "experience": 5
+    },
+    {
+      "skill": "Amazon MSK",
+      "experience": 5
+    },
+    {
+      "skill": "ElastiCache Redis",
+      "experience": 5
+    },
+    {
+      "skill": "AWS API Gateway",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Connectivity",
+      "experience": 5
+    },
+    {
+      "skill": "Presentation Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Focus",
+      "experience": 5
+    },
+    {
+      "skill": "Task Completion",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop Java applications and manage service integration, data access, messaging, caching, and security."
+    },
+    {
+      "duty": "Migrate application workloads to AWS and design transition architectures for migration."
+    },
+    {
+      "duty": "Utilize in-depth knowledge of EKS, ECS Fargate, Aurora PostgreSQL, DynamoDB, Amazon MSK, ElastiCache Redis, and AWS API Gateway."
+    },
+    {
+      "duty": "Address Cloud2Ground, Ground2Cloud, and Cloud2Cloud connectivity challenges."
+    },
+    {
+      "duty": "Present ideas and solutions to other architects and product teams."
+    },
+    {
+      "duty": "Take ownership of tasks, maintain customer-focus, and ensure timely task completion."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

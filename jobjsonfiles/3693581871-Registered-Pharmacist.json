@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Pharmacist",
+      "job_category": "Healthcare",
+      "job_class": "Registered Pharmacist",
+      "sector": "Healthcare",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Pharmacy Management",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Adherence",
+      "experience": 5
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Counseling",
+      "experience": 5
+    },
+    {
+      "skill": "Staff Scheduling",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Fill prescriptions, monitor inventory levels, and ensure proper storage and security of drugs, including controlled substances/narcotics"
+    },
+    {
+      "duty": "Provide patient counseling and address challenges related to medication adherence"
+    },
+    {
+      "duty": "Manage scheduling of technicians and support sales and goals of the pharmacy department"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Pharmacy"
+    }
+  ]
+}

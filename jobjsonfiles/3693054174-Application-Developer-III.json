@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Application Developer III",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Angular",
+      "experience": 5
+    },
+    {
+      "skill": "Web Development",
+      "experience": 5
+    },
+    {
+      "skill": "Enterprise Production Software",
+      "experience": 5
+    },
+    {
+      "skill": "Rest Service",
+      "experience": 5
+    },
+    {
+      "skill": "CSS Framework",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 5
+    },
+    {
+      "skill": "J2EE",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work with the tech debt team on implementing the solutions outlined by the department."
+    },
+    {
+      "duty": "Apply secure programming techniques using the department's technical standards and best practices."
+    },
+    {
+      "duty": "Coordinate activities and communications with various operations, development, and business teams to efficiently resolve urgent production incidents."
+    },
+    {
+      "duty": "Perform regular health checks and analysis on production platforms looking for potential problems before they trigger business-impacting issues."
+    },
+    {
+      "duty": "Develop solutions to provide enterprise platform metrics, alarms, and monitoring tools to aid in observing and maximizing platform and business efficiency."
+    },
+    {
+      "duty": "Generate and track tickets for production trouble incidents, scheduled, and unscheduled change requests."
+    },
+    {
+      "duty": "Provide leadership and direction for rapid resolution of business-impacting issues affecting production systems supporting 24x7 global operations (to include weekends and holidays)."
+    },
+    {
+      "duty": "Coordinate update releases and other system changes, contribute to the implementation of break/fix solutions, performing unit testing, configuration management, source code control, and update documentation and configuration information related to changes as needed throughout the life cycle."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

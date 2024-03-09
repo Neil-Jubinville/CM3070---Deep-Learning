@@ -1,0 +1,59 @@
+{
+  "meta": [
+    {
+      "job_title": "Financial Analyst",
+      "job_category": "Finance",
+      "job_class": "Analyst",
+      "sector": "Financial Analysis",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Ad Hoc Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Accounting",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Excel",
+      "experience": 3
+    },
+    {
+      "skill": "Oracle",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Engage with business partners on processes under the direction of director"
+    },
+    {
+      "duty": "Assist in completion of daily general ledger account reconciliation activities and end-user-computing review"
+    },
+    {
+      "duty": "Assist in the execution of reporting and analysis performed by the team"
+    },
+    {
+      "duty": "Advance various preventative risk activities and initiatives with moderate supervision"
+    },
+    {
+      "duty": "Assist director in management and escalation of activities impacting reconciliation processes performed by the team"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting, Finance, or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Graphic Designer",
+      "job_category": "Design",
+      "job_class": "Designer",
+      "sector": "Commercial Real Estate",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Graphic Design",
+      "experience": 5
+    },
+    {
+      "skill": "Long format design",
+      "experience": 5
+    },
+    {
+      "skill": "Layout and Typography",
+      "experience": 5
+    },
+    {
+      "skill": "Brand Guidelines",
+      "experience": 5
+    },
+    {
+      "skill": "Photoshop",
+      "experience": 5
+    },
+    {
+      "skill": "Illustrator",
+      "experience": 5
+    },
+    {
+      "skill": "InDesign",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design multipage, long form documents including proposals, presentations, etc."
+    },
+    {
+      "duty": "Work with cross-functional internal teams to develop multipage documents"
+    },
+    {
+      "duty": "Follow strict brand guidelines"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 70,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Graphic Design or related field"
+    }
+  ]
+}

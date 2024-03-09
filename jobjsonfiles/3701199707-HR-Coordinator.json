@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "HR Coordinator",
+      "job_category": "Human Resources",
+      "job_class": "Coordinator",
+      "sector": "Human Resources",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "MS Office Suite",
+      "experience": 5
+    },
+    {
+      "skill": "Adobe Acrobat",
+      "experience": 5
+    },
+    {
+      "skill": "Visio",
+      "experience": 5
+    },
+    {
+      "skill": "Outlook",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    },
+    {
+      "skill": "Data Management",
+      "experience": 3
+    },
+    {
+      "skill": "Confidentiality",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support the division\u2019s human resources team and function."
+    },
+    {
+      "duty": "Proactively design, develop and maintain division specific processes and programs."
+    },
+    {
+      "duty": "Responsible for day-to-day operations of HR to support the business."
+    },
+    {
+      "duty": "Build trust-based, collaborative relationships with supervisors, employees, and HR team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent."
+    },
+    {
+      "credential": "3+ years previous administrative experience or equivalent."
+    },
+    {
+      "credential": "Experience within Human Resources department preferred."
+    }
+  ]
+}

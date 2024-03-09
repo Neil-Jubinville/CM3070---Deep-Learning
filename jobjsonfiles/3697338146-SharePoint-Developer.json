@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "SharePoint Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SharePoint Development",
+      "experience": 5
+    },
+    {
+      "skill": "UI/UX Design",
+      "experience": 5
+    },
+    {
+      "skill": "SharePoint Framework",
+      "experience": 5
+    },
+    {
+      "skill": "SDLC Process",
+      "experience": 5
+    },
+    {
+      "skill": ".NET Framework (C#)",
+      "experience": 5
+    },
+    {
+      "skill": "IIS Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "Azure Active Directory",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build and maintain collaboration sites and programs using SharePoint online/O365."
+    },
+    {
+      "duty": "Develop and administer SharePoint framework and sites in hybrid environments."
+    },
+    {
+      "duty": "Work independently, prioritize effectively, multitask, and manage time appropriately."
+    },
+    {
+      "duty": "Have basic understanding of SDLC process, performing unit testing, and deploying from lower to upper environments."
+    },
+    {
+      "duty": "Configure SharePoint sites, utilize .NET framework (C#), IIS, and Azure Active Directory for site configuration."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or a related field (Master's preferred)"
+    }
+  ]
+}

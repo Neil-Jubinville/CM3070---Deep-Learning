@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Laundry Sorter",
+      "job_category": "Laundry",
+      "job_class": "Sorter",
+      "sector": "Housekeeping",
+      "salary": 34000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Basic Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Laundry Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Ability to Lift Heavy Weight",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Instructions Comprehension",
+      "experience": 2
+    },
+    {
+      "skill": "Flexible Schedule Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Sort hotel and guest laundry in the linen chute"
+    },
+    {
+      "duty": "Use commercial pressing and folding equipment"
+    },
+    {
+      "duty": "Program and log laundry operations"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": []
+}

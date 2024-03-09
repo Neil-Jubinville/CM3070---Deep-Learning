@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Electronics Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Circuit Design",
+      "experience": 4
+    },
+    {
+      "skill": "Embedded Systems Programming",
+      "experience": 4
+    },
+    {
+      "skill": "PCB Design",
+      "experience": 4
+    },
+    {
+      "skill": "C/C++ Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Analog Circuit Design",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conceptualize, design, build and support electronic devices, not limited to cameras and sensors, to be used for performance capture."
+    },
+    {
+      "duty": "Develop solutions using embedded/higher level C/C++ and/or Python."
+    },
+    {
+      "duty": "Design embedded systems and program firmware."
+    },
+    {
+      "duty": "Create documentation."
+    },
+    {
+      "duty": "Deploy products."
+    },
+    {
+      "duty": "Occasional travel needed to deploy and troubleshoot products."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 90,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BSc/MSc in Electrical Engineering, a related field, or equivalent experience."
+    }
+  ]
+}

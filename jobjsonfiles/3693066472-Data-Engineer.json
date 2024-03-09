@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineer",
+      "job_category": "Technology",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL",
+      "experience": 2
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 2
+    },
+    {
+      "skill": "ETL/ELT",
+      "experience": 2
+    },
+    {
+      "skill": "Data Integration",
+      "experience": 2
+    },
+    {
+      "skill": "Big Data Concepts",
+      "experience": 2
+    },
+    {
+      "skill": "IT Project Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Participate in building and managing data and/or Big Data pipeline capabilities including data modeling, process design, and overall data pipeline architecture."
+    },
+    {
+      "duty": "Assist in efforts to partially to completely automate repeatable data preparation and integration tasks."
+    },
+    {
+      "duty": "Analyzing information to determine business needs and implementing effective technical solutions."
+    },
+    {
+      "duty": "Taking a new perspective on existing solutions to solve problems of low to moderate complexity."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 70,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree and two years of experience in systems engineering or administration or equivalent education and related training or experience"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Supervisor",
+      "job_category": "Logistics",
+      "job_class": "Supervisor",
+      "sector": "Warehousing and Logistics",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Supervises and coordinates activities of warehouse and shipping employees by performing the following duties."
+    },
+    {
+      "duty": "Train employees on safety, equipment, and processes"
+    },
+    {
+      "duty": "Schedule assignments and overtime (when needed)"
+    },
+    {
+      "duty": "Plans layout of warehouse and storage areas while taking into consideration: turnover, size, weight, and related factors of items stored"
+    },
+    {
+      "duty": "Reviews records for accuracy of information and compliance with established procedures, and to determine adequacy of stock levels"
+    },
+    {
+      "duty": "Traces history of items to determine reasons for discrepancies between inventory and stock control records and recommends remedial actions to resolve discrepancies"
+    },
+    {
+      "duty": "Determines work procedures, prepares work schedules, and expedites workflow"
+    },
+    {
+      "duty": "Issues written and oral instructions"
+    },
+    {
+      "duty": "Assigns duties and examines work for exactness, neatness, and conformance to policies and procedures"
+    },
+    {
+      "duty": "Create and maintains harmony among workers and resolves grievances"
+    },
+    {
+      "duty": "Investigate and correct errors"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Safety Training",
+      "experience": 3
+    },
+    {
+      "skill": "Warehouse Management",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Employee Training",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or general education degree (GED)"
+    },
+    {
+      "credential": "One to three years related industry experience and/or training; or equivalent combination of education and experience"
+    }
+  ]
+}

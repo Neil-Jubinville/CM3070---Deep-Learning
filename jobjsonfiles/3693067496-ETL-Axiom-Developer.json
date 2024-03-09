@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "ETL Axiom Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ETL Development",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "PL/SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Informatica",
+      "experience": 5
+    },
+    {
+      "skill": "Data Warehousing",
+      "experience": 5
+    },
+    {
+      "skill": "Regulatory Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Unix Shell Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Performance Tuning",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Automation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Development and review of PL/SQL code to support data sourcing into Axiom, understanding end to end data flow from DB to Axiom."
+    },
+    {
+      "duty": "Automation of Axiom workflows schedules using Automic Scheduler."
+    },
+    {
+      "duty": "Knowledge on US regulatory reports like FFIEC031, FFIEC041, FRY 9C, FRY 9LP etc."
+    },
+    {
+      "duty": "Hands-on development of the ETL jobs and creating Unix Shell scripts for various requirements."
+    },
+    {
+      "duty": "Ensuring code written meets the predefined company and department standards."
+    },
+    {
+      "duty": "Preparation and execution of detailed unit test cases to test the Axiom code in Controller View."
+    },
+    {
+      "duty": "Migration of Axiom components from Dev environment to Prod."
+    },
+    {
+      "duty": "Good experience in Regulatory Reporting and Data Warehousing."
+    },
+    {
+      "duty": "Provide BAU and post-implementation support of Regulatory reports on Axiom."
+    },
+    {
+      "duty": "Maintain and manage the Axiom CV application on Dev/Test/Cert and Prod Environment activity like upgrade, patching, and Product code releases onboarding."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science, Information Technology, or related field (Master\u2019s preferred)"
+    }
+  ]
+}

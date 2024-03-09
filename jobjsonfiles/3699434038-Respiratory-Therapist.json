@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Respiratory Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Respiratory Therapy",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Therapeutic Intervention",
+      "experience": 5
+    },
+    {
+      "skill": "Disease Management",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Effective Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide assessment, therapeutic intervention, and education for patients with chronic respiratory diseases."
+    },
+    {
+      "duty": "Demonstrate knowledge of the respiratory therapy process when planning for and providing care to patients."
+    },
+    {
+      "duty": "Assess individuals to prevent, detect, monitor, and manage disease and complications."
+    },
+    {
+      "duty": "Provide therapeutic interventions to directly impact cardiopulmonary health as well as overall health status according to established goals and care plans."
+    },
+    {
+      "duty": "Provide education to promote preventative care, self-management, enhanced cardiopulmonary health, and quality of life."
+    },
+    {
+      "duty": "Incorporate leadership skills to direct respiratory care services throughout the organization; demonstrate effective communication with patients, families, and members of the health care team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an accredited school of Respiratory Therapy. Must possess the National Board of Respiratory Care certification (CRT) and hold a current Respiratory Therapy license in the state of Minnesota."
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "meta": [
+    {
+      "job_title": "Salesforce Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Application Development",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Salesforce",
+      "experience": 5
+    },
+    {
+      "skill": "Visualforce",
+      "experience": 5
+    },
+    {
+      "skill": "APEX",
+      "experience": 5
+    },
+    {
+      "skill": "Lightning Components",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "jQuery",
+      "experience": 5
+    },
+    {
+      "skill": "MS Access",
+      "experience": 5
+    },
+    {
+      "skill": "C#.NET",
+      "experience": 5
+    },
+    {
+      "skill": "VB.NET",
+      "experience": 5
+    },
+    {
+      "skill": "Visual Basic 6.0",
+      "experience": 5
+    },
+    {
+      "skill": "ASP.NET",
+      "experience": 5
+    },
+    {
+      "skill": "ASP 3.0 (or later version)",
+      "experience": 5
+    },
+    {
+      "skill": "Azure",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "TFS",
+      "experience": 5
+    },
+    {
+      "skill": "GIT",
+      "experience": 5
+    },
+    {
+      "skill": "Power Platform",
+      "experience": 5
+    },
+    {
+      "skill": "SharePoint",
+      "experience": 5
+    },
+    {
+      "skill": "Qlik Sense",
+      "experience": 5
+    },
+    {
+      "skill": "Oracle",
+      "experience": 5
+    },
+    {
+      "skill": "MySQL",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Server",
+      "experience": 5
+    },
+    {
+      "skill": "PostgreSQL",
+      "experience": 5
+    },
+    {
+      "skill": "PowerBuilder v12.6 or later version",
+      "experience": 5
+    },
+    {
+      "skill": "AASHTOWare applications",
+      "experience": 5
+    },
+    {
+      "skill": "Software Development Certifications",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Offer technical expertise and guidance to staff and management on issues, design options, code reviews, testing, and new technologies."
+    },
+    {
+      "duty": "Collaborate with project teams to create comprehensive project documentation, including design documents, test cases, user guides, and security procedures."
+    },
+    {
+      "duty": "Respond to information requests via the Help Desk Application, Maximo."
+    },
+    {
+      "duty": "Develop migration schedules to minimize production system impact during updates."
+    },
+    {
+      "duty": "Provide end-user training for assigned applications."
+    },
+    {
+      "duty": "Perform application backups and maintain configuration and version control using Team Foundation Server and/or DevOps."
+    },
+    {
+      "duty": "Conduct integration testing on code and configuration changes before User Acceptance Testing."
+    },
+    {
+      "duty": "Provide ongoing support for various applications and technologies."
+    },
+    {
+      "duty": "Address application defects reported through Maximo."
+    },
+    {
+      "duty": "Assist in crafting application maintenance plans for scheduled maintenance tasks."
+    },
+    {
+      "duty": "Recommend and aid in developing maintenance plans for system upgrades and technology refreshes."
+    },
+    {
+      "duty": "Create system source code and executables using technologies listed in the Current Development Environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum 5 years of professional experience in Salesforce, Visualforce, APEX, and/or Lightning Components."
+    },
+    {
+      "credential": "Proficiency in Java, JavaScript, jQuery, MS Access, C#.NET, VB.NET, Visual Basic 6.0, ASP.NET, ASP 3.0 (or later version), Azure, DevOps, TFS, GIT, Power Platform, SharePoint, Qlik Sense, Oracle, MySQL, SQL Server, and/or PostgreSQL."
+    },
+    {
+      "credential": "Familiarity with PowerBuilder v12.6 or later version."
+    },
+    {
+      "credential": "Knowledge of AASHTOWare applications is a plus."
+    },
+    {
+      "credential": "Possession of software development certifications is a plus."
+    }
+  ]
+}

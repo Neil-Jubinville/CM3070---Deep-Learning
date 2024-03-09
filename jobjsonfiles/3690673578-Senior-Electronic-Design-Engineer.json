@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Electronic Design Engineer",
+      "job_category": "Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Wireless Power Transfer",
+      "experience": 5
+    },
+    {
+      "skill": "IoT Solutions",
+      "experience": 5
+    },
+    {
+      "skill": "Firmware Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Thermal Management",
+      "experience": 5
+    },
+    {
+      "skill": "PCB Design",
+      "experience": 5
+    },
+    {
+      "skill": "Product Commercialization",
+      "experience": 5
+    },
+    {
+      "skill": "Bluetooth Low Energy Protocol",
+      "experience": 5
+    },
+    {
+      "skill": "Power Control Techniques",
+      "experience": 5
+    },
+    {
+      "skill": "Testing and Validation",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop electronic systems for wireless power transfer, integrating smart connectivity and IoT capabilities."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to ensure seamless integration of firmware and hardware components."
+    },
+    {
+      "duty": "Perform real-time power control and management for medium-high power systems (0 to 2kW) and implement effective thermal management solutions."
+    },
+    {
+      "duty": "Conduct thorough testing and validation of electronic equipment during the development phase."
+    },
+    {
+      "duty": "Design electronic circuits, including schematic and PCB layout."
+    },
+    {
+      "duty": "Assemble and test prototypes of electronic systems."
+    },
+    {
+      "duty": "Define test cases to ensure proper functionality and performance."
+    },
+    {
+      "duty": "Program microcontrollers from the ESP32 family to control the system."
+    },
+    {
+      "duty": "Demonstrate advanced knowledge of IoT systems, enabling seamless connectivity and data exchange between appliances and user interfaces."
+    },
+    {
+      "duty": "Experience in product commercialization: Taking a product from the prototype stage to mass manufacturing."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's degree in Electrical Engineering, Electronics, or a related field."
+    }
+  ]
+}

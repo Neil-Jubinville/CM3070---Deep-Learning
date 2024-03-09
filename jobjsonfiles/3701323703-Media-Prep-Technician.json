@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Media Prep Technician",
+      "job_category": "Media",
+      "job_class": "Technician",
+      "sector": "Media Operations",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Quality Control",
+      "experience": 2
+    },
+    {
+      "skill": "Editing",
+      "experience": 2
+    },
+    {
+      "skill": "Transcoding",
+      "experience": 2
+    },
+    {
+      "skill": "Digital Formats",
+      "experience": 2
+    },
+    {
+      "skill": "Codecs",
+      "experience": 2
+    },
+    {
+      "skill": "Media Asset Management",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Conduct high-resolution Quality Control of long-form content to ensure compliance with technical specifications."
+    },
+    {
+      "duty": "Perform baseband/linear ingest of content for on-air, VOD, and online distribution."
+    },
+    {
+      "duty": "Execute edit and prep functions within an editing platform to prepare long-form content for distribution."
+    },
+    {
+      "duty": "Utilize Media Asset Management (MAM) systems to prioritize and process long-form content."
+    },
+    {
+      "duty": "Submit content into transcoding technical stack to meet client specifications."
+    },
+    {
+      "duty": "Reconcile executed work orders to ensure business needs are met."
+    },
+    {
+      "duty": "Work on any shift, including overnights, swing, or weekends, sometimes on short notice, to support the 24/7 operation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Film, Media, Communications, or related field"
+    }
+  ]
+}

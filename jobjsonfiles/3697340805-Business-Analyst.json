@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Analyst",
+      "job_category": "Business Analysis",
+      "job_class": "Analyst",
+      "sector": "Management",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Requirements Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Requirements Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "User Acceptance Testing",
+      "experience": 2
+    },
+    {
+      "skill": "Digital Platforms",
+      "experience": 2
+    },
+    {
+      "skill": "Business Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Performance in Complex Situations",
+      "experience": 5
+    },
+    {
+      "skill": "Service Design Team Building",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform detailed requirements analysis and create and maintain relevant product/project documentation."
+    },
+    {
+      "duty": "Conduct user acceptance testing and document defects."
+    },
+    {
+      "duty": "Work with digital platforms and tools, establish continuous improvement/delivery pipeline, and stay up to date on the latest process and IT advancements."
+    },
+    {
+      "duty": "Communicate and collaborate with state-wide partners, clear challenges for team members, and juggle multiple project workstreams."
+    },
+    {
+      "duty": "Support teammates' skills and behaviors development and delivery, balance domain expertise and flexibility, and deal effectively and diplomatically with all levels of government staff."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Information Technology, or a related field (Master's preferred)"
+    }
+  ]
+}

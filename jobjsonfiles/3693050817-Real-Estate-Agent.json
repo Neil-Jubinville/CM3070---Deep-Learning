@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Real Estate Agent",
+      "job_category": "Real Estate",
+      "job_class": "Agent",
+      "sector": "Real Estate",
+      "salary": 78000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Real Estate Contracts",
+      "experience": 2
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 4
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 4
+    },
+    {
+      "skill": "Self-Motivation",
+      "experience": 4
+    },
+    {
+      "skill": "Listening Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Contact potential buyers or sellers, negotiate purchase agreements and contracts, ensure that clients understand the sales process, verify and disclose property information."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140,
+      "student_teacher": 180,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Active California Real Estate License, valid Driver's License"
+    }
+  ]
+}

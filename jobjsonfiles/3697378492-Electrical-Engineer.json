@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electrical System Design",
+      "experience": 3
+    },
+    {
+      "skill": "Power Distribution",
+      "experience": 3
+    },
+    {
+      "skill": "AutoCAD",
+      "experience": 3
+    },
+    {
+      "skill": "Electrical Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Research and Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and test electrical equipment and systems, including power distribution and power systems, to ensure they meet project requirements and standards."
+    },
+    {
+      "duty": "Use AutoCAD to create and modify electrical drawings and schematics."
+    },
+    {
+      "duty": "Conduct detailed electrical troubleshooting to identify and resolve issues efficiently."
+    },
+    {
+      "duty": "Ensure all designs and installations comply with the latest electrical codes and safety standards."
+    },
+    {
+      "duty": "Collaborate with other engineers and professionals on multi-disciplinary projects."
+    },
+    {
+      "duty": "Conduct research and analysis to support the design and implementation of electrical systems."
+    },
+    {
+      "duty": "Provide technical support and guidance to project teams and stakeholders."
+    },
+    {
+      "duty": "Keep up-to-date with the latest advancements and best practices in electrical engineering."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electrical Engineering or a related field. (Professional Engineering license is a plus)"
+    }
+  ]
+}

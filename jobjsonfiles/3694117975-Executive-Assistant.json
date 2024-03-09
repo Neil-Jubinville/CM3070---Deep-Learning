@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Executive Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Management",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage scheduling for company executive(s)"
+    },
+    {
+      "duty": "Draft, review and send communications on behalf of company executive(s)"
+    },
+    {
+      "duty": "Organize and prepare for meetings, including gathering documents and attending to logistics of meetings"
+    },
+    {
+      "duty": "Answer and respond to phone calls, communicate messages and information to the executive"
+    },
+    {
+      "duty": "Prioritize emails and respond when necessary"
+    },
+    {
+      "duty": "Coordinate travel arrangements"
+    },
+    {
+      "duty": "Maintain various records and documents for company executive(s)"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Scheduling",
+      "experience": 3
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Logistics",
+      "experience": 3
+    },
+    {
+      "skill": "Organization",
+      "experience": 4
+    },
+    {
+      "skill": "Time Management",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Representative",
+      "job_category": "Customer Service",
+      "job_class": "Entry Level",
+      "sector": "Sales",
+      "salary": 13,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Verbal Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Computer Navigation",
+      "experience": 2
+    },
+    {
+      "skill": "Time Management",
+      "experience": 2
+    },
+    {
+      "skill": "Multitasking",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide quality calls and represent the dealership in a positive and professional manner."
+    },
+    {
+      "duty": "Guide a phone conversation with a prospect while simultaneously navigating multiple platforms."
+    },
+    {
+      "duty": "Effectively communicate using proper English and grammar."
+    },
+    {
+      "duty": "Communicate in a one-on-one and team environment."
+    },
+    {
+      "duty": "Demonstrate effective time management and multitasking ability."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

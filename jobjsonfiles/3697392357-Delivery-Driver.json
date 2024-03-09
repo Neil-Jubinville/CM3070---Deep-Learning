@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Delivery Driver",
+      "job_category": "Logistics",
+      "job_class": "Driver",
+      "sector": "Logistics",
+      "salary": 44000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Route Management",
+      "experience": 3
+    },
+    {
+      "skill": "Vehicle Inspection",
+      "experience": 3
+    },
+    {
+      "skill": "Payment Collection",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Engage with customers, deliver exceptional service, and identify potential opportunities for additional products and services."
+    },
+    {
+      "duty": "Efficiently manage routes, guaranteeing optimal routing sequences, while also assisting with collections and delivery requirements."
+    },
+    {
+      "duty": "Conduct regular vehicle inspections and manage the delivery/exchange of diverse products."
+    },
+    {
+      "duty": "Ensure the completion of essential paperwork, adhere to strict safety standards, and collect payments."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent"
+    }
+  ]
+}

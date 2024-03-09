@@ -1,0 +1,38 @@
+{
+  "meta": [
+    {
+      "job_title": "COBOL Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "COBOL",
+      "experience": 5
+    },
+    {
+      "skill": "ECL",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Program Development",
+      "experience": 3
+    },
+    {
+      "skill": "Debugging",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop specifications and write basic to complex technical programs using COBOL and ECL."
+    },
+    {
+      "duty": "Test, debug, implement, document, and maintain the programs."
+    }
+  ]
+}

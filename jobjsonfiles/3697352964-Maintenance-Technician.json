@@ -1,0 +1,55 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Retail",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Learn how to diagnose and repair basic automotive including brakes, alignments, suspensions, cooling and electrical"
+    },
+    {
+      "duty": "Change oil and/or transmission fluid and filters"
+    },
+    {
+      "duty": "Install and perform tire maintenance"
+    },
+    {
+      "duty": "Install batteries, shock absorbers, exhaust systems and check electrical systems"
+    },
+    {
+      "duty": "Road test vehicles"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Automotive Diagnostics",
+      "experience": 1
+    },
+    {
+      "skill": "Oil Change and Maintenance",
+      "experience": 1
+    },
+    {
+      "skill": "Tire Installation",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Electrical Work",
+      "experience": 1
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": []
+}

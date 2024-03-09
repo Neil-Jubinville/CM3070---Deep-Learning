@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Neurology Physician",
+      "job_category": "Healthcare",
+      "job_class": "Physician",
+      "sector": "Healthcare",
+      "salary": 242500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Diagnosis and Clinical Decision-Making",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    },
+    {
+      "skill": "EMR Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Compassionate Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Record Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assess patients, document medical histories, and address patient inquiries and concerns."
+    },
+    {
+      "duty": "Diagnose and manage injuries, illnesses, and medical conditions."
+    },
+    {
+      "duty": "Conduct, analyze, and interpret diagnostic tests and communicate results to patients."
+    },
+    {
+      "duty": "Keep patient records current by updating information and treatments."
+    },
+    {
+      "duty": "Develop treatment plans and recommendations."
+    },
+    {
+      "duty": "Collaborate with other healthcare professionals to coordinate patient care."
+    },
+    {
+      "duty": "Stay up to date with advances in medicine and best practices."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Medicine (M.D.) or Doctor of Osteopathic Medicine (D.O.) degree."
+    },
+    {
+      "credential": "Completion of residency program in a relevant specialty."
+    },
+    {
+      "credential": "Basic Life Support (BLS) and Advanced Cardiac Life Support (ACLS) certification."
+    },
+    {
+      "credential": "Active and unencumbered physician license in the state of employment."
+    }
+  ]
+}

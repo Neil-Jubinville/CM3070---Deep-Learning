@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Restaurant Manager",
+      "job_category": "Hospitality",
+      "job_class": "Manager",
+      "sector": "Hospitality",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Operations Management",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 5
+    },
+    {
+      "skill": "Staffing and Scheduling",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    },
+    {
+      "skill": "Training and Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensures operations meet company standards in all restaurant zones during a shift."
+    },
+    {
+      "duty": "Acts as manager on duty and opens and closes the restaurant."
+    },
+    {
+      "duty": "Manages cash handling and ensures accountability."
+    },
+    {
+      "duty": "Enforces company policies and standards."
+    },
+    {
+      "duty": "Directs crewmembers during a shift."
+    },
+    {
+      "duty": "Provides exemplary customer service."
+    },
+    {
+      "duty": "Ensures cleanliness of the restaurant and facility."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "1+ years of restaurant or retail management experience."
+    },
+    {
+      "credential": "High school diploma or equivalent required, some college preferred."
+    }
+  ]
+}

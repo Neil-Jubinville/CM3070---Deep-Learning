@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Koi Pond and Waterfall Builder",
+      "job_category": "Construction",
+      "job_class": "Builder",
+      "sector": "Construction",
+      "salary": 50000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Construction",
+      "experience": 5
+    },
+    {
+      "skill": "Landscaping",
+      "experience": 5
+    },
+    {
+      "skill": "Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Vehicle Operation",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build and install koi ponds and waterfalls according to client specifications and design preferences."
+    },
+    {
+      "duty": "Travel to various locations to complete construction and landscaping projects, ensuring high-quality workmanship."
+    },
+    {
+      "duty": "Perform service calls and maintenance on existing koi ponds and water features."
+    },
+    {
+      "duty": "Operate a vehicle to transport tools, materials, and supplies to job sites."
+    },
+    {
+      "duty": "Provide excellent customer service and maintain professional relationships with clients during and after project completion."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 200,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma/GED"
+    }
+  ]
+}

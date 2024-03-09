@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Grant Writer",
+      "job_category": "Writing",
+      "job_class": "Writer",
+      "sector": "Non-profit",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Grant Writing",
+      "experience": 5
+    },
+    {
+      "skill": "Research",
+      "experience": 4
+    },
+    {
+      "skill": "Proposal Writing",
+      "experience": 4
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Research and identify grant opportunities from federal, agricultural, animal, shipping, air and sea sectors."
+    },
+    {
+      "duty": "Write and submit grant proposals to private foundations, governmental agencies, and international bodies."
+    },
+    {
+      "duty": "Communicate effectively with stakeholders and donors to understand their needs and align grant proposals accordingly."
+    },
+    {
+      "duty": "Manage the grant application process, ensuring compliance with all necessary regulations and requirements."
+    },
+    {
+      "duty": "Maintain accurate records of grant submissions, responses, and outcomes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Communications, Public Relations, English, or a related field"
+    }
+  ]
+}

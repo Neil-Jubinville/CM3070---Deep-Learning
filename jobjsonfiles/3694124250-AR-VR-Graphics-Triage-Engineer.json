@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "AR/VR Graphics Triage Engineer",
+      "job_category": "Engineering",
+      "job_class": "Graphics Engineer",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "C++ Programming",
+      "experience": 5
+    },
+    {
+      "skill": "GPU Hardware Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Debugging",
+      "experience": 5
+    },
+    {
+      "skill": "Graphics APIs",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Root Cause Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Troubleshoot issues related to AR/VR graphics system level frameworks by using knowledge of Apple SOC/GPU, modern rendering architectures, and design."
+    },
+    {
+      "duty": "Debug failures coming from both hardware and software, partnering with cross-functional engineers to quickly root cause and resolve issues."
+    },
+    {
+      "duty": "Drive systematic improvements to debug methods, tools, and features based on findings and expertise."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 75
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS/MS in Computer Science or equivalent degree or experience"
+    }
+  ]
+}

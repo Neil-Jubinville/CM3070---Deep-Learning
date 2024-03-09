@@ -1,0 +1,108 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Full Stack Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Lead Developer",
+      "sector": "Software Engineering",
+      "salary": 135000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": ".NET",
+      "experience": 8
+    },
+    {
+      "skill": "Azure DevOps",
+      "experience": 7
+    },
+    {
+      "skill": "Automated Deployment",
+      "experience": 7
+    },
+    {
+      "skill": "Regression Testing",
+      "experience": 7
+    },
+    {
+      "skill": "SQL Databases",
+      "experience": 8
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 8
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 8
+    },
+    {
+      "skill": "Microservices",
+      "experience": 8
+    },
+    {
+      "skill": "Software Testing",
+      "experience": 8
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 7
+    },
+    {
+      "skill": "Front-end Technologies",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead a team of developers in the design, architecture, development, and implementation of robust and scalable software applications."
+    },
+    {
+      "duty": "Collaborate with stakeholders to gather requirements and translate them into technical solutions."
+    },
+    {
+      "duty": "Design and develop high-quality code using .NET technologies, web frameworks, scheduling and queuing systems, and automated testing processes."
+    },
+    {
+      "duty": "Utilize and train the team on Azure DevOps to manage the development lifecycle, including source control, build pipelines, and continuous integration/continuous deployment (CI/CD) processes."
+    },
+    {
+      "duty": "Implement effective deployment strategies, ensuring smooth and efficient delivery of software releases."
+    },
+    {
+      "duty": "Conduct regression testing to identify and resolve software defects and issues."
+    },
+    {
+      "duty": "Optimize SQL databases for performance and scalability."
+    },
+    {
+      "duty": "Develop scalable and resilient microservices using industry best practices and architectural patterns."
+    },
+    {
+      "duty": "Collaborate with engineers to develop and execute comprehensive testing strategies, including unit tests, integration tests, and end-to-end tests, to ensure the quality and stability of the scheduling services."
+    },
+    {
+      "duty": "Document technical designs, specifications, and architectural decisions related to services and architecture."
+    },
+    {
+      "duty": "Stay updated with industry trends and best practices, and proactively introduce innovative solutions to enhance software development processes."
+    },
+    {
+      "duty": "Mentor and guide junior developers, providing technical leadership and fostering a collaborative and productive team environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or a related field (or equivalent practical experience)"
+    }
+  ]
+}

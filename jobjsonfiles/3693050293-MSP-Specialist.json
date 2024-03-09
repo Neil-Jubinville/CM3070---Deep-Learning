@@ -1,0 +1,109 @@
+{
+  "meta": [
+    {
+      "job_title": "MSP Specialist",
+      "job_category": "Information Technology",
+      "job_class": "Specialist",
+      "sector": "Information Technology",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Helpdesk Support",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Hosting (HyperV, SonicWall, VPN)",
+      "experience": 5
+    },
+    {
+      "skill": "M365 Management and Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Network Security (Unifi, Sonicwall)",
+      "experience": 5
+    },
+    {
+      "skill": "IT Projects Management",
+      "experience": 5
+    },
+    {
+      "skill": "Server Maintenance (Windows)",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting and Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Cyber Security Tasks and Audits",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Consultation",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Handle helpdesk escalations and basic IT support tasks"
+    },
+    {
+      "duty": "Perform cyber security tasks and audits"
+    },
+    {
+      "duty": "Manage cloud hosting (HyperV, SonicWall, VPN) and M365 management and automation"
+    },
+    {
+      "duty": "Network security management using Unifi, Sonicwall, and IT projects management"
+    },
+    {
+      "duty": "Maintain servers (Windows only) and create scripts for automation"
+    },
+    {
+      "duty": "Test and implement new technology and other IT-related tasks"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 130,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Relevant minimum 5 years experience working for an MSP"
+    },
+    {
+      "credential": "Microsoft Azure AD/ M365 experience"
+    },
+    {
+      "credential": "Experience with any RMM and PSA software"
+    },
+    {
+      "credential": "Preferred: Cyber Security education/experience"
+    },
+    {
+      "credential": "Preferred: DATTO PSA/RMM experience"
+    },
+    {
+      "credential": "Preferred: Hyper-V experience"
+    }
+  ]
+}

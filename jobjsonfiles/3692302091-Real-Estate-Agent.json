@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Real Estate Agent",
+      "job_category": "Real Estate",
+      "job_class": "Agent",
+      "sector": "Sales",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Real Estate Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Client Management",
+      "experience": 2
+    },
+    {
+      "skill": "Transaction Management",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Market Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Ethical Standards",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Guide clients through the buying and selling process, addressing their unique needs and challenges."
+    },
+    {
+      "duty": "Manage client interactions, transactions, and communications efficiently."
+    },
+    {
+      "duty": "Showcase expertise to clients and build trust through a proven track record of successful real estate transactions."
+    },
+    {
+      "duty": "Meet production targets within high-volume transaction workflows."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 40,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Georgia real estate license in good standing."
+    },
+    {
+      "credential": "Minimum of 2 years of experience as a licensed real estate agent in Georgia."
+    },
+    {
+      "credential": "Proficiency with a CRM to manage client interactions and transaction workflows."
+    },
+    {
+      "credential": "Demonstrated success in completing 14+ real estate transactions within the last year."
+    },
+    {
+      "credential": "Strong understanding of the Georgia real estate market and familiarity with military housing needs."
+    },
+    {
+      "credential": "Excellent communication skills, with the ability to connect and empathize with all clients, including military members and members of the military community."
+    },
+    {
+      "credential": "Strong ethical standards and a commitment to providing excellent service."
+    }
+  ]
+}

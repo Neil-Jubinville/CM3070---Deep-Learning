@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Pipe Welder",
+      "job_category": "Welder",
+      "job_class": "Skilled Worker",
+      "sector": "Construction",
+      "salary": 58000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Welding",
+      "experience": 3
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 3
+    },
+    {
+      "skill": "Mathematical Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Metal Fabrication",
+      "experience": 3
+    },
+    {
+      "skill": "Weld Test Certification",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Position, align, and secure parts and assemblies prior to assembly."
+    },
+    {
+      "duty": "Weld together metal components of products such as piping systems, plates, pipes, and tube or structural shapes, as specified by layout, blueprints, diagram, work order, welding procedures, or oral instructions, using electric arc-welding equipment."
+    },
+    {
+      "duty": "Plan installation or repair to avoid obstructions and avoid interfering with the activities of other workers."
+    },
+    {
+      "duty": "Secure pipes to structure with bracket, clamps, and hangers, using hand tools and power tools."
+    },
+    {
+      "duty": "Weld in any direction \u2013 flat, horizontal, vertical, or overhead positions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma / GED"
+    },
+    {
+      "credential": "Weld Test Certification"
+    },
+    {
+      "credential": "OSHA 10"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Equipment Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Semiconductors",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Repairs",
+      "experience": 5
+    },
+    {
+      "skill": "Preventive Maintenance",
+      "experience": 4
+    },
+    {
+      "skill": "Quality Checks",
+      "experience": 4
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 4
+    },
+    {
+      "skill": "Statistical Process Control",
+      "experience": 3
+    },
+    {
+      "skill": "Cleanroom Environment",
+      "experience": 4
+    },
+    {
+      "skill": "Equipment Maintenance",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performing preventive maintenance on 300mm Semiconductor equipment."
+    },
+    {
+      "duty": "Conducting quality checks and responding to error messages."
+    },
+    {
+      "duty": "Reviewing Statistical Process Control charts and conducting defect troubleshooting."
+    },
+    {
+      "duty": "Working in a cleanroom environment and wearing coveralls/bunny suit."
+    },
+    {
+      "duty": "Training for the first 6-9 months in the form of OJT, SOP, Shadowing, Video training, and Trainer-led sessions."
+    },
+    {
+      "duty": "Working compressed work shifts (12-hour shifts in a 3 or 4 day work week) and comfortable working day or night shifts."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 30,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED (AAS Degree or Technical Certificate a plus)"
+    }
+  ]
+}

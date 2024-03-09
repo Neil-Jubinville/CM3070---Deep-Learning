@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Customer Service Representative",
+      "job_category": "Customer Service",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 17500,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Sales Support",
+      "experience": 2
+    },
+    {
+      "skill": "Conflict Resolution",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide consultative service support in a complex environment, including addressing billing questions, policy changes, rate changes, and providing support for the Farmers.com/Mobile app."
+    },
+    {
+      "duty": "Analyze, clarify, and resolve intermediate policy and account-related questions from internal and external customers."
+    },
+    {
+      "duty": "Proactively share knowledge to reduce customer effort and provide a positive customer experience."
+    },
+    {
+      "duty": "Utilize technology and learning resources to deliver efficient problem resolution."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent. Four-year college degree preferred."
+    }
+  ]
+}

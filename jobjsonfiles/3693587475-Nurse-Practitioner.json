@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Nurse Practitioner",
+      "job_category": "Medical",
+      "job_class": "Practitioner",
+      "sector": "Healthcare",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Primary Care Services",
+      "experience": 5
+    },
+    {
+      "skill": "Wound Care",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "EMR Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Prescription Management",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Care",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "NP License",
+      "experience": 5
+    },
+    {
+      "skill": "DEA License",
+      "experience": 5
+    },
+    {
+      "skill": "Post-Acute Care",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Rounding and managing clinical care of patients at the assigned SNF."
+    },
+    {
+      "duty": "Providing high-quality patient-centered comprehensive primary care services to patients residing in SNFs."
+    },
+    {
+      "duty": "Administering and prescribing medications and treatments for residents at SNFs."
+    },
+    {
+      "duty": "Documenting patient care/encounters in the facility's EHR systems."
+    },
+    {
+      "duty": "Participating in phone/secure messaging consultations with facility nursing staff."
+    },
+    {
+      "duty": "Completing documentation in Theoria\u2019s proprietary EHR system and other facility EHR systems."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 90,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "NP License from an accredited institution"
+    },
+    {
+      "credential": "Active DEA License"
+    }
+  ]
+}

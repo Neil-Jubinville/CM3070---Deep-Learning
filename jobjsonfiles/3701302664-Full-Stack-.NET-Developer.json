@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Full Stack .NET Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": ".NET/C#",
+      "experience": 5
+    },
+    {
+      "skill": "ASP.NET (MVC)",
+      "experience": 5
+    },
+    {
+      "skill": "Web Services (HTTP & HTTPS)",
+      "experience": 5
+    },
+    {
+      "skill": "Entity Framework",
+      "experience": 5
+    },
+    {
+      "skill": "MVC",
+      "experience": 5
+    },
+    {
+      "skill": "Ajax",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "Bootstrap",
+      "experience": 5
+    },
+    {
+      "skill": "TFS",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Server",
+      "experience": 5
+    },
+    {
+      "skill": "PowerShell Scripts",
+      "experience": 5
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain .NET applications using C#, ASP.NET (MVC), Entity Framework, and other relevant technologies."
+    },
+    {
+      "duty": "Collaborate with the development team to build scalable and high-performing systems."
+    },
+    {
+      "duty": "Design and implement web services, console applications, and scripts to support application functionality."
+    },
+    {
+      "duty": "Utilize SQL Server for database development, including stored procedures, functions, triggers, and performance tuning."
+    },
+    {
+      "duty": "Demonstrate strong analytical skills to troubleshoot and resolve defects reported by clients and production support tickets."
+    },
+    {
+      "duty": "Perform root cause analysis and identify the defect area, while also understanding complex business processes and workflow."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer II",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "React.js",
+      "experience": 3
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 4
+    },
+    {
+      "skill": "HTML/CSS",
+      "experience": 4
+    },
+    {
+      "skill": ".NET Framework 3.5",
+      "experience": 3
+    },
+    {
+      "skill": "Redux/Angular/Vue.js",
+      "experience": 2
+    },
+    {
+      "skill": "Responsive Design",
+      "experience": 4
+    },
+    {
+      "skill": "RESTful APIs",
+      "experience": 4
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 3
+    },
+    {
+      "skill": "Git/GitHub/Bitbucket",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop user-friendly web applications using React.js and related frameworks, libraries, and tools."
+    },
+    {
+      "duty": "Collaborate with product managers, designers, and backend engineers to define and implement innovative solutions."
+    },
+    {
+      "duty": "Design and implement reusable and efficient components and front-end architectures."
+    },
+    {
+      "duty": "Ensure the technical feasibility of UI/UX designs and optimize applications for maximum speed and scalability."
+    },
+    {
+      "duty": "Write clean, maintainable, and well-documented code while adhering to coding standards and best practices."
+    },
+    {
+      "duty": "Conduct thorough testing and debugging to identify and resolve software defects and performance issues."
+    },
+    {
+      "duty": "Continuously research and stay up-to-date with the latest industry trends, tools, and technologies related to React.js and web development."
+    },
+    {
+      "duty": "Collaborate with the QA team to perform code reviews and ensure high code quality and software reliability."
+    },
+    {
+      "duty": "Participate in Agile development processes, including sprint planning, task estimation, and regular team meetings."
+    },
+    {
+      "duty": "Provide technical guidance and mentorship to junior team members, sharing knowledge and fostering a collaborative work environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 120,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent industry experience)"
+    }
+  ]
+}

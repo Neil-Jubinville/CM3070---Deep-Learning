@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Technologist-Weekends",
+      "job_category": "Healthcare",
+      "job_class": "Technologist",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physiology",
+      "experience": 5
+    },
+    {
+      "skill": "Laboratory Procedures",
+      "experience": 5
+    },
+    {
+      "skill": "Laboratory Information System",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Technology",
+      "experience": 5
+    },
+    {
+      "skill": "Laboratory Test Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collect and prepare specimens and perform laboratory procedures for diagnosis, treatment, and prevention of disease."
+    },
+    {
+      "duty": "Verify, record, and report lab results accurately and in a timely manner."
+    },
+    {
+      "duty": "Ensure compliance with regulatory requirements, hospital policies, and laboratory procedures."
+    },
+    {
+      "duty": "Follow the laboratory's procedures for specimen handling, processing, test analyses, and reporting."
+    },
+    {
+      "duty": "Identify problems that may adversely affect test performance or reporting of test results and take corrective action."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in a chemical/physical/biological or other life science, or Bachelor\u2019s degree in laboratory medical technology, with clinical rotation."
+    }
+  ]
+}

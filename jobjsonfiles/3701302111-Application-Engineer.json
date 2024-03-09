@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Application Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Server Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Vendor Management",
+      "experience": 5
+    },
+    {
+      "skill": "Container Environment",
+      "experience": 3
+    },
+    {
+      "skill": "Banking Experience",
+      "experience": 4
+    },
+    {
+      "skill": "Check Processing",
+      "experience": 3
+    },
+    {
+      "skill": "Mainframe Integration",
+      "experience": 3
+    },
+    {
+      "skill": "MS Windows Integration",
+      "experience": 3
+    },
+    {
+      "skill": "UNIX System Integration",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Handle the administration, maintenance, and patching of servers to help upgrade, install, and troubleshoot multiple applications."
+    },
+    {
+      "duty": "Work with vendors and cross-functional teams to ensure problems within applications and hardware (servers) are addressed."
+    },
+    {
+      "duty": "Work in a container environment and utilize banking-specific knowledge to support applications."
+    },
+    {
+      "duty": "Provide on-call support 24/7, addressing failed components or technical issues and providing resolution."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

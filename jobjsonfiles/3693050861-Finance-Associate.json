@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Finance Associate",
+      "job_category": "Finance",
+      "job_class": "Associate",
+      "sector": "Finance",
+      "salary": 23,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Analysis",
+      "experience": 1
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Accounting",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Bank reconciliations"
+    },
+    {
+      "duty": "Maintaining all changes to vendor master data"
+    },
+    {
+      "duty": "Reporting Financial analysis"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 50,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Finance or Accounting (Master's preferred)"
+    }
+  ]
+}

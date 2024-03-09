@@ -1,0 +1,111 @@
+{
+  "meta": [
+    {
+      "job_title": "DevOps Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 145000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Linux/Unix Administration",
+      "experience": 4
+    },
+    {
+      "skill": "AWS Technology Stack",
+      "experience": 4
+    },
+    {
+      "skill": "Automation/Configuration Management",
+      "experience": 4
+    },
+    {
+      "skill": "CI/CD Tools",
+      "experience": 4
+    },
+    {
+      "skill": "APM Tools",
+      "experience": 4
+    },
+    {
+      "skill": "Log Analysis and Monitoring Tools",
+      "experience": 4
+    },
+    {
+      "skill": "Coding and Scripting (PHP, Python, Perl, Ruby)",
+      "experience": 4
+    },
+    {
+      "skill": "MySQL",
+      "experience": 4
+    },
+    {
+      "skill": "Open Source Technologies and Cloud Services",
+      "experience": 4
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 4
+    },
+    {
+      "skill": "Adobe Experience Manager (AEM)",
+      "experience": 4
+    },
+    {
+      "skill": "Frontend Development (React, NodeJS)",
+      "experience": 4
+    },
+    {
+      "skill": "NoSQL",
+      "experience": 4
+    },
+    {
+      "skill": "Communication and Collaboration",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, manage, and maintain tools to automate engineering operations."
+    },
+    {
+      "duty": "Design, build, implement and support CI/CD framework."
+    },
+    {
+      "duty": "Build highly scalable and available distributed systems on a cloud-based platform."
+    },
+    {
+      "duty": "Own and drive initiatives to automate engineering operations and enable engineering teams to ship features following Agile methodology."
+    },
+    {
+      "duty": "Develop, monitor, and maintain platform health and performance."
+    },
+    {
+      "duty": "Review and strengthen the physical and logical security of the platform systems, data, and access points."
+    },
+    {
+      "duty": "Perform deployments, upgrades, and configurations in controlled environments."
+    },
+    {
+      "duty": "Support processes to maintain uptime, SLAs, and availability of critical platform components."
+    },
+    {
+      "duty": "Be a member of the 24x7x365 on-call support team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related fields (Master's preferred)"
+    }
+  ]
+}

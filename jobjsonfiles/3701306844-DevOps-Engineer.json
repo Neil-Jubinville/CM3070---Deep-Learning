@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "DevOps Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Jenkins",
+      "experience": 3
+    },
+    {
+      "skill": "GitHub",
+      "experience": 3
+    },
+    {
+      "skill": "Dockerfile creation",
+      "experience": 3
+    },
+    {
+      "skill": "AWS Cloud",
+      "experience": 3
+    },
+    {
+      "skill": "Terraform",
+      "experience": 3
+    },
+    {
+      "skill": "Datadog",
+      "experience": 3
+    },
+    {
+      "skill": "CloudWatch",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Scripting",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage CI/CD deployments using Jenkins for seamless end-to-end deployments."
+    },
+    {
+      "duty": "Utilize Dockerfile creation for application packaging and deployment."
+    },
+    {
+      "duty": "Write IaC with Terraform for efficient infrastructure provisioning."
+    },
+    {
+      "duty": "Monitor application performance using Datadog and CloudWatch."
+    },
+    {
+      "duty": "Experience in troubleshooting application failures and writing shell/python scripts."
+    }
+  ]
+}

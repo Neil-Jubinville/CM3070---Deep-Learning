@@ -1,0 +1,177 @@
+{
+  "meta": [
+    {
+      "job_title": "Healthcare Database Developer",
+      "job_category": "IT",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "MySQL",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Server",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Jenkins",
+      "experience": 5
+    },
+    {
+      "skill": "Maven",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "Kafka",
+      "experience": 5
+    },
+    {
+      "skill": "Rally",
+      "experience": 5
+    },
+    {
+      "skill": "RESTful API",
+      "experience": 5
+    },
+    {
+      "skill": "JSON",
+      "experience": 5
+    },
+    {
+      "skill": "MongoDB",
+      "experience": 5
+    },
+    {
+      "skill": "Azure/GCP",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Server Management Studio",
+      "experience": 11
+    },
+    {
+      "skill": "SQL Server Integration Services (SSIS)",
+      "experience": 11
+    },
+    {
+      "skill": "SQL Server Reporting Services (SSRS)",
+      "experience": 11
+    },
+    {
+      "skill": "SDLC",
+      "experience": 11
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 11
+    },
+    {
+      "skill": "API Management",
+      "experience": 11
+    },
+    {
+      "skill": "SOAP UI",
+      "experience": 11
+    },
+    {
+      "skill": "Postman",
+      "experience": 11
+    },
+    {
+      "skill": "Data Model Design",
+      "experience": 11
+    },
+    {
+      "skill": "Performance Tuning",
+      "experience": 11
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 11
+    },
+    {
+      "skill": "DevOps",
+      "experience": 11
+    },
+    {
+      "skill": "Microservices",
+      "experience": 11
+    },
+    {
+      "skill": "REST APIs",
+      "experience": 11
+    },
+    {
+      "skill": "Cloud Experience",
+      "experience": 11
+    },
+    {
+      "skill": "Polyglot Programming",
+      "experience": 11
+    },
+    {
+      "skill": "Python",
+      "experience": 11
+    },
+    {
+      "skill": "NodeJS",
+      "experience": 11
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Utilize SQL Server Management Studio to develop the database-stored procedures."
+    },
+    {
+      "duty": "Utilize SQL Server Integration Services (SSIS) to develop the Data Transformation packages that are used to load the data."
+    },
+    {
+      "duty": "Use SQL Server Reporting Services (SSRS) to develop any data metric reports."
+    },
+    {
+      "duty": "Experience in SDLC through Agile methodology."
+    },
+    {
+      "duty": "API Management and Testing through SOAP UI and Postman."
+    },
+    {
+      "duty": "Data Model Design, Performance Tuning, Knowledge of CI/CD & DevOps."
+    },
+    {
+      "duty": "Ability to develop Microservices and REST APIs."
+    },
+    {
+      "duty": "Cloud experience in Azure/AWS/GCP."
+    },
+    {
+      "duty": "Polyglot programming experience with other languages like Python/NodeJS."
+    },
+    {
+      "duty": "Prior Healthcare domain knowledge."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ]
+}

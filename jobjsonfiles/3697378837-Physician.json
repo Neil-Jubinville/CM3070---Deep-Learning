@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Physician",
+      "job_category": "Healthcare",
+      "job_class": "Physician",
+      "sector": "Healthcare",
+      "salary": 180000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Healthcare Management",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Diagnosis",
+      "experience": 5
+    },
+    {
+      "skill": "Chronic Disease Management",
+      "experience": 5
+    },
+    {
+      "skill": "Acute Care Treatment",
+      "experience": 5
+    },
+    {
+      "skill": "Health Education",
+      "experience": 5
+    },
+    {
+      "skill": "Bilingual Spanish/English",
+      "experience": 5
+    },
+    {
+      "skill": "Consumer Experience Improvement",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Handle a variety of health-related problems and lead a multi-disciplinary care team supporting patients' physical, emotional, and social wellness."
+    },
+    {
+      "duty": "Provide senior-focused primary care for members of Medicare Advantage health plans and manage chronic and acute-care conditions."
+    },
+    {
+      "duty": "Deliver health education and value-added, well-being services to patients and community members to improve their health."
+    },
+    {
+      "duty": "Contribute to continuously improving consumer experiences and promoting lifelong well-being for associates and the communities served."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctorate degree from an accredited MD or DO program of an accredited university. Board Certification or true board eligibility in Family Medicine or Internal Medicine."
+    }
+  ]
+}

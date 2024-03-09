@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Mine Maintenance Power Crew",
+      "job_category": "Mining",
+      "job_class": "Maintenance",
+      "sector": "Mining",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Underground Electrical Repair",
+      "experience": 5
+    },
+    {
+      "skill": "Mechanical Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Installation",
+      "experience": 5
+    },
+    {
+      "skill": "Programmable Logic Controllers",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Schematics",
+      "experience": 5
+    },
+    {
+      "skill": "High School Diploma",
+      "experience": 1
+    },
+    {
+      "skill": "Post-Secondary Technical Education",
+      "experience": 1
+    },
+    {
+      "skill": "Electrical Journeyman License",
+      "experience": 1
+    },
+    {
+      "skill": "Apprenticeship Program",
+      "experience": 1
+    },
+    {
+      "skill": "New Mexico Certification of Journeyman Electrician",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Repair and maintain underground electrical systems"
+    },
+    {
+      "duty": "Install, Program, & Maintain Electronic control apparatus"
+    },
+    {
+      "duty": "Troubleshoot mechanical, electrical problems on belt line and high voltage distribution systems"
+    },
+    {
+      "duty": "Analyze, monitor and learn new processes and procedures"
+    },
+    {
+      "duty": "Perform physical tasks involving heavy lifting, stooping, bending, walking, shoveling, etc."
+    },
+    {
+      "duty": "Assist in installations and advances"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma, post-secondary technical education, current Electrical Journeyman Licensed preferred, or New Mexico Certification of Journeyman Electrician"
+    }
+  ]
+}

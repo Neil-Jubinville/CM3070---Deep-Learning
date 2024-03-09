@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Network Engineer",
+      "job_category": "Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Network Analysis",
+      "experience": 8
+    },
+    {
+      "skill": "Capacity Planning",
+      "experience": 8
+    },
+    {
+      "skill": "Cisco Hardware Configuration",
+      "experience": 8
+    },
+    {
+      "skill": "Quality of Service Implementation",
+      "experience": 8
+    },
+    {
+      "skill": "AWS Cloud",
+      "experience": 8
+    },
+    {
+      "skill": "Terraform",
+      "experience": 8
+    },
+    {
+      "skill": "Project Management",
+      "experience": 8
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide expert level analysis of data communications networks, including planning, design, evaluation, selection, and implementation."
+    },
+    {
+      "duty": "Manage performance tuning and capacity planning activities to enhance the performance of associated infrastructure."
+    },
+    {
+      "duty": "Support the acquisition of hardware and software as well as subcontractor services as needed."
+    },
+    {
+      "duty": "Contribute to initiatives aimed at driving down incident rates and troubleshooting when necessary."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 140,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in computer science, management information systems, or related technical field. Equivalent related experience and/or education may be substituted for the degree."
+    }
+  ],
+  "salary": 120000
+}

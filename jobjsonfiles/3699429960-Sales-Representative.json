@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Management",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "New Business Development",
+      "experience": 5
+    },
+    {
+      "skill": "Market Research",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 5
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop new business, penetrate existing accounts, and minimize lost business to achieve profitable sales growth and special objectives within assigned territory."
+    },
+    {
+      "duty": "Qualify prospects following company account stratification goals."
+    },
+    {
+      "duty": "Evaluate market trends and recommend products to customers based on business needs and goals."
+    },
+    {
+      "duty": "Provide product information and practical training to customer personnel."
+    },
+    {
+      "duty": "Manage deliveries and troubleshoot any problems that occur during the order process."
+    },
+    {
+      "duty": "Participate in company functions, promotions, customer visits, and customer events."
+    },
+    {
+      "duty": "Review and analyze daily and weekly reports such as special-order requests, customer bid files, and sales/gross profit margin data."
+    },
+    {
+      "duty": "Perform administrative duties, such as preparing sales budgets and reports, maintaining sales records, processing credits, and pick-up requests."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business, Sales, Marketing, Hospitality, Culinary Arts or related discipline OR HSD/GED and 3 years Restaurant Management, B2B, or outside sales experience, or equivalent relatable experience."
+    }
+  ]
+}

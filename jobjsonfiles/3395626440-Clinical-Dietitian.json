@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Clinical Dietitian",
+      "job_category": "Healthcare",
+      "job_class": "Senior",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medical Nutrition Therapy",
+      "experience": 5
+    },
+    {
+      "skill": "Motivational Interviewing",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Continuing Education",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Learning",
+      "experience": 5
+    },
+    {
+      "skill": "Professional Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide medical nutrition therapy to patients in a one-on-one therapy setting and via telehealth."
+    },
+    {
+      "duty": "Collaborate with the team and follow the Sensibly Sprouted Approach (motivational interviewing and advanced methods of MNT)."
+    },
+    {
+      "duty": "Participate in continuous education, including quarterly open-door leadership meetings and weekly dietitian roundtables."
+    },
+    {
+      "duty": "Focus on clinical learning, team collaboration, and personal growth."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Dietetics or related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Account Manager",
+      "job_category": "Sales",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 1
+    },
+    {
+      "skill": "Leadership",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Engagement",
+      "experience": 2
+    },
+    {
+      "skill": "Business Development",
+      "experience": 2
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Engage with customers, in-person, in a professional, friendly manner."
+    },
+    {
+      "duty": "Operate as the point of contact for assigned customers in the sales territory on behalf of major companies."
+    },
+    {
+      "duty": "Generate sales among customer accounts."
+    },
+    {
+      "duty": "Answer customer queries and identify new business opportunities."
+    },
+    {
+      "duty": "Work with the team on sales goals and business development needs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Sales, or a related field (Master's preferred)"
+    }
+  ]
+}

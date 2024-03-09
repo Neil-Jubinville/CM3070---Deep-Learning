@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Scientist",
+      "job_category": "Data Science",
+      "job_class": "Scientist",
+      "sector": "Software Engineering",
+      "salary": 200000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Analytics",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "R",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Statistical Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Product Development",
+      "experience": 5
+    },
+    {
+      "skill": "Mathematical Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Data Gathering",
+      "experience": 5
+    },
+    {
+      "skill": "Data Infrastructure",
+      "experience": 5
+    },
+    {
+      "skill": "Data Compilation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with stakeholders to identify and clarify business or product questions."
+    },
+    {
+      "duty": "Use custom data infrastructure or existing data models to solve defined problems."
+    },
+    {
+      "duty": "Gather, extract, and compile data across sources via relevant tools (e.g., SQL, R, Python)."
+    },
+    {
+      "duty": "Design and evaluate models to mathematically express and solve defined problems."
+    },
+    {
+      "duty": "Format, re-structure, and validate data to ensure quality."
+    },
+    {
+      "duty": "Provide feedback to translate and refine business questions into tractable analysis, evaluation metrics, or mathematical models."
+    },
+    {
+      "duty": "Own the process of gathering, extracting, and compiling data across sources via relevant tools (e.g., SQL, R, Python)."
+    },
+    {
+      "duty": "Independently format, re-structure, and/or validate data to ensure quality, and review the dataset to ensure it is ready for analysis."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree in Statistics, Data Science, Mathematics, Physics, Economics, Operations Research, Engineering, or a related quantitative field"
+    }
+  ]
+}

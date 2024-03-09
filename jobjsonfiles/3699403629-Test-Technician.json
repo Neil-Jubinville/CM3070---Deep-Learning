@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Test Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Software Engineering",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform testing of state of the art space electromechanical components."
+    },
+    {
+      "duty": "Operate assigned test equipment including Multimeter, Oscilloscope and Dynamic Analyzer."
+    },
+    {
+      "duty": "Comply with all safety rules."
+    },
+    {
+      "duty": "Record and report production data."
+    },
+    {
+      "duty": "Analyze data and production reports."
+    },
+    {
+      "duty": "Participate in continuous improvement activities."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Electromechanical Testing",
+      "experience": 2
+    },
+    {
+      "skill": "Technical Education in Electrical Field",
+      "experience": 2
+    },
+    {
+      "skill": "Troubleshooting Electrical and Mechanical Issues",
+      "experience": 2
+    },
+    {
+      "skill": "Analyzing Data and Graphs",
+      "experience": 2
+    },
+    {
+      "skill": "High Vacuum Systems",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 50,
+      "introvert_extrovert": 35
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or GED"
+    },
+    {
+      "credential": "2+ years technical education in electrical field"
+    }
+  ]
+}

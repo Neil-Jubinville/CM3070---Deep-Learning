@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Radiology Technologist",
+      "job_category": "Radiology",
+      "job_class": "Technologist",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Radiography",
+      "experience": 5
+    },
+    {
+      "skill": "Fluoroscopy",
+      "experience": 5
+    },
+    {
+      "skill": "Darkroom Techniques",
+      "experience": 4
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Radiation Safety",
+      "experience": 5
+    },
+    {
+      "skill": "Image Processing",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform radiographic and fluoroscopic procedures under general supervision."
+    },
+    {
+      "duty": "Assist the radiologist during procedures and ensure proper darkroom techniques and radiation safety guidelines."
+    },
+    {
+      "duty": "Operate imaging and fluoroscopic equipment, and utilize proper body mechanics for patient safety."
+    },
+    {
+      "duty": "Prepare patients for exams, troubleshoot equipment failures, and process imaging data."
+    },
+    {
+      "duty": "Produce quality images following established departmental and QA protocols."
+    },
+    {
+      "duty": "Prepare contrast media under the direction of a radiologist and recognize/respond to allergic reactions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "CRT, BLS, ARRT-RTR, RTF"
+    }
+  ]
+}

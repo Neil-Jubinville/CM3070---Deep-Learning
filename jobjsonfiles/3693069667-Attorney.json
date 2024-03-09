@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Attorney",
+      "job_category": "Legal",
+      "job_class": "Attorney",
+      "sector": "Law",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Litigation",
+      "experience": 5
+    },
+    {
+      "skill": "Legal Research",
+      "experience": 5
+    },
+    {
+      "skill": "Case Management",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Detail-oriented",
+      "experience": 5
+    },
+    {
+      "skill": "Independent Work",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Handle all types of personal injury and wrongful death litigation, from basic auto accident cases to complex automotive product liability cases."
+    },
+    {
+      "duty": "Produce top quality legal work for clients in tough moments of life."
+    },
+    {
+      "duty": "Work independently without constant supervision and guidance."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Juris Doctor (JD) Degree"
+    }
+  ]
+}

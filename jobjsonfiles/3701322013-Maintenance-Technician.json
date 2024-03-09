@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Technician",
+      "job_category": "Manufacturing",
+      "job_class": "Technician",
+      "sector": "Maintenance",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "PLC",
+      "experience": 2
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Machinist",
+      "experience": 2
+    },
+    {
+      "skill": "Mechanical",
+      "experience": 2
+    },
+    {
+      "skill": "Electrical",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform all work assignments in the preventative maintenance program"
+    },
+    {
+      "duty": "Assist in maintaining the accuracy and integrity of the Preventative Maintenance Parts Storage system"
+    },
+    {
+      "duty": "Assist with the development of special tooling as needed to repair equipment"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma (required)"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Product Marketing Specialist",
+      "job_category": "Marketing",
+      "job_class": "Specialist",
+      "sector": "Marketing",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Marketing Strategy",
+      "experience": 2
+    },
+    {
+      "skill": "Market Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "Online Presence Management",
+      "experience": 2
+    },
+    {
+      "skill": "Digital Marketing",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and execute strategies to drive successful product launches and adoption campaigns."
+    },
+    {
+      "duty": "Ensure clear and compelling communication with customers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Marketing or Business (Master's preferred)"
+    }
+  ]
+}

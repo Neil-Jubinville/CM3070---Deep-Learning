@@ -1,0 +1,73 @@
+{
+  "meta": [
+    {
+      "job_title": "Territory Manager",
+      "job_category": "Sales",
+      "job_class": "Manager",
+      "sector": "Sales",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage and grow sales volume in a specific territory."
+    },
+    {
+      "duty": "Educate client network on the advantages of manufacturing partners."
+    },
+    {
+      "duty": "Perform routine presentations and demonstrate sample products."
+    },
+    {
+      "duty": "Cultivate new relationships with potential new clients."
+    },
+    {
+      "duty": "Assist in project management and production of bid responses."
+    },
+    {
+      "duty": "Answer customer service and warranty calls."
+    },
+    {
+      "duty": "Perform minimal reports to aid in organization and future management of territory."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Management",
+      "experience": 5
+    },
+    {
+      "skill": "Relationship Building",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    },
+    {
+      "skill": "Presentation Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Report Writing",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Sales, Business, or a related field (Master's preferred)"
+    }
+  ]
+}

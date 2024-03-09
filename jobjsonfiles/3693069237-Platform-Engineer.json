@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Platform Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Enable product teams to self-service through tooling and automation and empowering them to deploy and operate their services."
+    },
+    {
+      "duty": "Embody the core values of Agile to deliver quality software to our users."
+    },
+    {
+      "duty": "Build fully automated and complex continuous delivery pipelines."
+    },
+    {
+      "duty": "Administer all aspects of the ALM platform: source control, work items, users, permissions, etc."
+    },
+    {
+      "duty": "Plan for performance, uptime, disaster recovery, and capacity growth."
+    },
+    {
+      "duty": "Be involved with the vision, strategy, and execution to spread the DevOps culture throughout the organization."
+    },
+    {
+      "duty": "Build, secure, and manage AWS Lambda serverless computing services."
+    },
+    {
+      "duty": "Research, evaluate, and develop patterns for performance, uptime, disaster recovery, and capacity growth."
+    },
+    {
+      "duty": "Participate in production deployment activities whenever necessary (evenings and weekends) usually 2-5 deployments per month (but continuously evolving)."
+    },
+    {
+      "duty": "Manage our new Liferay portal cloud platform and associated infrastructure."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Continuous Delivery",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Management",
+      "experience": 5
+    },
+    {
+      "skill": "ALM Platform Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Infrastructure as Code (Terraform, AWS CloudFormation, Serverless Framework)",
+      "experience": 5
+    },
+    {
+      "skill": "Programming and Scripting (TypeScript)",
+      "experience": 5
+    },
+    {
+      "skill": "GitHub Flow and Git Flow Branching",
+      "experience": 5
+    },
+    {
+      "skill": "Automated Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Development and Deployment (AWS)",
+      "experience": 5
+    },
+    {
+      "skill": "Hosting and Operations Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ]
+}

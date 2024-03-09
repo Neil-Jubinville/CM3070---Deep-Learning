@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Director of Sales",
+      "job_category": "Sales",
+      "job_class": "Director",
+      "sector": "Sales",
+      "salary": 125000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Management",
+      "experience": 5
+    },
+    {
+      "skill": "Retail Media Expertise",
+      "experience": 5
+    },
+    {
+      "skill": "SaaS Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Digital Media Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Presentation Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build the business, close new revenue opportunities, and be an expert in retail media and commerce."
+    },
+    {
+      "duty": "Partner with internal teams to ensure successful client wins, implementations, customer satisfaction, growth, and ongoing partnership with clients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Marketing, or a related field (Master's preferred)"
+    }
+  ]
+}

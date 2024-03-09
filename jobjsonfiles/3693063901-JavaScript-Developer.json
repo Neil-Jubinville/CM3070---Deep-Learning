@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "JavaScript Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Angular",
+      "experience": 3
+    },
+    {
+      "skill": "Spring.JS",
+      "experience": 3
+    },
+    {
+      "skill": "API",
+      "experience": 3
+    },
+    {
+      "skill": "Hibernate",
+      "experience": 3
+    },
+    {
+      "skill": "Linux Server Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Oracle Backend Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Snowflake",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain web applications using Angular, Spring.JS, and API technologies."
+    },
+    {
+      "duty": "Implement and manage Linux server configurations for web development and deployment."
+    },
+    {
+      "duty": "Utilize Oracle backend experience for database management and optimization."
+    },
+    {
+      "duty": "Support and enhance existing application features using Hibernate."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 60,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

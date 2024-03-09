@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior SQL/SSIS Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft SQL Server",
+      "experience": 10
+    },
+    {
+      "skill": "T-SQL programming",
+      "experience": 10
+    },
+    {
+      "skill": "SSIS Development",
+      "experience": 10
+    },
+    {
+      "skill": "Enterprise Data Warehouse",
+      "experience": 10
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 10
+    },
+    {
+      "skill": "ETL Development",
+      "experience": 10
+    },
+    {
+      "skill": "Code Review",
+      "experience": 10
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop, architect, and provide production support for complex SSIS packages."
+    },
+    {
+      "duty": "Build ETL components according to ETL specifications with a focus on performance, dependency, auditing, error handling, and data quality."
+    },
+    {
+      "duty": "Support post-deployment by debugging, fixing, and participating in maintenance of ETL processes."
+    },
+    {
+      "duty": "Ensure data integrity and quality within the Dashboard presentation layer."
+    },
+    {
+      "duty": "Conduct code reviews, troubleshoot code-related issues, and review and provide feedback on user documentation."
+    },
+    {
+      "duty": "Read and understand business requirements, write functional requirements, develop detailed technical designs, and build/unit/system test ETL code."
+    },
+    {
+      "duty": "Work with Onsite/offshore model and experience migrating data from Oracle to SQL Server."
+    },
+    {
+      "duty": "Experience with lift-and-shift SSIS to Azure Data Factory and Agile methodology software development."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 20,
+      "student_teacher": 30,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": []
+}

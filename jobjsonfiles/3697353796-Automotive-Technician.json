@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Automotive Technician",
+      "job_category": "Service",
+      "job_class": "Technician",
+      "sector": "Retail",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Automotive Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Vehicle Inspection",
+      "experience": 2
+    },
+    {
+      "skill": "Mechanical Diagnosis",
+      "experience": 2
+    },
+    {
+      "skill": "ASE Certification",
+      "experience": 2
+    },
+    {
+      "skill": "Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Tool Maintenance",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Services and repairs automotive systems"
+    },
+    {
+      "duty": "Performs inspections and mechanical diagnoses on vehicles"
+    },
+    {
+      "duty": "Drives and maintains service center standards"
+    },
+    {
+      "duty": "Performs tire and fluid services"
+    },
+    {
+      "duty": "Maintains tools, equipment, and safety standards"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum 2 years of automotive repair experience, completion of Vocational-Technical School program in a related field or demonstrated skills via third party certificates/assessment."
+    },
+    {
+      "credential": "A.S.E. certification in at least one of A1-A8 is preferred."
+    },
+    {
+      "credential": "Valid automobile driver\u2019s license"
+    }
+  ]
+}

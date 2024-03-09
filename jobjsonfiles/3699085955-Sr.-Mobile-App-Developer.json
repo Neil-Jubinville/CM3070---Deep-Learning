@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. Mobile App Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mobile App Development",
+      "experience": 5
+    },
+    {
+      "skill": "Ionic Framework",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "Android Development",
+      "experience": 5
+    },
+    {
+      "skill": "iOS Development",
+      "experience": 5
+    },
+    {
+      "skill": "API Development",
+      "experience": 5
+    },
+    {
+      "skill": "RESTful Web Services",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 5
+    },
+    {
+      "skill": "AWS",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, modify, deploy, and support custom mobile applications for iOS and Android using the Ionic platform."
+    },
+    {
+      "duty": "Establish coding standards, code reviews, and architecture of the Mobile Application Development."
+    },
+    {
+      "duty": "Support constituent-facing mobile and web applications to streamline client experience."
+    },
+    {
+      "duty": "Perform benchmark testing, debugging, and documentation of programs, code, and data flow."
+    },
+    {
+      "duty": "Implement top programming practices and standards to deliver quality products predictably and consistently."
+    },
+    {
+      "duty": "Craft technical documentation of newly implemented features and bug fixes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 160,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science/Engineering or a related area"
+    }
+  ]
+}

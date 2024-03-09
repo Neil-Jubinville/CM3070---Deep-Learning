@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "Laboratory Technician",
+      "job_category": "Science",
+      "job_class": "Technician",
+      "sector": "Science",
+      "salary": 22500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Analytical Testing",
+      "experience": 1
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 1
+    },
+    {
+      "skill": "Laboratory Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 1
+    },
+    {
+      "skill": "Safety Protocol Adherence",
+      "experience": 1
+    },
+    {
+      "skill": "Effective Communication",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform the analysis of air samples using the GC/MS systems"
+    },
+    {
+      "duty": "Perform data reduction of acquired data results"
+    },
+    {
+      "duty": "Assist in the pressurization and screening of samples"
+    },
+    {
+      "duty": "Generate final reports"
+    },
+    {
+      "duty": "Following appropriate project and method QC requirements"
+    },
+    {
+      "duty": "Prepare standards for analysis"
+    },
+    {
+      "duty": "Consistently maintain the quality assurance and teamwork goals of the group"
+    },
+    {
+      "duty": "Other duties as assigned"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BA/BS degree in Science required; 1 year experience in a laboratory is desired."
+    }
+  ]
+}

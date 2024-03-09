@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Coordinator",
+      "job_category": "Sales",
+      "job_class": "Coordinator",
+      "sector": "Sales",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Order Management",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Excel",
+      "experience": 5
+    },
+    {
+      "skill": "SAP",
+      "experience": 3
+    },
+    {
+      "skill": "Power BI",
+      "experience": 2
+    },
+    {
+      "skill": "ServiceNow",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 4
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage daily customer purchase orders with proficiency in Microsoft Excel, SAP, and Power BI."
+    },
+    {
+      "duty": "Communicate clear and concise information to sales team and customers regarding the status of purchase orders."
+    },
+    {
+      "duty": "Submit credit memos, return authorizations, and new store setup forms."
+    },
+    {
+      "duty": "Track seasonal product due-in dates and ensure alignment of POs and inbound product timelines."
+    },
+    {
+      "duty": "Analyze customer selling reports and compile selling information into cohesive reports."
+    },
+    {
+      "duty": "Prepare, coordinate, and manage product samples in the showroom and ship samples to sell-in meetings."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration or related field"
+    }
+  ]
+}

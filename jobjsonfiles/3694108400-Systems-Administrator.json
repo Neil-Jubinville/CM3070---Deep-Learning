@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Systems Administrator",
+      "job_category": "Information Technology",
+      "job_class": "Administrator",
+      "sector": "Software Engineering",
+      "salary": 145000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nutanix Cluster Management",
+      "experience": 5
+    },
+    {
+      "skill": "VMware Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Linux Operating Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Capacity Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Performance Tuning",
+      "experience": 5
+    },
+    {
+      "skill": "Virtual Machine Management",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Automation and Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Market Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Networking",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Install, configure, and manage Nutanix clusters."
+    },
+    {
+      "duty": "Troubleshoot hardware and software issues in Nutanix environment."
+    },
+    {
+      "duty": "Perform VMware vSphere infrastructure installation and management."
+    },
+    {
+      "duty": "Perform VMware ESXi hypervisor administration."
+    },
+    {
+      "duty": "Virtual machine provisioning and management."
+    },
+    {
+      "duty": "Troubleshoot VMware-related issues."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in a related field is preferred but not required."
+    }
+  ]
+}

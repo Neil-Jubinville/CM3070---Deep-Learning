@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Developer",
+      "job_category": "Software Development",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Back-End Programming Languages",
+      "experience": 4
+    },
+    {
+      "skill": "Front-End Scripting Languages",
+      "experience": 4
+    },
+    {
+      "skill": "Systems Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Code Logic",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Issue Resolution",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and construct interfaces between ERP and legacy systems using back-end programming languages and front-end scripting languages."
+    },
+    {
+      "duty": "Code programming logic for new or existing solutions software or applications in accordance with design specifications."
+    },
+    {
+      "duty": "Handle installation, configuration, development, workflow design, monitoring, and/or upgrade of assigned software products."
+    },
+    {
+      "duty": "Monitor quality and performance of applications through testing and maintenance."
+    },
+    {
+      "duty": "Maintain up-to-date records of issues with existing code and suggest viable solutions to resolve them."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 90,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in computer science, software engineering, or a related field (Preferred Master\u2019s degree)"
+    }
+  ]
+}

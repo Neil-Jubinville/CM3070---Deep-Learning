@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Administrative Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Management",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Office Management",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    },
+    {
+      "skill": "Recordkeeping",
+      "experience": 3
+    },
+    {
+      "skill": "Supply Management",
+      "experience": 3
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Organization",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Answer phone, receive messages, and respond to inquiries by staff, parents, or patrons of the district."
+    },
+    {
+      "duty": "File and sort paperwork."
+    },
+    {
+      "duty": "Input data for recordkeeping in multiple software systems."
+    },
+    {
+      "duty": "Produce brochures, handbooks, notebooks, flyers, and meeting agendas."
+    },
+    {
+      "duty": "Type and/or draft letters of correspondence."
+    },
+    {
+      "duty": "Maintain and order supplies; organize storage areas."
+    },
+    {
+      "duty": "Process invoices, track expenses, and produce expense reports."
+    },
+    {
+      "duty": "Schedule and organize meetings or events, coordinate and set up supplies needed for meetings or events, take meeting minutes."
+    },
+    {
+      "duty": "Type or prepare reports, compile data, and distribute information to parties both inside and outside of the district."
+    },
+    {
+      "duty": "Maintain confidentiality."
+    },
+    {
+      "duty": "Attend meetings and training as directed."
+    },
+    {
+      "duty": "Present and communicate in a professional manner."
+    },
+    {
+      "duty": "Work additional hours or overtime as directed."
+    },
+    {
+      "duty": "Other duties as assigned by supervisor."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma"
+    }
+  ]
+}

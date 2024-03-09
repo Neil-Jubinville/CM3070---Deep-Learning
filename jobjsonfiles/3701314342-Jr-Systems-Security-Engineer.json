@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Jr Systems Security Engineer",
+      "job_category": "Information Technology",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 78000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Identity and Access Management",
+      "experience": 3
+    },
+    {
+      "skill": "Endpoint Protection",
+      "experience": 3
+    },
+    {
+      "skill": "Data Loss Prevention",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deploy and maintain security infrastructure and processes with focus on infrastructure, end-point protection, email & application security, mobile security, and identity and access management."
+    },
+    {
+      "duty": "Collaborate with Organization's Technology Services - IT Operations and other Business Unit teams to ensure adequate security solutions are in place."
+    },
+    {
+      "duty": "Participate in the evaluation and acquisition of security products and services."
+    },
+    {
+      "duty": "Participate in effective communication between security engineering, security operations, 'GRC', and other IT departments and business units."
+    },
+    {
+      "duty": "Assist with response and remediation efforts to internal and external security audits."
+    },
+    {
+      "duty": "Participate in post-mortem investigation of security incidents, and prepare reports documenting the findings."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 90,
+      "introvert_extrovert": 75
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Information Technology, Computer Science, or a related field (Master's preferred)"
+    }
+  ]
+}

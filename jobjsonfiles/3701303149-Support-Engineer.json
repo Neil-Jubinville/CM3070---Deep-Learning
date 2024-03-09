@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Support Engineer",
+      "job_category": "Technology",
+      "job_class": "Engineer",
+      "sector": "Technical Support",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Support",
+      "experience": 5
+    },
+    {
+      "skill": "Network Protocols",
+      "experience": 5
+    },
+    {
+      "skill": "Security Products",
+      "experience": 5
+    },
+    {
+      "skill": "Virtual Environments",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Urgency",
+      "experience": 5
+    },
+    {
+      "skill": "Ticket Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Respond to technical issues reported by partners or end customers"
+    },
+    {
+      "duty": "Triage reported issues and respond to them via ticketing system, phone or remote sessions"
+    },
+    {
+      "duty": "Perform advanced troubleshooting and identify possible workarounds in broad, complex, and unique customer environments"
+    },
+    {
+      "duty": "Identify the area of fault (code, environment, or configuration) and work with the appropriate teams to fix"
+    },
+    {
+      "duty": "Provide timely feedback on the development process on customer-reported product problems"
+    },
+    {
+      "duty": "Document actions to effectively communicate information internally and to customers"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field (Master's preferred)"
+    }
+  ]
+}

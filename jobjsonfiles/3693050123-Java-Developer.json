@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Java Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java Developer",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "Angular",
+      "experience": 5
+    },
+    {
+      "skill": "React",
+      "experience": 5
+    },
+    {
+      "skill": "Spring",
+      "experience": 5
+    },
+    {
+      "skill": "Kafka",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "Hadoop",
+      "experience": 5
+    },
+    {
+      "skill": "Spark",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, test, and evaluate software and systems using Java, JavaScript, Angular, React, Spring, Kafka, Kubernetes, Hadoop, and Spark."
+    },
+    {
+      "duty": "Analyze software requirements and consult with hardware engineers to evaluate interface between hardware and software."
+    },
+    {
+      "duty": "Formulate and design software system using scientific analysis and mathematical models."
+    },
+    {
+      "duty": "Develop and direct software system testing procedures, programming, and documentation."
+    },
+    {
+      "duty": "Coordinate installation of software system."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in Software Engineering Design and Development"
+    }
+  ]
+}

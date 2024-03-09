@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Cook II",
+      "job_category": "Culinary",
+      "job_class": "Cook",
+      "sector": "Hospitality",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Culinary Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 4
+    },
+    {
+      "skill": "Sanitation",
+      "experience": 4
+    },
+    {
+      "skill": "Kitchen Equipment Operation",
+      "experience": 4
+    },
+    {
+      "skill": "Menu Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Food Safety",
+      "experience": 4
+    },
+    {
+      "skill": "Culinary Degree",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare consistent quality food and pastry items according to guest orders following recipe cards and production, portion, and presentation standards."
+    },
+    {
+      "duty": "Effectively operate, maintain and properly clean kitchen equipment, including but not limited to deep fryer, broiler, stove, steamer, food processor, mixer, slicer, oven, steam table, tilt kettle, waffle iron, and flat top grill."
+    },
+    {
+      "duty": "Date all food containers and rotate as per policies, making sure that all department of health policies are implemented."
+    },
+    {
+      "duty": "Perform and maintain all actions that affect food cost; control food waste, loss and usage per policies."
+    },
+    {
+      "duty": "Practice sanitation standard and ensure that all perishables are kept at the proper temperatures."
+    },
+    {
+      "duty": "Complete mise en place and set-up station for breakfast, lunch, and/or dinner service."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Culinary degree preferred - Minimum 2-3 years culinary or related work experience"
+    }
+  ]
+}

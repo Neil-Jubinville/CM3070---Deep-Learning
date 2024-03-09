@@ -1,0 +1,113 @@
+{
+  "meta": [
+    {
+      "job_title": "System Administrator",
+      "job_category": "Information Technology",
+      "job_class": "Administrator",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "System Administration",
+      "experience": 2
+    },
+    {
+      "skill": "Windows Server OS",
+      "experience": 2
+    },
+    {
+      "skill": "Top Secret Security Clearance",
+      "experience": 2
+    },
+    {
+      "skill": "CCNA",
+      "experience": 2
+    },
+    {
+      "skill": "GSEC",
+      "experience": 2
+    },
+    {
+      "skill": "SSCP",
+      "experience": 2
+    },
+    {
+      "skill": "CND",
+      "experience": 2
+    },
+    {
+      "skill": "Network Configuration",
+      "experience": 2
+    },
+    {
+      "skill": "Scripting",
+      "experience": 1
+    },
+    {
+      "skill": "VMWare",
+      "experience": 1
+    },
+    {
+      "skill": "Active Directory",
+      "experience": 1
+    },
+    {
+      "skill": "SCCM",
+      "experience": 1
+    },
+    {
+      "skill": "SQL",
+      "experience": 1
+    },
+    {
+      "skill": "DNS",
+      "experience": 1
+    },
+    {
+      "skill": "Security Policy Management",
+      "experience": 1
+    },
+    {
+      "skill": "Certifications",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain and configure systems and network devices to ensure smooth operations and security."
+    },
+    {
+      "duty": "Implement and manage Windows Server OS and associated services."
+    },
+    {
+      "duty": "Utilize security clearance and certifications to ensure compliance with government regulations and best practices."
+    },
+    {
+      "duty": "Assist in configuring and maintaining network devices, scripting, and automation."
+    },
+    {
+      "duty": "Work with VMWare, AD, SCCM, SQL, DNS, and other related technologies."
+    },
+    {
+      "duty": "Manage and implement security policies and certifications from major system vendors."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in related field (Master's preferred)"
+    },
+    {
+      "credential": "Active Top Secret security clearance, must be SCI-eligible"
+    }
+  ]
+}

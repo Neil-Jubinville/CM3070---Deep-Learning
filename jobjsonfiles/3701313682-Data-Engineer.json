@@ -1,0 +1,130 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineer",
+      "job_category": "Data Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "GCP",
+      "experience": 5
+    },
+    {
+      "skill": "Data Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Data Storage",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "SAS",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Hadoop",
+      "experience": 5
+    },
+    {
+      "skill": "BigQuery",
+      "experience": 5
+    },
+    {
+      "skill": "DataFlow",
+      "experience": 5
+    },
+    {
+      "skill": "Spark",
+      "experience": 5
+    },
+    {
+      "skill": "Kafka",
+      "experience": 5
+    },
+    {
+      "skill": "System Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Network Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Data Solution Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Technology Landscape",
+      "experience": 5
+    },
+    {
+      "skill": "Matrix Environment",
+      "experience": 5
+    },
+    {
+      "skill": "Data Governance",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the design and implementation of the D&A teams transition to GCP"
+    },
+    {
+      "duty": "Participate in the development of strategies, standards, and best practices in the areas of data access and integration within GCP"
+    },
+    {
+      "duty": "Create recommendations for increasing data utilization based on understanding of data delivery environment"
+    },
+    {
+      "duty": "Collaborate with Technology, Security, Data Governance, and IT Operations to facilitate and accelerate the movement of key D&A data assets to GCP"
+    },
+    {
+      "duty": "Stay current with rapidly developing GCP technologies landscape and share knowledge internally and with customers"
+    },
+    {
+      "duty": "Build data pipelines"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor degree in Computer Science, Statistics, Economics, or equivalent quantitative field with heavy emphasis on programming (Master's degree a plus)"
+    }
+  ]
+}

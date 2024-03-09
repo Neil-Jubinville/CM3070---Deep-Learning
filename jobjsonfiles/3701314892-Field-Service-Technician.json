@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Service Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Software Engineering",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain optimum operation of copier and digital copiers/printers via preventive maintenance and emergency repairs."
+    },
+    {
+      "duty": "Install necessary parts, maintenance kits, factory modifications and perform adjustments as directed by manufacturer(s)."
+    },
+    {
+      "duty": "Respond (arrive) and complete open service call tickets to achieve KDS West productivity and quality standards."
+    },
+    {
+      "duty": "Report poor or suspect machine performance to KDS West Field Supervisor or Service Director at first suspicion."
+    },
+    {
+      "duty": "Maintain accurate inventory of parts shipped to and stored in personal vehicle inventory."
+    },
+    {
+      "duty": "Provide a minimum of Level 1 connectivity support (for contact devices) to customer and, or customers designed network support department."
+    },
+    {
+      "duty": "Provide on-going key-operator training to enhance user productivity, increase machine uptime and reduce service tickets."
+    },
+    {
+      "duty": "Provide customer assistance with loading paper, staples, adding toner and, or any other key-operator function as required and, or proactively as schedule allows."
+    },
+    {
+      "duty": "Perform courtesy calls and, or provide all necessary documentation."
+    },
+    {
+      "duty": "Adhere to KDS West codes of conduct."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Network Connectivity",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Parts Inventory Management",
+      "experience": 5
+    },
+    {
+      "skill": "Computer Skills",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Engineering or related field (Associate's degree required)"
+    }
+  ]
+}

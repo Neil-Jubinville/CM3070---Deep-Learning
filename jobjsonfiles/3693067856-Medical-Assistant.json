@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Vital Signs Measurement",
+      "experience": 2
+    },
+    {
+      "skill": "Clinical Support",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Documentation",
+      "experience": 2
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 2
+    },
+    {
+      "skill": "Lab Assistance",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide patient care, including greeting and welcoming patients, gathering medical information, and assisting with patient intake."
+    },
+    {
+      "duty": "Accurately measure and record patients' vital signs, prepare patients for medical examinations, assist with medical procedures, and perform basic wound care as directed by physicians."
+    },
+    {
+      "duty": "Maintain accurate and up-to-date electronic health records (EHR) and ensure proper charting of patient information."
+    },
+    {
+      "duty": "Administer medications and injections as prescribed by healthcare providers, adhering to the highest safety standards, and collect specimens and perform basic laboratory tests."
+    },
+    {
+      "duty": "Provide patients with essential information on medications, treatments, and post-procedure care, and maintain medical supplies and equipment, ensuring availability and order replenishment when necessary."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 130
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED required. One year experience as a Medical Assistant preferred. Orthopedic experience preferred. Graduate of a credentialed Medical Assistant Licensed Program. Current CPR certification preferred. BLS Certified preferred."
+    }
+  ]
+}

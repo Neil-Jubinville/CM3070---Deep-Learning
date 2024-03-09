@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead Teacher",
+      "job_category": "Education",
+      "job_class": "Teacher",
+      "sector": "Education",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Child Development",
+      "experience": 3
+    },
+    {
+      "skill": "Curriculum Implementation",
+      "experience": 3
+    },
+    {
+      "skill": "Parent Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Early Childhood Education",
+      "experience": 3
+    },
+    {
+      "skill": "Classroom Supervision",
+      "experience": 3
+    },
+    {
+      "skill": "Community Engagement",
+      "experience": 3
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    },
+    {
+      "skill": "Work-Life Balance",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement the curriculum and promote social, emotional, physical, and cognitive development of children."
+    },
+    {
+      "duty": "Supervise children and ensure a healthy and safe learning environment."
+    },
+    {
+      "duty": "Communicate effectively with parents and engage them in the learning process."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "30 college semester credits with a minimum of 15 credits in Early Childhood Education (ECE), or An infant-toddler CDA (Child Development Associate) credential, or Associate\u2019s degree in ECE and experience in an Early Head Start classroom preferred."
+    },
+    {
+      "credential": "Bachelor's degree in Education or a related field (Master's preferred)"
+    }
+  ]
+}

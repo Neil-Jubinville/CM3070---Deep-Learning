@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "SolidWorks Designer",
+      "job_category": "Engineering",
+      "job_class": "Designer",
+      "sector": "Software Engineering",
+      "salary": 70000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SolidWorks",
+      "experience": 3
+    },
+    {
+      "skill": "AutoCad",
+      "experience": 2
+    },
+    {
+      "skill": "Sheet metal",
+      "experience": 1
+    },
+    {
+      "skill": "Weldment",
+      "experience": 1
+    },
+    {
+      "skill": "PDM",
+      "experience": 1
+    },
+    {
+      "skill": "Excel",
+      "experience": 3
+    },
+    {
+      "skill": "Word",
+      "experience": 3
+    },
+    {
+      "skill": "Verbal and written communication",
+      "experience": 3
+    },
+    {
+      "skill": "Windows XP",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Generate 3D models from drawings and quotations provided by sales."
+    },
+    {
+      "duty": "Review customer-supplied drawings to ensure information is correct."
+    },
+    {
+      "duty": "Generate detailed plan sets for submittal to customers."
+    },
+    {
+      "duty": "Utilize SolidWorks or AutoCad for design and modeling, with experience in sheet metal and weldment design."
+    },
+    {
+      "duty": "Use Excel, Word, and Windows XP for day-to-day tasks."
+    },
+    {
+      "duty": "Communicate effectively with team members and customers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree in Engineering, Design, or related field"
+    }
+  ]
+}

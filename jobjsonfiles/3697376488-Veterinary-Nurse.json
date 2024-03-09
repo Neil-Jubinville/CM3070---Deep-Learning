@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinary Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Veterinary",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Anesthesia",
+      "experience": 3
+    },
+    {
+      "skill": "Surgery",
+      "experience": 3
+    },
+    {
+      "skill": "Veterinary Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Fast-Paced Environment",
+      "experience": 4
+    },
+    {
+      "skill": "IV Catheter Placement",
+      "experience": 3
+    },
+    {
+      "skill": "Venipuncture",
+      "experience": 3
+    },
+    {
+      "skill": "Triage",
+      "experience": 4
+    },
+    {
+      "skill": "Radiology",
+      "experience": 3
+    },
+    {
+      "skill": "Laboratory Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform anesthesia and surgery procedures on patients with guidance and supervision."
+    },
+    {
+      "duty": "Provide nursing care to in-patients, including IV catheter placement, venipuncture, triage, radiology, and laboratory procedures."
+    },
+    {
+      "duty": "Administer medications (IV, IM, PO, SQ) and closely monitor patient care."
+    },
+    {
+      "duty": "Conduct physical exams, monitor vital signs, and obtain patient history from owners."
+    },
+    {
+      "duty": "Assist with surgical procedures and anesthesia management as required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Anesthesia and Surgery Training"
+    },
+    {
+      "credential": "Veterinary Technician Certification (Preferred)"
+    }
+  ]
+}

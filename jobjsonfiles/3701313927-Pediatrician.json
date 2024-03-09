@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Pediatrician",
+      "job_category": "Medical",
+      "job_class": "Pediatrician",
+      "sector": "Healthcare",
+      "salary": 180000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Pediatric Care",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Diagnosis",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Child Development",
+      "experience": 5
+    },
+    {
+      "skill": "Primary Care",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Technology",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide comprehensive pediatric care to patients, including diagnosis, treatment, and follow-up care."
+    },
+    {
+      "duty": "Conduct regular patient examinations and develop care plans based on individual patient needs."
+    },
+    {
+      "duty": "Monitor and assess child development, offering guidance and education to parents on child health and wellness."
+    },
+    {
+      "duty": "Collaborate with nursing staff, specialists, and other healthcare professionals to ensure comprehensive care for pediatric patients."
+    },
+    {
+      "duty": "Maintain accurate and detailed patient records, including medical history, examination results, and treatment plans."
+    },
+    {
+      "duty": "Engage in continuous learning and skill development to stay updated on the latest advancements in pediatric healthcare."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Medicine (MD) or Doctor of Osteopathic Medicine (DO) degree from an accredited medical school. Board Certification in Pediatrics."
+    }
+  ]
+}

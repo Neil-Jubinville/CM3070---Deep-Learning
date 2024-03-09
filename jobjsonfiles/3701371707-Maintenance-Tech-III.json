@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Maintenance Tech III",
+      "job_category": "Maintenance",
+      "job_class": "Technician",
+      "sector": "Manufacturing",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Advanced mechanical skills",
+      "experience": 5
+    },
+    {
+      "skill": "Electrical skills",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office skills",
+      "experience": 5
+    },
+    {
+      "skill": "Welding skills",
+      "experience": 5
+    },
+    {
+      "skill": "Forklift and mobile lift equipment operations",
+      "experience": 5
+    },
+    {
+      "skill": "PLC troubleshooting and ladder logic programming skills",
+      "experience": 5
+    },
+    {
+      "skill": "Allen Bradley and Fanuc PLC experience",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Troubleshoot, diagnose, and repair hydraulic systems, mechanical issues, and control circuits on production machinery and systems."
+    },
+    {
+      "duty": "Ensure supplies are on hand to complete work and determine the best course of action to return equipment to production in a timely manner."
+    },
+    {
+      "duty": "Construct, repair, and maintain equipment, facility, and grounds to ensure the production of the product lines."
+    },
+    {
+      "duty": "Work on special projects such as rerouting the conveyor, moving machinery, and running gas and air lines."
+    },
+    {
+      "duty": "Assist leaders with ordering spare and repair parts critical to the upkeep and repairs of equipment and systems."
+    },
+    {
+      "duty": "Direct, assist, and educate lower grade technicians on equipment and system repairs and operations."
+    },
+    {
+      "duty": "Perform project work as needed to improve processes and department flow."
+    },
+    {
+      "duty": "Perform all other duties assigned by Supervisor."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma/equivalent and two-year technical degree or equivalent training/experience required. Programmable Logic Controller (PLC) training/education; troubleshooting and ladder logic programming skills required."
+    }
+  ]
+}

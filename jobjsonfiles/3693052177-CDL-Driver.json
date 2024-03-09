@@ -1,0 +1,34 @@
+{
+  "meta": [
+    {
+      "job_title": "CDL Driver",
+      "job_category": "Logistics",
+      "job_class": "Driver",
+      "sector": "Transportation",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "CDL License",
+      "experience": 3
+    },
+    {
+      "skill": "Clean Driving Record",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Safely operate and maintain commercial vehicles for freight and logistics transportation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ]
+}

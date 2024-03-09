@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Administrative Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "EHR Scheduling System",
+      "experience": 2
+    },
+    {
+      "skill": "Insurance Verification",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Flow Management",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 2
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Clerical Tasks",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Process Improvement",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Scheduling patients using EHR Scheduling System and managing work queues."
+    },
+    {
+      "duty": "Verifying insurance for eligibility and authorization status."
+    },
+    {
+      "duty": "Managing patient flow, by registering patients, arriving patients in the EHR Scheduling System, and monitoring waiting times."
+    },
+    {
+      "duty": "Completing administrative tasks such as distributing mail, photocopying, filing, faxing, tubing, and data entry."
+    },
+    {
+      "duty": "Assisting with the orientation of new staff via mentoring."
+    },
+    {
+      "duty": "Participating in process improvement initiatives within the department(s) and the organization."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent. One year of work experience in a health care facility or graduation from an accredited medical secretarial or paramedical program."
+    }
+  ]
+}

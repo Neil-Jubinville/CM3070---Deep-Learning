@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Adversarial Engineer",
+      "job_category": "Cybersecurity",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 135000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Adversary Emulation",
+      "experience": 5
+    },
+    {
+      "skill": "Red Team Operations",
+      "experience": 5
+    },
+    {
+      "skill": "Threat Intelligence",
+      "experience": 5
+    },
+    {
+      "skill": "MITRE ATT&CK Framework",
+      "experience": 5
+    },
+    {
+      "skill": "Penetration Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Offensive Security Tactics",
+      "experience": 5
+    },
+    {
+      "skill": "Cyber Defense",
+      "experience": 5
+    },
+    {
+      "skill": "Social Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Simulate real-world scenarios and emulate TTPs of real adversaries using threat intelligence and the MITRE ATT&CK Framework."
+    },
+    {
+      "duty": "Build and maintain red team infrastructure, automate functions, and research new offensive security tactics."
+    },
+    {
+      "duty": "Develop custom tools and tradecraft to automate tasks and increase team capabilities."
+    },
+    {
+      "duty": "Execute advanced social engineering campaigns, assist cyber defense teams during incident investigations, and communicate findings to client stakeholders."
+    },
+    {
+      "duty": "Train other engineers in adversary simulation tactics, techniques, and procedures, and participate in purple team exercises."
+    },
+    {
+      "duty": "Produce high-quality reports detailing exercise results, vulnerabilities, risks, proposed mitigations, and improvement opportunities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in computer science or related discipline, or equivalent work experience. Master's preferred."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "LMSW - Licensed Master Social Worker Tutor",
+      "job_category": "Education",
+      "job_class": "Tutor",
+      "sector": "Education",
+      "salary": 45000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Subject-Matter Expertise in LMSW",
+      "experience": 5
+    },
+    {
+      "skill": "Online Teaching",
+      "experience": 5
+    },
+    {
+      "skill": "Personalized Lesson Planning",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide personalized online tutoring sessions for students seeking assistance with LMSW - Licensed Master Social Worker subjects."
+    },
+    {
+      "duty": "Demonstrate subject-matter expertise and excellent communication skills during tutoring sessions."
+    },
+    {
+      "duty": "Adapt teaching style to personalize lessons for each student, ensuring effective learning outcomes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree in Social Work or a related field"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Oracle Applications Developer/Database Administrator",
+      "job_category": "Information Technology",
+      "job_class": "Developer/Administrator",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Oracle Database",
+      "experience": 10
+    },
+    {
+      "skill": "Database Administration",
+      "experience": 10
+    },
+    {
+      "skill": "SQL",
+      "experience": 10
+    },
+    {
+      "skill": "PL/SQL",
+      "experience": 10
+    },
+    {
+      "skill": "Performance Tuning",
+      "experience": 8
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 8
+    },
+    {
+      "skill": "Backup & Recovery",
+      "experience": 8
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 8
+    },
+    {
+      "skill": "Control M",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain Oracle databases including creating tables, views, functions, and stored procedures."
+    },
+    {
+      "duty": "Troubleshoot performance issues and optimize SQL queries and database components."
+    },
+    {
+      "duty": "Design and implement data models, and analyze data performance problems."
+    },
+    {
+      "duty": "Perform backup & recovery, and ensure data security and integrity."
+    },
+    {
+      "duty": "Utilize job scheduling tool, such as Control M, for database administration."
+    },
+    {
+      "duty": "Preferred experience with Oracle Exadata and Actimize."
+    }
+  ]
+}

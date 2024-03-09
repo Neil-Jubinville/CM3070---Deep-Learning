@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Externship Experience",
+      "job_category": "Veterinary Medicine",
+      "job_class": "Student",
+      "sector": "Clinical Education",
+      "salary": 2500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Experience",
+      "experience": 1
+    },
+    {
+      "skill": "Patient History",
+      "experience": 1
+    },
+    {
+      "skill": "Physical Exams",
+      "experience": 1
+    },
+    {
+      "skill": "Diagnostics",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Gathering patient histories and performing physical exams under supervision"
+    },
+    {
+      "duty": "Assisting in diagnostics and dentistry services"
+    },
+    {
+      "duty": "Observing or assisting in surgical procedures"
+    },
+    {
+      "duty": "Practicing communication skills with the medical team, support staff, and clients"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 30,
+      "student_teacher": 50,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "DVM student in clinical portion of education"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "Optical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Electromagnetic Wave Simulation",
+      "experience": 5
+    },
+    {
+      "skill": "Ray Optics",
+      "experience": 5
+    },
+    {
+      "skill": "Wave Optics",
+      "experience": 5
+    },
+    {
+      "skill": "Polarization Optics",
+      "experience": 5
+    },
+    {
+      "skill": "Computational Photonics",
+      "experience": 5
+    },
+    {
+      "skill": "Computational Laser Simulation and Modelling",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Work in a targeted solution space using programming, optical modeling, simulation, and optimization skills to produce optical components."
+    },
+    {
+      "duty": "Design and build metrology validation systems of optical components in a cross-functional team."
+    },
+    {
+      "duty": "Develop expertise in ray tracing software (ZEMAX, Code V, FRED, etc) and utilize it for optical component design and validation."
+    },
+    {
+      "duty": "Utilize Python programming skills, including notebooks and server usage, in the design, modeling, and benchtop systems of optical components."
+    },
+    {
+      "duty": "Conduct electromagnetic wave simulation using FDTD and RCWA algorithms to develop and optimize optical components."
+    },
+    {
+      "duty": "Engage in 90% simulation and modeling work related to optical propagation, and act as a self-starter who actively seeks out answers, follows through, and manages time effectively."
+    },
+    {
+      "duty": "Regularly collaborate with the team to refine strategies based on the analysis of market trends, customer behavior, and competitor activity."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 255,
+      "student_teacher": 100,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Engineering or relevant field (Master's degree preferred)"
+    }
+  ]
+}

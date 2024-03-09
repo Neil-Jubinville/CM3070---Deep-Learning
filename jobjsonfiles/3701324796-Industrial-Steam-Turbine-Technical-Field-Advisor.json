@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Industrial Steam Turbine Technical Field Advisor",
+      "job_category": "Engineering",
+      "job_class": "Field Advisor",
+      "sector": "Power Generation",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Turbine Generator Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Power Plant Equipment Installation",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Print Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "Failure Prediction",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Safely manage the maintenance and repair of various equipment used in power generation applications."
+    },
+    {
+      "duty": "Lead the execution and oversight of projects on turbine generator equipment and auxiliary systems."
+    },
+    {
+      "duty": "Pull, review, and interpret prints, such as manufacturing drawings, P&IDs, and schematic drawings."
+    },
+    {
+      "duty": "Recognize, predict, and document potential failures and future outage recommendations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Engineering or a related field (Master's preferred)"
+    }
+  ]
+}

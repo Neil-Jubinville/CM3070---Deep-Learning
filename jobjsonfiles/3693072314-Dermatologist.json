@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Dermatologist",
+      "job_category": "Healthcare",
+      "job_class": "Physician",
+      "sector": "Healthcare",
+      "salary": 300000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Dermatology",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide quality care and treatment to patients with dermatological conditions."
+    },
+    {
+      "duty": "Collaborate with a team of medical staff and specialists to diagnose and treat dermatological conditions."
+    },
+    {
+      "duty": "Participate in discussions around best practices, new technologies, and specialized treatment options related to dermatology."
+    },
+    {
+      "duty": "Lead and guide the efforts of the medical team in delivering high-quality dermatological care."
+    },
+    {
+      "duty": "Develop and execute comprehensive marketing strategies to enhance brand visibility and promote dermatological services."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Medicine (M.D.) degree"
+    },
+    {
+      "credential": "ABD - American Board of Dermatology Certified"
+    }
+  ]
+}

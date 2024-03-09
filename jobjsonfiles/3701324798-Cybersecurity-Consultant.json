@@ -1,0 +1,112 @@
+{
+  "meta": [
+    {
+      "job_title": "Cybersecurity Consultant",
+      "job_category": "Consulting",
+      "job_class": "Consultant",
+      "sector": "Healthcare",
+      "salary": 125000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cybersecurity Risk Assessments",
+      "experience": 8
+    },
+    {
+      "skill": "Secure Development Practices",
+      "experience": 8
+    },
+    {
+      "skill": "Software Bill of Materials (SBOM)",
+      "experience": 8
+    },
+    {
+      "skill": "Risk Management Documentation",
+      "experience": 8
+    },
+    {
+      "skill": "Regulatory Research",
+      "experience": 8
+    },
+    {
+      "skill": "Network Security",
+      "experience": 8
+    },
+    {
+      "skill": "Intrusion Detection and Prevention",
+      "experience": 8
+    },
+    {
+      "skill": "Cybersecurity Design Controls",
+      "experience": 8
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 8
+    },
+    {
+      "skill": "Influencing Cross-Functional Teams",
+      "experience": 8
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 8
+    },
+    {
+      "skill": "Vulnerability Assessments",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Contribute to the design and development process of medical devices, ensuring cybersecurity principles are incorporated from the initial stages."
+    },
+    {
+      "duty": "Work closely with engineering teams to conduct cybersecurity risk assessments during the design and development phases, identifying potential threats, vulnerabilities, and impacts associated with the device."
+    },
+    {
+      "duty": "Collaborate with software development teams to ensure secure development practices are followed, including secure coding standards, code reviews, static and dynamic code analysis."
+    },
+    {
+      "duty": "Assist in the implementation of cybersecurity design controls and mitigation measures such as encryption methods, access controls, and other security features."
+    },
+    {
+      "duty": "Guide the generation of a Software Bill of Materials (SBOM) for each device that includes all software components used in the device, including third-party software."
+    },
+    {
+      "duty": "Develop, revise, and maintain Standard Operating Procedures (SOPs) for key cybersecurity processes, in line with industry standards and FDA guidelines."
+    },
+    {
+      "duty": "Assist in validating and testing security controls and measures, this includes penetration testing, vulnerability assessments, and verification of implemented security features."
+    },
+    {
+      "duty": "Facilitate the preparation of risk management documentation and strategies to support 510(k) submissions, demonstrating how cybersecurity risks have been identified and mitigated during the design and development stages."
+    },
+    {
+      "duty": "Contribute to the preparation of 510(k) premarket submissions for medical devices, ensuring all relevant cybersecurity considerations are included and clearly documented."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to ensure the necessary cybersecurity-related documentation is included in the 510(k) premarket submission, demonstrating compliance with FDA's guidelines."
+    },
+    {
+      "duty": "Stay updated with the FDA guidelines related to cybersecurity requirements for 510(k) submissions, implementing changes into the design and development process as required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's degree in Health Policy, Regulatory Affairs, Computer Science, or Information Security."
+    },
+    {
+      "credential": "Certification in CISSP (Certified Information Systems Security Professional), CISM (Certified Information Security Manager), or RAC (Regulatory Affairs Certification) from the Regulatory Affairs Professionals Society."
+    }
+  ]
+}

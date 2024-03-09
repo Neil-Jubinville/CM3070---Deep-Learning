@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Executive",
+      "job_category": "Sales",
+      "job_class": "Executive",
+      "sector": "Sales",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Drive business growth through active sales outreach and networking to acquire new clients and maintain existing relationships."
+    },
+    {
+      "duty": "Prioritize sales opportunities and manage multiple touch points to maximize outcomes and revenue generation."
+    },
+    {
+      "duty": "Engage in face-to-face meetings, networking events, and other outreach efforts to build a robust portfolio of clients."
+    },
+    {
+      "duty": "Utilize a custom CRM platform to streamline client acquisition and lead management for efficient sales operations."
+    },
+    {
+      "duty": "Maintain client relationships, driving future revenue growth and ensuring customer satisfaction while maximizing renewals and cross-selling opportunities."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Outreach",
+      "experience": 5
+    },
+    {
+      "skill": "Networking",
+      "experience": 3
+    },
+    {
+      "skill": "Sales Strategy",
+      "experience": 5
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "CRM Management",
+      "experience": 3
+    },
+    {
+      "skill": "Revenue Generation",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Sales, Business, or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Family Physician",
+      "job_category": "Healthcare",
+      "job_class": "Physician",
+      "sector": "Medical",
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide primary care services to patients of all ages, including diagnosis, treatment, and preventive care."
+    },
+    {
+      "duty": "Build and maintain patient relationships, ensuring continuity of care and personalized treatment plans."
+    },
+    {
+      "duty": "Collaborate with medical specialists, hospitals, and healthcare professionals to coordinate patient care and referrals."
+    },
+    {
+      "duty": "Stay abreast of medical developments and best practices, implementing evidence-based medicine in the provision of care."
+    },
+    {
+      "duty": "Participate in quality improvement initiatives, maintaining compliance with industry regulations and standards."
+    },
+    {
+      "duty": "Contribute to the practice's growth and development through community outreach and educational initiatives."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Primary Care Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Collaborative Care Coordination",
+      "experience": 5
+    },
+    {
+      "skill": "Evidence-Based Medicine",
+      "experience": 5
+    },
+    {
+      "skill": "Quality Improvement",
+      "experience": 5
+    },
+    {
+      "skill": "Community Outreach",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Doctor of Medicine (MD) or Doctor of Osteopathic Medicine (DO) degree from an accredited medical school."
+    },
+    {
+      "credential": "Board certification in Family Medicine or Internal Medicine."
+    }
+  ]
+}

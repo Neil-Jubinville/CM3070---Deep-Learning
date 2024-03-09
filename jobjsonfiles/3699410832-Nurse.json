@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Nursing",
+      "experience": 1
+    },
+    {
+      "skill": "Long-Range Planning",
+      "experience": 1
+    },
+    {
+      "skill": "Delegation",
+      "experience": 1
+    },
+    {
+      "skill": "Coping",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Practicing independently and demonstrating an awareness of all relevant aspects of a clinical situation."
+    },
+    {
+      "duty": "Providing routine and complex care, with the ability to work on long-range goals or plans."
+    },
+    {
+      "duty": "Developing the ability to cope with and manage contingencies of clinical nursing."
+    },
+    {
+      "duty": "Making appropriate assignments and delegating to other care providers to help manage the clinical situation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor of Science Degree in Nursing, preferred"
+    }
+  ]
+}

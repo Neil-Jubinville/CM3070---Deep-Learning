@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Java Architect / Sr Developer / Sr Java Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior Developer",
+      "sector": "Software Engineering",
+      "salary": 160000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 10
+    },
+    {
+      "skill": "Apache Camel",
+      "experience": 8
+    },
+    {
+      "skill": "Mulesoft",
+      "experience": 8
+    },
+    {
+      "skill": "Spring",
+      "experience": 8
+    },
+    {
+      "skill": "JMS",
+      "experience": 8
+    },
+    {
+      "skill": "Object Oriented Programming",
+      "experience": 10
+    },
+    {
+      "skill": "Automated build platforms/continuous integration",
+      "experience": 8
+    },
+    {
+      "skill": "Unix",
+      "experience": 8
+    },
+    {
+      "skill": "Databases (Oracle)",
+      "experience": 8
+    },
+    {
+      "skill": "Big Data Streaming (Apache Kafka, Apache Spark, Apache Ignite)",
+      "experience": 3
+    },
+    {
+      "skill": "Micro services",
+      "experience": 3
+    },
+    {
+      "skill": "Agile methodologies",
+      "experience": 8
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop various applications utilizing a wide range of technologies"
+    },
+    {
+      "duty": "Utilize strong knowledge of frameworks, design patterns, and core Java in the development process"
+    },
+    {
+      "duty": "Implement integration frameworks such as Apache Camel, Mulesoft, and Spring"
+    },
+    {
+      "duty": "Utilize JMS and message queue brokers, and demonstrate strong foundation in Object-Oriented Programming and Design Patterns"
+    },
+    {
+      "duty": "Handle automated build platforms/continuous integration and troubleshoot applications using logs"
+    },
+    {
+      "duty": "Work with Unix platforms, databases (Oracle), and streaming Big Data using Apache Kafka, Apache Spark, Apache Ignite or similar technologies"
+    },
+    {
+      "duty": "Apply agile methodologies (Scrum, Kanban) and demonstrate the ability to interpret and troubleshoot applications"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

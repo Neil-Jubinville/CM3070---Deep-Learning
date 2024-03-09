@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "CNC Machinist",
+      "job_category": "Manufacturing",
+      "job_class": "Machinist",
+      "sector": "Manufacturing",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Machining",
+      "experience": 3
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 3
+    },
+    {
+      "skill": "Gaging",
+      "experience": 3
+    },
+    {
+      "skill": "Coaching",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Plan and perform rough and finish machining on a variety of machines, both CNC and manual."
+    },
+    {
+      "duty": "Read blueprints and understand geometric tolerances."
+    },
+    {
+      "duty": "Utilize machinist tools and hand tools (micrometers, verniers, indicators, scales, dial bore gage)."
+    },
+    {
+      "duty": "Be open to coaching and training, with a willingness to learn all machines within a cell."
+    },
+    {
+      "duty": "Perform other duties as responsibilities necessitate."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "HS diploma or GED equivalent; concentration in machining would be a plus."
+    },
+    {
+      "credential": "Minimum of three years of experience"
+    }
+  ]
+}

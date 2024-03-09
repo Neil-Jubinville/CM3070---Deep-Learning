@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Telehealth Therapist/Counselor",
+      "job_category": "Therapist/Counselor",
+      "job_class": "Remote",
+      "sector": "Healthcare",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Therapy",
+      "experience": 5
+    },
+    {
+      "skill": "Telehealth Counseling",
+      "experience": 5
+    },
+    {
+      "skill": "Mental Health Counseling",
+      "experience": 5
+    },
+    {
+      "skill": "Behavioral Health",
+      "experience": 5
+    },
+    {
+      "skill": "Psychotherapy",
+      "experience": 5
+    },
+    {
+      "skill": "Virtual Mental Health Therapist",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide therapy and counseling services via telehealth with a high volume of regular client referrals"
+    },
+    {
+      "duty": "Focus on therapy with minimal administrative work"
+    },
+    {
+      "duty": "Set and manage own schedule for 5-50 hours per week"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 100,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Active state license/s, LMFT, LPCC, Psychologist (PhD/PsyD)"
+    }
+  ]
+}

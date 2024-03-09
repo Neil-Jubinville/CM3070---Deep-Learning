@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Mobile iOS Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "iOS Development",
+      "experience": 6
+    },
+    {
+      "skill": "Swift",
+      "experience": 6
+    },
+    {
+      "skill": "Swift UI",
+      "experience": 6
+    },
+    {
+      "skill": "XC Test",
+      "experience": 6
+    },
+    {
+      "skill": "XC UI test",
+      "experience": 6
+    },
+    {
+      "skill": "React Native",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Experience",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain native iOS applications using Swift and Swift UI."
+    },
+    {
+      "duty": "Conduct technical interviews and code exercises in Xcode with Swift and SwiftUI."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

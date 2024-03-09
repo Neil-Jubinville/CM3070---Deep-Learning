@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "Sanitation Worker",
+      "job_category": "Sanitation",
+      "job_class": "Worker",
+      "sector": "Operations",
+      "salary": 32000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cleaning and Sanitization",
+      "experience": 2
+    },
+    {
+      "skill": "Chemical Handling",
+      "experience": 1
+    },
+    {
+      "skill": "Machinery Tear Down",
+      "experience": 1
+    },
+    {
+      "skill": "Work Ethic",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Math",
+      "experience": 1
+    },
+    {
+      "skill": "Poultry Experience",
+      "experience": 1
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Clean and maintain assigned area, including machinery and equipment."
+    },
+    {
+      "duty": "Use chemicals to clean and sanitize machinery and areas."
+    },
+    {
+      "duty": "Tear down machinery at the beginning of the cleanup shift and help set up before production starts."
+    },
+    {
+      "duty": "Follow safety policies and programs, wear Personal Protective Equipment (PPE), and follow Standard Operating Procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Care Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 25000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Competency",
+      "experience": 1
+    },
+    {
+      "skill": "Teamwork and Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Admissions, Discharge and Transfer Responsibilities",
+      "experience": 1
+    },
+    {
+      "skill": "Patient Care Activities",
+      "experience": 1
+    },
+    {
+      "skill": "Safety",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Record/Information Management",
+      "experience": 1
+    },
+    {
+      "skill": "Equipment and Supplies",
+      "experience": 1
+    },
+    {
+      "skill": "Knowledge of basic patient/resident care skills",
+      "experience": 1
+    },
+    {
+      "skill": "Effective interpersonal skills",
+      "experience": 1
+    },
+    {
+      "skill": "Fluent knowledge (written and spoken) of English",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborates with the interprofessional team in the delivery of quality patient/resident care under the direction of a licensed nurse."
+    },
+    {
+      "duty": "Functions as the coordinator of communication for the unit and assumes primary responsibility for medical record management."
+    },
+    {
+      "duty": "Supports best use of resources in management of equipment, supplies, and other department resources."
+    },
+    {
+      "duty": "Provides and documents daily care of patient per unit standards."
+    },
+    {
+      "duty": "Complies with universal precautions and hospital infection control policies."
+    },
+    {
+      "duty": "Enters work order to facilitate repair of equipment, reports urgent or unresolved equipment malfunction to lead/manager or the appropriate department (Biomed, Supply Chain Services, etc.)."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 255
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Less Than 1 Year Six months of related clinical experience. AHA Basic Life Support for Healthcare Professional (AHA BLS Healthcare) - American Heart Association -REQUIRED"
+    }
+  ]
+}

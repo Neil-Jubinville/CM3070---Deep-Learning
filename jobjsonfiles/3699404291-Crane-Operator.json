@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Crane Operator",
+      "job_category": "Operations",
+      "job_class": "Operator",
+      "sector": "Construction",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Crane Operation",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Inspection",
+      "experience": 5
+    },
+    {
+      "skill": "Load Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Lift Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Regulations Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Basic Mechanical Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Signal Interpretation",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate various construction Cranes to move equipment and other materials."
+    },
+    {
+      "duty": "Plan operational lifts and inspect equipment."
+    },
+    {
+      "duty": "Responsible for all safety aspects of operating the equipment."
+    },
+    {
+      "duty": "Follow signal directions from a signaler in equipment operations and access area of operations for safety issues and required processes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 130,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current National Commission for the Certification of Crane Operators (NCCCO) credentials for the appropriate type of crane and current Crane Operator physical."
+    },
+    {
+      "credential": "Valid driver\u2019s license and motor vehicle records check."
+    }
+  ]
+}

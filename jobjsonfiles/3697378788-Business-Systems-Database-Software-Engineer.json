@@ -1,0 +1,106 @@
+{
+  "meta": [
+    {
+      "job_title": "Business Systems Database Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Data Warehousing",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Azure",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Databases",
+      "experience": 5
+    },
+    {
+      "skill": "Python APIs",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Production Tracking",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Excel",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Adaptability",
+      "experience": 5
+    },
+    {
+      "skill": "Continuous Learning",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, administer and maintain a robust and scalable data warehouse for Corporate Performance Management (CPM) system within the Microsoft Azure cloud environment."
+    },
+    {
+      "duty": "Utilize domain knowledge of production tracking tools such as ShotGrid and Ftrack to streamline data collection and analysis processes, feeding into the data warehouse."
+    },
+    {
+      "duty": "Manage Azure based SQL databases, ensure data integrity, performance and security for both the data warehouse and other relevant databases."
+    },
+    {
+      "duty": "Develop and optimize Python APIs to facilitate efficient and secure data access and retrieval from the data warehouse."
+    },
+    {
+      "duty": "Collaborate with Accounting and Finance departments to gather, transform and integrate financial data into the data warehouse architecture for accurate financial and operational reporting."
+    },
+    {
+      "duty": "Build comprehensive and insightful financial and operational reports, leveraging the data warehouse."
+    },
+    {
+      "duty": "Create and implement well-organized data collection processes and thoughtful schema taxonomies to ensure data accuracy, consistency and ease of reporting."
+    },
+    {
+      "duty": "Take a hands-on approach in a green space to build new financial and operational reporting processes and operations that span various departments and workflows."
+    },
+    {
+      "duty": "Provide ongoing support and troubleshooting for data-related issues, ensuring data quality and availability for reporting purposes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, Finance or a related field (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Chemotherapy",
+      "experience": 1
+    },
+    {
+      "skill": "Oncology",
+      "experience": 2
+    },
+    {
+      "skill": "Hematologic Conditions",
+      "experience": 2
+    },
+    {
+      "skill": "Blood Transfusions",
+      "experience": 2
+    },
+    {
+      "skill": "Bone Marrow Transplants",
+      "experience": 2
+    },
+    {
+      "skill": "CAR-T Cell Therapy",
+      "experience": 3
+    },
+    {
+      "skill": "Venous Access Devices (VADs)",
+      "experience": 2
+    },
+    {
+      "skill": "IV Skills",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Providing care for patients receiving chemotherapy, supportive care medications for cancer and hematologic conditions, blood transfusions, bone marrow transplants, and CAR-T cell therapy in an outpatient setting."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Nursing (Master's preferred)"
+    }
+  ]
+}

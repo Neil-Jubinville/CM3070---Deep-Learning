@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Android App Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 4
+    },
+    {
+      "skill": "Kotlin",
+      "experience": 3
+    },
+    {
+      "skill": "Android SDK",
+      "experience": 4
+    },
+    {
+      "skill": "RESTful APIs",
+      "experience": 3
+    },
+    {
+      "skill": "Frontend Technologies",
+      "experience": 3
+    },
+    {
+      "skill": "Version Control (Git)",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 4
+    },
+    {
+      "skill": "UI/UX Principles",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Collaborate with UI/UX designers and cross-functional teams to understand project requirements and translate them into effective Android applications."
+    },
+    {
+      "duty": "Develop high-quality, responsive, and efficient mobile applications for the Android platform."
+    },
+    {
+      "duty": "Utilize Android SDK and related technologies to create compelling and user-friendly applications."
+    },
+    {
+      "duty": "Integrate RESTful APIs, third-party libraries, and external data sources to enhance app functionality."
+    },
+    {
+      "duty": "Collaborate throughout the app development lifecycle, from concept and design to coding, testing, and deployment."
+    },
+    {
+      "duty": "Ensure the performance, quality, and responsiveness of applications, addressing performance bottlenecks and bugs."
+    },
+    {
+      "duty": "Work closely with backend developers to integrate app interfaces with server-side logic."
+    },
+    {
+      "duty": "Stay updated with the latest Android trends, best practices, and emerging technologies."
+    },
+    {
+      "duty": "Assist in code reviews, maintain code quality, and ensure proper documentation."
+    },
+    {
+      "duty": "Troubleshoot, debug, and optimize applications to deliver seamless user experiences."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or related field"
+    }
+  ]
+}

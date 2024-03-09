@@ -1,0 +1,54 @@
+{
+  "meta": [
+    {
+      "job_title": "Mechanical Project Manager",
+      "job_category": "Project Management",
+      "job_class": "Manager",
+      "sector": "Construction",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "HVAC/Plumbing Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Commercial Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Team Management",
+      "experience": 5
+    },
+    {
+      "skill": "AutoCAD Software",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop, establish, and administer procedures and systems pertaining to team management matters."
+    },
+    {
+      "duty": "Prepare workload, sales forecasts, and team resources/schedule for administrative and managerial functions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Mechanical Engineering or a related field (Master's preferred)"
+    }
+  ]
+}

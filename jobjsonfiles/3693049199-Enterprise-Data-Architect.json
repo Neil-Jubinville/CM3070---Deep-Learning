@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Enterprise Data Architect",
+      "job_category": "Data Architect",
+      "job_class": "Data Architect",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Computing",
+      "experience": 3
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "ETL",
+      "experience": 3
+    },
+    {
+      "skill": "Quantitative Research",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Development",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop both on-premises and cloud-based data ingestion processes using SQL, Python"
+    },
+    {
+      "duty": "Engineer data models and infrastructure for a wide variety of market and alternative dataset"
+    },
+    {
+      "duty": "Author tests to validate data quality and measure the stability of the data acquisition processes"
+    },
+    {
+      "duty": "Work directly with Analysts, Product Specialists, and the technology team to understand requirements and provide end-to-end data solutions"
+    },
+    {
+      "duty": "Communicate with data providers to onboard new datasets and troubleshoot technical issues"
+    },
+    {
+      "duty": "Investigate and defuse time-sensitive data incidents"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor/master's degree in computer science, Information Systems, or related field"
+    }
+  ]
+}

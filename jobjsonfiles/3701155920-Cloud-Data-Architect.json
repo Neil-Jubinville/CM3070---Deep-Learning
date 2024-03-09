@@ -1,0 +1,94 @@
+{
+  "meta": [
+    {
+      "job_title": "Cloud/Data Architect",
+      "job_category": "Cloud Computing",
+      "job_class": "Architect",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cloud Platforms (AWS)",
+      "experience": 10
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 10
+    },
+    {
+      "skill": "Business Intelligence (BI) Solutions",
+      "experience": 10
+    },
+    {
+      "skill": "ETL Tools (Fivetran)",
+      "experience": 10
+    },
+    {
+      "skill": "Data Warehousing (Redshift)",
+      "experience": 10
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 10
+    },
+    {
+      "skill": "Communication",
+      "experience": 10
+    },
+    {
+      "skill": "Leadership",
+      "experience": 10
+    },
+    {
+      "skill": "Certifications in Cloud Technologies and Data Architecture",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead engagement with onshore teams, providing technical leadership and guidance throughout the project lifecycle."
+    },
+    {
+      "duty": "Design and develop cloud-based data architectures that align with business goals and requirements."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams to understand data needs and translate them into scalable data solutions."
+    },
+    {
+      "duty": "Architect and implement Business Intelligence (BI) solutions to support data-driven decision-making processes."
+    },
+    {
+      "duty": "Evaluate and recommend appropriate cloud services and technologies to optimize data processing and storage."
+    },
+    {
+      "duty": "Implement and maintain ETL pipelines using tools like Fivetran to extract, transform, and load data from various sources."
+    },
+    {
+      "duty": "Utilize Redshift and other data warehousing technologies to build and maintain efficient data storage solutions."
+    },
+    {
+      "duty": "Oversee the end-to-end data lifecycle, ensuring data quality, security, and compliance with industry standards."
+    },
+    {
+      "duty": "Collaborate with development and operations teams to ensure seamless integration of data solutions into existing systems."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field (Master's preferred)"
+    },
+    {
+      "credential": "Relevant certifications in cloud technologies and data architecture (e.g., AWS Certified Solutions Architect, Redshift Specialist)"
+    }
+  ]
+}

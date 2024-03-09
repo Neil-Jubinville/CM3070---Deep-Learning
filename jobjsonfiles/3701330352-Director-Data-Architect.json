@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "Director Data Architect",
+      "job_category": "Data Architect",
+      "job_class": "Director",
+      "sector": "Software Engineering",
+      "salary": 180000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Data Strategy Formulation",
+      "experience": 20
+    },
+    {
+      "skill": "Enterprise Architecture",
+      "experience": 20
+    },
+    {
+      "skill": "Database Architecture",
+      "experience": 20
+    },
+    {
+      "skill": "ETL/ELT Design & Development",
+      "experience": 20
+    },
+    {
+      "skill": "Cloud Technologies",
+      "experience": 20
+    },
+    {
+      "skill": "Programming (Java, Python, Spark)",
+      "experience": 20
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 20
+    },
+    {
+      "skill": "Data Management Practice",
+      "experience": 20
+    },
+    {
+      "skill": "Snowflake, Yugabyte, CockroackDB",
+      "experience": 20
+    },
+    {
+      "skill": "Mainframe Technology",
+      "experience": 20
+    },
+    {
+      "skill": "Analytical and Problem-Solving Skills",
+      "experience": 20
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 20
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Define and execute Data and Databases Strategies for large complex systems with high-performance requirements."
+    },
+    {
+      "duty": "Collaborate with Enterprise Architects across business units to create an integrated Architecture Strategy."
+    },
+    {
+      "duty": "Ensure safe and secure treatment of enterprise, client, and customer data in public cloud, collaborating with Legal, Risk, Compliance, and Cybersecurity teams."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 0
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s or Master\u2019s degree in Data or related field (e.g., Data Science, Computer Science, Information Technology)"
+    }
+  ]
+}

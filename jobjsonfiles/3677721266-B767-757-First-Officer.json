@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "B767/757 First Officer",
+      "job_category": "Aviation",
+      "job_class": "First Officer",
+      "sector": "Cargo",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Commercial Pilot License",
+      "experience": 5
+    },
+    {
+      "skill": "Multi-Engine Aircraft Operations",
+      "experience": 5
+    },
+    {
+      "skill": "FAA ATP Certification",
+      "experience": 5
+    },
+    {
+      "skill": "First-Class Medical Certificate",
+      "experience": 5
+    },
+    {
+      "skill": "Flight Hours",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate B767/757 aircraft in compliance with FAA regulations and company policies."
+    },
+    {
+      "duty": "Ensure the safe and efficient transportation of cargo to global destinations."
+    },
+    {
+      "duty": "Monitor and maintain aircraft systems during flight."
+    },
+    {
+      "duty": "Collaborate with crew members to ensure effective communication and teamwork."
+    },
+    {
+      "duty": "Adhere to safety protocols and emergency procedures in the event of unforeseen circumstances."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "FAA ATP License with Multi-Engine Rating"
+    },
+    {
+      "credential": "First-Class Medical Certificate"
+    },
+    {
+      "credential": "1500+ hours Total Time"
+    }
+  ]
+}

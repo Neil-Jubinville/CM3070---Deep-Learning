@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Act as an essential resource for customers, helping ship their freight across the nation, 24/7/365."
+    },
+    {
+      "duty": "Develop a portfolio of clients by cold calling using industry leads and negotiating pricing to close deals."
+    },
+    {
+      "duty": "Take charge of client service issues to the point of resolution and maintain a strong understanding of the industry."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 1
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 1
+    },
+    {
+      "skill": "Cold Calling",
+      "experience": 1
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 1
+    },
+    {
+      "skill": "Client Service",
+      "experience": 1
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in related field (preferred)"
+    }
+  ]
+}

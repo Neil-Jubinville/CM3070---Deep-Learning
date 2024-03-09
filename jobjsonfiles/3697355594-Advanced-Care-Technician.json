@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Advanced Care Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Team-Oriented",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Relations",
+      "experience": 2
+    },
+    {
+      "skill": "Data Reporting",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver competent and skilled care to patients under the direction of a physician or Registered Nurse."
+    },
+    {
+      "duty": "Deliver care with a team-orientation and emphasis on customer relations."
+    },
+    {
+      "duty": "Understand limitations, reports pertinent data to RN or Manager."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Graduate or equivalent (GED) certificate. Paramedic certificate or license. One year experience as paramedic preferred. Current BLS, PALS Certification. Continuing education requirements for certification/licensure as required by the Texas Department of State Health Services."
+    }
+  ]
+}

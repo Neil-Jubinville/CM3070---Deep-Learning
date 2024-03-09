@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Staff Accountant",
+      "job_category": "Accounting",
+      "job_class": "Staff",
+      "sector": "Finance",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounting",
+      "experience": 3
+    },
+    {
+      "skill": "MS Office",
+      "experience": 3
+    },
+    {
+      "skill": "Team-oriented",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain Vendor Listing and process invoices for payment."
+    },
+    {
+      "duty": "Gather W-9 forms from Vendors and issue 1099\u2019s at Year-End."
+    },
+    {
+      "duty": "Review employee reimbursement requests for proper documentation."
+    },
+    {
+      "duty": "Manage the monthly Corporate Card expense process."
+    },
+    {
+      "duty": "Review expense reports by employee to ensure proper documentation is received."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 70,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree with emphasis in Accounting or Finance"
+    }
+  ]
+}

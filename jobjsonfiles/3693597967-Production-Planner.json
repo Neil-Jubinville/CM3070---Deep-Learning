@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Production Planner",
+      "job_category": "Supply Chain",
+      "job_class": "Planner",
+      "sector": "Manufacturing",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Supply Chain Management",
+      "experience": 3
+    },
+    {
+      "skill": "Purchasing",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Fast-Paced Environment Adaptability",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Efficiently procure raw materials and components based on price and schedule demand ensuring delivery prior to the production start date."
+    },
+    {
+      "duty": "Research and maintain working relationships with suppliers through regular communication."
+    },
+    {
+      "duty": "Monitor supply levels and collaborate with suppliers to maintain delivery schedules."
+    },
+    {
+      "duty": "Track and provide status reports on delivery schedules, supply shortages, and other possible issues that could impact production."
+    },
+    {
+      "duty": "Assist in the preparation and issuance of purchase orders (POs) and reconcile/close out POs and procurement transactions using the ERP system."
+    },
+    {
+      "duty": "Troubleshoot reconciliation issues with the internal planning/procurement team."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Supply Chain, Business, or a related field"
+    }
+  ]
+}

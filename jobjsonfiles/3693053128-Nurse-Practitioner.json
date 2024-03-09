@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Nurse Practitioner",
+      "job_category": "Healthcare",
+      "job_class": "Practitioner",
+      "sector": "Healthcare",
+      "salary": 105000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Assessment",
+      "experience": 3
+    },
+    {
+      "skill": "Treatment Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Health Education",
+      "experience": 3
+    },
+    {
+      "skill": "Chronic Illness Management",
+      "experience": 3
+    },
+    {
+      "skill": "Clinical Competence",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 3
+    },
+    {
+      "skill": "Prescribing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assess the physical and psychosocial status of patients through interviews, health history, physical examination, and diagnostic tests."
+    },
+    {
+      "duty": "Interpret patient data and develop and implement a plan of treatment."
+    },
+    {
+      "duty": "Provide diagnosis and treatment of common acute illnesses and maintenance healthcare to patients with stable chronic illnesses."
+    },
+    {
+      "duty": "Order appropriate diagnostic studies and discriminate between normal and abnormal findings."
+    },
+    {
+      "duty": "Counsel patients on health maintenance and disease prevention, and provide health education."
+    },
+    {
+      "duty": "Maintain accurate records, medication lists, and documentation of care for administrative purposes and reimbursement of services."
+    },
+    {
+      "duty": "Supervise and intervene with clinical issues, support triage, and implement clinical education and training for clinical staff."
+    },
+    {
+      "duty": "Prescribe within the practice agreement set forth by supervising physicians and ensure updated and accurate practice agreement every 2 years."
+    },
+    {
+      "duty": "Maintain confidentiality of patient information and observe safety precautions and procedures in the performance of all duties to ensure a safe environment."
+    },
+    {
+      "duty": "Perform all other duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 90,
+      "introvert_extrovert": 75
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current licensure as RN in the State of South Carolina; Certification by appropriate credentialing organization recognized by South Carolina as Nurse Practitioner; CPR, BLS."
+    }
+  ]
+}

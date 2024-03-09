@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "SAP LE/SD/MM Consultant",
+      "job_category": "Logistics",
+      "job_class": "Consultant",
+      "sector": "Software Engineering",
+      "salary": 65,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SAP Logistic (SD/MM)",
+      "experience": 10
+    },
+    {
+      "skill": "SAP ECC 6.0",
+      "experience": 10
+    },
+    {
+      "skill": "SAP OTC",
+      "experience": 5
+    },
+    {
+      "skill": "ABAP Debugging",
+      "experience": 5
+    },
+    {
+      "skill": "3PL",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Expertise in SAP Logistics execution and 3PL integration"
+    },
+    {
+      "duty": "Hands-on experience in order management, shipping, receiving, and supply chain processes"
+    },
+    {
+      "duty": "Understanding of ABAP code and basic level debugging"
+    },
+    {
+      "duty": "Work in CST time zone and co-ordinate with offshore resources"
+    },
+    {
+      "duty": "Deliver artifacts and have a basic-advanced level understanding of SDLC."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 40,
+      "introvert_extrovert": 10
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or related field"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Tax Director",
+      "job_category": "Business",
+      "job_class": "Director",
+      "sector": "Finance",
+      "salary": 300000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tax Experience",
+      "experience": 15
+    },
+    {
+      "skill": "CPA Certification",
+      "experience": 7
+    },
+    {
+      "skill": "Partnership Taxation",
+      "experience": 15
+    },
+    {
+      "skill": "Leadership Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Global Tax Compliance",
+      "experience": 10
+    },
+    {
+      "skill": "Tax Planning",
+      "experience": 10
+    },
+    {
+      "skill": "Tax Administration",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee global tax compliance and manage partnership tax returns, estimates, and other tax-related matters."
+    },
+    {
+      "duty": "Provide tax planning and analysis with expertise in federal, state, local, and international tax structures."
+    },
+    {
+      "duty": "Demonstrate strong people leadership skills in a partnership environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150
+    },
+    {
+      "student_teacher": 100
+    },
+    {
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in finance or a related discipline, CPA certification, and 10+ years of tax experience."
+    }
+  ]
+}

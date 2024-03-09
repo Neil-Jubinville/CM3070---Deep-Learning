@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Manager Med Surg",
+      "job_category": "Healthcare",
+      "job_class": "Manager",
+      "sector": "Healthcare",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing",
+      "experience": 3
+    },
+    {
+      "skill": "Leadership",
+      "experience": 1
+    },
+    {
+      "skill": "Clinical Care",
+      "experience": 3
+    },
+    {
+      "skill": "Staff Management",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Plan, organize, staff, and direct functions to ensure the effective operation of the unit."
+    },
+    {
+      "duty": "Develop plans, policies, and procedures to efficiently provide quality care."
+    },
+    {
+      "duty": "Support and work with the leadership team to develop plans and procedures."
+    },
+    {
+      "duty": "Provide dedicated patient care and make a difference in the lives of patients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree required; Master\u2019s Degree preferred"
+    },
+    {
+      "credential": "Licensed as a Registered Nurse in the State which you practice or must hold Compact/Multi-State RN License"
+    },
+    {
+      "credential": "Current BLS and ACLS from American Heart Association (AHA or American Red Cross) are required"
+    }
+  ]
+}

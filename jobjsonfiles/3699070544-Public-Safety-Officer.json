@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Public Safety Officer",
+      "job_category": "Safety and Security",
+      "job_class": "Officer",
+      "sector": "Safety and Security",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Relations",
+      "experience": 2
+    },
+    {
+      "skill": "Security Management",
+      "experience": 2
+    },
+    {
+      "skill": "Security Monitoring",
+      "experience": 2
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 2
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Vehicle Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide positive customer relations with guests, employees, and co-workers while providing a safe and secure environment."
+    },
+    {
+      "duty": "Undertake activities designed to identify, deter, abate, or correct situations; both routine and emergent that are within the scope of responsibility for the department, as they occur on hospital owned or controlled property."
+    },
+    {
+      "duty": "Assist with patients, visitors, and staff as needed or requested."
+    },
+    {
+      "duty": "Record relevant calls, monitors security cameras, and other equipment as directed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or its equivalent."
+    },
+    {
+      "credential": "Management Of Aggressive Behavior certification"
+    },
+    {
+      "credential": "Valid driver\u2019s license when driving any vehicle for work-related reasons."
+    }
+  ]
+}

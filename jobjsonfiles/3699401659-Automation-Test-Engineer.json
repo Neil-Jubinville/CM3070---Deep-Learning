@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Automation Test Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Test Automation",
+      "experience": 5
+    },
+    {
+      "skill": "MS PowerShell",
+      "experience": 5
+    },
+    {
+      "skill": "Python Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Hardware Setup Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Debugging",
+      "experience": 5
+    },
+    {
+      "skill": "Pre-production Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Security Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Bug Triage",
+      "experience": 5
+    },
+    {
+      "skill": "Requirement Gathering",
+      "experience": 5
+    },
+    {
+      "skill": "BI Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "PowerBI",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Automate test execution process using MS PowerShell and Python scripting."
+    },
+    {
+      "duty": "Plan and execute hardware setup for network design and qualification testing."
+    },
+    {
+      "duty": "Define and execute test plans for server components and security features."
+    },
+    {
+      "duty": "Troubleshoot hardware issues and perform bug triage with engineering groups."
+    },
+    {
+      "duty": "Collaborate with cloud engineering groups and participate in hardware roadmap discussions."
+    },
+    {
+      "duty": "Develop and maintain PowerBI reports for KPIs and incident management."
+    },
+    {
+      "duty": "Document rack and SKU level production designs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

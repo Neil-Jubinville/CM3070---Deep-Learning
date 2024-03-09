@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Lead .NET Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Lead Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": ".NET",
+      "experience": 10
+    },
+    {
+      "skill": "Angular",
+      "experience": 8
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 8
+    },
+    {
+      "skill": "Single Page Architecture/Applications",
+      "experience": 8
+    },
+    {
+      "skill": "Bootstrap",
+      "experience": 8
+    },
+    {
+      "skill": "CSS",
+      "experience": 8
+    },
+    {
+      "skill": "NPM",
+      "experience": 8
+    },
+    {
+      "skill": "Nuget",
+      "experience": 8
+    },
+    {
+      "skill": "Web Services",
+      "experience": 8
+    },
+    {
+      "skill": "Agile Metholodogy",
+      "experience": 8
+    },
+    {
+      "skill": "Full Stack Development",
+      "experience": 8
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead offshore GD development team in the planning and execution of .NET, Angular, and other web development projects."
+    },
+    {
+      "duty": "Utilize expertise in Full Stack development to solve complex problems and optimize software applications."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

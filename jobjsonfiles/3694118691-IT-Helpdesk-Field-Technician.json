@@ -1,0 +1,76 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Helpdesk/Field Technician",
+      "job_category": "Information Technology",
+      "job_class": "Technician",
+      "sector": "Information Technology",
+      "salary": 27,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "IT Technical Support",
+      "experience": 2
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Products",
+      "experience": 2
+    },
+    {
+      "skill": "Imaging",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Active Directory",
+      "experience": 2
+    },
+    {
+      "skill": "Office 365",
+      "experience": 2
+    },
+    {
+      "skill": "ITIL Service Desk",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform equipment refreshes for multiple nearby locations, including delivery, setup, and troubleshooting as necessary; imaging desktops and laptops."
+    },
+    {
+      "duty": "Set up peripherals such as printers and new VOIP phone line installations; including moving or changes."
+    },
+    {
+      "duty": "Provide Windows operational support including break/fix, monitoring queue, triaging tickets from ServiceNow, and troubleshooting Windows OS, Office applications, and user issues."
+    },
+    {
+      "duty": "Manage access including security group permissions, assigning IDs, and adding to appropriate email groups."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "College degree in a related field and familiarity with ITIL Service Desk best practices is preferred."
+    }
+  ]
+}

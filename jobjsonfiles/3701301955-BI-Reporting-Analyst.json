@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "BI Reporting Analyst",
+      "job_category": "Business Intelligence",
+      "job_class": "Analyst",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Business Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Statistical Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Data Mining",
+      "experience": 3
+    },
+    {
+      "skill": "Qlik",
+      "experience": 2
+    },
+    {
+      "skill": "SQL",
+      "experience": 3
+    },
+    {
+      "skill": "Python",
+      "experience": 2
+    },
+    {
+      "skill": "R",
+      "experience": 2
+    },
+    {
+      "skill": "Tableau",
+      "experience": 2
+    },
+    {
+      "skill": "AWS Redshift",
+      "experience": 2
+    },
+    {
+      "skill": "Athen",
+      "experience": 2
+    },
+    {
+      "skill": "MS PowerPoint",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform business analysis using various techniques, e.g. statistical analysis, explanatory and predictive modeling, data mining."
+    },
+    {
+      "duty": "Build new reports and manage existing reports."
+    },
+    {
+      "duty": "Assist in implementing or developing systems to capture business operation information."
+    },
+    {
+      "duty": "Produce ad hoc data and reports and guide less experienced business data analysts."
+    },
+    {
+      "duty": "Work closely with stakeholders and Business System Analysts for migration initiatives and business impact."
+    }
+  ]
+}

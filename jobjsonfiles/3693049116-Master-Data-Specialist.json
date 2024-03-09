@@ -1,0 +1,97 @@
+{
+  "meta": [
+    {
+      "job_title": "Master Data Specialist",
+      "job_category": "Data Management",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop a framework for global Master Data standardization and governance, including owning process flows, data maps, and standard definitions for governance across a variety of cross-functional systems and processes."
+    },
+    {
+      "duty": "Create, maintain, and deprecate item, customer, vendor, grower, ranch, facility, pricing, Bill of Material data in ERP Systems to facilitate smooth and accurate transaction flow through the ERP."
+    },
+    {
+      "duty": "Define and publish data definitions for the organization as data elements are added or modified."
+    },
+    {
+      "duty": "Serve as master data Subject Matter Expert (SME) on all new system integrations or enhancements requiring master data to ensure proper usage and assess process impact."
+    },
+    {
+      "duty": "Analyze and document process and data points as necessary to support seamless integration as business models change or exceptions arise."
+    },
+    {
+      "duty": "Ensure data quality and Master Data Management (MDM) adherence through systems & processes to ensure data integrity."
+    },
+    {
+      "duty": "Research and document Master Data processes and governance best practices."
+    },
+    {
+      "duty": "Facilitate change management initiatives with stakeholders."
+    },
+    {
+      "duty": "Review Master Data requests that affect financial reports or mapping and ensure they follow the established definitions and guidelines."
+    },
+    {
+      "duty": "Ensure policies, procedures, and Service Level Agreements (SLAs) relating to corporate master data are met across business units and global support functions."
+    },
+    {
+      "duty": "Provide issue resolution or escalate as needed to appropriate level or parties."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Master Data Management",
+      "experience": 5
+    },
+    {
+      "skill": "Data Governance",
+      "experience": 5
+    },
+    {
+      "skill": "Process Flows",
+      "experience": 5
+    },
+    {
+      "skill": "ERP Systems",
+      "experience": 5
+    },
+    {
+      "skill": "SME on System Integrations",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Change Management",
+      "experience": 5
+    },
+    {
+      "skill": "SLA Adherence",
+      "experience": 5
+    },
+    {
+      "skill": "Issue Resolution",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, Business Administration or related field (Master's preferred)"
+    }
+  ]
+}

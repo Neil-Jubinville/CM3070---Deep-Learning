@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Voice Technician",
+      "job_category": "Technology",
+      "job_class": "Technician",
+      "sector": "Technology",
+      "salary": 33,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "VoIP",
+      "experience": 2
+    },
+    {
+      "skill": "Cisco Certified Technician Routing and Switching",
+      "experience": 2
+    },
+    {
+      "skill": "Network Testing",
+      "experience": 2
+    },
+    {
+      "skill": "Documentation",
+      "experience": 2
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Install, operate, and maintain voice telecommunications network circuits and equipment."
+    },
+    {
+      "duty": "Verify service by testing circuits, equipment, and alarms; and identify, correct, or escalate problems."
+    },
+    {
+      "duty": "Document network by labeling and routing cables and recording configuration diagrams and specifications."
+    },
+    {
+      "duty": "Maintain safe work environment by following codes, standards, and legal regulations."
+    },
+    {
+      "duty": "Update job knowledge by participating in educational opportunities and reading technical publications."
+    },
+    {
+      "duty": "Enhance department and organization reputation by accepting ownership for accomplishing new and different request and exploring opportunities to add value to job accomplishments."
+    },
+    {
+      "duty": "Update work orders/incidents on time with detailed work notes"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "One to three years of related telecommunications experience"
+    },
+    {
+      "credential": "Prior experience with VoIP (Cisco and Avaya)"
+    },
+    {
+      "credential": "Minimum of Cisco Certified Technician Routing and Switching"
+    },
+    {
+      "credential": "Microsoft Office (Excel)"
+    }
+  ]
+}

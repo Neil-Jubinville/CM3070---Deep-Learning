@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "Security Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 117350,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Intrusion Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "SIEM Technology",
+      "experience": 5
+    },
+    {
+      "skill": "Linux/Unix OS and Windows",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Computing",
+      "experience": 5
+    },
+    {
+      "skill": "Network Security",
+      "experience": 5
+    },
+    {
+      "skill": "Threat Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting",
+      "experience": 5
+    },
+    {
+      "skill": "Cyber Security Frameworks",
+      "experience": 5
+    },
+    {
+      "skill": "Malware Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "SOAR Platforms",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform intrusion analysis and investigate security events using SIEM technology, packet captures, and data visualization."
+    },
+    {
+      "duty": "Act as a first responder to security events and escalations across corporate user networks, data centers, and cloud environments."
+    },
+    {
+      "duty": "Assist in the remediation of information security incidents and identify threat actor groups and their tactics."
+    },
+    {
+      "duty": "Document and communicate findings, escalate critical incidents, and interact with lines of business to improve security processes and procedures."
+    },
+    {
+      "duty": "Stay current on the threat landscape, cyber security trends, and new security alert content creation."
+    },
+    {
+      "duty": "Mentor the core analyst team, providing training and support in a fast-paced cyber security environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 130
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent IT/Security industry experience. Industry recognized professional certification, such as CISSP, is preferred."
+    }
+  ]
+}

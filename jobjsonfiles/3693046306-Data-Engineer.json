@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineer",
+      "job_category": "Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "ELT Infrastructure",
+      "experience": 5
+    },
+    {
+      "skill": "Big Data",
+      "experience": 5
+    },
+    {
+      "skill": "Kafka",
+      "experience": 5
+    },
+    {
+      "skill": "Flink",
+      "experience": 5
+    },
+    {
+      "skill": "Spark",
+      "experience": 5
+    },
+    {
+      "skill": "Airflow",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Snowflake",
+      "experience": 5
+    },
+    {
+      "skill": "Data Engineering",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Build and modernize analytics pipeline and warehouse with a focus on ELT infrastructure and big data technologies such as Kafka, Flink, Spark, and Airflow."
+    },
+    {
+      "duty": "Propose system designs and drive them to completion, ensuring effective modernization of the analytics pipeline."
+    },
+    {
+      "duty": "Utilize Spark, Airflow, Python, SQL, and Snowflake for data engineering practices on large complex datasets."
+    }
+  ]
+}

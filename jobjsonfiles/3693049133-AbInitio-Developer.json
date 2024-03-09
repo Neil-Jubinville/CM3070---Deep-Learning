@@ -1,0 +1,85 @@
+{
+  "meta": [
+    {
+      "job_title": "AbInitio Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Abinitio",
+      "experience": 3
+    },
+    {
+      "skill": "System Design",
+      "experience": 3
+    },
+    {
+      "skill": "Application Development",
+      "experience": 3
+    },
+    {
+      "skill": "Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Programming Languages",
+      "experience": 3
+    },
+    {
+      "skill": "Database Querying Languages",
+      "experience": 3
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 3
+    },
+    {
+      "skill": "ETL",
+      "experience": 3
+    },
+    {
+      "skill": "SQL",
+      "experience": 3
+    },
+    {
+      "skill": "Data Warehousing",
+      "experience": 3
+    },
+    {
+      "skill": "Cloud Architecture",
+      "experience": 3
+    },
+    {
+      "skill": "Software Development Life Cycle",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop, debug, and maintain code in a large corporate environment with one or more modern programming languages and database querying languages."
+    },
+    {
+      "duty": "Understand requirements related to extraction, transformation, and loading (ETL)."
+    },
+    {
+      "duty": "Independently develop, build, test, and deploy code."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Formal training, undergraduate degree or certification on software engineering concepts and 3+ years of experience in Abinitio."
+    }
+  ]
+}

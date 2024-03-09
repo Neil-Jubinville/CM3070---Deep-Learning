@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Web Designer",
+      "job_category": "Software Engineering",
+      "job_class": "Designer",
+      "sector": "Software Engineering",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Web Design",
+      "experience": 3
+    },
+    {
+      "skill": "Photoshop",
+      "experience": 3
+    },
+    {
+      "skill": "Illustrator",
+      "experience": 3
+    },
+    {
+      "skill": "HTML",
+      "experience": 3
+    },
+    {
+      "skill": "CSS",
+      "experience": 3
+    },
+    {
+      "skill": "JQuery",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create the look, layout, and features of product tools, websites, and landing pages."
+    },
+    {
+      "duty": "Conceptualize and create intuitive, engaging, and brand-consistent web experiences."
+    },
+    {
+      "duty": "Continually improve and optimize user experience for sites."
+    },
+    {
+      "duty": "Collaborate in concept development and design ideation cross-functionally to help define a creative strategy."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 70,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree or equivalent experience in web design."
+    }
+  ]
+}

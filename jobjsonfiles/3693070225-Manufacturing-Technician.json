@@ -1,0 +1,51 @@
+{
+  "meta": [
+    {
+      "job_title": "Manufacturing Technician",
+      "job_category": "Manufacturing",
+      "job_class": "Technician",
+      "sector": "Manufacturing",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate complex equipment and perform analytical tasks to support wafer fabrication."
+    },
+    {
+      "duty": "Troubleshoot and perform non-standard processing to ensure optimal output."
+    },
+    {
+      "duty": "Conduct minor preventative maintenance and assist with troubleshooting activities."
+    },
+    {
+      "duty": "Collaborate with the team to maximize productivity and sustain process efficiency."
+    },
+    {
+      "duty": "Maintain a clean room environment and adhere to gowning requirements."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Complex Equipment Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Analytical Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Preventative Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 2
+    },
+    {
+      "skill": "Clean Room Maintenance",
+      "experience": 2
+    }
+  ]
+}

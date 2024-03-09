@@ -1,0 +1,104 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Scala",
+      "experience": 5
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Hadoop",
+      "experience": 5
+    },
+    {
+      "skill": "Data Warehousing",
+      "experience": 5
+    },
+    {
+      "skill": "BigQuery",
+      "experience": 3
+    },
+    {
+      "skill": "Presto",
+      "experience": 3
+    },
+    {
+      "skill": "Hive",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Data Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Data Pipelines",
+      "experience": 5
+    },
+    {
+      "skill": "Data Infrastructure",
+      "experience": 5
+    },
+    {
+      "skill": "MapReduce",
+      "experience": 5
+    },
+    {
+      "skill": "Data Diagnostics",
+      "experience": 5
+    },
+    {
+      "skill": "Data Brick",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, develop, and launch extremely efficient and reliable data pipelines to move data and to provide intuitive analytics to partner teams."
+    },
+    {
+      "duty": "Make data more discoverable and easy to use for Data Scientists and Analysts across the service operations organization."
+    },
+    {
+      "duty": "Collaborate with other engineers and Data Scientists to discover the best solutions."
+    },
+    {
+      "duty": "Diagnose and solve issues in existing data pipelines and envision and build their successors."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or related field (Master's preferred)"
+    }
+  ]
+}

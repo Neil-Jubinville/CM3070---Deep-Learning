@@ -1,0 +1,117 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 142500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 5
+    },
+    {
+      "skill": "Spring Boot",
+      "experience": 5
+    },
+    {
+      "skill": "Event Driven Applications",
+      "experience": 5
+    },
+    {
+      "skill": "Appliance Deployment",
+      "experience": 5
+    },
+    {
+      "skill": "Financial System Encryption",
+      "experience": 5
+    },
+    {
+      "skill": "Testing Frameworks",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensure quality of one or more application codebases and alignment with development standards."
+    },
+    {
+      "duty": "Manages review of and tests for compatibility and integration processes needed to connect with other devices."
+    },
+    {
+      "duty": "Performs pre-UAT system testing."
+    },
+    {
+      "duty": "Writes moderately complex scripts to automate test execution."
+    },
+    {
+      "duty": "Automates common tasks, deploy with an IaaS model, utilizing chef, ansible, or similar."
+    },
+    {
+      "duty": "Maintains quality of code ensuring engineer best practices are met."
+    },
+    {
+      "duty": "Applies technical capabilities within own discipline to coach and develop junior employees."
+    },
+    {
+      "duty": "Collaborates with other application developers."
+    },
+    {
+      "duty": "Group-wide and external public speaking and other communications conveying domain level directions."
+    },
+    {
+      "duty": "Engineering experience, preferably in high volume, low latency transaction processing systems (such as payments transaction switching, high frequency trading systems or global real-time event streaming systems etc.)"
+    },
+    {
+      "duty": "Experience in CI/CD pipeline creation via Jenkins is a plus."
+    },
+    {
+      "duty": "Ensure quality across the full stack via rigorous CI/CD practices in all aspects of the SDLC (Builds, Test, and Deploy)."
+    },
+    {
+      "duty": "Strong writing and verbal communication skills."
+    },
+    {
+      "duty": "Experience with testing frameworks and methodologies (Gtest, JUnit, mocking, SOAP Postman, etc.)"
+    },
+    {
+      "duty": "Experience testing event driven applications using Apache Kafka, NATs, or similar."
+    },
+    {
+      "duty": "Experience running tests leveraging Spring Boot."
+    },
+    {
+      "duty": "Experience in financial system encryption (PIN Blocks, CHIP, CVC) would be beneficial."
+    },
+    {
+      "duty": "Experience with various coding languages Java, Go, C/C++,ESQL, etc. would be desired."
+    },
+    {
+      "duty": "Experience with deployment via CI/CD would be beneficial."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS or MS in Computer Science"
+    }
+  ]
+}

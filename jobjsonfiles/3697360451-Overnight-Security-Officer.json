@@ -1,0 +1,46 @@
+{
+  "meta": [
+    {
+      "job_title": "Overnight Security Officer",
+      "job_category": "Security",
+      "job_class": "Officer",
+      "sector": "Hotel",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Safety and Security Standards",
+      "experience": 5
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Security Experience",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensure the safety and security of hotel guests and employees."
+    },
+    {
+      "duty": "Follow safety and security standards and complete incident reports as required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": []
+}

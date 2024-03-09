@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Full Stack Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Angular 6+ or React",
+      "experience": 5
+    },
+    {
+      "skill": "Back-end programming languages (C#)",
+      "experience": 5
+    },
+    {
+      "skill": "HTML, CSS, and JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "Object Oriented JavaScript or modern JavaScript Frameworks",
+      "experience": 5
+    },
+    {
+      "skill": ".NET Framework 4+ and/or experience with .NET Core",
+      "experience": 5
+    },
+    {
+      "skill": "ASP.NET MVC",
+      "experience": 5
+    },
+    {
+      "skill": "ASP.Net Web API",
+      "experience": 5
+    },
+    {
+      "skill": "Automated Unit testing for both front end and back end",
+      "experience": 5
+    },
+    {
+      "skill": "Agile environment",
+      "experience": 5
+    },
+    {
+      "skill": "Git",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Server, creating queries, views and stored procs",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain front-end and back-end applications using Angular 6+ or React, C#, HTML, CSS, and JavaScript."
+    },
+    {
+      "duty": "Implement Object Oriented JavaScript or modern JavaScript Frameworks for enhanced application functionality."
+    },
+    {
+      "duty": "Utilize .NET Framework 4+ (and/or experience with .NET Core) for application development and enhancement."
+    },
+    {
+      "duty": "Work with ASP.NET MVC and ASP.Net Web API to create scalable and efficient web applications."
+    },
+    {
+      "duty": "Conduct Automated Unit testing for both front end and back end to ensure application stability and performance."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams in an agile environment to deliver high-quality software solutions."
+    },
+    {
+      "duty": "Use Git for version control and code collaboration within the development team."
+    },
+    {
+      "duty": "Utilize SQL Server for creating queries, views, and stored procedures to support application data management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": []
+}

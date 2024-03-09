@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Vaccination Administration",
+      "experience": 1
+    },
+    {
+      "skill": "Immunization Card Verification",
+      "experience": 1
+    },
+    {
+      "skill": "Onboarding and Credentialing",
+      "experience": 1
+    },
+    {
+      "skill": "Supply Management",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Administer flu vaccinations to corporate employees"
+    },
+    {
+      "duty": "Set up clinic supplies at the site location"
+    },
+    {
+      "duty": "Receive and return clinic supplies"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 30,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Registered Nurse qualification, vaccination experience preferred"
+    }
+  ]
+}

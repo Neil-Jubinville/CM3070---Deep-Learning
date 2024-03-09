@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Dental Hygienist",
+      "job_category": "Dentistry",
+      "job_class": "Hygienist",
+      "sector": "Healthcare",
+      "salary": 58000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Dental Hygiene",
+      "experience": 5
+    },
+    {
+      "skill": "Assessment and Treatment Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Oral Health Education",
+      "experience": 5
+    },
+    {
+      "skill": "Infection Control",
+      "experience": 5
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide dental hygiene services including oral prophylaxis, periodontal assessment, and fluoride treatment."
+    },
+    {
+      "duty": "Assist in assessment and treatment planning for patient care in coordination with the dental team."
+    },
+    {
+      "duty": "Educate patients on oral hygiene practices and preventive care strategies to maintain oral health."
+    },
+    {
+      "duty": "Implement infection control protocols to maintain a safe and sanitary clinical environment."
+    },
+    {
+      "duty": "Collaborate with dental assistants and other staff to ensure efficient and effective patient care."
+    },
+    {
+      "duty": "Maintain accurate patient records and documentation in compliance with established standards."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 130
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Registered Dental Hygienist (Required)"
+    }
+  ]
+}

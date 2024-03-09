@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Enterprise Integration Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Oracle Integration Cloud",
+      "experience": 5
+    },
+    {
+      "skill": "Middleware Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Mulesoft",
+      "experience": 5
+    },
+    {
+      "skill": "Boomi",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain enterprise integration processes using Oracle Integration Cloud (OIC) or similar tools such as Mulesoft or Boomi."
+    },
+    {
+      "duty": "Collaborate with stakeholders to gather integration requirements and design scalable solutions."
+    },
+    {
+      "duty": "Implement and configure middleware integration to enable seamless communication between enterprise systems."
+    },
+    {
+      "duty": "Troubleshoot and resolve issues related to data exchange and system integration."
+    },
+    {
+      "duty": "Document integration processes, including specifications, test plans, and deployment procedures."
+    },
+    {
+      "duty": "Provide technical support and guidance to the development team on integration best practices."
+    },
+    {
+      "duty": "Stay updated with the latest trends and advancements in enterprise integration technologies."
+    }
+  ]
+}

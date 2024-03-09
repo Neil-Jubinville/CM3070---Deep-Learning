@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Physician Assistant - Internal Medicine",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 140000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 5
+    },
+    {
+      "skill": "Diagnosis and Treatment",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Record Keeping",
+      "experience": 5
+    },
+    {
+      "skill": "Healthcare Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Emergency Care",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Procedures",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide patient care under the supervision of a physician in the field of internal medicine."
+    },
+    {
+      "duty": "Diagnose and treat patients based on medical history, symptoms, and test results."
+    },
+    {
+      "duty": "Maintain accurate and detailed medical records to ensure complete documentation of patient care."
+    },
+    {
+      "duty": "Adhere to healthcare compliance regulations and standards to ensure patient safety and confidentiality."
+    },
+    {
+      "duty": "Provide emergency care and treatment for patients in critical condition."
+    },
+    {
+      "duty": "Perform clinical procedures and examinations to assess and treat patients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 130,
+      "student_teacher": 100,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Physician Assistant Studies (Master's preferred)"
+    }
+  ]
+}

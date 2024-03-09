@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Clinical Pharmacist",
+      "job_category": "Pharmacy",
+      "job_class": "Pharmacist",
+      "sector": "Healthcare",
+      "salary": 125000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Medication Therapy Review",
+      "experience": 5
+    },
+    {
+      "skill": "Medication Evaluation and Compounding",
+      "experience": 5
+    },
+    {
+      "skill": "Dispensing",
+      "experience": 5
+    },
+    {
+      "skill": "Drug Interaction Consultation",
+      "experience": 5
+    },
+    {
+      "skill": "Education",
+      "experience": 5
+    },
+    {
+      "skill": "Team Development",
+      "experience": 5
+    },
+    {
+      "skill": "Automation Expertise",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Diligently review medication therapies to ensure they align with the patient's diagnosis and treatment plan."
+    },
+    {
+      "duty": "Accurately and safely compound medications in appropriate dosage forms, ensuring patients receive the right treatment."
+    },
+    {
+      "duty": "Package and dispense pre-manufactured dosage forms with precision and care."
+    },
+    {
+      "duty": "Identify and consult on possible drug interactions to prevent adverse outcomes."
+    },
+    {
+      "duty": "Provide comprehensive education or in-services on rational medication therapy and medication procedures to healthcare professionals, students, patients, or the public as needed, ensuring informed decision-making."
+    },
+    {
+      "duty": "Assist in the supervision and training of pharmacy technician personnel, fostering a collaborative and knowledgeable team."
+    },
+    {
+      "duty": "Maintain expertise in facility utilization of automated dispensing processes, including the use of automated dispensing units, Connect RX, overwrap packaging, and barcoding, to optimize pharmacy operations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "A Bachelor of Science Degree in Pharmacy or a Pharm. D degree from an accredited College of Pharmacy."
+    },
+    {
+      "credential": "Texas IV certification."
+    },
+    {
+      "credential": "Current Basic Life Support (BLS) certification."
+    }
+  ]
+}

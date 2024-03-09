@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "AWS Cloud Automation Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AWS Cloud Automation",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps Engineering",
+      "experience": 5
+    },
+    {
+      "skill": "AWS Infrastructure Services",
+      "experience": 5
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 5
+    },
+    {
+      "skill": "Scripting (Shell, Python, Ruby)",
+      "experience": 5
+    },
+    {
+      "skill": "Terraform IaC",
+      "experience": 5
+    },
+    {
+      "skill": "Systems Administration",
+      "experience": 5
+    },
+    {
+      "skill": "FedRamp Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Palo, Panorama, Splunk, Tenable Configuration",
+      "experience": 5
+    },
+    {
+      "skill": "Terraform and Ansible Scripting",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement AWS services in a variety of distributed computing environments with design and implementation experience."
+    },
+    {
+      "duty": "Automate large-scale implementation and migration of Data Center to Cloud Infrastructure through DevOps scripting and terraform IaC deployments."
+    },
+    {
+      "duty": "Build and configure CI/CD (Gitlab, Jenkins) and deployment automation."
+    },
+    {
+      "duty": "Administer Linux / Windows-based systems in a Cloud or Virtualized environment."
+    },
+    {
+      "duty": "Work on FedRamp compliant projects and configure tools such as Palo, Panorama, Splunk, and Tenable."
+    },
+    {
+      "duty": "Participate in code release, production deployment, and aggressive approach to fixing bugs and defects."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 0,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Engineering, or related field (Master's preferred)"
+    }
+  ],
+  "salary": 155000
+}

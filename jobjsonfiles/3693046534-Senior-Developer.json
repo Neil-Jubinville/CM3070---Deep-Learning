@@ -1,0 +1,95 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior Developer",
+      "sector": "Software Engineering",
+      "salary": 80000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop high-quality software design and architecture"
+    },
+    {
+      "duty": "Identify, prioritize and execute tasks in the software development life cycle"
+    },
+    {
+      "duty": "Develop tools and applications by producing clean, efficient code"
+    },
+    {
+      "duty": "Automate tasks through appropriate tools and scripting"
+    },
+    {
+      "duty": "Review and debug code"
+    },
+    {
+      "duty": "Perform validation and verification testing"
+    },
+    {
+      "duty": "Collaborate with internal teams and vendors to fix and improve products"
+    },
+    {
+      "duty": "Document development phases and monitor systems"
+    },
+    {
+      "duty": "Ensure software is up-to-date with latest technologies"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "React Native development",
+      "experience": 2
+    },
+    {
+      "skill": "Xcode",
+      "experience": 2
+    },
+    {
+      "skill": "Android Studio",
+      "experience": 2
+    },
+    {
+      "skill": "Javascript",
+      "experience": 2
+    },
+    {
+      "skill": "Git version control",
+      "experience": 2
+    },
+    {
+      "skill": "High-level architectural solutions",
+      "experience": 2
+    },
+    {
+      "skill": "PWAs",
+      "experience": 2
+    },
+    {
+      "skill": "Great documentation skills",
+      "experience": 2
+    },
+    {
+      "skill": "App Store / Play Store distribution",
+      "experience": 2
+    },
+    {
+      "skill": "Figma",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or related field"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Salesperson",
+      "job_category": "Sales",
+      "job_class": "Entry-level",
+      "sector": "Sales",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Sales Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Automotive Systems",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Math",
+      "experience": 2
+    },
+    {
+      "skill": "English Language",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide excellent selling experience for DIY customer visits and phone callsAchieve personal sales goal and help store achieve its sales goalsProvide DIY services including battery installation, testing, wiper installs, etc.Maintain store product and operational standardsResponsible for inventory processes including truck put away, shoot outs, cycle counts, Back stock, etc."
+    },
+    {
+      "duty": "Store Cleanliness including floors, bathrooms, facing, dusting, parking lotGeneral stocking including truck stocking and back stockSafely deliver parts to customers as needed"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 40,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

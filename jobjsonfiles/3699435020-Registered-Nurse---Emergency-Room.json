@@ -1,0 +1,105 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse - Emergency Room",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Emergency Room Care",
+      "experience": 3
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Telephone Triage",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 3
+    },
+    {
+      "skill": "Trauma Care",
+      "experience": 3
+    },
+    {
+      "skill": "Emergency Severity Index Triage",
+      "experience": 3
+    },
+    {
+      "skill": "Ambulance Triage",
+      "experience": 3
+    },
+    {
+      "skill": "Critical Care Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Document pertinent nursing notes to reflect change in condition, transfer, and discharge."
+    },
+    {
+      "duty": "Administer medications in accordance with physician orders."
+    },
+    {
+      "duty": "Respond to and refer incoming telephone calls, including phone triage when needed."
+    },
+    {
+      "duty": "Responsible for efficient throughput and understanding of all care zones such as triage, rapid treatment area, carepath, pediatric ER, trauma, behavioral health, etc."
+    },
+    {
+      "duty": "Coordinate and triage incoming ambulance traffic."
+    },
+    {
+      "duty": "Manage care with primary ER attending."
+    },
+    {
+      "duty": "Responsible for learning, understanding, and use of the Emergency Severity Index 5-level triage algorithm."
+    },
+    {
+      "duty": "Respond to critical needs and serve as a resource nurse for trauma."
+    },
+    {
+      "duty": "Educate patients regarding medications, procedures, and treatments, providing support throughout their stay."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Licensed as a Registered Nurse in the State of Georgia, multistate, or able to obtain licensure prior to start is required."
+    },
+    {
+      "credential": "Associate Degree, or Registered Nurse Diploma."
+    },
+    {
+      "credential": "1+ years experience as RN in acute care environment is preferred."
+    },
+    {
+      "credential": "Current American Heart Association (AHA) or American Red Cross Basic Life Support (BLS) Health Care Provider is required."
+    },
+    {
+      "credential": "Current American Heart Association (AHA) or American Red Cross Advanced Cardiac Life Support (ACLS) is preferred and required to be obtained within 12 months of hire/transfer date."
+    },
+    {
+      "credential": "Current American Heart Association (AHA) or American Red Cross Pediatric Life Support (PALS) is preferred and required to be obtained within 12 months of hire/transfer date."
+    },
+    {
+      "credential": "Previous emergency, pre-hospital, or critical care Registered Nurse experience preferred."
+    }
+  ]
+}

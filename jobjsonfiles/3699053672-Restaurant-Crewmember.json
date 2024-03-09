@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Restaurant Crewmember",
+      "job_category": "Restaurant",
+      "job_class": "Crewmember",
+      "sector": "Food Service",
+      "salary": 27000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Cashier",
+      "experience": 1
+    },
+    {
+      "skill": "Food Preparation",
+      "experience": 1
+    },
+    {
+      "skill": "Team Player",
+      "experience": 1
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Time Management",
+      "experience": 1
+    },
+    {
+      "skill": "Service-Oriented",
+      "experience": 1
+    },
+    {
+      "skill": "Basic Math",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide quick and friendly customer service, take orders, and process payments efficiently."
+    },
+    {
+      "duty": "Clean tables, floors, and other areas of the restaurant according to safety and cleanliness standards."
+    },
+    {
+      "duty": "Follow proper safety procedures when handling and preparing food."
+    },
+    {
+      "duty": "Work as a team, assisting other Crewmembers in completing tasks and assignments."
+    },
+    {
+      "duty": "Show up to scheduled shifts on time and work under pressure at a fast pace."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

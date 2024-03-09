@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Lab Manager / Sr. Network Specialist",
+      "job_category": "Technology",
+      "job_class": "Manager",
+      "sector": "IT",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "VMWare",
+      "experience": 5
+    },
+    {
+      "skill": "Active Directory",
+      "experience": 5
+    },
+    {
+      "skill": "Extreme Data switches and routing",
+      "experience": 5
+    },
+    {
+      "skill": "Change Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "MS Office Suite and Collaboration tools",
+      "experience": 5
+    },
+    {
+      "skill": "Avaya Aura Core Component",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Document Lab and Run CMS for lab"
+    },
+    {
+      "duty": "Build and manage Remote Access management"
+    },
+    {
+      "duty": "Manage VMware and Active Directory"
+    },
+    {
+      "duty": "Manage Extreme switching and routing"
+    },
+    {
+      "duty": "Implement Change Management processes"
+    },
+    {
+      "duty": "Communicate effectively with team members and stakeholders"
+    },
+    {
+      "duty": "Utilize MS Office Suite and Collaboration tools for project management"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 100,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree and/or experience in a related field"
+    },
+    {
+      "credential": "VMWare and Active Directory Certification"
+    },
+    {
+      "credential": "Experience with Extreme Data switches and routing"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Node JS Developer",
+      "job_category": "Software Development",
+      "job_class": "Senior Developer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Node JS",
+      "experience": 8
+    },
+    {
+      "skill": "TypeScript",
+      "experience": 8
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 8
+    },
+    {
+      "skill": "Java",
+      "experience": 5
+    },
+    {
+      "skill": "NoSQL Databases",
+      "experience": 8
+    },
+    {
+      "skill": "SQL Databases",
+      "experience": 8
+    },
+    {
+      "skill": "CI/CD Pipeline",
+      "experience": 8
+    },
+    {
+      "skill": "MongoDB",
+      "experience": 8
+    },
+    {
+      "skill": "Unit Testing",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and maintain server-side applications using Node JS, TypeScript, and JavaScript."
+    },
+    {
+      "duty": "Read and understand Java code as part of the development process."
+    },
+    {
+      "duty": "Manage NoSQL and SQL databases, with working knowledge of MongoDB as a plus."
+    },
+    {
+      "duty": "Build and maintain CI/CD pipeline for end-to-end build and deployment of applications."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 130,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Practical Nurse (LPN)",
+      "job_category": "Nursing",
+      "job_class": "Practitioner",
+      "sector": "Healthcare",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 2
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 2
+    },
+    {
+      "skill": "Vital Signs Monitoring",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Comfort Assistance",
+      "experience": 2
+    },
+    {
+      "skill": "Guidance and Leadership",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Plan, monitor, and provide nursing care to residents within the facility."
+    },
+    {
+      "duty": "Provide bedside care and administer medications."
+    },
+    {
+      "duty": "Take vital signs and record in electronic medical file."
+    },
+    {
+      "duty": "Assist with resident comfort and provide guidance for nursing assistants."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current, unencumbered license to practice as a nurse in the state of Massachusetts."
+    },
+    {
+      "credential": "Current CPR certification (AHA preferred)"
+    },
+    {
+      "credential": "Willingness to work weekends and some holidays."
+    },
+    {
+      "credential": "Compassionate and friendly demeanor."
+    }
+  ]
+}

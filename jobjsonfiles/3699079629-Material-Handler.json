@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Material Handler",
+      "job_category": "Logistics",
+      "job_class": "Handler",
+      "sector": "Logistics",
+      "salary": 55500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Material Handling",
+      "experience": 3
+    },
+    {
+      "skill": "Shipping",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 3
+    },
+    {
+      "skill": "Forklift Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Accurately load and unload trailers, verify route loads, and maintain the shipping yard."
+    },
+    {
+      "duty": "Count and check products for accuracy and quality, maintain accurate records, report overages and shortages, and participate in \"Cycle Counts\"."
+    },
+    {
+      "duty": "Operate material handling equipment including pallet jacks and forklifts. Troubleshoot issues with packing equipment, label machines, tapers, and palletizers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

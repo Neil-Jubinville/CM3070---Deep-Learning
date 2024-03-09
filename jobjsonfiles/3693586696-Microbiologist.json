@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Microbiologist",
+      "job_category": "Science",
+      "job_class": "Specialist",
+      "sector": "Science",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microbiology",
+      "experience": 2
+    },
+    {
+      "skill": "Laboratory Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Microbiological Techniques",
+      "experience": 2
+    },
+    {
+      "skill": "Experimental Planning",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Chemistry",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Growing and maintaining bacteriological cultures."
+    },
+    {
+      "duty": "Conducting antimicrobial tests (ISO 22196, TM100, ASTM2149, etc.) on prototype materials."
+    },
+    {
+      "duty": "Adapting existing antibacterial procedures and international standards to develop in-house tests for evaluating new materials."
+    },
+    {
+      "duty": "Troubleshooting microbiology results to evaluate chemical processes and surface modification."
+    },
+    {
+      "duty": "Planning and executing QA on client projects."
+    },
+    {
+      "duty": "Presenting test results on a regular basis."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's in Microbiology or a related field"
+    }
+  ]
+}

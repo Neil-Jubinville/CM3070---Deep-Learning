@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Consultant",
+      "job_category": "Sales",
+      "job_class": "Consultant",
+      "sector": "Sales",
+      "salary": 40000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Marketing",
+      "experience": 2
+    },
+    {
+      "skill": "Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Prospecting",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prospect for new clients and referral sources through telephone, direct mail, and local marketing programs."
+    },
+    {
+      "duty": "Conduct meetings with new prospects through telephone calls, targeted email campaigns, and corporate marketing programs."
+    },
+    {
+      "duty": "Present payroll products and services to decision makers and end users within the prospect universe."
+    },
+    {
+      "duty": "Analyze customer needs and interests to determine appropriate products and services."
+    },
+    {
+      "duty": "Maintain a comprehensive understanding of the product offering to optimize sales results and remain up-to-date with industry trends."
+    },
+    {
+      "duty": "Expedite the resolution of customer problems or complaints to ensure client satisfaction."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 70
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma - Required"
+    },
+    {
+      "credential": "Bachelor's Degree - Preferred"
+    }
+  ]
+}

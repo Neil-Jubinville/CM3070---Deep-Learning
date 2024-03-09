@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Banker",
+      "job_category": "Banking",
+      "job_class": "Retail",
+      "sector": "Banking",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 4
+    },
+    {
+      "skill": "Sales",
+      "experience": 3
+    },
+    {
+      "skill": "Account Management",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Services",
+      "experience": 3
+    },
+    {
+      "skill": "Banking Operations",
+      "experience": 3
+    },
+    {
+      "skill": "Community Relationship Building",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 4
+    },
+    {
+      "skill": "Cross-Selling",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Process customer transactions efficiently and accurately."
+    },
+    {
+      "duty": "Identify and service customer needs, resolve issues, and build relationships."
+    },
+    {
+      "duty": "Open new accounts and uncover cross-selling opportunities."
+    },
+    {
+      "duty": "Support operational integrity of the branch and prospect at in-store locations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School or equivalent combination of education and experience, Required"
+    }
+  ]
+}

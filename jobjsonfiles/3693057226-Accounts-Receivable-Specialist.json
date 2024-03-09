@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Accounts Receivable Specialist",
+      "job_category": "Finance",
+      "job_class": "Specialist",
+      "sector": "Finance",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Customer Invoicing: Prepare and accurately post customer invoices in the company's ERP system, ensuring completeness and correctness."
+    },
+    {
+      "duty": "Payment Application: Apply customer payments to the Accounts Receivable (AR) subledger in the ERP system, carefully handling credits and debits to customer AR accounts for precise financial tracking."
+    },
+    {
+      "duty": "AR Monitoring and Reporting: Generate AR monitoring and collection reports to provide insights to both Senior Management and Field Operations Management regarding outstanding customer receivable balances. This contributes to informed decision-making and strategic planning."
+    },
+    {
+      "duty": "Collection Activities: Initiate initial collection calls and follow-up pursuits to assist in collecting delinquent outstanding receivables. Document the status of collection pursuits for both field and senior management reference, ensuring transparency and clear communication."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Accounts Receivable Management",
+      "experience": 3
+    },
+    {
+      "skill": "ERP Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Financial Reporting",
+      "experience": 3
+    },
+    {
+      "skill": "Collection Calls",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Finance, Accounting, or a related field (Master's preferred)"
+    }
+  ]
+}

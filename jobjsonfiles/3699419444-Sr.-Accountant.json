@@ -1,0 +1,58 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. Accountant",
+      "job_category": "Accounting",
+      "job_class": "Accountant",
+      "sector": "Accounting",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "GAAP",
+      "experience": 5
+    },
+    {
+      "skill": "CPA",
+      "experience": 3
+    },
+    {
+      "skill": "Journal Entries",
+      "experience": 5
+    },
+    {
+      "skill": "Variance Analysis",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare monthly, quarterly, and annual consolidated Health System financial statements, including schedules, footnotes, and MD&A in accordance with generally accepted accounting principles."
+    },
+    {
+      "duty": "Prepare benefit and single audit financial packages and audit schedules; coordinate information gathering from internal and external customers; and answer auditor inquiries."
+    },
+    {
+      "duty": "Prepare and post monthly journal entries according to established guidelines and timeframes as well as perform monthly account variance analysis for balance sheet and income statement accounts for the financial review process and prepare and record adjusting entries as necessary."
+    },
+    {
+      "duty": "Prepare audit schedules, answer audit questions as needed, and prepare ad hoc reports as requested by management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Four-year Bachelor\u2019s degree or equivalent experience. Preferred: CPA (Certified Public Accountant)"
+    }
+  ]
+}

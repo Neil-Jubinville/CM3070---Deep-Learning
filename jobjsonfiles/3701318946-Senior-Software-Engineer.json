@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 185000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Object Oriented Programming",
+      "experience": 8
+    },
+    {
+      "skill": "Large Scale Data Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Distributed Data Processing Frameworks",
+      "experience": 3
+    },
+    {
+      "skill": "Cloud Environments",
+      "experience": 2
+    },
+    {
+      "skill": "Test-Driven Development",
+      "experience": 3
+    },
+    {
+      "skill": "High Availability Systems",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodologies",
+      "experience": 3
+    },
+    {
+      "skill": "Software Technologies",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Think about how to solve problems at scale and build fault-tolerant systems using microservice architecture."
+    },
+    {
+      "duty": "Develop testable, high-quality, and ship-ready code with ample test coverage."
+    },
+    {
+      "duty": "Work with Product Management and other developers to understand and translate engineering requirements into design requirements and provide estimates."
+    },
+    {
+      "duty": "Work as part of a cross-site development team to drive design implementation, testing, and release of products."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 80,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BS degree in Computer Science or relevant field of study (MS preferred)"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Office Manager",
+      "job_category": "Management",
+      "job_class": "Manager",
+      "sector": "Management",
+      "salary": 55000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "QuickBooks Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 5
+    },
+    {
+      "skill": "AP/AR/Bookkeeping",
+      "experience": 5
+    },
+    {
+      "skill": "Payroll Management",
+      "experience": 5
+    },
+    {
+      "skill": "Bank Statement Reconciliation",
+      "experience": 5
+    },
+    {
+      "skill": "Purchase Order Management",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage and maintain the company's financial records using QuickBooks and other accounting software."
+    },
+    {
+      "duty": "Process accounts payable and receivable, including invoice payment verification and recording."
+    },
+    {
+      "duty": "Handle payroll administration, employee compensation, and benefits management."
+    },
+    {
+      "duty": "Reconcile and update bank statements and financial records."
+    },
+    {
+      "duty": "Enter purchase orders into the company's system and manage the procurement process."
+    },
+    {
+      "duty": "Provide customer service, interacting with vendors, suppliers, and internal stakeholders for order processing and support."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 50,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Business Administration, Accounting, or related field (preferred)"
+    }
+  ]
+}

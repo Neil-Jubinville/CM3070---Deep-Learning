@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Technician",
+      "job_category": "Vehicle Maintenance/Mechanics/Technicians",
+      "job_class": "Technician",
+      "sector": "Truck Maintenance",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Vehicle Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Mechanical Repair",
+      "experience": 2
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Problem Solving",
+      "experience": 2
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Computer Skills",
+      "experience": 2
+    },
+    {
+      "skill": "DOT Regulations",
+      "experience": 2
+    },
+    {
+      "skill": "OSHA Regulations",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform preventative maintenance and minor repairs on various types of fleet vehicles to ensure safety and reliability for customers."
+    },
+    {
+      "duty": "Utilize tools and technologies for logging, researching, and completing repairs, including basic vehicle diagnostics."
+    },
+    {
+      "duty": "Conduct preventative maintenance repairs, replacement of vehicle components, electrical system repairs, and cooling system maintenance on gas and diesel engine vehicles."
+    },
+    {
+      "duty": "Collaborate with supervisors to learn new skills, receive hands-on coaching, and participate in Penske\u2019s technician training program."
+    },
+    {
+      "duty": "Work on assigned projects and tasks under the guidance of a supervisor."
+    },
+    {
+      "duty": "Adhere to specific instructions, guidelines, rules, regulations, and safety policies established by Penske management and regulatory authorities."
+    },
+    {
+      "duty": "Ensure regular, predictable, full attendance and willingness to work the required schedule and location."
+    },
+    {
+      "duty": "Perform work in a state of alertness and in a safe manner, accepting responsibility for personal safety and the safety of others."
+    },
+    {
+      "duty": "Meet the physical and mental demands of the role, including routine and daily use of hands, ability to work at heights, and lift/move heavy objects safely."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent preferred; vocational or technical certification in vehicle repair preferred"
+    }
+  ]
+}

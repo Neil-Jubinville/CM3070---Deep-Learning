@@ -1,0 +1,108 @@
+{
+  "meta": [
+    {
+      "job_title": "Senior Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior",
+      "sector": "Software Engineering",
+      "salary": 126000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 10
+    },
+    {
+      "skill": "Spring Boot",
+      "experience": 10
+    },
+    {
+      "skill": "Hibernate",
+      "experience": 10
+    },
+    {
+      "skill": "SQL Databases",
+      "experience": 10
+    },
+    {
+      "skill": "DevOps",
+      "experience": 10
+    },
+    {
+      "skill": "Agile/Scrum Methodology",
+      "experience": 5
+    },
+    {
+      "skill": "Microservice Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "Containerization",
+      "experience": 5
+    },
+    {
+      "skill": "MongoDB",
+      "experience": 5
+    },
+    {
+      "skill": "SOLR",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 10
+    },
+    {
+      "skill": "Leadership",
+      "experience": 10
+    },
+    {
+      "skill": "Technical Documentation",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Partner with key stakeholders to develop new features and enhance and support existing applications and programs."
+    },
+    {
+      "duty": "Work with business systems analysts and stakeholders to translate business to technical requirements and problem solve."
+    },
+    {
+      "duty": "Collaborate with project teams and cross functional teams to troubleshoot open issues and bug-fixes."
+    },
+    {
+      "duty": "Collaborate, coach and mentor team members on best practices, code reviews, internal tools, and process improvements."
+    },
+    {
+      "duty": "Write and maintain readable, sustainable, and efficient code in highly optimized and scalable architectures."
+    },
+    {
+      "duty": "Own applications from conception and design, to implementation and support."
+    },
+    {
+      "duty": "Debug and test code as needed."
+    },
+    {
+      "duty": "Create and update advanced technical documentation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 150,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in computer science or equivalent experience (Master's preferred)"
+    }
+  ]
+}

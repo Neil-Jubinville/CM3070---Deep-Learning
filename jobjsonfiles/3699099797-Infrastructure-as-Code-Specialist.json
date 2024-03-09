@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Infrastructure as Code Specialist",
+      "job_category": "Information Technology",
+      "job_class": "Specialist",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Terraform Development",
+      "experience": 10
+    },
+    {
+      "skill": "Infrastructure as Code",
+      "experience": 10
+    },
+    {
+      "skill": "CI/CD Release Definitions",
+      "experience": 7
+    },
+    {
+      "skill": "Automation",
+      "experience": 7
+    },
+    {
+      "skill": "Infrastructure Monitoring",
+      "experience": 7
+    },
+    {
+      "skill": "Azure DevOps",
+      "experience": 7
+    },
+    {
+      "skill": "Jenkins",
+      "experience": 7
+    },
+    {
+      "skill": "Azure Services",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Implement Infrastructure as Code (IAC) using Terraform and chef to automate and manage infrastructure."
+    },
+    {
+      "duty": "Develop CI/CD pipelines and release definitions for effective deployment and maintenance."
+    },
+    {
+      "duty": "Deploy and maintain CI/CD pipelines across multiple environments, specializing in infrastructure-as-code (Terraform)."
+    },
+    {
+      "duty": "Implement automation and effective monitoring for infrastructure using Terraform and other tools."
+    },
+    {
+      "duty": "Utilize Azure Services for infrastructure management and development."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": []
+}

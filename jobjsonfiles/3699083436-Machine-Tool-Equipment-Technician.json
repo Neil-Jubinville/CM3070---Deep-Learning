@@ -1,0 +1,82 @@
+{
+  "meta": [
+    {
+      "job_title": "Machine Tool Equipment Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Mechanical Engineering",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mechanical Assembly Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 5
+    },
+    {
+      "skill": "CNC Machining",
+      "experience": 4
+    },
+    {
+      "skill": "Precision Measurement",
+      "experience": 5
+    },
+    {
+      "skill": "Hydraulics Experience",
+      "experience": 4
+    },
+    {
+      "skill": "Pneumatics Experience",
+      "experience": 4
+    },
+    {
+      "skill": "Troubleshooting Industrial Automation Equipment",
+      "experience": 4
+    },
+    {
+      "skill": "G-Code M-Code",
+      "experience": 4
+    },
+    {
+      "skill": "Electrical Schematics",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assemble and start-up new CNC machines to factory specifications."
+    },
+    {
+      "duty": "Utilize precision measuring instruments and perform geometry checks according to measuring protocols."
+    },
+    {
+      "duty": "Read and follow mechanical, hydraulic, pneumatic, and electrical prints/drawings."
+    },
+    {
+      "duty": "Fitting, aligning, calibrating, and adjusting parts and mechanisms to meet tolerances."
+    },
+    {
+      "duty": "Troubleshoot machine errors and maintain a clean work environment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Advanced technician training, completion of related apprenticeship, or a minimum of 4 years related experience."
+    },
+    {
+      "credential": "Understanding of drawings, schematics, and troubleshooting."
+    }
+  ]
+}

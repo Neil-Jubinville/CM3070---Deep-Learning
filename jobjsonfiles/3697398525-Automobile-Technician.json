@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Automobile Technician",
+      "job_category": "Automotive",
+      "job_class": "Technician",
+      "sector": "Automotive",
+      "salary": 70000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Effective Communication",
+      "experience": 4
+    },
+    {
+      "skill": "ASE Certification",
+      "experience": 4
+    },
+    {
+      "skill": "Vehicle Inspection",
+      "experience": 4
+    },
+    {
+      "skill": "Auto Repair Training",
+      "experience": 4
+    },
+    {
+      "skill": "Diagnostic/Repair Procedures",
+      "experience": 4
+    },
+    {
+      "skill": "Math and Computer Skills",
+      "experience": 4
+    },
+    {
+      "skill": "Smog Repair and Testing",
+      "experience": 4
+    },
+    {
+      "skill": "Manual Transmission Driving",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Performs work indicated on Approved Repair Orders, following industry standard procedures and ensuring benefits for member/customer."
+    },
+    {
+      "duty": "Test drives vehicles to diagnose performance issues, verifies repairs, and maintains a clean and safe work environment."
+    },
+    {
+      "duty": "Attends and completes annual auto repair training, maintains customer vehicles, and communicates effectively with managers and service advisors."
+    },
+    {
+      "duty": "Ensures safety and accuracy of repairs, performs vehicle inspections, and may require travel to different locations as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "ASE Master Tech with L1 certification level or equivalent, OEM certifications, and valid driver\u2019s license with a safe driving record. Smog Repair and Testing Certification preferred (CA only)"
+    }
+  ]
+}

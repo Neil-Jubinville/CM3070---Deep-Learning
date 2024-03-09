@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "MDM Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Informatica IDQ",
+      "experience": 4
+    },
+    {
+      "skill": "Informatica MDM",
+      "experience": 4
+    },
+    {
+      "skill": "SQL Server",
+      "experience": 3
+    },
+    {
+      "skill": "Oracle",
+      "experience": 3
+    },
+    {
+      "skill": "ActiveVOS",
+      "experience": 3
+    },
+    {
+      "skill": "MDM Multi domain",
+      "experience": 3
+    },
+    {
+      "skill": "API calls",
+      "experience": 3
+    },
+    {
+      "skill": "SAP S/4",
+      "experience": 2
+    },
+    {
+      "skill": "Data Profiling",
+      "experience": 5
+    },
+    {
+      "skill": "Data Transformation",
+      "experience": 5
+    },
+    {
+      "skill": "Data Integration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support the implementation of Informatica IDQ and MDM to manage materials."
+    },
+    {
+      "duty": "Design, develop, integrate, and test a material domain as part of a large product team."
+    },
+    {
+      "duty": "Perform profiling, cleansing, and transformation using Informatica MDM."
+    },
+    {
+      "duty": "Direct queries using SQL Server and Oracle."
+    },
+    {
+      "duty": "Utilize ActiveVOS for workflow."
+    },
+    {
+      "duty": "Implement API calls and work with SAP S/4."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": []
+}

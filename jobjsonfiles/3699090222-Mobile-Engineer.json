@@ -1,0 +1,83 @@
+{
+  "meta": [
+    {
+      "job_title": "Mobile Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Senior Lead Software Engineer",
+      "sector": "Software Engineering",
+      "salary": 140000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Mobile Development",
+      "experience": 8
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 8
+    },
+    {
+      "skill": "iOS Development",
+      "experience": 8
+    },
+    {
+      "skill": "Android Development",
+      "experience": 8
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide technical guidance and direction to support the business, technical teams, contractors, and vendors."
+    },
+    {
+      "duty": "Develop secure and high-quality production code, review and debug code written by others."
+    },
+    {
+      "duty": "Drive decisions that influence the product design, application functionality, and technical operations and processes."
+    },
+    {
+      "duty": "Serve as a subject matter expert in one or more areas of focus within the function."
+    },
+    {
+      "duty": "Actively contribute to the engineering community as an advocate of firmwide frameworks, tools, and practices of the Software Development Life Cycle."
+    },
+    {
+      "duty": "Influence peers and project decision-makers to consider the use and application of leading-edge technologies."
+    },
+    {
+      "duty": "Contribute to the team culture of diversity, equity, inclusion, and respect."
+    },
+    {
+      "duty": "Work with mobile application team to set up monitoring and resolve production issues/crashes on mobile devices."
+    },
+    {
+      "duty": "Experience with mobile testing in areas like unit test, automation test, testing/debugging using emulators and devices including experience with mobile application profiling for memory analysis, thread analysis, and heap analysis."
+    },
+    {
+      "duty": "Develop test-driven mobile app features following agile software development methodology using Swift, Objective C, Xcode and SPM open-source libraries."
+    },
+    {
+      "duty": "Develop test-driven mobile frameworks following agile software development methodology using Swift, Objective C, Xcode and SPM open-source libraries."
+    },
+    {
+      "duty": "Develop test-driven mobile app features following agile software development methodology using Java, Kotlin, Android Jetpack, RxJava, and Retrofit."
+    },
+    {
+      "duty": "Develop test-driven mobile framework following agile software development methodology using Java, Kotlin, Android Jetpack, RxJava, and Retrofit."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Computer Engineering, Mathematics, or a related technical field (Master's preferred)"
+    }
+  ]
+}

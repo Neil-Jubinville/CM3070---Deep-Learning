@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Equipment Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Engineering",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "High Voltage Electrical Equipment Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Substation Ground Grid Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Procurement",
+      "experience": 3
+    },
+    {
+      "skill": "Test Data Entry",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide technical assistance in the installation, maintenance, and repair of high-voltage electrical equipment."
+    },
+    {
+      "duty": "Analyze test data to determine adherence to manufacturer's performance criteria."
+    },
+    {
+      "duty": "Performs multiple administrative duties including test data entry, SAP work order completion, and parts acquisition."
+    },
+    {
+      "duty": "Assist with the operation of mobile transformer processing rigs to ensure safe and thorough transformer oil-filling."
+    },
+    {
+      "duty": "Interpret test data to determine substation/power station ground grid integrity."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate degree or higher preferred in an electrical or power discipline (or an equivalent combination of education and demonstrated related experience may be accepted in lieu of preferred level of education)"
+    }
+  ]
+}

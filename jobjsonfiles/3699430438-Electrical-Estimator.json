@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Electrical Estimator",
+      "job_category": "Engineering",
+      "job_class": "Estimator",
+      "sector": "Construction",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Estimating",
+      "experience": 3
+    },
+    {
+      "skill": "Project Management",
+      "experience": 3
+    },
+    {
+      "skill": "Quantity Take-offs",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Prepare estimates for potential projects ranging from $100k to $50M."
+    },
+    {
+      "duty": "Read and understand design documents for accurate pricing."
+    },
+    {
+      "duty": "Coordinate with procurement to attain vendor and subcontractor quotes."
+    },
+    {
+      "duty": "Conduct Bid Walks and Hand Off Meetings with Project Manager upon award."
+    },
+    {
+      "duty": "Consult with customers to assist in estimating future workload."
+    },
+    {
+      "duty": "Collect post-bid debriefing with customers."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Electrical Engineering preferred but not required."
+    }
+  ]
+}

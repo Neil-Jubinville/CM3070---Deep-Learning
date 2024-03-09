@@ -1,0 +1,45 @@
+{
+  "meta": [
+    {
+      "job_title": "Patient Care Assistant",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Contribute to basic patient care activities and related non-professional services necessary in caring for the personal needs and comfort of the patient."
+    },
+    {
+      "duty": "Adapt job tasks as per the unit or department assigned."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Life Support (BLS) Certification",
+      "experience": 1
+    },
+    {
+      "skill": "Adaptability",
+      "experience": 2
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    },
+    {
+      "credential": "Certified Nursing Assistant (CNA)"
+    },
+    {
+      "credential": "Basic Life Support (BLS) Certification within six (6) months of hire"
+    }
+  ]
+}

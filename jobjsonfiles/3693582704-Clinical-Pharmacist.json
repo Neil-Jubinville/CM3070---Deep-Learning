@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Clinical Pharmacist",
+      "job_category": "Pharmacy",
+      "job_class": "Pharmacist",
+      "sector": "Healthcare",
+      "salary": 115000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Pharmacy Services",
+      "experience": 5
+    },
+    {
+      "skill": "Medical Service Alignment",
+      "experience": 5
+    },
+    {
+      "skill": "Education and Research Participation",
+      "experience": 5
+    },
+    {
+      "skill": "Written and Verbal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Hospital Operations",
+      "experience": 5
+    },
+    {
+      "skill": "Ambulatory Operations",
+      "experience": 5
+    },
+    {
+      "skill": "Pharmacy Experience",
+      "experience": 5
+    },
+    {
+      "skill": "Licensure and Registration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide clinical pharmacy services to patients within the assigned area and align with a medical service or group of patients based on a geographical area within the hospital and/or UF clinics."
+    },
+    {
+      "duty": "Actively participate in relevant education and research activities."
+    },
+    {
+      "duty": "Interact with supervisors, peers, support personnel, and students."
+    },
+    {
+      "duty": "Integrate clinical services, education, and research activities."
+    },
+    {
+      "duty": "Understand general hospital and ambulatory operations."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of an ACPE-accredited school of pharmacy. PharmD or equivalent education and hospital training/experience required. PGY1 residency preferred. PGY2 residency highly preferred."
+    },
+    {
+      "credential": "Registered pharmacist in Florida or eligible for the same."
+    },
+    {
+      "credential": "Valid telephone number accessible to the Pharmacy Services Department of Shands Hospital."
+    }
+  ]
+}

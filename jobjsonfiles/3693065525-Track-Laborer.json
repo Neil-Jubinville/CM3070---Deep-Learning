@@ -1,0 +1,84 @@
+{
+  "meta": [
+    {
+      "job_title": "Track Laborer",
+      "job_category": "Laborer",
+      "job_class": "Track Laborer",
+      "sector": "Industial",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Hand Tools Usage",
+      "experience": 3
+    },
+    {
+      "skill": "Power Tools Usage",
+      "experience": 3
+    },
+    {
+      "skill": "Railroad Construction",
+      "experience": 3
+    },
+    {
+      "skill": "Railroad Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Heavy Equipment Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 3
+    },
+    {
+      "skill": "Verbal and Visual Communication",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform physical labor using hand tools and equipment to construct, alter, repair, maintain, and demolish railroad tracks, associated structures, and components."
+    },
+    {
+      "duty": "Carry and place track materials using hand tools such as tie tongs, rail tongs, rail forks, lining bars, shovels, and jacks."
+    },
+    {
+      "duty": "Attach rail to ties using spike mauls or spike drivers."
+    },
+    {
+      "duty": "Remove spikes with claw bars, spike lifters, and spike pullers."
+    },
+    {
+      "duty": "Lift, position, handle, remove and install railroad crossties in and around the track structure."
+    },
+    {
+      "duty": "Cut associated materials with oxygen-acetylene torches, rail saws, cut off saws, and cold chisels."
+    },
+    {
+      "duty": "Work alongside heavy equipment by connecting, disconnecting, and controlling material that is being moved and by directing such movement."
+    },
+    {
+      "duty": "Participate in safety meetings and wear all appropriate personal protective equipment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School/GED"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Dialysis Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Assisting with activities of daily living",
+      "experience": 5
+    },
+    {
+      "skill": "Nursing Care",
+      "experience": 5
+    },
+    {
+      "skill": "Patient Safety",
+      "experience": 5
+    },
+    {
+      "skill": "Performance Improvement",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist patients with activities of daily living."
+    },
+    {
+      "duty": "Provide supportive nursing care, perform tasks as delegated by the RN."
+    },
+    {
+      "duty": "Assist in maintaining a clean and safe environment."
+    },
+    {
+      "duty": "Work collaboratively with staff to foster quality patient care."
+    },
+    {
+      "duty": "Participate in performance improvement activities to improve patient safety and quality of care."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Current BLS issued by the American Heart Association Healthcare Provider is required."
+    },
+    {
+      "credential": "Certification as a CNA, EMT, or related certification is preferred."
+    },
+    {
+      "credential": "Previous Dialysis experience is preferred."
+    }
+  ]
+}

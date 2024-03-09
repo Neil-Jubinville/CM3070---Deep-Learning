@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Central Processing Technician",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Medical",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sterilization Techniques",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Instrument Handling",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 2
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Sterilize and maintain medical instruments and equipment using appropriate techniques and equipment."
+    },
+    {
+      "duty": "Handle the processing and distribution of medical equipment as per the established guidelines."
+    },
+    {
+      "duty": "Manage inventory of medical supplies and ensure adequate stock levels at all times."
+    },
+    {
+      "duty": "Conduct quality control checks to ensure compliance with safety and hygiene standards."
+    },
+    {
+      "duty": "Utilize medical terminology to communicate effectively with healthcare professionals and support staff."
+    },
+    {
+      "duty": "Collaborate with the healthcare team to ensure efficient and timely processing of medical equipment."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Certification in Central Processing Technology (CPT) or equivalent"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Receptionist",
+      "job_category": "Healthcare",
+      "job_class": "Receptionist",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 3
+    },
+    {
+      "skill": "Multi-line Telephone Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Scheduling",
+      "experience": 3
+    },
+    {
+      "skill": "Insurance Processing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greet and provide courteous customer service to all clients, visitors, and employees in person or on the telephone."
+    },
+    {
+      "duty": "Collect and update demographic and insurance information into the Electronic Health Record."
+    },
+    {
+      "duty": "Operate multi-line telephone system, screening calls, answering and transferring calls, and taking messages."
+    },
+    {
+      "duty": "Refer clients to the on-call physicians or the answering service as necessary."
+    },
+    {
+      "duty": "Collect and provide information, answering questions, and making referrals regarding health center services, providers, medical records, scheduling, insurance, and related."
+    },
+    {
+      "duty": "Schedule and book clients for appointments with various health center services."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 70,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or general education degree (GED)"
+    },
+    {
+      "credential": "Three to five years related experience and/or training"
+    }
+  ]
+}

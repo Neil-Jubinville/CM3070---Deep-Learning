@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Night Cleaner",
+      "job_category": "Maintenance",
+      "job_class": "Cleaner",
+      "sector": "Facilities",
+      "salary": 38000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cleaning",
+      "experience": 3
+    },
+    {
+      "skill": "Waste Management",
+      "experience": 3
+    },
+    {
+      "skill": "Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Safety Procedures",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform daily interior cleaning of the building, including waste receptacle emptying, vacuuming, dusting, and restroom cleaning."
+    },
+    {
+      "duty": "Assist with exterior building and premises cleaning, basic maintenance, and minor repair work."
+    },
+    {
+      "duty": "Notify management of spills, safety issues, and building repairs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

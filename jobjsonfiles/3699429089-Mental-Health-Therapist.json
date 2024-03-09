@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Mental Health Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Counseling",
+      "experience": 3
+    },
+    {
+      "skill": "Case Management",
+      "experience": 3
+    },
+    {
+      "skill": "Treatment Planning",
+      "experience": 3
+    },
+    {
+      "skill": "Advocacy",
+      "experience": 3
+    },
+    {
+      "skill": "Documentation",
+      "experience": 3
+    },
+    {
+      "skill": "Clinical Services",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Deliver person-centered counseling, advocacy, and case management for patients."
+    },
+    {
+      "duty": "Develop treatment plans identifying patient's voice, treatment strategies, and outcome measures."
+    },
+    {
+      "duty": "Meet agency documentation standards and authorization requirements of contracts."
+    },
+    {
+      "duty": "Strategically tailor effective clinical/case management services to meet diverse patient needs."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master's degree in a behavioral health related field. Washington State Agency Affiliated Counselor registration upon hire. Current Washington state driver\u2019s license. Previous experience providing mental health counseling services preferred."
+    }
+  ]
+}

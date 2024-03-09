@@ -1,0 +1,77 @@
+{
+  "meta": [
+    {
+      "job_title": "DevOps Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AWS Services",
+      "experience": 5
+    },
+    {
+      "skill": "Red Hat Linux",
+      "experience": 5
+    },
+    {
+      "skill": "Monitoring Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Infrastructure as Code",
+      "experience": 5
+    },
+    {
+      "skill": "Terraform",
+      "experience": 5
+    },
+    {
+      "skill": "Docker",
+      "experience": 5
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "Ansible",
+      "experience": 5
+    },
+    {
+      "skill": "SDLC",
+      "experience": 5
+    },
+    {
+      "skill": "Agile-Scrum Methodology",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Utilize AWS services, such as Lambda, S3, ECS, and Security Models, to build/deploy API and make them available to customers."
+    },
+    {
+      "duty": "Implement build servers for Red Hat Linux and experience with monitoring tools such as Prometheus, Grafana, and OP5 for automation of builds, deployments, testing, and infrastructure using Ansible."
+    },
+    {
+      "duty": "Maintain using Terraform for provisioning, Ansible for automating software configuration, and used Templates for AWS infrastructure as code using Terraform to build staging and environments."
+    },
+    {
+      "duty": "Build/Maintain Docker container clusters managed by Kubernetes."
+    },
+    {
+      "duty": "Use Ansible playbook to set up Continuous Delivery pipeline, Deploy microservices, including AWS environment using Ansible Playbook."
+    },
+    {
+      "duty": "Implement Ansible to manage all existing servers and automate the build/configuration of new servers."
+    },
+    {
+      "duty": "Involve in requirement gathering phase of SDLC with Business Analyst and work in Agile-Scrum methodology."
+    }
+  ]
+}

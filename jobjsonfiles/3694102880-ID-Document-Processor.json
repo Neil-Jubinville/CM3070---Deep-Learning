@@ -1,0 +1,47 @@
+{
+  "meta": [
+    {
+      "job_title": "ID Document Processor",
+      "job_category": "Data Processing",
+      "job_class": "Processor",
+      "sector": "Software Engineering",
+      "salary": 25000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Image Processing",
+      "experience": 2
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 2
+    },
+    {
+      "skill": "Quality Assurance",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Capture and process ID documents in images or video streams for training and testing of a recognition algorithm."
+    },
+    {
+      "duty": "Record photos and videos of driving licenses or ID cards in different locations and lighting conditions to improve document detection."
+    },
+    {
+      "duty": "Complete 10 sessions of data recording, with each session taking 5 to 10 minutes to complete."
+    },
+    {
+      "duty": "Submit documents for quality checks and receive fixed payment for accepted participation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ]
+}

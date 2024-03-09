@@ -1,0 +1,93 @@
+{
+  "meta": [
+    {
+      "job_title": "Application Operations Specialist",
+      "job_category": "Information Technology",
+      "job_class": "Specialist",
+      "sector": "IT",
+      "salary": 85000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Application Support",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Database Management",
+      "experience": 5
+    },
+    {
+      "skill": "ITIL Processes",
+      "experience": 5
+    },
+    {
+      "skill": "ServiceNow",
+      "experience": 5
+    },
+    {
+      "skill": "Software Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manage incidents, service requests, and problems for multiple applications."
+    },
+    {
+      "duty": "Facilitate outages with bridge calls, pull in required resources/skillsets, and communicate updates."
+    },
+    {
+      "duty": "Complete access and audit reviews."
+    },
+    {
+      "duty": "Create and maintain a knowledge base of standard operating procedures and application documentation."
+    },
+    {
+      "duty": "Troubleshoot application alerts from monitoring tools."
+    },
+    {
+      "duty": "Coordinating testing for development work."
+    },
+    {
+      "duty": "Create change requests, implementation plans, and rollback plans."
+    },
+    {
+      "duty": "Facilitate deployment activities and releases."
+    },
+    {
+      "duty": "Monitor metrics to identify areas of improvement within application support."
+    },
+    {
+      "duty": "Collaborate with cross-functional stakeholders."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "College diploma or university degree in the field of computer science and/or 4 years equivalent work experience."
+    },
+    {
+      "credential": "Minimum 2 years of experience in application support."
+    }
+  ]
+}

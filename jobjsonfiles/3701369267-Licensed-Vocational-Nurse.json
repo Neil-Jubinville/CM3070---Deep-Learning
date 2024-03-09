@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Vocational Nurse",
+      "job_category": "Nursing",
+      "job_class": "Licensed Vocational Nurse",
+      "sector": "Healthcare",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 1
+    },
+    {
+      "skill": "Assessment",
+      "experience": 1
+    },
+    {
+      "skill": "Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Documentation",
+      "experience": 1
+    },
+    {
+      "skill": "Teaching",
+      "experience": 1
+    },
+    {
+      "skill": "Advocacy",
+      "experience": 1
+    },
+    {
+      "skill": "Plan of Care",
+      "experience": 1
+    },
+    {
+      "skill": "Evaluation",
+      "experience": 1
+    },
+    {
+      "skill": "Clinical Judgment",
+      "experience": 1
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform individualized nursing care for patients and their families under the direction of an RN."
+    },
+    {
+      "duty": "Collect assessment data using observation, palpation, and auscultation per department guidelines, including age and cultural specific considerations."
+    },
+    {
+      "duty": "Communicate and coordinate with other healthcare team members to ensure patient care activities and workflow."
+    },
+    {
+      "duty": "Document patient and family care needs through documentation per department/entity guideline of care and policies and procedures."
+    },
+    {
+      "duty": "Implement the plan of care per department guidelines and seek out resources when appropriate in new situations."
+    },
+    {
+      "duty": "Give constructive feedback to peers regarding work performance and notify supervisor of suspected performance issues."
+    },
+    {
+      "duty": "Encourage patient and family participation in decision making and act to uphold individual/family rights."
+    },
+    {
+      "duty": "Identify learning needs and barriers/readiness, and collaborate with the RN in the development of an individualized teaching plan."
+    },
+    {
+      "duty": "Demonstrate understanding of patient/family goals and make recommendations to the multidisciplinary team in the development of the patient's plan of care."
+    },
+    {
+      "duty": "Support evaluation of patient/family response to care, contribute observations and data to patient care conferences, and document patients' response to care."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "1 year LVN experience in an acute care setting or related area"
+    }
+  ]
+}

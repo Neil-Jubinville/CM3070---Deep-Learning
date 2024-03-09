@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Accountant/Finance Manager",
+      "job_category": "Accounting",
+      "job_class": "Manager",
+      "sector": "Finance",
+      "salary": 90000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Statement Preparation",
+      "experience": 7
+    },
+    {
+      "skill": "Financial Analysis",
+      "experience": 7
+    },
+    {
+      "skill": "Accounting Systems Implementation",
+      "experience": 7
+    },
+    {
+      "skill": "Team Management",
+      "experience": 7
+    },
+    {
+      "skill": "Internal Audit Management",
+      "experience": 7
+    },
+    {
+      "skill": "Cash Management",
+      "experience": 7
+    },
+    {
+      "skill": "Accounts Receivable Management",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee preparation of month-end, quarter-end and year-end financial statements."
+    },
+    {
+      "duty": "Review all month-end closing activities including general ledger maintenance, balance sheet reconciliations and corporate/overhead cost allocation."
+    },
+    {
+      "duty": "Enhance and implement financial and accounting systems, processes, tools and control systems."
+    },
+    {
+      "duty": "Serve as final point of escalation for Accounts Receivable/Accounts Payable issues."
+    },
+    {
+      "duty": "Develop and manage accounting staff."
+    },
+    {
+      "duty": "Serve as a key point of contact for internal auditors; Manage preparation and support of all audits."
+    },
+    {
+      "duty": "Oversee weekly cash management; Approve weekly payables; Execute check signing."
+    },
+    {
+      "duty": "Oversee AR management and provide support to collections activities."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting, Finance, Business, or a related field (CPA or MBA preferred)"
+    }
+  ]
+}

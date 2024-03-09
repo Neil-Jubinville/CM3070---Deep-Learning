@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Server",
+      "job_category": "Hospitality",
+      "job_class": "Server",
+      "sector": "Hospitality",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 1
+    },
+    {
+      "skill": "Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Food Safety",
+      "experience": 1
+    },
+    {
+      "skill": "Menu Knowledge",
+      "experience": 1
+    },
+    {
+      "skill": "Technology Use",
+      "experience": 1
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 1
+    },
+    {
+      "skill": "Compassion",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide exceptional customer service while engaging with coworkers and residents."
+    },
+    {
+      "duty": "Deliver meals, food, and drinks to residents and their guests with efficiency and professionalism."
+    },
+    {
+      "duty": "Maintain a working knowledge of all menu items, preparation, time, ingredients, and method of presentation."
+    },
+    {
+      "duty": "Relay messaging from residents to the kitchen about dining needs, food preferences and orders, and special requests."
+    },
+    {
+      "duty": "Engage with residents and others in the community with charm, professionalism, respect, and a bright personality."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent preferred"
+    }
+  ]
+}

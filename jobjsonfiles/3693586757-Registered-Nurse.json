@@ -1,0 +1,70 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nurse",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide age-appropriate, culturally and ethnically sensitive care, and maintain a safe environment for patients."
+    },
+    {
+      "duty": "Educate patients and their families about healthy practices and treatment modalities."
+    },
+    {
+      "duty": "Assure continuity of care and coordinate care across settings and among caregivers."
+    },
+    {
+      "duty": "Manage information, communicate effectively, and utilize technology in patient care."
+    },
+    {
+      "duty": "Utilize the nursing process including assessment, nurse diagnosis, outcomes identification, planning and coordination, implementation, and evaluation."
+    },
+    {
+      "duty": "Advocate for patients, teach, and participate in performance improvement, leadership, and professional development."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Clinical Nursing",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Advocacy",
+      "experience": 2
+    },
+    {
+      "skill": "Performance Improvement",
+      "experience": 2
+    },
+    {
+      "skill": "Leadership",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Teaching",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associates Degree in Nursing required. Bachelors Degree in Nursing preferred."
+    }
+  ]
+}

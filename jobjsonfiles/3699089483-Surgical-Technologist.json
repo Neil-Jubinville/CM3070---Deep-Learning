@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Surgical Technologist",
+      "job_category": "Healthcare",
+      "job_class": "Technologist",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Surgical Instrument Handling",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Emergency Response",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Preparation",
+      "experience": 3
+    },
+    {
+      "skill": "Orthopedic Surgery",
+      "experience": 3
+    },
+    {
+      "skill": "Neurosurgery",
+      "experience": 3
+    },
+    {
+      "skill": "Robotics",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Cardiac Life Support",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Handle surgical instruments, supplies, and equipment during general surgical procedures under the direction and supervision of the Registered Nurse and Surgical Team members."
+    },
+    {
+      "duty": "Anticipate the needs of the assigned surgical team and ensure understanding of the assigned surgical procedure being performed."
+    },
+    {
+      "duty": "Provide service support related to patient preparation, patient transport, building services, and assisting the surgical care team with specific patient care duties."
+    },
+    {
+      "duty": "Respond to emergent situations according to established procedures."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Graduate of CAAHEP accredited Surgical Technology program preferred (not required)"
+    },
+    {
+      "credential": "Basic Cardiac Life Support"
+    }
+  ]
+}

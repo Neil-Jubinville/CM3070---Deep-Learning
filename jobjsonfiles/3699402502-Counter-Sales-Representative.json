@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Counter Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 29000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provides advice to customers regarding the best products to fit their needs"
+    },
+    {
+      "duty": "Processing orders via order management system"
+    },
+    {
+      "duty": "Operate cash registers and follow established cash handling procedures"
+    },
+    {
+      "duty": "Prepare and stage orders for customer pick up"
+    },
+    {
+      "duty": "Maintain store appearance and merchandising standards as advised"
+    },
+    {
+      "duty": "Ensure that merchandise is restocked and placed in their respective areas"
+    },
+    {
+      "duty": "Maintain a safe working environment including PPE (Personal Protective Equipment)"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Order Processing",
+      "experience": 3
+    },
+    {
+      "skill": "Cash Handling",
+      "experience": 3
+    },
+    {
+      "skill": "Merchandising",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": []
+}

@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "RN ED",
+      "job_category": "Healthcare",
+      "job_class": "Registered Nurse",
+      "sector": "Healthcare",
+      "salary": 75000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Emergency Nursing",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Assessment",
+      "experience": 4
+    },
+    {
+      "skill": "Healthcare Education",
+      "experience": 3
+    },
+    {
+      "skill": "Trauma Care",
+      "experience": 4
+    },
+    {
+      "skill": "Patient Stabilization",
+      "experience": 4
+    },
+    {
+      "skill": "Nursing Supervision",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Quickly access and prioritize incoming patients."
+    },
+    {
+      "duty": "Perform comprehensive nursing assessments and stabilize patients."
+    },
+    {
+      "duty": "Provide direct nursing care and supervise non-licensed nursing staff within the RN\u2019s scope of practice and in accordance with established policies."
+    },
+    {
+      "duty": "Provide patient education / follow-up care instructions and make necessary referrals."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate Degree in Nursing or relevant field"
+    }
+  ]
+}

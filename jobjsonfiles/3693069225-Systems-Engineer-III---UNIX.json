@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Systems Engineer III - UNIX",
+      "job_category": "Engineering",
+      "job_class": "Systems Engineer",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for administration, monitoring, and supporting all aspects of the UNIX and Linux infrastructure."
+    },
+    {
+      "duty": "Identify and proactively respond to medium to high complexity system problems."
+    },
+    {
+      "duty": "Troubleshoot and correct complex, ambiguous problems affecting the operation of the environment."
+    },
+    {
+      "duty": "Analyze current processes and procedures for possible improvements and develop and maintain documentation of the assigned environment."
+    },
+    {
+      "duty": "Architect, implement, and support infrastructure and technologies."
+    },
+    {
+      "duty": "Understand the internal/external customer technologies and problem resolution techniques."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Unix",
+      "experience": 7
+    },
+    {
+      "skill": "Linux",
+      "experience": 7
+    },
+    {
+      "skill": "AIX / AS400",
+      "experience": 5
+    },
+    {
+      "skill": "Satellite or similar Linux management platforms",
+      "experience": 5
+    },
+    {
+      "skill": "CUPS or similar Enterprise printing environments",
+      "experience": 5
+    },
+    {
+      "skill": "Nagios or similar systems for monitoring UNIX and Linux environments",
+      "experience": 7
+    },
+    {
+      "skill": "Enterprise-wide UNIX infrastructure and interoperating with Windows and other platforms",
+      "experience": 7
+    },
+    {
+      "skill": "Setup and support for server deployment",
+      "experience": 7
+    },
+    {
+      "skill": "Knowledge of Applications and Databases hosted on Linux environments such as Oracle, ERP, etc.",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 60
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree or equivalent work experience in a related field required."
+    },
+    {
+      "credential": "7+ years\u2019 experience with UNIX and Linux technologies."
+    },
+    {
+      "credential": "Experience with AIX or iSeries is a plus."
+    },
+    {
+      "credential": "Knowledge of Applications and Databases hosted on Linux environments, such as Oracle, ERP, etc., preferred."
+    }
+  ]
+}

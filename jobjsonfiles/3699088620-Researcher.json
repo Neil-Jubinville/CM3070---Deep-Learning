@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Researcher",
+      "job_category": "Research",
+      "job_class": "Researcher",
+      "sector": "Health Research",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Epidemiology",
+      "experience": 2
+    },
+    {
+      "skill": "Statistics",
+      "experience": 2
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 2
+    },
+    {
+      "skill": "R Programming",
+      "experience": 2
+    },
+    {
+      "skill": "Python Programming",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop a core understanding of research methodology and its components."
+    },
+    {
+      "duty": "Carry out quantitative analyses and statistical modeling under guidance to produce results designated on a given timeline as part of collaborative research projects."
+    },
+    {
+      "duty": "Extract data from various sources and databases. Format, transform, review, and assess data sources to determine their relevance and utility for ongoing analysis."
+    },
+    {
+      "duty": "Understand key data sources and variations in these across and within countries."
+    },
+    {
+      "duty": "Apply computational and statistical tools and algorithms for the preprocessing, analysis, and visualization of source data."
+    },
+    {
+      "duty": "Lead discussion in research meetings about results and analyses to vet, improve, and finalize results."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master\u2019s degree in public health, epidemiology, statistics, biostatistics, math, economics, quantitative social sciences, or related discipline plus 1 year related experience, or equivalent combination of education and experience."
+    }
+  ]
+}

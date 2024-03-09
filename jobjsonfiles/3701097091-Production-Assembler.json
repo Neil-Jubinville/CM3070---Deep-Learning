@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Production Assembler",
+      "job_category": "Manufacturing",
+      "job_class": "Assembler",
+      "sector": "Manufacturing",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Assembly Operations",
+      "experience": 1
+    },
+    {
+      "skill": "Blueprint Reading",
+      "experience": 1
+    },
+    {
+      "skill": "Quality Control Analysis",
+      "experience": 1
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 1
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Read specific blueprints or diagrams to assemble the product."
+    },
+    {
+      "duty": "Bolt, clip, screw, cement, or fasten parts together."
+    },
+    {
+      "duty": "Work in teams to assemble specific products components."
+    },
+    {
+      "duty": "Ensure correct arrangement and proper connection of pieces."
+    },
+    {
+      "duty": "Maintain daily production records to track the production process."
+    },
+    {
+      "duty": "Communicate with other assemblers to ensure completion of production processes."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

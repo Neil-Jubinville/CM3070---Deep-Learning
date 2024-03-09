@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "QA Lead",
+      "job_category": "Quality Assurance",
+      "job_class": "Lead",
+      "sector": "Software Engineering",
+      "salary": 120000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java",
+      "experience": 10
+    },
+    {
+      "skill": "Cucumber",
+      "experience": 10
+    },
+    {
+      "skill": "SQL",
+      "experience": 10
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 10
+    },
+    {
+      "skill": "Technical Troubleshooting",
+      "experience": 10
+    },
+    {
+      "skill": "Web Service Testing",
+      "experience": 10
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 10
+    },
+    {
+      "skill": "CI/CD",
+      "experience": 10
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 10
+    },
+    {
+      "skill": "Process Implementation",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Ensuring high quality delivery through test automation and execution"
+    },
+    {
+      "duty": "Reinforcing Quality direction and contributing to a robust team"
+    },
+    {
+      "duty": "Collaborating with globally dispersed team members"
+    },
+    {
+      "duty": "Communicating across multiple layers of the organization in support of Quality"
+    },
+    {
+      "duty": "Ensuring consistent application of Quality Engineering standard methodologies"
+    },
+    {
+      "duty": "Demonstrating an agile mentality in actions and behaviours"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in computer science or similar technical subject (Master's preferred)"
+    }
+  ]
+}

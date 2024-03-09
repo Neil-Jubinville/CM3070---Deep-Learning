@@ -1,0 +1,44 @@
+{
+  "meta": [
+    {
+      "job_title": "Assistant Interior Designer",
+      "job_category": "Design",
+      "job_class": "Assistant",
+      "sector": "Interior Design",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Interior Design",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assist in creating interior design concepts and plans for client projects."
+    },
+    {
+      "duty": "Collaborate with senior designers to select materials, furniture, and decor that meet client needs and budgets."
+    },
+    {
+      "duty": "Assist in creating 3D renderings and visualizations of interior spaces using design software."
+    },
+    {
+      "duty": "Coordinate with vendors, contractors, and suppliers to ensure timely delivery and installation of design elements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 30,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Currently studying Interior Design OR 1 year of experience in the field"
+    }
+  ]
+}

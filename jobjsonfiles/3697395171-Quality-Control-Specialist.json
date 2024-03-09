@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Quality Control Specialist",
+      "job_category": "Logistics",
+      "job_class": "Specialist",
+      "sector": "Supply Chain",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Product Inspection",
+      "experience": 2
+    },
+    {
+      "skill": "Repair and Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Upholstery",
+      "experience": 3
+    },
+    {
+      "skill": "Woodworking",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 3
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform daily inspection of products and test products being released for delivery, repairing, adjusting, or replacing defective components."
+    },
+    {
+      "duty": "Calculate repair parts and labor costs for claims against vendors or delivery providers."
+    },
+    {
+      "duty": "Order parts and maintain inventory of basic supply parts required for daily use."
+    },
+    {
+      "duty": "Assess and disposition products returned to the Distribution Center daily."
+    },
+    {
+      "duty": "Document quality issues as they occur daily and communicate to the Quality Manager at the respective plant."
+    },
+    {
+      "duty": "Measure and report on the performance of product inspections and component replacements as required."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma/GED required, or equivalent with 0-2 years of experience"
+    }
+  ]
+}

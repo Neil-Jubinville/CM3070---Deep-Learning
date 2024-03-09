@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "System Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "System Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Infrastructure Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office 365",
+      "experience": 3
+    },
+    {
+      "skill": "Azure",
+      "experience": 3
+    },
+    {
+      "skill": "VMware",
+      "experience": 3
+    },
+    {
+      "skill": "Data Backup",
+      "experience": 3
+    },
+    {
+      "skill": "Anti-virus Management",
+      "experience": 3
+    },
+    {
+      "skill": "SAN Environment",
+      "experience": 3
+    },
+    {
+      "skill": "Email System Management",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support the development and maintenance of standard operating procedures (SOP) documents for System Architecture Solutions."
+    },
+    {
+      "duty": "Support and implement projects as required to meet TS goals and objectives."
+    },
+    {
+      "duty": "Provide reports and metrics to support operations requirements for analysis of performance and growth planning."
+    },
+    {
+      "duty": "Perform and manage implementation, configuration, and ongoing support of the System Architecture solutions."
+    },
+    {
+      "duty": "Establish Preventive Maintenance (PM) schedules, monitor their successful completion, and perform associated tasks as needed."
+    },
+    {
+      "duty": "Provide technical support and guidance to staff and contractors in completing their duties and tasks."
+    },
+    {
+      "duty": "Analyze resolution of enterprise system hardware and software problems as needed for 24x7 support."
+    },
+    {
+      "duty": "Perform other similar and related duties as required or directed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "B.S. in Engineering, Electronics, Computer Science, or a closely related field OR High School Diploma with minimum 5 years of related experience working in an environment with the mentioned technologies."
+    }
+  ]
+}

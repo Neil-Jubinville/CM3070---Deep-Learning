@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Radiology Tech",
+      "job_category": "Healthcare",
+      "job_class": "Technician",
+      "sector": "Healthcare",
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Radiology Imaging",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Equipment Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Radiation Safety",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Terminology",
+      "experience": 3
+    },
+    {
+      "skill": "Diagnostic Imaging Techniques",
+      "experience": 3
+    },
+    {
+      "skill": "Computerized Tomography",
+      "experience": 3
+    },
+    {
+      "skill": "Magnetic Resonance Imaging",
+      "experience": 3
+    },
+    {
+      "skill": "X-Ray Procedures",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform radiologic procedures and assist in patient care activities."
+    },
+    {
+      "duty": "Operate and maintain medical imaging equipment."
+    },
+    {
+      "duty": "Ensure compliance with radiation safety protocols and procedures."
+    },
+    {
+      "duty": "Understand and apply medical terminology in a healthcare setting."
+    },
+    {
+      "duty": "Conduct diagnostic imaging procedures such as CT scans, MRIs, and X-rays."
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree in Radiologic Technology or related field (Certification required)"
+    },
+    {
+      "credential": "Valid state licensure as a Radiologic Technologist"
+    }
+  ]
+}

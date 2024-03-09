@@ -1,0 +1,67 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 125000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Microsoft",
+      "experience": 5
+    },
+    {
+      "skill": "C#",
+      "experience": 4
+    },
+    {
+      "skill": ".NET core",
+      "experience": 4
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "CICD Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Computer Science",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, architect, and document entire systems for enterprise clients"
+    },
+    {
+      "duty": "Code entire software solutions and identify/fix issues within their area of expertise"
+    },
+    {
+      "duty": "Create, review, and automate testing solutions. Deploy solutions and provide operational support"
+    },
+    {
+      "duty": "Teardown old solutions and resolve technical issues within the team"
+    },
+    {
+      "duty": "Ensure quality of code, provide support, and prevent technical issues from occurring"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or equivalent experience"
+    }
+  ]
+}

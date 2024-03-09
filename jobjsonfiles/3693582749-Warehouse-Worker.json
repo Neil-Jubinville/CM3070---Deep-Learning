@@ -1,0 +1,42 @@
+{
+  "meta": [
+    {
+      "job_title": "Warehouse Worker",
+      "job_category": "Logistics",
+      "job_class": "Entry level",
+      "sector": "Transportation and Logistics",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Physical Fitness",
+      "experience": 1
+    },
+    {
+      "skill": "Warehousing",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lift and carry 25-75lbs, materials handled vary"
+    },
+    {
+      "duty": "Prior warehouse and/or equipment experience is preferred but we are willing to train the right candidate"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 130,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent"
+    }
+  ]
+}

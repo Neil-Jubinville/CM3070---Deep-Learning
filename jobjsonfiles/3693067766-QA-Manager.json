@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "QA Manager",
+      "job_category": "Quality Assurance",
+      "job_class": "Manager",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Quality Assurance",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 8
+    },
+    {
+      "skill": "Test Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Performance Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Framework",
+      "experience": 5
+    },
+    {
+      "skill": "Networking",
+      "experience": 5
+    },
+    {
+      "skill": "Change Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide leadership for a team of Quality Engineers and manage all management responsibilities such as goals, objectives, reviews, coaching, mentoring, and career development."
+    },
+    {
+      "duty": "Work closely with the Quality Director to create and enforce compliance of standard QA processes, tools, metrics, and governance criteria for assigned products."
+    },
+    {
+      "duty": "Using continuous improvement techniques, lead the teams towards zero production defects and manage to a set of pre-defined KPIs that will be used to effectively measure QA success."
+    },
+    {
+      "duty": "Proactively manage deviations from the KPIs and develop action plans to close them."
+    },
+    {
+      "duty": "Work proactively with internal stakeholders such as Product Management, Professional Services, Customer Support, and others to help define and implement improvements in the Quality Assurance program."
+    },
+    {
+      "duty": "Ensure compliance to a rigorous set of acceptance criteria exists for release of code to client-facing environments and actively participate in the ITIL processes of Change Management, Problem Management & Release Management to identify ways to improve quality."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree in Computer Science, STEM-related or Business-Related degree (Master's preferred)"
+    }
+  ]
+}

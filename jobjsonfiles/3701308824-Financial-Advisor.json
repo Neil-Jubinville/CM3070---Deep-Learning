@@ -1,0 +1,91 @@
+{
+  "meta": [
+    {
+      "job_title": "Financial Advisor",
+      "job_category": "Finance",
+      "job_class": "Advisor",
+      "sector": "Finance",
+      "salary": 62500,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Financial Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Investment Strategy",
+      "experience": 5
+    },
+    {
+      "skill": "Sales",
+      "experience": 5
+    },
+    {
+      "skill": "Insurance",
+      "experience": 5
+    },
+    {
+      "skill": "Client Relationship Management",
+      "experience": 5
+    },
+    {
+      "skill": "Market Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Negotiation",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide financial planning and investment strategy services to clients, tailored to their individual needs and goals."
+    },
+    {
+      "duty": "Build and maintain strong client relationships, offering guidance on investment options, insurance, and financial planning."
+    },
+    {
+      "duty": "Analyze market trends and economic indicators to develop informed investment and financial strategies for clients."
+    },
+    {
+      "duty": "Drive sales of financial products and services, identifying suitable investment opportunities and advising on risk management."
+    },
+    {
+      "duty": "Ensure compliance with financial regulations and industry standards, maintaining high ethical and professional standards in all client interactions."
+    },
+    {
+      "duty": "Deliver exceptional customer service, addressing client inquiries and concerns in a timely and effective manner."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Series 7 and 66 (63/65) securities licenses required"
+    },
+    {
+      "credential": "Insurance license required"
+    },
+    {
+      "credential": "Three or more years of investment sales experience"
+    },
+    {
+      "credential": "Bachelor's degree in Finance, Business, or a related field (Master's preferred)"
+    }
+  ]
+}

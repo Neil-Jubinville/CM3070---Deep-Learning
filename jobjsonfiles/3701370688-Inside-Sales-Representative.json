@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Inside Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 85000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Consultative Selling",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Relationship Management",
+      "experience": 2
+    },
+    {
+      "skill": "Communication",
+      "experience": 2
+    },
+    {
+      "skill": "Prospecting",
+      "experience": 2
+    },
+    {
+      "skill": "Salesforce",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide product and service information to clients by offering solutions to drive company revenue."
+    },
+    {
+      "duty": "Handle cancellations and renewals for a 3-year warranty product."
+    },
+    {
+      "duty": "Conduct consultative sales for incoming and outbound calls and emails directly to consumers."
+    },
+    {
+      "duty": "Prospect and contact potential customers."
+    },
+    {
+      "duty": "Maintain a minimum average of 50-60 inbound calls per day and meet campaign conversion requirements."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": []
+}

@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Heavy Equipment Operator",
+      "job_category": "Construction",
+      "job_class": "Operator",
+      "sector": "Construction",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Heavy Equipment Operation",
+      "experience": 5
+    },
+    {
+      "skill": "Construction Site Maintenance",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Troubleshooting",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Compliance",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Operate heavy construction equipment, including backhoes, cable plow, trenchers, hydraulic reel trailers & other types of machinery, and assure maintenance of these as required."
+    },
+    {
+      "duty": "Troubleshoot problems as they arise in the field."
+    },
+    {
+      "duty": "Read and understand utility locates and above ground utility indicators to ensure the safety of the crew and a high level of productivity."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Experience operating heavy equipment on a construction site"
+    }
+  ]
+}

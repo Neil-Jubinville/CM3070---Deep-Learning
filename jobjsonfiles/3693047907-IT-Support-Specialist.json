@@ -1,0 +1,68 @@
+{
+  "meta": [
+    {
+      "job_title": "IT Support Specialist",
+      "job_category": "Information Technology",
+      "job_class": "Specialist",
+      "sector": "Information Technology",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Knowledge Base Management",
+      "experience": 3
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Windows",
+      "experience": 3
+    },
+    {
+      "skill": "Messaging Systems",
+      "experience": 3
+    },
+    {
+      "skill": "Flexible Work Schedule",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide front-line customer support, resolve technical issues, and document all customer contacts."
+    },
+    {
+      "duty": "Diagnose and resolve applications, computing issues, and route tickets to appropriate resolver."
+    },
+    {
+      "duty": "Collaborate with service desk co-workers and participate in ongoing training for service operations."
+    },
+    {
+      "duty": "Work on projects and tasks assigned by leadership."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associate's degree in Information Technology preferred"
+    }
+  ]
+}

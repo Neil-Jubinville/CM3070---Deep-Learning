@@ -1,0 +1,90 @@
+{
+  "meta": [
+    {
+      "job_title": "Cloud Platform Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Google Cloud Platform (GCP)",
+      "experience": 8
+    },
+    {
+      "skill": "Data Engineering",
+      "experience": 6
+    },
+    {
+      "skill": "Infrastructure Provisioning",
+      "experience": 6
+    },
+    {
+      "skill": "Performance Tuning",
+      "experience": 6
+    },
+    {
+      "skill": "Scripting (Python, Shell)",
+      "experience": 8
+    },
+    {
+      "skill": "Cloud Solution Design",
+      "experience": 8
+    },
+    {
+      "skill": "Agile/SCRUM Methodologies",
+      "experience": 6
+    },
+    {
+      "skill": "Automation Scripting (Python, Ansible, Bash)",
+      "experience": 6
+    },
+    {
+      "skill": "Container Orchestration (Kubernetes)",
+      "experience": 6
+    },
+    {
+      "skill": "SDLC and Continuous Delivery",
+      "experience": 6
+    },
+    {
+      "skill": "Network Engineering",
+      "experience": 6
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Responsible for architecture, design, implementation, support & Administration of GCP infrastructure."
+    },
+    {
+      "duty": "Act as an internal subject matter expert on all major servicing of Google Cloud Platform."
+    },
+    {
+      "duty": "Respond to technical incidents reported by multiple applications."
+    },
+    {
+      "duty": "Create Best Practices, Reusable Frameworks."
+    },
+    {
+      "duty": "Develop Proof of Concept technology deployments for potential new and emerging cloud and hybrid technologies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Engineering/Computer Science or four or more years of work experience."
+    },
+    {
+      "credential": "GCP Certified Architect, Data Engineer"
+    }
+  ]
+}

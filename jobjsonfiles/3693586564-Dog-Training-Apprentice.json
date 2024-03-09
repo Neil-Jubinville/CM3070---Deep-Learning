@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Dog Training Apprentice",
+      "job_category": "Animal Care",
+      "job_class": "Apprentice",
+      "sector": "Animal Care",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Dog Training",
+      "experience": 1
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Training Instruction",
+      "experience": 2
+    },
+    {
+      "skill": "Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Animal Behavior",
+      "experience": 2
+    },
+    {
+      "skill": "Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Animal Handling",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide pet parents with exceptional dog training instruction and customer service."
+    },
+    {
+      "duty": "Act as a subject matter expert for Petco\u2019s Positive Dog Training Program products, services, and in-store promotions."
+    },
+    {
+      "duty": "Assist in achieving the store\u2019s budgeted sales goals by driving sales, while educating and engaging all store partners."
+    },
+    {
+      "duty": "Follow Petco\u2019s Positive Dog Training curriculums and methodologies to enhance communication and teamwork between dog and pet parent."
+    },
+    {
+      "duty": "Create a fun and safe environment for dogs, pet parents, and store partners."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Completion of the Dog Training Instructor Program (DTIP) to become a Petco certified Positive Dog Trainer."
+    }
+  ]
+}

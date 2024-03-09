@@ -1,0 +1,102 @@
+{
+  "meta": [
+    {
+      "job_title": "Automotive Technician",
+      "job_category": "Automotive",
+      "job_class": "Technician",
+      "sector": "Service",
+      "salary": 50000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Automotive Repair",
+      "experience": 4
+    },
+    {
+      "skill": "Mechanical Diagnoses",
+      "experience": 4
+    },
+    {
+      "skill": "Automotive Systems",
+      "experience": 4
+    },
+    {
+      "skill": "ASE Certification",
+      "experience": 4
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 4
+    },
+    {
+      "skill": "Vehicle Maintenance",
+      "experience": 4
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 4
+    },
+    {
+      "skill": "Team Collaboration",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Service and repair automotive systems with a focus on customer and vehicle service."
+    },
+    {
+      "duty": "Conduct inspections on vehicles and accurately report findings to service management."
+    },
+    {
+      "duty": "Explain mechanical diagnoses and needed repairs to non-mechanical individuals, including teammates and managers."
+    },
+    {
+      "duty": "Perform tasks related to brakes, electrical, engine performance, engine repair, heating/air conditioning, suspension/steering, automatic transmissions/transaxles, and manual drivetrains and axles."
+    },
+    {
+      "duty": "Keep store management informed of service area mechanical repair problems as they occur."
+    },
+    {
+      "duty": "Maintain service center standards of cleanliness, orderliness, and appearance of space and equipment in the service department."
+    },
+    {
+      "duty": "Continuously learn new technical information and techniques to stay proficient in automotive diagnosis and repair."
+    },
+    {
+      "duty": "Drive company vehicles for various tasks, including drop off, pick-up, and service-related duties."
+    },
+    {
+      "duty": "Perform on-the-job training for new Maintenance Technicians, General Service Positions, Installers, and apprentice VSTs."
+    },
+    {
+      "duty": "Complete fluid services, brake services, tire services, oil changes, and alignments according to standard operating procedures."
+    },
+    {
+      "duty": "Operate within a cold work environment in the winter and a hot work environment in the summer, with exposure to slippery substances and chemicals."
+    },
+    {
+      "duty": "Perform physical tasks related to tire deliveries, tire service, oil changes, alignments, fluid services, brake services, and miscellaneous service functions such as door opening and closing, battery handling, and supply management."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Minimum 2 years of automotive repair experience, completion of Vocational-Technical School program in a related field, or demonstrated skills via third-party certificates/assessment."
+    },
+    {
+      "credential": "A.S.E. certification in at least one of A1-A8 is preferred. Will accept equivalent external qualifications or training certifications."
+    },
+    {
+      "credential": "Valid automobile driver\u2019s license at all times."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "meta": [
+    {
+      "job_title": "Administrative Technician",
+      "job_category": "Administrative",
+      "job_class": "Technician",
+      "sector": "Administration",
+      "salary": 40000,
+      "remote": true
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform support functions for one or more staff in one or more functional areas."
+    },
+    {
+      "duty": "Complete, organize, and coordinate data, information, and activities for the functional area and cross-functional areas across departments."
+    },
+    {
+      "duty": "Process customer invoices, handle customer requests, process credit memos, compile information, proofread documents and reports."
+    },
+    {
+      "duty": "Answer phones and transfer calls, schedule or plan meetings, complete expense reports, file and do data entry, maintain office inventories and supplies."
+    },
+    {
+      "duty": "Prepare briefs, outlines, agendas, and presentations from publications, regulations, and documents."
+    },
+    {
+      "duty": "Be responsive to internal and external customer needs, work well across departments, be a team player, and have a positive attitude."
+    },
+    {
+      "duty": "Demonstrate strong commitment to safety, quality, environmental awareness, and continuous process improvement."
+    },
+    {
+      "duty": "Perform other duties and responsibilities as assigned."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Data Entry",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 60,
+      "introvert_extrovert": 130
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma, GED, or two (2) years equivalent work experience."
+    }
+  ]
+}

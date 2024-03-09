@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Data Tech Lead",
+      "job_category": "Data Technology",
+      "job_class": "Lead",
+      "sector": "Software Engineering",
+      "salary": 130000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "AWS",
+      "experience": 3
+    },
+    {
+      "skill": "ETL",
+      "experience": 5
+    },
+    {
+      "skill": "API Development",
+      "experience": 5
+    },
+    {
+      "skill": "SQL Development",
+      "experience": 5
+    },
+    {
+      "skill": "CICD",
+      "experience": 4
+    },
+    {
+      "skill": "Business Intelligence Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Data Security",
+      "experience": 5
+    },
+    {
+      "skill": "Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead the team in developing and executing data solutions according to the reference architecture and best practices"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 180,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Data Science, or a related field (Master's preferred)"
+    }
+  ]
+}

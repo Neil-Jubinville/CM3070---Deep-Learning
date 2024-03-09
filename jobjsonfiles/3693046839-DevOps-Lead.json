@@ -1,0 +1,86 @@
+{
+  "meta": [
+    {
+      "job_title": "DevOps Lead",
+      "job_category": "Information Technology",
+      "job_class": "Lead",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Continuous Delivery",
+      "experience": 2
+    },
+    {
+      "skill": "GitLab",
+      "experience": 2
+    },
+    {
+      "skill": "Containerized Applications",
+      "experience": 2
+    },
+    {
+      "skill": "Microservices",
+      "experience": 2
+    },
+    {
+      "skill": "Infrastructure as Code",
+      "experience": 2
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 5
+    },
+    {
+      "skill": "Modern Application Architecture Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Computing Architecture",
+      "experience": 5
+    },
+    {
+      "skill": "Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Verbal and Written Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Champion continuous delivery and assist teams through the transition to a rapid deployment model."
+    },
+    {
+      "duty": "Design and build pipelines, educate teams on the reasons for needing them, propose, share, and refine best practices on release engineering, containerization, environment management, build/deployment automation, general process automation, and scripting."
+    },
+    {
+      "duty": "Design new applications and build transition approaches for existing ones, including architectural reviews, hands-on refactoring of stacks alongside teams, and shaping infrastructure transitions."
+    },
+    {
+      "duty": "Advance and refine the use of Infrastructure-as-Code (IaC) and link it to success in the CI/CD space, with an emphasis on automation."
+    },
+    {
+      "duty": "Proactively seek out clarifications, problems, and misunderstandings, and drive hard transitions through to success."
+    },
+    {
+      "duty": "Be a change agent, bringing the energy and sophistication necessary to lead and drive decision making in the journey to application modernization."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's or Master's degree in relevant field"
+    }
+  ]
+}

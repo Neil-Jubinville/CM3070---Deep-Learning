@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Therapist",
+      "job_category": "Healthcare",
+      "job_class": "Therapist",
+      "sector": "Healthcare",
+      "salary": 60000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Client Counseling",
+      "experience": 5
+    },
+    {
+      "skill": "Therapeutic Techniques",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Mental Health Diagnosis",
+      "experience": 5
+    },
+    {
+      "skill": "Crisis Intervention",
+      "experience": 5
+    },
+    {
+      "skill": "Case Management",
+      "experience": 5
+    },
+    {
+      "skill": "Empathy and Active Listening",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide therapeutic counseling and support to clients in a clinical setting."
+    },
+    {
+      "duty": "Utilize various therapeutic techniques to address mental health concerns and support positive outcomes for clients."
+    },
+    {
+      "duty": "Conduct clinical assessments to diagnose mental health conditions and develop treatment plans."
+    },
+    {
+      "duty": "Intervene in crisis situations and provide immediate support and guidance to clients in need."
+    },
+    {
+      "duty": "Manage and coordinate the ongoing care and support for clients through effective case management."
+    },
+    {
+      "duty": "Demonstrate empathy and active listening to create a supportive and nurturing therapeutic environment for clients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 200
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Master\u2019s degree in Counseling, Marriage and Family Therapy, Social Work or PhD or Psy D in Clinical Psychology"
+    },
+    {
+      "credential": "Active and independent license in New Mexico as a psychotherapist (LPCC, LISW, LCSW, LMFT or higher)"
+    },
+    {
+      "credential": "Ability to pass a background check"
+    }
+  ]
+}

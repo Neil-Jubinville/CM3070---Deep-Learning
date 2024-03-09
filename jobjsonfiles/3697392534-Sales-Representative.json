@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Representative",
+      "job_category": "Sales",
+      "job_class": "Representative",
+      "sector": "Sales",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Sales Experience",
+      "experience": 2
+    },
+    {
+      "skill": "Interpersonal Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Lead Generation",
+      "experience": 3
+    },
+    {
+      "skill": "CRM Systems",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Analyze customers' water composition and design water treatment solutions."
+    },
+    {
+      "duty": "Make sales presentations and build solid, long-lasting relationships within customers' homes."
+    },
+    {
+      "duty": "Use company leads and marketing support to help build the territory."
+    },
+    {
+      "duty": "Generate leads and build a territory."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma/GED required; bachelor's degree preferred"
+    }
+  ]
+}

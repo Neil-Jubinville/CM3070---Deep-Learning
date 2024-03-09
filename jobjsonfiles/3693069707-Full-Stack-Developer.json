@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Full Stack Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Ruby",
+      "experience": 5
+    },
+    {
+      "skill": "JavaScript",
+      "experience": 5
+    },
+    {
+      "skill": "TypeScript",
+      "experience": 5
+    },
+    {
+      "skill": "RESTful API Design",
+      "experience": 5
+    },
+    {
+      "skill": "GraphQL",
+      "experience": 5
+    },
+    {
+      "skill": "React",
+      "experience": 5
+    },
+    {
+      "skill": "SQL",
+      "experience": 5
+    },
+    {
+      "skill": "Git",
+      "experience": 5
+    },
+    {
+      "skill": "Testing Principles",
+      "experience": 5
+    },
+    {
+      "skill": "Written and Verbal Communication",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and build applications for web platforms using Ruby and Javascript/TypeScript"
+    },
+    {
+      "duty": "Ensure the performance and quality of applications"
+    },
+    {
+      "duty": "Collaborate with a team to define, design, and ship new features"
+    },
+    {
+      "duty": "Identify and correct bottlenecks and fix bugs"
+    },
+    {
+      "duty": "Help maintain code quality, organization, and automation"
+    },
+    {
+      "duty": "Support the diagnosis of customer issues and resolution"
+    },
+    {
+      "duty": "Review your teammates' Pull Requests and provide helpful feedback"
+    },
+    {
+      "duty": "Become a product expert"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 90,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Software Engineering, or a related field"
+    }
+  ]
+}

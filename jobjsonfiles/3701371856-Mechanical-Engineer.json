@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Mechanical Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Mechanical Design Engineering",
+      "salary": 100000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "3D CAD Software (SolidWorks and/or NX)",
+      "experience": 5
+    },
+    {
+      "skill": "Prototyping and Rapid Design Iteration",
+      "experience": 5
+    },
+    {
+      "skill": "3D Printing",
+      "experience": 5
+    },
+    {
+      "skill": "Custom Fixture and Jig Design",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Support high-tech device prototyping engineering team"
+    },
+    {
+      "duty": "Design and construction of jigs"
+    },
+    {
+      "duty": "Develop innovative mechanical designs for prototyping"
+    },
+    {
+      "duty": "Collaborate with the team on rapid design iteration and testing"
+    },
+    {
+      "duty": "Utilize 3D printing and other prototyping methods for rapid product development"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Mechanical Engineering (Master's preferred)"
+    }
+  ]
+}

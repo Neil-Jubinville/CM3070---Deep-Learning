@@ -1,0 +1,64 @@
+{
+  "meta": [
+    {
+      "job_title": "Quality Technician",
+      "job_category": "Quality Control",
+      "job_class": "Technician",
+      "sector": "Aerospace",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Quality Inspection",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Reporting",
+      "experience": 3
+    },
+    {
+      "skill": "Supplier Management",
+      "experience": 3
+    },
+    {
+      "skill": "Document Review",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Proficiency",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Perform quality containment activities including sorting, inspecting, stocking, and moving products."
+    },
+    {
+      "duty": "Read and interpret drawings, specifications, and use handheld gauges for quality inspections."
+    },
+    {
+      "duty": "Review and expedite paperwork, as well as ensure timely closure of non-conformance issues from external providers."
+    },
+    {
+      "duty": "Communicate effectively with internal and external team members."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 40,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or equivalent (Associate's degree preferred)"
+    }
+  ]
+}

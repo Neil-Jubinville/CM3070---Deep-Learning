@@ -1,0 +1,43 @@
+{
+  "meta": [
+    {
+      "job_title": "Supervisor",
+      "job_category": "Management",
+      "job_class": "Supervisor",
+      "sector": "Management",
+      "salary": 60000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Employee Supervision",
+      "experience": 5
+    },
+    {
+      "skill": "Auditing",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Supervises and trains employees. Conducts audits of procedures and methods to generate reports."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in a related field (Preferred)"
+    }
+  ]
+}

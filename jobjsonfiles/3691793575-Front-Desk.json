@@ -1,0 +1,80 @@
+{
+  "meta": [
+    {
+      "job_title": "Front Desk",
+      "job_category": "Administration",
+      "job_class": "Staff",
+      "sector": "Administrative",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Phone Etiquette",
+      "experience": 2
+    },
+    {
+      "skill": "Appointment Scheduling",
+      "experience": 2
+    },
+    {
+      "skill": "Medical Office Procedures",
+      "experience": 2
+    },
+    {
+      "skill": "Multi-tasking",
+      "experience": 2
+    },
+    {
+      "skill": "Knowledge of Medical Insurance",
+      "experience": 2
+    },
+    {
+      "skill": "ADHD and Mental Health Medications",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greeting patients and visitors in a courteous and professional manner."
+    },
+    {
+      "duty": "Answering phone calls and directing them to the appropriate person."
+    },
+    {
+      "duty": "Handling co-pays and processing payments."
+    },
+    {
+      "duty": "Scheduling and confirming patient appointments."
+    },
+    {
+      "duty": "Understanding and explaining medical insurance coverage to patients."
+    },
+    {
+      "duty": "Assisting patients with basic inquiries and providing general information about the office and its services."
+    },
+    {
+      "duty": "Maintaining a clean and organized front desk area."
+    },
+    {
+      "duty": "Handling administrative tasks as needed."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 30,
+      "student_teacher": 60,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "1-2 years of experience in a similar position in a medical office."
+    }
+  ]
+}

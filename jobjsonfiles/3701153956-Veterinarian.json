@@ -1,0 +1,69 @@
+{
+  "meta": [
+    {
+      "job_title": "Veterinarian",
+      "job_category": "Veterinary",
+      "job_class": "Doctor",
+      "sector": "Medical",
+      "salary": 125000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "DVM (Doctor of Veterinary Medicine)",
+      "experience": 5
+    },
+    {
+      "skill": "Preventative Care",
+      "experience": 5
+    },
+    {
+      "skill": "Surgery",
+      "experience": 5
+    },
+    {
+      "skill": "Dentistry",
+      "experience": 5
+    },
+    {
+      "skill": "Laser Therapy",
+      "experience": 5
+    },
+    {
+      "skill": "Ultrasonography",
+      "experience": 5
+    },
+    {
+      "skill": "Mentoring",
+      "experience": 5
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide high-quality veterinary care including preventive care, surgery, dentistry, and laser therapy."
+    },
+    {
+      "duty": "Utilize ultrasonography and other diagnostic tools for comprehensive patient care."
+    },
+    {
+      "duty": "Mentor and support new graduates, fostering collaboration and teamwork within the practice."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "DVM (Doctor of Veterinary Medicine) degree or equivalent"
+    }
+  ]
+}

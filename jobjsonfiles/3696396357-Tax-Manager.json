@@ -1,0 +1,81 @@
+{
+  "meta": [
+    {
+      "job_title": "Tax Manager",
+      "job_category": "Finance",
+      "job_class": "Manager",
+      "sector": "Finance",
+      "salary": 95000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Tax Preparation",
+      "experience": 5
+    },
+    {
+      "skill": "Accounting",
+      "experience": 5
+    },
+    {
+      "skill": "QuickBooks",
+      "experience": 5
+    },
+    {
+      "skill": "Business Tax Returns",
+      "experience": 5
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Financial Statement Preparation",
+      "experience": 5
+    },
+    {
+      "skill": "Tax Reduction Strategies",
+      "experience": 5
+    },
+    {
+      "skill": "Database Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Review and Prepare business and personal tax returns for small business clients from initial meeting through delivery and filing of returns"
+    },
+    {
+      "duty": "Manage staff accountants"
+    },
+    {
+      "duty": "Communicate with clients"
+    },
+    {
+      "duty": "Organize and update the tax database"
+    },
+    {
+      "duty": "Record tax entries into accounting software"
+    },
+    {
+      "duty": "Understand and apply tax reduction strategies"
+    },
+    {
+      "duty": "Preparation and/or review of financial statements"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Accounting, Finance, or a related field (CPA or EA required)"
+    }
+  ]
+}

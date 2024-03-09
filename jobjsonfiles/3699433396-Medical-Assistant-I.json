@@ -1,0 +1,61 @@
+{
+  "meta": [
+    {
+      "job_title": "Medical Assistant I",
+      "job_category": "Healthcare",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 35000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Patient Care",
+      "experience": 1
+    },
+    {
+      "skill": "Medical Assistance",
+      "experience": 1
+    },
+    {
+      "skill": "Clerical Responsibilities",
+      "experience": 1
+    },
+    {
+      "skill": "EMR Systems",
+      "experience": 1
+    },
+    {
+      "skill": "Verbal Communication",
+      "experience": 1
+    },
+    {
+      "skill": "Compassion",
+      "experience": 1
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Fulfill patient care responsibilities including checking schedules, organizing patient flow, performing screenings, and charting."
+    },
+    {
+      "duty": "Fulfill clerical responsibilities including completing forms, scheduling appointments, verifying insurance coverage, and managing patient charts."
+    },
+    {
+      "duty": "Fulfill organizational responsibilities including responding to emergency codes, respecting patient rights, and sharing problems with the supervisor."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or general equivalency diploma (GED), medical assistant diploma, or college course in medical assisting."
+    }
+  ]
+}

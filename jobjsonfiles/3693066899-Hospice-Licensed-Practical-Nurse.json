@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Hospice Licensed Practical Nurse",
+      "job_category": "Nursing",
+      "job_class": "Practical Nurse",
+      "sector": "Healthcare",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Nursing Care",
+      "experience": 3
+    },
+    {
+      "skill": "Medication Administration",
+      "experience": 3
+    },
+    {
+      "skill": "Documenting Patient Observations",
+      "experience": 3
+    },
+    {
+      "skill": "Patient Education",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Performance Improvement",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    },
+    {
+      "skill": "CPR Certification",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provides nursing services as directed by the RN."
+    },
+    {
+      "duty": "Administers medications, treatments, etc. as directed."
+    },
+    {
+      "duty": "Communicates effectively with RNCM, DCS, and physicians (as applicable)."
+    },
+    {
+      "duty": "Gathers clinical data and provides to RN via documentation and communication in order to support comprehensive assessment and plan of care management."
+    },
+    {
+      "duty": "Attends IDT meetings when able."
+    },
+    {
+      "duty": "Provides education and reinforcement of teaching related to care of the patient, disease process, symptom management, medications, wound care, and the dying process."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma or GED required. Minimum of one (1) year of full-time experience as an LPN required. Current CPR certification required."
+    }
+  ]
+}

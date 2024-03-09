@@ -1,0 +1,132 @@
+{
+  "meta": [
+    {
+      "job_title": "Java Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Java Development",
+      "experience": 7
+    },
+    {
+      "skill": "Spring Framework",
+      "experience": 5
+    },
+    {
+      "skill": "Microservice Development",
+      "experience": 2
+    },
+    {
+      "skill": "REST API",
+      "experience": 5
+    },
+    {
+      "skill": "ORM Framework - JPA / Hibernate",
+      "experience": 5
+    },
+    {
+      "skill": "Docker",
+      "experience": 3
+    },
+    {
+      "skill": "Kubernetes",
+      "experience": 3
+    },
+    {
+      "skill": "Angular / ReactJS",
+      "experience": 2
+    },
+    {
+      "skill": "AWS Services",
+      "experience": 2
+    },
+    {
+      "skill": "RDBMS/PostgreSQL",
+      "experience": 3
+    },
+    {
+      "skill": "DevOps Tool Chain",
+      "experience": 5
+    },
+    {
+      "skill": "OAuth Implementation",
+      "experience": 2
+    },
+    {
+      "skill": "API Management and Service Mesh",
+      "experience": 2
+    },
+    {
+      "skill": "Elasticsearch, Logstash & Kibana",
+      "experience": 2
+    },
+    {
+      "skill": "Queue based implementations",
+      "experience": 3
+    },
+    {
+      "skill": "NoSQL (MongoDB)",
+      "experience": 3
+    },
+    {
+      "skill": "Scripting languages (Unix, Python)",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design and develop applications using Java 8+/J2EE, Spring, Spring-Boot, and RESTful Services"
+    },
+    {
+      "duty": "Design and develop Microservices using Spring-Boot and REST API"
+    },
+    {
+      "duty": "Experience with ORM Framework - JPA / Hibernate"
+    },
+    {
+      "duty": "Knowledge and experience in Docker and Kubernetes"
+    },
+    {
+      "duty": "Design and Implement cloud-based solutions in various AWS Services (EC2, IAM, S3, Lambda, etc)"
+    },
+    {
+      "duty": "Experience with DevOps tool chain (Jenkins, Artifactory, Maven/Gradle, GIT/BitBucket)"
+    },
+    {
+      "duty": "Experience with OAuth implementation using Ping Identity (Nice to have)"
+    },
+    {
+      "duty": "Familiarity with API Management (Apigee) and Service Mesh (Istio) (Nice to have)"
+    },
+    {
+      "duty": "Experience with Elasticsearch, Logstash & Kibana (Nice to have)"
+    },
+    {
+      "duty": "Knowledge and experience in NoSQL (MongoDB) (Nice to have)"
+    },
+    {
+      "duty": "Experience with scripting languages using Unix, Python (Nice to have)"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 40
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in Computer Science, Engineering or equivalent"
+    },
+    {
+      "credential": "Certified in AWS DevOps (Preferred)"
+    }
+  ]
+}

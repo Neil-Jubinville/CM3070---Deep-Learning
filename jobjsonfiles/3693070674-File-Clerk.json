@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "File Clerk",
+      "job_category": "Administrative",
+      "job_class": "Clerk",
+      "sector": "Administrative",
+      "salary": 30000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Filing Systems Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Computer Literacy",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Attention to Detail",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assign and record identification numbers or codes to index materials for filing"
+    },
+    {
+      "duty": "Input data into computer systems to support document and information retrieval"
+    },
+    {
+      "duty": "Gather materials to be filed from departments or employees and sort or classify information according to guidelines"
+    },
+    {
+      "duty": "Perform general office activities, such as typing, answering telephones, operating office machines, processing mail, or securing confidential materials"
+    },
+    {
+      "duty": "Find, retrieve, and make copies of information from files in response to requests and deliver information to authorized users"
+    },
+    {
+      "duty": "Operate mechanized files that rotate to bring needed records to a particular location"
+    },
+    {
+      "duty": "Place materials into storage receptacles according to classification and identification information"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 60,
+      "student_teacher": 80,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or Equivalent"
+    }
+  ]
+}

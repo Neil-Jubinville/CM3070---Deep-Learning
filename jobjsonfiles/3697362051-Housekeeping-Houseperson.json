@@ -1,0 +1,57 @@
+{
+  "meta": [
+    {
+      "job_title": "Housekeeping Houseperson",
+      "job_category": "Housekeeping",
+      "job_class": "Houseperson",
+      "sector": "Hospitality",
+      "salary": 38000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Basic Communication Skills",
+      "experience": 2
+    },
+    {
+      "skill": "Hotel Operations",
+      "experience": 2
+    },
+    {
+      "skill": "Housekeeping",
+      "experience": 2
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Physical Stamina",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Maintain cleanliness of guest floor hallways, elevator landings, and other assigned areas."
+    },
+    {
+      "duty": "Assist Room Attendants by removing trash and used linen from guest rooms and housekeeping carts."
+    },
+    {
+      "duty": "Deliver clean glasses and other supplies to the Room Attendants."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 50,
+      "introvert_extrovert": 160
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Previous hotel or housekeeping experience preferred."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Wellness Coach",
+      "job_category": "Healthcare",
+      "job_class": "Coach",
+      "sector": "Healthcare",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Teaching",
+      "experience": 3
+    },
+    {
+      "skill": "Empathy",
+      "experience": 4
+    },
+    {
+      "skill": "Group Facilitation",
+      "experience": 3
+    },
+    {
+      "skill": "Client Treatment Planning",
+      "experience": 4
+    },
+    {
+      "skill": "Covid-19 Vaccination",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Engage with individuals with mental illnesses and assist with teachings of necessary skills and provide resources for maintaining recovery and independence."
+    },
+    {
+      "duty": "Conduct group meetings."
+    },
+    {
+      "duty": "Develop client treatment plans using treatment protocols and plans created by treatment specialists."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 90,
+      "introvert_extrovert": 140
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree required."
+    },
+    {
+      "credential": "CPR Certification from American Heart Association or American Red Cross."
+    },
+    {
+      "credential": "Previous experience working with adults with mental health issues is preferred."
+    }
+  ]
+}

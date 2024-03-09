@@ -1,0 +1,127 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 95000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Software Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Software Design",
+      "experience": 5
+    },
+    {
+      "skill": "Software Development",
+      "experience": 5
+    },
+    {
+      "skill": "Testing",
+      "experience": 5
+    },
+    {
+      "skill": "Debugging",
+      "experience": 5
+    },
+    {
+      "skill": "Integration",
+      "experience": 5
+    },
+    {
+      "skill": "Deployment",
+      "experience": 5
+    },
+    {
+      "skill": "Support",
+      "experience": 5
+    },
+    {
+      "skill": "Documentation",
+      "experience": 5
+    },
+    {
+      "skill": ".Net",
+      "experience": 5
+    },
+    {
+      "skill": "VisualStudio",
+      "experience": 5
+    },
+    {
+      "skill": "Azure DevOps Server",
+      "experience": 5
+    },
+    {
+      "skill": "C#",
+      "experience": 5
+    },
+    {
+      "skill": "Shell",
+      "experience": 5
+    },
+    {
+      "skill": "Ruby",
+      "experience": 5
+    },
+    {
+      "skill": "Python",
+      "experience": 5
+    },
+    {
+      "skill": "Relational Databases",
+      "experience": 5
+    },
+    {
+      "skill": "Client-Server Concepts",
+      "experience": 5
+    },
+    {
+      "skill": "Object Oriented Programming",
+      "experience": 5
+    },
+    {
+      "skill": "Web Services",
+      "experience": 5
+    },
+    {
+      "skill": "Waterfall/Agile Development",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Respond to end user trouble calls to resolve routine application software problems or assist with hardware issues remotely when possible."
+    },
+    {
+      "duty": "Design, develop, test, and integrate moderately complex internal and external core and web applications, services, and sites, including maintenance, upgrades, and troubleshooting in order to fulfill business needs."
+    },
+    {
+      "duty": "Provide tier III technical support for staff on internal and external core and web applications and systems."
+    },
+    {
+      "duty": "Confer with vendors, other IT team members, users, and department managers to determine requirements for new or modified software and hardware."
+    },
+    {
+      "duty": "Review, analyze, and modify the application systems including encoding, testing, debugging, and documentation."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 90,
+      "student_teacher": 70,
+      "introvert_extrovert": 110
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "2-year college degree in Information Systems, Computer Engineering or related academic area, or equivalent experience"
+    }
+  ]
+}

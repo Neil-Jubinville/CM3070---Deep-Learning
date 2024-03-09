@@ -1,0 +1,66 @@
+{
+  "meta": [
+    {
+      "job_title": "Journeyman Marine Rigger",
+      "job_category": "Marine Trades",
+      "job_class": "Rigger",
+      "sector": "Marine Trades",
+      "salary": 45760,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Rigging",
+      "experience": 5
+    },
+    {
+      "skill": "Weight Handling Equipment",
+      "experience": 5
+    },
+    {
+      "skill": "Equipment Inspection",
+      "experience": 5
+    },
+    {
+      "skill": "Crane Assembly",
+      "experience": 5
+    },
+    {
+      "skill": "Work Documentation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Assemble and install rigging gear for lifting, lowering, and moving heavy objects."
+    },
+    {
+      "duty": "Work with weight handling equipment such as fork trucks, cranes, wire ropes, and slings."
+    },
+    {
+      "duty": "Inspect, maintain, and repair equipment of trade."
+    },
+    {
+      "duty": "Coordinate and arrange the work of several trades in connection with performing work from technical work documents, blueprints, specifications, written and/or oral instructions."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "5+ years experience in rigging in shipyards"
+    },
+    {
+      "credential": "CUI Certification"
+    },
+    {
+      "credential": "Maritime OSHA 10 Certification and VRSA Certified"
+    }
+  ]
+}

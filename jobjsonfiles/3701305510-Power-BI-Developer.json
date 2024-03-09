@@ -1,0 +1,154 @@
+{
+  "meta": [
+    {
+      "job_title": "Power BI Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "SQL Development",
+      "experience": 5
+    },
+    {
+      "skill": "MS SQL Server",
+      "experience": 5
+    },
+    {
+      "skill": "SSMS",
+      "experience": 5
+    },
+    {
+      "skill": "SSAS",
+      "experience": 5
+    },
+    {
+      "skill": "SSIS",
+      "experience": 5
+    },
+    {
+      "skill": "SSRS",
+      "experience": 5
+    },
+    {
+      "skill": "Power BI",
+      "experience": 5
+    },
+    {
+      "skill": "Power Query",
+      "experience": 5
+    },
+    {
+      "skill": "Power Automation",
+      "experience": 5
+    },
+    {
+      "skill": "Power Apps",
+      "experience": 5
+    },
+    {
+      "skill": "Visual Studio",
+      "experience": 5
+    },
+    {
+      "skill": "DevOps",
+      "experience": 5
+    },
+    {
+      "skill": "Data Architecting",
+      "experience": 5
+    },
+    {
+      "skill": "Modeling",
+      "experience": 5
+    },
+    {
+      "skill": "ETL Tools",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Azure Data Factory",
+      "experience": 5
+    },
+    {
+      "skill": "Data Warehouse",
+      "experience": 5
+    },
+    {
+      "skill": "Data Lake",
+      "experience": 5
+    },
+    {
+      "skill": "SAP",
+      "experience": 5
+    },
+    {
+      "skill": "BI Solutions",
+      "experience": 5
+    },
+    {
+      "skill": "Data Visualizations",
+      "experience": 5
+    },
+    {
+      "skill": "Dashboards",
+      "experience": 5
+    },
+    {
+      "skill": "Data Replication",
+      "experience": 5
+    },
+    {
+      "skill": "Data Transformation",
+      "experience": 5
+    },
+    {
+      "skill": "SAP SLT",
+      "experience": 5
+    },
+    {
+      "skill": "On-Prem Data Management",
+      "experience": 5
+    },
+    {
+      "skill": "Cloud Data Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, create, and maintain complex relational database models and data warehousing technologies."
+    },
+    {
+      "duty": "Develop stored procedures, views, and tables using SQL."
+    },
+    {
+      "duty": "Utilize Microsoft Power tools such as Power BI, Power Query, Power Automation, and Power Apps for data analysis and reporting."
+    },
+    {
+      "duty": "Use Microsoft development tools such as Visual Studio and DevOps to architect and model data using ETL tools including Microsoft Azure Data Factory, Data Warehouse, and Data Lake."
+    },
+    {
+      "duty": "Employ data replication and transformation tools such as SAP SLT for data management."
+    },
+    {
+      "duty": "Work with data both on-prem and in the cloud, including experience with SAP."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science, Information Technology, or a related field (Master's preferred)"
+    }
+  ]
+}

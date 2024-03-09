@@ -1,0 +1,89 @@
+{
+  "meta": [
+    {
+      "job_title": "Principal Software Engineer",
+      "job_category": "Software Engineering",
+      "job_class": "Principal",
+      "sector": "Software Engineering",
+      "salary": 150000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Cloud-Native Technologies",
+      "experience": 10
+    },
+    {
+      "skill": ".NET Technologies",
+      "experience": 10
+    },
+    {
+      "skill": "UI Development (WPF, Angular)",
+      "experience": 10
+    },
+    {
+      "skill": "Microservices Architecture",
+      "experience": 10
+    },
+    {
+      "skill": "Java/J2EE",
+      "experience": 7
+    },
+    {
+      "skill": "Distributed Systems (Kafka, Rabbit MQ)",
+      "experience": 10
+    },
+    {
+      "skill": "Cache Systems (Redis)",
+      "experience": 10
+    },
+    {
+      "skill": "Desktop/Web Application Development",
+      "experience": 10
+    },
+    {
+      "skill": "Security and Compliance Integration",
+      "experience": 10
+    },
+    {
+      "skill": "Problem-Solving and Technical Leadership",
+      "experience": 10
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Lead and coordinate technical discussions, providing guidance and direction to engineering teams."
+    },
+    {
+      "duty": "Deliver scalable and secure cloud-native architecture for enterprise-scale applications."
+    },
+    {
+      "duty": "Work with stakeholders to integrate customer enterprise systems and ensure seamless operations."
+    },
+    {
+      "duty": "Serve as a Subject Matter Expert for technical architecture, tools, and runtime efficiency."
+    },
+    {
+      "duty": "Coach and mentor engineering teams on best practices and drive product architecture vision."
+    },
+    {
+      "duty": "Demonstrate expert level skill in problem decomposition and ability to navigate through ambiguity."
+    },
+    {
+      "duty": "Stay up to date on the latest industry trends and be a Subject Matter Expert in the field."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 150,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s Degree or equivalent in Computer Science, Information Technology, MIS, Engineering, or a closely related field of study (Master's preferred)"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Associate",
+      "job_category": "Sales",
+      "job_class": "Associate",
+      "sector": "Sales",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Team Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Merchandising",
+      "experience": 3
+    },
+    {
+      "skill": "Retail Sales",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Greet customers and provide excellent customer service"
+    },
+    {
+      "duty": "Educate customers about product knowledge"
+    },
+    {
+      "duty": "Communicate effectively with the team"
+    },
+    {
+      "duty": "Organize and stock merchandise as necessary"
+    },
+    {
+      "duty": "Maintain showroom appearance"
+    }
+  ]
+}

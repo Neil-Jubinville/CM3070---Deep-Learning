@@ -1,0 +1,65 @@
+{
+  "meta": [
+    {
+      "job_title": "Box Machine Operator",
+      "job_category": "Manufacturing",
+      "job_class": "Operator",
+      "sector": "Manufacturing",
+      "salary": 40000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Feed flat cardboard stock into box machine."
+    },
+    {
+      "duty": "Check and reload glue, lubricating and maintaining the box machine."
+    },
+    {
+      "duty": "Assure the Production line is stocked up with necessary boxes at all times."
+    },
+    {
+      "duty": "Prepare boxes for next shift."
+    },
+    {
+      "duty": "Maintain machine and operating area clean."
+    },
+    {
+      "duty": "Review package quality to ensure it meets company standards."
+    },
+    {
+      "duty": "Other duties as assigned."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Attention to Detail",
+      "experience": 5
+    },
+    {
+      "skill": "Machine Operation",
+      "experience": 3
+    },
+    {
+      "skill": "Maintenance",
+      "experience": 3
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 3
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 50,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "meta": [
+    {
+      "job_title": "Field Service Technician",
+      "job_category": "Engineering",
+      "job_class": "Technician",
+      "sector": "Medical",
+      "remote": false,
+      "salary": 70000
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Healthcare Technical Experience",
+      "experience": 3
+    },
+    {
+      "skill": "Troubleshooting",
+      "experience": 3
+    },
+    {
+      "skill": "Repairing Medical Devices",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Basic Software Programs",
+      "experience": 3
+    },
+    {
+      "skill": "Medical Device Industry Knowledge",
+      "experience": 3
+    },
+    {
+      "skill": "Equipment Assembly and Disassembly",
+      "experience": 3
+    },
+    {
+      "skill": "System Testing",
+      "experience": 3
+    },
+    {
+      "skill": "Technical Support",
+      "experience": 3
+    },
+    {
+      "skill": "Biomedical Maintenance",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Troubleshoot and repair medical devices, ensuring accurate documentation of activities."
+    },
+    {
+      "duty": "Perform preventive maintenance on medical devices as required by the customer, including installation and implementation of new devices."
+    },
+    {
+      "duty": "Conduct routine system checks, record data from product tests, and maintain stock of parts and tools assigned by the customer."
+    },
+    {
+      "duty": "Be available 24/7 for on-call support, including travel locally to customer locations and lifting up to 50 pounds."
+    },
+    {
+      "duty": "Comply with client requirements for on-site services, including vaccination compliance and using appropriate PPE."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 80,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Active and unrestricted driver's license is required."
+    },
+    {
+      "credential": "Experience in healthcare, field service, engineering, biomedical, or technical field is beneficial."
+    },
+    {
+      "credential": "Comfort with lifting up to 50 pounds and using basic software programs."
+    },
+    {
+      "credential": "Compliance with client requirements for on-site work, including vaccination compliance."
+    }
+  ]
+}

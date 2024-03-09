@@ -1,0 +1,60 @@
+{
+  "meta": [
+    {
+      "job_title": "Oligonucleotide Production Technician I",
+      "job_category": "Life Sciences",
+      "job_class": "Technician",
+      "sector": "Manufacturing",
+      "salary": 29000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Manufacturing",
+      "experience": 2
+    },
+    {
+      "skill": "Quality Control",
+      "experience": 2
+    },
+    {
+      "skill": "Lab Equipment Maintenance",
+      "experience": 2
+    },
+    {
+      "skill": "Chemical Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Technical Proficiency",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Manufacture quality custom oligonucleotide products efficiently, within the guidelines set forth by the Quality System."
+    },
+    {
+      "duty": "Operate various oligo synthesis, deprotection, and analytical instrumentation."
+    },
+    {
+      "duty": "Maintain and monitor lab equipment as well as a chemical reagent delivery system."
+    },
+    {
+      "duty": "Perform safe handling and disposal of all synthesis chemicals appropriately and according to EH&S policy."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 60,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelors Degree or Master's Degree preferred in Life Sciences."
+    }
+  ]
+}

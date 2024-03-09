@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Licensed Mental Health Professional",
+      "job_category": "Therapist",
+      "job_class": "Professional",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Counseling",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Supervision",
+      "experience": 5
+    },
+    {
+      "skill": "Private Practice Management",
+      "experience": 5
+    },
+    {
+      "skill": "Telehealth Services",
+      "experience": 5
+    },
+    {
+      "skill": "EMDR Certification",
+      "experience": 5
+    },
+    {
+      "skill": "Specialized Therapy Training",
+      "experience": 5
+    },
+    {
+      "skill": "Couples/Relationship Therapy",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Consultation",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide counseling and therapy services for individuals, couples, and families, both in-person and via telehealth."
+    },
+    {
+      "duty": "Supervise and mentor associate level licensed practitioners in clinical practice and professional development."
+    },
+    {
+      "duty": "Manage private practice operations, including billing/insurance, credentialing, and electronic records."
+    },
+    {
+      "duty": "Offer specialized therapy services such as EMDR, Couples/Relationship Therapy, and other certifications."
+    },
+    {
+      "duty": "Participate in clinical consultation, contribute to the team, and maintain quality care standards for clients."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Licensed (or license eligible) LCSW, LPC, LMFT, or licensed Psychologist in Georgia."
+    },
+    {
+      "credential": "Master's degree in Psychology, Counseling, Social Work, or related field."
+    }
+  ]
+}

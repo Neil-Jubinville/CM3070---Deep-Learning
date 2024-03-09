@@ -1,0 +1,79 @@
+{
+  "meta": [
+    {
+      "job_title": "Administrative Assistant",
+      "job_category": "Administrative",
+      "job_class": "Assistant",
+      "sector": "Management",
+      "salary": 42000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Verbal Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Written Communication",
+      "experience": 3
+    },
+    {
+      "skill": "Phone Etiquette",
+      "experience": 3
+    },
+    {
+      "skill": "Customer Service",
+      "experience": 3
+    },
+    {
+      "skill": "Microsoft Office",
+      "experience": 3
+    },
+    {
+      "skill": "Organizational Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Clerical Procedures",
+      "experience": 3
+    },
+    {
+      "skill": "Independence",
+      "experience": 3
+    },
+    {
+      "skill": "Multi-line Phone System",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Receive and distribute mail, navigate phone queue systems, maintain filing systems, and enter data for assigned projects."
+    },
+    {
+      "duty": "Greet guests, retrieve information, and respond to administrative inquiries."
+    },
+    {
+      "duty": "Coordinate meetings, maintain office supplies, and assist with projects and event planning."
+    },
+    {
+      "duty": "Handle incoming checks, process outgoing mail, and perform other related duties as assigned."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Associates degree preferred."
+    },
+    {
+      "credential": "Prior experience in an administrative role preferred."
+    }
+  ]
+}

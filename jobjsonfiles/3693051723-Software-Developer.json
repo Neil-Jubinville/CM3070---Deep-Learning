@@ -1,0 +1,63 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Developer",
+      "job_category": "Software Engineering",
+      "job_class": "Developer",
+      "sector": "Software Engineering",
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "VB 6.0",
+      "experience": 3
+    },
+    {
+      "skill": "VB .Net",
+      "experience": 3
+    },
+    {
+      "skill": "Code Migration",
+      "experience": 3
+    },
+    {
+      "skill": "Security Vulnerability Resolution",
+      "experience": 3
+    },
+    {
+      "skill": "Interpersonal Skills",
+      "experience": 3
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Understand and migrate existing VB6.0 code to VB .Net"
+    },
+    {
+      "duty": "Independently maintain and migrate existing code to VB .Net"
+    },
+    {
+      "duty": "Resolve security vulnerabilities in the code"
+    },
+    {
+      "duty": "Interface effectively with internal teams and stakeholders"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Computer Science or related field (Master's preferred)"
+    }
+  ]
+}

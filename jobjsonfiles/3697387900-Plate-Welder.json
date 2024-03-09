@@ -1,0 +1,53 @@
+{
+  "meta": [
+    {
+      "job_title": "Plate Welder",
+      "job_category": "Welding",
+      "job_class": "Welder",
+      "sector": "Construction",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Welding",
+      "experience": 5
+    },
+    {
+      "skill": "Fabrication",
+      "experience": 5
+    },
+    {
+      "skill": "Steel Structure Welding",
+      "experience": 5
+    },
+    {
+      "skill": "Weld Testing",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Weld and fabricate massive steel structures like large steel girders, beams, and nodes for skyscrapers and large power generation equipment."
+    },
+    {
+      "duty": "Perform weld testing using 3 position / 1g, 2, g & 3g , 3 position / \u00bd\u201d Thick carbon steel plates."
+    },
+    {
+      "duty": "Qualifications include 3-5 years of industry experience, High School Diploma / GED, NCCER and OSHA 10 preferred, and passing a pre-employment drug screen."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 50,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "3-5 years industry experience, High School Diploma / GED, NCCER and OSHA 10 preferred."
+    }
+  ]
+}

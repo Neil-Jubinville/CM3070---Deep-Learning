@@ -1,0 +1,87 @@
+{
+  "meta": [
+    {
+      "job_title": "Sales Supervisor",
+      "job_category": "Sales",
+      "job_class": "Supervisor",
+      "sector": "Sales",
+      "salary": 55000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Management",
+      "experience": 5
+    },
+    {
+      "skill": "Lead Generation",
+      "experience": 5
+    },
+    {
+      "skill": "Sales Reporting",
+      "experience": 5
+    },
+    {
+      "skill": "Product Knowledge",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-Solving",
+      "experience": 5
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 5
+    },
+    {
+      "skill": "Task Management",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Understand customer needs and offer solutions and support"
+    },
+    {
+      "duty": "Research potential leads from business directories, web searches, or digital resources"
+    },
+    {
+      "duty": "Receive and report on all sales leads"
+    },
+    {
+      "duty": "Answer potential customer questions and follow-up call questions"
+    },
+    {
+      "duty": "Work with client advisors when closing sales"
+    },
+    {
+      "duty": "Assist client advisors to meet and exceed goals"
+    },
+    {
+      "duty": "Track weekly, monthly, and quarterly performance and sales metrics"
+    },
+    {
+      "duty": "Meet all sales quotas and goals"
+    },
+    {
+      "duty": "Perform deliveries as requested"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 70,
+      "student_teacher": 60,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School diploma or equivalent"
+    }
+  ]
+}

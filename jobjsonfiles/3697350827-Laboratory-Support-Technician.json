@@ -1,0 +1,62 @@
+{
+  "meta": [
+    {
+      "job_title": "Laboratory Support Technician",
+      "job_category": "Laboratory",
+      "job_class": "Support Technician",
+      "sector": "Research",
+      "salary": 52000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Instrumentation",
+      "experience": 2
+    },
+    {
+      "skill": "Lab Equipment Operation",
+      "experience": 2
+    },
+    {
+      "skill": "Inventory Management",
+      "experience": 2
+    },
+    {
+      "skill": "Computer Applications",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Setup, operate and maintain instruments and other equipment used in performing lab tests and experiments."
+    },
+    {
+      "duty": "Order supplies and materials as required; maintain records."
+    },
+    {
+      "duty": "Setup laboratory media/equipment for demonstrations."
+    },
+    {
+      "duty": "May clean instruments, glassware and other lab equipment."
+    },
+    {
+      "duty": "Prepare and process laboratory samples for use in assigned tests."
+    },
+    {
+      "duty": "Perform other duties as assigned"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 75,
+      "introvert_extrovert": 150
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High school diploma, GED Certificate or Vocational School Diploma"
+    }
+  ]
+}

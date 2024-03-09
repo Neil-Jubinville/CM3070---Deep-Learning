@@ -1,0 +1,78 @@
+{
+  "meta": [
+    {
+      "job_title": "Clinic Assistant",
+      "job_category": "Pet Care",
+      "job_class": "Assistant",
+      "sector": "Healthcare",
+      "salary": 18900,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Customer Service",
+      "experience": 2
+    },
+    {
+      "skill": "Sales",
+      "experience": 2
+    },
+    {
+      "skill": "Animal Handling",
+      "experience": 2
+    },
+    {
+      "skill": "Basic Medical Knowledge",
+      "experience": 2
+    },
+    {
+      "skill": "Critical Thinking",
+      "experience": 2
+    },
+    {
+      "skill": "Time Management",
+      "experience": 2
+    },
+    {
+      "skill": "Punctuality",
+      "experience": 2
+    },
+    {
+      "skill": "Teamwork",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Providing professional, efficient, and positive support to clients, pets, and doctors."
+    },
+    {
+      "duty": "Keeping examination areas clean and prepared for patients."
+    },
+    {
+      "duty": "Handling pets for wellness procedures and sample collection."
+    },
+    {
+      "duty": "Preparing and reviewing discharge paperwork with clients."
+    },
+    {
+      "duty": "Recommend services and products aligned with the standard of care."
+    },
+    {
+      "duty": "Leading a culture of safety in the wellness center."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 70,
+      "introvert_extrovert": 130
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "High School Diploma or equivalent required"
+    }
+  ]
+}

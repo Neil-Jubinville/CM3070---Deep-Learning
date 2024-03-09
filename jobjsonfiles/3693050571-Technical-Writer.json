@@ -1,0 +1,98 @@
+{
+  "meta": [
+    {
+      "job_title": "Technical Writer",
+      "job_category": "Writing",
+      "job_class": "Technical Writer",
+      "sector": "Healthcare",
+      "salary": 100000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Technical Writing",
+      "experience": 5
+    },
+    {
+      "skill": "HL7",
+      "experience": 4
+    },
+    {
+      "skill": "Healthcare Systems",
+      "experience": 5
+    },
+    {
+      "skill": "API Documentation",
+      "experience": 5
+    },
+    {
+      "skill": "Clinical Data Standards",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Word",
+      "experience": 5
+    },
+    {
+      "skill": "Confluence",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Methodology",
+      "experience": 4
+    },
+    {
+      "skill": "Pharmaceutical Knowledge",
+      "experience": 4
+    },
+    {
+      "skill": "Regulatory Compliance",
+      "experience": 4
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Create and maintain technical documentation for healthcare interoperability projects, including API specifications, data mapping guides, integration workflows, and data exchange protocols."
+    },
+    {
+      "duty": "Collaborate with cross-functional teams, including software developers, healthcare experts, and product managers, to gather information and ensure accurate representation of complex technical concepts."
+    },
+    {
+      "duty": "Develop user guides, tutorials, and knowledge base articles that effectively communicate the functionality of healthcare systems and their interfaces to diverse audiences."
+    },
+    {
+      "duty": "Research, analyze, and interpret clinical data standards, regulatory requirements, and industry guidelines to ensure compliance in all documentation produced."
+    },
+    {
+      "duty": "Work closely with subject matter experts to validate and update existing documentation, ensuring its accuracy and relevance over time."
+    },
+    {
+      "duty": "Assist in the creation and review of test cases and validation documentation to ensure alignment with requirements and standards."
+    },
+    {
+      "duty": "Support the creation of release notes and change logs to communicate updates and improvements to internal teams and end-users."
+    },
+    {
+      "duty": "Participate in the development and improvement of documentation processes and templates to enhance efficiency and consistency."
+    },
+    {
+      "duty": "Collaborate with the marketing and sales teams to provide technical input for external-facing materials, such as whitepapers and product brochures."
+    },
+    {
+      "duty": "Stay abreast of industry trends and technological advancements in healthcare interoperability, SDLC, clinical systems, claims processing, and pharmaceuticals."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 50,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Technical Communication, Computer Science, Healthcare Informatics, or a related field. (Master's preferred)"
+    }
+  ]
+}

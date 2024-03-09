@@ -1,0 +1,56 @@
+{
+  "meta": [
+    {
+      "job_title": "Support Engineer",
+      "job_category": "Information Technology",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 75000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "System Administration",
+      "experience": 5
+    },
+    {
+      "skill": "Virtualization",
+      "experience": 5
+    },
+    {
+      "skill": "Windows OS",
+      "experience": 5
+    },
+    {
+      "skill": "Linux OS",
+      "experience": 5
+    },
+    {
+      "skill": "Networking",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft Azure",
+      "experience": 3
+    },
+    {
+      "skill": "Cloud Computing",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide technical assistance to computer system users, answer questions, and resolve computer problems."
+    },
+    {
+      "duty": "Install software, perform hardware testing remotely, and verify correct operations."
+    },
+    {
+      "duty": "Maintain records of daily data communication transactions, problems, and remedial actions taken."
+    },
+    {
+      "duty": "Read technical manuals, confer with users, or conduct computer diagnostics to investigate and resolve problems."
+    }
+  ]
+}

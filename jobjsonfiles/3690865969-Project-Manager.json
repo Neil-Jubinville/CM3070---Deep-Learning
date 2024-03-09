@@ -1,0 +1,74 @@
+{
+  "meta": [
+    {
+      "job_title": "Project Manager",
+      "job_category": "Construction",
+      "job_class": "Manager",
+      "sector": "Construction",
+      "salary": 105000,
+      "remote": false
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Oversee all phases of the custom home building process, ensuring projects are completed on time and within scope and budget."
+    },
+    {
+      "duty": "Work closely with the design team, architect, engineers, and subcontractors to develop plans, establish timelines, and calculate labor and material costs."
+    },
+    {
+      "duty": "Effectively monitor and present project updates to relevant stakeholders, clients, and project team members."
+    },
+    {
+      "duty": "Coach and support project team members with tasks assigned to them."
+    },
+    {
+      "duty": "Manage construction bids, equipment, and materials, ensuring compliance with safety regulations."
+    },
+    {
+      "duty": "Act as the main point of contact for communication with clients on project updates."
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Project Management",
+      "experience": 5
+    },
+    {
+      "skill": "Construction Management",
+      "experience": 5
+    },
+    {
+      "skill": "Team Leadership",
+      "experience": 5
+    },
+    {
+      "skill": "Budgeting",
+      "experience": 5
+    },
+    {
+      "skill": "Time Management",
+      "experience": 5
+    },
+    {
+      "skill": "Client Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Safety Regulations Compliance",
+      "experience": 5
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 100,
+      "introvert_extrovert": 80
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's Degree in Building Construction, Construction Management, Civil Engineering, Architecture, or equivalent experience. (Master's preferred)"
+    }
+  ]
+}

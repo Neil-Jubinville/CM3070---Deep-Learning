@@ -1,0 +1,71 @@
+{
+  "meta": [
+    {
+      "job_title": "Software Engineer",
+      "job_category": "Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 110000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": ".Net Development",
+      "experience": 5
+    },
+    {
+      "skill": "Application Support",
+      "experience": 5
+    },
+    {
+      "skill": "Problem-solving",
+      "experience": 5
+    },
+    {
+      "skill": "Technical Analysis",
+      "experience": 5
+    },
+    {
+      "skill": "Microsoft SQL Server",
+      "experience": 5
+    },
+    {
+      "skill": "Web Security",
+      "experience": 5
+    },
+    {
+      "skill": "Agile Framework",
+      "experience": 3
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide ongoing support of .Net applications in Production and test environments including responding to Service requests, Incident & Problem analysis, Service restoration and recovery, Security vulnerability remediation, Audits, and reporting as necessary"
+    },
+    {
+      "duty": "Participate in design, develop, test and debug/trouble-shoot .Net applications"
+    },
+    {
+      "duty": "Interface with other Software Engineers, Business Systems Analysts, and other stakeholders to deliver high quality solutions and maintain a stable application environment"
+    },
+    {
+      "duty": "Enable stability through proactive monitoring activities, security compliance, change management, troubleshooting issues and conducting root-cause analysis"
+    },
+    {
+      "duty": "Identify and participate in continuous improvement opportunities, system renewal, stability, upgrade, and Disaster Recovery projects"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 120,
+      "student_teacher": 60,
+      "introvert_extrovert": 180
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Degree in Computer Science, Computer Engineering, or equivalent discipline"
+    }
+  ]
+}

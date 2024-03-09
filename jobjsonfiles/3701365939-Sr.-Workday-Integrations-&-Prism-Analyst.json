@@ -1,0 +1,101 @@
+{
+  "meta": [
+    {
+      "job_title": "Sr. Workday Integrations & Prism Analyst",
+      "job_category": "HRIS Integration",
+      "job_class": "Senior Analyst",
+      "sector": "Technology",
+      "salary": 160000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Workday Integrations",
+      "experience": 7
+    },
+    {
+      "skill": "Prism",
+      "experience": 5
+    },
+    {
+      "skill": "Data Analysis",
+      "experience": 7
+    },
+    {
+      "skill": "Communication Skills",
+      "experience": 7
+    },
+    {
+      "skill": "SOAP and REST Web Services",
+      "experience": 7
+    },
+    {
+      "skill": "Middleware Technologies",
+      "experience": 7
+    },
+    {
+      "skill": "Data Validation/Error Resolution",
+      "experience": 7
+    },
+    {
+      "skill": "Technical Design",
+      "experience": 7
+    },
+    {
+      "skill": "EIBs & Core/Custom Connectors",
+      "experience": 7
+    },
+    {
+      "skill": "Workday Studio & Web Services",
+      "experience": 7
+    },
+    {
+      "skill": "System Configuration Documentation",
+      "experience": 7
+    },
+    {
+      "skill": "Test Planning & Test Cases",
+      "experience": 7
+    },
+    {
+      "skill": "Reports & Dashboards Creation",
+      "experience": 7
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Design, build, and maintain bidirectional integrations between Workday and other platforms with a focus on data quality and data security."
+    },
+    {
+      "duty": "Stay updated on Workday features and tools to enhance integration capabilities."
+    },
+    {
+      "duty": "Manage data transformation, validation, and error resolution for accurate and consistent data transfers."
+    },
+    {
+      "duty": "Monitor integration performance and identify opportunities for optimization and enhancement."
+    },
+    {
+      "duty": "Adhere to data security and compliance standards for integration solutions."
+    },
+    {
+      "duty": "Develop new reports and integrations for internal and external systems."
+    },
+    {
+      "duty": "Partner with stakeholders to create system configuration documents, functional specifications, and testing strategies."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 100,
+      "student_teacher": 80,
+      "introvert_extrovert": 120
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "7+ years of HRIS experience with 5 years as a Workday Integration SME.\nWorkday Integrations, Studio & PRISM (highly desirable) experience\nTechnical experience with building integrations between HR, Benefits, Payroll (ADP), and Financials Management systems (SAP).\nPrior experience with SOAP, REST web services, middleware technologies (Boomi, Mulesoft etc), and Oxygen XML developer.\nExcellent communication skills, oral, written, and interpersonal skills.\nWorkday certification in Integrations, Studio, and PRISM.\nKnowledge of Identity Access Management (IAM) and experience creating custom integration with the IAM.\nPrior BIRT report development experience.\nExperience with creating and managing data flow diagrams and Integration architecture diagrams in lucid chart/Visio."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "meta": [
+    {
+      "job_title": "Registered Nurse",
+      "job_category": "Healthcare",
+      "job_class": "Nursing",
+      "sector": "Healthcare",
+      "salary": 65000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "General Nursing Care",
+      "experience": 2
+    },
+    {
+      "skill": "Collaboration",
+      "experience": 2
+    },
+    {
+      "skill": "Patient Care",
+      "experience": 2
+    },
+    {
+      "skill": "Health Illness Management",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Provide general nursing care to patients and families in diverse healthcare settings while collaborating with the healthcare team."
+    },
+    {
+      "duty": "Accountable for the practice of nursing as defined by the Ohio Board of Nursing."
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 150,
+      "student_teacher": 100,
+      "introvert_extrovert": 50
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "BLS - Basic Life Support - American Heart Association, RN - Registered Nurse - Ohio Board of Nursing"
+    }
+  ]
+}

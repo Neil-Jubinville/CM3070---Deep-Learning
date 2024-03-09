@@ -1,0 +1,143 @@
+{
+  "meta": [
+    {
+      "job_title": "Ground Software Engineer II",
+      "job_category": "Software Engineering",
+      "job_class": "Engineer",
+      "sector": "Software Engineering",
+      "salary": 90000,
+      "remote": true
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Python",
+      "experience": 2
+    },
+    {
+      "skill": "Web-Based Software Architecture",
+      "experience": 3
+    },
+    {
+      "skill": "System Monitoring",
+      "experience": 2
+    },
+    {
+      "skill": "System Deployment",
+      "experience": 2
+    },
+    {
+      "skill": "System Configuration",
+      "experience": 2
+    },
+    {
+      "skill": "SQL",
+      "experience": 2
+    },
+    {
+      "skill": "Git",
+      "experience": 2
+    },
+    {
+      "skill": "Full-Stack Development",
+      "experience": 2
+    },
+    {
+      "skill": "Aerospace Industry",
+      "experience": 1
+    },
+    {
+      "skill": "Micro-Service Architectures",
+      "experience": 2
+    },
+    {
+      "skill": "Leadership",
+      "experience": 3
+    },
+    {
+      "skill": "Database Design",
+      "experience": 2
+    },
+    {
+      "skill": "InfluxDB",
+      "experience": 2
+    },
+    {
+      "skill": "PostgreSQL",
+      "experience": 2
+    },
+    {
+      "skill": "Kubernetes Orchestration",
+      "experience": 2
+    },
+    {
+      "skill": "OAuth Authentication",
+      "experience": 2
+    },
+    {
+      "skill": "CCSDS Standards",
+      "experience": 1
+    },
+    {
+      "skill": "Space Packet Protocol",
+      "experience": 1
+    },
+    {
+      "skill": "COP-1",
+      "experience": 1
+    },
+    {
+      "skill": "FastAPI",
+      "experience": 2
+    },
+    {
+      "skill": "NodeJS",
+      "experience": 2
+    },
+    {
+      "skill": "TypeScript",
+      "experience": 2
+    },
+    {
+      "skill": "Angular",
+      "experience": 2
+    },
+    {
+      "skill": "React",
+      "experience": 2
+    },
+    {
+      "skill": "Flight Software Development",
+      "experience": 2
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and evolve web-based software architecture for spacecraft operations"
+    },
+    {
+      "duty": "Work closely with flight software developers, operations personnel, and systems engineers to understand requirements and functional needs"
+    },
+    {
+      "duty": "Deploy and configure the Rocket Lab Ground Data System"
+    },
+    {
+      "duty": "Establish monitoring and alerting to detect system degradation and outages"
+    },
+    {
+      "duty": "Identify ground systems issues and provide technical insight for resolution"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 60,
+      "introvert_extrovert": 90
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor\u2019s degree in engineering or other technical discipline (Master's preferred)"
+    }
+  ]
+}

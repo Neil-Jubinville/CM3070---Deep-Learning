@@ -1,0 +1,75 @@
+{
+  "meta": [
+    {
+      "job_title": "Third grade teacher",
+      "job_category": "Education",
+      "job_class": "Teacher",
+      "sector": "Education",
+      "salary": 45000,
+      "remote": false
+    }
+  ],
+  "skills": [
+    {
+      "skill": "Teaching",
+      "experience": 5
+    },
+    {
+      "skill": "Lesson Planning",
+      "experience": 5
+    },
+    {
+      "skill": "Classroom Management",
+      "experience": 5
+    },
+    {
+      "skill": "Student Assessment",
+      "experience": 5
+    },
+    {
+      "skill": "Differentiated Instruction",
+      "experience": 5
+    },
+    {
+      "skill": "Parent-Teacher Communication",
+      "experience": 5
+    },
+    {
+      "skill": "Curriculum Development",
+      "experience": 5
+    },
+    {
+      "skill": "Educational Technology",
+      "experience": 5
+    }
+  ],
+  "duties_responsibilities": [
+    {
+      "duty": "Develop and implement lesson plans that meet the individual needs, interests, and abilities of students"
+    },
+    {
+      "duty": "Manage classroom activities to create a safe, supportive, and positive learning environment"
+    },
+    {
+      "duty": "Assess students' progress and use data to plan further instruction and provide additional support when needed"
+    },
+    {
+      "duty": "Communicate with parents/guardians to discuss student progress and address any concerns or issues"
+    },
+    {
+      "duty": "Stay up-to-date with educational technology and implement it effectively in the classroom"
+    }
+  ],
+  "subjective_elements": [
+    {
+      "soldier_general": 80,
+      "student_teacher": 120,
+      "introvert_extrovert": 100
+    }
+  ],
+  "education_certification": [
+    {
+      "credential": "Bachelor's degree in Education or related field (Master's preferred)"
+    }
+  ]
+}
