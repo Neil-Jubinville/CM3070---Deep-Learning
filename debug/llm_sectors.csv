@@ -1,0 +1,981 @@
+sector,count
+Software Engineering,1661
+Sales,1534
+Healthcare,1386
+Management,734
+Finance,697
+Marketing,655
+Engineering,372
+Manufacturing,319
+Construction,310
+Retail,294
+Logistics,251
+Hospitality,207
+Technology,169
+Education,167
+Legal,152
+Human Resources,144
+Accounting,136
+Customer Service,135
+Information Technology,115
+Insurance,114
+IT,108
+Financial Services,97
+Transportation,93
+Operations,92
+Supply Chain,86
+Administration,75
+Automotive,72
+Maintenance,64
+Real Estate,60
+Medical,47
+Property Management,47
+Security,46
+HR,42
+Law,40
+Media,40
+Science,40
+Design,38
+Procurement,35
+Food Service,34
+Energy,32
+Banking,30
+Administrative,28
+Nonprofit,28
+Research,25
+Service,25
+Industrial,24
+Social Services,23
+Aerospace,23
+Pharmaceutical,22
+Data Analysis,21
+Assessment & Qualifications,21
+Environmental,21
+Business,20
+Consulting,20
+Architecture,18
+Veterinary,17
+Facilities,17
+Non-Profit,15
+Defense,15
+Government,15
+Restaurant,15
+Oil & Gas,15
+Wealth Management,14
+Gaming,13
+Mechanical,12
+Biotechnology,12
+Telecommunications,12
+Customer Success,12
+Public Relations,12
+Food and Beverage,12
+Civil Engineering,12
+Creative,12
+Mental Health,12
+Fashion,12
+Aviation,12
+Mechanical Engineering,12
+Compliance,11
+Cybersecurity,11
+Warehousing,11
+Warehouse,10
+Research and Development,10
+R&D,10
+Quality Assurance,10
+Medical Devices,9
+Technical,9
+Product Dev Management,9
+Financial,9
+Life Sciences,9
+Culinary,9
+Sports,9
+Recruitment,9
+Entertainment,9
+Construction & Development,8
+Environmental Services,8
+Cyber Security,8
+Industrial Engineering,8
+Technical Support,8
+Business Operations,8
+Customer Support,8
+Oil and Gas,8
+Environmental Science,8
+Medical Device,8
+Social Work,7
+Talent Acquisition,7
+Renewable Energy,7
+Environmental Engineering,7
+Safety,7
+Facilities Management,7
+Biopharmaceutical,7
+Health Care,7
+Project Management,7
+Non-profit,7
+Pharmacy,7
+Electrical Engineering,6
+Accounting/Finance,6
+Health & Safety,6
+Customer Experience,6
+Advertising,6
+Pharmaceuticals,6
+Venture Capital,6
+Environmental Health and Safety,6
+Content Creation,6
+Production,6
+Corporate,6
+Research & Development,6
+Product Engineering,6
+Beauty Services,6
+Risk Management,6
+Public Health,6
+Data Management,6
+Nursing,6
+Health and Wellness,6
+Biotech,5
+Information Security,5
+Fitness,5
+Quality Control,5
+Behavioral Health,5
+Food Services,5
+Business Services,5
+Pet Care,5
+Agriculture,5
+Support,5
+Tax,5
+Food & Beverage,5
+Clinical Research,5
+Salon,5
+Writing,5
+Business Analysis,5
+Professional Services,5
+Field Operations,5
+Event Management,5
+Government and Public Services,5
+Public Works,5
+Renewables,4
+Truck Maintenance,4
+Business Development,4
+Beauty,4
+Supply Chain Solutions,4
+Compliance and Investigations,4
+Analytics,4
+Land Development,4
+"Energy, Manufacturing, and Bioprocessing",4
+Purchasing,4
+Talent Management,4
+Data Science,4
+Data Analytics,4
+Warehouse and Transportation,4
+Animal Care,4
+Accounting and Finance,4
+Medical Technology,4
+Training and Development,4
+Data,4
+Travel,4
+Private Equity,4
+Recruiting,4
+Sales & Marketing,4
+Legal Services,4
+Transportation and Logistics,3
+Health,3
+Apparel,3
+Chemistry,3
+Medical Research,3
+Learning & Development,3
+Waste Management,3
+Library,3
+Mining,3
+Communications,3
+Human Services,3
+HVAC,3
+High Performance Facilities,3
+Community Development,3
+Pest Control,3
+Events,3
+Academic,3
+Therapy,3
+Graphic Design,3
+Business Solutions,3
+Youth Development,3
+Infrastructure,3
+Interior Design,3
+Digital Marketing,3
+Asset Management,3
+Data & Analytics,3
+Biomedical,3
+Loss Prevention,3
+Integrated Supply Chain,3
+Health and Fitness,3
+Water Resources,3
+Fire Protection,3
+Public Safety,3
+Client Services,3
+Finance & Accounting,3
+Medical Affairs,3
+Beauty and Wellness,3
+Fundraising,3
+Hotel,3
+Industrial Maintenance,3
+Merchandising,3
+Sales and Marketing,3
+Childcare,3
+Health & Wellness,3
+Food Safety,3
+Supply Chain Management,3
+Teaching,3
+Utilities,3
+Pharmaceutical Manufacturing,3
+Clinical Care,3
+Business Leadership,2
+Consumer Goods,2
+Business Intelligence,2
+Distribution,2
+Custodial,2
+Clinical Data Management,2
+Financial Planning and Analysis,2
+Cleaning,2
+EHS,2
+Public Affairs,2
+Business Management,2
+Community Management,2
+Repair,2
+Retail Banking,2
+Electronics,2
+Program & Project Management,2
+Food Production,2
+Pharma,2
+Science and Engineering,2
+Salon Services,2
+Arts & Entertainment,2
+Veterinary Services,2
+Laboratory,2
+Dentistry,2
+Facility Management,2
+Facilities Maintenance,2
+Emergency Services,2
+Clinical,2
+Custodial Services,2
+Investment Banking,2
+Skilled Trades,2
+Investment Management,2
+Environment and Planning,2
+Aircraft Maintenance,2
+Health Insurance,2
+Services,2
+Actuarial,2
+Law Enforcement,2
+Funeral Services,2
+Corporate Development,2
+Communication,2
+Sports Medicine,2
+Structural Engineering,2
+Clinical Laboratory,2
+Community Services,2
+Housekeeping,2
+Health and Human Services,2
+Environmental Consulting,2
+Biomedicine,2
+Laboratory Animal Science,2
+Product Management,2
+Investment,2
+Call Center,2
+Electrical,2
+Environmental Safety,2
+Environmental Management,2
+Admin,2
+Aerospace Engineering,2
+Supply Chain & Logistics,2
+Automotive Manufacturing,2
+Tech,2
+Staffing,2
+AI,2
+People and Culture,2
+Sustainability,2
+Sports and Entertainment,2
+Physical Security,2
+Biologics,2
+Media & Entertainment,2
+Public Services,2
+Warehousing and Logistics,2
+Science and Technology,2
+Office Management,2
+Office Support,2
+Commercial Construction,2
+eCommerce,2
+Maritime,2
+Technology Services,2
+Service Operations,2
+Property Maintenance,2
+Training,2
+Office,2
+Financial Management,2
+Wellbeing,2
+Inventory Management,2
+Vehicle Service,2
+Biomanufacturing,2
+Health and Safety,2
+General Administration,2
+Aerospace/Defense,2
+Bakery,2
+Localization,2
+Customer Relations,2
+Power and Energy,2
+Community Relations,2
+Life Science,2
+Corporate Accounting,2
+Systems Engineering,2
+Logistics and Transportation,2
+Warehouse Operations,2
+Claims,2
+BioSpecimen Management,2
+Health and Medical Services,1
+Radiology,1
+Design Engineering,1
+Metallurgical Engineering,1
+Facilities & Operations,1
+Industrial Gases,1
+Environmental Compliance,1
+Clinical Education,1
+Fixed Base Operations (FBO),1
+Service - Other,1
+"Commercial, Industrial, Institutional",1
+Government Relations,1
+Nuclear Technologies and National Security,1
+Technology Management,1
+Contracts,1
+Climate Change,1
+Clinical Laboratories,1
+Urban Mobility,1
+Physical Therapy,1
+Science & Engineering,1
+Marine and Offshore,1
+Property Technology,1
+Digital Transformation,1
+Pharmaceutical Sciences,1
+Academia,1
+Internal Audit,1
+CRM,1
+Design + Engineering,1
+Cafeteria,1
+Enterprise Business Services,1
+Clinical Operations,1
+Customer service,1
+HVAC Compliance,1
+Commercial Finance & Analytics,1
+Engineering and Technology,1
+Finance and Accounting,1
+"Transportation, International Logistics & Customs",1
+Patient Care,1
+Architecture and Engineering,1
+Wellness,1
+Organizational Transformation,1
+Biophysics,1
+Advanced Scientific Computing,1
+IT Consulting/Services,1
+Finance & Operations,1
+Social Sciences,1
+Energy & Environment Science & Technology,1
+Cosmetics,1
+Product Design,1
+Strategy,1
+Anatomy and Cell Biology,1
+Analytical,1
+Warehousing and Distribution,1
+Manufacturing and Warehouse,1
+Biotech/Pharma,1
+Customer Care,1
+Business and Trade,1
+Spiritual,1
+Field Service,1
+Intelligence,1
+Office Administration,1
+Bank Operations,1
+Operations/Processing,1
+Environmental Activism,1
+Construction & Facilities,1
+Psych & Behavioral Science,1
+Commercial Finance,1
+Graphics Production,1
+Quality,1
+Data Collection,1
+Business Planning,1
+Operations and Support,1
+Horticulture,1
+Mineral Processing,1
+Investing,1
+Managed IT Services,1
+Facility Maintenance,1
+HR and Insurance,1
+Legal Technology,1
+Medical/Pharmaceutical,1
+IT Enterprise Infrastructure,1
+Environmental Health & Safety,1
+Radio,1
+Foodservice Systems,1
+Television Broadcasting,1
+Conservation,1
+Data Engineering & Analytics,1
+Food Science,1
+EPC Functions & PGPL,1
+Pastoral,1
+Health Brain Initiative,1
+Medical Insurance,1
+Construction and Mining,1
+Federal Solutions,1
+Science and Research,1
+Broadcasting,1
+Heavy Duty Equipment,1
+Safety and Security,1
+Fleet Maintenance,1
+Account Management & Service,1
+Imaging Engineering,1
+Oncology Discovery,1
+Ministry,1
+Processing,1
+MedTech,1
+Zoology,1
+"Environmental, Social and Governance",1
+Religious Services,1
+Retail and Commerce,1
+Post-Market,1
+Field,1
+Civil Infrastructure,1
+Applied Behavior Analysis,1
+Nutrition Services,1
+Investment Services,1
+Film,1
+Holistic Counseling,1
+Logistics and Warehousing,1
+Support Services,1
+Aerospace and Defense,1
+Material Handling,1
+Firefighting,1
+Non-Clinical,1
+Commercial Business,1
+Financial Planning & Analysis,1
+Chemical,1
+Educational Assessment,1
+Hospital Administration,1
+Policy,1
+Industrial Automation,1
+Wireless Telecommunication Engineering,1
+Capital Planning,1
+Banking & Finance,1
+Media Operations,1
+Operations & Technology,1
+Healthcare Insurance,1
+Environmental Planning,1
+Technology - Data Analytics & Management,1
+Water/Wastewater Utility,1
+Health Research,1
+"Education, Non-profit",1
+Advocacy,1
+Public Accounting,1
+Information Systems,1
+House Maintenance,1
+Cloud Security,1
+Beverage Manufacturing,1
+Financial Operations,1
+Physical Labor,1
+Market Research,1
+Business Consulting,1
+Market Access and Public Affairs,1
+Civil and Structural,1
+Technical Services & Solutions,1
+Workplace Management,1
+Food Industry,1
+Financial Technology,1
+Labor and Employment Relations,1
+Insurance Operations,1
+Scientific,1
+Higher Education,1
+Power Generation,1
+Oil and Gas Services,1
+HR Technology,1
+Property Casualty Insurance,1
+Finance and Real Estate,1
+Gas Operations,1
+Compensation,1
+Biopharma,1
+Laboratory Services,1
+E-Commerce,1
+Tax Resolution,1
+Medical Education,1
+Mechanical Service,1
+Mechanical Design Engineering,1
+Broadcast Technology,1
+Digital Manufacturing,1
+Office Services,1
+Tolling and Traffic,1
+Materials,1
+Health PMO,1
+Biomedical Research,1
+Engineering and Construction,1
+Technical Service,1
+Bakery Operations,1
+Climate Change and Sustainable Development,1
+Commercial Real Estate,1
+Enterprise Risk Management,1
+Consumer Appliances,1
+HVAC/R,1
+Chemicals,1
+Naval Power Systems,1
+Healthcare Services,1
+Aero-Defense,1
+Political Engagement,1
+Finance & Administration,1
+Telehealth,1
+Biomedical Informatics,1
+Talent Development,1
+Accounting & Finance,1
+Quality Management,1
+P&C Operations,1
+Dispute Resolution,1
+Marine,1
+Trust & Safety,1
+Creative Design,1
+Pharmaceutical and Chemical Manufacturing,1
+Women's Health,1
+Store Operations,1
+Innovation & Engineering,1
+Development,1
+Business Process Services,1
+Non-Nursing,1
+Environmental & Occupational Health & Safety,1
+Executive Office,1
+Building Solutions,1
+Ecommerce,1
+Design and Construction,1
+Semiconductor,1
+Government/Politics,1
+Arts and Culture,1
+BioPharmaceutical,1
+Business to Business,1
+Customer Service / Sales,1
+Rehabilitation,1
+Delivery,1
+Retail and Service,1
+Facilities Operations,1
+Personal Care,1
+Content Marketing,1
+Guest Services,1
+Wildlife Conservation,1
+Medical Surgical,1
+Marine Trades,1
+CMC Operations,1
+Claims Administration,1
+Pharmaceutical/Biotechnology,1
+Electro-Optical Imaging and Sensor Systems,1
+Warehouse & Fleet,1
+UX Research,1
+Soft Home Decor & Textile,1
+Scientific Research,1
+Distribution Centers,1
+International Development,1
+Primary Care Medicine,1
+Building/Grounds,1
+Health IT,1
+Wellness Transformation,1
+Civil and Environmental Business,1
+Growth,1
+Maintenance and Repair,1
+Customer Service & Support,1
+Life Science Consulting,1
+Financial Crimes Compliance,1
+Animal Hospital,1
+AI Technology,1
+Taxation,1
+Trading & Shipping,1
+Manufacturing Technology,1
+Unconventional Resources,1
+Grants Research,1
+Physical Sciences,1
+Water Infrastructure,1
+Financial Aid,1
+UX Design,1
+Video Production,1
+IT Security,1
+"State, Local Government, and Education",1
+Fashion & Apparel,1
+Sourcing,1
+Business Support,1
+Health and Social Services,1
+Financial Brokerage,1
+Graphics,1
+Institutional Advancement,1
+Application Development,1
+Network Security,1
+Mechanical & Chemical Engineering,1
+Energy Efficiency,1
+Internal Communications,1
+Art & Design,1
+Water & Wastewater Treatment,1
+Commercial Millwork,1
+Trust and Safety,1
+Acute Care,1
+Environmental Policy,1
+Environment & Ecology,1
+Program Management / Construction Management,1
+Religious Leadership,1
+Property & Casualty Insurance,1
+Advisory,1
+Biz Dev,1
+Enrollment,1
+Athletics,1
+MEP Planning and Design,1
+Environmental Solutions,1
+Food Retail,1
+Clerical and Administrative,1
+Information Management,1
+Technical Services,1
+Lease Operations,1
+Aesthetic,1
+Travel Management,1
+E-commerce,1
+Veterinary Medicine,1
+Orthopedics,1
+Media Production,1
+Operational Services,1
+Mining & Metals,1
+Customer Service / Operations,1
+Food and Nutrition,1
+IT and Business Analytics,1
+Sales & Operations,1
+Railway Construction,1
+"Nuclear, Security & Environmental",1
+Nondestructive Testing,1
+Protection Services,1
+Event Planning,1
+Industial,1
+Sanitation,1
+Digital Health,1
+Civil/Construction/Structural Engineering,1
+Police Services,1
+Manual Labor,1
+Architecture and Construction,1
+Airlines,1
+Environmental Sustainability,1
+Product Lifecycle,1
+Semiconductors,1
+Construction and Development,1
+Agribusiness,1
+Casino,1
+Retail Design,1
+Digital Design,1
+Application Services,1
+Telecom,1
+Hotel Management,1
+HR/IT,1
+Merchandise Planning,1
+Supply Chain Logistics,1
+Financial Sector,1
+Home Improvement,1
+Railroad,1
+Environment Health & Safety,1
+Luxury Retail,1
+Physical & Rehabilitation Medicine,1
+Communication Security,1
+Built Environment,1
+Air Transportation,1
+Managed Care,1
+Medical Physics,1
+Education and Training,1
+Heavy Industrial Construction,1
+Residential Services,1
+IT Operations,1
+Partnerships,1
+Entertainment Industry,1
+Theater,1
+Property,1
+Core Lab,1
+CPG/Food & Bev,1
+"Arts, Entertainment, and Media",1
+Beauty & Skincare,1
+Corporate Risk,1
+Non-Tech,1
+Program Management,1
+Government Contracting,1
+Nuclear Energy,1
+People Experience and Technology (PXT),1
+Medical-Surgical,1
+Media and Telecommunications,1
+Technical Operations,1
+Analysis,1
+Industrial Tools,1
+General,1
+Home Health,1
+Content,1
+Personal,1
+Administrative Services,1
+Rail Operations,1
+Global Banking,1
+Psychiatry,1
+Manufacturing/Industrials,1
+Strategy & Planning,1
+Health Care Management,1
+Protection,1
+Technology - Aerospace,1
+Real Estate Law,1
+Process Development,1
+Music & Arts,1
+Network Services,1
+Analytics & Intelligence,1
+Customer Support Services,1
+Political Campaign,1
+Philanthropy,1
+Planning,1
+Banking & Financial Services,1
+Arts and Design,1
+Digital Technology,1
+Advanced Data Science,1
+Lending,1
+Electrical/Computer Engineering,1
+Analytics & Strategy,1
+Mechatronics,1
+Manufacturing and Distribution,1
+Scientific Research and Development,1
+Construction & Real Estate Litigation,1
+Government Contracts,1
+IT and Business,1
+IT/ITS,1
+Industrial Machinery Manufacturing,1
+Animal and Food Sciences,1
+Product Development,1
+Consulting and Investment Banking,1
+Energy Efficiency and Green Building,1
+Workforce Solutions,1
+New Business Development,1
+Cargo,1
+Medical Device Repair,1
+Nuclear Services,1
+Telecom & IT,1
+Real Estate Finance,1
+Language Services,1
+Industrial Design,1
+Medical Device Manufacturing,1
+Housing Services,1
+Surveying,1
+Finance/Accounting,1
+Food & Beverages,1
+Permanency,1
+Power & Utilities,1
+Religious,1
+IT Services,1
+Food,1
+Client Information Services,1
+Science Research,1
+Occupational Safety,1
+Construction and Contracting,1
+Engineering & Maintenance,1
+Hospitality and Food Service Sales,1
+Client Experience,1
+Medical Treatment,1
+Arts and Creative,1
+Humanitarian,1
+Content Management,1
+HR/Labor,1
+Facility Solutions,1
+Supply Logistics,1
+Chemical and Oil & Gas,1
+Legal and Compliance,1
+Products & Publishing,1
+Data Quality,1
+Technology Advisory,1
+Database Admin and Shared Platform Services,1
+Landscaping,1
+Entertainment and Media,1
+Materials Engineering,1
+Sales & Use Tax,1
+EHSQ,1
+Business Optimization,1
+Corporate Strategy,1
+Construction/Engineering,1
+Digital Engineering,1
+Media and Public Communications,1
+Employee Benefits,1
+Youth Support Services,1
+Therapeutics Discovery,1
+Public Policy,1
+Financial Analysis,1
+Banking and Financial Services,1
+Renewable Fuels,1
+CPG/MED Device Manufacturing,1
+Energy Engineering,1
+Merchandise,1
+Financial Crimes,1
+Commercial Performance,1
+Auto,1
+Care,1
+Oncology,1
+Community Health,1
+Pharmaceutical and Medical Device,1
+Private Investigation,1
+Safety and Environmental,1
+Crafts and Trades,1
+Underwriting & Compliance,1
+Writing/Communications,1
+Language Processing,1
+Genomic Medicine,1
+Land Warfare,1
+Industrial 3D Printing,1
+e-Commerce,1
+Private Capital Markets,1
+Rehabilitation Therapy,1
+Sports Media,1
+Auditing,1
+Energy & Chemicals,1
+Global Asset Management,1
+Financial Services and Technology,1
+Loan Origination,1
+Logistics & Supply Chain,1
+IT Professional Services,1
+"Energy, Manufacturing, Bioprocessing",1
+Academic Administration,1
+Aerospace and Technology,1
+Client Relations,1
+Food Inspection,1
+Cultural Resources,1
+"Energy, Manufacturing & Bioprocessing",1
+Janitorial,1
+Regulatory,1
+Health Sciences,1
+Financial Reporting,1
+Nuclear,1
+Art,1
+Pharmaceutical Industry,1
+Hardware Design,1
+Hardware Engineering,1
+Analytical Chemistry,1
+Airport Operations,1
+Floor Coatings,1
+Automation,1
+Emergency Management,1
+Heavy Equipment,1
+Psychosis Research,1
+Systems Engineering Consulting,1
+Trades,1
+Data & Insights,1
+Data Engineering & Architecture,1
+Technology Consulting,1
+Manufacturing and Production,1
+Data Science Consulting,1
+Digital Content,1
+Strategic Field Operations,1
+Watershed Management,1
+Catering,1
+Biopharmaceuticals,1
+Freight & Logistics,1
+Residential Property Management,1
+Community Medicine,1
+Revenue Operations,1
+Skilled Labor,1
+Production Operations and Engineering,1
+Health Systems for Tuberculosis,1
+Cyber Consulting,1
+Equipment Services,1
+Rental,1
+Materials Science and Engineering,1
+Real Estate and Land Development,1
+Digital & Tech,1
+Television,1
+Event Technology,1
+Vehicle Maintenance,1
+Network Management,1
+Investments,1
+Auto Service,1
+Network Operations,1
+Spa Services,1
+Auto Services,1
+Strategy & Transformation Consulting,1
+Health and Medicine,1
+Legal & HR,1
+Reservations,1
+Consumer Products,1
+Audit Services,1
+Data Entry,1
+Petroleum Engineering,1
+Housing Development,1
+Operations and Production,1
+Autism Services,1
+Beauty and Skincare,1
+Logistics/Supply Chain,1
+CPG,1
+Transportation/Logistics,1
+Molecular Biology,1
+Outreach,1
+Retail Sales,1
+Youth and Family Services,1
+Business Transformation,1
+Mental Health Counseling,1
+Therapist,1
+Mortgage,1
+Carpentry,1
+Heavy Equipment Operations,1
+Medical Device Design,1
+Financial Crime,1
+Mechanical Services,1
+Defense Industry,1
+Healthtech,1
+Analytical Development,1
+Advertising Technology,1
+Broadcast Operations,1
+Automotive & Industrial Equipment,1
+Microsoft Dynamics,1
+Museum,1
+Cold Chain Solutions,1
+Housing,1
+Medical Strategy,1
+IT and Cybersecurity,1
+Biomedical Sciences,1
+insurance,1
+Journalism,1
+Disaster Recovery,1
+Grooming,1
+Pet Grooming,1
+Pet Services,1
+Facility Operations,1
+Internet,1
+Government Affairs,1
+Elderly Care,1
+Community Engagement,1
+Import & Food Safety,1
+Furniture,1
+Securities,1
+Tourism,1
+Promotional Products,1
+Plumbing,1
+Green Energy Solutions & Tech Tools,1
+Clinical Research Admin,1
+Fashion PR,1
+Logistics/Distribution,1
+Laundry Services,1
+Family Office Services,1
+Epidemiology,1
+Fintech,1
+"Administration, Facilities & Secretarial",1
+Health Equity,1
+Regulatory Compliance,1
+Cyber Application Security,1
+Petcare,1
+Quantitative Trading,1
+Power Distribution & Control Systems,1
+Salon Industry,1
+Gaming and Wagering,1
+General Management,1
+Financial Advisory,1
+Behavioral Healthcare,1
+Business Analytics,1
+Arts & Culture,1
+Renewable Energy and Power,1
+Janitorial Services,1
+Learning and Development,1
+Nutrition,1
+Health & Fitness,1
+Biological Sciences,1
+Payroll,1
+Compensation & Benefits,1
+Science & Clinical,1
+Community Initiatives,1
+Legal/Compliance,1
+PR,1
+Arts & Design,1
